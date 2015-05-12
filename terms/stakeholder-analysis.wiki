@@ -1,0 +1,64 @@
+[[Category:Methods]]
+'''Stakeholder Analysis''' is a technique to identify and assess the importance and interests of key people, groups, or institutions, usually in relation to specific policies, programs or communities. It is good for investigating and analyzing the interests, roles and responsibilities of different stakeholders, and impacts that policies may have on them.<ref name="Payne et. al 2004">Payne, Geoffrey; Majale, Michael (eds). 2004. ''The Urban Housing Manual: Making Regulatory Frameworks Work for the Poor.'' London: Earthscan.</ref> 
+
+A stakeholder analysis can help planners, policy makers and researchers to identify the range of groups of people who might be affected, either negatively or positively, by a project or policy. It can also help to identify any groups who will be overlooked, or excluded from the policy. When trying to implement change or initiate an activity a stakeholder analysis can help to identify groups in favor of change, groups who might resist change, useful commonalities of interest to build on and any potential conflicts of interest.<ref name="Payne et. al 2004" /> 
+
+Potential stakeholders when studying issues related to urban housing are residents living in a range of formal and informal tenure categories in the context (such as owners, renters and the homeless), planning and development officials, housing developers and suppliers, professionals such as architects and lawyers, local and national politicians, finance and credit institutions and representatives of NGOs and CBOs.<ref name="Payne et. al 2004" /> 
+
+It is often useful to do a stakeholder analysis at the beginning of the research cycle, clarifying what key questions should be asked and to whom they should be addressed. A stakeholder analysis can be done using a variety of methods including reviews of documentation, [[Interviews]], [[Focus Group Discussions]] and other [[Participatory Research Tools]].<ref name="Payne et. al 2004" /> 
+
+==Implementation: Example==
+
+===Step-by-Step Process===
+
+<ol>
+<li>Undertake a desk-top review of all relevant documentation.</li>
+<li>List all the parties who you believe have a stake in the issues to be addressed at different levels and by type (from households through to national or even international institutions). List their believed roles and responsibilities. When doing a regulatory audit this should include the designers and implementers of policies, the groups impacted by policies and champions of change in those policies.</li>
+<li>Have open-ended interviews with individuals who you believe represent the parties you have listed. Ask them to confirm your understanding of their stake in the issues and to suggest others who should be consulted.</li>
+<li>Invite representatives of all the stakeholders you have listed to a workshop, participatory appraisal discussion group or focus group discussion.</li>
+<li>Using a mind-map tool, ask participants to map out on flip charts how they see their position in the sector in relation to others, using arrows to indicate where one group controls or influences another. A [[Venn Diagram]] can also be used for this. Ask them to indicate how information or knowledge about access (to land, credit, leverage, returns) flows and where there are bottlenecks. You could now ask participants to draw a new “bottom line” chart showing only those stakeholders who absolutely need to be involved and what the ideal relationships between them should be. (Record the discussion between them as this is often more interesting than the final outcome drawn on the flip charts).</li>
+<li>Using these various sources of information a stakeholder table or matrix can be completed.</li> 
+
+Later in the research cycle when policy recommendations have been generated, a stakeholder analysis could be undertaken again to analyze the potential impacts of these recommendations on stakeholders and possible barriers to change.<ref name="Payne et. al 2004" /> 
+
+
+===Examples of Questions=== 
+
+*How many local groups or institutions are there? Who participates in them? e.g. elders, women, traders. What are their purposes? 
+*Who occupies leadership positions? Are leadership positions dominated by a particular social group, (e.g. high caste, wealthy, elderly, men)? 
+*Which institutions have had achievements related to meeting community development needs? 
+*What external institutions have an impact on the community? What are their purposes? 
+*Which local institutions have links with these outside institutions? For what purposes? What flows of information, resources and power are there between the institutions?<ref name="Payne et. al 2004" /> 
+
+
+
+To view examples of potential stakeholder analysis tables please follow this link. 
+A table for identifying institutional responsibilities for regulatory frameworks can also be accessed here. 
+Instructions for and examples of the mind mapping tool and other participatory tools which can be used for a stakeholder analysis can be accessed here. 
+
+
+==Citations==
+
+<references />
+
+
+==Further Reading ==
+
+*Borrini-Feyerabend, G.; Brown, M. "Social actors and stake-holders," ''IUCN World Conservation, Social Policy Programme, Beyond Fences: Seeking Social Sustainability in Conservation'' (Section 4). Concept files. ''Available at:'' http://www.iucn.org/themes/spg/beyond_fences/bf_section4_1.html 
+*Borrini-Feyerabend, G.; Farvar, M. T.; Nguinguiri, J. C.; Ndangang, V. A. 2000. ''Co-management of Natural Resources: Organising, Negotiating and Learning-by-Doing, GTZ and IUCN.'' Heidelberg, Germany: Kasparek Verlag. ''Available at:'' http://nrm.massey.ac.nz/changelinks/cmnr.html 
+*Brocklesby, M.; Ambrose, B.; Tekwe, Charles. "Developing participatory forest management: the user group analysis on Mount Cameroon." http://www.earthwatch.org/europe/limbe/particmgmt.html#Heading126 
+*Chevalier, J. 2001. ''Natural Resource Project/Conflict Management: Stakeholders Doing "Class" Analysis.'' Ottawa: Carleton University. ''Available at:'' http://www.carleton.ca/~jchevali/STAKEH2.html 
+*[http://idpm.man.ac.uk/cprc/CPToolbox/Politicalapproaches.htm Chronic Poverty Research Tool box] 
+*Clayton, A.; Oakley, P.; Pratt, B. 1998. ''Empowering People: A Guide to Participation.'' New York: United Nations Development Programme, Civil Society Organizations and Participation Programme (UNDP/CSOPP). pp. 58. ''Available at:'' http://www.undp.org/csopp/paguide3.htm 
+*Dick, B. 1997. ''Stakeholder Analysis'' [Web page.] Action Research (Australia) Southern Cross University, Graduate College of Management. ''Available at:'' http://www.scu.edu.au/schools/gcm/ar/arp/stake.html 
+*Grimble, R. 1998. "Stakeholder methodologies in natural resource management," ''Socio-economnic methodologies best practice guidelines.'' NRI/DFID. 
+*Grimble, R.; Man-Kwun Chan; Aglioby, J.; Quan, J. 1995. "Trees and Trade-offs: A Stakeholder Approach to Natural Resource Management," ''International Institute for Environment and Development, Gatekeeper Series'' (No. 52). pp. 19. 
+*IIED 'Power Tools' in Stakeholder Power Analysis. International Institute for Environment and Development, Forestry and Land Use,http://www.iied.org/forestry/tools/stakeholder.html 
+*IIRR. 1998. ''Participatory Methods in Community-Based Coastal Resource Management'' (Vol 3). Silan, Cavite, Philippines: International Institute of Rural Reconstruction. 
+*Montgomery, R. 1995. ''Guidance note on stakeholder analysis for aid projects and programmes.'' London: Overseas Development Agency (ODA).
+*Overseas Development Agency (ODA). 1995. ''Guidance Note On How To Do Stakeholder Analysis Of Aid Projects And Programmes.'' Overseas Development Administration. ''Available at:'' http://www.oneworld.org/euforic/gb/stake1.htm 
+*Overseas Development Institute (ODI). 1996. "Socio-Economic Methods In Natural Resources Research," compiled by John Farrington, ''Natural Resource Perspectives 9.'' Overseas Development Institute. ''Available at:'' http://www.odi.org.uk/nrp/9.html 
+*Oudman, R.; Vos, A.M.; Biesboer, j. 1998. ''Stakeholder Analysis: A Review.'' Paris: Centre de Recherche en Informatique, Université de Paris. ''Available at:'' http://panoramix.univ-paris1.fr/CRINFO/dmrg/MEE98/misop001/Background&context.html 
+*Pasteur, K. 2001. ''Tools for Sustainable Livelihoods: Policy Analysis.'' Sussex: Institute of Development Studies. 
+*World Bank Group PRS (Poverty Reduction Strategy). ''TN 5: Conducting a Stakeholder Analysis.'' ''Available at:'' http://www.worldbank.org/participation/tn5.htm
+

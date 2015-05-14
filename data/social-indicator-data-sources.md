@@ -1,7 +1,7 @@
 title: social indicator data
-date: 2008-01-15
-category: terminology
-tag: data, data sources
+date: 2007-02-13
+category: data
+tag: data sources, social indicators, M&E
 slug: social-indicator-data
 summary: : data describing social conditions;<br /> <strong>note:</strong> <em>this post presents several social indicator databases and briefly describes their content</em>
 

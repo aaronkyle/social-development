@@ -4,7 +4,6 @@ category: terminology
 tags: IFC, sustainability policy
 slug: performance-standards
 summary: : policy guidlines for how to identify, avoid, mitigate, and manage environmental and social risks and impacts
-slug: performance-standards
 
 <!--
 icon: file-code-o

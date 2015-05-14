@@ -14,5 +14,6 @@ summary:
 
 ## References
 
-[1]<ref>Princeton University. 2012. “[Resettlement](http://wordnetweb.princeton.edu/perl/webwn?s=resettlement)”. Word Net. [*Last Accessed*: 10/8/2013]</ref>
+[1]<ref>Princeton University. 2012. “[Resettlement](http://wordnetweb.princeton.edu/perl/webwn?s=resettlement)”. Word Net. 
+<br /> [*Last Accessed* 10/8/2013]</ref>
 

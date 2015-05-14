@@ -35,7 +35,7 @@ multi-method research
 
 * Jick, Todd D. 1979. "[Mixing Qualitative and Quantitative Methods: Triangulation in Action](http://faculty.washington.edu/swhiting/pols502/Jick.pdf)". Cornell University. 
 * Olsen, Wendy. "[Triangulation in Social Research: Qualitative and Quantitative Methods Can Really be Mixed](http://research.apc.org/images/5/54/Triangulation.pdf)". In Holborn, Ormskirk (eds.). 2004. *Developments in Sociology*. Causeway Press.
-* Wikipedia. n.d. "[Triangulation (social science)](http://en.wikipedia.org/wiki/Triangulation_(social_science))".  [Date of last access: 2015-Feb-02; Date last modified: 6 November 2014, at 16:53.]
+* Wikipedia. n.d. "[Triangulation (social science)](http://en.wikipedia.org/wiki/Triangulation_(social_science))". <br /> [*Last Accessed* 2015-Feb-02; Date last modified: 6 November 2014, at 16:53.]
 
 
 ### Citations:

@@ -1,7 +1,7 @@
 title: project-related corporate loans
-date:
+date: 2013-08-25 11:07
 category: terminology
-tags: 
+tags: equator principles
 slug: project-related-corporate-loans
 status: draft
 
@@ -16,6 +16,8 @@ Project-Related Corporate Loans are corporate loans, made to business entities (
 * Documentation for the loan indicates that the majority of the proceeds of the total loan are directed to the Project. Such documentation may include the term sheet, information memorandum, credit agreement, or other representations provided by the client into its intended use of proceeds for the loan. 
  
 It includes loans to government-owned corporations and other legal entities created by a government to undertake commercial activities on behalf of the government, but excludes loans to national, regional or local governments, governmental ministries and agencies. 
+
+### References
 
 http://www.equator-principles.com/resources/equator_principles_III.pdf
 

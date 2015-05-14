@@ -1,8 +1,8 @@
 title: replacement cost of public structures
-date:
+date: 2007-02-13 06:54
 category: terminology
-tags: 
-slug: public-structure-replacement-cost
+tags: land acquisition, compensation
+slug: replacement-cost-public-structure
 
 <!--
 icon: file-code-o
@@ -13,4 +13,5 @@ The **replacement cost of public structures** is calculated as the cost of purch
 
 ### References
 
-<ref>International Finance Corporation. 2006. "Glossary of Terms." *[IFC Policy & Performance Standards and Guidance Notes](http://www.ifc.org/wps/wcm/connect/9a9464804885598c8364d36a6515bb18/Glossary%2Bof%2BTerms.pdf?MOD=AJPERES&attachment=true&id=1322803900995)*. Washington D.C.: International Finance Corporation. [Accessed 1 November 2013]</ref>
+<ref>International Finance Corporation. 2006. "Glossary of Terms." *[IFC Policy & Performance Standards and Guidance Notes](http://www.ifc.org/wps/wcm/connect/9a9464804885598c8364d36a6515bb18/Glossary%2Bof%2BTerms.pdf?MOD=AJPERES&attachment=true&id=1322803900995)*. Washington D.C.: International Finance Corporation.
+<br /> [*Last Accessed* 1 November 2013]</ref>

@@ -31,7 +31,7 @@ In a rule-based system, a meta-rule is a rule that governs the application of ot
 
 
 
-### References:
+### References
 
 * Bartlett, Tom. 2014. *[Analysing Power in Language: A Practical Guide](https://books.google.com/books?id=wSysAgAAQBAJ&source=gbs_navlinks_s)*. Abingdon: Routledge.
 

@@ -13,5 +13,5 @@ The term **stakeholders** refers to all individuals and/or groups who can reason
 
 ### References
 
-1. World Bank. n.d. "[Social Analysis: Glossary of key terms](http://go.worldbank.org/HSXB13LCA0)." World Bank Website. Washington D.C.: The World Bank. Available online at: http://go.worldbank.org/HSXB13LCA0 [Last accessed: 22 October 2013].
+1. World Bank. n.d. "[Social Analysis: Glossary of key terms](http://go.worldbank.org/HSXB13LCA0)." World Bank Website. Washington D.C.: The World Bank. Available online at: http://go.worldbank.org/HSXB13LCA0 <br /> [*Last Accessed* 22 October 2013].
 

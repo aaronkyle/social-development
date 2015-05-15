@@ -3,6 +3,7 @@ date: 2010-07-27 17:12
 category: terminology
 tags: World Bank, IFC PS8
 slug: cultural-heritage
+summary: : any non-renewable resource possessing cultural, scientific, spiritual or religious value
 
 <!--
 summary: 

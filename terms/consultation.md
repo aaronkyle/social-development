@@ -3,7 +3,7 @@ date: 2005-10-13
 category: terminology
 tags: engagemment, IFC, IFC PS1
 slug: consultation
-summary: a process of two-way communication between project developers and stakeholders in which views, preferences, and information are exchanged in a culturally appropriate manner, within locally-appropriate time frames, and using locally-understood languages and communication formats
+summary: : a process of two-way communication between project developers and stakeholders in which views, preferences, and information are exchanged in a culturally appropriate manner, within locally-appropriate time frames, and using locally-understood languages and communication formats
 
 
 The term **consultation** refers to a process of two-way communication between project developers and stakeholders in which views, preferences, and information are exchanged in a culturally appropriate manner, within locally-appropriate time frames, and using locally-understood languages and communication formats.

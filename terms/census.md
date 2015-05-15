@@ -14,6 +14,6 @@ The official process of counting a population of a given jurisdiction, such as a
 
 ### References
 
-* Merriam Webster Inc. n.d. "Census." Merriam-Webster.com. Springfield: Merriam-Webster, Inc. Available online at: http://www.merriam-webster.com/dictionary/census [Accessed: 22 October 2013].
+* Merriam Webster Inc. n.d. "[Census](http://www.merriam-webster.com/dictionary/census)". Merriam-Webster.com. Springfield: Merriam-Webster, Inc. Available online at: http://www.merriam-webster.com/dictionary/census [Accessed: 22 October 2013].
 
 

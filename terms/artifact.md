@@ -10,7 +10,7 @@ summary: : a portable object that is created by past human activity
 summary: 
 -->
 
-A portable object that is created by past human activity and becomes part of an archaeological site or isolated archaeological find. Most archaeological artifacts lose substantial cultural and scientific value when removed from their ‘context’ in the ground. Archaeological artifacts, in context or not, are most often the property of the national government. Their scientific collection and use is controlled through a permitting process administered by national heritage authorities. National law and international treaty forbid the sale and export of archaeological artifacts. An object removed from an historic structure will have the same legal status as an archeological artifact.
+The term **artifact** refers to a portable object that is created by past human activity and becomes part of an archaeological site or isolated archaeological find. Most archaeological artifacts lose substantial cultural and scientific value when removed from their ‘context’ in the ground. Archaeological artifacts, in context or not, are most often the property of the national government. Their scientific collection and use is controlled through a permitting process administered by national heritage authorities. National law and international treaty forbid the sale and export of archaeological artifacts. An object removed from an historic structure will have the same legal status as an archeological artifact.
 
 
 ### References

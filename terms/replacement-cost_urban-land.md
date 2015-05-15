@@ -3,7 +3,7 @@ date: 2007-02-13 06:54
 category: terminology
 tags: land acquisition, compensation
 slug: replacement-cost-urban-land
-
+summary: : the market value of land of equivalent area and use, with similar or improved infrastructure and services preferably located in the vicinity of the affected land, plus transaction costs such as registration and transfer taxes
 
 The **replacement cost of urban land** is calculated as the market value of land of equivalent area and use, with similar or improved infrastructure and services preferably located in the vicinity of the affected land, plus transaction costs such as registration and transfer taxes.
 

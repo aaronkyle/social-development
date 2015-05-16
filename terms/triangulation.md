@@ -12,7 +12,6 @@ summary:
 published: true
 comments: true
 --->
-
 The term **'triangulation'** is used by social scientists to describe the technique of integrating multiple lines of investigation and analysis of a topic of inquiry to ensure the integrity of data sources, to enhance the insights of analytical inquiry, as well as to enhance confidence in the ensuing findings.[^1]
 
 Triangulation can be used in both quantitative (validation) and qualitative (inquiry) studies, and it can be used to integrate both.[^2]  Triangulation helps overcome limitations imposed on qualitative studies via sampling criteria for reliability and validity combining multiple observers, theories, methods, and empirical materials, researchers can hope to overcome the weakness or intrinsic biases and the problems that come from single method, single-observer and single-theory studies.
@@ -38,7 +37,7 @@ multi-method research
 * Wikipedia. n.d. "[Triangulation (social science)](http://en.wikipedia.org/wiki/Triangulation_(social_science))". <br /> [*Last Accessed* 2015-Feb-02; Date last modified: 6 November 2014, at 16:53.]
 
 
-### Citations:
+### Citations
 
 [^1]: Bryman, Alan. n.d. "[Types of Triangulation](http://www.referenceworld.com/sage/socialscience/triangulation.pdf)".
 [^2]: Yeasmin, Sabina and Khan Ferdousour Rahman. 2012. "['Triangulation' Research Method as the Tool of Social Science Research](http://www.bup.edu.bd/journal/154-163.pdf)" BUP Journal, Volume 1, Issue 1, September 2012, ISSN: 2219-4851

@@ -22,7 +22,7 @@ comments: true
 ---
 --->
 
-The term ‘social analysis’ refers to the practice of analyzing a situation or social issue, problem or trend through objective, systematic exploration&mdash;often with the aim of prompting changes in the situation being analyzed. [For the World Bank in particular](http://www.worldbank.org/en/topic/communitydrivendevelopment/brief/cdd-economic-social-analysis), "social analysis is a process that aims to identify the social dimensions of projects, as well as analyze the different stakeholder perspectives and priorities".
+The term **social analysis** refers to the practice of analyzing a situation or social issue, problem or trend through objective, systematic exploration&mdash;often with the aim of prompting changes in the situation being analyzed. [For the World Bank in particular](http://www.worldbank.org/en/topic/communitydrivendevelopment/brief/cdd-economic-social-analysis), "social analysis is a process that aims to identify the social dimensions of projects, as well as analyze the different stakeholder perspectives and priorities".
 
 Social issuse include such topics as cost of and access to healthcare, quality and content of educational programmes, the capacity and coverage of infrastructure and basic services, etc.  Social problems are situation that are viewed by community members as being undesirable, such as increases in criminality, exposure to risks of environmental pollution, the decline of locally-viable markets, job loss and job outsourcing, etc.
 

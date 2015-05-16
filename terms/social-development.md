@@ -16,7 +16,7 @@ published: true
 comments: true
 ---
 -->
-The term ‘social development’ refers in general to transformative processes of social change, usually intented to benefit human well-being.[^1][^2]
+The term **social development** refers in general to transformative processes of social change, usually intented to benefit human well-being.[^1][^2]
 
 Social development is a [meta-phenomenon](/terms/meta-phenomenon): an amalgamated concept that is something fundamentally distinct from the assembly of constituent parts. The term may refer variously linked to theorectical models or policy prescripts and operational principles that define a particular institutions vision of 'development', or it may refer to particular actions, programmes or activities that are implemented to realise a particular policy or policy framework. Moreover&mdash;just as with any concept that cliams to represent the interests of a [collective entity]() (such as a 'society')&mdash;the concept of social development takes on [heterogenious]() meanings underpinned by nuanced and implicit value systems. Some 'American' and 'European' values ascribed to the concept of social development, for example, are inclusion, cohesion, resilience, citizen security and accountability.
 
@@ -33,14 +33,14 @@ As a [field of practice](), social development involves the application of acade
 
 <!-- **NOTE:** The use of the term ‘social development’ as presented above differs substantially from how the term is used by other social science discourses (e.g. Marxism).-->
 
-### References and Further Reading:
+### References and Further Reading
 
 * [Social Development Theory (Lev Vygotsky)](http://www.instructionaldesign.org/theories/social-development.html)
 * Jacobs, Garry and Harlan Cleveland. 1999. International Center for Peace and Development. [Social Development Theory](http://www.icpd.org/development_theory/SocialDevTheory.htm). [November 1, 1999]
 * University College London. "Social Development Practice". https://www.ucl.ac.uk/silva/prospective-students/graduate/taught/degrees/social-development-practice-msc
 * University College London, *The Bartlett:* "Development Planning Unit". http://www.bartlett.ucl.ac.uk/dpu/programmes/postgraduate/msc-social-development-practice
 
-### Notes and Citations:
+### Notes and Citations
 
 [^1]: Wikipedia. n.d. [Social Development](http://en.wikipedia.org/wiki/Social_development_theory)
 [^2]: c.f.: Psychology Developmental [e.g. Hay, Dale and Elizabeth A. Lemerise and Amy Halberstadt (eds.) *[Social Development](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-9507)*. John Wiley & Sons Ltd. Online ISSN: 1467-9507]

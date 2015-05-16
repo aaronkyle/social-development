@@ -21,8 +21,7 @@ published: true
 comments: true
 ---
 --->
-
-Stakeholder analysis is a technique to identify and assess the importance and interests of key people, groups, or institutions usually in relation to specific policies, programmes or communities. Through stakeholder engagement and empirical research, analysis identify the range of people and social groups who might be affected by a project or policy&mdash;either negatively or positively. It is helpful when investigating and analysing the interests, roles and responsibilities of different stakeholders relative to a particular policy or investment decision. Stakeholder analysis is often undertaken early on during project planning to clarify key questions and to acertain public and community interests.
+**Stakeholder analysis** is a technique to identify and assess the importance and interests of key people, groups, or institutions usually in relation to specific policies, programmes or communities. Through stakeholder engagement and empirical research, analysis identify the range of people and social groups who might be affected by a project or policy&mdash;either negatively or positively. It is helpful when investigating and analysing the interests, roles and responsibilities of different stakeholders relative to a particular policy or investment decision. Stakeholder analysis is often undertaken early on during project planning to clarify key questions and to acertain public and community interests.
 
 <!--
 A stakeholder analysis can be done using a variety of methods including reviews of documentation, interviews, participatory research tools and focus groups.

@@ -17,14 +17,12 @@ categories: terminology, methods, data sources, data
 permalink: /temporality/
 published: true
 --->
-
 The term **temporality* carries two quite different meanings[1](http://www.oxforddictionaries.com/us/definition/american_english/temporality):
 
    1. the state of existing within or having some relationship with time;
    2. a secular possession, especially the properties and revenues of a religious body or a member of the clergy.
 
 Use of the term in 'social development' usually relates to discussions of time. Often, these discussion relate to human's perception of time and the social organization of time, though the term is occasionally also encountered in discussions of performance monitoring (e.g. the capacity of a given investment to sustain itself over time). 
-
 
 <!--
 
@@ -36,7 +34,7 @@ Social indicators data—when available—are commonly reported as one-year aggr
 
 ### Citations
 
-["Temporality"](http://www.oxforddictionaries.com/us/definition/american_english/temporality). *Oxford Dictionaries.*
+["Temporality"](http://www.oxforddictionaries.com/us/definition/american_english/temporality). *Oxford Dictionaries*.
 
 ### Further Readings
 

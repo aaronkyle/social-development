@@ -1,9 +1,10 @@
 title: biodiversity
 date: 2005-11-28
 category: terminology
-tags: sustainability, ecosystem services,
+tags: sustainability, ecosystem services, IFC, ADB
 slug: biodiversity
 summary: : variety of life in all its forms, including genetic, species and ecosystem diversity
+
 
 <!--
 summary: 

@@ -36,13 +36,14 @@ IFIs
 <a name="adb-policy"></a>
 ### Policy
 
-Investments of the Asian Development Bank must accord with the ADB's mandate . Investment decisions are made in deference to internal strategies for reaching developmental targets--the implementation of which is guided by a few key **'operational policies'** and **'development policies'**.  Borrower clients must comply with ADB policy and regulatory frameworks for avoiding and mitigating social and environmental risks as specified by the ADB's **'safeguard policy frameworks'**.
+Investments of the Asian Development Bank must accord with the ADB's mandate . Investment decisions are made in deference to internal strategies for reaching developmental targets--the implementation of which is guided by a few key **'operational policies'** and **'development policies'**.  Borrower clients must comply with ADB policy and regulatory frameworks for avoiding and mitigating social and environmental risks as specified by the ADB's **[safeguard policy statement](#adb-safeguards-policy )**.
 
-
+<a name="adb-safeguards-policy"></a>
 #### Safeguards Policy
 
 The safeguards policies of the Asian Development Bank seek to avoid, minimise, or mitigate harmful environmental and social risks, impacts, and costs that may result from ADB-financed development initiatives.  The current ADB policy, set out in the 2009 *[Safeguard Policy Statement](http://www.adb.org/site/safeguards/policy-statement)* (SPS), defines safeguard principles and outlines implemention and delivery processes for safeguard policy compliance. The SPS builds upon the three previous safeguard policies: the (2002) *[Environment Policy](http://www.adb.org/documents/environment-policy-asian-development-bank)*, the 1998 *[Policy on Indigenous Peoples](http://www.adb.org/documents/policy-indigenous-peoples)*, and the 1995 *[Policy on Involuntary Resettlement](http://www.adb.org/documents/policy-involuntary-resettlement)*. The SPS  brings them into one single policy that enhances consistency and coherence, and more comprehensively addresses environmental and social impacts and risks. [FN1](http://www.adb.org/documents/safeguard-policy-statement?ref=site/safeguards/publications).
 
+<ref>Asian Development Bank (ADB). 2009. January 2009 Safeguard Policy Statement (SPS). Manila: Asian Development Bank [p.1]. Available at : http://www.adb.org/Documents/Brochures/InBriefs/Safeguard-Policies.pdf [last accessed 01 May 2009]</ref>
 
 **Current Safeguard Policy Framework:**
 
@@ -71,7 +72,6 @@ The safeguards policies of the Asian Development Bank seek to avoid, minimise, o
 While safeguards policies are intended for risk avoidance, mitigation and management, other forms of social policy govern ADB development investments. These policies define the ADB's aspirational notion of 'social development' and clarify how aspirational aims can be realized in practice.
 
 
-
 ADB’s Policy on Gender and Development (GAD) is the guiding framework for gender and development activities. The Policy adopts gender mainstreaming as the key strategy for promoting gender equality and women’s empowerment across the full range of ADB operations—from country partnership strategies to the design and implementation of gender-inclusive projects and programs.
 
 Gender equality needs to be pursued in its own right and because it is critical for sustained economic growth, faster poverty reduction, and inclusive development. Under investments in women are missed opportunities to correct gender disparities and to capture and unleash the economic and human capital potential of women.
@@ -80,69 +80,7 @@ Hence, ADB’s long-term strategic framework—Strategy 2020 includes “promoti
 
 Periodic reviews of the GAD policy in 2002 Interim Progress Report on the Policy on GAD and 2006 GAD Policy Implementation Review confirm the Policy’s continued relevance and sound framework for supporting women’s empowerment and gender equality outcomes.
 
-
-
 The 2001 [Social Protection Strategy](http://www.adb.org/Documents/Policies/Social_Protection/default.asp) (SPS) is one such 'social development frameworks'.  The SPS establishes the meaning of 'social protection' wtih ADB operations as a as a set of policies and programs designed to reduce poverty and vulnerability by promoting efficient labor markets, diminishing people's exposure to risks, and enhancing their capacity to protect themselves against hazards and interruption/loss of income. Priority interventions under this framework are those supporting social assistance and welfare services, including child protection and micro- and area-based schemes for poverty and vulnerability rediction; social insurance programs to cushion risks associated with unemployment, ill-health, disability, work-related injury and old age; and labor market policies and programs designed to generate employment, improve working conditions.
-
-[Overview of social protection]()
-[Priorities for social protection]()
-[Operational Implications]()
-
-Appendixes
-
-
-
-**Current Development Policy Framework:**
-
-* [Strategy 2020: Working for an Asia and Pacific Free of Poverty (April 2008)](http://www.adb.org/documents/strategy-2020-working-asia-and-pacific-free-poverty) | [print](http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-print.pdf) | [board paper](http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-board-doc.pdf) | [brochure](http://www.adb.org/sites/default/files/institutional-document/32121/brochure-strategy2020.pdf)
-    - [Midterm Review of Strategy 2020 Action Plan](http://www.adb.org/documents/midterm-review-strategy-2020-action-plan)
-
-
-*[Policy on Gender and Development (June 2003)](http://www.adb.org/documents/policy-gender-and-development)
-    - 2006. [Implementation Review of the Policy on Gender and Development](http://www.adb.org/documents/implementation-review-policy-gender-and-development)
-    - 2002. [Interim Progress Report on the Policy on Gender and Development](http://www.adb.org/documents/interim-progress-report-policy-gender-and-development)
-* [Policy on Gender and Development](http://www.adb.org/documents/policy-gender-and-development) | Institutional Document | June 2003 | [PDF](http://www.adb.org/sites/default/files/institutional-document/32035/gender-policy.pdf)
-
-* [Social Protection Strategy](http://www.adb.org/documents/social-protection-strategy) (Institutional Document | January 2001)
-    - [Social Protection Operational Plan 2014−2020](http://www.adb.org/documents/social-protection-operational-plan-2014-2020) (December 2013)
-This operational plan provides strategic directions for ADB's support to its developing members to strengthen social protection systems.
-    - [Special Evaluation Study on ADB’s Social Protection Strategy](http://www.adb.org/documents/special-evaluation-study-adb-s-social-protection-strategy) (Evaluation Document | 7 November 2012)
-
-
-**Previous Development Policies:**
-
-2004 Poverty Reduction Policy
-
-*<strike>[Operations Manual Section F3/OP (13 May 2004)](http://www.adb.org/Documents/Manuals/Operations/OMF03_13may04.pdf)</strike>
-
-* [Operations Manual Section C1/BP Poverty Reduction (14 July 2004)](http://www.adb.org/documents/manuals/operations/OMC01_14jul04.pdf)
-
-[[NOTES: ADB 2004 Poverty Reduction Policy | (NOTES)]]
-
-
-* [Gender and Development Plan of Action Annual Implementation Progress Reports](http://www.adb.org/documents/series/gender-and-development-plan-action-annual-implementation-progress-reports) [Institutional Document | November 2002]
-
-* [Interim Progress Report on the Policy on Gender and Development](http://www.adb.org/documents/interim-progress-report-policy-gender-and-development)
-
-* [Implementation Review of the Policy on Gender and Development](http://www.adb.org/documents/implementation-review-policy-gender-and-development) | Institutional Document | November 2006
-
-
-
-
-
-
-====
-
-
-
-
-* [Strategy 2020: Working for an Asia and Pacific Free of Poverty (April 2008)](http://www.adb.org/documents/strategy-2020-working-asia-and-pacific-free-poverty) | [(PDF)](http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-print.pdf)
-
-    - [Midterm Review of Strategy 2020 Action Plan](http://www.adb.org/documents/midterm-review-strategy-2020-
-action-plan)
-
-* [Policy on Gender and Development (June 2003)](http://www.adb.org/documents/policy-gender-and-development) [[NOTES: ADB 2003 Gender and Development Policy | (NOTES)]]
-
 
 
 
@@ -230,22 +168,9 @@ MfDR promotes informed decision making by integrating a results focus across the
 Regular reporting to stakeholders to increase accountability and promote learning is intrinsic to effective MfDR.
 
 
-
-* [ADB Results Framework](http://www.adb.org/site/development-effectiveness/adb-results-framework)
-    - [ADB Results Framework 2013-2016: Quick Guide](http://www.adb.org/documents/adb-results-framework-2013-2016-quick-guide) | [PDF](http://www.adb.org/documents/adb-results-framework-2013-2016-quick-guide)
-    - [Results Framework Indicator Definitions](http://www.adb.org/documents/supplementary-appendix-a-indicator-definitions) | [PDF](http://www.adb.org/sites/default/files/institutional-document/33902/rf-indicator-definitions.pdf)
-    - [Standard Explanatory Data Definitions](http://www.adb.org/documents/supplementary-appendix-b-standard-explanatory-data-definitions) | [PDF](http://www.adb.org/sites/default/files/institutional-document/33903/rf-sed-definitions.pdf)
-    - [Review of the ADB Results Framework](http://www.adb.org/documents/review-adb-results-framework)
-    - [ADB’s Results Framework: Interim Update to Align with the Midterm Review of Strategy 2020](http://www.adb.org/documents/adb-results-framework-interim-update-mtr)  | [(PDF)](http://www.adb.org/sites/default/files/institutional-document/154037/adb-results-framework-interim-update.pdf)
-
-
-
-
 [Results of ADB-supported Operations](http://www.adb.org/site/development-effectiveness/results-adb-supported-operations)
 
 In pursuing its vision of an Asia and Pacific free of poverty, ADB employs its limited resources in its areas of comparative strength—the core areas of infrastructure, environment, regional cooperation and integration, finance sector development, and education, as identified by Strategy 2020. ADB also operates on a limited scale in other areas, including health, agriculture and natural resources, and public sector management, in partnership with other organizations. ADB operations are designed to support the three complementary agendas of inclusive economic growth, environmentally sustainable growth, and regional integration.
-
-
 
 ---
 
@@ -254,6 +179,38 @@ In pursuing its vision of an Asia and Pacific free of poverty, ADB employs its l
 
 
 ---
+
+
+
+**Current Development Policy Framework:**
+
+* [ADB Results Framework](http://www.adb.org/site/development-effectiveness/adb-results-framework)
+    - [ADB Results Framework 2013-2016: Quick Guide](http://www.adb.org/documents/adb-results-framework-2013-2016-quick-guide) | [PDF](http://www.adb.org/documents/adb-results-framework-2013-2016-quick-guide)
+    - [Results Framework Indicator Definitions](http://www.adb.org/documents/supplementary-appendix-a-indicator-definitions) | [PDF](http://www.adb.org/sites/default/files/institutional-document/33902/rf-indicator-definitions.pdf)
+    - [Standard Explanatory Data Definitions](http://www.adb.org/documents/supplementary-appendix-b-standard-explanatory-data-definitions) | [PDF](http://www.adb.org/sites/default/files/institutional-document/33903/rf-sed-definitions.pdf)
+    - [Review of the ADB Results Framework](http://www.adb.org/documents/review-adb-results-framework)
+    - [ADB’s Results Framework: Interim Update to Align with the Midterm Review of Strategy 2020](http://www.adb.org/documents/adb-results-framework-interim-update-mtr)  | [(PDF)](http://www.adb.org/sites/default/files/institutional-document/154037/adb-results-framework-interim-update.pdf)
+
+* [Strategy 2020: Working for an Asia and Pacific Free of Poverty (April 2008)](http://www.adb.org/documents/strategy-2020-working-asia-and-pacific-free-poverty) | [print](http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-print.pdf) | [board paper](http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-board-doc.pdf) | [brochure](http://www.adb.org/sites/default/files/institutional-document/32121/brochure-strategy2020.pdf)
+    - [Midterm Review of Strategy 2020 Action Plan](http://www.adb.org/documents/midterm-review-strategy-2020-action-plan)
+
+* [Policy on Gender and Development](http://www.adb.org/documents/policy-gender-and-development) (June 2003) | [PDF](http://www.adb.org/sites/default/files/institutional-document/32035/gender-policy.pdf) [[NOTES: ADB 2003 Gender and Development Policy | (NOTES)]] 
+    - 2006. [Implementation Review of the Policy on Gender and Development](http://www.adb.org/documents/implementation-review-policy-gender-and-development) | Institutional Document | November 2006
+    - [Gender and Development Plan of Action Annual Implementation Progress Reports](http://www.adb.org/documents/series/gender-and-development-plan-action-annual-implementation-progress-reports) [Institutional Document | November 2002]
+    - 2002. [Interim Progress Report on the Policy on Gender and Development](http://www.adb.org/documents/interim-progress-report-policy-gender-and-development)
+
+* [Social Protection Strategy](http://www.adb.org/documents/social-protection-strategy) (January 2001)
+    - [Social Protection Operational Plan 2014−2020](http://www.adb.org/documents/social-protection-operational-plan-2014-2020) (December 2013)
+This operational plan provides strategic directions for ADB's support to its developing members to strengthen social protection systems.
+    - [Special Evaluation Study on ADB’s Social Protection Strategy](http://www.adb.org/documents/special-evaluation-study-adb-s-social-protection-strategy) (Evaluation Document | 7 November 2012)
+
+
+**Previous Development Policies:**
+
+* Poverty Reduction Policy 2004 [[NOTES: ADB 2004 Poverty Reduction Policy | (NOTES)]]
+    - <strike>[Operations Manual Section F3/OP (13 May 2004)](http://www.adb.org/Documents/Manuals/Operations/OMF03_13may04.pdf)</strike>
+    - [Operations Manual Section C1/BP Poverty Reduction (14 July 2004)](http://www.adb.org/documents/manuals/operations/OMC01_14jul04.pdf)
+
 
 
 
@@ -270,16 +227,17 @@ The objective of this implementation review of the ADB GACAP II is to determine 
 
 
 * [Safeguard Categories](http://www.adb.org/site/safeguards/safeguard-categories)
+
    - [Project Classification System: Final Report](http://www.adb.org/documents/project-classification-system-final-report) | [PDF](http://www.adb.org/sites/default/files/institutional-document/42823/files/project-classification-system-final-report.pdf)
 
-* ''Project categorization forms are available for:''
+Project categorization forms are available for:
 
-** environment [[PDF]](http://www.adb.org/Documents/Guidelines/Environmental_Assessment/Environmental-Categorization-Form.pdf) [[Doc]](http://www.adb.org/Documents/Guidelines/Environmental_Assessment/Environmental-Categorization-Form.doc)
+* environment [[PDF]](http://www.adb.org/Documents/Guidelines/Environmental_Assessment/Environmental-Categorization-Form.pdf) [[Doc]](http://www.adb.org/Documents/Guidelines/Environmental_Assessment/Environmental-Categorization-Form.doc)
    - [Environment Safeguard](http://www.adb.org/site/safeguards/environment)
-** involuntary resettlement [[PDF]](http://www.adb.org/Documents/Guidelines/Resettlement/IR-Categorization-Form.pdf) [[Doc]](http://www.adb.org/Documents/Guidelines/Resettlement/IR-Categorization-Form.doc)
-** Indigenous Peoples [[PDF]](http://www.adb.org/Documents/Guidelines/IndigenousPeoples/IP-Categorization-Form-Jun2010.pdf) [[Doc]](http://www.adb.org/Documents/Guidelines/IndigenousPeoples/IP-Categorization-Form-Jun2010.doc)
+* involuntary resettlement [[PDF]](http://www.adb.org/Documents/Guidelines/Resettlement/IR-Categorization-Form.pdf) [[Doc]](http://www.adb.org/Documents/Guidelines/Resettlement/IR-Categorization-Form.doc)
+* Indigenous Peoples [[PDF]](http://www.adb.org/Documents/Guidelines/IndigenousPeoples/IP-Categorization-Form-Jun2010.pdf) [[Doc]](http://www.adb.org/Documents/Guidelines/IndigenousPeoples/IP-Categorization-Form-Jun2010.doc)
 
-* Rapid Environment Assessment checklists for many different sectors are available [here](http://www.adb.org/documents/Guidelines/Environmental_Assessment/eaguidelines002.asp).
+Rapid Environment Assessment checklists for many different sectors are available [here](http://www.adb.org/documents/Guidelines/Environmental_Assessment/eaguidelines002.asp).
 
 
 * [Safeguards Documents](http://www.adb.org/site/safeguards/safeguards-documents)
@@ -292,8 +250,8 @@ The objective of this implementation review of the ADB GACAP II is to determine 
 *[Handbook on Social Analysis, A Working Document](http://www.adb.org/Documents/Handbooks/Social-Analysis/social-analysis-handbook.pdf) (Nov 2007)
 
 *[Public_Consultation_Information_Disclosure.pdf Implementation Notes on Public Consultation and Disclosure](http://www.adb.org/documents/guidelines/environmental_assessment/)
-
    - [Environment Safeguards: A Good Practice Sourcebook (Draft Working Document)](http://www.adb.org/documents/environment-safeguards-good-practice-sourcebook) [December 2012]
+
 
 #### Case Studies
 
@@ -377,9 +335,9 @@ Effective on January 1, 2012, our updates reflect the evolution in good practice
  
 The Sustainability Framework consists of
  
-The Policy on Environmental and Social Sustainability, which defines IFC's commitments to environmental and social sustainability.
-The Performance Standards, which define clients' responsibilities for managing their environmental and social risks.
-The Access to Information Policy, which articulates IFC's commitment to transparency.
+1. The Policy on Environmental and Social Sustainability, which defines IFC's commitments to environmental and social sustainability.
+1. The Performance Standards, which define clients' responsibilities for managing their environmental and social risks.
+1. The Access to Information Policy, which articulates IFC's commitment to transparency.
  
 Policies
  

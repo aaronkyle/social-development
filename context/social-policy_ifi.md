@@ -10,28 +10,30 @@ summary:
 
 IFIs
 
-  1 [Asian Development Bank]()<br />
+
+  1 [Asian Development Bank](#adb)<br />
       1.1 [Policy](#adb-policy)<br />
       1.2 [Implementation Resources]()<br />
-  2 [World Bank]()<br />
+  2 [World Bank](#world-bank)<br />
       2.1 [Policy](#world-bank-policy)<br />
       2.2 [Implementation Resources]()<br />
-  3 [Inter-American Development Bank]()<br />
+  3 [Inter-American Development Bank](#iadb)<br />
       3.1 [Policy](#iadb-policy)<br />
       3.2 [Implementation Resources]()<br />
-  4 [International Finance Corporation (IFC)]()<br />
+  4 [International Finance Corporation (IFC)](#ifc)<br />
       4.1 [Policy](#ifc-policy)<br />
       4.2 [Implementation Resources]()<br />
-  5 [European Bank for Reconstruction and Development]()<br />
+  5 [European Bank for Reconstruction and Development](#ebrd)<br />
       5.1 [Policy](#ebrd-policy)<br />
       5.2 [Implementation Resources]()<br />
-  6 [Overseas Private Investment Corporation (OPIC)]()<br />
+  6 [Overseas Private Investment Corporation (OPIC)](#opic)<br />
       6.1 [Policy](#opic-policy)<br />
 
 
-<a name="adb-policy"></a>
+<a name="adb"></a>
 ## Asian Development Bank
 
+<a name="adb-policy"></a>
 ### Policy
 
 Investments of the Asian Development Bank must accord with the ADB's mandate . Investment decisions are made in deference to internal strategies for reaching developmental targets--the implementation of which is guided by a few key **'operational policies'** and **'development policies'**.  Borrower clients must comply with ADB policy and regulatory frameworks for avoiding and mitigating social and environmental risks as specified by the ADB's **'safeguard policy frameworks'**.
@@ -66,56 +68,82 @@ The safeguards policies of the Asian Development Bank seek to avoid, minimise, o
 
 #### Development Policy
 
-In addition to the safeguards policies, other social development policy that governs SDB investment activities include:
+While safeguards policies are intended for risk avoidance, mitigation and management, other forms of social policy govern ADB development investments. These policies define the ADB's aspirational notion of 'social development' and clarify how aspirational aims can be realized in practice.
+
+
+
+ADB’s Policy on Gender and Development (GAD) is the guiding framework for gender and development activities. The Policy adopts gender mainstreaming as the key strategy for promoting gender equality and women’s empowerment across the full range of ADB operations—from country partnership strategies to the design and implementation of gender-inclusive projects and programs.
+
+Gender equality needs to be pursued in its own right and because it is critical for sustained economic growth, faster poverty reduction, and inclusive development. Under investments in women are missed opportunities to correct gender disparities and to capture and unleash the economic and human capital potential of women.
+
+Hence, ADB’s long-term strategic framework—Strategy 2020 includes “promoting gender equity” as one of the five drivers of change. The corporate results framework to measure performance includes concrete numerical gender targets to be met by 2012. Gender performance is tracked and reported annually.
+
+Periodic reviews of the GAD policy in 2002 Interim Progress Report on the Policy on GAD and 2006 GAD Policy Implementation Review confirm the Policy’s continued relevance and sound framework for supporting women’s empowerment and gender equality outcomes.
+
+
+
+The 2001 [Social Protection Strategy](http://www.adb.org/Documents/Policies/Social_Protection/default.asp) (SPS) is one such 'social development frameworks'.  The SPS establishes the meaning of 'social protection' wtih ADB operations as a as a set of policies and programs designed to reduce poverty and vulnerability by promoting efficient labor markets, diminishing people's exposure to risks, and enhancing their capacity to protect themselves against hazards and interruption/loss of income. Priority interventions under this framework are those supporting social assistance and welfare services, including child protection and micro- and area-based schemes for poverty and vulnerability rediction; social insurance programs to cushion risks associated with unemployment, ill-health, disability, work-related injury and old age; and labor market policies and programs designed to generate employment, improve working conditions.
+
+[Overview of social protection]()
+[Priorities for social protection]()
+[Operational Implications]()
+
+Appendixes
+
+
+
+**Current Development Policy Framework:**
+
+* [Strategy 2020: Working for an Asia and Pacific Free of Poverty (April 2008)](http://www.adb.org/documents/strategy-2020-working-asia-and-pacific-free-poverty) | [print](http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-print.pdf) | [board paper](http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-board-doc.pdf) | [brochure](http://www.adb.org/sites/default/files/institutional-document/32121/brochure-strategy2020.pdf)
+    - [Midterm Review of Strategy 2020 Action Plan](http://www.adb.org/documents/midterm-review-strategy-2020-action-plan)
+
+
+*[Policy on Gender and Development (June 2003)](http://www.adb.org/documents/policy-gender-and-development)
+    - 2006. [Implementation Review of the Policy on Gender and Development](http://www.adb.org/documents/implementation-review-policy-gender-and-development)
+    - 2002. [Interim Progress Report on the Policy on Gender and Development](http://www.adb.org/documents/interim-progress-report-policy-gender-and-development)
+* [Policy on Gender and Development](http://www.adb.org/documents/policy-gender-and-development) | Institutional Document | June 2003 | [PDF](http://www.adb.org/sites/default/files/institutional-document/32035/gender-policy.pdf)
+
+* [Social Protection Strategy](http://www.adb.org/documents/social-protection-strategy) (Institutional Document | January 2001)
+    - [Social Protection Operational Plan 2014−2020](http://www.adb.org/documents/social-protection-operational-plan-2014-2020) (December 2013)
+This operational plan provides strategic directions for ADB's support to its developing members to strengthen social protection systems.
+    - [Special Evaluation Study on ADB’s Social Protection Strategy](http://www.adb.org/documents/special-evaluation-study-adb-s-social-protection-strategy) (Evaluation Document | 7 November 2012)
+
+
+**Previous Development Policies:**
+
+2004 Poverty Reduction Policy
+
+*<strike>[Operations Manual Section F3/OP (13 May 2004)](http://www.adb.org/Documents/Manuals/Operations/OMF03_13may04.pdf)</strike>
+
+* [Operations Manual Section C1/BP Poverty Reduction (14 July 2004)](http://www.adb.org/documents/manuals/operations/OMC01_14jul04.pdf)
+
+[[NOTES: ADB 2004 Poverty Reduction Policy | (NOTES)]]
+
+
+* [Gender and Development Plan of Action Annual Implementation Progress Reports](http://www.adb.org/documents/series/gender-and-development-plan-action-annual-implementation-progress-reports) [Institutional Document | November 2002]
+
+* [Interim Progress Report on the Policy on Gender and Development](http://www.adb.org/documents/interim-progress-report-policy-gender-and-development)
+
+* [Implementation Review of the Policy on Gender and Development](http://www.adb.org/documents/implementation-review-policy-gender-and-development) | Institutional Document | November 2006
+
+
+
+
+
+
+====
+
+
+
 
 * [Strategy 2020: Working for an Asia and Pacific Free of Poverty (April 2008)](http://www.adb.org/documents/strategy-2020-working-asia-and-pacific-free-poverty) | [(PDF)](http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-print.pdf)
-    - [Midterm Review of Strategy 2020 Action Plan](http://www.adb.org/documents/midterm-review-strategy-2020-action-plan)
-    - [ADB’s Results Framework: Interim Update to Align with the Midterm Review of Strategy 2020](http://www.adb.org/documents/adb-results-framework-interim-update-mtr)  | [(PDF)](http://www.adb.org/sites/default/files/institutional-document/154037/adb-results-framework-interim-update.pdf)
 
-* [ADB Results Framework](http://www.adb.org/site/development-effectiveness/adb-results-framework)
-
-* [ADB Results Framework 2013-2016: Quick Guide](http://www.adb.org/documents/adb-results-framework-2013-2016-quick-guide) | [PDF](http://www.adb.org/documents/adb-results-framework-2013-2016-quick-guide)
+    - [Midterm Review of Strategy 2020 Action Plan](http://www.adb.org/documents/midterm-review-strategy-2020-
+action-plan)
 
 * [Policy on Gender and Development (June 2003)](http://www.adb.org/documents/policy-gender-and-development) [[NOTES: ADB 2003 Gender and Development Policy | (NOTES)]]
 
-* [Standard Explanatory Data Definitions](http://www.adb.org/documents/supplementary-appendix-b-standard-explanatory-data-definitions) | [PDF](http://www.adb.org/sites/default/files/institutional-document/33903/rf-sed-definitions.pdf)
 
-* [Results Framework Indicator Definitions](http://www.adb.org/documents/supplementary-appendix-a-indicator-definitions) | [PDF](http://www.adb.org/sites/default/files/institutional-document/33902/rf-indicator-definitions.pdf)
-
-
-    - [Review of the ADB Results Framework](http://www.adb.org/documents/review-adb-results-framework)
-
----
-
-[Development Effectiveness and Results](http://www.adb.org/site/development-effectiveness/main)
-
-Providing the right development aid is not only about the size of the loan or the number of roads or schools built. It is about knowing the loan is improving people’s lives in a sustainable way.
-
-It is about ensuring that the school educates children with skills to support a country’s economic future, or that when a new highway is built, it not only spurs growth and fosters trade but also brings tangible benefits to surrounding communities.
-
-ADB is committed to ensuring that its resources are used to help countries achieve sustainable development and reduce poverty. It does this by focusing on results management in its operations, improving the capacities of its developing member countries, and contributing to the global agenda on aid effectiveness.
-
-International commitments
-Along with other development partners, ADB endorsed the Paris Declaration on Aid Effectiveness in 2005 and its follow-up agreement, the Accra Agenda for Action in 2008. They are both founded on five core principles:
-
-Country ownership of the development agenda
-Donor alignment with country priorities and systems
-Harmonization of donor policies, procedures and practices
-Managing for development results
-Mutual accountability
-Managing for development results
-Central to the entire aid effectiveness agenda is managing for development results (MfDR), an approach focused on development outcomes throughout the management cycle. The goal of MfDR is tangible and sustainable development.
-
-MfDR promotes informed decision making by integrating a results focus across the four core management functions:
-
-1. planning—defining outcomes and outputs with measurable indicators and time-bound targets, and agreeing on associated activities,
-2. budgeting—allocating resources to agreed activities,
-3. implementing and monitoring—implementing agreed activities and monitoring progress against targets, and
-4. evaluating—assessing performance against agreed targets and identifying actions for improvement.
-Regular reporting to stakeholders to increase accountability and promote learning is intrinsic to effective MfDR.
-
-
-[Global Agenda on Development Effectiveness](http://www.adb.org/site/development-effectiveness/aid-effectiveness-global-agenda)
 
 
 [Managing for Development Results at ADB](http://www.adb.org/site/development-effectiveness/results-management-adb)
@@ -174,68 +202,59 @@ ADB monitors its progress against the results framework in the annual Developmen
 See also:
 ADB's Results Framework 2008-2012: Full document | Refinements | Quick Guide
 
----
+[Development Effectiveness and Results](http://www.adb.org/site/development-effectiveness/main)
+
+Providing the right development aid is not only about the size of the loan or the number of roads or schools built. It is about knowing the loan is improving people’s lives in a sustainable way.
+
+It is about ensuring that the school educates children with skills to support a country’s economic future, or that when a new highway is built, it not only spurs growth and fosters trade but also brings tangible benefits to surrounding communities.
+
+ADB is committed to ensuring that its resources are used to help countries achieve sustainable development and reduce poverty. It does this by focusing on results management in its operations, improving the capacities of its developing member countries, and contributing to the global agenda on aid effectiveness.
+
+International commitments
+Along with other development partners, ADB endorsed the Paris Declaration on Aid Effectiveness in 2005 and its follow-up agreement, the Accra Agenda for Action in 2008. They are both founded on five core principles:
+
+Country ownership of the development agenda
+Donor alignment with country priorities and systems
+Harmonization of donor policies, procedures and practices
+Managing for development results
+Mutual accountability
+Managing for development results
+Central to the entire aid effectiveness agenda is managing for development results (MfDR), an approach focused on development outcomes throughout the management cycle. The goal of MfDR is tangible and sustainable development.
+
+MfDR promotes informed decision making by integrating a results focus across the four core management functions:
+
+1. planning—defining outcomes and outputs with measurable indicators and time-bound targets, and agreeing on associated activities,
+2. budgeting—allocating resources to agreed activities,
+3. implementing and monitoring—implementing agreed activities and monitoring progress against targets, and
+4. evaluating—assessing performance against agreed targets and identifying actions for improvement.
+Regular reporting to stakeholders to increase accountability and promote learning is intrinsic to effective MfDR.
+
+
+
+* [ADB Results Framework](http://www.adb.org/site/development-effectiveness/adb-results-framework)
+    - [ADB Results Framework 2013-2016: Quick Guide](http://www.adb.org/documents/adb-results-framework-2013-2016-quick-guide) | [PDF](http://www.adb.org/documents/adb-results-framework-2013-2016-quick-guide)
+    - [Results Framework Indicator Definitions](http://www.adb.org/documents/supplementary-appendix-a-indicator-definitions) | [PDF](http://www.adb.org/sites/default/files/institutional-document/33902/rf-indicator-definitions.pdf)
+    - [Standard Explanatory Data Definitions](http://www.adb.org/documents/supplementary-appendix-b-standard-explanatory-data-definitions) | [PDF](http://www.adb.org/sites/default/files/institutional-document/33903/rf-sed-definitions.pdf)
+    - [Review of the ADB Results Framework](http://www.adb.org/documents/review-adb-results-framework)
+    - [ADB’s Results Framework: Interim Update to Align with the Midterm Review of Strategy 2020](http://www.adb.org/documents/adb-results-framework-interim-update-mtr)  | [(PDF)](http://www.adb.org/sites/default/files/institutional-document/154037/adb-results-framework-interim-update.pdf)
+
+
+
 
 [Results of ADB-supported Operations](http://www.adb.org/site/development-effectiveness/results-adb-supported-operations)
 
 In pursuing its vision of an Asia and Pacific free of poverty, ADB employs its limited resources in its areas of comparative strength—the core areas of infrastructure, environment, regional cooperation and integration, finance sector development, and education, as identified by Strategy 2020. ADB also operates on a limited scale in other areas, including health, agriculture and natural resources, and public sector management, in partnership with other organizations. ADB operations are designed to support the three complementary agendas of inclusive economic growth, environmentally sustainable growth, and regional integration.
 
 
+
 ---
 
-
-**Current Development Policy Framework:**
-
-* [Strategy 2020: Working for an Asia and Pacific Free of Poverty (April 2008)](http://www.adb.org/documents/strategy-2020-working-asia-and-pacific-free-poverty) | [print](http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-print.pdf) | [board paper](http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-board-doc.pdf) | [brochure](http://www.adb.org/sites/default/files/institutional-document/32121/brochure-strategy2020.pdf)
-    - [Midterm Review of Strategy 2020 Action Plan](http://www.adb.org/documents/midterm-review-strategy-2020-action-plan)
+[Global Agenda on Development Effectiveness](http://www.adb.org/site/development-effectiveness/aid-effectiveness-global-agenda)
 
 
-*[Policy on Gender and Development (June 2003)](http://www.adb.org/documents/policy-gender-and-development)
-    - 2006. [Implementation Review of the Policy on Gender and Development](http://www.adb.org/documents/implementation-review-policy-gender-and-development)
-    - 2002. [Interim Progress Report on the Policy on Gender and Development](http://www.adb.org/documents/interim-progress-report-policy-gender-and-development)
 
+---
 
-* [Social Protection Strategy](http://www.adb.org/documents/social-protection-strategy) (Institutional Document | January 2001)
-
-Social protection is defined as the set of policies and programs designed to reduce poverty and vulnerability by promoting efficient labor markets, diminishing people
-
-The 2001 Social Protection Strategy defines social protection as a set of policies and programs designed to reduce poverty and vulnerability by promoting efficient labor markets, diminishing people's exposure to risks, and enhancing their capacity to protect themselves against hazards and interruption/loss of income. It spells out the scope of ADB's commitment to develop priority interventions in supporting social assistance and welfare service programs including child protection and micro- and area based schemes to address poverty, and vulnerability; social insurance programs to cushion risks associated with unemployment, ill-health, disability, work-related injury and old age; and labor market policies and programs designed to generate employment, improve working conditions.
-
-Contents 
-
-Abbreviations
-Introduction
-Overview of social protection
-Priorities for social protection
-Operational Implications
-Appendixes
-
-* [Social Protection Operational Plan 2014−2020](http://www.adb.org/documents/social-protection-operational-plan-2014-2020) (December 2013)
-This operational plan provides strategic directions for ADB's support to its developing members to strengthen social protection systems.
-
-* [Special Evaluation Study on ADB’s Social Protection Strategy](http://www.adb.org/documents/special-evaluation-study-adb-s-social-protection-strategy) (Evaluation Document | 7 November 2012)
-
-**Previous Development Policies:**
-
-*<strike>[Operations Manual Section F3/OP (13 May 2004)](http://www.adb.org/Documents/Manuals/Operations/OMF03_13may04.pdf)</strike>
-
-* [Operations Manual Section C1/BP Poverty Reduction (14 July 2004)](http://www.adb.org/documents/manuals/operations/OMC01_14jul04.pdf) [[NOTES: ADB 2004 Poverty Reduction Policy | (NOTES)]]
-
-* [Policy on Gender and Development](http://www.adb.org/documents/policy-gender-and-development) | Institutional Document | June 2003 | [PDF](http://www.adb.org/sites/default/files/institutional-document/32035/gender-policy.pdf)
-
-ADB’s Policy on Gender and Development (GAD) is the guiding framework for gender and development activities. The Policy adopts gender mainstreaming as the key strategy for promoting gender equality and women’s empowerment across the full range of ADB operations—from country partnership strategies to the design and implementation of gender-inclusive projects and programs.
-
-Gender equality needs to be pursued in its own right and because it is critical for sustained economic growth, faster poverty reduction, and inclusive development. Under investments in women are missed opportunities to correct gender disparities and to capture and unleash the economic and human capital potential of women.
-
-Hence, ADB’s long-term strategic framework—Strategy 2020 includes “promoting gender equity” as one of the five drivers of change. The corporate results framework to measure performance includes concrete numerical gender targets to be met by 2012. Gender performance is tracked and reported annually.
-
-Periodic reviews of the GAD policy in 2002 Interim Progress Report on the Policy on GAD and 2006 GAD Policy Implementation Review confirm the Policy’s continued relevance and sound framework for supporting women’s empowerment and gender equality outcomes.
-
-* [Gender and Development Plan of Action Annual Implementation Progress Reports](http://www.adb.org/documents/series/gender-and-development-plan-action-annual-implementation-progress-reports) [Institutional Document | November 2002]
-
-* [Interim Progress Report on the Policy on Gender and Development](http://www.adb.org/documents/interim-progress-report-policy-gender-and-development)
-
-* [Implementation Review of the Policy on Gender and Development](http://www.adb.org/documents/implementation-review-policy-gender-and-development) | Institutional Document | November 2006
 
 
 #### Operational Policy
@@ -286,10 +305,12 @@ The objective of this implementation review of the ADB GACAP II is to determine 
 * [For Life, With Love: Training Tool for HIV Prevention and Safe Migration in Road Construction Settings and Affected Communities](http://www.adb.org/documents/books/for-life-with-love/for-life-with-love.pdf) (2009)
 
 
-<a name="world-bank-policy"></a>
+<a name="world-bank"></a>
 ## World Bank
- 
+
+<a name="world-bank-policy"></a> 
 ### Policy
+
 
 Operational Policy and Operational Directive
 
@@ -309,9 +330,10 @@ Operational Policy and Operational Directive
 
 
 
-<a name="iadb-policy"></a>
+<a name="iadb"></a>
 ## Inter-American Development Bank
 
+<a name="iadb-policy"></a>
 ### Policy
 
 * [Sustainability Standards / Policy (re-direct)](http://www.iadb.org/en/topics/sustainability/policies-and-initiatives,1517.html)
@@ -335,9 +357,10 @@ Operational Policy and Operational Directive
 * [Strategy for Indigenous Development (Feb 2006)](http://www.iadb.org/sds/doc/ind-111StrategyE.pdf)
 
 
-<a name="ifc-policy"></a>
+<a name="ifc"></a>
 ## International Finance Corporation (IFC)
 
+<a name="ifc-policy"></a>
 ### Policy
 
 ### Sustainability Framework
@@ -457,9 +480,10 @@ Earlier versions of IFC's environmental and social policies, procedures, and sta
 * [Global Reporting Initiative Guidelines](http://www.globalreporting.org/)
 
 
-<a name="ebrd-policy"></a>
+<a name="ebrd"></a>
 ## European Bank for Reconstruction and Development
  
+<a name="ebrd-policy"></a>
 ### Policy
 
 * [EBRD Environmental and Social Policy and Performance Requirements (2008)](http://www.ebrd.com/about/policies/enviro/policy/2008policy.pdf)
@@ -469,9 +493,10 @@ Earlier versions of IFC's environmental and social policies, procedures, and sta
 * [EBRD Guidance Note on Indigenous Peoples (03 Dec 2010)](http://www.ebrd.com/downloads/research/guides/indp.pdf) [(alt link)](http://www.ebrd.com/pages/research/publications/guides/indp.shtml)
 
 
-<a name="opic-policyr"></a>
+<a name="opic"></a>
 ## Overseas Private Investment Corporation (OPIC)
 
+<a name="opic-policy"></a>
 ### Policy
 
 * [Environmental and Social Policy Revision: Letter from the President](http://www.opic.gov/doing-business/investment/environment/policy_revision#final_policy_statement)

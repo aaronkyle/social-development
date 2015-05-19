@@ -36,32 +36,30 @@ summary:
 <a name="adb-policy"></a>
 ### Policy
 
-Investments of the Asian Development Bank must accord with the ADB's mandate . Investment decisions are made in deference to internal strategies for reaching developmental targets--the implementation of which is guided by a few key **[operational policies](#adb-operational-policy)** and **[development policies](#adb-development-policy)**.  Borrower clients must comply with ADB policy and regulatory frameworks for avoiding and mitigating social and environmental risks as specified by the ADB's **[safeguard policy](#adb-safeguards-policy)**.
+Investments of the Asian Development Bank must accord with the ADB's mandate . Investment decisions are made in deference to internal strategies for reaching developmental targets&mdash;the implementation of which is guided by a few key **[operational policies](#adb-operational-policy)** and **[development policies](#adb-development-policy)**.  Borrower clients must comply with ADB policy and regulatory frameworks for avoiding and mitigating social and environmental risks as specified by the ADB's **[safeguard policy](#adb-safeguards-policy)**.
 
 
 <a name="adb-safeguards-policy"></a>
 #### Safeguards Policy
 
-The safeguards policies of the Asian Development Bank seek to avoid, minimise, or mitigate harmful environmental and social risks, impacts, and costs that may result from ADB-financed development initiatives.  The current ADB policy, set out in the 2009 *[Safeguard Policy Statement](http://www.adb.org/site/safeguards/policy-statement)* (SPS), defines safeguard principles and outlines implemention and delivery processes for safeguard policy compliance. The SPS builds upon the three previous safeguard policies: the (2002) *[Environment Policy](http://www.adb.org/documents/environment-policy-asian-development-bank)*, the 1998 *[Policy on Indigenous Peoples](http://www.adb.org/documents/policy-indigenous-peoples)*, and the 1995 *[Policy on Involuntary Resettlement](http://www.adb.org/documents/policy-involuntary-resettlement)*. The SPS  brings them into one single policy that enhances consistency and coherence, and more comprehensively addresses environmental and social impacts and risks. [FN1](http://www.adb.org/documents/safeguard-policy-statement?ref=site/safeguards/publications).
+The safeguards policies of the Asian Development Bank seek to avoid, minimise, or mitigate harmful environmental and social risks, impacts, and costs that may result from ADB-financed development initiatives.  The current ADB policy, set out in the 2009 *[Safeguard Policy Statement](http://www.adb.org/site/safeguards/policy-statement)* (SPS), defines safeguard principles and outlines implemention and delivery processes for safeguard policy compliance. The SPS builds upon (and supersedes) three previous safeguard policies: the (2002) *[Environment Policy](http://www.adb.org/documents/environment-policy-asian-development-bank)*, the 1998 *[Policy on Indigenous Peoples](http://www.adb.org/documents/policy-indigenous-peoples)*, and the 1995 *[Policy on Involuntary Resettlement](http://www.adb.org/documents/policy-involuntary-resettlement)*. The SPS  brings them into one single policy that enhances consistency and coherence, and more comprehensively addresses environmental and social impacts and risks. <sup>[ref1](http://www.adb.org/documents/safeguard-policy-statement?ref=site/safeguards/publications "Asian Development Bank (ADB). 2009. *Safeguard Policy Statement (SPS)*. Manila: Asian Development Bank.").</sup>
 
-<ref>Asian Development Bank (ADB). 2009. January 2009 Safeguard Policy Statement (SPS). Manila: Asian Development Bank [p.1]. Available at : http://www.adb.org/Documents/Brochures/InBriefs/Safeguard-Policies.pdf [last accessed 01 May 2009]</ref>
 
 **Current Safeguard Policy Framework:**
 
-* [Safeguard Policy Statement (Jun 2009)](http://www.adb.org/Documents/Policies/Safeguards/Safeguard-Policy-Statement-June2009.pdf)
-* ADB's safeguard review procedures [OM Section F1](http://www.adb.org/Documents/Manuals/Operations/OMF01-4Mar2010.pdf)
-
-[Safeguards Operational Review: ADB Processes, Portfolio, Country Systems, and Financial Intermediaries](http://www.adb.org/documents/safeguards-operational-review-adb-processes-portfolio-country-systems-and-financial-interm)
+* *[Safeguard Policy Statement](http://www.adb.org/documents/safeguard-policy-statement)* | [PDF](http://www.adb.org/Documents/Policies/Safeguards/Safeguard-Policy-Statement-June2009.pdf) (Jun 2009)
+    - *[Operational Manual Section F1](http://www.adb.org/sites/default/files/institutional-document/31483/om-f1-20131001.pdf)* (update 2013) [**note:** OM Section F1 stipulates the ADB's internal safeguard review procedures] <!-- previous address: (http://www.adb.org/Documents/Manuals/Operations/OMF01-4Mar2010.pdf) -->
+    - [Safeguards Operational Review: ADB Processes, Portfolio, Country Systems, and Financial Intermediaries](http://www.adb.org/documents/safeguards-operational-review-adb-processes-portfolio-country-systems-and-financial-interm)
 
 **Previous Safeguard Policies:**
 
 * [Environment Policy](http://www.adb.org/documents/environment-policy-asian-development-bank) (Nov 2002) | [PDF](http://www.adb.org/sites/default/files/institutional-document/33343/files/environment-policy.pdf)
     - [Operations Evaluation Department Evaluation Study: Environmental Safeguards](http://www.adb.org/documents/environmental-safeguards) (September 2006) | [(PDF)](http://www.adb.org/sites/default/files/evaluation-document/35443/files/ses-es.pdf)
 
-* [Social Protection Strategy](http://www.adb.org/Documents/Policies/Social_Protection/default.asp) (August 2001) [print version: July 2003] [[NOTES: ADB 2001 Social Protection Strategy | (NOTES)]]
+* [Social Protection Strategy](http://www.adb.org/Documents/Policies/Social_Protection/default.asp) (August 2001) | [print version]( "The print version was published on July 2003") | [NOTES]( "NOTES: ADB 2001 Social Protection Strategy")
    - [Social Protection Progress Report to the Board of Directors (Sept 2002)](http://www.adb.org/Documents/Reports/Social_Protection/IN252-02.pdf)
 
-* [Policy on Indigenous Peoples (1998)](http://www.adb.org/documents/policy-indigenous-peoples) [[NOTES: ADB 1998 Indigenous Peoples Policy | (NOTES)]] | [(PDF)](http://www.adb.org/sites/default/files/institutional-document/33441/files/policy-indigenous-peoples.pdf)
+* [Policy on Indigenous Peoples (1998)](http://www.adb.org/documents/policy-indigenous-peoples) | [(PDF)](http://www.adb.org/sites/default/files/institutional-document/33441/files/policy-indigenous-peoples.pdf) | [NOTES]( "NOTES: ADB 1998 Indigenous Peoples Policy")
    - [Operations Manual Section F3/B 'Indigenous Peoples'](http://www.adb.org/documents/manuals/operations/OMF03-25Sep06.pdf) (25 September 2006)
    - [Operations Evaluation Department Evaluation Study: Indigenous Peoples Safeguards](http://www.oecd.org/dataoecd/43/22/38984072.pdf) (Feb 2007) | [(PDF)](http://www.adb.org/sites/default/files/evaluation-document/35441/files/sst-reg-2007-01.pdf)
 

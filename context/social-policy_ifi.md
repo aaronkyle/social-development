@@ -7,6 +7,8 @@ status: draft
 <!--
 summary: 
 -->
+<hr />
+
   1 [Asian Development Bank](#adb)<br />
 &nbsp;&nbsp;&nbsp;    1.1 [Policy](#adb-policy)<br />
 &nbsp;&nbsp;&nbsp;    1.2 [Implementation Resources]()<br />
@@ -66,7 +68,14 @@ The safeguards policies of the Asian Development Bank seek to avoid, minimise, o
 
 #### Development Policy
 
-While safeguards policies are intended for risk avoidance, mitigation and management, other forms of social policy govern ADB development investments. These policies define the ADB's aspirational notion of 'social development' and clarify how ADB's aspirational aims can be realized in practice.
+While safeguards policies are intended for risk avoidance, mitigation and management, other forms of social policy govern how the ADB investment in development initiatives. These 'developmetn policies' define the ADB's aspirational notion of 'social development' and specify how these aims can be realized in practice.
+
+*[Strategy 2020](http://www.adb.org/documents/strategy-2020-working-asia-and-pacific-free-poverty)* is among the most recent examples of ADB development policy. *Strategy 2020* reaffirms ADB's vision of an Asia and Pacific free of poverty as well as its mission to help its developing member countries improve their living conditions and quality of life. To achieve these ends, *Strategy 2020* prioritizes three complementary development agendas: inclusive economic growth, environmentally sustainable growth, and regional integration. To better ensure that it is achieving the goals of Strategy 2020, ADB also developed a [results framework](http://www.adb.org/site/development-effectiveness/adb-results-framework) to facilitate progress assessments and evaluation of strategy efficacy.
+
+Earlier development policies of the Asian Development Bank include the 2003 *Policy on Gender and Development* (GAD) and the 2001 *Social Protection Strategy*.
+
+The *Policy on Gender and Development* seeks to mainstream awareness of gender issues in order to promote gender equality and women’s empowerment across all ADB operations&mdash;from country partnership strategies to the design and implementation of gender-inclusive projects and programs. The GAD policy is a stand-alone instrument for promoting gender equality as a necessary component for realizing sustained economic growth, faster poverty reduction, and inclusive development. Periodic reviews of the GAD policy in 2002 Interim Progress Report on the Policy on GAD and 2006 GAD Policy Implementation Review confirm the Policy’s continued relevance and sound framework for supporting women’s empowerment and gender equality outcomes.
+
 
 The importance of work on gender issues is included in ADB’s long-term strategic framework&mdash;Strategy 2020&mdash;as one of the five drivers of change.
 
@@ -74,65 +83,11 @@ The corporate results framework to measure performance includes concrete numeric
 
 
 
-The *Policy on Gender and Development* (GAD) is another of the ADB's development policies. The GAD policy seeks to mainstream awareness of gender issues in order to promote gender equality and women’s empowerment across all ADB operations&mdash;from country partnership strategies to the design and implementation of gender-inclusive projects and programs. The GAD policy is a stand-alone instrument for promoting gender equality as a necessary component for realizing sustained economic growth, faster poverty reduction, and inclusive development. Periodic reviews of the GAD policy in 2002 Interim Progress Report on the Policy on GAD and 2006 GAD Policy Implementation Review confirm the Policy’s continued relevance and sound framework for supporting women’s empowerment and gender equality outcomes.
 
 The 2001 [Social Protection Strategy](http://www.adb.org/Documents/Policies/Social_Protection/default.asp) (SPS) is another such development policy framework.  The SPS establishes the meaning of 'social protection' wtih ADB operations as a as a set of policies and programs designed to reduce poverty and vulnerability by promoting efficient labor markets, diminishing people's exposure to risks, and enhancing their capacity to protect themselves against hazards and interruption/loss of income. Priority interventions under this framework are those supporting social assistance and welfare services, including child protection and micro- and area-based schemes for poverty and vulnerability rediction; social insurance programs to cushion risks associated with unemployment, ill-health, disability, work-related injury and old age; and labor market policies and programs designed to generate employment, improve working conditions.
 
 
-
-[Managing for Development Results at ADB](http://www.adb.org/site/development-effectiveness/results-management-adb)
-
-
-To help realize its vision of an Asia and Pacific region free of poverty, ADB is pursuing a deliberate, structured program of managing for development results (MfDR). This program provides the process and tools needed to deliver optimal results and ensure transparency and accountability. ADB embeds MfDR in its work at the following levels:
-
-Corporate
-Since 2008, ADB has been using a corporate results framework and a performance scorecard to manage performance. The corporate results framework, consisting of more than 70 indicators with targets, tracks the development progress of the region, ADB’s contributions to country outcomes, and its operational and institutional effectiveness. The scorecard, which rates ADB’s performance against the targets, drives decision making at ADB and informs our work planning and budgeting process.
-
-By publishing the scorecard in the annual Development Effectiveness Review, ADB holds itself fully accountable for the results it has promised to deliver.
-
-ADB works to increase staff commitment to MfDR through systematic communication and training in the use of MfDR tools and methods. ADB also ensures that work plans at all levels of the organization are results focused and aligned with the corporate results framework. An independent evaluation of this process showed these efforts have resulted in greater staff commitment to and engagement in MfDR.
-
-Country and Sector Operations
-
-ADB’s country and regional partnership strategies incorporate results frameworks to ensure that they are managed to achieve their intended development outcomes. In 2010, ADB refined its country and sector results frameworks to improve results planning, monitoring, and reporting, and to demonstrate clearly their alignment with country development priorities.
-
-Country development effectiveness briefs distill and communicate ADB’s development contribution at the country level. These publications are a blend of performance data and development stories that describe how ADB’s operations help improve people’s lives.
-
-More information:
-
-* Preparing Results Frameworks and Monitoring Results: Country and Sector Levels
-* Guidelines for Preparing a Design and Monitoring Framework
-
-Projects
-
-ADB designs and implements projects using project-level results frameworks. ADB conducts regular assessments, staff training and coaching, and project management training for implementing agencies in our developing member countries to ensure that project management is driven by quality results frameworks.
- 
-ADB’s e-Operations—an online system for processing and implementing sovereign operations launched in 2010—enables the systematic capture and recording of ADB’s outputs and outcomes in the core sectors defined in ADB's long-term strategic framework, Strategy 2020.
-
-More information:
-
-* [How does ADB design and manage projects?](http://www.adb.org/projects/operations)
-* [Database of project design and monitoring frameworks](http://www.adb.org/projects/documents/search/type/project_document/subtype/design-and-monitoring-frameworks-1167)
-* [ADB project database](http://www.adb.org/projects)
-* [Piloting results-based lending for programs](http://www.adb.org/site/public-sector-financing/results-based-lending-programs)
-
-
----
-
-
-[Results of ADB-supported Operations](http://www.adb.org/site/development-effectiveness/results-adb-supported-operations)
-
-In pursuing its vision of an Asia and Pacific free of poverty, ADB employs its limited resources in its areas of comparative strength—the core areas of infrastructure, environment, regional cooperation and integration, finance sector development, and education, as identified by Strategy 2020. ADB also operates on a limited scale in other areas, including health, agriculture and natural resources, and public sector management, in partnership with other organizations. ADB operations are designed to support the three complementary agendas of inclusive economic growth, environmentally sustainable growth, and regional integration.
-
----
-
-[Global Agenda on Development Effectiveness](http://www.adb.org/site/development-effectiveness/aid-effectiveness-global-agenda)
-
-
-
----
-
-
+----
 
 **Current Development Policy Framework:**
 
@@ -164,7 +119,7 @@ This operational plan provides strategic directions for ADB's support to its dev
     - <strike>[Operations Manual Section F3/OP (13 May 2004)](http://www.adb.org/Documents/Manuals/Operations/OMF03_13may04.pdf)</strike>
     - [Operations Manual Section C1/BP Poverty Reduction (14 July 2004)](http://www.adb.org/documents/manuals/operations/OMC01_14jul04.pdf)
 
-
+----
 
 
 #### Operational Policy

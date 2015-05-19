@@ -7,28 +7,25 @@ status: draft
 <!--
 summary: 
 -->
-
-IFIs
-
-
   1 [Asian Development Bank](#adb)<br />
-      1.1 [Policy](#adb-policy)<br />
-      1.2 [Implementation Resources]()<br />
+&nbsp;&nbsp;&nbsp;    1.1 [Policy](#adb-policy)<br />
+&nbsp;&nbsp;&nbsp;    1.2 [Implementation Resources]()<br />
   2 [World Bank](#world-bank)<br />
-      2.1 [Policy](#world-bank-policy)<br />
-      2.2 [Implementation Resources]()<br />
+&nbsp;&nbsp;&nbsp;    2.1 [Policy](#world-bank-policy)<br />
+&nbsp;&nbsp;&nbsp;    2.2 [Implementation Resources]()<br />
   3 [Inter-American Development Bank](#iadb)<br />
-      3.1 [Policy](#iadb-policy)<br />
-      3.2 [Implementation Resources]()<br />
+&nbsp;&nbsp;&nbsp;    3.1 [Policy](#iadb-policy)<br />
+&nbsp;&nbsp;&nbsp;    3.2 [Implementation Resources]()<br />
   4 [International Finance Corporation (IFC)](#ifc)<br />
-      4.1 [Policy](#ifc-policy)<br />
-      4.2 [Implementation Resources]()<br />
+&nbsp;&nbsp;&nbsp;    4.1 [Policy](#ifc-policy)<br />
+&nbsp;&nbsp;&nbsp;    4.2 [Implementation Resources]()<br />
   5 [European Bank for Reconstruction and Development](#ebrd)<br />
-      5.1 [Policy](#ebrd-policy)<br />
-      5.2 [Implementation Resources]()<br />
+&nbsp;&nbsp;&nbsp;    5.1 [Policy](#ebrd-policy)<br />
+&nbsp;&nbsp;&nbsp;    5.2 [Implementation Resources]()<br />
   6 [Overseas Private Investment Corporation (OPIC)](#opic)<br />
-      6.1 [Policy](#opic-policy)<br />
+&nbsp;&nbsp;&nbsp;    6.1 [Policy](#opic-policy)<br />
 
+<hr />
 
 <a name="adb"></a>
 ## Asian Development Bank
@@ -219,6 +216,8 @@ Rapid Environment Assessment checklists for many different sectors are available
 * [For Life, With Love: Training Tool for HIV Prevention and Safe Migration in Road Construction Settings and Affected Communities](http://www.adb.org/documents/books/for-life-with-love/for-life-with-love.pdf) (2009)
 
 
+<hr />
+
 <a name="world-bank"></a>
 ## World Bank
 
@@ -243,6 +242,7 @@ Operational Policy and Operational Directive
 * [Participation Sourcebook (1996)](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1996/02/01/000009265_3961214175537/Rendered/PDF/multi_page.pdf)
 
 
+<hr />
 
 <a name="iadb"></a>
 ## Inter-American Development Bank
@@ -270,6 +270,8 @@ Operational Policy and Operational Directive
 
 * [Strategy for Indigenous Development (Feb 2006)](http://www.iadb.org/sds/doc/ind-111StrategyE.pdf)
 
+
+<hr />
 
 <a name="ifc"></a>
 ## International Finance Corporation (IFC)
@@ -394,6 +396,8 @@ Earlier versions of IFC's environmental and social policies, procedures, and sta
 * [Global Reporting Initiative Guidelines](http://www.globalreporting.org/)
 
 
+<hr />
+
 <a name="ebrd"></a>
 ## European Bank for Reconstruction and Development
  
@@ -406,6 +410,8 @@ Earlier versions of IFC's environmental and social policies, procedures, and sta
 
 * [EBRD Guidance Note on Indigenous Peoples (03 Dec 2010)](http://www.ebrd.com/downloads/research/guides/indp.pdf) [(alt link)](http://www.ebrd.com/pages/research/publications/guides/indp.shtml)
 
+
+<hr />
 
 <a name="opic"></a>
 ## Overseas Private Investment Corporation (OPIC)

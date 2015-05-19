@@ -4,6 +4,15 @@ category: context
 slug: context/social-policy
 status: draft
 
+
+<head>
+<style>
+div { width: 100%; }
+.index { background-color: #ccffcc; }
+</style>
+</head>
+
+
 <!--
 summary: 
 -->
@@ -35,7 +44,8 @@ summary:
 <a name="adb-policy"></a>
 ### Policy
 
-Investments of the Asian Development Bank must accord with the ADB's mandate . Investment decisions are made in deference to internal strategies for reaching developmental targets--the implementation of which is guided by a few key **'operational policies'** and **'development policies'**.  Borrower clients must comply with ADB policy and regulatory frameworks for avoiding and mitigating social and environmental risks as specified by the ADB's **[safeguard policy statement](#adb-safeguards-policy )**.
+Investments of the Asian Development Bank must accord with the ADB's mandate . Investment decisions are made in deference to internal strategies for reaching developmental targets--the implementation of which is guided by a few key **[operational policies](#adb-operational-policy)** and **[development policies](#adb-development-policy)**.  Borrower clients must comply with ADB policy and regulatory frameworks for avoiding and mitigating social and environmental risks as specified by the ADB's **[safeguard policy](#adb-safeguards-policy)**.
+
 
 <a name="adb-safeguards-policy"></a>
 #### Safeguards Policy
@@ -44,6 +54,7 @@ The safeguards policies of the Asian Development Bank seek to avoid, minimise, o
 
 <ref>Asian Development Bank (ADB). 2009. January 2009 Safeguard Policy Statement (SPS). Manila: Asian Development Bank [p.1]. Available at : http://www.adb.org/Documents/Brochures/InBriefs/Safeguard-Policies.pdf [last accessed 01 May 2009]</ref>
 
+<div class="index">
 **Current Safeguard Policy Framework:**
 
 * [Safeguard Policy Statement (Jun 2009)](http://www.adb.org/Documents/Policies/Safeguards/Safeguard-Policy-Statement-June2009.pdf)
@@ -65,7 +76,9 @@ The safeguards policies of the Asian Development Bank seek to avoid, minimise, o
 
 * [Involuntary Resettlement](http://www.adb.org/documents/policy-involuntary-resettlement) (Aug 1995) [[NOTES: ADB 1995 Involuntary Resettlement Policy | (NOTES)]]  [(PDF)](http://www.adb.org/sites/default/files/institutional-document/32515/files/involuntary-resettlement.pdf)
     - [Operations Evaluation Department Evaluation Study: Involuntary Resettlement Safeguards](http://www.adb.org/documents/involuntary-resettlement-safeguards) (September 2006) | [(PDF)](http://www.adb.org/sites/default/files/evaluation-document/35442/files/sst-reg-2006-14.pdf)
+</div>
 
+<a name="adb-development-policy"></a>
 #### Development Policy
 
 While safeguards policies are intended for risk avoidance, mitigation and management, other forms of social policy govern how the ADB investment in development initiatives. These 'developmetn policies' define the ADB's aspirational notion of 'social development' and specify how these aims can be realized in practice.
@@ -81,13 +94,8 @@ The importance of work on gender issues is included in ADB’s long-term strateg
 
 The corporate results framework to measure performance includes concrete numerical gender targets to be met by 2012. Gender performance is tracked and reported annually.
 
-
-
-
 The 2001 [Social Protection Strategy](http://www.adb.org/Documents/Policies/Social_Protection/default.asp) (SPS) is another such development policy framework.  The SPS establishes the meaning of 'social protection' wtih ADB operations as a as a set of policies and programs designed to reduce poverty and vulnerability by promoting efficient labor markets, diminishing people's exposure to risks, and enhancing their capacity to protect themselves against hazards and interruption/loss of income. Priority interventions under this framework are those supporting social assistance and welfare services, including child protection and micro- and area-based schemes for poverty and vulnerability rediction; social insurance programs to cushion risks associated with unemployment, ill-health, disability, work-related injury and old age; and labor market policies and programs designed to generate employment, improve working conditions.
 
-
-----
 
 **Current Development Policy Framework:**
 
@@ -119,9 +127,9 @@ This operational plan provides strategic directions for ADB's support to its dev
     - <strike>[Operations Manual Section F3/OP (13 May 2004)](http://www.adb.org/Documents/Manuals/Operations/OMF03_13may04.pdf)</strike>
     - [Operations Manual Section C1/BP Poverty Reduction (14 July 2004)](http://www.adb.org/documents/manuals/operations/OMC01_14jul04.pdf)
 
-----
 
 
+<a name="adb-operational-policy"></a>
 #### Operational Policy
 
 *[Public Communications Policy (March 2005)](http://www.adb.org/Documents/Policies/PCP/PCP-R-Paper.pdf) [[NOTES: ADB 2005 Public Communications Policy | (NOTES)]]

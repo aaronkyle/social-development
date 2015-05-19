@@ -48,23 +48,23 @@ The safeguards policies of the Asian Development Bank seek to avoid, minimise, o
 **Current Safeguard Policy Framework:**
 
 * *[Safeguard Policy Statement](http://www.adb.org/documents/safeguard-policy-statement)* | [PDF](http://www.adb.org/Documents/Policies/Safeguards/Safeguard-Policy-Statement-June2009.pdf) (Jun 2009)
-    - *[Operational Manual Section F1](http://www.adb.org/sites/default/files/institutional-document/31483/om-f1-20131001.pdf)* (update 2013) [**note:** OM Section F1 stipulates the ADB's internal safeguard review procedures] <!-- previous address: (http://www.adb.org/Documents/Manuals/Operations/OMF01-4Mar2010.pdf) -->
+    - *[Operational Manual Section F1](http://www.adb.org/sites/default/files/institutional-document/31483/om-f1-20131001.pdf)* (last updated 2013)
     - [Safeguards Operational Review: ADB Processes, Portfolio, Country Systems, and Financial Intermediaries](http://www.adb.org/documents/safeguards-operational-review-adb-processes-portfolio-country-systems-and-financial-interm)
 
 **Previous Safeguard Policies:**
 
-* [Environment Policy](http://www.adb.org/documents/environment-policy-asian-development-bank) (Nov 2002) | [PDF](http://www.adb.org/sites/default/files/institutional-document/33343/files/environment-policy.pdf)
+* *[Environment Policy](http://www.adb.org/documents/environment-policy-asian-development-bank)* (Nov 2002) | [PDF](http://www.adb.org/sites/default/files/institutional-document/33343/files/environment-policy.pdf)
     - [Operations Evaluation Department Evaluation Study: Environmental Safeguards](http://www.adb.org/documents/environmental-safeguards) (September 2006) | [(PDF)](http://www.adb.org/sites/default/files/evaluation-document/35443/files/ses-es.pdf)
 
-* [Social Protection Strategy](http://www.adb.org/Documents/Policies/Social_Protection/default.asp) (August 2001) | [print version]( "The print version was published on July 2003") | [NOTES]( "NOTES: ADB 2001 Social Protection Strategy")
+* *[Social Protection Strategy](http://www.adb.org/Documents/Policies/Social_Protection/default.asp)* (August 2001) | [print version]( "published July 2003") | [NOTES]( "NOTES: ADB 2001 Social Protection Strategy")
    - [Social Protection Progress Report to the Board of Directors (Sept 2002)](http://www.adb.org/Documents/Reports/Social_Protection/IN252-02.pdf)
 
-* [Policy on Indigenous Peoples (1998)](http://www.adb.org/documents/policy-indigenous-peoples) | [(PDF)](http://www.adb.org/sites/default/files/institutional-document/33441/files/policy-indigenous-peoples.pdf) | [NOTES]( "NOTES: ADB 1998 Indigenous Peoples Policy")
-   - [Operations Manual Section F3/B 'Indigenous Peoples'](http://www.adb.org/documents/manuals/operations/OMF03-25Sep06.pdf) (25 September 2006)
-   - [Operations Evaluation Department Evaluation Study: Indigenous Peoples Safeguards](http://www.oecd.org/dataoecd/43/22/38984072.pdf) (Feb 2007) | [(PDF)](http://www.adb.org/sites/default/files/evaluation-document/35441/files/sst-reg-2007-01.pdf)
+* *[Policy on Indigenous Peoples](http://www.adb.org/documents/policy-indigenous-peoples)*  (1998) | [(PDF)](http://www.adb.org/sites/default/files/institutional-document/33441/files/policy-indigenous-peoples.pdf) | [NOTES]( "NOTES: ADB 1998 Indigenous Peoples Policy")
+   - *[Operations Manual Section F3/B 'Indigenous Peoples'](http://www.adb.org/documents/manuals/operations/OMF03-25Sep06.pdf)* (25 September 2006)
+   - *[Operations Evaluation Department Evaluation Study: Indigenous Peoples Safeguards](http://www.oecd.org/dataoecd/43/22/38984072.pdf)* (Feb 2007) | [PDF](http://www.adb.org/sites/default/files/evaluation-document/35441/files/sst-reg-2007-01.pdf)
 
-* [Involuntary Resettlement](http://www.adb.org/documents/policy-involuntary-resettlement) (Aug 1995) [[NOTES: ADB 1995 Involuntary Resettlement Policy | (NOTES)]]  [(PDF)](http://www.adb.org/sites/default/files/institutional-document/32515/files/involuntary-resettlement.pdf)
-    - [Operations Evaluation Department Evaluation Study: Involuntary Resettlement Safeguards](http://www.adb.org/documents/involuntary-resettlement-safeguards) (September 2006) | [(PDF)](http://www.adb.org/sites/default/files/evaluation-document/35442/files/sst-reg-2006-14.pdf)
+* *[Involuntary Resettlement Policy](http://www.adb.org/documents/policy-involuntary-resettlement)* (Aug 1995) | [PDF](http://www.adb.org/sites/default/files/institutional-document/32515/files/involuntary-resettlement.pdf) | [NOTES]( "NOTES: ADB 1995 Involuntary Resettlement Policy") 
+    - *[Operations Evaluation Department Evaluation Study: Involuntary Resettlement Safeguards](http://www.adb.org/documents/involuntary-resettlement-safeguards)* (September 2006) | [PDF](http://www.adb.org/sites/default/files/evaluation-document/35442/files/sst-reg-2006-14.pdf)
 
 
 <a name="adb-development-policy"></a>
@@ -74,16 +74,12 @@ While safeguards policies are intended for risk avoidance, mitigation and manage
 
 *[Strategy 2020](http://www.adb.org/documents/strategy-2020-working-asia-and-pacific-free-poverty)* is among the most recent examples of ADB development policy. *Strategy 2020* reaffirms ADB's vision of an Asia and Pacific free of poverty as well as its mission to help its developing member countries improve their living conditions and quality of life. To achieve these ends, *Strategy 2020* prioritizes three complementary development agendas: inclusive economic growth, environmentally sustainable growth, and regional integration. To better ensure that it is achieving the goals of Strategy 2020, ADB also developed a [results framework](http://www.adb.org/site/development-effectiveness/adb-results-framework) to facilitate progress assessments and evaluation of strategy efficacy.
 
-Earlier development policies of the Asian Development Bank include the 2003 *Policy on Gender and Development* (GAD) and the 2001 *Social Protection Strategy*.
+Earlier development policies of the Asian Development Bank include the 2003 *Policy on Gender and Development*  and the 2001 *Social Protection Strategy*.
 
-The *Policy on Gender and Development* seeks to mainstream awareness of gender issues in order to promote gender equality and women’s empowerment across all ADB operations&mdash;from country partnership strategies to the design and implementation of gender-inclusive projects and programs. The GAD policy is a stand-alone instrument for promoting gender equality as a necessary component for realizing sustained economic growth, faster poverty reduction, and inclusive development. Periodic reviews of the GAD policy in 2002 Interim Progress Report on the Policy on GAD and 2006 GAD Policy Implementation Review confirm the Policy’s continued relevance and sound framework for supporting women’s empowerment and gender equality outcomes.
+The 2003 *[Policy on Gender and Development](http://www.adb.org/documents/policy-gender-and-development)* (GAD) seeks to mainstream awareness of gender issues in order to promote gender equality and women’s empowerment across all ADB operations&mdash;from country partnership strategies to the design and implementation of gender-inclusive projects and programs. The GAD policy is a stand-alone instrument and regarded by ADB as a necessary component for realizing sustained economic growth, faster poverty reduction, and inclusive development. THe GAD policy's relevance and approach were confirmed by the 2002 Interim Progress Report on the Policy on GAD and 2006 GAD Policy Implementation Review. Gender issues are also addressed ADB’s long-term strategic framework&mdash;Strategy 2020&mdash;as one of the five [drivers of change](). The results framework measures the Bank's performance with regard to gender issues relative to quantiative targets, which are [tracked and reported annually]().
 
 
-The importance of work on gender issues is included in ADB’s long-term strategic framework&mdash;Strategy 2020&mdash;as one of the five drivers of change.
-
-The corporate results framework to measure performance includes concrete numerical gender targets to be met by 2012. Gender performance is tracked and reported annually.
-
-The 2001 [Social Protection Strategy](http://www.adb.org/Documents/Policies/Social_Protection/default.asp) (SPS) is another such development policy framework.  The SPS establishes the meaning of 'social protection' wtih ADB operations as a as a set of policies and programs designed to reduce poverty and vulnerability by promoting efficient labor markets, diminishing people's exposure to risks, and enhancing their capacity to protect themselves against hazards and interruption/loss of income. Priority interventions under this framework are those supporting social assistance and welfare services, including child protection and micro- and area-based schemes for poverty and vulnerability rediction; social insurance programs to cushion risks associated with unemployment, ill-health, disability, work-related injury and old age; and labor market policies and programs designed to generate employment, improve working conditions.
+The 2001 *[Social Protection Strategy](http://www.adb.org/Documents/Policies/Social_Protection/default.asp)* (SPS) is another such development policy framework.  The SPS establishes the meaning of 'social protection' wtih ADB operations as a as a set of policies and programs designed to reduce poverty and vulnerability by promoting efficient labor markets, diminishing people's exposure to risks, and enhancing their capacity to protect themselves against hazards and interruption/loss of income. Priority interventions under this framework are those supporting social assistance and welfare services, including child protection and micro- and area-based schemes for poverty and vulnerability rediction; social insurance programs to cushion risks associated with unemployment, ill-health, disability, work-related injury and old age; and labor market policies and programs designed to generate employment, improve working conditions.
 
 
 **Current Development Policy Framework:**
@@ -99,7 +95,7 @@ The 2001 [Social Protection Strategy](http://www.adb.org/Documents/Policies/Soci
     - *[ADB’s Results Framework: Interim Update to Align with the Midterm Review of Strategy 2020](http://www.adb.org/documents/adb-results-framework-interim-update-mtr)*  | [(PDF)](http://www.adb.org/sites/default/files/institutional-document/154037/adb-results-framework-interim-update.pdf)
 
 
-* *[Policy on Gender and Development](http://www.adb.org/documents/policy-gender-and-development) (June 2003) | [PDF](http://www.adb.org/sites/default/files/institutional-document/32035/gender-policy.pdf)*  | [NOTES]()
+* *[Policy on Gender and Development](http://www.adb.org/documents/policy-gender-and-development)* (June 2003) | [PDF](http://www.adb.org/sites/default/files/institutional-document/32035/gender-policy.pdf)  | [NOTES]()
     - 2006. [Implementation Review of the Policy on Gender and Development](http://www.adb.org/documents/implementation-review-policy-gender-and-development) | Institutional Document | November 2006
     - [Gender and Development Plan of Action Annual Implementation Progress Reports](http://www.adb.org/documents/series/gender-and-development-plan-action-annual-implementation-progress-reports) [Institutional Document | November 2002]
     - 2002. [Interim Progress Report on the Policy on Gender and Development](http://www.adb.org/documents/interim-progress-report-policy-gender-and-development)

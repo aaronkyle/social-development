@@ -267,56 +267,56 @@ http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTSAFEPOL/0,,cont
     - World Bank Environmental Assessment Website
 
 * [Natural Habitats](http://go.worldbank.org/GIFQKJA130)
-    - [Operational Policy 4.04: Natural Habitats, 2001]()
-    - [Operational Policy 4.04, Annex A: Definitions, 2001]()
-    - [Bank Procedure 4.04: Natural Habitats, 2001]()
+    - [Operational Policy 4.04: Natural Habitats, 2001](http://go.worldbank.org/PS1EF2UHY0)
+    - [Operational Policy 4.04, Annex A: Definitions, 2001](http://go.worldbank.org/326G2UUHO0)
+    - [Bank Procedure 4.04: Natural Habitats, 2001](http://go.worldbank.org/BFOEUOUD10)
 
 * [Forests](http://go.worldbank.org/T22VSH6ZE0)
-    - [Operational Policy 4.36: Forests, 2002]()
-    - [Operational Policy 4.36: Annex A: Definitions, 2002]()
-    - [Bank Procedure 4.36: Forests, 2002]()
-    - [Forests and Forestry Website]()
+    - [Operational Policy 4.36: Forests, 2002](http://go.worldbank.org/MCF2I0UEX0)
+    - [Operational Policy 4.36: Annex A: Definitions, 2002](http://go.worldbank.org/KPUY66UHQ0)
+    - [Bank Procedure 4.36: Forests, 2002](http://go.worldbank.org/9MKTR8UI10)
+    - [Forests and Forestry Website](http://www.worldbank.org/en/topic/forests)
 
 * [Pest Management](http://go.worldbank.org/B7525J60O0)
-    - Operational Policy 4.09: Pest Management, 1998
+    - [Operational Policy 4.09: Pest Management, 1998](http://go.worldbank.org/QNORFLUFR0)
 
 * [Physical Cultural Resources](http://go.worldbank.org/UBUBZD7NA0)
-    - Operational Policy 4.11: Physical Cultural Resources, 2006
-    - Bank Procedure 4.11: Physical Cultural Resources, 2006
+    - [Operational Policy 4.11: Physical Cultural Resources, 2006](http://go.worldbank.org/IHM9G1FOO0)
+    - [Bank Procedure 4.11: Physical Cultural Resources, 2006](http://go.worldbank.org/5SLEKEUDY0)
 
 * [Involuntary Resettlement](http://go.worldbank.org/ZDIJXP7TQ0)
-    - Operational Policy 4.12: Involuntary Resettlement, 2001
-    - Operational Policy 4.12, Annex A: Involuntary Resettlement Instruments, 2001 
-    - Bank Procedure 4.12: Involuntary Resettlement, 2001 
-    - World Bank Involuntary Resettlement Website
+    - [Operational Policy 4.12: Involuntary Resettlement, 2001](http://go.worldbank.org/GM0OEIY580)
+    - [Operational Policy 4.12, Annex A: Involuntary Resettlement Instruments, 2001](http://go.worldbank.org/TWAC2NY620)
+    - [Bank Procedure 4.12: Involuntary Resettlement, 2001](http://go.worldbank.org/NTU2XSY770)
+    - [World Bank Involuntary Resettlement Website](http://go.worldbank.org/MRNITY6XN0)
 
 * [Indigenous Peoples](http://go.worldbank.org/IBZABS9UU0)
-    - NEW:  A Learning Review: Implementation of the World Bank's Indigenous Peoples Policy, August 2011
-    - Operational Policy 4.10: Indigenous Peoples, July 2005 
-    - Operational Policy 4.10, Annex A: Social Assessment, July 2005 
-    - Operational Policy 4.10, Annex B: Indigenous Peoples Plan, July 2005
-    - Operational Policy 4.10, Annex C: Indigenous Peoples Planning Framework, July 2005
-    - Bank Procedure 4.10: Indigenous Peoples, July 2005
-    - World Bank Indigenous Peoples Website
+    - [A Learning Review: Implementation of the World Bank's Indigenous Peoples Policy, August 2011](http://siteresources.worldbank.org/INTSAFEPOL/Resources/Indigenous_peoples_review_august_2011.pdf)
+    - [Operational Policy 4.10: Indigenous Peoples, July 2005](http://go.worldbank.org/UBJJIRUDP0)
+    - [Operational Policy 4.10, Annex A: Social Assessment, July 2005](http://go.worldbank.org/2JDNGHUEO0) 
+    - [Operational Policy 4.10, Annex B: Indigenous Peoples Plan, July 2005](http://go.worldbank.org/MT0N6RUG50)
+    - [Operational Policy 4.10, Annex C: Indigenous Peoples Planning Framework, July 2005](http://go.worldbank.org/O3MO92UEH0)
+    - [Bank Procedure 4.10: Indigenous Peoples, July 2005](http://go.worldbank.org/PG4KQSUDI0)
+    - [World Bank Indigenous Peoples Website](http://www.worldbank.org/en/topic/indigenouspeoples)
 
 * [Safety of Dams](http://go.worldbank.org/6G6AB69P30)
-    - Operational Policies 4.37: Safety of Dams, 2001
-    - Bank Procedures 4.37: Safety of Dams, 2001
-    - Bank Procedures 4.37, Annex A, Dam Safety Reports: Content and Timing, 2001
+    - [Operational Policies 4.37: Safety of Dams, 2001](http://go.worldbank.org/VT2ABMUCZ0)
+    - [Bank Procedures 4.37: Safety of Dams, 2001](http://go.worldbank.org/97G8K0UHB0)
+    - [Bank Procedures 4.37, Annex A, Dam Safety Reports: Content and Timing, 2001](http://go.worldbank.org/KW9UVBUGK0)
 
 * [International Waterways](http://go.worldbank.org/RKU8MDSGV0)
-    - Operational Policy 7.50: Projects on International Waterways, 2001
-    - Bank Procedure 7.50: Projects on International Waterways, 2001
+    - [Operational Policy 7.50: Projects on International Waterways, 2001](http://go.worldbank.org/NEYC01UF60)
+    - [Bank Procedure 7.50: Projects on International Waterways, 2001](http://go.worldbank.org/9UUE7YUEL0)
 
 * [Disputed Areas](http://go.worldbank.org/1RNK0P9WG0)
-    - Operational Policy 7.60: Projects in Disputed Areas, 2001
-    - Bank Procedure 7.60: Projects in Disputed Areas, 2001
+    - [Operational Policy 7.60: Projects in Disputed Areas, 2001](http://go.worldbank.org/P4TDHAUEK1)
+    - [Bank Procedure 7.60: Projects in Disputed Areas, 2001](http://go.worldbank.org/AUPIL7UI00)
 
 [Use of Country Systems](http://go.worldbank.org/PLOLFFSUH0)
-    - Operational Policy 4.00: Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects, 2005
-    - Table A1-Environmental and Social Safeguard Policies—Policy Objectives and Operational Principles, 2005
-    - Bank Procedure 4.00: Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects, 2005
-    - Expanding the Use of Country Systems in Bank-Supported Operations Website
+    - [Operational Policy 4.00: Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects, 2005](http://go.worldbank.org/A23ULAUDG0)
+    - [Table A1-Environmental and Social Safeguard Policies—Policy Objectives and Operational Principles, 2005](http://go.worldbank.org/XFBVTIUDK0)
+    - [Bank Procedure 4.00: Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects, 2005](http://go.worldbank.org/GUVKFVUD70)
+    - [Expanding the Use of Country Systems in Bank-Supported Operations Website](http://go.worldbank.org/RHRJVXDW60)
 
 Related Resources
     - Publications

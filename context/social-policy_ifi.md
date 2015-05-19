@@ -5,14 +5,6 @@ slug: context/social-policy
 status: draft
 
 
-<head>
-<style>
-div { width: 100%; }
-.index { background-color: #ccffcc; }
-</style>
-</head>
-
-
 <!--
 summary: 
 -->
@@ -54,7 +46,6 @@ The safeguards policies of the Asian Development Bank seek to avoid, minimise, o
 
 <ref>Asian Development Bank (ADB). 2009. January 2009 Safeguard Policy Statement (SPS). Manila: Asian Development Bank [p.1]. Available at : http://www.adb.org/Documents/Brochures/InBriefs/Safeguard-Policies.pdf [last accessed 01 May 2009]</ref>
 
-<div class="index">
 **Current Safeguard Policy Framework:**
 
 * [Safeguard Policy Statement (Jun 2009)](http://www.adb.org/Documents/Policies/Safeguards/Safeguard-Policy-Statement-June2009.pdf)
@@ -76,7 +67,7 @@ The safeguards policies of the Asian Development Bank seek to avoid, minimise, o
 
 * [Involuntary Resettlement](http://www.adb.org/documents/policy-involuntary-resettlement) (Aug 1995) [[NOTES: ADB 1995 Involuntary Resettlement Policy | (NOTES)]]  [(PDF)](http://www.adb.org/sites/default/files/institutional-document/32515/files/involuntary-resettlement.pdf)
     - [Operations Evaluation Department Evaluation Study: Involuntary Resettlement Safeguards](http://www.adb.org/documents/involuntary-resettlement-safeguards) (September 2006) | [(PDF)](http://www.adb.org/sites/default/files/evaluation-document/35442/files/sst-reg-2006-14.pdf)
-</div>
+
 
 <a name="adb-development-policy"></a>
 #### Development Policy
@@ -99,46 +90,47 @@ The 2001 [Social Protection Strategy](http://www.adb.org/Documents/Policies/Soci
 
 **Current Development Policy Framework:**
 
-* [Strategy 2020: Working for an Asia and Pacific Free of Poverty (April 2008)](http://www.adb.org/documents/strategy-2020-working-asia-and-pacific-free-poverty) | [print](http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-print.pdf) | [board paper](http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-board-doc.pdf) | [brochure](http://www.adb.org/sites/default/files/institutional-document/32121/brochure-strategy2020.pdf)
+* *[Strategy 2020: Working for an Asia and Pacific Free of Poverty](http://www.adb.org/documents/strategy-2020-working-asia-and-pacific-free-poverty)* (April 2008) | [print](http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-print.pdf) | [board paper](http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-board-doc.pdf) | [brochure](http://www.adb.org/sites/default/files/institutional-document/32121/brochure-strategy2020.pdf)
     - [Midterm Review of Strategy 2020 Action Plan](http://www.adb.org/documents/midterm-review-strategy-2020-action-plan)
 
 * [ADB Results Framework](http://www.adb.org/site/development-effectiveness/adb-results-framework)
-    - [ADB Results Framework 2013-2016: Quick Guide](http://www.adb.org/documents/adb-results-framework-2013-2016-quick-guide) | [PDF](http://www.adb.org/documents/adb-results-framework-2013-2016-quick-guide)
-    - [Results Framework Indicator Definitions](http://www.adb.org/documents/supplementary-appendix-a-indicator-definitions) | [PDF](http://www.adb.org/sites/default/files/institutional-document/33902/rf-indicator-definitions.pdf)
-    - [Standard Explanatory Data Definitions](http://www.adb.org/documents/supplementary-appendix-b-standard-explanatory-data-definitions) | [PDF](http://www.adb.org/sites/default/files/institutional-document/33903/rf-sed-definitions.pdf)
-    - [Review of the ADB Results Framework](http://www.adb.org/documents/review-adb-results-framework)
-    - [ADB’s Results Framework: Interim Update to Align with the Midterm Review of Strategy 2020](http://www.adb.org/documents/adb-results-framework-interim-update-mtr)  | [(PDF)](http://www.adb.org/sites/default/files/institutional-document/154037/adb-results-framework-interim-update.pdf)
+    - *[ADB Results Framework 2013-2016: Quick Guide](http://www.adb.org/documents/adb-results-framework-2013-2016-quick-guide)* | [PDF](http://www.adb.org/documents/adb-results-framework-2013-2016-quick-guide)
+    - *[Results Framework Indicator Definitions](http://www.adb.org/documents/supplementary-appendix-a-indicator-definitions)* | [PDF](http://www.adb.org/sites/default/files/institutional-document/33902/rf-indicator-definitions.pdf)
+    - *[Standard Explanatory Data Definitions](http://www.adb.org/documents/supplementary-appendix-b-standard-explanatory-data-definitions)* | [PDF](http://www.adb.org/sites/default/files/institutional-document/33903/rf-sed-definitions.pdf)
+    - *[Review of the ADB Results Framework](http://www.adb.org/documents/review-adb-results-framework)*
+    - *[ADB’s Results Framework: Interim Update to Align with the Midterm Review of Strategy 2020](http://www.adb.org/documents/adb-results-framework-interim-update-mtr)*  | [(PDF)](http://www.adb.org/sites/default/files/institutional-document/154037/adb-results-framework-interim-update.pdf)
 
 
-* [Policy on Gender and Development](http://www.adb.org/documents/policy-gender-and-development) (June 2003) | [PDF](http://www.adb.org/sites/default/files/institutional-document/32035/gender-policy.pdf) [[NOTES: ADB 2003 Gender and Development Policy | (NOTES)]] 
+* *[Policy on Gender and Development](http://www.adb.org/documents/policy-gender-and-development) (June 2003) | [PDF](http://www.adb.org/sites/default/files/institutional-document/32035/gender-policy.pdf)*  | [NOTES]()
     - 2006. [Implementation Review of the Policy on Gender and Development](http://www.adb.org/documents/implementation-review-policy-gender-and-development) | Institutional Document | November 2006
     - [Gender and Development Plan of Action Annual Implementation Progress Reports](http://www.adb.org/documents/series/gender-and-development-plan-action-annual-implementation-progress-reports) [Institutional Document | November 2002]
     - 2002. [Interim Progress Report on the Policy on Gender and Development](http://www.adb.org/documents/interim-progress-report-policy-gender-and-development)
 
-* [Social Protection Strategy](http://www.adb.org/documents/social-protection-strategy) (January 2001)
-    - [Social Protection Operational Plan 2014−2020](http://www.adb.org/documents/social-protection-operational-plan-2014-2020) (December 2013)
+* *[Social Protection Strategy](http://www.adb.org/documents/social-protection-strategy)* (January 2001)
+    - *[Social Protection Operational Plan 2014−2020](http://www.adb.org/documents/social-protection-operational-plan-2014-2020)* (December 2013)
 This operational plan provides strategic directions for ADB's support to its developing members to strengthen social protection systems.
-    - [Special Evaluation Study on ADB’s Social Protection Strategy](http://www.adb.org/documents/special-evaluation-study-adb-s-social-protection-strategy) (Evaluation Document | 7 November 2012)
+    - *[Special Evaluation Study on ADB’s Social Protection Strategy](http://www.adb.org/documents/special-evaluation-study-adb-s-social-protection-strategy)* (Evaluation Document | 7 November 2012)
 
 
 **Previous Development Policies:**
 
-* Poverty Reduction Policy 2004 [[NOTES: ADB 2004 Poverty Reduction Policy | (NOTES)]]
-    - <strike>[Operations Manual Section F3/OP (13 May 2004)](http://www.adb.org/Documents/Manuals/Operations/OMF03_13may04.pdf)</strike>
-    - [Operations Manual Section C1/BP Poverty Reduction (14 July 2004)](http://www.adb.org/documents/manuals/operations/OMC01_14jul04.pdf)
+* Poverty Reduction Policy 2004 | [NOTES]()
+    - *[Operations Manual Section F3/OP](http://www.adb.org/Documents/Manuals/Operations/OMF03_13may04.pdf)* (13 May 2004)
+    - *[Operations Manual Section C1/BP Poverty Reduction](http://www.adb.org/documents/manuals/operations/OMC01_14jul04.pdf)* (14 July 2004)
 
 
 
 <a name="adb-operational-policy"></a>
 #### Operational Policy
 
-*[Public Communications Policy (March 2005)](http://www.adb.org/Documents/Policies/PCP/PCP-R-Paper.pdf) [[NOTES: ADB 2005 Public Communications Policy | (NOTES)]]
+* *[Public Communications Policy (March 2005)](http://www.adb.org/Documents/Policies/PCP/PCP-R-Paper.pdf)* [[NOTES: ADB 2005 Public Communications Policy | (NOTES)]]
 
 
-December 2013
-Implementation Review: Second Governance and Anticorruption Action Plan (GACAP II)
+* [Implementation Review: Second Governance and Anticorruption Action Plan (GACAP II)]()* (December 2013)
+
 The objective of this implementation review of the ADB GACAP II is to determine its effectiveness in mainstreaming governance and anticorruption in ADB operations from July 2006 to December 2012.
 
+<a name="adb-implementation-resources"></a>
 ### Implementation Resources
 
 
@@ -148,10 +140,10 @@ The objective of this implementation review of the ADB GACAP II is to determine 
 
 Project categorization forms are available for:
 
-* environment [[PDF]](http://www.adb.org/Documents/Guidelines/Environmental_Assessment/Environmental-Categorization-Form.pdf) [[Doc]](http://www.adb.org/Documents/Guidelines/Environmental_Assessment/Environmental-Categorization-Form.doc)
+* environment | [PDF](http://www.adb.org/Documents/Guidelines/Environmental_Assessment/Environmental-Categorization-Form.pdf) | [.doc](http://www.adb.org/Documents/Guidelines/Environmental_Assessment/Environmental-Categorization-Form.doc)
    - [Environment Safeguard](http://www.adb.org/site/safeguards/environment)
-* involuntary resettlement [[PDF]](http://www.adb.org/Documents/Guidelines/Resettlement/IR-Categorization-Form.pdf) [[Doc]](http://www.adb.org/Documents/Guidelines/Resettlement/IR-Categorization-Form.doc)
-* Indigenous Peoples [[PDF]](http://www.adb.org/Documents/Guidelines/IndigenousPeoples/IP-Categorization-Form-Jun2010.pdf) [[Doc]](http://www.adb.org/Documents/Guidelines/IndigenousPeoples/IP-Categorization-Form-Jun2010.doc)
+* involuntary resettlement | [PDF](http://www.adb.org/Documents/Guidelines/Resettlement/IR-Categorization-Form.pdf) | [.doc](http://www.adb.org/Documents/Guidelines/Resettlement/IR-Categorization-Form.doc)
+* Indigenous Peoples | [PDF](http://www.adb.org/Documents/Guidelines/IndigenousPeoples/IP-Categorization-Form-Jun2010.pdf) | [.doc](http://www.adb.org/Documents/Guidelines/IndigenousPeoples/IP-Categorization-Form-Jun2010.doc)
 
 Rapid Environment Assessment checklists for many different sectors are available [here](http://www.adb.org/documents/Guidelines/Environmental_Assessment/eaguidelines002.asp).
 
@@ -161,12 +153,12 @@ Rapid Environment Assessment checklists for many different sectors are available
 
 #### Guidance on Achiving Good Practice
 
-*[Handbook on Resettlement: A Guide to Good Practice](http://www.adb.org/Documents/Handbooks/Resettlement/Handbook_on_Resettlement.pdf) (1998)
+* *[Handbook on Resettlement: A Guide to Good Practice](http://www.adb.org/Documents/Handbooks/Resettlement/Handbook_on_Resettlement.pdf)* (1998)
 
-*[Handbook on Social Analysis, A Working Document](http://www.adb.org/Documents/Handbooks/Social-Analysis/social-analysis-handbook.pdf) (Nov 2007)
+* *[Handbook on Social Analysis, A Working Document](http://www.adb.org/Documents/Handbooks/Social-Analysis/social-analysis-handbook.pdf)* (Nov 2007)
 
-*[Public_Consultation_Information_Disclosure.pdf Implementation Notes on Public Consultation and Disclosure](http://www.adb.org/documents/guidelines/environmental_assessment/)
-   - [Environment Safeguards: A Good Practice Sourcebook (Draft Working Document)](http://www.adb.org/documents/environment-safeguards-good-practice-sourcebook) [December 2012]
+* [Public_Consultation_Information_Disclosure.pdf Implementation Notes on Public Consultation and Disclosure](http://www.adb.org/documents/guidelines/environmental_assessment/)
+   - *[Environment Safeguards: A Good Practice Sourcebook](http://www.adb.org/documents/environment-safeguards-good-practice-sourcebook)* [December 2012 (Draft Working Document)]
 
 
 #### Case Studies

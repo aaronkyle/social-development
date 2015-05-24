@@ -193,6 +193,8 @@ Rapid Environment Assessment checklists for many different sectors are available
 <a name="world-bank-policy"></a> 
 ### Policy
 
+[Social Development Policies](http://www.worldbank.org/en/topic/socialdevelopment/brief/social-development-policies)
+
 Policy: a statement of broad substantive policy principles that require, permit or constrain Bank activities to achieve institutional goals.
 
 
@@ -325,8 +327,23 @@ Related Resources
 	
 
 
+---
 
 
+* [Expanding the Use of Country Systems in Bank-Supported Operations](http://go.worldbank.org/RHRJVXDW60)
+
+* [Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects](http://go.worldbank.org/PLOLFFSUH0)
+
+* [OP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects](http://go.worldbank.org/A23ULAUDG0)
+* [BP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects](http://go.worldbank.org/GUVKFVUD70)
+
+* [Table A1 - Environmental and Social Safeguard Policies—Policy Objectives and Operational Principles](http://go.worldbank.org/XFBVTIUDK0)
+
+
+---
+
+
+[Access to Information](http://go.worldbank.org/TRCDVYJ440)
 
 ---
 
@@ -334,6 +351,9 @@ Related Resources
 
 * [Operational Policy 4.10: Indigenous Peoples (Jul 2005)](http://wbln0018.worldbank.org/Institutional/Manuals/OpManual.nsf/B52929624EB2A3538525672E00775F66/0F7D6F3F04DD70398525672C007D08ED?OpenDocument)
 * [Operational Policy 4.01: Environmental Assessment (Jan 1999)](http://wbln0018.worldbank.org/Institutional/Manuals/OpManual.nsf/944eea1d5fb31d95852564a30060b223/9367a2a9d9daeed38525672c007d0972?OpenDocument)
+
+
+
 
 
 #### Operational Directive
@@ -361,6 +381,7 @@ A number of World Bank operational policies deal specifically with social develo
 * The World Bank Operational Manual
 
 
+[Social Protection & Labor](http://www.worldbank.org/en/topic/socialprotectionlabor)
 
 ### Implementation Resources
 

@@ -13,7 +13,6 @@ This post lists (and attempts to establish some manner of categorising) social p
 
 I compiled (and am publicly sharing) this index because I have found it difficult to identify and compare social policy within and among institutions.
 
-
 ----
 
 **A brief aside about terminology:**
@@ -22,20 +21,24 @@ While major international financial institutions have, over the years, been harm
 
 Consider the following:
 
-Most IFIs compile some sort of **operations manual** of policies, building from institutional their charters or mandates.
+Most IFIs compile some form of **operations manual** comprised of policies for effecting the mandates of their institutional charters. In addition to board-approved policies and regulations, some IFI **operations manuals** also include notes of guidance for bank staff and clients that elaborate on the intended meaning of policy provisions and which are intended to facilitate better policy implementation. For example, while the Asian Development Bank's operations manual refers only to policies (which the ADB terms **operational procedures**, or OPs), the operations manual of the World Bank contains **operational policies** (OPs), **bank procedures** (BPs), **directives**, as well as interim instructions to staff (referred to OpMemos). It can be hard to distinguish 'policy' from 'guidance', and still more difficult to discern what is "required" as opposed to that which is simply "recommended" (a question that my clients often pose when considering my recommendations for policy implementation).
 
-In addition to board-approved policies and regulations, IFI **operations manuals** my also include notes of guidance for bank staff and clients that elaborate on the intended meaning of policy provisions and which are intended to facilitate better policy implementation.
+It can also be challenging to identify the range of social policy that may be applicable to a given project or development initiative. In recent years, **safeguards policies** have been receiving considerable media attention as IFIs continue to invest time and resources in updating their safeguard policy frameworks. Yet safeguards are but one aspect of **social policy**.  Other aspects include **social development policy** (including initiatives to mainstream gender-sensitive development; initiatives to ensure the participation and empowerment of people and communities affected by development processes), **social protection policy** (including social assistance and welfare service programs including child protection and micro- and area based schemes to address poverty, and vulnerability; social insurance programs to cushion risks associated with unemployment, ill-health, disability, work-related injury and old age; and labour market policies and programs designed to generate employment, improve working conditions), **human rights law**, etc. Unfortunately, IFI institutional treatments of social issues (such as web and print publications touting institutional contributions to social development) seldom help to situate different institutional initiatives and activities within their greater policy contexts. Adding an additional layer of complexity to any discussion of 'social policy' among international financial institutions (IFIs) are those policies that have an apparent 'social' orientation, but which are operational policies that come to bear only on internal bank operations.
 
-It can be hard to distinguish 'policy' from 'guidance', and still more difficult to discern what is "required" as opposed to that which is simply "recommended" (a question that my clients often pose when considering my recommendations for policy implementation).
+To help me to compare and differentiate between different different forms of social policy, I adopt three organizational categories:
 
-It can also be difficult to identify what may count as 'social policy' within each institution--or even to gain a comprehensive  understanding of the potential range of social policy that may be applicable to a given project or development initiative.
-
-
+1. Safeguards Policy
+2. Development Policy
+3. Operational Policies
 
 
 ----
 
-Please accept my work as on-going, and please also recognize that this list is not meant to be exhaustive; my focus is specific to social development concerns.
+**And a short disclaimer:**
+
+Please accept my work as on-going. I continue to struggle to account for what constitutes 'social policy' for a given lending institution.
+
+Please also recognize that this list is not meant to be exhaustive; my focus is specific to social development concerns.
 
 <hr />
 
@@ -65,9 +68,9 @@ Please accept my work as on-going, and please also recognize that this list is n
 <a name="adb-policy"></a>
 ### Policy
 
-Investments of the Asian Development Bank must accord with the ADB's mandate . Investment decisions are made in deference to internal strategies for reaching developmental targets&mdash;the implementation of which is guided by a few key **[operational policies](#adb-operational-policy)** and **[development policies](#adb-development-policy)**.  Borrower clients must comply with ADB policy and regulatory frameworks for avoiding and mitigating social and environmental risks as specified by the ADB's **[safeguard policy](#adb-safeguards-policy)**.
+Investments of the Asian Development Bank must accord with the [ADB Charter](http://www.adb.org/documents/agreement-establishing-asian-development-bank-adb-charter) . Investment decisions are made in deference to internal strategies for reaching developmental targets&mdash;the implementation of which is guided by a few key **[operational policies](#adb-operational-policy)** and **[development policies](#adb-development-policy)**.  Borrower clients must comply with ADB policy and regulatory frameworks for avoiding and mitigating social and environmental risks as specified by the ADB's **[safeguard policy](#adb-safeguards-policy)**.
 
-
+* [Agreement Establishing the Asian Development Bank (ADB Charter)](http://www.adb.org/documents/agreement-establishing-asian-development-bank-adb-charter) (December 1965)
 * [Operations Manual](http://www.adb.org/documents/operations-manual) (October 2003)
 
 <a name="adb-safeguards-policy"></a>
@@ -88,15 +91,18 @@ The safeguards policies of the Asian Development Bank seek to avoid, minimise, o
 * *[Environment Policy](http://www.adb.org/documents/environment-policy-asian-development-bank)* (Nov 2002) | [PDF](http://www.adb.org/sites/default/files/institutional-document/33343/files/environment-policy.pdf)
     - [Operations Evaluation Department Evaluation Study: Environmental Safeguards](http://www.adb.org/documents/environmental-safeguards) (Sept 2006) | [(PDF)](http://www.adb.org/sites/default/files/evaluation-document/35443/files/ses-es.pdf)
 
-* *[Social Protection Strategy](http://www.adb.org/Documents/Policies/Social_Protection/default.asp)* (Aug 2001) | [print version]( "published July 2003") | [NOTES]( "NOTES: ADB 2001 Social Protection Strategy")
-   - [Social Protection Progress Report to the Board of Directors (Sept 2002)](http://www.adb.org/Documents/Reports/Social_Protection/IN252-02.pdf)
-
 * *[Policy on Indigenous Peoples](http://www.adb.org/documents/policy-indigenous-peoples)*  (1998) | [(PDF)](http://www.adb.org/sites/default/files/institutional-document/33441/files/policy-indigenous-peoples.pdf) | [NOTES]( "NOTES: ADB 1998 Indigenous Peoples Policy")
    - *[Operations Manual Section F3/B 'Indigenous Peoples'](http://www.adb.org/documents/manuals/operations/OMF03-25Sep06.pdf)* (25 September 2006)
    - *[Operations Evaluation Department Evaluation Study: Indigenous Peoples Safeguards](http://www.oecd.org/dataoecd/43/22/38984072.pdf)* (Feb 2007) | [PDF](http://www.adb.org/sites/default/files/evaluation-document/35441/files/sst-reg-2007-01.pdf)
 
 * *[Involuntary Resettlement Policy](http://www.adb.org/documents/policy-involuntary-resettlement)* (Aug 1995) | [PDF](http://www.adb.org/sites/default/files/institutional-document/32515/files/involuntary-resettlement.pdf) | [NOTES]( "NOTES: ADB 1995 Involuntary Resettlement Policy") 
     - *[Operations Evaluation Department Evaluation Study: Involuntary Resettlement Safeguards](http://www.adb.org/documents/involuntary-resettlement-safeguards)* (Sept 2006) | [PDF](http://www.adb.org/sites/default/files/evaluation-document/35442/files/sst-reg-2006-14.pdf)
+
+
+**Non-Policy Safeguard Frameworks:**
+
+* *[Social Protection Strategy](http://www.adb.org/Documents/Policies/Social_Protection/default.asp)* (Aug 2001) | [print version]( "published July 2003") | [NOTES]( "NOTES: ADB 2001 Social Protection Strategy")
+   - [Social Protection Progress Report to the Board of Directors (Sept 2002)](http://www.adb.org/Documents/Reports/Social_Protection/IN252-02.pdf)
 
 
 <a name="adb-development-policy"></a>
@@ -229,6 +235,9 @@ Bank Procedures (BPs): are statements setting out the general mandatory procedur
 Directive: a statement of substantive directions, within Management’s authority, that require, permit or constrain activities. If accompanied by a Policy, the statement provides substantive details (methods, criteria and technical information) on how to implement the Policy. The statement may also address matters not covered by a Policy.
 
 Operational Memoranda (OpMemos): are interim mandatory requirements designed to elaborate on requirements in OPs/BPs or to reflect changes to the OPs/BPs which have not yet been incorporated in the OPs/BPs concerned. Once the requirements in OpMemos are incorporated into revisions of the pertinent OPs/BPs, the Op Memos are retired.
+
+
+* [IBRD Articles of Agreement](http://go.worldbank.org/IB13V68520) (As amended effective June 27, 2012) | [PDF](http://siteresources.worldbank.org/EXTABOUTUS/Resources/IBRDArticlesOfAgreement_links.pdf)
 
 
 <a name="world-bank-safeguards-policy"></a>

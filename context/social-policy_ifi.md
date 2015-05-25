@@ -9,9 +9,31 @@ status: draft
 summary: 
 -->
 
-This post attempts to list and group social policy among the international financial institutions (IFIs).
+This post lists (and attempts to establish some manner of categorising) social policy among international financial institutions (IFIs).
 
-I contribute this index because I find it difficult to quickly identify and compare the structure and organization of social policy within and among institutions&mdash;a task that I find can is facilitated by this 'master list'.
+I compiled (and am publicly sharing) this index because I have found it difficult to identify and compare social policy within and among institutions.
+
+
+----
+
+**A brief aside about terminology:**
+
+While major international financial institutions have, over the years, been harmonizing both the structure and content of their social policy, there remain several critical points of distinction.  In policy contexts, attention to terminology is important. Over the years, I have worked to develop my own definitions for social policy terminology (a defining feature of the [applied-anthro](http://applied-anthro.com/) website) for better clarity and continuity in my writing. My lexicon is shaped by the definitions used by the IFIs, but I sometimes depart from the definitional parameters they ascribe to a term--especially when discussing broader phenomenological concerns. Comparative analysis of social policy is a particularly challenging topic for maintaining terminological clarity and consistency.
+
+Consider the following:
+
+Most IFIs compile some sort of **operations manual** of policies, building from institutional their charters or mandates.
+
+In addition to board-approved policies and regulations, IFI **operations manuals** my also include notes of guidance for bank staff and clients that elaborate on the intended meaning of policy provisions and which are intended to facilitate better policy implementation.
+
+It can be hard to distinguish 'policy' from 'guidance', and still more difficult to discern what is "required" as opposed to that which is simply "recommended" (a question that my clients often pose when considering my recommendations for policy implementation).
+
+It can also be difficult to identify what may count as 'social policy' within each institution--or even to gain a comprehensive  understanding of the potential range of social policy that may be applicable to a given project or development initiative.
+
+
+
+
+----
 
 Please accept my work as on-going, and please also recognize that this list is not meant to be exhaustive; my focus is specific to social development concerns.
 
@@ -45,6 +67,8 @@ Please accept my work as on-going, and please also recognize that this list is n
 
 Investments of the Asian Development Bank must accord with the ADB's mandate . Investment decisions are made in deference to internal strategies for reaching developmental targets&mdash;the implementation of which is guided by a few key **[operational policies](#adb-operational-policy)** and **[development policies](#adb-development-policy)**.  Borrower clients must comply with ADB policy and regulatory frameworks for avoiding and mitigating social and environmental risks as specified by the ADB's **[safeguard policy](#adb-safeguards-policy)**.
 
+
+* [Operations Manual](http://www.adb.org/documents/operations-manual) (October 2003)
 
 <a name="adb-safeguards-policy"></a>
 #### Safeguards Policy

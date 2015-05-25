@@ -23,13 +23,21 @@ Consider the following:
 
 Most IFIs compile some form of **operations manual** comprised of policies for effecting the mandates of their institutional charters. In addition to board-approved policies and regulations, some IFI **operations manuals** also include notes of guidance for bank staff and clients that elaborate on the intended meaning of policy provisions and which are intended to facilitate better policy implementation. For example, while the Asian Development Bank's operations manual refers only to policies (which the ADB terms **operational procedures**, or OPs), the operations manual of the World Bank contains **operational policies** (OPs), **bank procedures** (BPs), **directives**, as well as interim instructions to staff (referred to OpMemos). It can be hard to distinguish 'policy' from 'guidance', and still more difficult to discern what is "required" as opposed to that which is simply "recommended" (a question that my clients often pose when considering my recommendations for policy implementation).
 
-It can also be challenging to identify the range of social policy that may be applicable to a given project or development initiative. In recent years, **safeguards policies** have been receiving considerable media attention as IFIs continue to invest time and resources in updating their safeguard policy frameworks. Yet safeguards are but one aspect of **social policy**.  Other aspects include **social development policy** (including initiatives to mainstream gender-sensitive development; initiatives to ensure the participation and empowerment of people and communities affected by development processes), **social protection policy** (including social assistance and welfare service programs including child protection and micro- and area based schemes to address poverty, and vulnerability; social insurance programs to cushion risks associated with unemployment, ill-health, disability, work-related injury and old age; and labour market policies and programs designed to generate employment, improve working conditions), **human rights law**, etc. Unfortunately, IFI institutional treatments of social issues (such as web and print publications touting institutional contributions to social development) seldom help to situate different institutional initiatives and activities within their greater policy contexts. Adding an additional layer of complexity to any discussion of 'social policy' among international financial institutions (IFIs) are those policies that have an apparent 'social' orientation, but which are operational policies that come to bear only on internal bank operations.
+It can also be challenging to identify the range of social policy that may be applicable to a given project or development initiative. In recent years, **safeguards policies** have been receiving considerable media attention as IFIs continue to invest time and resources in updating their safeguard policy frameworks. Yet safeguards are but one aspect of **social policy**.  Other aspects include **social development policy** (including initiatives to mainstream gender-sensitive development; initiatives to ensure the participation and empowerment of people and communities affected by development processes), **social welfare** (including social assistance and welfare service programs), **social protection policy** (including child protection and micro- and area based schemes to address poverty, and vulnerability; social insurance programs to cushion risks associated with unemployment, ill-health, disability, work-related injury and old age; and labour market policies and programs designed to generate employment, improve working conditions), **human rights law**, etc. Unfortunately, IFI institutional treatments of social issues (such as web and print publications touting institutional contributions to social development) seldom help to situate different institutional initiatives and activities within their greater policy contexts. Adding an additional layer of complexity to any discussion of 'social policy' among international financial institutions (IFIs) are those policies that have an apparent 'social' orientation, but which are operational policies that come to bear only on internal bank operations, such as the Conflict and Development policy .
 
-To help me to compare and differentiate between different different forms of social policy, I adopt three organizational categories:
+To help me to compare and differentiate between different forms of social policy, I adopt three organizational categories:
 
 1. Safeguards Policy
+
+Safeguards policies  seek to avoid, minimise, or mitigate harmful environmental and social risks, impacts, and costs that may result from development initiatives. 
+
 2. Development Policy
+
+Development policies define aspirational notions of 'social development' and specify how these aims can be realized in practice.
+
 3. Operational Policies
+
+Operational policies govern internal operations.
 
 
 ----
@@ -108,7 +116,7 @@ The safeguards policies of the Asian Development Bank seek to avoid, minimise, o
 <a name="adb-development-policy"></a>
 #### Development Policy
 
-While safeguards policies are intended for risk avoidance, mitigation and management, other forms of social policy govern how the ADB investment in development initiatives. These 'developmetn policies' define the ADB's aspirational notion of 'social development' and specify how these aims can be realized in practice.
+While safeguards policies are intended for risk avoidance, mitigation and management, other forms of social policy govern how the ADB investment in development initiatives. These 'development policies' define the ADB's aspirational notion of 'social development' and specify how these aims can be realized in practice.
 
 *[Strategy 2020](http://www.adb.org/documents/strategy-2020-working-asia-and-pacific-free-poverty)* is among the most recent examples of ADB development policy. *Strategy 2020* reaffirms ADB's vision of an Asia and Pacific free of poverty as well as its mission to help its developing member countries improve their living conditions and quality of life. To achieve these ends, *Strategy 2020* prioritizes three complementary development agendas: inclusive economic growth, environmentally sustainable growth, and regional integration. To better ensure that it is achieving the goals of Strategy 2020, ADB also developed a [results framework](http://www.adb.org/site/development-effectiveness/adb-results-framework) to facilitate progress assessments and evaluation of strategy efficacy.
 
@@ -238,6 +246,10 @@ Operational Memoranda (OpMemos): are interim mandatory requirements designed to 
 
 
 * [IBRD Articles of Agreement](http://go.worldbank.org/IB13V68520) (As amended effective June 27, 2012) | [PDF](http://siteresources.worldbank.org/EXTABOUTUS/Resources/IBRDArticlesOfAgreement_links.pdf)
+
+
+Social policies in the World Bank have evolved into three conceptually and operationally separate agendas: social welfare, social protection and social development.
+
 
 
 <a name="world-bank-safeguards-policy"></a>

@@ -476,8 +476,20 @@ A number of World Bank operational policies deal specifically with social develo
 <a name="ifc"></a>
 ## International Finance Corporation (IFC)
 
+
+IFC, a member of the World Bank Group, is the largest global development institution focused exclusively on the private sector in developing countries. 
+ 
+Established in 1956, IFC is owned by 184 member countries, a group that collectively determines our policies. Our work in more than 100 developing countries allows companies and financial institutions in emerging markets to create jobs, generate tax revenues, improve corporate governance and environmental performance, and contribute to their local communities.
+ 
+IFC’s vision is that people should have the opportunity to escape poverty and improve their lives.
+
 <a name="ifc-policy"></a>
 ### Policy
+
+* [IFC ARTICLES OF AGREEMENT](http://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/about+ifc/articles+of+agreement)
+
+* [IFC Corporate Governance Manual](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/corporate+governance/publications/toolkits+and+manuals/ifc+corporate+governance+manual)
+
 
 ### Sustainability Framework
 
@@ -541,6 +553,8 @@ Earlier versions of IFC's environmental and social policies, procedures, and sta
 #### Policy Guidance Notes
 
 *[Guidance Notes: Performance Standards on Social & Environmental Sustainability](http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/pol_GuidanceNote2007_full/$FILE/2007+Updated+Guidance+Notes_full.pdf)
+
+* [IFC Corporate Governance Manual](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/corporate+governance/publications/toolkits+and+manuals/ifc+corporate+governance+manual)
 
 
 #### Guidance on Achiving Good Practice
@@ -607,6 +621,8 @@ Earlier versions of IFC's environmental and social policies, procedures, and sta
 * [EBRD Environmental and Social Policy and Performance Requirements (2008)](http://www.ebrd.com/about/policies/enviro/policy/2008policy.pdf)
 
 ### Implementation Resources
+
+
 
 * [EBRD Guidance Note on Indigenous Peoples (03 Dec 2010)](http://www.ebrd.com/downloads/research/guides/indp.pdf) [(alt link)](http://www.ebrd.com/pages/research/publications/guides/indp.shtml)
 

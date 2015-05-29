@@ -476,8 +476,20 @@ A number of World Bank operational policies deal specifically with social develo
 <a name="ifc"></a>
 ## International Finance Corporation (IFC)
 
+
+IFC, a member of the World Bank Group, is the largest global development institution focused exclusively on the private sector in developing countries. 
+ 
+Established in 1956, IFC is owned by 184 member countries, a group that collectively determines our policies. Our work in more than 100 developing countries allows companies and financial institutions in emerging markets to create jobs, generate tax revenues, improve corporate governance and environmental performance, and contribute to their local communities.
+ 
+IFC’s vision is that people should have the opportunity to escape poverty and improve their lives.
+
+
 <a name="ifc-policy"></a>
 ### Policy
+
+* [IFC ARTICLES OF AGREEMENT](http://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/about+ifc/articles+of+agreement)
+
+* [IFC Corporate Governance Manual](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/corporate+governance/publications/toolkits+and+manuals/ifc+corporate+governance+manual)
 
 ### Sustainability Framework
 
@@ -518,6 +530,9 @@ Investments made prior to April 30, 2006 are subject to the Safeguard Policies.
 
 
 * [Policy on Disclosure of Information](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_Disclosure2006/$FILE/Disclosure2006.pdf)
+
+-* [IFC Corporate Governance Manual](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/corporate+governance/publications/toolkits+and+manuals/ifc+corporate+governance+manual)
+-
 
 ### Implementation Resources
 

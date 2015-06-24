@@ -510,32 +510,32 @@ http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTSAFEPOL/0,,cont
 <td>OP 3.10</td><td>Financial Terms and Conditions of IBRD Loans, IBRD Hedging Products, and IDA Credits</td>
 </tr>
 <tr>
-<td>Annex A</td><td>Past Loans of IBRD</td>
+<td></td><td>Annex A - Past Loans of IBRD</td>
 </tr>
 <tr>
-<td>Annex B</td><td>Prepayment of IBRD Loans</td>
+<td></td><td>Annex B - Prepayment of IBRD Loans</td>
 </tr>
 <tr>
-<td>Annex C</td><td>Countries Ranked by Per Capita Income</td>
+<td></td><td>Annex C - Countries Ranked by Per Capita Income</td>
 </tr>
 <tr>
-<td>Annex D</td><td>IBRD/IDA and Blend Countries: Per Capita Incomes, Lending Eligibility, and Repayment Terms
+<td></td><td>Annex D - IBRD/IDA and Blend Countries: Per Capita Incomes, Lending Eligibility, and Repayment Terms
 OP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects</td>
 </tr>
 <tr>
-<td>Table A1</td><td>Environmental and Social Safeguard Policies—Policy Objectives and Operational Principles</td>
+<td></td><td>Table A1 - Environmental and Social Safeguard Policies—Policy Objectives and Operational Principles</td>
 </tr>
 <tr>
 <td>OP 4.01</td><td>Environmental Assessment</td>
 </tr>
 <tr>
-<td>Annex A</td><td>Definitions</td>
+<td></td><td>Annex A - Definitions</td>
 </tr>
 <tr>
-<td>Annex B</td><td>Content of an Environmental Assessment Report for a Category A Project</td>
+<td></td><td>Annex B - Content of an Environmental Assessment Report for a Category A Project</td>
 </tr>
 <tr>
-<td>Annex C</td><td>Environmental Management Plan</td>
+<td></td><td>Annex C - Environmental Management Plan</td>
 </tr>
 <tr>
 <td>OP 4.02</td><td>Environmental Action Plans</td>
@@ -547,7 +547,7 @@ OP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Soci
 <td>OP 4.04</td><td>Natural Habitats</td>
 </tr>
 <tr>
-<td>Annex A</td><td>Definitions</td>
+<td></td><td>Annex A - Definitions</td>
 </tr>
 <tr>
 <td>OP 4.07</td><td>Water Resources Management</td>
@@ -559,13 +559,13 @@ OP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Soci
 <td>OP 4.10</td><td>Indigenous Peoples</td>
 </tr>
 <tr>
-<td>Annex A</td><td>Social Assessment</td>
+<td></td><td>Annex A - Social Assessment</td>
 </tr>
 <tr>
-<td>Annex B</td><td>Indigenous Peoples Plan</td>
+<td></td><td>Annex B - Indigenous Peoples Plan</td>
 </tr>
 <tr>
-<td>Annex C</td><td>Indigenous Peoples Planning Framework</td>
+<td></td><td>Annex C - Indigenous Peoples Planning Framework</td>
 </tr>
 <tr>
 <td>OP 4.11</td><td>Physical Cultural Resources</td>
@@ -574,91 +574,91 @@ OP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Soci
 <td>OP 4.12</td><td>Involuntary Resettlement</td>
 </tr>
 <tr>
-<td></td><td> Annex A - Involuntary Resettlement Instruments</td>
+<td></td><td>Annex A - Involuntary Resettlement Instruments</td>
 </tr>
 <tr>
-<td></td><td> OP 4.20 - Gender and Development</td>
+<td>OP 4.20</td><td>Gender and Development</td>
 </tr>
 <tr>
-<td></td><td> OP 4.36 - Forests</td>
+<td>OP 4.36</td><td>Forests</td>
 </tr>
 <tr>
-<td></td><td> Annex A - Definitions</td>
+<td></td><td>Annex A - Definitions</td>
 </tr>
 <tr>
-<td></td><td> OP 4.37 - Safety of Dams</td>
+<td>OP 4.37</td><td>Safety of Dams</td>
 </tr>
 <tr>
-<td></td><td> OP 4.76 - Tobacco</td>
+<td>OP 4.76</td><td>Tobacco</td>
 </tr>
 <tr>
-<td></td><td> OP 7.00 - Lending Operations: Choice of Borrower and Contractual Agreements</td>
+<td>OP 7.00</td><td>Lending Operations: Choice of Borrower and Contractual Agreements</td>
 </tr>
 <tr>
-<td></td><td> OP 7.20 - Security Arrangements</td>
+<td>OP 7.20</td><td>Security Arrangements</td>
 </tr>
 <tr>
-<td></td><td> OP 7.30 - Dealings with De Facto Governments</td>
+<td>OP 7.30</td><td>Dealings with De Facto Governments</td>
 </tr>
 <tr>
-<td></td><td> OP 7.40 - Disputes over Defaults on External Debt, Expropriation, and Breach of Contract</td>
+<td>OP 7.40</td><td>Disputes over Defaults on External Debt, Expropriation, and Breach of Contract</td>
 </tr>
 <tr>
-<td></td><td> OP 7.50 - Projects on International Waterways</td>
+<td>OP 7.50</td><td>Projects on International Waterways</td>
 </tr>
 <tr>
-<td></td><td> OP 7.60 - Projects in Disputed Areas</td>
+<td>OP 7.60</td><td>Projects in Disputed Areas</td>
 </tr>
 <tr>
-<td></td><td> OP 8.00 - Rapid Response to Crises and Emergencies</td>
+<td>OP 8.00</td><td>Rapid Response to Crises and Emergencies</td>
 </tr>
 <tr>
-<td></td><td> OP 8.40 - Technical Assistance</td>
+<td>OP 8.40</td><td>Technical Assistance</td>
 </tr>
 <tr>
-<td></td><td> OP 8.45 - Grants</td>
+<td>OP 8.45</td><td>Grants</td>
 </tr>
 <tr>
-<td></td><td> Annex A - DGF Eligibility Criteria</td>
+<td></td><td>Annex A - DGF Eligibility Criteria</td>
 </tr>
 <tr>
-<td></td><td> OP 8.60 - Development Policy Lending</td>
+<td>OP 8.60</td><td>Development Policy Lending</td>
 </tr>
 <tr>
-<td></td><td> OP 9.00 - Program-for-Results Financing</td>
+<td>OP 9.00</td><td>Program-for-Results Financing</td>
 </tr>
 <tr>
-<td></td><td> OP 10.00 - Investment Project Financing</td>
+<td>OP 10.00</td><td>Investment Project Financing</td>
 </tr>
 <tr>
-<td></td><td> OP 10.20 - Global Environment Facility Operations</td>
+<td>OP 10.20</td><td>Global Environment Facility Operations</td>
 </tr>
 <tr>
-<td></td><td> OP 10.21 - Investment Operations Financed by the Multilateral Fund for the Implementation of the Montreal Protocol</td>
+<td>OP 10.21</td><td>Investment Operations Financed by the Multilateral Fund for the Implementation of the Montreal Protocol</td>
 </tr>
 <tr>
-<td></td><td> Annex A - The Montreal Protocol</td>
+<td></td><td>Annex A - The Montreal Protocol</td>
 </tr>
 <tr>
-<td></td><td> Annex B - Eligible Activities</td>
+<td></td><td>Annex B - Eligible Activities</td>
 </tr>
 <tr>
-<td></td><td> OP 11.00 - Procurement</td>
+<td>OP 11.00</td><td>Procurement</td>
 </tr>
 <tr>
-<td></td><td> OP 13.60 - Monitoring and Evaluation</td>
+<td>OP 13.60</td><td>Monitoring and Evaluation</td>
 </tr>
 <tr>
-<td></td><td> OP 14.10 - External Debt Reporting and Financial Statements</td>
+<td>OP 14.10</td><td>External Debt Reporting and Financial Statements</td>
 </tr>
 <tr>
-<td></td><td> OP 14.20 - Cofinancing</td>
+<td>OP 14.20</td><td>Cofinancing</td>
 </tr>
 <tr>
-<td></td><td> Annex A - Sources and Types of Cofinancing</td>
+<td></td><td>Annex A - Sources and Types of Cofinancing</td>
 </tr>
 <tr>
-<td></td><td> OP 14.40 - Trust Funds</td>
+<td>OP 14.40</td><td>Trust Funds</td>
 </tr>
     </tbody>
 </table>

@@ -560,74 +560,74 @@ http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTSAFEPOL/0,,cont
 <td>OP 1.00</td><td>Poverty Reduction</td>
 </tr>
 <tr>
-<td></td><td>OP 2.30 - Development Cooperation and Conflict</td>
+<td>OP 2.30</td><td>Development Cooperation and Conflict</td>
 </tr>
 <tr>
-<td></td><td>OP 3.10 - Financial Terms and Conditions of IBRD Loans, IBRD Hedging Products, and IDA Credits</td>
+<td>OP 3.10</td><td>Financial Terms and Conditions of IBRD Loans, IBRD Hedging Products, and IDA Credits</td>
 </tr>
 <tr>
-<td></td><td> Annex A - Past Loans of IBRD</td>
+<td>Annex A</td><td>Past Loans of IBRD</td>
 </tr>
 <tr>
-<td></td><td> Annex B - Prepayment of IBRD Loans</td>
+<td>Annex B</td><td>Prepayment of IBRD Loans</td>
 </tr>
 <tr>
-<td></td><td> Annex C - Countries Ranked by Per Capita Income</td>
+<td>Annex C</td><td>Countries Ranked by Per Capita Income</td>
 </tr>
 <tr>
-<td></td><td> Annex D - IBRD/IDA and Blend Countries: Per Capita Incomes, Lending Eligibility, and Repayment Terms
+<td>Annex D</td><td>IBRD/IDA and Blend Countries: Per Capita Incomes, Lending Eligibility, and Repayment Terms
 OP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects</td>
 </tr>
 <tr>
-<td></td><td> Table A1 - Environmental and Social Safeguard Policies—Policy Objectives and Operational Principles</td>
+<td>Table A1</td><td>Environmental and Social Safeguard Policies—Policy Objectives and Operational Principles</td>
 </tr>
 <tr>
-<td></td><td> OP 4.01 - Environmental Assessment</td>
+<td>OP 4.01</td><td>Environmental Assessment</td>
 </tr>
 <tr>
-<td></td><td> Annex A - Definitions</td>
+<td>Annex A</td><td>Definitions</td>
 </tr>
 <tr>
-<td></td><td> Annex B - Content of an Environmental Assessment Report for a Category A Project</td>
+<td>Annex B</td><td>Content of an Environmental Assessment Report for a Category A Project</td>
 </tr>
 <tr>
-<td></td><td> Annex C - Environmental Management Plan</td>
+<td>Annex C</td><td>Environmental Management Plan</td>
 </tr>
 <tr>
-<td></td><td> OP 4.02 - Environmental Action Plans</td>
+<td>OP 4.02</td><td>Environmental Action Plans</td>
 </tr>
 <tr>
-<td></td><td> OP 4.03 - Performance Standards for Private Sector Activities</td>
+<td>OP 4.03</td><td>Performance Standards for Private Sector Activities</td>
 </tr>
 <tr>
-<td></td><td> OP 4.04 - Natural Habitats</td>
+<td>OP 4.04</td><td>Natural Habitats</td>
 </tr>
 <tr>
-<td></td><td> Annex A - Definitions</td>
+<td>Annex A</td><td>Definitions</td>
 </tr>
 <tr>
-<td></td><td> OP 4.07 - Water Resources Management</td>
+<td>OP 4.07</td><td>Water Resources Management</td>
 </tr>
 <tr>
-<td></td><td> OP 4.09 - Pest Management</td>
+<td>OP 4.09</td><td>Pest Management</td>
 </tr>
 <tr>
-<td></td><td> OP 4.10 - Indigenous Peoples</td>
+<td>OP 4.10</td><td>Indigenous Peoples</td>
 </tr>
 <tr>
-<td></td><td> Annex A - Social Assessment</td>
+<td>Annex A</td><td>Social Assessment</td>
 </tr>
 <tr>
-<td></td><td> Annex B - Indigenous Peoples Plan</td>
+<td>Annex B</td><td>Indigenous Peoples Plan</td>
 </tr>
 <tr>
-<td></td><td> Annex C - Indigenous Peoples Planning Framework</td>
+<td>Annex C</td><td>Indigenous Peoples Planning Framework</td>
 </tr>
 <tr>
-<td></td><td> OP 4.11 - Physical Cultural Resources</td>
+<td>OP 4.11</td><td>Physical Cultural Resources</td>
 </tr>
 <tr>
-<td></td><td> OP 4.12 - Involuntary Resettlement</td>
+<td>OP 4.12</td><td>Involuntary Resettlement</td>
 </tr>
 <tr>
 <td></td><td> Annex A - Involuntary Resettlement Instruments</td>

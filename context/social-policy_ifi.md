@@ -503,7 +503,7 @@ http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTSAFEPOL/0,,cont
 <td></td><td> World Bank Group Directive - Country Engagement
 </tr>
 <tr>
-<td>OP 1.00</td><td><a href="http://siteresources.worldbank.org/OPSMANUAL/112526-1124459412562/23585906/OP1.00_Final_July_2014.pdf">Poverty Reduction</a></td>
+<td width="12%">OP 1.00</td><td><a href="http://siteresources.worldbank.org/OPSMANUAL/112526-1124459412562/23585906/OP1.00_Final_July_2014.pdf">Poverty Reduction</a></td>
 </tr>
 <tr>
 <td>OP 2.30</td><td><a href="http://siteresources.worldbank.org/OPSMANUAL/112526-1124459412562/23587719/OP2.30_Final_July_2014.pdf">Development Cooperation and Conflict</a></td>

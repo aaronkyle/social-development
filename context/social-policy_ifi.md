@@ -498,74 +498,174 @@ http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTSAFEPOL/0,,cont
     <tbody>
 <tr>
 Operational Policy Waivers
+</tr>
+<tr>
 World Bank Group Directive - Country Engagement
+</tr>
+<tr>
 OP 1.00 - Poverty Reduction
+</tr>
+<tr>
 OP 2.30 - Development Cooperation and Conflict
+</tr>
+<tr>
 OP 3.10 - Financial Terms and Conditions of IBRD Loans, IBRD Hedging Products, and IDA Credits
+</tr>
+<tr>
 Annex A - Past Loans of IBRD
+</tr>
+<tr>
 Annex B - Prepayment of IBRD Loans
+</tr>
+<tr>
 Annex C - Countries Ranked by Per Capita Income
+</tr>
+<tr>
 Annex D - IBRD/IDA and Blend Countries: Per Capita Incomes, Lending Eligibility, and Repayment Terms
 OP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects
+</tr>
+<tr>
 Table A1 - Environmental and Social Safeguard Policies—Policy Objectives and Operational Principles
+</tr>
+<tr>
 OP 4.01 - Environmental Assessment
+</tr>
+<tr>
 Annex A - Definitions
+</tr>
+<tr>
 Annex B - Content of an Environmental Assessment Report for a Category A Project
+</tr>
+<tr>
 Annex C - Environmental Management Plan
+</tr>
+<tr>
 OP 4.02 - Environmental Action Plans
+</tr>
+<tr>
 OP 4.03 - Performance Standards for Private Sector Activities
+</tr>
+<tr>
 OP 4.04 - Natural Habitats
+</tr>
+<tr>
 Annex A - Definitions
+</tr>
+<tr>
 OP 4.07 - Water Resources Management
+</tr>
+<tr>
 OP 4.09 - Pest Management
+</tr>
+<tr>
 OP 4.10 - Indigenous Peoples
+</tr>
+<tr>
 Annex A - Social Assessment
+</tr>
+<tr>
 Annex B - Indigenous Peoples Plan
+</tr>
+<tr>
 Annex C - Indigenous Peoples Planning Framework
+</tr>
+<tr>
 OP 4.11 - Physical Cultural Resources
+</tr>
+<tr>
 OP 4.12 - Involuntary Resettlement
+</tr>
+<tr>
 Annex A - Involuntary Resettlement Instruments
+</tr>
+<tr>
 OP 4.20 - Gender and Development
+</tr>
+<tr>
 OP 4.36 - Forests
+</tr>
+<tr>
 Annex A - Definitions
+</tr>
+<tr>
 OP 4.37 - Safety of Dams
+</tr>
+<tr>
 OP 4.76 - Tobacco
+</tr>
+<tr>
 OP 7.00 - Lending Operations: Choice of Borrower and Contractual Agreements
+</tr>
+<tr>
 OP 7.20 - Security Arrangements
+</tr>
+<tr>
 OP 7.30 - Dealings with De Facto Governments
+</tr>
+<tr>
 OP 7.40 - Disputes over Defaults on External Debt, Expropriation, and Breach of Contract
+</tr>
+<tr>
 OP 7.50 - Projects on International Waterways
+</tr>
+<tr>
 OP 7.60 - Projects in Disputed Areas
+</tr>
+<tr>
 OP 8.00 - Rapid Response to Crises and Emergencies
+</tr>
+<tr>
 OP 8.40 - Technical Assistance
+</tr>
+<tr>
 OP 8.45 - Grants
+</tr>
+<tr>
 Annex A - DGF Eligibility Criteria
+</tr>
+<tr>
 OP 8.60 - Development Policy Lending
+</tr>
+<tr>
 OP 9.00 - Program-for-Results Financing
+</tr>
+<tr>
 OP 10.00 - Investment Project Financing
+</tr>
+<tr>
 OP 10.20 - Global Environment Facility Operations
+</tr>
+<tr>
 OP 10.21 - Investment Operations Financed by the Multilateral Fund for the Implementation of the Montreal Protocol
+</tr>
+<tr>
 Annex A - The Montreal Protocol
+</tr>
+<tr>
 Annex B - Eligible Activities
+</tr>
+<tr>
 OP 11.00 - Procurement
+</tr>
+<tr>
 OP 13.60 - Monitoring and Evaluation
+</tr>
+<tr>
 OP 14.10 - External Debt Reporting and Financial Statements
+</tr>
+<tr>
 OP 14.20 - Cofinancing
+</tr>
+<tr>
 Annex A - Sources and Types of Cofinancing
+</tr>
+<tr>
 OP 14.40 - Trust Funds
 </tr>
     </tbody>
 </table>
 </div>
 </div>
-
-
-
-
-
-
-
-
 
 
 

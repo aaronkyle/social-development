@@ -208,7 +208,7 @@ OM Section
 <td></td><td>3</td><td>Poverty and Social Analysis</td><td>x</td><td>under preparation
 </tr>
 <tr>
-H</td><td colspan="4">Financial</td>
+<td>H</td><td colspan="4">Financial</td>
 </tr>
 <tr>
 <td></td><td>1</td><td>Financing of Interest and Other Charges During Construction</td><td>9</td><td>18 July 2006</td>

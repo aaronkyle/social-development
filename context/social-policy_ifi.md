@@ -129,7 +129,7 @@ OM Section
 <td></td><td>6</td><td>Enhancing ADB's role in Combating Money Laundering and the Financing of Terrorism</td><td>56</td><td>1 July 2010</td>
 </tr>
 <tr>
-<td></td><td>D</td><td colspan="4">Business Products and Instruments</td>
+<td>D</td><td colspan="4">Business Products and Instruments</td>
 </tr>
 <tr>
 <td></td><td>1</td><td>Lending Policies for Sovereign and Sovereign-Guaranteed Borrowers (Ordinary Capital Resources)</td><td>3</td><td>24 February 2014</td>

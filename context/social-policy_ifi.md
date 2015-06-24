@@ -196,7 +196,7 @@ OM Section
 <td></td><td>1</td><td>Safeguard Policy Statement</td><td>x</td><td>1 October 2013</td>
 </tr>
 <tr>
-<td>G</td><td colspan="4">Analyses</td
+<td>G</td><td colspan="4">Analyses</td>
 </tr>
 <tr>
 <td></td><td>1</td><td>Economic Analysis of Projects</td><td>36</td><td>15 December 2003</td>

@@ -73,6 +73,7 @@ Investments of the Asian Development Bank must accord with the [ADB Charter](htt
 ---
 
 
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <div class="container-fluid">
 <div class="row">
@@ -331,7 +332,6 @@ OM Section
 </table>
 </div>
 </div>
-
 
 
 <a name="adb-safeguards-policy"></a>

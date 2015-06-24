@@ -83,8 +83,8 @@ OM Section
 <tr>
 <th data-field="group">Group</th>
 <th data-field="newOM">New OM No.</th>
-<th data-field="oldOM">Old OM No.</th>
 <th data-field="subject">Subject</th>
+<th data-field="oldOM">Old OM No.</th>
 <th data-field="date-issued">Date of Issue</th>
 </tr>
 </thead>
@@ -488,6 +488,8 @@ http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTSAFEPOL/0,,cont
 
 **Current Safeguard Policy Framework:**
 
+
+
 <div class="container-fluid">
 <div class="row">
 <table class="table-responsive table-bordered table-striped table-condensed">
@@ -501,10 +503,10 @@ http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTSAFEPOL/0,,cont
 <td></td><td> World Bank Group Directive - Country Engagement
 </tr>
 <tr>
-<td>OP 1.00</td><td>Poverty Reduction</td>
+<td>OP 1.00</td><td><a href="http://siteresources.worldbank.org/OPSMANUAL/112526-1124459412562/23585906/OP1.00_Final_July_2014.pdf">Poverty Reduction</a></td>
 </tr>
 <tr>
-<td>OP 2.30</td><td>Development Cooperation and Conflict</td>
+<td>OP 2.30</td><td><a href="http://siteresources.worldbank.org/OPSMANUAL/112526-1124459412562/23587719/OP2.30_Final_July_2014.pdf">Development Cooperation and Conflict</a></td>
 </tr>
 <tr>
 <td>OP 3.10</td><td>Financial Terms and Conditions of IBRD Loans, IBRD Hedging Products, and IDA Credits</td>
@@ -523,31 +525,46 @@ http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTSAFEPOL/0,,cont
 OP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects</td>
 </tr>
 <tr>
-<td></td><td>Table A1 - Environmental and Social Safeguard Policies—Policy Objectives and Operational Principles</td>
+<td></td><td><a href="http://go.worldbank.org/6C63VRDI00">Table A1 - Environmental and Social Safeguard Policies—Policy Objectives and Operational Principles</a></td>
 </tr>
 <tr>
-<td>OP 4.01</td><td>Environmental Assessment</td>
+<td>OP 4.01</td><td><a href="http://go.worldbank.org/RUEQVWD550">Environmental Assessment</a></td>
 </tr>
 <tr>
-<td></td><td>Annex A - Definitions</td>
+<td></td><td><a href="http://go.worldbank.org/D399H6DET0">Annex A - Definitions</a></td>
 </tr>
 <tr>
-<td></td><td>Annex B - Content of an Environmental Assessment Report for a Category A Project</td>
+<td></td><td><a href="http://go.worldbank.org/79Y2REJR51">Annex B - Content of an Environmental Assessment Report for a Category A Project</a></td>
 </tr>
 <tr>
-<td></td><td>Annex C - Environmental Management Plan</td>
+<td></td><td><a href="http://go.worldbank.org/785NA7CY20">Annex C - Environmental Management Plan</a></td>
 </tr>
 <tr>
-<td>OP 4.02</td><td>Environmental Action Plans</td>
+<td>BP 4.01</td><td><a href="http://go.worldbank.org/9MIMAQUHN0">Environmental Assessment</a></td>
 </tr>
 <tr>
-<td>OP 4.03</td><td>Performance Standards for Private Sector Activities</td>
+<td></td><td><a href="http://go.worldbank.org/A292H6UE90">Annex A - Application of EA to Dam and Reservoir Projects, 1999</a></td>
 </tr>
 <tr>
-<td>OP 4.04</td><td>Natural Habitats</td>
+<td></td><td><a href="http://go.worldbank.org/VSE6CTUEG0">Annex B - Application of EA to Projects Involving Pest Management: Environmental Assessment</a></td>
 </tr>
 <tr>
-<td></td><td>Annex A - Definitions</td>
+<td>OP 4.02</td><td><a href="http://siteresources.worldbank.org/OPSMANUAL/112526-1124459412562/23586262/OP4.02.Rev_July2014.pdf">Environmental Action Plans</a></td>
+</tr>
+<tr>
+<td>OP 4.03</td><td><a href="http://go.worldbank.org/GCH411QCR0">Performance Standards for Private Sector Activities</a></td>
+</tr>
+<tr>
+<td>BP 4.03</td><td><a href="http://go.worldbank.org/JBCJYVQH70">Performance Standards for Private Sector Activities</a></td>
+</tr>
+<tr>
+<td>OP 4.04</td><td><a href="http://go.worldbank.org/WZQM56JT30">Natural Habitats</a></td>
+</tr>
+<tr>
+<td></td><td><a href="http://go.worldbank.org/NRJ1VSJT60">Annex A - Definitions</a></td>
+</tr>
+<tr>
+<td>BP 4.04</td><td><a href="hhttp://go.worldbank.org/BFOEUOUD10">Natural Habitats</a></td>
 </tr>
 <tr>
 <td>OP 4.07</td><td>Water Resources Management</td>
@@ -556,34 +573,34 @@ OP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Soci
 <td>OP 4.09</td><td>Pest Management</td>
 </tr>
 <tr>
-<td>OP 4.10</td><td>Indigenous Peoples</td>
+<td>OP 4.10</td><td><a href="http://go.worldbank.org/TE769PDWN0">Indigenous Peoples</a></td>
 </tr>
 <tr>
-<td></td><td>Annex A - Social Assessment</td>
+<td></td><td><a href="http://go.worldbank.org/JZP1C5JRQ0">Annex A - Social Assessment</a></td>
 </tr>
 <tr>
-<td></td><td>Annex B - Indigenous Peoples Plan</td>
+<td></td><td><a href="http://go.worldbank.org/Z7EG8GD2N0">Annex B - Indigenous Peoples Plan</a></td>
 </tr>
 <tr>
-<td></td><td>Annex C - Indigenous Peoples Planning Framework</td>
+<td></td><td><a href="http://go.worldbank.org/PBQ91LDDS0">Annex C - Indigenous Peoples Planning Framework</a></td>
 </tr>
 <tr>
-<td>OP 4.11</td><td>Physical Cultural Resources</td>
+<td>OP 4.11</td><td><a href="http://go.worldbank.org/7T8EIAJQU0">Physical Cultural Resources</a></td>
 </tr>
 <tr>
-<td>OP 4.12</td><td>Involuntary Resettlement</td>
+<td>OP 4.12</td><td><a href="http://go.worldbank.org/96LQB2JT50">Involuntary Resettlement</a></td>
 </tr>
 <tr>
-<td></td><td>Annex A - Involuntary Resettlement Instruments</td>
+<td></td><td><a href="http://go.worldbank.org/JG37U0DYC0">Annex A - Involuntary Resettlement Instruments</a></td>
 </tr>
 <tr>
-<td>OP 4.20</td><td>Gender and Development</td>
+<td>OP 4.20</td><td><a href="http://go.worldbank.org/8W56CSDIK0">Gender and Development</a></td>
 </tr>
 <tr>
-<td>OP 4.36</td><td>Forests</td>
+<td>OP 4.36</td><td><a href="http://go.worldbank.org/6NQDXLHG10">Forests</a></td>
 </tr>
 <tr>
-<td></td><td>Annex A - Definitions</td>
+<td></td><td><a href="http://go.worldbank.org/L34YTEJR10">Annex A - Definitions</a></td>
 </tr>
 <tr>
 <td>OP 4.37</td><td>Safety of Dams</td>
@@ -610,7 +627,7 @@ OP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Soci
 <td>OP 7.60</td><td>Projects in Disputed Areas</td>
 </tr>
 <tr>
-<td>OP 8.00</td><td>Rapid Response to Crises and Emergencies</td>
+<td>OP 8.00</td><td><a href="http://siteresources.worldbank.org/EXTOPMANUAL/Resources/502183-1429890621981/OP8.00_Final_July_2014.pdf">Rapid Response to Crises and Emergencies</a></td>
 </tr>
 <tr>
 <td>OP 8.40</td><td>Technical Assistance</td>
@@ -646,7 +663,7 @@ OP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Soci
 <td>OP 11.00</td><td>Procurement</td>
 </tr>
 <tr>
-<td>OP 13.60</td><td>Monitoring and Evaluation</td>
+<td>OP 13.60</td><td><a href="http://go.worldbank.org/CH9BJAJTD0">Monitoring and Evaluation</a></td>
 </tr>
 <tr>
 <td>OP 14.10</td><td>External Debt Reporting and Financial Statements</td>

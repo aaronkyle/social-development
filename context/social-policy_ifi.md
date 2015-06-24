@@ -230,6 +230,60 @@ OM Section
 </tr>
 <tr>
 <td></td><td>7</td><td>Foreign Exchange Risk</td><td>15</td><td>19 December 2008</td>
+<tr>
+</tr>
+<td>1</td><td>Financing Partnerships</td><td>29</td><td>3 October 2014</td>
+</tr>
+<tr>
+<td>2</td><td>Japan Fund for Poverty Reduction</td><td>x</td><td>1 March 2011</td>
+</tr>
+<tr>
+<td>3</td><td>Cooperation Arrangements for Development Partnership	26,</td><td>27</td><td>26 March 2009</td>
+</tr>
+<tr>
+<td>4</td><td>Promotion of Cooperation with NGOs</td><td>23</td><td>29 October 2003</td>
+</tr>
+<tr>
+<td>F</td><td colspan="4">Safeguard Policies</td>
+</tr>
+<tr>
+<td>1</td><td>Safeguard Policy Statement</td><td>x</td><td>1 October 2013</td>
+</tr>
+<tr>
+<td>G</td><td colspan="4">Analyses</td>
+</tr>
+<tr>
+<td>1</td><td>Economic Analysis of Projects</td><td>36</td><td>15 December 2003</td>
+</tr>
+<tr>
+<td>2</td><td>Financial Management, Cost Estimates, Financial Analysis and Financial Performance Indicators</td><td>35</td><td>12 March 2014</td>
+</tr>
+<tr>
+<td>3</td><td>Poverty and Social Analysis</td><td>x</td><td>under preparation
+</tr>
+<tr>
+<td>H</td><td colspan="4">Financial</td>
+</tr>
+<tr>
+<td>1</td><td>Financing of Interest and Other Charges During Construction</td><td>9</td><td>18 July 2006</td>
+</tr>
+<tr>
+<td>2</td><td>Financing Indirect Foreign Exchange Cost of Projects</td><td>10v22 October 2008</td>
+</tr>
+<tr>
+<td>3</td><td>Cost Sharing and Eligibility of Expenditures for ADB Financing</td><td>*/11</td><td>3 January 2012</td>
+</tr>
+<tr>
+<td>4</td><td>Retroactive Financing</td><td>12</td><td>21 July 2006</td>
+</tr>
+<tr>
+<td>5</td><td>Additional Financing</td><td>13</td><td>24 February 2011</td>
+</tr>
+<tr>
+<td>6</td><td>Use of Surplus Loan Proceeds</td><td>14</td><td>29 October 2003</td>
+</tr>
+<tr>
+<td>7</td><td>Foreign Exchange Risk</td><td>15</td><td>19 December 2008</td>
 </tr>
 <tr>
 <td>J</td><td colspan="4">Project Administration</td>
@@ -497,170 +551,170 @@ http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTSAFEPOL/0,,cont
 </thead>
     <tbody>
 <tr>
-Operational Policy Waivers
+<td></td><td>Operational Policy Waivers
 </tr>
 <tr>
-World Bank Group Directive - Country Engagement
+<td></td><td> World Bank Group Directive - Country Engagement
 </tr>
 <tr>
-OP 1.00 - Poverty Reduction
+<td>OP 1.00</td><td>Poverty Reduction</td>
 </tr>
 <tr>
-OP 2.30 - Development Cooperation and Conflict
+<td></td><td>OP 2.30 - Development Cooperation and Conflict</td>
 </tr>
 <tr>
-OP 3.10 - Financial Terms and Conditions of IBRD Loans, IBRD Hedging Products, and IDA Credits
+<td></td><td>OP 3.10 - Financial Terms and Conditions of IBRD Loans, IBRD Hedging Products, and IDA Credits</td>
 </tr>
 <tr>
-Annex A - Past Loans of IBRD
+<td></td><td> Annex A - Past Loans of IBRD</td>
 </tr>
 <tr>
-Annex B - Prepayment of IBRD Loans
+<td></td><td> Annex B - Prepayment of IBRD Loans</td>
 </tr>
 <tr>
-Annex C - Countries Ranked by Per Capita Income
+<td></td><td> Annex C - Countries Ranked by Per Capita Income</td>
 </tr>
 <tr>
-Annex D - IBRD/IDA and Blend Countries: Per Capita Incomes, Lending Eligibility, and Repayment Terms
-OP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects
+<td></td><td> Annex D - IBRD/IDA and Blend Countries: Per Capita Incomes, Lending Eligibility, and Repayment Terms
+OP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects</td>
 </tr>
 <tr>
-Table A1 - Environmental and Social Safeguard Policies—Policy Objectives and Operational Principles
+<td></td><td> Table A1 - Environmental and Social Safeguard Policies—Policy Objectives and Operational Principles</td>
 </tr>
 <tr>
-OP 4.01 - Environmental Assessment
+<td></td><td> OP 4.01 - Environmental Assessment</td>
 </tr>
 <tr>
-Annex A - Definitions
+<td></td><td> Annex A - Definitions</td>
 </tr>
 <tr>
-Annex B - Content of an Environmental Assessment Report for a Category A Project
+<td></td><td> Annex B - Content of an Environmental Assessment Report for a Category A Project</td>
 </tr>
 <tr>
-Annex C - Environmental Management Plan
+<td></td><td> Annex C - Environmental Management Plan</td>
 </tr>
 <tr>
-OP 4.02 - Environmental Action Plans
+<td></td><td> OP 4.02 - Environmental Action Plans</td>
 </tr>
 <tr>
-OP 4.03 - Performance Standards for Private Sector Activities
+<td></td><td> OP 4.03 - Performance Standards for Private Sector Activities</td>
 </tr>
 <tr>
-OP 4.04 - Natural Habitats
+<td></td><td> OP 4.04 - Natural Habitats</td>
 </tr>
 <tr>
-Annex A - Definitions
+<td></td><td> Annex A - Definitions</td>
 </tr>
 <tr>
-OP 4.07 - Water Resources Management
+<td></td><td> OP 4.07 - Water Resources Management</td>
 </tr>
 <tr>
-OP 4.09 - Pest Management
+<td></td><td> OP 4.09 - Pest Management</td>
 </tr>
 <tr>
-OP 4.10 - Indigenous Peoples
+<td></td><td> OP 4.10 - Indigenous Peoples</td>
 </tr>
 <tr>
-Annex A - Social Assessment
+<td></td><td> Annex A - Social Assessment</td>
 </tr>
 <tr>
-Annex B - Indigenous Peoples Plan
+<td></td><td> Annex B - Indigenous Peoples Plan</td>
 </tr>
 <tr>
-Annex C - Indigenous Peoples Planning Framework
+<td></td><td> Annex C - Indigenous Peoples Planning Framework</td>
 </tr>
 <tr>
-OP 4.11 - Physical Cultural Resources
+<td></td><td> OP 4.11 - Physical Cultural Resources</td>
 </tr>
 <tr>
-OP 4.12 - Involuntary Resettlement
+<td></td><td> OP 4.12 - Involuntary Resettlement</td>
 </tr>
 <tr>
-Annex A - Involuntary Resettlement Instruments
+<td></td><td> Annex A - Involuntary Resettlement Instruments</td>
 </tr>
 <tr>
-OP 4.20 - Gender and Development
+<td></td><td> OP 4.20 - Gender and Development</td>
 </tr>
 <tr>
-OP 4.36 - Forests
+<td></td><td> OP 4.36 - Forests</td>
 </tr>
 <tr>
-Annex A - Definitions
+<td></td><td> Annex A - Definitions</td>
 </tr>
 <tr>
-OP 4.37 - Safety of Dams
+<td></td><td> OP 4.37 - Safety of Dams</td>
 </tr>
 <tr>
-OP 4.76 - Tobacco
+<td></td><td> OP 4.76 - Tobacco</td>
 </tr>
 <tr>
-OP 7.00 - Lending Operations: Choice of Borrower and Contractual Agreements
+<td></td><td> OP 7.00 - Lending Operations: Choice of Borrower and Contractual Agreements</td>
 </tr>
 <tr>
-OP 7.20 - Security Arrangements
+<td></td><td> OP 7.20 - Security Arrangements</td>
 </tr>
 <tr>
-OP 7.30 - Dealings with De Facto Governments
+<td></td><td> OP 7.30 - Dealings with De Facto Governments</td>
 </tr>
 <tr>
-OP 7.40 - Disputes over Defaults on External Debt, Expropriation, and Breach of Contract
+<td></td><td> OP 7.40 - Disputes over Defaults on External Debt, Expropriation, and Breach of Contract</td>
 </tr>
 <tr>
-OP 7.50 - Projects on International Waterways
+<td></td><td> OP 7.50 - Projects on International Waterways</td>
 </tr>
 <tr>
-OP 7.60 - Projects in Disputed Areas
+<td></td><td> OP 7.60 - Projects in Disputed Areas</td>
 </tr>
 <tr>
-OP 8.00 - Rapid Response to Crises and Emergencies
+<td></td><td> OP 8.00 - Rapid Response to Crises and Emergencies</td>
 </tr>
 <tr>
-OP 8.40 - Technical Assistance
+<td></td><td> OP 8.40 - Technical Assistance</td>
 </tr>
 <tr>
-OP 8.45 - Grants
+<td></td><td> OP 8.45 - Grants</td>
 </tr>
 <tr>
-Annex A - DGF Eligibility Criteria
+<td></td><td> Annex A - DGF Eligibility Criteria</td>
 </tr>
 <tr>
-OP 8.60 - Development Policy Lending
+<td></td><td> OP 8.60 - Development Policy Lending</td>
 </tr>
 <tr>
-OP 9.00 - Program-for-Results Financing
+<td></td><td> OP 9.00 - Program-for-Results Financing</td>
 </tr>
 <tr>
-OP 10.00 - Investment Project Financing
+<td></td><td> OP 10.00 - Investment Project Financing</td>
 </tr>
 <tr>
-OP 10.20 - Global Environment Facility Operations
+<td></td><td> OP 10.20 - Global Environment Facility Operations</td>
 </tr>
 <tr>
-OP 10.21 - Investment Operations Financed by the Multilateral Fund for the Implementation of the Montreal Protocol
+<td></td><td> OP 10.21 - Investment Operations Financed by the Multilateral Fund for the Implementation of the Montreal Protocol</td>
 </tr>
 <tr>
-Annex A - The Montreal Protocol
+<td></td><td> Annex A - The Montreal Protocol</td>
 </tr>
 <tr>
-Annex B - Eligible Activities
+<td></td><td> Annex B - Eligible Activities</td>
 </tr>
 <tr>
-OP 11.00 - Procurement
+<td></td><td> OP 11.00 - Procurement</td>
 </tr>
 <tr>
-OP 13.60 - Monitoring and Evaluation
+<td></td><td> OP 13.60 - Monitoring and Evaluation</td>
 </tr>
 <tr>
-OP 14.10 - External Debt Reporting and Financial Statements
+<td></td><td> OP 14.10 - External Debt Reporting and Financial Statements</td>
 </tr>
 <tr>
-OP 14.20 - Cofinancing
+<td></td><td> OP 14.20 - Cofinancing</td>
 </tr>
 <tr>
-Annex A - Sources and Types of Cofinancing
+<td></td><td> Annex A - Sources and Types of Cofinancing</td>
 </tr>
 <tr>
-OP 14.40 - Trust Funds
+<td></td><td> OP 14.40 - Trust Funds</td>
 </tr>
     </tbody>
 </table>

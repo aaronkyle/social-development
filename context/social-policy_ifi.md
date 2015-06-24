@@ -23,26 +23,14 @@ Consider the following:
 
 Most IFIs compile some form of **operations manual** comprised of policies for effecting the mandates of their institutional charters. In addition to board-approved policies and regulations, some IFI **operations manuals** also include notes of guidance for bank staff and clients that elaborate on the intended meaning of policy provisions and which are intended to facilitate better policy implementation. For example, while the Asian Development Bank's operations manual refers only to policies (which the ADB terms **operational procedures**, or OPs), the operations manual of the World Bank contains **operational policies** (OPs), **bank procedures** (BPs), **directives**, as well as interim instructions to staff (referred to OpMemos). It can be hard to distinguish 'policy' from 'guidance', and still more difficult to discern what is "required" as opposed to that which is simply "recommended" (a question that my clients often pose when considering my recommendations for policy implementation).
 
-It can also be challenging to identify the range of social policy that may be applicable to a given project or development initiative. In recent years, **safeguards policies** have been receiving considerable media attention as IFIs continue to invest time and resources in updating their safeguard policy frameworks. Yet safeguards are but one aspect of **social policy**.  Other aspects include **social development policy** (including initiatives to mainstream gender-sensitive development; initiatives to ensure the participation and empowerment of people and communities affected by development processes), **social welfare** (including social assistance and welfare service programs), **social protection policy** (including child protection and micro- and area based schemes to address poverty, and vulnerability; social insurance programs to cushion risks associated with unemployment, ill-health, disability, work-related injury and old age; and labour market policies and programs designed to generate employment, improve working conditions), **human rights law**, etc. Unfortunately, IFI institutional treatments of social issues (such as web and print publications touting institutional contributions to social development) seldom help to situate different institutional initiatives and activities within their greater policy contexts. Adding an additional layer of complexity to any discussion of 'social policy' among international financial institutions (IFIs) are those policies that have an apparent 'social' orientation, but which are operational policies that come to bear only on internal bank operations, such as the Conflict and Development policy .
+It can also be challenging to identify the range of social policy that may be applicable to a given project or development initiative. In recent years, **safeguards policies** have been receiving considerable media attention as IFIs continue to invest time and resources in updating their safeguard policy frameworks. Yet safeguards are but one aspect of **social policy**.  Other aspects include **social development policy** (including initiatives to mainstream gender-sensitive development; initiatives to ensure the participation and empowerment of people and communities affected by development processes), **social protection policy** (including social assistance and welfare service programs including child protection and micro- and area based schemes to address poverty, and vulnerability; social insurance programs to cushion risks associated with unemployment, ill-health, disability, work-related injury and old age; and labour market policies and programs designed to generate employment, improve working conditions), **human rights law**, etc. Unfortunately, IFI institutional treatments of social issues (such as web and print publications touting institutional contributions to social development) seldom help to situate different institutional initiatives and activities within their greater policy contexts.
 
-To help me to compare and differentiate between different forms of social policy, I adopt three organizational categories:
-
-1. Safeguards Policy
-
-Safeguards policies  seek to avoid, minimise, or mitigate harmful environmental and social risks, impacts, and costs that may result from development initiatives. 
-
-2. Development Policy
-
-Development policies define aspirational notions of 'social development' and specify how these aims can be realized in practice.
-
-3. Operational Policies
-
-Operational policies govern internal operations.
+Adding an additional layer of complexity to any discussion of 'social policy' among international financial institutions (IFIs) are those policies that have an apparent 'social' orientation, but which are operational policies that come to bear only on internal bank operations.
 
 
 ----
 
-**And a short disclaimer:**
+**And also a short disclaimer:**
 
 Please accept my work as on-going. I continue to struggle to account for what constitutes 'social policy' for a given lending institution.
 
@@ -81,6 +69,214 @@ Investments of the Asian Development Bank must accord with the [ADB Charter](htt
 * [Agreement Establishing the Asian Development Bank (ADB Charter)](http://www.adb.org/documents/agreement-establishing-asian-development-bank-adb-charter) (December 1965)
 * [Operations Manual](http://www.adb.org/documents/operations-manual) (October 2003)
 
+
+---
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<div class="container-fluid">
+<div class="row">
+OM Section
+</div>
+<div class="row">
+<table class="table-responsive table-bordered table-striped table-condensed">
+<thead>
+<tr>
+<th data-field="group">Group</th>
+<th data-field="newOM">New OM No.</th>
+<th data-field="oldOM">Old OM No.</th>
+<th data-field="subject">Subject</th>
+<th data-field="date-issued">Date of Issue</th>
+</tr>
+</thead>
+    <tbody>
+<tr>
+<td>A</td><td colspan="4">Country Classification and Country Focus</td>
+</tr>
+<tr>
+<td>1</td><td>Classification and Graduation of Developing Member Countries</td><td>1</td><td>4 September 2013</td>
+</tr>
+<tr>
+<td>2</td><td>Country Partnership Strategy</td><td>45</td><td>1 February 2013</td>
+</tr>
+<tr>
+<td>3</td><td>Performance-Based Allocation of Asian Development Fund Resources</td><td>x</td><td>3 October 2014</td>
+<td>B</td><td colspan="4">Regional and Subregional Cooperation</td>
+</tr>
+<tr>
+<td>1</td><td>Regional Cooperation and Integration</td><td>28</td><td>30 June 2010</td>
+</tr>
+<tr>
+<td>C</td><td colspan="4">Sector and Thematic Policies</td>
+</tr>
+<tr>
+<td>1</td><td>Poverty Reduction</td><td>48</td><td>14 July 2004</td>
+</tr>
+<tr>
+<td>2</td><td>Gender and Development</td><td>21</td><td>6 December 2010</td>
+</tr>
+<tr>
+<td>3</td><td>Incorporation of Social Dimensions into ADB Operations</td><td>47</td><td>6 December 2010</td>
+</tr>
+<tr>
+<td>4</td><td>Governance</td><td>54</td><td>23 December 2010</td>
+</tr>
+<tr>
+<td>5</td><td>Anticorruption</td><td>55</td><td>4 October 2010</td>
+</tr>
+<tr>
+<td>6</td><td>Enhancing ADB's role in Combating Money Laundering and the Financing of Terrorism</td><td>56</td><td>1 July 2010</td>
+</tr>
+<tr>
+<td>D</td><td colspan="4">Business Products and Instruments</td>
+</tr>
+<tr>
+<td>1</td><td>Lending Policies for Sovereign and Sovereign-Guaranteed Borrowers (Ordinary Capital Resources)</td><td>3</td><td>24 February 2014</td>
+</tr>
+<tr>
+<td>2</td><td>Lending and Grant Policies (Asian Development Fund)</td><td>4</td><td>6 August 2013</td>
+</tr>
+<tr>
+<td>3</td><td>Sector Lending</td><td>5</td><td>29 October 2003</td>
+</tr>
+<tr>
+<td>4</td><td>Policy-Based Lending</td><td>6</td><td>1 April 2013</td>
+</tr>
+<tr>
+<td>5</td><td>Sector Development Programs</td><td>17</td><td>29 October 2003</td>
+</tr>
+<tr>
+<td>6</td><td>Financial Intermediation Loans</td><td>6</td><td>15 December 2003</td>
+</tr>
+<tr>
+<td>7</td><td>Disaster and Emergency Assistance	24,</td><td>25</td><td>15 June 2004</td>
+</tr>
+<tr>
+<td>8</td><td>Guarantee and Security Arrangements for Loans</td><td>19</td><td>15 December 2003</td>
+</tr>
+<tr>
+<td>9</td><td>Credit Enhancement Operations</td><td>31</td><td>18 December 2007</td>
+</tr>
+<tr>
+<td>10</td><td>Nonsovereign Operations</td><td>7</td><td>2 January 2013</td>
+</tr>
+<tr>
+<td>11</td><td>Processing Sovereign and Sovereign-Guaranteed Loan Proposals</td><td>34</td><td>1 January 2010</td>
+</tr>
+<tr>
+<td>12</td><td>Technical Assistance</td><td>18</td><td>13 December 2013</td>
+</tr>
+<tr>
+<td>13</td><td>Exposure and Investment Limitations on Nonsovereign Operations</td><td>x</td><td>17 February 2010</td>
+</tr>
+<tr>
+<td>14</td><td>Multitranche Financing Facility</td><td>x</td><td>17 February 2015</td>
+</tr>
+<tr>
+<td>E</td><td colspan="4">Partnerships</td>
+</tr>
+<tr>
+<td>1</td><td>Financing Partnerships</td><td>29</td><td>3 October 2014</td>
+</tr>
+<tr>
+<td>2</td><td>Japan Fund for Poverty Reduction</td><td>x</td><td>1 March 2011</td>
+</tr>
+<tr>
+<td>3</td><td>Cooperation Arrangements for Development Partnership	26,</td><td>27</td><td>26 March 2009</td>
+</tr>
+<tr>
+<td>4</td><td>Promotion of Cooperation with NGOs</td><td>23</td><td>29 October 2003</td>
+</tr>
+<tr>
+<td>F</td><td colspan="4">Safeguard Policies</td>
+</tr>
+<tr>
+<td>1</td><td>Safeguard Policy Statement</td><td>x</td><td>1 October 2013</td>
+</tr>
+<tr>
+<td>G</td><td colspan="4">Analyses</td
+</tr>
+<tr>
+<td>1</td><td>Economic Analysis of Projects</td><td>36</td><td>15 December 2003</td>
+</tr>
+<tr>
+<td>2</td><td>Financial Management, Cost Estimates, Financial Analysis and Financial Performance Indicators</td><td>35</td><td>12 March 2014</td>
+</tr>
+<tr>
+<td>3</td><td>Poverty and Social Analysis</td><td>x</td><td>under preparation
+</tr>
+<tr>
+H</td><td colspan="4">Financial</td>
+</tr>
+<tr>
+<td>1</td><td>Financing of Interest and Other Charges During Construction</td><td>9</td><td>18 July 2006</td>
+</tr>
+<tr>
+<td>2</td><td>Financing Indirect Foreign Exchange Cost of Projects</td><td>10v22 October 2008</td>
+</tr>
+<tr>
+<td>3</td><td>Cost Sharing and Eligibility of Expenditures for ADB Financing</td><td>*/11</td><td>3 January 2012</td>
+</tr>
+<tr>
+<td>4</td><td>Retroactive Financing</td><td>12</td><td>21 July 2006</td>
+</tr>
+<tr>
+<td>5</td><td>Additional Financing</td><td>13</td><td>24 February 2011</td>
+</tr>
+<tr>
+<td>6</td><td>Use of Surplus Loan Proceeds</td><td>14</td><td>29 October 2003</td>
+</tr>
+<tr>
+<td>7</td><td>Foreign Exchange Risk</td><td>15</td><td>19 December 2008</td>
+</tr>
+<tr>
+<td>J</td><td colspan="4">Project Administration</td>
+</tr>
+<tr>
+<td>1</td><td>Project Performance Management System</td><td>22</td><td>28 October 2011</td>
+</tr>
+<tr>
+<td>2</td><td>Consultants</td><td>39</td><td>6 August 2013</td>
+</tr>
+<tr>
+<td>3</td><td>Procurement</td><td>38</td><td>6 August 2013</td>
+</tr>
+<tr>
+<td>4</td><td>Loan Covenants</td><td>40</td><td>29 October 2003</td>
+</tr>
+<tr>
+<td>5</td><td>Effectiveness of the Loan Agreement</td><td>41</td><td>29 October 2003</td>
+</tr>
+<tr>
+<td>6</td><td>Disbursement</td><td>42</td><td>4 May 2012</td>
+</tr>
+<tr>
+<td>7</td><td>Project Accounting, Financial Reporting, and Auditing</td><td>43</td><td>7 June 2012</td>
+</tr>
+<tr>
+<td>K</td><td colspan="4">Evaluation</td>
+</tr>
+<tr>
+<td>1</td><td>Independent Evaluation</td><td>44</td><td>1 October 2013</td>
+</tr>
+<tr>
+<td>L</td><td colspan="4">Other Policies and Operational Procedures</td>
+</tr>
+<tr>
+<td>1</td><td>ADB Accountability Mechanism</td><td>49</td><td>24 May 2012</td>
+</tr>
+<tr>
+<td>2</td><td>Internal Audit</td><td>51</td><td>15 December 2003</td>
+</tr>
+<tr>
+<td>3</td><td>Public Communications</td><td>52</td><td>2 April 2012</td>
+    </tbody>
+</table>
+</div>
+</div>
+
+
+
 <a name="adb-safeguards-policy"></a>
 #### Safeguards Policy
 
@@ -116,7 +312,7 @@ The safeguards policies of the Asian Development Bank seek to avoid, minimise, o
 <a name="adb-development-policy"></a>
 #### Development Policy
 
-While safeguards policies are intended for risk avoidance, mitigation and management, other forms of social policy govern how the ADB investment in development initiatives. These 'development policies' define the ADB's aspirational notion of 'social development' and specify how these aims can be realized in practice.
+While safeguards policies are intended for risk avoidance, mitigation and management, other forms of social policy govern how the ADB investment in development initiatives. These 'developmetn policies' define the ADB's aspirational notion of 'social development' and specify how these aims can be realized in practice.
 
 *[Strategy 2020](http://www.adb.org/documents/strategy-2020-working-asia-and-pacific-free-poverty)* is among the most recent examples of ADB development policy. *Strategy 2020* reaffirms ADB's vision of an Asia and Pacific free of poverty as well as its mission to help its developing member countries improve their living conditions and quality of life. To achieve these ends, *Strategy 2020* prioritizes three complementary development agendas: inclusive economic growth, environmentally sustainable growth, and regional integration. To better ensure that it is achieving the goals of Strategy 2020, ADB also developed a [results framework](http://www.adb.org/site/development-effectiveness/adb-results-framework) to facilitate progress assessments and evaluation of strategy efficacy.
 
@@ -246,10 +442,6 @@ Operational Memoranda (OpMemos): are interim mandatory requirements designed to 
 
 
 * [IBRD Articles of Agreement](http://go.worldbank.org/IB13V68520) (As amended effective June 27, 2012) | [PDF](http://siteresources.worldbank.org/EXTABOUTUS/Resources/IBRDArticlesOfAgreement_links.pdf)
-
-
-Social policies in the World Bank have evolved into three conceptually and operationally separate agendas: social welfare, social protection and social development.
-
 
 
 <a name="world-bank-safeguards-policy"></a>
@@ -476,20 +668,8 @@ A number of World Bank operational policies deal specifically with social develo
 <a name="ifc"></a>
 ## International Finance Corporation (IFC)
 
-
-IFC, a member of the World Bank Group, is the largest global development institution focused exclusively on the private sector in developing countries. 
- 
-Established in 1956, IFC is owned by 184 member countries, a group that collectively determines our policies. Our work in more than 100 developing countries allows companies and financial institutions in emerging markets to create jobs, generate tax revenues, improve corporate governance and environmental performance, and contribute to their local communities.
- 
-IFC’s vision is that people should have the opportunity to escape poverty and improve their lives.
-
-
 <a name="ifc-policy"></a>
 ### Policy
-
-* [IFC ARTICLES OF AGREEMENT](http://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/about+ifc/articles+of+agreement)
-
-* [IFC Corporate Governance Manual](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/corporate+governance/publications/toolkits+and+manuals/ifc+corporate+governance+manual)
 
 ### Sustainability Framework
 
@@ -530,9 +710,6 @@ Investments made prior to April 30, 2006 are subject to the Safeguard Policies.
 
 
 * [Policy on Disclosure of Information](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_Disclosure2006/$FILE/Disclosure2006.pdf)
-
--* [IFC Corporate Governance Manual](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/corporate+governance/publications/toolkits+and+manuals/ifc+corporate+governance+manual)
--
 
 ### Implementation Resources
 

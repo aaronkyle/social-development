@@ -272,6 +272,7 @@ OM Section
 </tr>
 <tr>
 <td></td><td>3</td><td>Public Communications</td><td>52</td><td>2 April 2012</td>
+</tr>
     </tbody>
 </table>
 </div>
@@ -488,6 +489,85 @@ http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTSAFEPOL/0,,cont
 
 
 **Current Safeguard Policy Framework:**
+
+<div class="container-fluid">
+<div class="row">
+<table class="table-responsive table-bordered table-striped table-condensed">
+<thead>
+</thead>
+    <tbody>
+<tr>
+Operational Policy Waivers
+World Bank Group Directive - Country Engagement
+OP 1.00 - Poverty Reduction
+OP 2.30 - Development Cooperation and Conflict
+OP 3.10 - Financial Terms and Conditions of IBRD Loans, IBRD Hedging Products, and IDA Credits
+Annex A - Past Loans of IBRD
+Annex B - Prepayment of IBRD Loans
+Annex C - Countries Ranked by Per Capita Income
+Annex D - IBRD/IDA and Blend Countries: Per Capita Incomes, Lending Eligibility, and Repayment Terms
+OP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects
+Table A1 - Environmental and Social Safeguard Policies—Policy Objectives and Operational Principles
+OP 4.01 - Environmental Assessment
+Annex A - Definitions
+Annex B - Content of an Environmental Assessment Report for a Category A Project
+Annex C - Environmental Management Plan
+OP 4.02 - Environmental Action Plans
+OP 4.03 - Performance Standards for Private Sector Activities
+OP 4.04 - Natural Habitats
+Annex A - Definitions
+OP 4.07 - Water Resources Management
+OP 4.09 - Pest Management
+OP 4.10 - Indigenous Peoples
+Annex A - Social Assessment
+Annex B - Indigenous Peoples Plan
+Annex C - Indigenous Peoples Planning Framework
+OP 4.11 - Physical Cultural Resources
+OP 4.12 - Involuntary Resettlement
+Annex A - Involuntary Resettlement Instruments
+OP 4.20 - Gender and Development
+OP 4.36 - Forests
+Annex A - Definitions
+OP 4.37 - Safety of Dams
+OP 4.76 - Tobacco
+OP 7.00 - Lending Operations: Choice of Borrower and Contractual Agreements
+OP 7.20 - Security Arrangements
+OP 7.30 - Dealings with De Facto Governments
+OP 7.40 - Disputes over Defaults on External Debt, Expropriation, and Breach of Contract
+OP 7.50 - Projects on International Waterways
+OP 7.60 - Projects in Disputed Areas
+OP 8.00 - Rapid Response to Crises and Emergencies
+OP 8.40 - Technical Assistance
+OP 8.45 - Grants
+Annex A - DGF Eligibility Criteria
+OP 8.60 - Development Policy Lending
+OP 9.00 - Program-for-Results Financing
+OP 10.00 - Investment Project Financing
+OP 10.20 - Global Environment Facility Operations
+OP 10.21 - Investment Operations Financed by the Multilateral Fund for the Implementation of the Montreal Protocol
+Annex A - The Montreal Protocol
+Annex B - Eligible Activities
+OP 11.00 - Procurement
+OP 13.60 - Monitoring and Evaluation
+OP 14.10 - External Debt Reporting and Financial Statements
+OP 14.20 - Cofinancing
+Annex A - Sources and Types of Cofinancing
+OP 14.40 - Trust Funds
+</tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
 
 * [World Bank Performance Standards]()
     - [Board Paper](http://documents.worldbank.org/curated/en/2012/06/16338127/proposed-adoption-application-world-bank-performance-standards-private-sector-projects-supported-ibrdida)

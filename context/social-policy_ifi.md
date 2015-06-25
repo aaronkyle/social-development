@@ -85,7 +85,7 @@ OM Section
 <th data-field="newOM">New OM No.</th>
 <th data-field="subject">Subject</th>
 <th data-field="oldOM">Old OM No.</th>
-<th data-field="date-issued" width="12%" >Date of Issue</th>
+<th data-field="date-issued" width="16%">Date of Issue</th>
 </tr>
 </thead>
     <tbody>

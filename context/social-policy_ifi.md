@@ -213,7 +213,7 @@ OM Section
 <td></td><td>1</td><td>Financing of Interest and Other Charges During Construction</td><td>9</td><td>18 July 2006</td>
 </tr>
 <tr>
-<td></td><td>2</td><td>Financing Indirect Foreign Exchange Cost of Projects</td><td>10v22 October 2008</td>
+<td></td><td>2</td><td>Financing Indirect Foreign Exchange Cost of Projects</td><td>10</td><td>22 October 2008</td>
 </tr>
 <tr>
 <td></td><td>3</td><td>Cost Sharing and Eligibility of Expenditures for ADB Financing</td><td>*/11</td><td>3 January 2012</td>

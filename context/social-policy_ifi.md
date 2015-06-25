@@ -15,9 +15,9 @@ I compiled (and am publicly sharing) this index because I have found it difficul
 
 ----
 
-**A brief aside about terminology:**
+**A brief aside about terminology**
 
-While major international financial institutions have, over the years, been harmonizing both the structure and content of their social policy, there remain several critical points of distinction.  In policy contexts, attention to terminology is important. Over the years, I have worked to develop my own definitions for social policy terminology (a defining feature of the [applied-anthro](http://applied-anthro.com/) website) for better clarity and continuity in my writing. My lexicon is shaped by the definitions used by the IFIs, but I sometimes depart from the definitional parameters they ascribe to a term--especially when discussing broader phenomenological concerns. Comparative analysis of social policy is a particularly challenging topic for maintaining terminological clarity and consistency.
+In policy, terminology is important. Comparative analysis of social policy is a particularly challenging topic for maintaining terminological clarity and consistency. Over the years, I have worked to develop my own definitions for terms used in social policy (a defining feature of the [applied-anthro](http://applied-anthro.com/) website) to ensure clarity and continuity in my writing. This lexicon is influenced by the IFI definitions, but it is adapted to accomodate discussion of broad phenomenological concerns. 
 
 Consider the following:
 

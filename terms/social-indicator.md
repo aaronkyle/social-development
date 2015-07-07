@@ -2,7 +2,7 @@ title: social indicator
 date: 2008-01-14
 category: terminology
 slug: social-indicator
-summary: :  a value measured when conducting systematic evaluateion of community life or when performance targets and auditing criteria
+summary: :  a value measured when conducting systematic evaluation or when defining performance targets and auditing criteria
 
 <!---
 tags:
@@ -19,7 +19,7 @@ permalink: /social-indicator/
 published: true
 ---
 --->
-A **social indicator** is a value measured when conducting systematic evaluateion of community life or when performance targets and auditing criteria. Social indicators are used in the analysis of a range of concerns such as those related to safety and healthiness of a person's living or work environment, quality of educational activities and facilities, infrastructure availability and integrity, capacity of governance, etc.
+A **social indicator** is a value measured when conducting systematic evaluation of social issues or when defininng performance targets and auditing criteria. Social indicators are used in the analysis of a range of concerns such as those related to safety and healthiness of a person's living or work environment, quality of educational activities and facilities, infrastructure availability and integrity, capacity of governance, etc.
 
 <!--
 
@@ -30,7 +30,7 @@ It should be relatively straight forward to locate a commonly-accepted basket of
 
 Even this step is problematic.
 
-What constitutes “social indicators data”? How can “social indictors” be grouped and analyzed?
+What constitutes “social indicators data”? How can “social indicators” be grouped and analyzed?
 
 Are there sufficient social indicators data for testing measuring if broadly-defined social development goals are being achieved?
 
@@ -40,7 +40,7 @@ One tricky aspect of attempting to resolve ‘if’ appropriate social indicator
 What sorts of proxies can be used to assess how population dynamics (such as “community health”, “livelihoods”, or even less ambiguous parameters such as “social welfare”) respond to development initiatives?
 ---
 
-Increaingly, international financial institions are contributing to scholarship and cannons of [policy on social analysis](http://siteresources.worldbank.org/INTTSR/Resources/SocialAnalysisSourcebookFINAL2003Dec.pdf) and to making 'indicator data' (including measures of social well-being available) for public consumption (e.g. development studies research).
+Increaingly, international financial institutions are contributing to scholarship and cannons of [policy on social analysis](http://siteresources.worldbank.org/INTTSR/Resources/SocialAnalysisSourcebookFINAL2003Dec.pdf) and to making 'indicator data' (including measures of social well-being available) for public consumption (e.g. development studies research).
 
  wealth and diversity of existing datasets
 

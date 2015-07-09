@@ -8,7 +8,7 @@ This resource compiles manifestations of social policy attempts to organize and 
 
 ## Caveats and Disclaimers
 
-Please accept my work as on-going effort.  This undertaking involves a significant amount of time and effort, which I contribute in the hours when I am not otherwise [working to sustain myself](http://aaron-kyle.com). Many sections are incomplete, and the overall effort itself I envision as a life-long project.
+Please accept my work as an on-going effort.  This undertaking involves a significant amount of time and effort, which I contribute in the hours when I am not otherwise [working to sustain myself](http://aaron-kyle.com). Many sections are incomplete, and the overall effort itself I envision as a life-long project.
 
 Please also recognize that the focus of my work is specific to social development concerns. As I formulate definitions for various terms, I do so with respect to their usage relative to the practice of social development.
 

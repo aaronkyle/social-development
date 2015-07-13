@@ -23,10 +23,10 @@ I should also emphasise how much I continue to struggle to account for what cons
 
 context/	# folder for articles about the conceptual organization of social policy
 data/		# folder containing individual data sets
-ref/		# folder for
-site/		# folder for
-terms/		# folder for
-.gitignore	# this file 
+ref/		# folder for references and literature indices
+site/		# folder for site-level pages
+terms/		# folder compiling definitional terminology
+.gitignore	# this file helps to control the files managed by the Git file-sharing platform
 README		# this file introduced the concept (for viewers on GitHub, it's the repository landing page) 
 
 ```

@@ -4,7 +4,7 @@ This repository is intended as a resource for people interested in, or working w
 
 Social policy is articulated and manifested in a variety of forms.  Tracking these these articulations over time and across institutions is difficult.  Policy formulations change and evolve, and the relationship between seemingly similar terms and concepts is sometime obtuse and counter-intuitive.
 
-This resource compiles manifestations of social policy attempts to organize and contextualize different manifestations in relation to one another.  My hope to facilitate rapid comprehension of the inter-connectedness as well as the nuances of international social policy.
+This resource compiles manifestations of social policy attempts to organize and contextualize different manifestations in relation to one another.  I hope to facilitate, for myself and others, the capacity to rapidly compare and comprehend manifestations of international social policy to better appreciate their inter-connectedness and their nuance.  I 
 
 ## Caveats and Disclaimers
 
@@ -15,3 +15,20 @@ Please also recognize that the focus of my work is specific to social developmen
 <!--
 I should also emphasise how much I continue to struggle to account for what constitutes 'social policy'.
 -->
+
+## Organization of the Repository
+
+
+```
+
+context/	# folder for articles about the conceptual organization of social policy
+data/		# folder containing individual data sets
+ref/		# folder for
+site/		# folder for
+terms/		# folder for
+.gitignore	# this file 
+README		# this file introduced the concept (for viewers on GitHub, it's the repository landing page) 
+
+```
+
+

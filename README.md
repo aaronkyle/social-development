@@ -2,7 +2,7 @@
 
 This repository is intended as a resource for people interested in, or working with, [social policy](http://applied-anthro.com/terms/social-policy/).
 
-Social policy is articulated and manifested in a variety of forms.  Tracking these these articulations over time and across institutions is difficult.  Policy formulations change and evolve, and the relationship between seemingly similar terms and concepts is sometimes obtuse and counter-intuitive.
+Social policy is articulated and manifested in a variety of forms.  Tracking these articulations over time and across institutions is difficult.  Policy formulations change and evolve, and the relationship between seemingly similar terms and concepts is sometimes obtuse and counter-intuitive.
 
 This is my attempt to organize and contextualize different manifestations of social policy in relationship to one another.  I hope that others might also be able to use this resource to more readily compare and comprehend manifestations of international social policy and to appreciate their inter-connectedness and their nuance.  
 

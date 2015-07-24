@@ -8,9 +8,9 @@ This is my attempt to organize and contextualize different manifestations of soc
 
 ## Caveats and Disclaimers
 
-Please accept my work as an on-going effort.  This undertaking involves a significant amount of time and effort, which I contribute in the hours when I am not otherwise [working to sustain myself](http://aaron-kyle.com). Many sections are incomplete, and the overall effort itself I envision as a life-long project.
+Please recognize that this is an on-going effort. Attempting to create a organizational framework for the ever-expanding and ever more complex universe of social policy requires considerable time and effort, which I contribute in the hours when I am not [otherwise engaged](http://social-policy.expert). I consider no page to be "complete". Most are still very immature in terms of their content. Most pages contain typos. This will be a life-long project for me. If you see spot anything that you'd like to challenge or correct, please sent me an email (or better, a pull request).
 
-Please also recognize that the focus of my work is specific to social development concerns. As I formulate definitions for various terms, I do so with respect to their usage relative to the practice of social development.
+Please also recognize that my work focuses on social development concerns. As I formulate definitions for various terms, I do so with respect to their usage relative to the practice of social development.
 
 <!--
 I should also emphasise how much I continue to struggle to account for what constitutes 'social policy'.
@@ -21,13 +21,13 @@ I should also emphasise how much I continue to struggle to account for what cons
 
 ```
 
-context/	# folder for articles about the conceptual organization of social policy
-data/		# folder containing individual data sets
-ref/		# folder for references and literature indices
-site/		# folder for site-level pages
-terms/		# folder compiling definitional terminology
-.gitignore	# this file helps to control the files managed by the Git file-sharing platform
-README		# this file introduced the concept (for viewers on GitHub, it's the repository landing page) 
+context/	# articles about the conceptual organization of social policy
+data/		# individual data sets
+ref/		# references and literature indices
+site/		# site-level pages
+terms/		# compiles definitional terminology
+.gitignore	# controls the files managed by the Git file-sharing platform
+README		# introduces the repository concept (for viewers on GitHub, it's the repository landing page) 
 
 ```
 

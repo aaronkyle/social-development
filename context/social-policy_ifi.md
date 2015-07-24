@@ -249,7 +249,6 @@ Rapid Environment Assessment checklists for many different sectors are available
 
 * [Statistics and Databases](http://www.adb.org/data/statistics)
 
-
 * [Guidance on Achieving Good Practice]()
     * *[Handbook on Resettlement: A Guide to Good Practice](http://www.adb.org/Documents/Handbooks/Resettlement/Handbook_on_Resettlement.pdf)* (1998)
     * *[Handbook on Social Analysis, A Working Document](http://www.adb.org/Documents/Handbooks/Social-Analysis/social-analysis-handbook.pdf)* (Nov 2007)
@@ -302,7 +301,7 @@ The World Bank understands policy as a statement of broad substantive principles
 
 
 <a name="world-bank-safeguards-policy"></a>
-#### [Safeguards Policy](http://go.worldbank.org/WTA1ODE7T0
+#### [Safeguards Policy](http://go.worldbank.org/WTA1ODE7T0)
 
 The World Bank's Environmental and Social Safeguard Policies are a cornerstone of its support to sustainable poverty reduction. The objective of these policies is to prevent and mitigate undue harm to people and their environment in the development process. These policies provide guidelines for bank and borrower staffs in the identification, preparation and implementation of programs and projects.
 
@@ -502,6 +501,62 @@ A number of World Bank operational policies deal specifically with social develo
 
 <a name="iadb-policy"></a>
 ### Policy
+
+
+http://www.iadb.org/en/about-us/operations-policies-of-the-inter-american-development-bank,6127.html
+
+http://www.iadb.org/en/about-us/general-operational-policies,6235.html
+
+
+
+---
+
+http://www.iadb.org/en/about-us/general-operational-policies,6236.html
+
+
+General Operational Policies
+POLICIES are directives that define the general lines of action of the Bank with regard to operations, administration, and personnel.
+
+OPERATIONAL POLICIES are general directives whose purpose is to regulate the assistance provided by the Bank to its borrowers, define development strategies, and provide a high-level guide for operational decisions. They are grouped as follows:
+
+GENERAL OPERATIONAL POLICIES which regulate the terms and conditions that are common to all the Bank's operations.
+FINANCIAL OPERATIONAL POLICIES which establish the sources of financing for loans, the purpose and use of each of the Bank's funds, and the terms and conditions for operations in each case.
+SECTORAL OPERATIONAL POLICIES which contribute to the development of a specific branch of the economy and provide a strategic framework for programming the Bank's country and regional operations in that branch.
+MULTISECTOR POLICIES which contribute to the development of more than one branch of the economy and are applicable to several fields of economic activity.
+A POLICY PAPER is a report drawn up when a policy is being developed, which is submitted to the different bodies of the Bank for approval and authorization.
+Content of a Policy
+
+Depends, in principle, on the nature of the policy and should be expressed succinctly, clearly, and in concrete terms. A policy paper should include:
+
+Background on the Bank's experience and action in the area, and information and analysis for a better understanding of the proposed policy and the grounds therefor.
+The policy itself, including:
+the purpose and principle of the policy;
+a description of the objective(s) of the proposed policy;
+field(s) of activity and priorities - chiefly applicable to sector policies;
+criteria or basic guidelines to facilitate and clarify the application of the policy.
+Operational policy manuals should contain the policies themselves and specify the original policy document approved by the Board of Executive Directors.
+
+Responsibility
+
+A MULTIDISCIPLINARY WORKING GROUP coordinated by the department with basic responsibility prepares proposals regarding the Bank's operational policies. DPP, SDS, and PRI, which are responsible for developing general operational policies, sector policies, and private-sector policies, respectively, are required to prepare the documentation, make the necessary adjustments to the drafts of each proposal, and present the policy paper to the Bank's review and approval bodies.
+
+THE PROGRAMMING COMMITTEE reviews and comments on policy proposals and authorizes their submission to the Coordination Committee.
+
+THE COORDINATION COMMITTEE discusses and approves the PROPOSAL operational policies and authorizes their submission to the Board of Executive Directors.
+
+THE BOARD OF EXECUTIVE DIRECTORS approves operational policies.
+
+Processing
+
+The specific guidelines and procedures for processing operational policy documents are set out in the Secretariat Services Manual (SS).
+
+Modifications
+
+Any modifications to an operational policy that affect its nature, objectives, criteria, or basic guidelines must be approved by the Board of Executive Directors.
+
+
+---
+
 
 * [Sustainability Standards / Policy (re-direct)](http://www.iadb.org/en/topics/sustainability/policies-and-initiatives,1517.html)
    - [Environment and Safeguards Compliance Policy](http://www.iadb.org/document.cfm?id=665902)

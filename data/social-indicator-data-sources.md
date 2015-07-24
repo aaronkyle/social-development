@@ -50,8 +50,7 @@ The DHS project assembles survey data on health issues pertaining to family life
 
 A range of statistics relating to information technology in EU and other selected countries. Topics include: telecommunication and penetration; relative prices of telecommunications; economic indicators; employment indicators; information and communications markets and trends. 
 
-#### [Eurostat](http://europa.eu.int/comm/eurostat/) (Statistical Office of
-the European Communities)
+#### [Eurostat](http://europa.eu.int/comm/eurostat/) (Statistical Office of the European Communities)
 
 Site includes a thematic database, with such themes as: economics and finance; population and social conditions; industry, trade and services; agriculture, forestry and fisheries; external trade; transport, etc. 
 
@@ -64,8 +63,7 @@ Contains international, comparative data on the status of women in areas includi
 
 International education statistics organized by variables and/or countries.
 
-#### [Global Market Information Database](http://libcat1.cc.emory.edu:32888/DB=gmid) (Euromonitor
-International)
+#### [Global Market Information Database](http://libcat1.cc.emory.edu:32888/DB=gmid) (Euromonitor International)
 
 Contains time-series data (1977-present) on economic and social indicators including income, GDP, consumer expenditures, and population demographics. 
 
@@ -97,8 +95,7 @@ This archive, hosted by the ICPSR at the University of Michigan is sponsored by 
 
 Indicators for cross-national comparisons in education.
 
-#### [The International Data Base](http://www.census.gov/ipc/www/idb/) (U.S.
-Census Bureau)
+#### [The International Data Base](http://www.census.gov/ipc/www/idb/) (U.S. Census Bureau)
 
 Contains statistical tables of country-level and socio-economic data—including demographic, fertility, and migration, data—for 227 countries and areas of the world. Site includes trend projection to 2050.
 
@@ -114,8 +111,7 @@ Contains statistics for Internet usage worldwide, including  broadband penetrati
 
 A gateway to evaluated statistical data organised by sub-categories (e.g. Finance and Markets; Health and Nutrition; Land and the Environment; Population and Area Statistics; Social Attitudes and Behaviour; Statistical Theory) and by type of resource (e.g. bibliographic, corporate, data, government, educational). Includes Intute: EuroStudies, which is a gateway statistical agencies, data archives, etc. for each nation, indexed by region and linked to listings of official data pages.
 
-#### [ITU Information and Communication Technology Indicators](http://www.itu.int/ITU-D/ict/informationsharing/index.html)
-(International Telecommunications Union) 
+#### [ITU Information and Communication Technology Indicators](http://www.itu.int/ITU-D/ict/informationsharing/index.html) (International Telecommunications Union) 
 
 Telecommunication Indicator Reports and statistics analysing trends and developments in the global telecommunications sector. Statistics include: basic indicators; main telephone lines, subscribers per 100 people; mobile cellular, subscribers per 100 people; internet indicators, hosts, users and numbers of PCs; top 20 public telecom operators/ mobile cellular operators/ fixed telephone line operators/telecom equipment vendors/online service providers; telecommunication indicators.
 
@@ -172,10 +168,10 @@ The TransMONEE database is a public-use database of socio-economic indicators fo
 Contains economic and social statistics on children worldwide, with particular reference to children's well-being.  See also the UNICEF Statistical Tables.
 
 #### [UNU/WIDER - UNDP World Income Inequality Database](http://www.wider.unu.edu/research/Database/en_GB/database/) (United Nations University/World Institute for Development Economics Research, Helsinki)
+
 Collects and stores information on income inequality in developed, developing, and transition countries. 
 
-#### [United Nations Statistics Division](http://unstats.un.org/unsd/)
-(United Nations, New York)
+#### [United Nations Statistics Division](http://unstats.un.org/unsd/)(United Nations, New York)
 
 Provides links to [UN Economic and Social Development Database](http://www.un.org/esa/); [Millennium Indicators Database](http://millenniumindicators.un.org/unsd/mi/mi_goals.asp)); [Social Indicators](http://unstats.un.org/unsd/demographic/products/socind/), which covers a wide range of subject matter fields such as education,
 housing, health and water; [Population Statistics](http://unstats.un.org/unsd/demographic/sconcerns/densurb/urban.aspx); and a [Good Practices Database](http://unstats.un.org/unsd/dnss/gp/searchgp.aspx) on official statistics methodology. Additionally, the [National Accounts Main Aggregates](http://unstats.un.org/unsd/snaama) database contains a complete set of time series from 1970 onwards of main national accounts aggregates for more than 200 countries and territories, including

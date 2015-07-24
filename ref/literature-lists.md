@@ -12,14 +12,8 @@ status: draft
 * [000-bib, Indigenous Peoples](https://docs.google.com/spreadsheet/ccc?key=0AvCbKDJqtSI7dHhWbkJfRGRCQmlxaDc2d3E2R1pjRVE)
 
 * [IP locations in country](https://docs.google.com/spreadsheets/d/1N_EzgzlBV_EiakIAH3wbH84LORPLfJhCEh6MZkPkEvQ/edit#gid=0)
-
-
     - [100 - IP Country Profile - CANADA](https://docs.google.com/spreadsheets/d/146u6qzy9Z_cFp-PGjvMcl_PjGtrd4EXcPTKBedcpS-I/edit#gid=6)
-        * [IP Country Profile - Canada](https://docs.google.com/spreadsheets/d/1PEbDhYFrqCZcW69AehcqW8sgen0MxL6xXYcn-840VvE/edit#gid=1)
-        * [Country and Regional Context - Canada](https://docs.google.com/spreadsheets/d/1IaHIR0lEGoLT69zOBV7jNruC3olWMR3jU8QKsuMl7_4/edit#gid=0)
-
     - [100 - IP Profiles - RUSSIA](https://docs.google.com/spreadsheets/d/1T-67U8l-IUcAI90fVeLIUHofIwWFznoR77uPeT_aiXs/edit#gid=0)
-
 
 
 * [IP Country Profile - Indonesia](https://docs.google.com/spreadsheets/d/1VmSCB3slFDplzdM5Fb0PvgDRd8vnXzq1AJZndyGAe0E/edit#gid=0)
@@ -60,9 +54,3 @@ status: draft
 
 * [Sakhalin II LNG Extraction Project](https://docs.google.com/spreadsheets/d/1Rr1VLCBq5XWjpdj5hBfZErqXrM-tfIVj2-IQvJslYRg/edit#gid=0)
 
-
-## Example Planning Documents
-
-* [IFC compliant document list (Final1) - 27 february 2013_TK.xlsx](https://docs.google.com/spreadsheets/d/1lAJF34nA0JjjT4BkR6zjkjCr908DAuw5MMG_xd7Uz-Q/edit#gid=1265713052)
-
-* [literature sources - FTMP](https://docs.google.com/spreadsheets/d/1V5L67Gx7J_-NZ2NFOdOW45ilL5n-tmYJKMDONz44-Ao/edit#gid=0)

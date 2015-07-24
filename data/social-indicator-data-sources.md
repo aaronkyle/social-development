@@ -48,12 +48,12 @@ The DHS project assembles survey data on health issues pertaining to family life
 
 #### [European Telework Online](http://www.eto.org.uk/eustats/index.htm)
 
-A range of statistics relating to information technology in EU and other selected countries. Topics include: telecommunication and penetration; relative prices of telecommunications; economic indicators; employment indicators; information and communications markets and trends. [NOTE: While Europe is not a target-area for my analysis, the variables tracked in these datasets might offer inspiration for refining how social development can or ought to be measured.]
+A range of statistics relating to information technology in EU and other selected countries. Topics include: telecommunication and penetration; relative prices of telecommunications; economic indicators; employment indicators; information and communications markets and trends. 
 
 #### [Eurostat](http://europa.eu.int/comm/eurostat/) (Statistical Office of
 the European Communities)
 
-Site includes a thematic database, with such themes as: economics and finance; population and social conditions; industry, trade and services; agriculture, forestry and fisheries; external trade; transport, etc. [NOTE: While Europe is not a target-area for my analysis, the variables tracked in these datasets might offer inspiration for refining how social development can or ought to be measured.]
+Site includes a thematic database, with such themes as: economics and finance; population and social conditions; industry, trade and services; agriculture, forestry and fisheries; external trade; transport, etc. 
 
 #### [GenderStats - Database of Gender Statistics](http://devdata.worldbank.org/genderstats/)
 
@@ -137,7 +137,7 @@ Polling archive, with holdings covering a wide range of topics. The iPOLL search
 
 #### [Social Statistics Briefing Room](http://www.whitehouse.gov/fsbr/ssbr.html)
 
-Part of the White House web site, the purpose of this service is to provide easy access to current Federal social statistics. [NOTE: While the United States is not a target-area for my analysis, the variables tracked in these datasets might offer inspiration for refining how social development can or ought to be measured.]
+Part of the White House web site, the purpose of this service is to provide easy access to current Federal social statistics.
 
 #### [State of the Cities Data System (SOCDS)](http://socds.huduser.org/index.html)
 
@@ -145,7 +145,7 @@ The Department of Housing and Urban Development (HUD) produced SOCDS to provide 
 
 #### [State Politics and Policy Quarterly Data Sources](http://www.ku.edu/pri/SPPQ/research.shtml)
 
-This site has time-series data for the American states on basic economic, political, and social information. Depending on the variable, the data coverage is from 1975 to 2001. [NOTE: While the United States is not a target-area for my analysis, the variables tracked in these datasets might offer inspiration for refining how social development can or ought to be measured.]
+This site has time-series data for the American states on basic economic, political, and social information. Depending on the variable, the data coverage is from 1975 to 2001.
 
 #### [UN Economic Commission for Latin America and the Caribbean (ECLAC)](http://www.eclac.cl/estadisticas/default.asp?idioma=IN)
 
@@ -153,7 +153,7 @@ Provides access to economic and social statistics (including Statistical Yearboo
 
 #### [UNECE Gender Statistics Database](http://www.unece.org/stats/gender/)
 
-The United Nations Economic Commission for Europe’s central database for sex-disaggregated social data. [NOTE: While Europe is not a target-area for my analysis, the variables tracked in these datasets might offer inspiration for refining how social development can or ought to be measured.]
+The United Nations Economic Commission for Europe’s central database for sex-disaggregated social data.
 
 #### [UNDP Human Development Reports (HDR)](http://hdr.undp.org/en/statistics/)
 

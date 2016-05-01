@@ -1,6 +1,5 @@
 
-## bibliography_indigenous-peoples.xlsx
-
+## 000-bib_indigenous-peoples
 
 * key
 * notes (aux)
@@ -40,7 +39,54 @@
 * Abstract
 
 
-## bibliography_FPIC_free-prior-and-informed-consent.xlsx
+## 000-bib, Indigenous Peoples
+
+* pro_notes
+* url
+* original file name
+* revised file name
+* Document Info Category
+* Country
+* Locality
+* Year
+* Month
+* Day
+* FULL DATE
+* Date Modified
+* Date Accessed
+* Organization
+* Title / Article Name
+* Doc ID.
+* Notes
+* Journal / Publication
+* Vol
+* Issue
+* Pages
+* PUBLISHING AGENCY
+* PUBLISHING HOUSE
+* CITY
+* Author(s)
+* AUTHOR 1
+* AUTHOR 2
+* AUTHOR 3
+* EDITOR(S)
+* Language(s)
+* ISSN / ISBN
+* ISBN
+* ISSN
+* Other ID
+* Abstract
+
+
+## 010-bib, Indigenous Peoples -Africa
+
+## 100 - Country IP Profile - INDONESIA
+
+## 100 - IP Country Profile - CANADA
+
+## 100 - IP Profile - RUSSIA
+
+## 999-bib_FPIC_free-prior-and-informed-consent.xlsx
 
 * orig #
 * REVIEWER COMMENT
@@ -91,41 +137,4 @@
 * Doc ID#
 * ISSN / ISBN
 
-## 000-bib, Indigenous Peoples
-
-* pro_notes
-* url
-* original file name
-* revised file name
-* Document Info Category
-* Country
-* Locality
-* Year
-* Month
-* Day
-* FULL DATE
-* Date Modified
-* Date Accessed
-* Organization
-* Title / Article Name
-* Doc ID.
-* Notes
-* Journal / Publication
-* Vol
-* Issue
-* Pages
-* PUBLISHING AGENCY
-* PUBLISHING HOUSE
-* CITY
-* Author(s)
-* AUTHOR 1
-* AUTHOR 2
-* AUTHOR 3
-* EDITOR(S)
-* Language(s)
-* ISSN / ISBN
-* ISBN
-* ISSN
-* Other ID
-* Abstract
 

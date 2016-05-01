@@ -13,3 +13,5 @@ Please refer to the following Google Spreadsheets pages to see my work in progre
 - [100 - IP Profile - RUSSIA](https://docs.google.com/spreadsheets/d/1T-67U8l-IUcAI90fVeLIUHofIwWFznoR77uPeT_aiXs/edit?usp=sharing)
 - [analysis, IFI, MDB, Bank policy requirements, Indigenous Peoples, 2012](https://docs.google.com/spreadsheets/d/1XJEFWygS7658yu_7Yab36TbVATeN2E5T_ymx_1G5Xsg/edit#gid=1210438341)
 - [international law affecting IPs](https://docs.google.com/spreadsheets/d/1e3GNtRESh9awKXkk5S2Jmg4evH76RwtRp6fdvN-GqFw/edit?usp=sharing)
+- [bibliography_FPIC_free-prior-and-informed-consent](https://docs.google.com/spreadsheets/d/1YIfvtCzAejupyllYlB_TeMLOqLu8SIq-SuwewkKLpAY/edit?usp=sharing)
+- [bibliography_indigenous-peoples.xlsx](https://docs.google.com/spreadsheets/d/1FRZmmiQBy28r2ppK3HZP7GHrQ46PeZxkjXGpibMLGEg/edit?usp=sharing)

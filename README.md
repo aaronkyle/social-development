@@ -21,8 +21,10 @@ I should also emphasise how much I continue to struggle to account for what cons
 
 ```
 
-context/	# articles about the conceptual organization of social policy
-data/		# individual data sets
+analyses/ # explorations of issues and data
+context/	# efforts to conceptually organize social policy
+data/		# data sets that relate to social development issues
+frameworks/ # <!-- consider merging with context-->
 ref/		# references and literature indices
 site/		# site-level pages
 terms/		# compiles definitional terminology

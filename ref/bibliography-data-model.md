@@ -84,6 +84,26 @@
 
 ## 100 - IP Country Profile - CANADA
 
+* URL
+* FILE NAME
+* YEAR
+* FULL DATE
+* ARTICLE NAME
+* PUBLICATION NAME
+* Vol
+* Is.
+* Page Range
+* PUBLISHING AGENCY
+* PUBLISHING HOUSE
+* CITY
+* AUTHOR 1
+* AUTHOR 2
+* AUTHOR 3
+* EDITOR(S)
+* LANGUAGE
+* ISSN
+* Other ID
+
 ## 100 - IP Profile - RUSSIA
 
 ## 999-bib_FPIC_free-prior-and-informed-consent.xlsx

@@ -9,9 +9,9 @@ Please refer to the following Google Spreadsheets pages to see my work in progre
 
 ### global bibliographies and literature reviews
 
-- [000-bib_Indigenous-Peoples](https://docs.google.com/spreadsheets/d/1FRZmmiQBy28r2ppK3HZP7GHrQ46PeZxkjXGpibMLGEg/edit?usp=sharing)
-- [international law affecting IPs](https://docs.google.com/spreadsheets/d/1e3GNtRESh9awKXkk5S2Jmg4evH76RwtRp6fdvN-GqFw/edit?usp=sharing)
-- [bibliography_FPIC_free-prior-and-informed-consent](https://docs.google.com/spreadsheets/d/1YIfvtCzAejupyllYlB_TeMLOqLu8SIq-SuwewkKLpAY/edit?usp=sharing)
+- [Bibliography of Global Literature | Indigenous Peoples](https://docs.google.com/spreadsheets/d/1FRZmmiQBy28r2ppK3HZP7GHrQ46PeZxkjXGpibMLGEg/edit?usp=sharing "000-bib_Indigenous-Peoples")
+- [Reference List of International Laws Affecting Indigenous Peoples](https://docs.google.com/spreadsheets/d/1e3GNtRESh9awKXkk5S2Jmg4evH76RwtRp6fdvN-GqFw/edit?usp=sharing)
+- [Bibliography of Global Literature Discussing Free, Prior and Informed Consent (FPIC)](https://docs.google.com/spreadsheets/d/1YIfvtCzAejupyllYlB_TeMLOqLu8SIq-SuwewkKLpAY/edit?usp=sharing "bibliography_FPIC_free-prior-and-informed-consent")
 
 
 ### country profiles

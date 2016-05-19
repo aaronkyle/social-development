@@ -6,12 +6,30 @@ I am currently using Google Spreadsheets to share and manage permissions for my 
 
 Please refer to the following Google Spreadsheets pages to see my work in progress:
 
+
+### bibliographic / reference management
+
 - [000-bib, Indigenous Peoples](https://docs.google.com/spreadsheets/d/1BmkyI2Zc491PGH4xvp_KE0hyWOMUrlpXfcvWHPrMg1k/edit?usp=sharing)
+
+- [bibliography_FPIC_free-prior-and-informed-consent](https://docs.google.com/spreadsheets/d/1YIfvtCzAejupyllYlB_TeMLOqLu8SIq-SuwewkKLpAY/edit?usp=sharing)
+
+- [bibliography_indigenous-peoples.xlsx](https://docs.google.com/spreadsheets/d/1FRZmmiQBy28r2ppK3HZP7GHrQ46PeZxkjXGpibMLGEg/edit?usp=sharing)
+
+
+### country profiles
+
 - [010-bib, Indigenous Peoples -Africa](https://docs.google.com/spreadsheets/d/1uDPIbtEiB1ZeLdLxxpgHRIwPYx67YKn7-yCLCOZ6Ncg/edit?usp=sharing)
 - [100 - Country IP Profile - INDONESIA](https://drive.google.com/drive/u/0/folders/0B_CbKDJqtSI7UWhWa0t2RkZpRzQ)
 - [100 - IP Country Profile - CANADA](https://docs.google.com/spreadsheets/d/146u6qzy9Z_cFp-PGjvMcl_PjGtrd4EXcPTKBedcpS-I/edit?usp=sharing)
 - [100 - IP Profile - RUSSIA](https://docs.google.com/spreadsheets/d/1T-67U8l-IUcAI90fVeLIUHofIwWFznoR77uPeT_aiXs/edit?usp=sharing)
+
+
+### policy analysis
+
 - [analysis, IFI, MDB, Bank policy requirements, Indigenous Peoples, 2012](https://docs.google.com/spreadsheets/d/1XJEFWygS7658yu_7Yab36TbVATeN2E5T_ymx_1G5Xsg/edit#gid=1210438341)
 - [international law affecting IPs](https://docs.google.com/spreadsheets/d/1e3GNtRESh9awKXkk5S2Jmg4evH76RwtRp6fdvN-GqFw/edit?usp=sharing)
-- [bibliography_FPIC_free-prior-and-informed-consent](https://docs.google.com/spreadsheets/d/1YIfvtCzAejupyllYlB_TeMLOqLu8SIq-SuwewkKLpAY/edit?usp=sharing)
-- [bibliography_indigenous-peoples.xlsx](https://docs.google.com/spreadsheets/d/1FRZmmiQBy28r2ppK3HZP7GHrQ46PeZxkjXGpibMLGEg/edit?usp=sharing)
+
+
+### program evaluation
+
+- [social rate of return](https://docs.google.com/spreadsheets/d/1LV-8LiSxrv3JMRGIZULNBhwJmGnLXNllA1j_dODTdyw/edit?usp=sharing)

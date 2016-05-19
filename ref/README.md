@@ -9,11 +9,9 @@ Please refer to the following Google Spreadsheets pages to see my work in progre
 
 ### bibliographic / reference management
 
-- [000-bib, Indigenous Peoples](https://docs.google.com/spreadsheets/d/1BmkyI2Zc491PGH4xvp_KE0hyWOMUrlpXfcvWHPrMg1k/edit?usp=sharing)
+- [000-bib_Indigenous-Peoples](https://docs.google.com/spreadsheets/d/1BmkyI2Zc491PGH4xvp_KE0hyWOMUrlpXfcvWHPrMg1k/edit?usp=sharing)
 
 - [bibliography_FPIC_free-prior-and-informed-consent](https://docs.google.com/spreadsheets/d/1YIfvtCzAejupyllYlB_TeMLOqLu8SIq-SuwewkKLpAY/edit?usp=sharing)
-
-- [bibliography_indigenous-peoples.xlsx](https://docs.google.com/spreadsheets/d/1FRZmmiQBy28r2ppK3HZP7GHrQ46PeZxkjXGpibMLGEg/edit?usp=sharing)
 
 
 ### country profiles

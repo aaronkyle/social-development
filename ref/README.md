@@ -7,10 +7,10 @@ I am currently using Google Spreadsheets to share and manage permissions for my 
 Please refer to the following Google Spreadsheets pages to see my work in progress:
 
 
-### bibliographic / reference management
+### global bibliographies and literature reviews
 
-- [000-bib_Indigenous-Peoples](https://docs.google.com/spreadsheets/d/1BmkyI2Zc491PGH4xvp_KE0hyWOMUrlpXfcvWHPrMg1k/edit?usp=sharing)
-
+- [000-bib_Indigenous-Peoples](https://docs.google.com/spreadsheets/d/1FRZmmiQBy28r2ppK3HZP7GHrQ46PeZxkjXGpibMLGEg/edit?usp=sharing)
+- [international law affecting IPs](https://docs.google.com/spreadsheets/d/1e3GNtRESh9awKXkk5S2Jmg4evH76RwtRp6fdvN-GqFw/edit?usp=sharing)
 - [bibliography_FPIC_free-prior-and-informed-consent](https://docs.google.com/spreadsheets/d/1YIfvtCzAejupyllYlB_TeMLOqLu8SIq-SuwewkKLpAY/edit?usp=sharing)
 
 
@@ -25,7 +25,6 @@ Please refer to the following Google Spreadsheets pages to see my work in progre
 ### policy analysis
 
 - [analysis, IFI, MDB, Bank policy requirements, Indigenous Peoples, 2012](https://docs.google.com/spreadsheets/d/1XJEFWygS7658yu_7Yab36TbVATeN2E5T_ymx_1G5Xsg/edit#gid=1210438341)
-- [international law affecting IPs](https://docs.google.com/spreadsheets/d/1e3GNtRESh9awKXkk5S2Jmg4evH76RwtRp6fdvN-GqFw/edit?usp=sharing)
 
 
 ### program evaluation

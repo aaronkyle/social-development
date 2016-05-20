@@ -3,7 +3,7 @@ date: 2005-10-13
 category: terminology
 tags: meta-phenomenon
 slug: social-policy
-summary: : 1) regulatory measures (guidelines, principles, legislation and activities ) intended to ensure or effect the well-being of a society and its constituent members; 2) an interdisciplinary field of study and (applied) practice that is concerned with societies' responses to social need 
+summary: : 1) regulatory measures (guidelines, principles, legislation and activities) intended to ensure or effect the well-being of a society and its constituent members; 2) an interdisciplinary field of study and (applied) practice that is concerned with societies' responses to social need 
 
 <!---
 tags:
@@ -47,4 +47,3 @@ World Bank. "[Definitions](http://go.worldbank.org/STEWT8SF30)".
 Policy: a statement of broad substantive policy principles that require, permit or constrain Bank activities to achieve institutional goals.
 
 -->
-

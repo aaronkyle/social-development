@@ -7,10 +7,8 @@ summary: : a sampling, or partial collection, of facts, figures, or opinions
 
 <!--
 icon: file-code-o
-summary: 
 -->
 The term **survey** refers to a sampling, or partial collection, of facts, figures, or opinions.
-
 
 ### References
 

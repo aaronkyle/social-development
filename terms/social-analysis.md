@@ -6,10 +6,6 @@ slug: social-analysis
 summary: : the practice of analyzing a situation or social issue, problem or trend through objective, systematic exploration&mdash;often with the aim of prompting change
 
 <!---
-tags:
-summary:
---->
-<!---
 ---
 layout: post
 title:  social analysis

@@ -9,6 +9,7 @@ summary: : the elimination of a significant number of employee positions or the 
 icon: file-code-o
 summary: 
 -->
+
 The term **retrenchment** refers to the elimination of a significant number of employee positions or the dismissal or layoff of a significant number of employees by an employer.
 
 

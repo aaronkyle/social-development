@@ -35,10 +35,11 @@ As a [field of practice](), social development involves the application of acade
 
 ### References and Further Reading
 
-* [Social Development Theory (Lev Vygotsky)](http://www.instructionaldesign.org/theories/social-development.html)
+* Lev Vygotsky. [Social Development Theory](http://www.instructionaldesign.org/theories/social-development.html)
 * Jacobs, Garry and Harlan Cleveland. 1999. International Center for Peace and Development. [Social Development Theory](http://www.icpd.org/development_theory/SocialDevTheory.htm). [November 1, 1999]
 * University College London. "Social Development Practice". https://www.ucl.ac.uk/silva/prospective-students/graduate/taught/degrees/social-development-practice-msc
-* University College London, *The Bartlett:* "Development Planning Unit". http://www.bartlett.ucl.ac.uk/dpu/programmes/postgraduate/msc-social-development-practice
+* University College London. [*The Bartlett*: "Development Planning Unit".](http://www.bartlett.ucl.ac.uk/dpu/programmes/postgraduate/msc-social-development-practice)
+* Word Bank ['Social Development'](http://go.worldbank.org/8WWCZQW5Q0) *Word Bank Webiste: Topics > Social Development*
 
 ### Notes and Citations
 

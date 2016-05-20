@@ -5,10 +5,7 @@ tags: development, stakeholder analysis
 slug: stakeholder-analysis
 summary: : a technique to identify and assess the importance and interests of key people, groups, or institutions usually in relation to specific policies, programmes or communities
 
-<!---
-tags:
-summary:
---->
+
 <!---
 ---
 layout: post

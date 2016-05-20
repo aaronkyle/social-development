@@ -213,3 +213,69 @@ The final step is to evaluate the environmental and social issues at project com
 * Inter-American Development Bank. n.d. [Environmental Safeguards: Policies and Guidelines](http://www.iadb.org/en/topics/sustainability/environmental-safeguards,1517.html) [web index page]. Washington, D.C.:
 * The International Bank for Reconstruction and Development. 2010. *[Safeguard Policies for World Bank Reconstruction Projects](http://www.gfdrr.org/sites/gfdrr.org/files/Chapter_21_Safeguard_Policies_for_World_Bank_Reconstruction_Projects.pdf)* [PDF]. Washington, DC: The World Bank.
 * World Bank Group. 2014. "[Review and Update of the World Bank Safeguard Policies](https://consultations.worldbank.org/consultation/review-and-update-world-bank-safeguard-policies)" [web article]. Washington, DC: The World Bank.
+
+
+
+<!--
+
+
+<!--
+title: safeguard policy
+date: 
+category: terminology
+tags: 
+slug: safeguard-policy
+summary: :
+status: draft
+
+Safeguard Policies
+
+[[Category: Term]][[Category: Development]][[Category: Finance]]
+
+
+'''Safeguard Policies and Performance Standards'''
+
+''Adapted from'': http://www.brettonwoodsproject.org/art-565324
+
+Starting as a loose assembly of internal staff policies adopted by international financial institutions in the 1980s, safeguard policies are framework declarations of explicitly-defined lending requirements to protect people and the environment from the adverse effects of project operations and development initiatives. The World Bank (IBRD and IDA), Asian Development Bank, African Development Bank, and Inter-American Development Bank all currently have such Safeguard Policies in place for investment projects and programme lending (although not for development policy lending (DPL) or reform programmes, which have separate relevant policies; see Update 66).  The Performance Standards of the International Financial Corporation (adopted as the basis of the Equator Principles) and European Bank of Reconstruction and Development can also be considered to be “safeguard policies” [DIFFER ; (see Update 67).]
+
+The safeguards consist of ten key environmental and social policies that set standards and procedures that the borrower and Bank must follow in the lead up to and during World Bank-financed projects. 
+
+The ten safeguards are:
+
+*	Environmental assessment - The 'umbrella policy' through which potential social and environmental impacts are identified and mitigation measures proposed.
+*	Natural habitats - places limits on Bank financed projects that may impact on areas of important biodiversity.
+*	Pest management - promotes the use of biological or environmental control methods and sets conditions on the acquisition and use of pesticides.
+*	Indigenous peoples - establishes standards and procedures when projects affect indigenous communities, it is the only safeguard to in some way reference human rights.
+*	Involuntary resettlement - sets standards and procedures for projects that displace people from their homes or cause economic displacement;
+*	Forestry - establishes minimum standards on the types of forest projects that the Bank will finance, including commercial logging and plantations under restricted conditions.
+*	Safety of dams - establishes procedures and safety requirements for construction of new dams and for projects that depend on safe functioning of existing large dams.
+*	Projects on international waterways - seeks to reduce potential conflict between states that border an international waterway over projects that may pollute it.
+*	Projects in disputed areas - lays out minimum rules for Bank-financing of projects in areas disputed by two or more states.
+*	Cultural property - requires the Bank to avoid damage and assist in the preservation of cultural property.
+
+
+The [http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/pol_PerformanceStandards2006_full/$FILE/IFC+Performance+Standards.pdf Performance Standards] are grouped into eight sections, each of which is coupled with [[IFC Guidance Notes to Performance Standards | Guidance Notes]] to further clarify client roles and responsibilities under the standards. The eight [http://www.ifc.org/ifcext/sustainability.nsf/Content/PerformanceStandards Performance Standards](PS) are:
+
+* PS 1:	Social and Environmental Assessment and Management System
+* PS 2:	Labor and Working Conditions
+* PS 3:	Pollution Prevention and Abatement
+* PS 4:	Community Health Safety and Security
+* PS 5:	Land Acquisition and Involuntary Resettlement
+* PS 6:	Biodiversity Conservation and Sustainable Natural Resource Management
+* PS 7:	Indigenous Peoples
+* PS 8:	Cultural Heritage
+
+Prior to financing, a proposed project is subject to a social and environmental review during which potential impacts are identified and remediation measures proposed. In reviewing the potential impact of projects, the World Bank and the IFC use a categorisation system that identifies which safeguards are triggered and what level of action or precaution must be taken. 
+
+Projects are rated from category A, the highest risk, down to category C, the lowest.
+
+When the World Bank or a borrower is alleged to be violating any safeguard, complaints can be lodged through the Inspection Panel, a semi-independent body formed in 1993 that enables affected parties to request an investigation into the Bank's role in projects (see Update 34).
+
+IFC clients must address project-related grievances or complaints from affected parties. Complainants can allege violations of safeguards and approach the Compliance Advisor Ombudsman, an internal watchdog that reports directly to the president of the World Bank Group (see Update 34).
+
+…are based on international agreements, even if these protections are not explicitly provided for in the borrower country's national law.&nbsp;
+
+
+-->
+-->

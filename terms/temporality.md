@@ -34,7 +34,7 @@ Social indicators data—when available—are commonly reported as one-year aggr
 
 ### Citations
 
-["Temporality"](http://www.oxforddictionaries.com/us/definition/american_english/temporality). *Oxford Dictionaries*.
+* ["Temporality"](http://www.oxforddictionaries.com/us/definition/american_english/temporality). *Oxford Dictionaries*.
 
 ### Further Readings
 

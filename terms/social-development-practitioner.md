@@ -3,7 +3,7 @@ date: 2009-03-19
 category: terminology
 tags: field of practice, actor
 slug: social-development-practitioner
-summary: :  a category of professionals (primarily comprised of social scientists) working (i.e., practising) in the field of [international social development](/terms/social-development/)
+summary: : a category of professionals (primarily comprised of social scientists) working (i.e., practising) in the field of [international social development](/terms/social-development/)
 
 <!---
 tags:

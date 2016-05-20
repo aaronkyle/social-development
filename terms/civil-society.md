@@ -9,7 +9,7 @@ summary: : a network of actors, associations, agencies and institutions operatin
 summary: 
 -->
 
-The term "civil-society" refers to a network of actors, associations, agencies and institutions operating between the state and the market. Civil society organizations may include religious organizations, professional and trade associations, academic institutions, media groups, etc.
+The term **civil-society** refers to a network of actors, associations, agencies and institutions operating between the state and the market. Civil society organizations may include religious organizations, professional and trade associations, academic institutions, media groups, etc.
 
 #### References:
 

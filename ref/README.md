@@ -11,7 +11,7 @@ Please refer to the following Google Spreadsheets pages to see my work in progre
 
 - [Bibliography of Global Literature | Indigenous Peoples](https://docs.google.com/spreadsheets/d/1FRZmmiQBy28r2ppK3HZP7GHrQ46PeZxkjXGpibMLGEg/edit?usp=sharing "000-bib_Indigenous-Peoples")
 - [Reference List of International Laws Affecting Indigenous Peoples](https://docs.google.com/spreadsheets/d/1e3GNtRESh9awKXkk5S2Jmg4evH76RwtRp6fdvN-GqFw/edit?usp=sharing)
-- [Bibliography of Global Literature Discussing Free, Prior and Informed Consent (FPIC)](https://docs.google.com/spreadsheets/d/1YIfvtCzAejupyllYlB_TeMLOqLu8SIq-SuwewkKLpAY/edit?usp=sharing "bibliography_FPIC_free-prior-and-informed-consent")
+- [Bibliography of Global Literature Discussing Free, Prior and Informed Consent (FPIC)](https://docs.google.com/spreadsheets/d/1OQPStYq9bY1Es3YjBUylFVtZd81bYRAgsmqQvKMQa00/edit?usp=sharing "bibliography_FPIC_free-prior-and-informed-consent")
 
 
 ### country profiles

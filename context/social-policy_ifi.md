@@ -500,44 +500,420 @@ http://www.adb.org/site/safeguards/main
 
 
 <a name="world-bank"></a>
+
+
+title: Social Policy at the World Bank
+date: 2009-05-05 01:49
+category: context
+tags: World Bank
+slug: social-policy_world-bank
+status: draft
+
+
+---
+
+*An aside, to rectify some ambiguity:*
+
+References to "the World Bank" suggest that a single international financial institution provides loans to developing countries for capital programs.  This singularization of "the Bank" commonly signifies the [International Bank for Reconstruction and Development (IBRD)](http://go.worldbank.org/IB13V68520 "Articles of Agreement, as amended effective June 27, 2012").<sup><a hfref="http://siteresources.worldbank.org/EXTABOUTUS/Resources/IBRDArticlesOfAgreement_links.pdf">PDF</a></sup> The World Bank Group is a greater body consisting of:
+
+1. the **International Bank for Reconstruction and Development (IBRD)**, established in 1945, which provides debt financing on the basis of sovereign guarantees.
+2. the **International Finance Corporation (IFC)**, established in 1956, which provides various forms of financing without sovereign guarantees, primarily to the private sector;
+3. the **International Development Association (IDA)**, established in 1960, which provides concessional financing (interest-free loans or grants), usually with sovereign guarantees;
+4. the **International Centre for Settlement of Investment Disputes (ICSID)**, established in 1965, which works with governments to reduce investment risk;
+5. the **Multilateral Investment Guarantee Agency (MIGA)**, established in 1988, which provides insurance against certain types of risk, including political risk, primarily to the private sector.
+
+Each World Bank Group institution operates according to procedures established by its [Articles of Agreement](http://go.worldbank.org/BA0GA6O820), or an equivalent governing document. These documents outline the conditions of membership and the general principles of organization, management, and operations. Each institution is run by a Board of Governors meeting once a year. Each member country appoints a governor, generally its Minister of Finance. On a daily basis the World Bank Group is run by a Board of 25 Executive Directors to whom the governors have delegated certain powers. Each Director represents either one country (for the largest countries), or a group of countries. Executive Directors are appointed by their respective governments or the constituencies.<sup><em>ref.</em></sup>
+
+The World Bank Institute is the capacity-development branch of the World Bank, providing learning and other capacity-building programs to member countries.
+
+
+<!--
+* [IBRD Articles of Agreement](http://go.worldbank.org/IB13V68520) (As amended effective June 27, 2012) | [PDF](http://siteresources.worldbank.org/EXTABOUTUS/Resources/IBRDArticlesOfAgreement_links.pdf)
+-->
+
+---
+
+
+<a name="world-bank"></a>
+
 ## World Bank
 
-References to 'the World Bank' are made as if it were a single international financial institution that provides loans to developing countries for capital programs.  Such references  usually decribe the works and practices of the International Bank for Reconstruction and Development (IBRD). The World Bank Group is actaully a greater body consisting of:
-
-1. the International Bank for Reconstruction and Development (IBRD), established in 1945, which provides debt financing on the basis of sovereign guarantees.
-1. the International Finance Corporation (IFC), established in 1956, which provides various forms of financing without sovereign guarantees, primarily to the private sector;
-1. the International Development Association (IDA), established in 1960, which provides concessional financing (interest-free loans or grants), usually with sovereign guarantees;
-1. the International Centre for Settlement of Investment Disputes (ICSID), established in 1965, which works with governments to reduce investment risk;
-1. the Multilateral Investment Guarantee Agency (MIGA), established in 1988, which provides insurance against certain types of risk, including political risk, primarily to the private sector.
-
-
-<!-- The agencies of the World Bank are each governed by their Articles of Agreement that serve as the legal and institutional foundation for all of their work.[7] -->
-Each of the World Bank Group institutions operates according to procedures established by its [articles of agreement](http://go.worldbank.org/BA0GA6O820), or an equivalent governing document. These documents outline the conditions of membership and the general principles of organization, management, and operations. Each institution is run by a Board of Governors meeting once a year.[7] Each member country appoints a governor, generally its Minister of Finance. On a daily basis the World Bank Group is run by a Board of 25 Executive Directors to whom the governors have delegated certain powers. Each Director represents either one country (for the largest countries), or a group of countries. Executive Directors are appointed by their respective governments or the constituencies. [7]
-
-<!-- The World Bank Institute is the capacity-development branch of the World Bank, providing learning and other capacity-building programs to member countries.  -->
-
+World Bank social and environmental policy comprises a body of 'stand-alone' [operational policies](# "for more information on the Bank's operational policies, refer to the  *The World Bank Operational Manual*"). <sup>c.f. IFC, EBRD and ADB</sup> 
 
 <a name="world-bank-policy"></a>
-### Policy
 
 The World Bank understands policy as a statement of broad substantive principles that require, permit or constrain Bank activities to achieve [institutional goals](http://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/ORGANIZATION/BODEXT/0,,contentMDK:50004943~pagePK:64020054~piPK:64020408~theSitePK:278036,00.html).
 
-* Operational Policies (OPs): are short, focused statements of policy that are based on the Bank's Articles of Agreement, the General Conditions, and policies approved by the Bank’s Executive Directors. OPs set out the mandatory policy requirements for the conduct of Bank operations.
-* Bank Procedures (BPs): are statements setting out the general mandatory procedural requirements necessary for Bank staff to carry out the policies set out in the OPs. They are designed to ensure Bankwide consistency and quality in Bank operations.
-* Directive: a statement of substantive directions, within Management’s authority, that require, permit or constrain activities. If accompanied by a Policy, the statement provides substantive details (methods, criteria and technical information) on how to implement the Policy. The statement may also address matters not covered by a Policy.
-* Operational Memoranda (OpMemos): are interim mandatory requirements designed to elaborate on requirements in OPs/BPs or to reflect changes to the OPs/BPs which have not yet been incorporated in the OPs/BPs concerned. Once the requirements in OpMemos are incorporated into revisions of the pertinent OPs/BPs, the Op Memos are retired.
+
+- **Operational Policies (OPs)**: are short, focused statements of policy that are based on the Bank's Articles of Agreement, the General Conditions, and policies approved by the Bank’s Executive Directors. OPs set out the mandatory policy requirements for the conduct of Bank operations.
+- **Bank Procedures (BPs)**: are statements setting out the general mandatory procedural requirements necessary for Bank staff to carry out the policies set out in the OPs. They are designed to ensure Bankwide consistency and quality in Bank operations.
+- **Directive**: a statement of substantive directions, within Management’s authority, that require, permit or constrain activities. If accompanied by a Policy, the statement provides substantive details (methods, criteria and technical information) on how to implement the Policy. The statement may also address matters not covered by a Policy.
+- **Operational Memoranda (OpMemos)**: are interim mandatory requirements designed to elaborate on requirements in OPs/BPs or to reflect changes to the OPs/BPs which have not yet been incorporated in the OPs/BPs concerned. Once the requirements in OpMemos are incorporated into revisions of the pertinent OPs/BPs, the Op Memos are retired.
+
+
+<!--
+http://go.worldbank.org/STEWT8SF30
+
+Policy: a statement of broad substantive policy principles that require, permit or constrain Bank activities to achieve institutional goals.
+
+Operational Policies (OPs): are short, focused statements of policy that are based on the Bank's Articles of Agreement, the General Conditions, and policies approved by the Bank’s Executive Directors. OPs set out the mandatory policy requirements for the conduct of Bank operations.
+
+Bank Procedures (BPs): are statements setting out the general mandatory procedural requirements necessary for Bank staff to carry out the policies set out in the OPs. They are designed to ensure Bankwide consistency and quality in Bank operations.
+
+Operational Memoranda (OpMemos): are interim mandatory requirements designed to elaborate on requirements in OPs/BPs or to reflect changes to the OPs/BPs which have not yet been incorporated in the OPs/BPs concerned. Once the requirements in OpMemos are incorporated into revisions of the pertinent OPs/BPs, the Op Memos are retired.
+
+Directive: a statement of substantive directions, within Management’s authority, that require, permit or constrain activities. If accompanied by a Policy, the statement provides substantive details (methods, criteria and technical information) on how to implement the Policy. The statement may also address matters not covered by a Policy.
+-->
+
+
+
+<div class="container-fluid">
+<div class="row">
+<table class="table-responsive table-bordered table-striped table-condensed">
+<thead>
+</thead>
+    <tbody>
+<tr>
+<td width="12%"></td><td>Operational Policy Waivers
+</tr>
+<tr>
+<td></td><td> World Bank Group Directive - Country Engagement
+</tr>
+<tr>
+<td>OP 1.00</td><td><a href="http://siteresources.worldbank.org/OPSMANUAL/112526-1124459412562/23585906/OP1.00_Final_July_2014.pdf">Poverty Reduction</a></td>
+</tr>
+<tr>
+<td>OP 2.30</td><td><a href="http://siteresources.worldbank.org/OPSMANUAL/112526-1124459412562/23587719/OP2.30_Final_July_2014.pdf">Development Cooperation and Conflict</a></td>
+</tr>
+<tr>
+<td>OP 3.10</td><td>Financial Terms and Conditions of IBRD Loans, IBRD Hedging Products, and IDA Credits</td>
+</tr>
+<tr>
+<td></td><td>Annex A - Past Loans of IBRD</td>
+</tr>
+<tr>
+<td></td><td>Annex B - Prepayment of IBRD Loans</td>
+</tr>
+<tr>
+<td></td><td>Annex C - Countries Ranked by Per Capita Income</td>
+</tr>
+<tr>
+<td></td><td>Annex D - IBRD/IDA and Blend Countries: Per Capita Incomes, Lending Eligibility, and Repayment Terms
+OP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects</td>
+</tr>
+<tr>
+<td></td><td><a href="http://go.worldbank.org/6C63VRDI00">Table A1 - Environmental and Social Safeguard Policies—Policy Objectives and Operational Principles</a></td>
+</tr>
+<tr>
+<td>OP 4.01</td><td><a href="http://go.worldbank.org/RUEQVWD550">Environmental Assessment</a></td>
+</tr>
+<tr>
+<td></td><td><a href="http://go.worldbank.org/D399H6DET0">Annex A - Definitions</a></td>
+</tr>
+<tr>
+<td></td><td><a href="http://go.worldbank.org/79Y2REJR51">Annex B - Content of an Environmental Assessment Report for a Category A Project</a></td>
+</tr>
+<tr>
+<td></td><td><a href="http://go.worldbank.org/785NA7CY20">Annex C - Environmental Management Plan</a></td>
+</tr>
+<tr>
+<td>BP 4.01</td><td><a href="http://go.worldbank.org/9MIMAQUHN0">Environmental Assessment</a></td>
+</tr>
+<tr>
+<td></td><td><a href="http://go.worldbank.org/A292H6UE90">Annex A - Application of EA to Dam and Reservoir Projects, 1999</a></td>
+</tr>
+<tr>
+<td></td><td><a href="http://go.worldbank.org/VSE6CTUEG0">Annex B - Application of EA to Projects Involving Pest Management: Environmental Assessment</a></td>
+</tr>
+<tr>
+<td>OP 4.02</td><td><a href="http://siteresources.worldbank.org/OPSMANUAL/112526-1124459412562/23586262/OP4.02.Rev_July2014.pdf">Environmental Action Plans</a></td>
+</tr>
+<tr>
+<td>OP 4.03</td><td><a href="http://go.worldbank.org/GCH411QCR0">Performance Standards for Private Sector Activities</a></td>
+</tr>
+<tr>
+<td>BP 4.03</td><td><a href="http://go.worldbank.org/JBCJYVQH70">Performance Standards for Private Sector Activities</a></td>
+</tr>
+<tr>
+<td>OP 4.04</td><td><a href="http://go.worldbank.org/WZQM56JT30">Natural Habitats</a></td>
+</tr>
+<tr>
+<td></td><td><a href="http://go.worldbank.org/NRJ1VSJT60">Annex A - Definitions</a></td>
+</tr>
+<tr>
+<td>BP 4.04</td><td><a href="hhttp://go.worldbank.org/BFOEUOUD10">Natural Habitats</a></td>
+</tr>
+<tr>
+<td>OP 4.07</td><td>Water Resources Management</td>
+</tr>
+<tr>
+<td>OP 4.09</td><td>Pest Management</td>
+</tr>
+<tr>
+<td>OP 4.10</td><td><a href="http://go.worldbank.org/TE769PDWN0">Indigenous Peoples</a></td>
+</tr>
+<tr>
+<td></td><td><a href="http://go.worldbank.org/JZP1C5JRQ0">Annex A - Social Assessment</a></td>
+</tr>
+<tr>
+<td></td><td><a href="http://go.worldbank.org/Z7EG8GD2N0">Annex B - Indigenous Peoples Plan</a></td>
+</tr>
+<tr>
+<td></td><td><a href="http://go.worldbank.org/PBQ91LDDS0">Annex C - Indigenous Peoples Planning Framework</a></td>
+</tr>
+<tr>
+<td>OP 4.11</td><td><a href="http://go.worldbank.org/7T8EIAJQU0">Physical Cultural Resources</a></td>
+</tr>
+<tr>
+<td>OP 4.12</td><td><a href="http://go.worldbank.org/96LQB2JT50">Involuntary Resettlement</a></td>
+</tr>
+<tr>
+<td></td><td><a href="http://go.worldbank.org/JG37U0DYC0">Annex A - Involuntary Resettlement Instruments</a></td>
+</tr>
+<tr>
+<td>OP 4.20</td><td><a href="http://go.worldbank.org/8W56CSDIK0">Gender and Development</a></td>
+</tr>
+<tr>
+<td>OP 4.36</td><td><a href="http://go.worldbank.org/6NQDXLHG10">Forests</a></td>
+</tr>
+<tr>
+<td></td><td><a href="http://go.worldbank.org/L34YTEJR10">Annex A - Definitions</a></td>
+</tr>
+<tr>
+<td>OP 4.37</td><td>Safety of Dams</td>
+</tr>
+<tr>
+<td>OP 4.76</td><td>Tobacco</td>
+</tr>
+<tr>
+<td>OP 7.00</td><td>Lending Operations: Choice of Borrower and Contractual Agreements</td>
+</tr>
+<tr>
+<td>OP 7.20</td><td>Security Arrangements</td>
+</tr>
+<tr>
+<td>OP 7.30</td><td>Dealings with De Facto Governments</td>
+</tr>
+<tr>
+<td>OP 7.40</td><td>Disputes over Defaults on External Debt, Expropriation, and Breach of Contract</td>
+</tr>
+<tr>
+<td>OP 7.50</td><td>Projects on International Waterways</td>
+</tr>
+<tr>
+<td>OP 7.60</td><td>Projects in Disputed Areas</td>
+</tr>
+<tr>
+<td>OP 8.00</td><td><a href="http://siteresources.worldbank.org/EXTOPMANUAL/Resources/502183-1429890621981/OP8.00_Final_July_2014.pdf">Rapid Response to Crises and Emergencies</a></td>
+</tr>
+<tr>
+<td>OP 8.40</td><td>Technical Assistance</td>
+</tr>
+<tr>
+<td>OP 8.45</td><td>Grants</td>
+</tr>
+<tr>
+<td></td><td>Annex A - DGF Eligibility Criteria</td>
+</tr>
+<tr>
+<td>OP 8.60</td><td>Development Policy Lending</td>
+</tr>
+<tr>
+<td>OP 9.00</td><td>Program-for-Results Financing</td>
+</tr>
+<tr>
+<td>OP 10.00</td><td>Investment Project Financing</td>
+</tr>
+<tr>
+<td>OP 10.20</td><td>Global Environment Facility Operations</td>
+</tr>
+<tr>
+<td>OP 10.21</td><td>Investment Operations Financed by the Multilateral Fund for the Implementation of the Montreal Protocol</td>
+</tr>
+<tr>
+<td></td><td>Annex A - The Montreal Protocol</td>
+</tr>
+<tr>
+<td></td><td>Annex B - Eligible Activities</td>
+</tr>
+<tr>
+<td>OP 11.00</td><td>Procurement</td>
+</tr>
+<tr>
+<td>OP 13.60</td><td><a href="http://go.worldbank.org/CH9BJAJTD0">Monitoring and Evaluation</a></td>
+</tr>
+<tr>
+<td>OP 14.10</td><td>External Debt Reporting and Financial Statements</td>
+</tr>
+<tr>
+<td>OP 14.20</td><td>Cofinancing</td>
+</tr>
+<tr>
+<td></td><td>Annex A - Sources and Types of Cofinancing</td>
+</tr>
+<tr>
+<td>OP 14.40</td><td>Trust Funds</td>
+</tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+
+
+<!--
+* Current list of [Operational Policies](http://go.worldbank.org/0BM4HLLCB0 "Operational Policies (OPs): are short, focused statements of policy that are based on the Bank's Articles of Agreement, the General Conditions, and policies approved by the Bank’s Executive Directors. OPs set out the mandatory policy requirements for the conduct of Bank operations.") (OPs)
+
+
+* Operational Policy Waivers
+* World Bank Group Directive - Country Engagement
+* OP 1.00 - **Poverty Reduction**
+* OP 2.30 - **Development Cooperation and Conflict**
+* OP 3.10 - Financial Terms and Conditions of IBRD Loans, IBRD Hedging Products, and IDA Credits
+    - Annex A - Past Loans of IBRD
+    - Annex B - Prepayment of IBRD Loans
+    - Annex C - Countries Ranked by Per Capita Income
+    - Annex D - IBRD/IDA and Blend Countries: Per Capita Incomes, Lending Eligibility, and Repayment Terms
+* OP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects
+    - Table A1 - Environmental and Social Safeguard Policies—Policy Objectives and Operational Principles
+* OP 4.01 - Environmental Assessment
+    - Annex A - Definitions
+    - Annex B - Content of an Environmental Assessment Report for a Category A Project
+    - Annex C - Environmental Management Plan
+* OP 4.02 - Environmental Action Plans
+* OP 4.03 - **Performance Standards for Private Sector Activities**
+* OP 4.04 - Natural Habitats
+Annex A - Definitions
+* OP 4.07 - Water Resources Management
+* OP 4.09 - Pest Management
+* OP 4.10 - **Indigenous Peoples**
+    - Annex A - Social Assessment
+    - Annex B - Indigenous Peoples Plan
+    - Annex C - Indigenous Peoples Planning Framework
+* OP 4.11 - **Physical Cultural Resources**
+* OP 4.12 - **Involuntary Resettlement**
+Annex A - Involuntary Resettlement Instruments
+* OP 4.20 - **Gender and Development**
+* OP 4.36 - Forests
+Annex A - Definitions
+* OP 4.37 - Safety of Dams
+* OP 4.76 - Tobacco
+* OP 7.00 - Lending Operations: Choice of Borrower and Contractual Agreements
+* OP 7.20 - Security Arrangements
+* OP 7.30 - Dealings with De Facto Governments
+* OP 7.40 - Disputes over Defaults on External Debt, Expropriation, and Breach of Contract
+* OP 7.50 - Projects on International Waterways
+* OP 7.60 - Projects in Disputed Areas
+* OP 8.00 - Rapid Response to Crises and Emergencies
+* OP 8.40 - Technical Assistance
+* OP 8.45 - Grants
+    - Annex A - DGF Eligibility Criteria
+* OP 8.60 - Development Policy Lending
+* OP 9.00 - Program-for-Results Financing
+* OP 10.00 - Investment Project Financing
+* OP 10.20 - Global Environment Facility Operations
+* OP 10.21 - Investment Operations Financed by the Multilateral Fund for the Implementation of the Montreal Protocol
+    - Annex A - The Montreal Protocol
+    - Annex B - Eligible Activities
+* OP 11.00 - Procurement
+* OP 13.60 - Monitoring and Evaluation
+* OP 14.10 - External Debt Reporting and Financial Statements
+* OP 14.20 - Cofinancing
+    - Annex A - Sources and Types of Cofinancing
+* OP 14.40 - Trust Funds
+
+* Current list of [Bank Procedures](http://go.worldbank.org/6CDSPCNND0 "Bank Procedures (BPs): are statements setting out the general mandatory procedural requirements necessary for Bank staff to carry out the policies set out in the OPs. They are designed to ensure Bankwide consistency and quality in Bank operations.") (BPs)
+
+* BP 2.30 - **Development Cooperation and Conflict**
+* BP 3.10 - Financial Terms and Conditions of IBRD Loans, IBRD Hedging Products, and IDA Credits
+* BP 4.00 - **Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects**
+* BP 4.01 - Environmental Assessment
+    - Annex A - Application of EA to Dam and Reservoir Projects
+    - Annex B - Application of EA to Projects Involving Pest Management
+* BP 4.02 - Environmental Action Plans
+* BP 4.03 - **Performance Standards for Private Sector Activities**
+* BP 4.04 - Natural Habitats
+* BP 4.10 - **Indigenous Peoples**
+* BP 4.11 - **Physical Cultural Resources**
+* BP 4.12 - Involuntary Resettlement
+* BP 4.20 - Gender and Development
+* BP 4.36 - Forests
+* BP 4.37 - Safety of Dams
+    - Annex A - Dam Safety Reports: Content and Timing
+* BP 7.30 - Dealings with De Facto Governments
+* BP 7.40 - Disputes over Defaults on External Debt, Expropriation, and Breach of Contract
+* BP 7.50 - Projects on International Waterways
+* BP 7.60 - Projects in Disputed Areas
+* BP 8.45 - Grants
+* BP 8.60 - Development Policy Lending
+* BP 9.00 - Program-for-Results Financing
+* BP 10.00 - Investment Project Financing
+* BP 10.20 - Global Environment Facility Operations
+* BP 10.21 - Investment Operations Financed by the Multilateral Fund for the Implementation of the Montreal Protocol
+    - Annex A - Project Preparation Advances from the Ozone Projects Trust Fund
+    - Annex B - Montreal Protocol Operations: Outline for the Project Information Document
+    - Annex C - Presentation of Projects to the MFMP Executive Committee
+    - Annex C1 - Sample Project Cover Sheet and Summary
+    - Annex D - Outline for Memorandum and Recommendation of the Director
+    - Annex E - Sample Notice to Prospective Recipients of Grants under the Multilateral Fund for the Implementation of the Montreal Protocol
+    - Annex F - Disbursement under Ozone Projects Trust Fund Grant Agreements
+* BP 11.00 - Procurement
+    - Annex A - General Responsibilities and Accountabilities for Procurement Work
+    - Annex B - Decision Authority Matrix
+    - Annex C - Maximum Prior Review Thresholds
+    - Annex D - Mandatory Prior Review Thresholds for RPMs and the OPRC
+    - Annex E - Handling of Procurement Complaints on Contracts Financed by the Bank
+* BP 14.10 - External Debt Reporting and Financial Statements
+    - Annex A - Sample Letter on Financial and Economic Data: IBRD Borrowers/Guarantors
+    - Annex B - Sample Letter on Financial and Economic Data: IDA Recipients
+    - Annex B1 - Countries Subject to IDA's Non-Concessional Borrowing Policy
+    - Annex C - Sample Letter of Representations regarding a Borrower's/Project Entity's Financial Condition
+* BP 14.20 - Cofinancing
+* BP 14.40 - Trust Funds
+    - Annex A - Trust Funds Minimum Size
+    - Annex B - Staff Eligibility to Administer Trust Funds
+* BP 17.30 - Communications with Individual Executive Directors
+
+
+* Current list of [Operational Memoranda](http://go.worldbank.org/ARSJTGEL60 "Operational Memoranda (OpMemos): are interim mandatory requirements designed to elaborate on requirements in OPs/BPs or to reflect changes to the OPs/BPs which have not yet been incorporated in the OPs/BPs concerned. Once the requirements in OpMemos are incorporated into revisions of the pertinent OPs/BPs, the Op Memos are retired.") (OpMemos)
+
+
+* Apr 05, 2013	OpMemo - Transition Arrangements for Six Policy Changes incorporated in OP/BP 10.00, Investment Project Financing
+* Oct 03, 2012	OpMemo - The Provision of Reimbursable Advisory Services
+* Jun 29, 2012	OpMemo - Disclosure of Project Integrity Risks to Executive Directors
+* Dec 01, 2011	OpMemo - Supervision of Carbon Finance Operations
+* Dec 01, 2011	Attachment 1 (Supervision of Carbon Finance Operations)
+* Dec 01, 2011	Attachment 2 (Supervision of Carbon Finance Operations)
+* Dec 03, 2009	OpMemo - Cancellation and Recommitment of IDA Resources
+* Dec 03, 2009	Attachment (Cancellation and Recommitment of IDA Resources)
+* Mar 23, 2007	OpMemo - Specific Expenditure Eligibility and Cost Sharing Requirements for Investment Projects in Countries Without Approved Country Financing Parameters
+
+
+Current list of [Directives](http://go.worldbank.org/3B68AP6SY0 "Directive: a statement of substantive directions, within Management’s authority, that require, permit or constrain activities. If accompanied by a Policy, the statement provides substantive details (methods, criteria and technical information) on how to implement the Policy. The statement may also address matters not covered by a Policy.")
+
+* World Bank Group Directive - Country Engagement
+-->
+
 
 
 ### Social Policy
 
 
-* [IBRD Articles of Agreement](http://go.worldbank.org/IB13V68520) (As amended effective June 27, 2012) | [PDF](http://siteresources.worldbank.org/EXTABOUTUS/Resources/IBRDArticlesOfAgreement_links.pdf)
+Social safeguard policies at the World Bank aim to minimize the negative impact of Bank-funded operations on vulnerable groups (displaced populations and indigenous peoples). The Conflict and Development policy guides Bank-assisted social investment in conflict-affected countries. The Gender policy guiidse Bank-assisted member countries in their efforts to reduce poverty and enhance economic growth and human well-being by addressing gender disparities and inequalities.<sup>[1](http://www.worldbank.org/en/topic/socialdevelopment/brief/social-development-policies)</sup>
+
+Among them are: 
+
+* Development Cooperation and Conflict - OP 2.30
+* Gender and Development - OP 4.20
+* Indigenous Peoples - OP 4.10
+* Involuntary Resettlement - OP 4.12
 
 
-[Social Development Policies](http://www.worldbank.org/en/topic/socialdevelopment/brief/social-development-policies)
+* [Social Development Policies](http://www.worldbank.org/en/topic/socialdevelopment/brief/social-development-policies)
 
-
+<!--
 <a name="world-bank-safeguards-policy"></a>
+
 #### [Safeguards Policy](http://go.worldbank.org/WTA1ODE7T0)
 
 The World Bank's Environmental and Social Safeguard Policies are a cornerstone of its support to sustainable poverty reduction. The objective of these policies is to prevent and mitigate undue harm to people and their environment in the development process. These policies provide guidelines for bank and borrower staffs in the identification, preparation and implementation of programs and projects.
@@ -584,7 +960,7 @@ World Bank Performance Standards
 On June 26, 2012, the Board of Executive Directors approved adoption and application of World Bank Performance Standards to be used for Bank financing or support (e.g., Partial Risk Guarantees) which is destined to projects, or components thereof, that are owned, constructed, and/or operated by the private sector, in place of the World Bank environmental and social Safeguard Policies (R2012-0130;IDA/R2012-0161).  Technical assistance for preparatory work for private sector engagement in PPPs would be eligible, as well as investment operations that include medium -or long-term management contracts, affermage/leases, privatizations, concessions, and projects within the Build-Own-Transfer (BOT) family.  Financial Intermediary lending also is a candidate, provided the Bank lending or guarantee to the financial intermediary is designated for subprojects implemented by the private sector or private parties.
 
 ---
-
+-->
 
 **Current Safeguard Policy Framework:**
 
@@ -653,17 +1029,12 @@ On June 26, 2012, the Board of Executive Directors approved adoption and applica
     - [Operational Policy 7.60: Projects in Disputed Areas, 2001](http://go.worldbank.org/P4TDHAUEK1)
     - [Bank Procedure 7.60: Projects in Disputed Areas, 2001](http://go.worldbank.org/AUPIL7UI00)
 
-[Use of Country Systems](http://go.worldbank.org/PLOLFFSUH0)
+* [Use of Country Systems](http://go.worldbank.org/PLOLFFSUH0)
     - [Operational Policy 4.00: Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects, 2005](http://go.worldbank.org/A23ULAUDG0)
     - [Table A1-Environmental and Social Safeguard Policies—Policy Objectives and Operational Principles, 2005](http://go.worldbank.org/XFBVTIUDK0)
     - [Bank Procedure 4.00: Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects, 2005](http://go.worldbank.org/GUVKFVUD70)
     - [Expanding the Use of Country Systems in Bank-Supported Operations Website](http://go.worldbank.org/RHRJVXDW60)
     - [Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects](http://go.worldbank.org/PLOLFFSUH0)
-
-Related Resources
-    - Publications
-    - Guidebooks/ Sourcebooks
-
 
 
 ---
@@ -679,17 +1050,50 @@ Related Resources
 
 ---
 
-**Previous Safeguard Policies:**
+### Previous Safeguard Policies
+
+
+#### Indigenous Peoples
+
 
 * [Operational Policy 4.10: Indigenous Peoples (Jul 2005)](http://wbln0018.worldbank.org/Institutional/Manuals/OpManual.nsf/B52929624EB2A3538525672E00775F66/0F7D6F3F04DD70398525672C007D08ED?OpenDocument)
-* [Operational Policy 4.01: Environmental Assessment (Jan 1999)](http://wbln0018.worldbank.org/Institutional/Manuals/OpManual.nsf/944eea1d5fb31d95852564a30060b223/9367a2a9d9daeed38525672c007d0972?OpenDocument)
+
+* [Operational Policy 4.10: Indigenous Peoples (Jul 2005)](http://wbln0018.worldbank.org/Institutional/Manuals/OpManual.nsf/B52929624EB2A3538525672E00775F66/0F7D6F3F04DD70398525672C007D08ED?OpenDocument )
+* [OP 4.10 - Indigenous Peoples](http://go.worldbank.org/TE769PDWN0) [July, 2005 (rev. 2013)
+
+
 * [Operational Directive 4.20: Indigenous Peoples (Sep 1991)](http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/pol_IndigPeoples/$FILE/OD420_IndigenousPeoples.pdf)
+* [OD 4.20 - Indigenous Peoples](http://www.ifc.org/wps/wcm/connect/835cc50048855270ab94fb6a6515bb18/OD420_IndigenousPeoples.pdf?MOD=AJPERES) [September 1991] [alt. link](http://andrewclapham.org/hrdoc/docs/WBOD4.20.htm)
+* [Operational Directive 4.20: Indigenous Peoples (Sep 1991)](http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/pol_IndigPeoples/$FILE/OD420_IndigenousPeoples.pdf )
+
+   - [Annex A - Social Assessment](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTOPMANUAL/0,,contentMDK:20564681~menuPK:4564185~pagePK:64709096~piPK:64709108~theSitePK:502184,00.html)
+   - [Annex B - Indigenous Peoples Plan](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTOPMANUAL/0,,contentMDK:20564712~menuPK:4564185~pagePK:64709096~piPK:64709108~theSitePK:502184,00.html]
+   - [Annex C - Indigenous Peoples Planning Framework](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTOPMANUAL/0,,contentMDK:20564733~menuPK:4564185~pagePK:64709096~piPK:64709108~theSitePK:502184,00.html]
+[BP 4.10 - Indigenous Peoples](http://go.worldbank.org/PG4KQSUDI0) [July, 2005]
 
 
+
+#### Resettlement
+
+* [OP 4.12 - Involuntary Resettlement](http://go.worldbank.org/96LQB2JT50) [December, 2001 (rev 2013)] [alt. link](http://www.ciel.org/Publications/redlineresettle.pdf)
+
+----
+
+#### Environment
+
+* [4.01: Environmental Assessment (Jan 1999)](http://wbln0018.worldbank.org/Institutional/Manuals/OpManual.nsf/944eea1d5fb31d95852564a30060b223/9367a2a9d9daeed38525672c007d0972?OpenDocument Operational Policy)
+
+
+* [Operational Policy 4.01: Environmental Assessment (Jan 1999)](http://wbln0018.worldbank.org/Institutional/Manuals/OpManual.nsf/944eea1d5fb31d95852564a30060b223/9367a2a9d9daeed38525672c007d0972?OpenDocument)
 
 
 <a name="world-bank-development-policy"></a>
-#### Development Policy
+
+#### Other Operational Policies | Development Policy
+
+* [Access to Information](http://go.worldbank.org/TRCDVYJ440)
+
+* [Social Protection & Labor](http://www.worldbank.org/en/topic/socialprotectionlabor)
 
 A number of World Bank operational policies deal specifically with social development concerns. These include the social safeguard policies, aimed at minimizing the negative impact of Bank-funded operations on vulnerable groups (displaced populations and indigenous peoples). The Conflict and Development policy provides guidance on Bank assistance to conflict-affected countries. The Gender policy provides guidance on Bank assistance to member countries in their efforts to reduce poverty and enhance economic growth and human well-being by addressing gender disparities and inequalities. For more information on the Bank's operational policies, refer to the World Bank Operational Manual.
 
@@ -700,16 +1104,21 @@ A number of World Bank operational policies deal specifically with social develo
 * The World Bank Operational Manual
 
 
-[Social Protection & Labor](http://www.worldbank.org/en/topic/socialprotectionlabor)
+#### Country Safeguard Systems
+
+* [Expanding the Use of Country Systems in Bank-Supported Operations](http://go.worldbank.org/RHRJVXDW60)
+* [Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects](http://go.worldbank.org/PLOLFFSUH0)
+* [OP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects](http://go.worldbank.org/A23ULAUDG0)
+* [BP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects](http://go.worldbank.org/GUVKFVUD70)
+
+---
+
+<a name="world-bank-implementation-resources"></a>
 
 ### Implementation Resources
 
 
-**Current Development Policy Framework (*selected*):**
-
 * [Participation Sourcebook (1996)](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1996/02/01/000009265_3961214175537/Rendered/PDF/multi_page.pdf)
-
-
 * [Involuntary Resettlement Sourcebook: Planning and Implemention in Development Projects](http://publications.worldbank.org/ecommerce/catalog/product?item_id=2444882)
 * [Environmental Assessment Sourcebook and updates](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTSAFEPOL/0,,contentMDK:20509076~hlPK:1287595~menuPK:1286567~pagePK:64168445~piPK:64168309~theSitePK:584435,00.html)
 * [Environmental, Health and Safety Guidelines, April 2007](http://www1.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/IFC+Sustainability/Sustainability+Framework/Environmental,+Health,+and+Safety+Guidelines/)
@@ -717,19 +1126,53 @@ A number of World Bank operational policies deal specifically with social develo
 * [Physical Cultural Resources Safeguard Policy Guidebook 2009 (English)](http://siteresources.worldbank.org/INTSAFEPOL/Resources/PhysicalCulturalGuidebook.pdf)
 * [Physical Cultural Resources Safeguard Policy Guidebook 2009 (French)](http://siteresources.worldbank.org/INTSAFEPOL/Resources/FrenchCulturalResouces.pdf)
 
+---
 
-**Previous Development Policies:**
+* [Table A1 - Environmental and Social Safeguard Policies—Policy Objectives and Operational Principles](http://go.worldbank.org/XFBVTIUDK0)
 
 
+### Analysis
 
-<a name="world-bank-operational-policy"></a>
-#### Other Operational Policies
+[Anthony Hall](http://www.lse.ac.uk/GranthamInstitute/profile/anthony-hall/) characterizes the social policy at the World Bank as distinguishable by three conceptually and operationally separate agendas: social welfare, social protection and social development. Welfare services and basic human needs, as well as social protection in the form of safety nets and social safeguards, together form the mainstay of what is generally regarded within the organization as constituting social policy. Social development reflects a broader if more fragmented view of social policy. Bank specialists have recently sought to widen the definition of social policy beyond welfare and protection, building upon longstanding academic discourse in this field. However, in attempting to pursue a more holistic and over-arching vision of social policy for development, they are likely to encounter major internal obstacles. Meeting this challenge will not be facilitated by the Bank reorganization announced in June 2006, which may serve to restrict the independence and remit of environmental and social specialists. [[2]](http://gsp.sagepub.com/content/7/2/151.abstract "Social Policies in the World Bank: Paradigms and Challenges")
 
-**Current Operational Policies (*selected*):**
+<!----
 
-<a name="world-bank-implementation-resources"></a>
-### Implementation Resources
+http://www.huffingtonpost.com/nezir-sinani/the-world-banks-new-envir_b_5641376.html
 
+Nezir Sinani Become a fan 
+Safeguards Campaign Coordinator at Bank Information Center
+
+The World Bank's New Environmental and Social Policies Fail to Tackle Climate Change
+Posted: 08/01/2014 1:30 pm EDT Updated: 10/01/2014 5:59 am EDT
+
+
+Over the last two years, the Bank has been reviewing its environmental and social safeguard policies. The review process presents an important opportunity for the Bank to adopt best practices for promoting low-carbon and resilient development by establishing strong policy language on climate change. Nonetheless, a draft of proposed new policies does not address climate issues systematically.
+
+Despite the Bank's urgent warnings that a warming world poses great risks to its development objectives, the Draft only mentions climate change sporadically, and fails to clearly articulate what borrowers will have to do to assess the climate impacts of their projects, or how climate change will affect their viability. Only very limited and inadequate climate assessments are envisioned in the new policies. On top of this, the largest loophole of all is that the proposed policies will not apply to nearly half of all Bank lending, since they explicitly exclude policy lending which is set to overtake traditional project finance in the coming years.
+
+On many public occasions, President Kim of the World Bank has called on governments world-wide to give climate change the attention it deserves as the single largest threat to any human development. The draft of Bank's new policies, cleared by the Board of the institution for public consultations, proves that the Bank has failed to walk the talk on climate. According to President Kim of the Bank, this was supposed to be the year for climate action. The climate action his institution is taking, however, will serve as a dangerous precedent to the world by showing how to avoid acting on climate.
+
+The Draft of new Bank policies contains only a generic requirement that the impacts of projects on climate change be assessed, with no details to guide the scope of assessment or the implementation plan. Critically, the Draft does not require that impacts on the resilience of host communities be considered. Through its new proposed policies, the Bank will start accounting for Greenhouse Gas (GHG) emissions of some of its projects, but the policies stop short of requiring GHG accounting for all Bank projects and they do not require the quantification, or even the consideration, of environmental and social externalities. Furthermore, the Draft does not specify how the information that is collected on GHG emissions will be used and for what purposes.
+
+
+While the Bank has recently highlighted the significant quantifiable economic and development benefits of taking even modest action on climate change, it is borderline hypocritical that the Bank's own core operational policies do not match this analysis and messaging. As such, the proposed policies need to be reviewed to properly address the true needs of communities and the planet vis-à-vis climate change. The World Bank's new policies should require the use of transparent planning and assessment tools to ensure that the Bank's activities are as low-cost, low-carbon, pro-poor, and sustainable as possible. They should specifically require borrowers to assess and manage (a) the climate-related risks facing supported projects and their resilience to those risks; (b) the impacts they will have on the climate resilience of local communities and ecosystems; and (c) the effects of the project on efforts to mitigate climate change.
+
+The new policies of the Bank are expected to be ready for a final approval by the Board of the World Bank sometime next year. President Kim has all the time and resources he needs to live up to his promises given to Civil Society Organizations that he would take into account their suggestions for a strong policy on climate.
+
+An institution that sees itself as a vanguard of social and environmental sustainability should strive for the highest standards. The world's poorest, supposedly the "beneficiaries" of World Bank projects, should not have to settle for displacement, violation of human rights, environmental destruction, and exacerbation of climate change in the name of "development." During one of his many public presentations, President Kim said, "In 20 years, all of us will be asked the question, 'What did you do to fight climate change?'. The leaders..., both from the private sector and from governments, have in their power to act in substantive ways. Now is the time to act for future generations before it is too late." Now we ask him what he is going to do today to fight climate change. His time to act is now!
+-->
+
+
+<!--
+<references/>
+
+
+[[Critical Eco-systems Partnership Fund]]
+
+[[Category:World Bank]]
+[[Category:Social Development]]
+[[Category: Policy]]
+-->
 
 <hr />
 

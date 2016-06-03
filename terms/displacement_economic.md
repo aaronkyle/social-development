@@ -9,5 +9,5 @@ Loss of land, assets, access to assets, income sources, or means of livelihoods 
 
 ### References
 
-* Asian Development Bank. 2009. "[Safeguard Policy Statement](http://www.adb.org/sites/default/files/institutional-document/32056/safeguard-policy-statement-june2009.pdf)".
-* International Finance Corporation. 2006. "Glossary of Terms." *[IFC Policy & Performance Standards and Guidance Notes](http://www.ifc.org/wps/wcm/connect/9a9464804885598c8364d36a6515bb18/Glossary%2Bof%2BTerms.pdf?MOD=AJPERES&attachment=true&id=1322803900995)*. Washington D.C.: International Finance Corporation.[Accessed 1 November 2013]
+Available online at:* http://www.ifc.org/wps/wcm/connect/9a9464804885598c8364d36a6515bb18/Glossary%2Bof%2BTerms.pdf?MOD=AJPERES&attachment=true&id=1322803900995
+* International Finance Corporation. 2006. "Glossary of Terms." *[IFC Policy & Performance Standards and Guidance Notes](http://www.ifc.org/wps/wcm/connect/9a9464804885598c8364d36a6515bb18/Glossary%2Bof%2BTerms.pdf?MOD=AJPERES&attachment=true&id=1322803900995)*. Washington D.C.: International Finance Corporation.

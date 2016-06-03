@@ -11,4 +11,4 @@ The term **country safeguard systems** (CSS) refers to aspects of a country’s 
 
 ### References
 
-* <ref>Asian Development Bank. 2009. "[Safeguard Policy Statement](http://www.adb.org/sites/default/files/institutional-document/32056/safeguard-policy-statement-june2009.pdf)".</ref>
+* Asian Development Bank. 2009. *[Safeguard Policy Statement](http://www.adb.org/sites/default/files/institutional-document/32056/safeguard-policy-statement-june2009.pdf)*.

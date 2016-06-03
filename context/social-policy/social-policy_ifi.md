@@ -65,26 +65,25 @@ Please also recognize that this list is not meant to be exhaustive; my focus is 
 <hr />
 
 <a name="adb"></a>
+## Asian Development Bank
 
-<a name="adb"></a>
+Investments of the Asian Development Bank must accord with the [ADB Charter](http://www.adb.org/documents/agreement-establishing-asian-development-bank-adb-charter) . Investment decisions are made in deference to internal strategies for reaching developmental targets, and their implementation is guided by [a series of operational policies](#adb-operational-policy). Client obligations to avoid and mitigate social and environmental risks are specified in the ADB's **[Safeguard Policy Statement](#adb-safeguards-policy)**.
+
+
 <a name="adb-policy"></a>
+### Policy
 
-## Policy Régimes of the Asian Development Bank
-
-Investments of the Asian Development Bank must accord with the [ADB Charter](http://www.adb.org/documents/agreement-establishing-asian-development-bank-adb-charter "*Agreement Establishing the Asian Development Bank*, 1965").
-
-Toward this end, ADB defines guidlines to shape loan terms and conditions. These policies are collected in what is known as the [ADB Operational Manual](#adb-operational-policy). [Social Policy](#adb-social-policy), in this context, is defined with respect to specific dimensions of ADB work, e.g. governance and anti-corruption. [Safeguard Policies](#adb-safeguards-policy) are specific measures for risk avoidance and mitigation.
-
+ADB regards policy as short, focused statements defining borrower client obligations that follow from [ADB's Charter](http://www.adb.org/documents/agreement-establishing-asian-development-bank-adb-charter "*Agreement Establishing the Asian Development Bank*, 1965"), [Asian Development Fund (ADF)](http://www.adb.org/site/adf/main) and [Regulations of Ordinary and Special Operations (OCR regulations)](http://www.adb.org/site/funds/ocr), as well as [other operational policies and strategies](http://www.adb.org/about/other-operational-policies-and-strategies) adopted by the [ADB Board of Directors](http://www.adb.org/about/board-directors).
 
 
 <a name="adb-operational-policy"></a>
+#### Operations Manual
 
-### The ADB Operation Manual (OM)
+The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual) collects operational policies known as [Bank Policies (BPs)]( "*bank policies*: short, focused statements defining borrower client obligations"). The OM also includes [Operational Procedures (OPs)]( "procedural requirements and guidance on policy implementation") that spell out procedural requirements and guidance on policy implementation (also referred to as **[policy operationalization]()**).
 
-The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual) collects operational policies known as [Bank Policies (BPs)]( "*bank policies*: short, focused statements defining borrower client obligations") that follow from ADB Charter, regulations of the [ADF](http://www.adb.org/site/adf/main) and [OCR](http://www.adb.org/site/funds/ocr), as well as [other operational policies and strategies](http://www.adb.org/about/other-operational-policies-and-strategies) adopted by the [ADB Board of Directors](http://www.adb.org/about/board-directors). The OM also includes [Operational Procedures (OPs)](# "procedural requirements and guidance on policy implementation") that spell out procedural requirements and guidance on policy implementation.
 
-<!--
-<div class="container">
+<!--  MERGE ERROR, CHECK LATER
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <div class="container-fluid">
 <div class="row">
@@ -202,7 +201,7 @@ OM Section
 <td></td><td>4</td><td>Promotion of Cooperation with NGOs</td><td>23</td><td>29 October 2003</td>
 </tr>
 <tr>
-<td>F</td><td colspan="4">Safeguard Policies</td>
+<td></td><td>F</td><td colspan="4">Safeguard Policies</td>
 </tr>
 <tr>
 <td></td><td>1</td><td>Safeguard Policy Statement</td><td>x</td><td>1 October 2013</td>
@@ -226,7 +225,7 @@ OM Section
 <td></td><td>1</td><td>Financing of Interest and Other Charges During Construction</td><td>9</td><td>18 July 2006</td>
 </tr>
 <tr>
-<td></td><td>2</td><td>Financing Indirect Foreign Exchange Cost of Projects</td><td>10</td><td>22 October 2008</td>
+<td></td><td>2</td><td>Financing Indirect Foreign Exchange Cost of Projects</td><td>10v22 October 2008</td>
 </tr>
 <tr>
 <td></td><td>3</td><td>Cost Sharing and Eligibility of Expenditures for ADB Financing</td><td>**/11</td><td>3 January 2012</td>
@@ -288,107 +287,56 @@ OM Section
 </table>
 </div>
 </div>
--->
-
-<a name="adb-social-policy"></a>
-
+=======
 ### Social Policy
 
-Social policy at the Asian Development Bank can be conceptually divided into two groups:
+It can be helpful to conceptualize Social policy at the ADB can be conceptually divided into two groups: 1) [safeguard policies](#adb-safeguards-policy), which seek to avoid, minimise, or mitigate adverse impacts of ADB operations <!-- one clause elaboration--> and 2) [development policies](#adb-development-policy), which articulate the ABD's aspirational notion of 'social development' and specify how these aims can be realized in practice.
 
-1. **[safeguard policies](#adb-safeguards-policy)**, which seek to avoid, minimise, or mitigate adverse impacts of ADB operations <!-- one clause elaboration-->,<br /> - and - <br />
-2. **[development policies](#adb-development-policy)**, which articulate the ABD's aspirational notion of 'social development' and specify how these aims can be realized in practice.
+--->>
+
+
 
 <a name="adb-safeguards-policy"></a>
+#### Safeguards Policy
 
-#### **Safeguard Policy**
+The [safeguards policies of the Asian Development Bank](http://www.adb.org/site/safeguards/main) seek to avoid, minimise, or mitigate harmful environmental and social risks, impacts, and costs that may result from ADB-financed development initiatives.  The current ADB policy, set out in the 2009 *[Safeguard Policy Statement](http://www.adb.org/site/safeguards/policy-statement)* (SPS), defines safeguard principles and outlines implementation and delivery processes for safeguard policy compliance. The SPS builds upon (and supersedes) three previous safeguard policies: the (2002) *[Environment Policy](http://www.adb.org/documents/environment-policy-asian-development-bank)*, the 1998 *[Policy on Indigenous Peoples](http://www.adb.org/documents/policy-indigenous-peoples)*, and the 1995 *[Policy on Involuntary Resettlement](http://www.adb.org/documents/policy-involuntary-resettlement)*. The SPS  brings them into one single policy that enhances consistency and coherence, and more comprehensively addresses environmental and social impacts and risks. <sup>[ref1](http://www.adb.org/documents/safeguard-policy-statement?ref=site/safeguards/publications "Asian Development Bank (ADB). 2009. *Safeguard Policy Statement (SPS)*. Manila: Asian Development Bank.").</sup>
 
-In 2009, the Asian Development Bank adopted its *[Safeguard Policy Statement (SPS)](http://www.adb.org/site/safeguards/policy-statement)*. The SPS defines safeguard principles and outlines implementation and delivery processes for safeguard policy compliance. <sup><a href="http://www.adb.org/site/safeguards/main">ref</sup> ADB clients are obligated to avoid, where possible, and mitigate, where inevitable, associated social and environmental risks per SPS specification.
 
-<div class="well">
-<p><strong>Current Safeguard Policy Framework</strong></p>
-<ul>
-<li><em><a href="http://www.adb.org/sites/default/files/institutional-document/32056/safeguard-policy-statement-june2009.pdf">Safeguard Policy Statement</a></em> (Jun 2009) | <sup><a href="http://www.adb.org/documents/safeguard-policy-statement">ADB SPS website</a></sup></li>
-<li><em><a href="http://www.adb.org/sites/default/files/institutional-document/31483/om-f1-20131001.pdf">Operational Manual Section F1</a></em> (2013)</li>
-</ul>
-</div>
+**Current Safeguard Policy Framework:**
 
-<!--
-**Current Safeguard Policy Framework**
 * *[Safeguard Policy Statement](http://www.adb.org/documents/safeguard-policy-statement)* (Jun 2009) | [PDF](http://www.adb.org/Documents/Policies/Safeguards/Safeguard-Policy-Statement-June2009.pdf)
-* *[Operational Manual Section F1](http://www.adb.org/sites/default/files/institutional-document/31483/om-f1-20131001.pdf)* (2013)
--->
+    - *[Operational Manual Section F1](http://www.adb.org/sites/default/files/institutional-document/31483/om-f1-20131001.pdf)* (2013)
 
 <!--
-    - [Safeguards Operational Review: ADB Processes, Portfolio, Country Systems, and Financial Intermediaries](http://www.adb.org/documents/safeguards-operational-review-adb-processes-portfolio-country-systems-and-financial-interm)
+[Safeguards Operational Review: ADB Processes, Portfolio, Country Systems, and Financial Intermediaries](http://www.adb.org/documents/safeguards-operational-review-adb-processes-portfolio-country-systems-and-financial-interm)
 -->
 
-The SPS builds upon (and supersedes) three previous safeguard policies: (i) the 2002 *[Environment Policy](http://www.adb.org/documents/environment-policy-asian-development-bank)*, (ii) the 1998 *[Policy on Indigenous Peoples](http://www.adb.org/documents/policy-indigenous-peoples)*, and (iii) the 1995 *[Policy on Involuntary Resettlement](http://www.adb.org/documents/policy-involuntary-resettlement)*. <sup>[ref](http://www.adb.org/documents/safeguard-policy-statement?ref=site/safeguards/publications "Asian Development Bank (ADB). 2009. *Safeguard Policy Statement (SPS)*. Manila: Asian Development Bank.").</sup>
-
-<div class="well">
-<p><strong>Previous Safeguard Policies</strong></p>
-<ul>
-<li><em><a href="http://www.adb.org/documents/environment-policy-asian-development-bank">Environment Policy</a></em> (Nov 2002) | <a href="http://www.adb.org/sites/default/files/institutional-document/33343/files/environment-policy.pdf">PDF</a>
-<ul>
-<li><a href="http://www.adb.org/documents/environmental-safeguards">Operations Evaluation Department Evaluation Study: Environmental Safeguards</a> (Sept 2006) | <a href="http://www.adb.org/sites/default/files/evaluation-document/35443/files/ses-es.pdf">PDF</a></li>
-</ul></li>
-<li><em><a href="http://www.adb.org/documents/policy-indigenous-peoples">Policy on Indigenous Peoples</a></em> (1998) | <a href="http://www.adb.org/sites/default/files/institutional-document/33441/files/policy-indigenous-peoples.pdf">PDF</a> | <a href="" title="NOTES: ADB 1998 Indigenous Peoples Policy">NOTES</a>
-<ul>
-<li><em><a href="http://www.adb.org/documents/manuals/operations/OMF03-25Sep06.pdf">Operations Manual Section F3/B 'Indigenous Peoples'</a></em> (25 September 2006)</li>
-<li><em><a href="http://www.oecd.org/dataoecd/43/22/38984072.pdf">Operations Evaluation Department Evaluation Study: Indigenous Peoples Safeguards</a></em> (Feb 2007) | <a href="http://www.adb.org/sites/default/files/evaluation-document/35441/files/sst-reg-2007-01.pdf">PDF</a></li>
-</ul></li>
-<li><em><a href="http://www.adb.org/documents/policy-involuntary-resettlement">Involuntary Resettlement Policy</a></em> (Aug 1995) | <a href="http://www.adb.org/sites/default/files/institutional-document/32515/files/involuntary-resettlement.pdf">PDF</a> | <a href="" title="NOTES: ADB 1995 Involuntary Resettlement Policy">NOTES</a>
-<ul>
-<li><em><a href="http://www.adb.org/documents/involuntary-resettlement-safeguards">Operations Evaluation Department Evaluation Study: Involuntary Resettlement Safeguards</a></em> (Sept 2006) | <a href="http://www.adb.org/sites/default/files/evaluation-document/35442/files/sst-reg-2006-14.pdf">PDF</a></li>
-</ul></li>
-</ul>
-</div>
-
-<!--
-**Previous Safeguard Policies**
+**Previous Safeguard Policies:**
 
 * *[Environment Policy](http://www.adb.org/documents/environment-policy-asian-development-bank)* (Nov 2002) | [PDF](http://www.adb.org/sites/default/files/institutional-document/33343/files/environment-policy.pdf)
     - [Operations Evaluation Department Evaluation Study: Environmental Safeguards](http://www.adb.org/documents/environmental-safeguards) (Sept 2006) | [(PDF)](http://www.adb.org/sites/default/files/evaluation-document/35443/files/ses-es.pdf)
 
 * *[Policy on Indigenous Peoples](http://www.adb.org/documents/policy-indigenous-peoples)*  (1998) | [(PDF)](http://www.adb.org/sites/default/files/institutional-document/33441/files/policy-indigenous-peoples.pdf) | [NOTES]( "NOTES: ADB 1998 Indigenous Peoples Policy")
-    - *[Operations Manual Section F3/B 'Indigenous Peoples'](http://www.adb.org/documents/manuals/operations/OMF03-25Sep06.pdf)* (25 September 2006)
-    - *[Operations Evaluation Department Evaluation Study: Indigenous Peoples Safeguards](http://www.oecd.org/dataoecd/43/22/38984072.pdf)* (Feb 2007) | [PDF](http://www.adb.org/sites/default/files/evaluation-document/35441/files/sst-reg-2007-01.pdf)
+   - *[Operations Manual Section F3/B 'Indigenous Peoples'](http://www.adb.org/documents/manuals/operations/OMF03-25Sep06.pdf)* (25 September 2006)
+   - *[Operations Evaluation Department Evaluation Study: Indigenous Peoples Safeguards](http://www.oecd.org/dataoecd/43/22/38984072.pdf)* (Feb 2007) | [PDF](http://www.adb.org/sites/default/files/evaluation-document/35441/files/sst-reg-2007-01.pdf)
 
 * *[Involuntary Resettlement Policy](http://www.adb.org/documents/policy-involuntary-resettlement)* (Aug 1995) | [PDF](http://www.adb.org/sites/default/files/institutional-document/32515/files/involuntary-resettlement.pdf) | [NOTES]( "NOTES: ADB 1995 Involuntary Resettlement Policy")
     - *[Operations Evaluation Department Evaluation Study: Involuntary Resettlement Safeguards](http://www.adb.org/documents/involuntary-resettlement-safeguards)* (Sept 2006) | [PDF](http://www.adb.org/sites/default/files/evaluation-document/35442/files/sst-reg-2006-14.pdf)
--->
 
-In addition to the *Safeguard Policy Statement*, the ADB has published strategic frameworks for realizing socially-beneficial development, e.g. the *[Social Protection Operational Plan 2014−2020](http://www.adb.org/documents/social-protection-operational-plan-2014-2020)*. ADB also undertakes periodic reviews of its progress toward policy implementation.
 
-<div class="well">
-<p><strong>Non-Policy Safeguard Frameworks</strong></p>
-<ul>
-<li><em><a href="http://www.adb.org/documents/social-protection-strategy">Social Protection Strategy</a></em> (Jan 2001)
-<ul>
-<li><a href="http://www.adb.org/Documents/Reports/Social_Protection/IN252-02.pdf">Social Protection Progress Report to the Board of Directors (Sept 2002)</a></li>
-</li>
-</ul>
-<ul>
-<li><em><a href="http://www.adb.org/documents/social-protection-operational-plan-2014-2020">Social Protection Operational Plan 2014−2020</a></em> (Dec 2013)</li>
-<li><em><a href="http://www.adb.org/documents/special-evaluation-study-adb-s-social-protection-strategy">Special Evaluation Study on ADB’s Social Protection Strategy</a></em> (7 Nov 2012)</li>
-</ul></li>
-</ul>
-</div>
-
-<!--
-**Non-Policy Safeguard Frameworks**
+**Non-Policy Safeguard Frameworks:**
 
 * *[Social Protection Strategy](http://www.adb.org/Documents/Policies/Social_Protection/default.asp)* (Aug 2001) | [print version]( "published July 2003") | [NOTES]( "NOTES: ADB 2001 Social Protection Strategy")
-    - [Social Protection Progress Report to the Board of Directors (Sept 2002)](http://www.adb.org/Documents/Reports/Social_Protection/IN252-02.pdf)
+   - [Social Protection Progress Report to the Board of Directors (Sept 2002)](http://www.adb.org/Documents/Reports/Social_Protection/IN252-02.pdf)
 
 * *[Social Protection Strategy](http://www.adb.org/documents/social-protection-strategy)* (Jan 2001)
     - *[Social Protection Operational Plan 2014−2020](http://www.adb.org/documents/social-protection-operational-plan-2014-2020)* (Dec 2013)
     - *[Special Evaluation Study on ADB’s Social Protection Strategy](http://www.adb.org/documents/special-evaluation-study-adb-s-social-protection-strategy)* (7 Nov 2012)
--->
+
+
 
 <a name="adb-development-policy"></a>
-
-#### **Development Policies**
+#### Development Policy
 
 While safeguards policies are intended for risk avoidance, mitigation and management, other forms of social policy govern how the ADB investment in development initiatives. These 'development policies' define the ADB's aspirational notion of 'social development' and specify how these aims can be realized in practice.
 
@@ -401,85 +349,46 @@ The 2003 *[Policy on Gender and Development](http://www.adb.org/documents/policy
 The 2001 *[Social Protection Strategy](http://www.adb.org/documents/social-protection-strategy)* (SPS) is another such development policy framework.  The SPS establishes the meaning of 'social protection' wtih ADB operations as a set of policies and programs designed to reduce poverty and vulnerability by promoting efficient labor markets, diminishing people's exposure to risks, and enhancing their capacity to protect themselves against hazards and interruption/loss of income. Priority interventions under this framework are those supporting social assistance and welfare services, including child protection and micro- and area-based schemes for poverty and vulnerability rediction; social insurance programs to cushion risks associated with unemployment, ill-health, disability, work-related injury and old age; and labor market policies and programs designed to generate employment, improve working conditions.
 
 
-**Development Policy Frameworks (*indicative*)**
+**Current Development Policy Frameworks (*selected*):**
 
-<div class="well">
-<ul>
-<li><em><a href="http://www.adb.org/documents/strategy-2020-working-asia-and-pacific-free-poverty">Strategy 2020: Working for an Asia and Pacific Free of Poverty</a></em> (Apr 2008) | <a href="http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-print.pdf">print</a> | <a href="http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-board-doc.pdf">board paper</a> | <a href="http://www.adb.org/sites/default/files/institutional-document/32121/brochure-strategy2020.pdf">brochure</a>
-<ul>
-<li><a href="http://www.adb.org/documents/midterm-review-strategy-2020-action-plan">Midterm Review of Strategy 2020 Action Plan</a></li>
-</ul></li>
-</ul>
-</div>
-<!--
+| Title | Versions | Related Documents |
+|--|--|--|
 * *[Strategy 2020: Working for an Asia and Pacific Free of Poverty](http://www.adb.org/documents/strategy-2020-working-asia-and-pacific-free-poverty)* (Apr 2008) | [print](http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-print.pdf) | [board paper](http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-board-doc.pdf) | [brochure](http://www.adb.org/sites/default/files/institutional-document/32121/brochure-strategy2020.pdf)
-    - [Midterm Review of Strategy 2020 Action Plan](http://www.adb.org/documents/midterm-review-strategy-2020-action-plan)
-document/32122/prs-2004.pdf)
--->
+    
 
+- [Midterm Review of Strategy 2020 Action Plan](http://www.adb.org/documents/midterm-review-strategy-2020-action-plan)
 <!--
 * *[Poverty Reduction Strategy, 2004](http://www.adb.org/sites/default/files/institutional-document/31483/omc01-14jul04.pdf)*
     - *[Operations Manual Section F3/OP](http://www.adb.org/Documents/Manuals/Operations/OMF03_13may04.pdf)* (13 May 2004)
     - *[Operations Manual Section C1/BP Poverty Reduction](http://www.adb.org/documents/manuals/operations/OMC01_14jul04.pdf)* (14 July 2004)
     - [2004 typset summary overview | PDF](http://www.adb.org/sites/default/files/institutional-document/32122/prs-2004.pdf)
 -->
-<div class="well">
-<ul>
-<li><a href="http://www.adb.org/site/development-effectiveness/adb-results-framework">ADB Results Framework</a> (2008)
-<ul>
-<li><em><a href="http://www.adb.org/documents/adb-results-framework-2013-2016-quick-guide">ADB Results Framework 2013-2016: Quick Guide</a></em> | <a href="http://www.adb.org/documents/adb-results-framework-2013-2016-quick-guide">PDF</a></li>
-<li><a href="http://www.adb.org/documents/supplementary-appendix-a-indicator-definitions">Results Framework Indicator Definitions</a> (2014) | <a href="http://www.adb.org/sites/default/files/institutional-document/32132/adb20results20framwork20indicators20definition-updated202012.pdf">PDF - 2012 Update</a> | <a href="http://www.adb.org/sites/default/files/institutional-document/33902/rf-indicator-definitions.pdf">PDF - 2014 Update</a></li>
-<li><em><a href="http://www.adb.org/documents/supplementary-appendix-b-standard-explanatory-data-definitions">Standard Explanatory Data Definitions</a></em> (2014) | <a href="http://www.adb.org/sites/default/files/institutional-document/33903/rf-sed-definitions.pdf">PDF - 2014 Update</a></li>
-<li><em><a href="http://www.adb.org/documents/review-adb-results-framework">Review of the ADB Results Framework</a></em> (Dec 2012)</li>
-<li><em><a href="http://www.adb.org/documents/adb-results-framework-interim-update-mtr">ADB’s Results Framework: Interim Update to Align with the Midterm Review of Strategy 2020</a></em> (Dec 2014)| <a href="http://www.adb.org/sites/default/files/institutional-document/154037/adb-results-framework-interim-update.pdf">PDF</a></li>
-</ul></li>
-</div>
-<!--
+
 * [ADB Results Framework](http://www.adb.org/site/development-effectiveness/adb-results-framework) (2008)
     - *[ADB Results Framework 2013-2016: Quick Guide](http://www.adb.org/documents/adb-results-framework-2013-2016-quick-guide)* | [PDF](http://www.adb.org/documents/adb-results-framework-2013-2016-quick-guide)
     - [Results Framework Indicator Definitions](http://www.adb.org/documents/supplementary-appendix-a-indicator-definitions) (2014) | [PDF - 2012 Update](http://www.adb.org/sites/default/files/institutional-document/32132/adb20results20framwork20indicators20definition-updated202012.pdf) | [PDF - 2014 Update](http://www.adb.org/sites/default/files/institutional-document/33902/rf-indicator-definitions.pdf)
     - *[Standard Explanatory Data Definitions](http://www.adb.org/documents/supplementary-appendix-b-standard-explanatory-data-definitions)* (2014) | [PDF - 2014 Update](http://www.adb.org/sites/default/files/institutional-document/33903/rf-sed-definitions.pdf)
     - *[Review of the ADB Results Framework](http://www.adb.org/documents/review-adb-results-framework)* (Dec 2012)
     - *[ADB’s Results Framework: Interim Update to Align with the Midterm Review of Strategy 2020](http://www.adb.org/documents/adb-results-framework-interim-update-mtr)* (Dec 2014)| [PDF](http://www.adb.org/sites/default/files/institutional-document/154037/adb-results-framework-interim-update.pdf)
--->
 
-<div class="well">
-<ul>
-<li><em><a href="">Policy on Gender and Development, 2010</a></em>
-<ul>
-<li><em><a href="http://www.adb.org/sites/default/files/institutional-document/31483/om-c2.pdf">2010 Operations Manual Section C2/BP &amp; C2/OP</a></em></li>
-<li><a href="http://www.adb.org/sites/default/files/institutional-document/32035/gender-policy.pdf">2003 typset version of the 1998 policy</a> | <a href="http://www.adb.org/sites/default/files/institutional-document/32035/gender-policy.pdf">PDF</a> | <a href="#">NOTES</a></li>
-<li><a href="http://www.adb.org/documents/implementation-review-policy-gender-and-development">Implementation Review of the Policy on Gender and Development</a> (Nov 2006)</li>
-<li><a href="http://www.adb.org/documents/series/gender-and-development-plan-action-annual-implementation-progress-reports">Gender and Development Plan of Action Annual Implementation Progress Reports</a> (Nov 2006)</li>
-<li><a href="http://www.adb.org/documents/interim-progress-report-policy-gender-and-development">Interim Progress Report on the Policy on Gender and Development</a> (2002)</li>
-</ul></li>
-</ul>
-</div>
-<!--
+
 * *[Policy on Gender and Development, 2010]()*
     - *[2010 Operations Manual Section C2/BP & C2/OP](http://www.adb.org/sites/default/files/institutional-document/31483/om-c2.pdf)*
-    - [2003 typset version of the 1998 policy](http://www.adb.org/sites/default/files/institutional-document/32035/gender-policy.pdf) | [PDF](http://www.adb.org/sites/default/files/institutional-document/32035/gender-policy.pdf) | [NOTES](#)
+    - *[]()* ()
+    - [2003 typset version of the 1998 policy | PDF](http://www.adb.org/sites/default/files/institutional-document/32035/gender-policy.pdf)  | [NOTES]()
     - [Implementation Review of the Policy on Gender and Development](http://www.adb.org/documents/implementation-review-policy-gender-and-development) (Nov 2006)
     - [Gender and Development Plan of Action Annual Implementation Progress Reports](http://www.adb.org/documents/series/gender-and-development-plan-action-annual-implementation-progress-reports) (Nov 2006)
     - [Interim Progress Report on the Policy on Gender and Development](http://www.adb.org/documents/interim-progress-report-policy-gender-and-development) (2002)
--->
-
 <!--
 * *Policy on the Role of Women in Development* (WID) (1985)
 -->
-<div class="well">
-<ul>
-<li><em><a href="http://www.adb.org/documents/social-protection-strategy">Social Protection Strategy</a></em> | <a href="http://www.adb.org/themes/social-development/social-protection">alt</a></li>
-<li><em><a href="#">Implementation Review: Second Governance and Anticorruption Action Plan (GACAP II)</a></em> (December 2013)</li>
-</ul>
-</div>
-<!--
-* *[Social Protection Strategy](http://www.adb.org/documents/social-protection-strategy)* | [alt](http://www.adb.org/themes/social-development/social-protection)
-* *[Implementation Review: Second Governance and Anticorruption Action Plan (GACAP II)](#)* (December 2013)
--->
 
-<!--
-**Operational Policies (*indicative*):**
+* *[Social Protection Strategy](http://www.adb.org/documents/social-protection-strategy) | [alt](http://www.adb.org/themes/social-development/social-protection)
+    - [PDF](http://www.adb.org/s
+* *[Implementation Review: Second Governance and Anticorruption Action Plan (GACAP II)]()* (December 2013)
+
+
+**Current Operational Policies (*selected*):**
 
 * 2012: [Accountability Mechanism]()
 * 2011: [Improving Project Outcomes Report]()
@@ -487,433 +396,88 @@ document/32122/prs-2004.pdf)
 * 2008: [Review of the Independence and Effectiveness of the Operations Evaluation Department]()
 * 2003: [Combating Money Laundering and the Financing of Terrorism]()
 
-* *[Public Communications Policy](http://www.adb.org/Documents/Policies/PCP/PCP-R-Paper.pdf)* (March 2005) [NOTES](# "NOTES: ADB 2005 Public Communications Policy")
+* *[Public Communications Policy](http://www.adb.org/Documents/Policies/PCP/PCP-R-Paper.pdf)* (March 2005) [NOTES]( "NOTES: ADB 2005 Public Communications Policy")
 
-* *[Implementation Review: Second Governance and Anticorruption Action Plan (GACAP II)](#)* (December 2013)
--->
-
-<!--
-Additional References:
-http://www.adb.org/site/safeguards/main
--->
+* *[Implementation Review: Second Governance and Anticorruption Action Plan (GACAP II)]()* (December 2013)
 
 
-
-<a name="world-bank"></a>
-
-
-title: Social Policy at the World Bank
-date: 2009-05-05 01:49
-category: context
-tags: World Bank
-slug: social-policy_world-bank
-status: draft
+<a name="adb-implementation-resources"></a>
+### Implementation Resources
 
 
----
+* [Safeguard Categories](http://www.adb.org/site/safeguards/safeguard-categories)
 
-*An aside, to rectify some ambiguity:*
+   - [Project Classification System: Final Report](http://www.adb.org/documents/project-classification-system-final-report) | [PDF](http://www.adb.org/sites/default/files/institutional-document/42823/files/project-classification-system-final-report.pdf)
 
-References to "the World Bank" suggest that a single international financial institution provides loans to developing countries for capital programs.  This singularization of "the Bank" commonly signifies the [International Bank for Reconstruction and Development (IBRD)](http://go.worldbank.org/IB13V68520 "Articles of Agreement, as amended effective June 27, 2012").<sup><a hfref="http://siteresources.worldbank.org/EXTABOUTUS/Resources/IBRDArticlesOfAgreement_links.pdf">PDF</a></sup> The World Bank Group is a greater body consisting of:
+Project categorization forms are available for:
 
-1. the **International Bank for Reconstruction and Development (IBRD)**, established in 1945, which provides debt financing on the basis of sovereign guarantees.
-2. the **International Finance Corporation (IFC)**, established in 1956, which provides various forms of financing without sovereign guarantees, primarily to the private sector;
-3. the **International Development Association (IDA)**, established in 1960, which provides concessional financing (interest-free loans or grants), usually with sovereign guarantees;
-4. the **International Centre for Settlement of Investment Disputes (ICSID)**, established in 1965, which works with governments to reduce investment risk;
-5. the **Multilateral Investment Guarantee Agency (MIGA)**, established in 1988, which provides insurance against certain types of risk, including political risk, primarily to the private sector.
+* environment | [PDF](http://www.adb.org/Documents/Guidelines/Environmental_Assessment/Environmental-Categorization-Form.pdf) | [.doc](http://www.adb.org/Documents/Guidelines/Environmental_Assessment/Environmental-Categorization-Form.doc)
+   - [Environment Safeguard](http://www.adb.org/site/safeguards/environment)
+* involuntary resettlement | [PDF](http://www.adb.org/Documents/Guidelines/Resettlement/IR-Categorization-Form.pdf) | [.doc](http://www.adb.org/Documents/Guidelines/Resettlement/IR-Categorization-Form.doc)
+* Indigenous Peoples | [PDF](http://www.adb.org/Documents/Guidelines/IndigenousPeoples/IP-Categorization-Form-Jun2010.pdf) | [.doc](http://www.adb.org/Documents/Guidelines/IndigenousPeoples/IP-Categorization-Form-Jun2010.doc)
 
-Each World Bank Group institution operates according to procedures established by its [Articles of Agreement](http://go.worldbank.org/BA0GA6O820), or an equivalent governing document. These documents outline the conditions of membership and the general principles of organization, management, and operations. Each institution is run by a Board of Governors meeting once a year. Each member country appoints a governor, generally its Minister of Finance. On a daily basis the World Bank Group is run by a Board of 25 Executive Directors to whom the governors have delegated certain powers. Each Director represents either one country (for the largest countries), or a group of countries. Executive Directors are appointed by their respective governments or the constituencies.<sup><em>ref.</em></sup>
+Rapid Environment Assessment checklists for many different sectors are available [here](http://www.adb.org/documents/Guidelines/Environmental_Assessment/eaguidelines002.asp).
 
-The World Bank Institute is the capacity-development branch of the World Bank, providing learning and other capacity-building programs to member countries.
+* [Safeguards Documents](http://www.adb.org/site/safeguards/safeguards-documents)
+
+* [Social Protection Index for Committed Poverty Reduction](http://www.adb.org/publications/social-protection-index-committed-poverty-reduction)
+    * [PDF, v1](http://www.adb.org/sites/default/files/publication/28019/spi-poverty-reduction-v1.pdf)
+    * [PDF, v2](http://www.adb.org/sites/default/files/publication/28019/spi-poverty-reduction-v2.pdf)
+
+* [Statistics and Databases](http://www.adb.org/data/statistics)
+
+* [Guidance on Achieving Good Practice]()
+    * *[Handbook on Resettlement: A Guide to Good Practice](http://www.adb.org/Documents/Handbooks/Resettlement/Handbook_on_Resettlement.pdf)* (1998)
+    * *[Handbook on Social Analysis, A Working Document](http://www.adb.org/Documents/Handbooks/Social-Analysis/social-analysis-handbook.pdf)* (Nov 2007)
+* [Case Studies]()
+    * [Fostering Public Participation in Budget-making: Case studies from Indonesia, Marshall Islands and Pakistan](http://www.adb.org/Documents/Books/Fostering-Public-Participation/fostering-public-participation.pdf) (2006)
+* [Training Tools]()
+    * [For Life, With Love: Training Tool for HIV Prevention and Safe Migration in Road Construction Settings and Affected Communities](http://www.adb.org/documents/books/for-life-with-love/for-life-with-love.pdf) (2009)
 
 
-<!--
-* [IBRD Articles of Agreement](http://go.worldbank.org/IB13V68520) (As amended effective June 27, 2012) | [PDF](http://siteresources.worldbank.org/EXTABOUTUS/Resources/IBRDArticlesOfAgreement_links.pdf)
--->
+<hr />
 
----
 
 
 <a name="world-bank"></a>
-
 ## World Bank
 
-World Bank social and environmental policy comprises a body of 'stand-alone' [operational policies](# "for more information on the Bank's operational policies, refer to the  *The World Bank Operational Manual*"). <sup>c.f. IFC, EBRD and ADB</sup> 
+References to 'the World Bank' are made as if it were a single international financial institution that provides loans to developing countries for capital programs.  Such references  usually decribe the works and practices of the International Bank for Reconstruction and Development (IBRD). The World Bank Group is actaully a greater body consisting of:
+
+1. the International Bank for Reconstruction and Development (IBRD), established in 1945, which provides debt financing on the basis of sovereign guarantees.
+1. the International Finance Corporation (IFC), established in 1956, which provides various forms of financing without sovereign guarantees, primarily to the private sector;
+1. the International Development Association (IDA), established in 1960, which provides concessional financing (interest-free loans or grants), usually with sovereign guarantees;
+1. the International Centre for Settlement of Investment Disputes (ICSID), established in 1965, which works with governments to reduce investment risk;
+1. the Multilateral Investment Guarantee Agency (MIGA), established in 1988, which provides insurance against certain types of risk, including political risk, primarily to the private sector.
+
+
+<!-- The agencies of the World Bank are each governed by their Articles of Agreement that serve as the legal and institutional foundation for all of their work.[7] -->
+Each of the World Bank Group institutions operates according to procedures established by its [articles of agreement](http://go.worldbank.org/BA0GA6O820), or an equivalent governing document. These documents outline the conditions of membership and the general principles of organization, management, and operations. Each institution is run by a Board of Governors meeting once a year.[7] Each member country appoints a governor, generally its Minister of Finance. On a daily basis the World Bank Group is run by a Board of 25 Executive Directors to whom the governors have delegated certain powers. Each Director represents either one country (for the largest countries), or a group of countries. Executive Directors are appointed by their respective governments or the constituencies. [7]
+
+<!-- The World Bank Institute is the capacity-development branch of the World Bank, providing learning and other capacity-building programs to member countries.  -->
+
 
 <a name="world-bank-policy"></a>
+### Policy
 
 The World Bank understands policy as a statement of broad substantive principles that require, permit or constrain Bank activities to achieve [institutional goals](http://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/ORGANIZATION/BODEXT/0,,contentMDK:50004943~pagePK:64020054~piPK:64020408~theSitePK:278036,00.html).
 
-
-- **Operational Policies (OPs)**: are short, focused statements of policy that are based on the Bank's Articles of Agreement, the General Conditions, and policies approved by the Bank’s Executive Directors. OPs set out the mandatory policy requirements for the conduct of Bank operations.
-- **Bank Procedures (BPs)**: are statements setting out the general mandatory procedural requirements necessary for Bank staff to carry out the policies set out in the OPs. They are designed to ensure Bankwide consistency and quality in Bank operations.
-- **Directive**: a statement of substantive directions, within Management’s authority, that require, permit or constrain activities. If accompanied by a Policy, the statement provides substantive details (methods, criteria and technical information) on how to implement the Policy. The statement may also address matters not covered by a Policy.
-- **Operational Memoranda (OpMemos)**: are interim mandatory requirements designed to elaborate on requirements in OPs/BPs or to reflect changes to the OPs/BPs which have not yet been incorporated in the OPs/BPs concerned. Once the requirements in OpMemos are incorporated into revisions of the pertinent OPs/BPs, the Op Memos are retired.
-
-
-<!--
-http://go.worldbank.org/STEWT8SF30
-
-Policy: a statement of broad substantive policy principles that require, permit or constrain Bank activities to achieve institutional goals.
-
-Operational Policies (OPs): are short, focused statements of policy that are based on the Bank's Articles of Agreement, the General Conditions, and policies approved by the Bank’s Executive Directors. OPs set out the mandatory policy requirements for the conduct of Bank operations.
-
-Bank Procedures (BPs): are statements setting out the general mandatory procedural requirements necessary for Bank staff to carry out the policies set out in the OPs. They are designed to ensure Bankwide consistency and quality in Bank operations.
-
-Operational Memoranda (OpMemos): are interim mandatory requirements designed to elaborate on requirements in OPs/BPs or to reflect changes to the OPs/BPs which have not yet been incorporated in the OPs/BPs concerned. Once the requirements in OpMemos are incorporated into revisions of the pertinent OPs/BPs, the Op Memos are retired.
-
-Directive: a statement of substantive directions, within Management’s authority, that require, permit or constrain activities. If accompanied by a Policy, the statement provides substantive details (methods, criteria and technical information) on how to implement the Policy. The statement may also address matters not covered by a Policy.
--->
-
-
-
-<div class="container-fluid">
-<div class="row">
-<table class="table-responsive table-bordered table-striped table-condensed">
-<thead>
-</thead>
-    <tbody>
-<tr>
-<td width="12%"></td><td>Operational Policy Waivers
-</tr>
-<tr>
-<td></td><td> World Bank Group Directive - Country Engagement
-</tr>
-<tr>
-<td>OP 1.00</td><td><a href="http://siteresources.worldbank.org/OPSMANUAL/112526-1124459412562/23585906/OP1.00_Final_July_2014.pdf">Poverty Reduction</a></td>
-</tr>
-<tr>
-<td>OP 2.30</td><td><a href="http://siteresources.worldbank.org/OPSMANUAL/112526-1124459412562/23587719/OP2.30_Final_July_2014.pdf">Development Cooperation and Conflict</a></td>
-</tr>
-<tr>
-<td>OP 3.10</td><td>Financial Terms and Conditions of IBRD Loans, IBRD Hedging Products, and IDA Credits</td>
-</tr>
-<tr>
-<td></td><td>Annex A - Past Loans of IBRD</td>
-</tr>
-<tr>
-<td></td><td>Annex B - Prepayment of IBRD Loans</td>
-</tr>
-<tr>
-<td></td><td>Annex C - Countries Ranked by Per Capita Income</td>
-</tr>
-<tr>
-<td></td><td>Annex D - IBRD/IDA and Blend Countries: Per Capita Incomes, Lending Eligibility, and Repayment Terms
-OP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects</td>
-</tr>
-<tr>
-<td></td><td><a href="http://go.worldbank.org/6C63VRDI00">Table A1 - Environmental and Social Safeguard Policies—Policy Objectives and Operational Principles</a></td>
-</tr>
-<tr>
-<td>OP 4.01</td><td><a href="http://go.worldbank.org/RUEQVWD550">Environmental Assessment</a></td>
-</tr>
-<tr>
-<td></td><td><a href="http://go.worldbank.org/D399H6DET0">Annex A - Definitions</a></td>
-</tr>
-<tr>
-<td></td><td><a href="http://go.worldbank.org/79Y2REJR51">Annex B - Content of an Environmental Assessment Report for a Category A Project</a></td>
-</tr>
-<tr>
-<td></td><td><a href="http://go.worldbank.org/785NA7CY20">Annex C - Environmental Management Plan</a></td>
-</tr>
-<tr>
-<td>BP 4.01</td><td><a href="http://go.worldbank.org/9MIMAQUHN0">Environmental Assessment</a></td>
-</tr>
-<tr>
-<td></td><td><a href="http://go.worldbank.org/A292H6UE90">Annex A - Application of EA to Dam and Reservoir Projects, 1999</a></td>
-</tr>
-<tr>
-<td></td><td><a href="http://go.worldbank.org/VSE6CTUEG0">Annex B - Application of EA to Projects Involving Pest Management: Environmental Assessment</a></td>
-</tr>
-<tr>
-<td>OP 4.02</td><td><a href="http://siteresources.worldbank.org/OPSMANUAL/112526-1124459412562/23586262/OP4.02.Rev_July2014.pdf">Environmental Action Plans</a></td>
-</tr>
-<tr>
-<td>OP 4.03</td><td><a href="http://go.worldbank.org/GCH411QCR0">Performance Standards for Private Sector Activities</a></td>
-</tr>
-<tr>
-<td>BP 4.03</td><td><a href="http://go.worldbank.org/JBCJYVQH70">Performance Standards for Private Sector Activities</a></td>
-</tr>
-<tr>
-<td>OP 4.04</td><td><a href="http://go.worldbank.org/WZQM56JT30">Natural Habitats</a></td>
-</tr>
-<tr>
-<td></td><td><a href="http://go.worldbank.org/NRJ1VSJT60">Annex A - Definitions</a></td>
-</tr>
-<tr>
-<td>BP 4.04</td><td><a href="hhttp://go.worldbank.org/BFOEUOUD10">Natural Habitats</a></td>
-</tr>
-<tr>
-<td>OP 4.07</td><td>Water Resources Management</td>
-</tr>
-<tr>
-<td>OP 4.09</td><td>Pest Management</td>
-</tr>
-<tr>
-<td>OP 4.10</td><td><a href="http://go.worldbank.org/TE769PDWN0">Indigenous Peoples</a></td>
-</tr>
-<tr>
-<td></td><td><a href="http://go.worldbank.org/JZP1C5JRQ0">Annex A - Social Assessment</a></td>
-</tr>
-<tr>
-<td></td><td><a href="http://go.worldbank.org/Z7EG8GD2N0">Annex B - Indigenous Peoples Plan</a></td>
-</tr>
-<tr>
-<td></td><td><a href="http://go.worldbank.org/PBQ91LDDS0">Annex C - Indigenous Peoples Planning Framework</a></td>
-</tr>
-<tr>
-<td>OP 4.11</td><td><a href="http://go.worldbank.org/7T8EIAJQU0">Physical Cultural Resources</a></td>
-</tr>
-<tr>
-<td>OP 4.12</td><td><a href="http://go.worldbank.org/96LQB2JT50">Involuntary Resettlement</a></td>
-</tr>
-<tr>
-<td></td><td><a href="http://go.worldbank.org/JG37U0DYC0">Annex A - Involuntary Resettlement Instruments</a></td>
-</tr>
-<tr>
-<td>OP 4.20</td><td><a href="http://go.worldbank.org/8W56CSDIK0">Gender and Development</a></td>
-</tr>
-<tr>
-<td>OP 4.36</td><td><a href="http://go.worldbank.org/6NQDXLHG10">Forests</a></td>
-</tr>
-<tr>
-<td></td><td><a href="http://go.worldbank.org/L34YTEJR10">Annex A - Definitions</a></td>
-</tr>
-<tr>
-<td>OP 4.37</td><td>Safety of Dams</td>
-</tr>
-<tr>
-<td>OP 4.76</td><td>Tobacco</td>
-</tr>
-<tr>
-<td>OP 7.00</td><td>Lending Operations: Choice of Borrower and Contractual Agreements</td>
-</tr>
-<tr>
-<td>OP 7.20</td><td>Security Arrangements</td>
-</tr>
-<tr>
-<td>OP 7.30</td><td>Dealings with De Facto Governments</td>
-</tr>
-<tr>
-<td>OP 7.40</td><td>Disputes over Defaults on External Debt, Expropriation, and Breach of Contract</td>
-</tr>
-<tr>
-<td>OP 7.50</td><td>Projects on International Waterways</td>
-</tr>
-<tr>
-<td>OP 7.60</td><td>Projects in Disputed Areas</td>
-</tr>
-<tr>
-<td>OP 8.00</td><td><a href="http://siteresources.worldbank.org/EXTOPMANUAL/Resources/502183-1429890621981/OP8.00_Final_July_2014.pdf">Rapid Response to Crises and Emergencies</a></td>
-</tr>
-<tr>
-<td>OP 8.40</td><td>Technical Assistance</td>
-</tr>
-<tr>
-<td>OP 8.45</td><td>Grants</td>
-</tr>
-<tr>
-<td></td><td>Annex A - DGF Eligibility Criteria</td>
-</tr>
-<tr>
-<td>OP 8.60</td><td>Development Policy Lending</td>
-</tr>
-<tr>
-<td>OP 9.00</td><td>Program-for-Results Financing</td>
-</tr>
-<tr>
-<td>OP 10.00</td><td>Investment Project Financing</td>
-</tr>
-<tr>
-<td>OP 10.20</td><td>Global Environment Facility Operations</td>
-</tr>
-<tr>
-<td>OP 10.21</td><td>Investment Operations Financed by the Multilateral Fund for the Implementation of the Montreal Protocol</td>
-</tr>
-<tr>
-<td></td><td>Annex A - The Montreal Protocol</td>
-</tr>
-<tr>
-<td></td><td>Annex B - Eligible Activities</td>
-</tr>
-<tr>
-<td>OP 11.00</td><td>Procurement</td>
-</tr>
-<tr>
-<td>OP 13.60</td><td><a href="http://go.worldbank.org/CH9BJAJTD0">Monitoring and Evaluation</a></td>
-</tr>
-<tr>
-<td>OP 14.10</td><td>External Debt Reporting and Financial Statements</td>
-</tr>
-<tr>
-<td>OP 14.20</td><td>Cofinancing</td>
-</tr>
-<tr>
-<td></td><td>Annex A - Sources and Types of Cofinancing</td>
-</tr>
-<tr>
-<td>OP 14.40</td><td>Trust Funds</td>
-</tr>
-    </tbody>
-</table>
-</div>
-</div>
-
-
-
-<!--
-* Current list of [Operational Policies](http://go.worldbank.org/0BM4HLLCB0 "Operational Policies (OPs): are short, focused statements of policy that are based on the Bank's Articles of Agreement, the General Conditions, and policies approved by the Bank’s Executive Directors. OPs set out the mandatory policy requirements for the conduct of Bank operations.") (OPs)
-
-
-* Operational Policy Waivers
-* World Bank Group Directive - Country Engagement
-* OP 1.00 - **Poverty Reduction**
-* OP 2.30 - **Development Cooperation and Conflict**
-* OP 3.10 - Financial Terms and Conditions of IBRD Loans, IBRD Hedging Products, and IDA Credits
-    - Annex A - Past Loans of IBRD
-    - Annex B - Prepayment of IBRD Loans
-    - Annex C - Countries Ranked by Per Capita Income
-    - Annex D - IBRD/IDA and Blend Countries: Per Capita Incomes, Lending Eligibility, and Repayment Terms
-* OP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects
-    - Table A1 - Environmental and Social Safeguard Policies—Policy Objectives and Operational Principles
-* OP 4.01 - Environmental Assessment
-    - Annex A - Definitions
-    - Annex B - Content of an Environmental Assessment Report for a Category A Project
-    - Annex C - Environmental Management Plan
-* OP 4.02 - Environmental Action Plans
-* OP 4.03 - **Performance Standards for Private Sector Activities**
-* OP 4.04 - Natural Habitats
-Annex A - Definitions
-* OP 4.07 - Water Resources Management
-* OP 4.09 - Pest Management
-* OP 4.10 - **Indigenous Peoples**
-    - Annex A - Social Assessment
-    - Annex B - Indigenous Peoples Plan
-    - Annex C - Indigenous Peoples Planning Framework
-* OP 4.11 - **Physical Cultural Resources**
-* OP 4.12 - **Involuntary Resettlement**
-Annex A - Involuntary Resettlement Instruments
-* OP 4.20 - **Gender and Development**
-* OP 4.36 - Forests
-Annex A - Definitions
-* OP 4.37 - Safety of Dams
-* OP 4.76 - Tobacco
-* OP 7.00 - Lending Operations: Choice of Borrower and Contractual Agreements
-* OP 7.20 - Security Arrangements
-* OP 7.30 - Dealings with De Facto Governments
-* OP 7.40 - Disputes over Defaults on External Debt, Expropriation, and Breach of Contract
-* OP 7.50 - Projects on International Waterways
-* OP 7.60 - Projects in Disputed Areas
-* OP 8.00 - Rapid Response to Crises and Emergencies
-* OP 8.40 - Technical Assistance
-* OP 8.45 - Grants
-    - Annex A - DGF Eligibility Criteria
-* OP 8.60 - Development Policy Lending
-* OP 9.00 - Program-for-Results Financing
-* OP 10.00 - Investment Project Financing
-* OP 10.20 - Global Environment Facility Operations
-* OP 10.21 - Investment Operations Financed by the Multilateral Fund for the Implementation of the Montreal Protocol
-    - Annex A - The Montreal Protocol
-    - Annex B - Eligible Activities
-* OP 11.00 - Procurement
-* OP 13.60 - Monitoring and Evaluation
-* OP 14.10 - External Debt Reporting and Financial Statements
-* OP 14.20 - Cofinancing
-    - Annex A - Sources and Types of Cofinancing
-* OP 14.40 - Trust Funds
-
-* Current list of [Bank Procedures](http://go.worldbank.org/6CDSPCNND0 "Bank Procedures (BPs): are statements setting out the general mandatory procedural requirements necessary for Bank staff to carry out the policies set out in the OPs. They are designed to ensure Bankwide consistency and quality in Bank operations.") (BPs)
-
-* BP 2.30 - **Development Cooperation and Conflict**
-* BP 3.10 - Financial Terms and Conditions of IBRD Loans, IBRD Hedging Products, and IDA Credits
-* BP 4.00 - **Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects**
-* BP 4.01 - Environmental Assessment
-    - Annex A - Application of EA to Dam and Reservoir Projects
-    - Annex B - Application of EA to Projects Involving Pest Management
-* BP 4.02 - Environmental Action Plans
-* BP 4.03 - **Performance Standards for Private Sector Activities**
-* BP 4.04 - Natural Habitats
-* BP 4.10 - **Indigenous Peoples**
-* BP 4.11 - **Physical Cultural Resources**
-* BP 4.12 - Involuntary Resettlement
-* BP 4.20 - Gender and Development
-* BP 4.36 - Forests
-* BP 4.37 - Safety of Dams
-    - Annex A - Dam Safety Reports: Content and Timing
-* BP 7.30 - Dealings with De Facto Governments
-* BP 7.40 - Disputes over Defaults on External Debt, Expropriation, and Breach of Contract
-* BP 7.50 - Projects on International Waterways
-* BP 7.60 - Projects in Disputed Areas
-* BP 8.45 - Grants
-* BP 8.60 - Development Policy Lending
-* BP 9.00 - Program-for-Results Financing
-* BP 10.00 - Investment Project Financing
-* BP 10.20 - Global Environment Facility Operations
-* BP 10.21 - Investment Operations Financed by the Multilateral Fund for the Implementation of the Montreal Protocol
-    - Annex A - Project Preparation Advances from the Ozone Projects Trust Fund
-    - Annex B - Montreal Protocol Operations: Outline for the Project Information Document
-    - Annex C - Presentation of Projects to the MFMP Executive Committee
-    - Annex C1 - Sample Project Cover Sheet and Summary
-    - Annex D - Outline for Memorandum and Recommendation of the Director
-    - Annex E - Sample Notice to Prospective Recipients of Grants under the Multilateral Fund for the Implementation of the Montreal Protocol
-    - Annex F - Disbursement under Ozone Projects Trust Fund Grant Agreements
-* BP 11.00 - Procurement
-    - Annex A - General Responsibilities and Accountabilities for Procurement Work
-    - Annex B - Decision Authority Matrix
-    - Annex C - Maximum Prior Review Thresholds
-    - Annex D - Mandatory Prior Review Thresholds for RPMs and the OPRC
-    - Annex E - Handling of Procurement Complaints on Contracts Financed by the Bank
-* BP 14.10 - External Debt Reporting and Financial Statements
-    - Annex A - Sample Letter on Financial and Economic Data: IBRD Borrowers/Guarantors
-    - Annex B - Sample Letter on Financial and Economic Data: IDA Recipients
-    - Annex B1 - Countries Subject to IDA's Non-Concessional Borrowing Policy
-    - Annex C - Sample Letter of Representations regarding a Borrower's/Project Entity's Financial Condition
-* BP 14.20 - Cofinancing
-* BP 14.40 - Trust Funds
-    - Annex A - Trust Funds Minimum Size
-    - Annex B - Staff Eligibility to Administer Trust Funds
-* BP 17.30 - Communications with Individual Executive Directors
-
-
-* Current list of [Operational Memoranda](http://go.worldbank.org/ARSJTGEL60 "Operational Memoranda (OpMemos): are interim mandatory requirements designed to elaborate on requirements in OPs/BPs or to reflect changes to the OPs/BPs which have not yet been incorporated in the OPs/BPs concerned. Once the requirements in OpMemos are incorporated into revisions of the pertinent OPs/BPs, the Op Memos are retired.") (OpMemos)
-
-
-* Apr 05, 2013	OpMemo - Transition Arrangements for Six Policy Changes incorporated in OP/BP 10.00, Investment Project Financing
-* Oct 03, 2012	OpMemo - The Provision of Reimbursable Advisory Services
-* Jun 29, 2012	OpMemo - Disclosure of Project Integrity Risks to Executive Directors
-* Dec 01, 2011	OpMemo - Supervision of Carbon Finance Operations
-* Dec 01, 2011	Attachment 1 (Supervision of Carbon Finance Operations)
-* Dec 01, 2011	Attachment 2 (Supervision of Carbon Finance Operations)
-* Dec 03, 2009	OpMemo - Cancellation and Recommitment of IDA Resources
-* Dec 03, 2009	Attachment (Cancellation and Recommitment of IDA Resources)
-* Mar 23, 2007	OpMemo - Specific Expenditure Eligibility and Cost Sharing Requirements for Investment Projects in Countries Without Approved Country Financing Parameters
-
-
-Current list of [Directives](http://go.worldbank.org/3B68AP6SY0 "Directive: a statement of substantive directions, within Management’s authority, that require, permit or constrain activities. If accompanied by a Policy, the statement provides substantive details (methods, criteria and technical information) on how to implement the Policy. The statement may also address matters not covered by a Policy.")
-
-* World Bank Group Directive - Country Engagement
--->
-
+* Operational Policies (OPs): are short, focused statements of policy that are based on the Bank's Articles of Agreement, the General Conditions, and policies approved by the Bank’s Executive Directors. OPs set out the mandatory policy requirements for the conduct of Bank operations.
+* Bank Procedures (BPs): are statements setting out the general mandatory procedural requirements necessary for Bank staff to carry out the policies set out in the OPs. They are designed to ensure Bankwide consistency and quality in Bank operations.
+* Directive: a statement of substantive directions, within Management’s authority, that require, permit or constrain activities. If accompanied by a Policy, the statement provides substantive details (methods, criteria and technical information) on how to implement the Policy. The statement may also address matters not covered by a Policy.
+* Operational Memoranda (OpMemos): are interim mandatory requirements designed to elaborate on requirements in OPs/BPs or to reflect changes to the OPs/BPs which have not yet been incorporated in the OPs/BPs concerned. Once the requirements in OpMemos are incorporated into revisions of the pertinent OPs/BPs, the Op Memos are retired.
 
 
 ### Social Policy
 
 
-Social safeguard policies at the World Bank aim to minimize the negative impact of Bank-funded operations on vulnerable groups (displaced populations and indigenous peoples). The Conflict and Development policy guides Bank-assisted social investment in conflict-affected countries. The Gender policy guiidse Bank-assisted member countries in their efforts to reduce poverty and enhance economic growth and human well-being by addressing gender disparities and inequalities.<sup>[1](http://www.worldbank.org/en/topic/socialdevelopment/brief/social-development-policies)</sup>
-
-Among them are: 
-
-* Development Cooperation and Conflict - OP 2.30
-* Gender and Development - OP 4.20
-* Indigenous Peoples - OP 4.10
-* Involuntary Resettlement - OP 4.12
+* [IBRD Articles of Agreement](http://go.worldbank.org/IB13V68520) (As amended effective June 27, 2012) | [PDF](http://siteresources.worldbank.org/EXTABOUTUS/Resources/IBRDArticlesOfAgreement_links.pdf)
 
 
-* [Social Development Policies](http://www.worldbank.org/en/topic/socialdevelopment/brief/social-development-policies)
+[Social Development Policies](http://www.worldbank.org/en/topic/socialdevelopment/brief/social-development-policies)
 
-<!--
+
 <a name="world-bank-safeguards-policy"></a>
-
 #### [Safeguards Policy](http://go.worldbank.org/WTA1ODE7T0)
 
 The World Bank's Environmental and Social Safeguard Policies are a cornerstone of its support to sustainable poverty reduction. The objective of these policies is to prevent and mitigate undue harm to people and their environment in the development process. These policies provide guidelines for bank and borrower staffs in the identification, preparation and implementation of programs and projects.
@@ -960,7 +524,7 @@ World Bank Performance Standards
 On June 26, 2012, the Board of Executive Directors approved adoption and application of World Bank Performance Standards to be used for Bank financing or support (e.g., Partial Risk Guarantees) which is destined to projects, or components thereof, that are owned, constructed, and/or operated by the private sector, in place of the World Bank environmental and social Safeguard Policies (R2012-0130;IDA/R2012-0161).  Technical assistance for preparatory work for private sector engagement in PPPs would be eligible, as well as investment operations that include medium -or long-term management contracts, affermage/leases, privatizations, concessions, and projects within the Build-Own-Transfer (BOT) family.  Financial Intermediary lending also is a candidate, provided the Bank lending or guarantee to the financial intermediary is designated for subprojects implemented by the private sector or private parties.
 
 ---
--->
+
 
 **Current Safeguard Policy Framework:**
 
@@ -1029,12 +593,17 @@ On June 26, 2012, the Board of Executive Directors approved adoption and applica
     - [Operational Policy 7.60: Projects in Disputed Areas, 2001](http://go.worldbank.org/P4TDHAUEK1)
     - [Bank Procedure 7.60: Projects in Disputed Areas, 2001](http://go.worldbank.org/AUPIL7UI00)
 
-* [Use of Country Systems](http://go.worldbank.org/PLOLFFSUH0)
+[Use of Country Systems](http://go.worldbank.org/PLOLFFSUH0)
     - [Operational Policy 4.00: Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects, 2005](http://go.worldbank.org/A23ULAUDG0)
     - [Table A1-Environmental and Social Safeguard Policies—Policy Objectives and Operational Principles, 2005](http://go.worldbank.org/XFBVTIUDK0)
     - [Bank Procedure 4.00: Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects, 2005](http://go.worldbank.org/GUVKFVUD70)
     - [Expanding the Use of Country Systems in Bank-Supported Operations Website](http://go.worldbank.org/RHRJVXDW60)
     - [Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects](http://go.worldbank.org/PLOLFFSUH0)
+
+Related Resources
+    - Publications
+    - Guidebooks/ Sourcebooks
+
 
 
 ---
@@ -1050,50 +619,17 @@ On June 26, 2012, the Board of Executive Directors approved adoption and applica
 
 ---
 
-### Previous Safeguard Policies
-
-
-#### Indigenous Peoples
-
+**Previous Safeguard Policies:**
 
 * [Operational Policy 4.10: Indigenous Peoples (Jul 2005)](http://wbln0018.worldbank.org/Institutional/Manuals/OpManual.nsf/B52929624EB2A3538525672E00775F66/0F7D6F3F04DD70398525672C007D08ED?OpenDocument)
-
-* [Operational Policy 4.10: Indigenous Peoples (Jul 2005)](http://wbln0018.worldbank.org/Institutional/Manuals/OpManual.nsf/B52929624EB2A3538525672E00775F66/0F7D6F3F04DD70398525672C007D08ED?OpenDocument )
-* [OP 4.10 - Indigenous Peoples](http://go.worldbank.org/TE769PDWN0) [July, 2005 (rev. 2013)
-
-
-* [Operational Directive 4.20: Indigenous Peoples (Sep 1991)](http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/pol_IndigPeoples/$FILE/OD420_IndigenousPeoples.pdf)
-* [OD 4.20 - Indigenous Peoples](http://www.ifc.org/wps/wcm/connect/835cc50048855270ab94fb6a6515bb18/OD420_IndigenousPeoples.pdf?MOD=AJPERES) [September 1991] [alt. link](http://andrewclapham.org/hrdoc/docs/WBOD4.20.htm)
-* [Operational Directive 4.20: Indigenous Peoples (Sep 1991)](http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/pol_IndigPeoples/$FILE/OD420_IndigenousPeoples.pdf )
-
-   - [Annex A - Social Assessment](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTOPMANUAL/0,,contentMDK:20564681~menuPK:4564185~pagePK:64709096~piPK:64709108~theSitePK:502184,00.html)
-   - [Annex B - Indigenous Peoples Plan](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTOPMANUAL/0,,contentMDK:20564712~menuPK:4564185~pagePK:64709096~piPK:64709108~theSitePK:502184,00.html]
-   - [Annex C - Indigenous Peoples Planning Framework](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTOPMANUAL/0,,contentMDK:20564733~menuPK:4564185~pagePK:64709096~piPK:64709108~theSitePK:502184,00.html]
-[BP 4.10 - Indigenous Peoples](http://go.worldbank.org/PG4KQSUDI0) [July, 2005]
-
-
-
-#### Resettlement
-
-* [OP 4.12 - Involuntary Resettlement](http://go.worldbank.org/96LQB2JT50) [December, 2001 (rev 2013)] [alt. link](http://www.ciel.org/Publications/redlineresettle.pdf)
-
-----
-
-#### Environment
-
-* [4.01: Environmental Assessment (Jan 1999)](http://wbln0018.worldbank.org/Institutional/Manuals/OpManual.nsf/944eea1d5fb31d95852564a30060b223/9367a2a9d9daeed38525672c007d0972?OpenDocument Operational Policy)
-
-
 * [Operational Policy 4.01: Environmental Assessment (Jan 1999)](http://wbln0018.worldbank.org/Institutional/Manuals/OpManual.nsf/944eea1d5fb31d95852564a30060b223/9367a2a9d9daeed38525672c007d0972?OpenDocument)
+* [Operational Directive 4.20: Indigenous Peoples (Sep 1991)](http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/pol_IndigPeoples/$FILE/OD420_IndigenousPeoples.pdf)
+
+
 
 
 <a name="world-bank-development-policy"></a>
-
-#### Other Operational Policies | Development Policy
-
-* [Access to Information](http://go.worldbank.org/TRCDVYJ440)
-
-* [Social Protection & Labor](http://www.worldbank.org/en/topic/socialprotectionlabor)
+#### Development Policy
 
 A number of World Bank operational policies deal specifically with social development concerns. These include the social safeguard policies, aimed at minimizing the negative impact of Bank-funded operations on vulnerable groups (displaced populations and indigenous peoples). The Conflict and Development policy provides guidance on Bank assistance to conflict-affected countries. The Gender policy provides guidance on Bank assistance to member countries in their efforts to reduce poverty and enhance economic growth and human well-being by addressing gender disparities and inequalities. For more information on the Bank's operational policies, refer to the World Bank Operational Manual.
 
@@ -1104,21 +640,16 @@ A number of World Bank operational policies deal specifically with social develo
 * The World Bank Operational Manual
 
 
-#### Country Safeguard Systems
-
-* [Expanding the Use of Country Systems in Bank-Supported Operations](http://go.worldbank.org/RHRJVXDW60)
-* [Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects](http://go.worldbank.org/PLOLFFSUH0)
-* [OP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects](http://go.worldbank.org/A23ULAUDG0)
-* [BP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects](http://go.worldbank.org/GUVKFVUD70)
-
----
-
-<a name="world-bank-implementation-resources"></a>
+[Social Protection & Labor](http://www.worldbank.org/en/topic/socialprotectionlabor)
 
 ### Implementation Resources
 
 
+**Current Development Policy Framework (*selected*):**
+
 * [Participation Sourcebook (1996)](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1996/02/01/000009265_3961214175537/Rendered/PDF/multi_page.pdf)
+
+
 * [Involuntary Resettlement Sourcebook: Planning and Implemention in Development Projects](http://publications.worldbank.org/ecommerce/catalog/product?item_id=2444882)
 * [Environmental Assessment Sourcebook and updates](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTSAFEPOL/0,,contentMDK:20509076~hlPK:1287595~menuPK:1286567~pagePK:64168445~piPK:64168309~theSitePK:584435,00.html)
 * [Environmental, Health and Safety Guidelines, April 2007](http://www1.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/IFC+Sustainability/Sustainability+Framework/Environmental,+Health,+and+Safety+Guidelines/)
@@ -1126,53 +657,19 @@ A number of World Bank operational policies deal specifically with social develo
 * [Physical Cultural Resources Safeguard Policy Guidebook 2009 (English)](http://siteresources.worldbank.org/INTSAFEPOL/Resources/PhysicalCulturalGuidebook.pdf)
 * [Physical Cultural Resources Safeguard Policy Guidebook 2009 (French)](http://siteresources.worldbank.org/INTSAFEPOL/Resources/FrenchCulturalResouces.pdf)
 
----
 
-* [Table A1 - Environmental and Social Safeguard Policies—Policy Objectives and Operational Principles](http://go.worldbank.org/XFBVTIUDK0)
-
-
-### Analysis
-
-[Anthony Hall](http://www.lse.ac.uk/GranthamInstitute/profile/anthony-hall/) characterizes the social policy at the World Bank as distinguishable by three conceptually and operationally separate agendas: social welfare, social protection and social development. Welfare services and basic human needs, as well as social protection in the form of safety nets and social safeguards, together form the mainstay of what is generally regarded within the organization as constituting social policy. Social development reflects a broader if more fragmented view of social policy. Bank specialists have recently sought to widen the definition of social policy beyond welfare and protection, building upon longstanding academic discourse in this field. However, in attempting to pursue a more holistic and over-arching vision of social policy for development, they are likely to encounter major internal obstacles. Meeting this challenge will not be facilitated by the Bank reorganization announced in June 2006, which may serve to restrict the independence and remit of environmental and social specialists. [[2]](http://gsp.sagepub.com/content/7/2/151.abstract "Social Policies in the World Bank: Paradigms and Challenges")
-
-<!----
-
-http://www.huffingtonpost.com/nezir-sinani/the-world-banks-new-envir_b_5641376.html
-
-Nezir Sinani Become a fan 
-Safeguards Campaign Coordinator at Bank Information Center
-
-The World Bank's New Environmental and Social Policies Fail to Tackle Climate Change
-Posted: 08/01/2014 1:30 pm EDT Updated: 10/01/2014 5:59 am EDT
+**Previous Development Policies:**
 
 
-Over the last two years, the Bank has been reviewing its environmental and social safeguard policies. The review process presents an important opportunity for the Bank to adopt best practices for promoting low-carbon and resilient development by establishing strong policy language on climate change. Nonetheless, a draft of proposed new policies does not address climate issues systematically.
 
-Despite the Bank's urgent warnings that a warming world poses great risks to its development objectives, the Draft only mentions climate change sporadically, and fails to clearly articulate what borrowers will have to do to assess the climate impacts of their projects, or how climate change will affect their viability. Only very limited and inadequate climate assessments are envisioned in the new policies. On top of this, the largest loophole of all is that the proposed policies will not apply to nearly half of all Bank lending, since they explicitly exclude policy lending which is set to overtake traditional project finance in the coming years.
+<a name="world-bank-operational-policy"></a>
+#### Other Operational Policies
 
-On many public occasions, President Kim of the World Bank has called on governments world-wide to give climate change the attention it deserves as the single largest threat to any human development. The draft of Bank's new policies, cleared by the Board of the institution for public consultations, proves that the Bank has failed to walk the talk on climate. According to President Kim of the Bank, this was supposed to be the year for climate action. The climate action his institution is taking, however, will serve as a dangerous precedent to the world by showing how to avoid acting on climate.
+**Current Operational Policies (*selected*):**
 
-The Draft of new Bank policies contains only a generic requirement that the impacts of projects on climate change be assessed, with no details to guide the scope of assessment or the implementation plan. Critically, the Draft does not require that impacts on the resilience of host communities be considered. Through its new proposed policies, the Bank will start accounting for Greenhouse Gas (GHG) emissions of some of its projects, but the policies stop short of requiring GHG accounting for all Bank projects and they do not require the quantification, or even the consideration, of environmental and social externalities. Furthermore, the Draft does not specify how the information that is collected on GHG emissions will be used and for what purposes.
+<a name="world-bank-implementation-resources"></a>
+### Implementation Resources
 
-
-While the Bank has recently highlighted the significant quantifiable economic and development benefits of taking even modest action on climate change, it is borderline hypocritical that the Bank's own core operational policies do not match this analysis and messaging. As such, the proposed policies need to be reviewed to properly address the true needs of communities and the planet vis-à-vis climate change. The World Bank's new policies should require the use of transparent planning and assessment tools to ensure that the Bank's activities are as low-cost, low-carbon, pro-poor, and sustainable as possible. They should specifically require borrowers to assess and manage (a) the climate-related risks facing supported projects and their resilience to those risks; (b) the impacts they will have on the climate resilience of local communities and ecosystems; and (c) the effects of the project on efforts to mitigate climate change.
-
-The new policies of the Bank are expected to be ready for a final approval by the Board of the World Bank sometime next year. President Kim has all the time and resources he needs to live up to his promises given to Civil Society Organizations that he would take into account their suggestions for a strong policy on climate.
-
-An institution that sees itself as a vanguard of social and environmental sustainability should strive for the highest standards. The world's poorest, supposedly the "beneficiaries" of World Bank projects, should not have to settle for displacement, violation of human rights, environmental destruction, and exacerbation of climate change in the name of "development." During one of his many public presentations, President Kim said, "In 20 years, all of us will be asked the question, 'What did you do to fight climate change?'. The leaders..., both from the private sector and from governments, have in their power to act in substantive ways. Now is the time to act for future generations before it is too late." Now we ask him what he is going to do today to fight climate change. His time to act is now!
--->
-
-
-<!--
-<references/>
-
-
-[[Critical Eco-systems Partnership Fund]]
-
-[[Category:World Bank]]
-[[Category:Social Development]]
-[[Category: Policy]]
--->
 
 <hr />
 

@@ -14,7 +14,9 @@ Variety of life in all its forms, including genetic, species and ecosystem diver
 
 
 <!--
- ADB: The variability among living organisms from all sources including, inter alia,
+ADB SPS.
+
+Biodiversity. The variability among living organisms from all sources including, inter alia,
 terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they
 are part; this includes diversity within species, between species and of ecosystems. 
 -->
@@ -30,4 +32,4 @@ biodiversity: The number and variety and variability of organisms within a parti
 ### References
 
 * International Finance Corporation. 2006. "[Glossary of Terms](http://www.ifc.org/wps/wcm/connect/9a9464804885598c8364d36a6515bb18/Glossary%2Bof%2BTerms.pdf?MOD=AJPERES&attachment=true&id=1322803900995)." Performance Standards and Guidance Notes - 2006 Edition. Washington D.C.: International Finance Corporation. Available online at: http://www.ifc.org/wps/wcm/connect/9a9464804885598c8364d36a6515bb18/Glossary%2Bof%2BTerms.pdf?MOD=AJPERES&attachment=true&id=1322803900995 [*First Accessed*: 01 November 2013].
-* Asian Development Bank. 2009. "[Safeguard Policy Statement](http://www.adb.org/sites/default/files/institutional-document/32056/safeguard-policy-statement-june2009.pdf)".
+* Asian Development Bank. 2009. *[Safeguard Policy Statement](http://www.adb.org/sites/default/files/institutional-document/32056/safeguard-policy-statement-june2009.pdf)*.

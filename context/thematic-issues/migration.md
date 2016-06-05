@@ -25,6 +25,22 @@ Migration can have significant health consequences for people and communities.  
 
 
 
+## Role and Purpose of a Migration Management Plan
+
+The overarching goal is to successfully define and implement measures to manage in-migration and to avoid, prevent, and mitigate the direct and indirect adverse impacts associated with project-induced in-migration. Specific goals include:
+
+* Limiting the rate of population influx / minimising in-migration of speculative job seekers
+* Avoiding and/or mitigating adverse effects of project-induced in-migration on local populations (especially vulnerable groups)
+* Addressing adverse social dynamics brought about by in-migration
+
+Project-induced in-migration may substantially change the context in which thea project operates. An influx of migrants may affect the local environment and the means by which project-affected communities secure their livelihoods. In-migration may contribute to fundamental (and perhaps disruptive and undesirable) socio-economic change to the population. In-migration may even result in increased project costs and risks and ultimately may affect the project’s ‘social license to operate.’
+
+Developing a management plan for project-induced in-migration is essential to minimise incremental costs (in terms of costs avoided) or manage risk. Effective planning for project induced in-migration can help to manage processes of environmental and social change and to ensure that local people participate in and benefit from the project to the greatest extent possible—helping WBN to ensure that the project has a positive developmental impact overall. 
+A pro-active approach to migration management requires leadership and timely decision-making to allow integration of social criteria into project design. Where management is reactive and occurs relatively late in the project cycle, when in-migrants are on the doorstep and their impacts are tangible, resources are mostly likely to be diverted into impact mitigation programmes—making it difficult to achieve the objectives outlined in the paragraph above. This component attempts to identify steps necessary to develop and implement at pro-active approach to migration management.
+
+According to IFC analysis, mining sector projects can reasonably expect that every formal job with the mine creates 3-10 additional jobs in the project area. Thus, a project that estimates that 8,000 to 12,000 workers will be hired for construction activities beyond those involved in current project activities, an additional 24,000 to 120,000 jobs for non-project in-migrants can reasonably be estimated—including opportunities for petty traders and small-scale service providers, particularly during large construction phases. 
+
+
 ## Planning Challenges for Managing Migration and Associated Impacts
 
 National policies and strategies to manage the consequences of migration have generally not kept pace with growing challenges related to the volume, speed, and diversity of the modern migration phenomenon—often failing to sufficiently identify not only the determining factors of migration, but also mechanisms for its effective management.  In the context of healthcare, for example, Governments often attempt to create screening controls aimed at excluding migrants with certain health conditions, using security and disease prevention.  Strict migration controls, however, often increase the use of clandestine and dangerous entry methods—in turn compromising the well-being of migrants such as by increasing their exposure to exploitation and sexual and gender-based violence (WHO 2010: 8-10).
@@ -42,7 +58,7 @@ Large-scale development projects will trigger during their construction and oper
 To estimate the impacts of new migrant settlements on local food supplies, infrastructure (telecommunications, transport, healthcare, and educational services) and other facilities, the project needs to analyse the likely geographical distributions of migrants within the project area of influence and its associated consequences for access to food resources and land access, as well as health impacts such as heightened incidences of sexually transmitted infections (STIs). To do this, it is appropriate to start with an evaluation of the “pull” factors associated with project design, followed by predictive forecasting of “hot spot” emergence based on the sequencing of project activities.
 
 
-### Migration dynamics associated with current project design
+### Migration dynamics associated with project design
 
 #### Land acquisition and resettlement
 
@@ -57,7 +73,7 @@ Project arrangements for extensions of community benefits programmes and service
 Provision of health and safety should be considered a human rights issue and extended to project-affected communities.  To properly address this issue, it is important to recognize that any extension of healthcare services in the project area will need to be implemented commensurate with project in-migration flows. This is especially important for emergency health care facilities, which will be most heavily taxed by in-migrant population (owing to the greater health risks and disease exposure resulting from their transient circumstances), but both near- and long-terms healthcare services should be opened to migrant populations and subsequently will exert some “pull” in migrants’ settlement selection.   Project decisions for where new healthcare facilities will be located and/or extended should be expected to contribute to the emergence of migrant hot spots.
 
 
-### Potential Migration-Induced Impacts on the Project Area of Influence
+### Potential Migration-Induced Impacts Within a Project's Area of Influence
 
 #### Socio-Cultural and Socio-Economic Change
 
@@ -273,10 +289,22 @@ As with any community development initiative, however, any efforts to help benef
 
 ### On-going Stakeholder Engagement
 
-The projects should convene with local government and external stakeholders (e.g. NGOs and civil society partner organizations) to map options and approaches to accommodate in-migrants and jointly commit to strategic priorities.  All stakeholders should cooperate to define appropriate roles in the co-management of population influx. Issues that are especially dependent on co-management include zoning, permitting, and regulatory codes for non-project construction activities (e.g. new housing structures or settlements), financial management of public services, and targeted management strategies for high risk groups (truck drivers, expatriate workers, sex workers, people from regions with higher HIV/AIDS prevalence etc.).
+Projects should convene with local government and external stakeholders (e.g. NGOs and civil society partner organizations) to map options and approaches to accommodate in-migrants and jointly commit to strategic priorities.  All stakeholders should cooperate to define appropriate roles in the co-management of population influx. Issues that are especially dependent on co-management include zoning, permitting, and regulatory codes for non-project construction activities (e.g. new housing structures or settlements), financial management of public services, and targeted management strategies for high risk groups (truck drivers, expatriate workers, sex workers, people from regions with higher HIV/AIDS prevalence etc.).
 
 The Community Development Plan’s Advisory Board structure should be utilised to channel community level (village to kabupaten) inputs into this migration planning, particularly as the CDP components will need to be significantly revised in light of migration impacts. So too the Yayasan Saloi needs to be brought in as a consulted entity during the migration management planning process.
 
+Communities
+
+The major burden and costs of influx will fall on the local population unless effective mitigation measures are taken. Preferences of the local community must therefore be taken into account in the design and implementation of migration management programmes and initiatives.
+
+The CSA revealed a general preference across all villages and stakeholder groups for healthcare-related community development programmes. As improvements to local healthcare systems and institutions is central to effective management of the potential negative effects of project-induced in-migration, special attention should indeed be made a first priority. To the extent that local people can be provided with vocational and professional training in health services, such measures should also be highlighted and emphasised. Project approaches to community healthcare support and capacity-building should be broadly publicised, with special attention given to community-consultation and feedback on component design and implementation.
+
+
+Companies shall engage a select group of community representatives1 to work with WBN and local government to brainstorm a menu of options for the Migration Management Plan. This community representative group must include women representatives and must be sensitive to maintaining balance in ethnic representation. Once developed, priority rankings for component options should be arrived at via a village-level musrenbang process. 
+
+NGOs
+
+Civil society organisations and NGOs can be instrumental in facilitating implementation and monitoring of migration management programming and related initiatives. NGO partners should be chosen for their reputation and capacity for dealing with specific issues related to project-induced in-migration. As issues of health, labour, and social change figure most prominently into the concerns of project-affected populations, it is prudent for projects to begin by engaging civil society partners with expertise in these areas.
 
 
 ### Getting stakeholder buy-in for Data Collection

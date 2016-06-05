@@ -4,9 +4,8 @@
 
 *But what exactly is FPIC, and how is it realized in practice?*
 
-by Aaron Kyle Dennis
-<span style="font-size:small;">Published 2011-Feb-15 on the [CCCS website](http://internal.crossculturalconsult.com/joomla/index.php/en/spotlight-on-fpic/defining-fpic);<br>re-published as a weblog on 2013-Nov-21.</span>
-<span style="font-size:small;">&copy;Cross-Cultural Consulting Services, PLCC. 2011.</span>
+by Aaron Kyle Dennis <br />
+<span style="font-size:small;">Published 2011-Feb-15 by Cross-Cultural Consulting Services, PLCC.</span>
 <span style="font-size:small;">[Attribution; Share Alike](http://creativecommons.org/licenses/by-sa/3.0/us/)</span>
 <p>&nbsp;</p>
 

@@ -2,18 +2,19 @@
 
 How can (and do) financial lenders ensure that Indigenous Peoples' rights to free, prior and informed consent are meaningfully recognized in development practices? This article identifies some different facets of the concept of 'FPIC' and offers some recommendations for how the *principal* of FPIC can be operationalized via policy provisions and practice approaches.
 
-by Aaron Kyle Dennis
-<span style="font-size:small;">Published 2011-Feb-23 on the [CCCS website](http://internal.crossculturalconsult.com/joomla/index.php/en/spotlight-on-fpic/defining-fpic);<br>re-published as a weblog on 2013-Nov-21.</span>
-<span style="font-size:small;">&copy;Cross-Cultural Consulting Services, PLCC. 2011.</span>
+by Aaron Kyle Dennis<br />
+<span style="font-size:small;">Published 2011-Feb-23 by Cross-Cultural Consulting Services, PLCC.</span><br />
 <span style="font-size:small;">[Attribution; Share Alike](http://creativecommons.org/licenses/by-sa/3.0/us/)</span>
 
 <p>&nbsp;</p>
-<a id="Motoc,Tebtebba"></a><blockquote>Substantively, the principle of free, prior and informed consent recognizes indigenous peoples’ inherent and prior rights to their lands and resources and respects their legitimate authority to require that third parties enter into an equal and respectful relationship with them based on the principle of informed consent. Procedurally, free, prior and informed consent requires processes that allow and support meaningful choices by indigenous peoples about their development path. </blockquote>
 
-<div style="margin-left: 2em;">
-&mdash; <cite><span style="font-size:small;">Antoanella-Iulia Motoc; Tebtebba Foundation <a href="#ref,Motoc,Tebtebba">[1]</a>
-</span></cite></span>
-</div>
+<a id="Motoc,Tebtebba"></a>
+<blockquote>
+Substantively, the principle of free, prior and informed consent recognizes indigenous peoples’ inherent and prior rights to their lands and resources and respects their legitimate authority to require that third parties enter into an equal and respectful relationship with them based on the principle of informed consent. Procedurally, free, prior and informed consent requires processes that allow and support meaningful choices by indigenous peoples about their development path.
+</blockquote>
+
+&mdash; <cite><span style="font-size:small;">Antoanella-Iulia Motoc; Tebtebba Foundation <a href="#ref,Motoc,Tebtebba">[1]</a></span></cite>
+
 
 ## FPIC as an “operational requirement”
 
@@ -23,7 +24,6 @@ One challenge faced by the policy makers at development financial institutions i
 
 Take, for example, the challenge of demonstrating just “prior” consent. Would consent need to be obtained and documented for the project concept before at each stage in the project lifecycle (i.e. before exploration, construction, and operations)? Can consent be contingent on the project meeting a particular condition (or set of conditions) imposed on it by Indigenous Peoples prior to a financial institution making a loan decision? In complex loan agreement, would lack of demonstrated consent preclude a project for any form of approval, or might it be possible for a conditional loan to be approved (i.e. requiring the project to demonstrate FPIC for a specific aspect of the project before it moves into another operational phase)?
 
- 
 
 ## FPIC as “participation methodology”
 
@@ -32,8 +32,6 @@ Take, for example, the challenge of demonstrating just “prior” consent. Woul
 &mdash;<cite><span style="font-size:small;">Inter-Agency Support Group on Indigenous Issues <a href="#ref,Support_Group">[2]</a>
 </span></cite></span>
 </div>
-<p></p>
-
 
 Establishing project management strategies that defer to FPIC as a internationally recognized human right is a similarly daunting concept—and one that can be particularly difficult for borrowers to appreciate and embrace. To really involve Indigenous Peoples in project planning necessitates that companies re-shape management structures and acknowledge that Indigenous Peoples are true and equal partners in the development process.
 

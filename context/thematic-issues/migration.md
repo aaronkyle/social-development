@@ -286,69 +286,67 @@ In order to develop a viable framework for data collection, it is essential for 
 
 ### Necessary Elements of Future Actions Blueprint
 
-These following components are instrumental to the effective management of project-induced in-migrants.  The specific design and implementation of each component will require multi-stakeholder engagement. 
+These following components are instrumental to the effective management of project-induced in-migrants. This list should not be considered exhaustive.  The specific design and implementation of each component will require multi-stakeholder engagement.  
 
 
 -----
 
 
 * Targeted Health Programming
-* Respiratory Health
-* Vector-related Diseases 
-* Sexually Transmitted Infections 
-* Soil- and Water-Borne Diseases
-* Non-communicable Diseases (NCDs)
-* Veterinary Medicine/Zoonotic Issues
+   - Respiratory Health
+   - Vector-related Diseases 
+   - Sexually Transmitted Infections 
+   - Soil- and Water-Borne Diseases
+   - Non-communicable Diseases (NCDs)
+   - Veterinary Medicine/Zoonotic Issues
 
 * Community Health Management
-* Managing Social Health
-* Psychosocial effects
-* Changes to social cohesion
-* Violence
-* Security concerns
-* Substance misuse (drugs, alcohol, smoking)
-* Depression
-* Managing Cultural Health
-* Changing community roles (e.g. loss of traditional medical providers; loss of indigenous medicines and unique cultural health practices, etc.)
-* Changing meaning of ethnic identities
+   - Managing Social Health
+        * Psychosocial effects
+        * Changes to social cohesion
+        * Violence
+        * Security concerns
+        * Substance misuse (drugs, alcohol, smoking)
+        * Depression
+   -  Managing Cultural Health
+        * Changing community roles (e.g. loss of traditional medical providers; loss of indigenous medicines and unique cultural health practices, etc.)
+        * hanging meaning of ethnic identities
 
 * Food Security
-* Food source availability
-* Food cost inflation
-* Diet and Nutritional Health
+   -  Food source availability
+   -  Food cost inflation
+   -  Diet and Nutritional Health
 
 * Spatial Planning
-* Village-level spatial planning
-* Housing 
-* Buffer zones
-* Site Access Routes
-* (Re)location of in-migrants
+   - Village-level spatial planning
+        * Housing 
+        * Buffer zones
+        * Site Access Routes
+   - Re)location of in-migrants
 
 * Infrastructure
-* Road Construction and Maintenance
-* Water supply and management systems
-* Sanitation and waste management systems
-* Health Services Infrastructure
-* Sanitation and waste management systems
+   -  Road Construction and Maintenance
+   -  Water supply and management systems
+   -  Sanitation and waste management systems
+   -  Health Services Infrastructure
+   -  Sanitation and waste management systems
 
 
 
 
 * Labour and Workforce Management
-* Accidents and Injuries 
-* Exposure to Potentially Hazardous Materials 
-* Workforce recruitment
-* Labour and Workforce Security
+   -  Accidents and Injuries 
+   -  Exposure to Potentially Hazardous Materials 
+   -  Labour and Workforce Security
 
 
 
 * Community Development
-* Development of services and utilities
-* Vocational training
-* Banking services
-* Enterprise development
-* Development of Markets
-* Strengthening of Adat institutions
+   -  Development of services and utilities
+        * Vocational training
+        * Banking services
+        * Enterprise development
+   -  Strengthening of Adat institutions
 
 
 

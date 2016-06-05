@@ -32,6 +32,7 @@ Take, for example, the challenge of demonstrating just “prior” consent. Woul
 &mdash;<cite><span style="font-size:small;">Inter-Agency Support Group on Indigenous Issues <a href="#ref,Support_Group">[2]</a>
 </span></cite></span>
 </div>
+<br />
 
 Establishing project management strategies that defer to FPIC as a internationally recognized human right is a similarly daunting concept—and one that can be particularly difficult for borrowers to appreciate and embrace. To really involve Indigenous Peoples in project planning necessitates that companies re-shape management structures and acknowledge that Indigenous Peoples are true and equal partners in the development process.
 

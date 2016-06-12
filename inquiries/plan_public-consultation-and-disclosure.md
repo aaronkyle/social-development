@@ -1,6 +1,6 @@
 
 Preface
-Introduction To The PCDP
+Introduction to the PCDP
 Project Overview
 *	Project Organization For PCDP Management
     -	Roles And Responsibilities
@@ -75,8 +75,8 @@ Annex 3: Indonesia Laws Relevant To Public Consultation And Disclosure <br />
 Annex 4: Stakeholder Roles And Interests <br />
 Annex 5: Pastm Project Stakeholder Engagement Activities Logs <br />
 Annex 6: Basic Tips For Project Staff In The Community <br />
-Annex 7: Pro Forma Advertisement For Disclosure Of Key Project Documents	73
+Annex 7: Pro Forma Advertisement For Disclosure Of Key Project Documents
 
-References	74
-Addendum	75
+References < br />
+Addendum <br />
 

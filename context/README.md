@@ -1,5 +1,3 @@
-This folder collects 'contextual' information: lists of policies, laws, and regulatory frameworks.
+This folder collects contextual discussions of salient issues in social development.  This includes discussions of policies, laws, and regulatory frameworks.
 
-I will continue updating the spreadsheet files, but for the sake of convenience I am switching to Google Drive for regular drafting:
-
-* [Social Policies among the IFIs](https://docs.google.com/spreadsheets/d/1SJdrbHcB-Zz05rVDxDqpvJfoVPKqA4EsAvyU7goiU-U/edit?usp=sharing)
+In my [references folder](../ref/), I maintain spreadsheet-formatted lists of much of these same data.

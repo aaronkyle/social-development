@@ -21,7 +21,7 @@ Project Overview  <br />
         * International Labour Organisation (ILO) – Fundamental Conventions
         * Convention On Biological Diversity
         * Convention On The Elimination Of Racial Discrimination
-    -	Indonesian Regulatory Framework
+    -	[Indonesian Regulatory Framework](../country-safeguard-systems/pcdp_country-law_IDN.md)
 *	Project Stakeholders
     -	Stakeholder Identification
     -	Previous Stakeholder Engagement

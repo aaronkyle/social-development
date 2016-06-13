@@ -1,4 +1,4 @@
-# Indonesia Laws Relevant to Public Consultation and Disclosure
+# Indonesian Laws Relevant to Public Consultation and Disclosure
 
 **National Laws**
 

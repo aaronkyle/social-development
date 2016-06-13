@@ -1,7 +1,8 @@
 # Indonesia Laws Relevant to Public Consultation and Disclosure
 
+**National Laws**
+
 * Presidential Decree (Keppres) No. 26 of 1989 re:  Ratification of the Convention Concerning the Protection of World Cultural and Natural Heritage
-* Regulation of Maluku Tenggara Barat Regency No. 14 of 2012 re: Spatial Planning of Maluku Tenggara Barat Regency for the Years of 2012-2032
 * Regulation of the Minister of the Interior of the Republic of Indonesia No. 72/2012 re: Operating Costs and the Cost of Supporting Implementation of Land Acquisition for Public Interest Development
 * Regulation of the Minister of the Interior No. 32 of 2010 re: Guidelines for Granting Building Permits
 * Regulation of the Minister of Forestry of Republic of Indonesia No. P.18/Menhut-II/2011 Ttg: Guidelines for Borrow and Use of Forest Area
@@ -10,7 +11,6 @@
 * Regulation of the Minister of Marine Affairs and Fisheries No. Per.08/Men/2009 re: Community Participation and Empowerment in the Management of Coastal Areas and Small Islands
 * Regulation of the State Minister of Environment of Republic of Indonesia No. 16 of 2012 re: Guidelines for Composing Environmental Documents
 * Regulation of the State Minister of Environment No. 17 of 2012 re: Guideline for Community Involvement in Environmental Impact Statement and Environment Licensing Process
-* MENLH-03-2012-Biodiversity Park: Presidential Regulation (Perpres) No. 09 of 2013 re: Implementation Management of Upstream Oil and Gas
 * Presidential Regulation No. 71/2012 re: Land Procurement Procedures for Development and the Public Interest
 * Presidential Decree No. 78/2007 re: Ratification Convention for the Safeguarding of the Intangible Cultural Heritage (Convention for the Protection of Intangible Cultural Heritage)
 * Government Regulation in Lieu of Law of the Republic of Indonesia No. 1/2004 re: Amendment to Law No. 41/1999 on Forestry
@@ -29,7 +29,6 @@
 * Government Regulation (PP) 16_2004 re: Land Use Management
 * Decree (KepKa) of the Head of BAPEDAL  No. 8 of 2000  re: Public Participation in and the Disclosure of Information on the AMDAL Process
 * Decree of the Chairperson of the Environmental Impact Management Agency, KEP 299/11 of 1996 re: Technical Guidelines on Social Aspects Assessment in Preparing Environmental Impact Analyses
-* Decree of the Regent of Western Southeast Maluku Regency No. 520-366/2007 re: Price Standardization of Lands and Crops of Society Impacted by Development in the Government of Western Southeast Maluku Regency
 * Law (UU) No. 2 of 2012 re: Land Procurement for Development in the Public Interest
 * Law (UU) No. 11 of 2010 re: Cultural Heritage
 * Law (UU) No. 32 of 2009 re: Environmental Protection and Management
@@ -48,14 +47,28 @@
 * Location Permit due to Environment Minister Decision
 * Decision Letter of MTB Regent due to Land Allocation for Public Interest
 * Minister of Environment Regulation (LH) No. 08 of 2006 re: Guidelines for the Preparation of the Environmental Impact Assessment (AMDAL)
+* Government Regulation (PP) No. 84 of 2000 re: Guidelines for Organization of Regional Government
+
+
+**Regional Laws**
+
+* Regulation of Maluku Tenggara Barat Regency No. 14 of 2012 re: Spatial Planning of Maluku Tenggara Barat Regency for the Years of 2012-2032
+* Decree of the Regent of Western Southeast Maluku Regency No. 520-366/2007 re: Price Standardization of Lands and Crops of Society Impacted by Development in the Government of Western Southeast Maluku Regency
+
+
+**Sector-specific Laws**
+
+* MENLH-03-2012-Biodiversity Park: Presidential Regulation (Perpres) No. 09 of 2013 re: Implementation Management of Upstream Oil and Gas
 * Government Regulation (PP) No. 55 of 2009 re: Second Amendment to Government Regulation No. 35 of 2004 on Upstream Oil and Gas Business Activities
 * Government Regulation (PP) No. 34 of 2005 re: Amendment to Government Regulation No. 35 of 2004 on Upstream Oil and Gas Business Activities
 * Government Regulation (PP) No. 35 of 2004 re: Upstream Oil and Gas Business Activities
 * Government Regulation (PP) No. 42 of 2002 re: The Implementing Body for Upstream Crude Oil and Natural Gas Business Activities
-* Government Regulation (PP) No. 84 of 2000 re: Guidelines for Organization of Regional Government
 
+<!-- adding these in; need also to transfer content -->
 
-
+* Law (UU) No. 11 of 1967 re: Basic Provisions of Mining 
+* Law No. (UU) 4 of 2009 re: Coal and Mineral Mining
+* Government Regulation (PP) No. 23 of 2010 re: Mineral and Coal Business Activities
 
 ## National Law
 
@@ -2373,3 +2386,23 @@ DISCLOSURE
 
 No requirements identified.
 
+
+
+<!-- lots of organization still to do... -->
+
+## Sector-specific Law
+
+### 
+
+* Law (UU) No. 11 of 1967 re: Basic Provisions of Mining 
+
+Indonesian Law 11/1967 requires all companies intending to undertake mining operations in Indonesia to disclose a range of information on their planned operations (including social and environmental information) directly to the Department of Mines and Energy (DOME). This information, once submitted, rightful belonging in the public domain and companies must disclose it to interested parties upon request. Quarterly and annual reports are announced and made publicly available through BAPADAL (national) / BAPADALDA (local) offices.
+
+* Law No. (UU) 4 of 2009 re: Coal and Mineral Mining
+
+Law 4/2009 supersedes Law No. 11 of 1967. Among the stated objective of mineral and coal management within the new law are sustainable benefits, capacity-building, and increased incomes for local communities, regions, and countries. Article 7 mandates public participation in environmental conservation measures and charges provincial authorities with the responsibility for disclosure of project information to relevant ministries. Article 8 provides similar responsibilities for district governments. Article 10 notes that spatial planning for mining operations must be carried out in an integrated manner—taking into considerations aspects of ecological, economic, social and cultural, and environmental soundness. 
+
+
+* Government Regulation (PP) No. 23 of 2010 re: Mineral and Coal Business Activities
+
+Regulation 23/2010 related to the Community Development and Empowerment programmes carried out as part of Mining and Coal Business Activities. The regulations requires the development and empowerment of communities within and near to the mining based on consultations with national, provincial and district governments, as well as with local communities. Companies shall annually submit a plan and the cost of development and community empowerment programming to the relevant minister, governors, regents / mayors for approval.

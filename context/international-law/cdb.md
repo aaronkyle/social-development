@@ -1,12 +1,18 @@
-
-
 ### Convention on Biological Diversity [^CBD]
 
-The 1992 Convention on Biological Diversity (CBD) is an international legally binding treaty.[^CBD-parties] The Convention has three (3) main goals:
+The 1992 *Convention on Biological Diversity* (CBD) is an international legally binding treaty.[^CBD-parties]
+
+<!--
+signed and ratified by the Government of Indonesia.
+--> 
+
+The Convention has three (3) main goals:
 
 1) conservation of biological diversity;
 2) sustainable use of its components;
 3) fair and equitable sharing of benefits arising from genetic resources.
+
+---
 
 Within the convention, the following passages relate to community consultation and participation:
 
@@ -14,7 +20,7 @@ Within the convention, the following passages relate to community consultation a
 
 Article 8(j) specifies that, subject to national legislation, party states must:
 
-“respect, preserve and maintain knowledge, innovations and practices of indigenous and local communities embodying traditional lifestyles relevant for the conservation and sustainable use of biological diversity and promote their wider application with the approval and involvement of the holders of such knowledge, innovations and practices and encourage the equitable sharing of the benefits arising from the utilization of such knowledge, innovations and practices”.
+> “respect, preserve and maintain knowledge, innovations and practices of indigenous and local communities embodying traditional lifestyles relevant for the conservation and sustainable use of biological diversity and promote their wider application with the approval and involvement of the holders of such knowledge, innovations and practices and encourage the equitable sharing of the benefits arising from the utilization of such knowledge, innovations and practices”.
 
 This article carries with it the implicit requirement that for projects affecting indigenous and local communities, such communities need to be consulted with and studied regarding their practices of biodiversity conservation. Indigenous participation is critical not only in regards to gathering this information, but also in terms of deciding equitable recompense for the benefits accrued from the utilization of indigenous knowledge.
 
@@ -57,9 +63,9 @@ This section provides an overview of the provisions of key international standar
 
 [^CBD]: "The website for the Convention on Biological Diversity can be found at: http://www.cbd.int/"
 
-[^CBD-parties]: "Convention on Biological Diversity. n.d. “List of Parties” [webpage]. Montreal: Secretariat of the Convention on Biological Diversity [website]. Available at: http://www.cbd.int/convention/parties/list/"
+[^CBD-parties]:http://www.cbd.int/convention/parties/list/ "Convention on Biological Diversity. n.d. “List of Parties” [webpage]. Montreal: Secretariat of the Convention on Biological Diversity [website]."
 
-[^CBD-decision-v16]: "Convention on Biological Diversity. 2000. “COP 5 Decision V/16” In: Fifth Ordinary Meeting of the Conference of the Parties to the Convention on Biological Diversity, 15-26 May 2000 – Nairobi, Kenya. Montreal: Secretariat of the Convention on Biological Diversity [webpage]. Available at: http://www.cbd.int/decision/cop/?id=7158 [Accessed 02 September 2013];
+[^CBD-decision-v16]:http://www.cbd.int/decision/cop/?id=7158 "Convention on Biological Diversity. 2000. “COP 5 Decision V/16” In: Fifth Ordinary Meeting of the Conference of the Parties to the Convention on Biological Diversity, 15-26 May 2000 – Nairobi, Kenya. Montreal: Secretariat of the Convention on Biological Diversity [webpage]."
 See also: “V/16.” In: Annex III: Decisions Adopted by the Conference of the Parties to the Convention on Biological Diversity at its Fifth Meeting; Nairobi, 15-26 May 2000. [UNEP/CBD/COP/5/23] Pp. 139–42. Montreal: Secretariat of the Convention on Biological Diversity. Available at: http://www.cbd.int/doc/decisions/cop-05/full/cop-05-dec-en.pdf [Accessed 02
 September 2013]"
 

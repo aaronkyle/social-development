@@ -18,9 +18,9 @@ Project Overview  <br />
         * IFC Environmental And Social Review Process
         * IFC Policy On Disclosure Of Information
     -	International Law
-        * International Labour Organisation (ILO) – Fundamental Conventions
-        * Convention On Biological Diversity
-        * Convention On The Elimination Of Racial Discrimination
+        * [International Labour Organisation (ILO) – Fundamental Conventions](../international-law/ilo-conventions.md)
+        * [Convention On Biological Diversity](../international-law/cdb.md)
+        * [Convention On The Elimination Of Racial Discrimination](../international-law/icerd.md)
     -	[Indonesian Regulatory Framework](../country-safeguard-systems/pcdp_country-law_IDN.md)
 *	Project Stakeholders
     -	Stakeholder Identification

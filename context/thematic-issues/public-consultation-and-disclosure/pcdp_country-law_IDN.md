@@ -1,5 +1,62 @@
 # Indonesia Laws Relevant to Public Consultation and Disclosure
 
+* Presidential Decree (Keppres) No. 26 of 1989 re:  Ratification of the Convention Concerning the Protection of World Cultural and Natural Heritage
+* Regulation of Maluku Tenggara Barat Regency No. 14 of 2012 re: Spatial Planning of Maluku Tenggara Barat Regency for the Years of 2012-2032
+* Regulation of the Minister of the Interior of the Republic of Indonesia No. 72/2012 re: Operating Costs and the Cost of Supporting Implementation of Land Acquisition for Public Interest Development
+* Regulation of the Minister of the Interior No. 32 of 2010 re: Guidelines for Granting Building Permits
+* Regulation of the Minister of Forestry of Republic of Indonesia No. P.18/Menhut-II/2011 Ttg: Guidelines for Borrow and Use of Forest Area
+* Regulation of the Minister of Forestry of the Republic of Indonesia No. 4/Menhut-ll/2011 re: Forest Reclamation Guidelines
+* Regulation of the Minister of Forestry of the Republic of Indonesia No. P. 33/Menhut-II/2010 re: Procedures for Release of Forest Production Convertible
+* Regulation of the Minister of Marine Affairs and Fisheries No. Per.08/Men/2009 re: Community Participation and Empowerment in the Management of Coastal Areas and Small Islands
+* Regulation of the State Minister of Environment of Republic of Indonesia No. 16 of 2012 re: Guidelines for Composing Environmental Documents
+* Regulation of the State Minister of Environment No. 17 of 2012 re: Guideline for Community Involvement in Environmental Impact Statement and Environment Licensing Process
+* MENLH-03-2012-Biodiversity Park: Presidential Regulation (Perpres) No. 09 of 2013 re: Implementation Management of Upstream Oil and Gas
+* Presidential Regulation No. 71/2012 re: Land Procurement Procedures for Development and the Public Interest
+* Presidential Decree No. 78/2007 re: Ratification Convention for the Safeguarding of the Intangible Cultural Heritage (Convention for the Protection of Intangible Cultural Heritage)
+* Government Regulation in Lieu of Law of the Republic of Indonesia No. 1/2004 re: Amendment to Law No. 41/1999 on Forestry
+* Government Regulation (PP) No. 27 of 2012 re: Environmental Permit
+* Government Regulation (PP) No. 60 of 2012 re: Amendment to Government Regulation No. 10 of 2010 on Procedure of Altering the Appropriation and Function of Forest Areas
+* Government Regulation (PP) No. 10 of 2010 re: Procedure of Altering the Appropriation and Function of Forest Areas
+* Government Regulation (PP) No. 24 of 2010 re: Forest Area Utilization
+* Government Regulation (PP) No. 60 of 2009 re: Amendment to Government Regulation No. 45 of 2004 on Forest Protection
+* Government Regulation (PP) No. 45 of 2004 re: Forest Protection
+* Government Regulation (PP) No. 03 of 2008 re: Amendment to Government Regulation No. 06 of 2007 on Forest Management and Forest Management Planning, and Forest Utilization
+* Government Regulation (PP) No. 06 of 2007 re: Forest Management and Forest Management Planning, and Forest Utilization
+* Government Regulation (PP) No. 07 of 1999 re: Conservation of flora and fauna
+* Government Regulation (PP) No. 27 of 1999 re: Environmental Impact Assessment
+* Working Procedure Manual (PTK) No.027/PTK/XII/2007 
+* Working Procedure Manual 017/PTK/III/2005 re: Guidelines for Providing Emergency Information, Community Development Program Guidelines, and Guidelines for Public Relations for Production Sharing Contracts in the Upstream Oil and Gas Environment [Bandan Pelaksana Kegiatan Usaha Hulu Minyak Dan Gas Buni;  BPMIGAS]
+* Government Regulation (PP) 16_2004 re: Land Use Management
+* Decree (KepKa) of the Head of BAPEDAL  No. 8 of 2000  re: Public Participation in and the Disclosure of Information on the AMDAL Process
+* Decree of the Chairperson of the Environmental Impact Management Agency, KEP 299/11 of 1996 re: Technical Guidelines on Social Aspects Assessment in Preparing Environmental Impact Analyses
+* Decree of the Regent of Western Southeast Maluku Regency No. 520-366/2007 re: Price Standardization of Lands and Crops of Society Impacted by Development in the Government of Western Southeast Maluku Regency
+* Law (UU) No. 2 of 2012 re: Land Procurement for Development in the Public Interest
+* Law (UU) No. 11 of 2010 re: Cultural Heritage
+* Law (UU) No. 32 of 2009 re: Environmental Protection and Management
+* Law (UU) No. 14 of 2008 re: Public Information Disclosure
+* Law (UU) No. 25 of 2007 re: Investment [alt: Capital Investment]
+* Law (UU) No. 26 of 2007 re: Spatial Planning
+* Law  (UU) No. 27 of 2007 re: Management of Coastal Zones and Small Islands
+* Law (UU) No. 40 of 2007 re:  Limited Liability Companies
+* Law  (UU) No. 7 of 2004 re: Water Resources
+* Law (UU) No. 20 of 2003 re:  National Education System
+* Law (UU) No. 22 of 2001 re: Petroleum and Natural Gas
+* Law (UU) No. 22 of 1999 re: Regional Administration
+* Law  (UU) No. 41 of 1999 re: Forestry
+* Law (UU) No 23 of 1997 re: Environmental Management
+* Law (UU) No.5 of 1960 re: Agrarian Laws
+* Location Permit due to Environment Minister Decision
+* Decision Letter of MTB Regent due to Land Allocation for Public Interest
+* Minister of Environment Regulation (LH) No. 08 of 2006 re: Guidelines for the Preparation of the Environmental Impact Assessment (AMDAL)
+* Government Regulation (PP) No. 55 of 2009 re: Second Amendment to Government Regulation No. 35 of 2004 on Upstream Oil and Gas Business Activities
+* Government Regulation (PP) No. 34 of 2005 re: Amendment to Government Regulation No. 35 of 2004 on Upstream Oil and Gas Business Activities
+* Government Regulation (PP) No. 35 of 2004 re: Upstream Oil and Gas Business Activities
+* Government Regulation (PP) No. 42 of 2002 re: The Implementing Body for Upstream Crude Oil and Natural Gas Business Activities
+* Government Regulation (PP) No. 84 of 2000 re: Guidelines for Organization of Regional Government
+
+
+
+
 ## National Law
 
 ### Presidential Decree (Keppres) No. 26 of 1989 re:  Ratification of the Convention Concerning the Protection of World Cultural and Natural Heritage

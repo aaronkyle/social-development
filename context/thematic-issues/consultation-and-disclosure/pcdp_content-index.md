@@ -21,7 +21,7 @@ Project Overview  <br />
         * [International Labour Organisation (ILO) – Fundamental Conventions](../../international-law/ilo-conventions.md)
         * [Convention On Biological Diversity](../../international-law/cdb.md)
         * [Convention On The Elimination Of Racial Discrimination](../../international-law/icerd.md)
-    -	[Indonesian Regulatory Framework](../country-safeguard-systems/pcdp_country-law_IDN.md)
+    -	[Host Country Regulatory Framework](../../country-safeguard-systems/)
 *	Project Stakeholders
     -	Stakeholder Identification
     -	Previous Stakeholder Engagement

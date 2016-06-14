@@ -22,11 +22,11 @@ Project Overview  <br />
         * [Convention On Biological Diversity](../../international-law/cdb.md)
         * [Convention On The Elimination Of Racial Discrimination](../../international-law/icerd.md)
     -	[Host Country Regulatory Framework](../../country-safeguard-systems/)
-*	Project Stakeholders
+*	[Project Stakeholders](./pcdp_stakeholders.md)
     -	Stakeholder Identification
     -	Previous Stakeholder Engagement
 *	Guidelines For Public Consultation
-    -	Consultation Objectives
+    -	[Consultation Objectives](./pcdp_consultation-objectives.md)
         * Information Exchange
         * Partnering With The Government
         * Participating In Decision-Making

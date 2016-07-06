@@ -7,7 +7,6 @@ Involutnary Resettlement
 Negotiated Settlement
 
 -->
-
 ## Diagnostic Questions for Project Officers
 
 ### Institutional Organization for Safeguard Compliance
@@ -36,6 +35,14 @@ Negotiated Settlement
 
 * Can you point to changes made to project design as a result of community consultation?
 
+#### Monitoring
+
+* Do you have any mechanisms for monitoring the consequences of the land acquisition process for affected people?
+
+#### Cost Determinations
+
+* How were the costs of land acquisition accounted for in project design?
+
 #### Benefits-sharing
 
 * Does the project provide for any benefits-sharing arrangements with host communities?
@@ -49,6 +56,7 @@ Negotiated Settlement
 * Did you disclosure of resettlement plans include any information on the consultative process?
 * How did you account for land claims by those who do not have recognized legal title to land resources?
 * Did you give any consideration to land-for-land exchanges?
+* When did you disclose the final resettlement plan?
 * Who are the individuals signing as witnesses to land transactions?  Are these community members, members of a third party organization (such as a local university), or otherwise?
 * After compensation arrangements are agreed with land owners, how quickly are transactions processed and how quickly is compensation disbursed?
-
+* Did any work on project infrastructure begin before land acquisition transactions were finalized and payment disbursed to affected people?

@@ -2,7 +2,7 @@
 
 DEFINITIONS:
 
-Involunary Resettlement
+Involutnary Resettlement
 
 Negotiated Settlement
 

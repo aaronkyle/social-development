@@ -1,10 +1,12 @@
+<!--
+
 DEFINITIONS:
 
 Involunary Resettlement
 
 Negotiated Settlement
 
-
+-->
 
 ## Diagnostic Questions for POWERGRID Project Officers
 

@@ -8,7 +8,7 @@ Negotiated Settlement
 
 -->
 
-## Diagnostic Questions for POWERGRID Project Officers
+## Diagnostic Questions for Project Officers
 
 ### Institutional Organization for Safeguard Compliance
 

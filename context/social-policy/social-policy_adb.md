@@ -3,18 +3,17 @@
 
 ## Policy Régimes of the Asian Development Bank
 
-Investments of the Asian Development Bank must accord with the [ADB Charter](http://www.adb.org/documents/agreement-establishing-asian-development-bank-adb-charter "*Agreement Establishing the Asian Development Bank*, 1965").
+Investments of the Asian Development Bank must accord with the [ADB Charter](http://www.adb.org/documents/agreement-establishing-asian-development-bank-adb-charter "*Agreement Establishing the Asian Development Bank*, 1965"), which defines as the bank's purpose "to foster economic growth and co-operation in the region of Asia and the Far East... and to contribute to the acceleration of the process of economic development of the developing member countries in the region, collectively and individually." To help realize its purpose, ADB establishes lending guidelines in a body of policy known collectively as the [ADB Operational Manual](#adb-operational-policy).
 
-Toward this end, ADB defines guidlines to shape loan terms and conditions. These policies are collected in what is known as the [ADB Operational Manual](#adb-operational-policy). [Social Policy](#adb-social-policy), in this context, is defined with respect to specific dimensions of ADB work, e.g. governance and anti-corruption. [Safeguard Policies](#adb-safeguards-policy) are specific measures for risk avoidance and mitigation.
+[Social Policy](#adb-social-policy), in this context, is defined with respect to specific dimensions of ADB work, e.g. governance and anti-corruption. That is to say, ADB does not enumerate social policy as such, but rather seeks to attend to social development concerns fundamental to bank operations&mdash;although it does emphasize the need to pay particular attention to certain concerns, namely via its [safeguard policies](#adb-safeguards-policy).
 
-
+This article seeks to identify social policy at the ADB, both in terms of [safeguard policies](#adb-safeguards-policy) and in terms of other [aspirational / developmental policies](#adb-development-policy) with a distinct focus on social development.
 
 <a name="adb-operational-policy"></a>
 
 ### The ADB Operation Manual (OM)
 
-The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual) collects operational policies known as [Bank Policies (BPs)]( "*bank policies*: short, focused statements defining borrower client obligations") that follow from ADB Charter, regulations of the [ADF](http://www.adb.org/site/adf/main) and [OCR](http://www.adb.org/site/funds/ocr), as well as [other operational policies and strategies](http://www.adb.org/about/other-operational-policies-and-strategies) adopted by the [ADB Board of Directors](http://www.adb.org/about/board-directors). The OM also includes [Operational Procedures (OPs)](# "procedural requirements and guidance on policy implementation") that spell out procedural requirements and guidance on policy implementation.
-
+The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual) collects operational policies known as [Bank Policies (BPs)](# "short, focused statements defining borrower client obligations") that follow from ADB Charter, regulations of the [ADF](http://www.adb.org/site/adf/main) and [OCR](http://www.adb.org/site/funds/ocr), as well as [other operational policies and strategies](http://www.adb.org/about/other-operational-policies-and-strategies) adopted by the [ADB Board of Directors](http://www.adb.org/about/board-directors). The OM also includes [Operational Procedures (OPs)](# "procedural requirements and guidance on policy implementation") that spell out procedural requirements and guidance on policy implementation.
 
 <p>
   <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">

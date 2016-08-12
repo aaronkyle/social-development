@@ -296,8 +296,6 @@ The SPS builds upon (and supersedes) three previous safeguard policies: (i) the 
 -->
 
 
-**Non-Policy Safeguard Frameworks**
-
 In addition to the *Safeguard Policy Statement*, the ADB has published strategic frameworks for realizing socially-beneficial development, e.g. the *[Social Protection Operational Plan 2014−2020](http://www.adb.org/documents/social-protection-operational-plan-2014-2020)*. ADB also undertakes periodic reviews of its progress toward policy implementation.
 
 <div class="well">
@@ -307,7 +305,6 @@ In addition to the *Safeguard Policy Statement*, the ADB has published strategic
 <ul>
 <li><a href="http://www.adb.org/Documents/Reports/Social_Protection/IN252-02.pdf">Social Protection Progress Report to the Board of Directors</a>
 </ul></li>
-<ul>
 <li><em><a href="http://www.adb.org/documents/social-protection-strategy">Social Protection Strategy</a></em> (Jan 2001)
 <ul>
 <li><a href="http://www.adb.org/documents/social-protection-operational-plan-2014-2020">Social Protection Operational Plan 2014−2020</a></em> (Dec 2013)

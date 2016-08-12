@@ -298,7 +298,25 @@ The SPS builds upon (and supersedes) three previous safeguard policies: (i) the 
 
 **Non-Policy Safeguard Frameworks**
 
+In addition to the *Safeguard Policy Statement*, the ADB has published strategic frameworks for realizing socially-beneficial development, e.g. the *[Social Protection Operational Plan 2014−2020](http://www.adb.org/documents/social-protection-operational-plan-2014-2020)*. ADB also undertakes periodic reviews of its progress toward policy implementation.
 
+<div class="well">
+<p><strong>Non-Policy Safeguard Frameworks</strong></p>
+<ul>
+<li><em><a href="http://www.adb.org/Documents/Policies/Social_Protection/default.asp">Social Protection Strategy</a></em> (Aug 2001)
+<ul>
+<li><a href="http://www.adb.org/Documents/Reports/Social_Protection/IN252-02.pdf">Social Protection Progress Report to the Board of Directors</a>
+</ul></li>
+<ul>
+<li><em><a href="http://www.adb.org/documents/social-protection-strategy">Social Protection Strategy</a></em> (Jan 2001)
+<ul>
+<li><a href="http://www.adb.org/documents/social-protection-operational-plan-2014-2020">Social Protection Operational Plan 2014−2020</a></em> (Dec 2013)
+<li><a href="http://www.adb.org/documents/special-evaluation-study-adb-s-social-protection-strategy">Special Evaluation Study on ADB’s Social Protection Strategy</a></em> (7 Nov 2012)
+</ul></li>
+</ul>
+</div>
+
+<!--
 In addition to the *Safeguard Policy Statement*, the ADB has published strategic frameworks for realizing socially-beneficial development, e.g. the *[Social Protection Operational Plan 2014−2020](http://www.adb.org/documents/social-protection-operational-plan-2014-2020)*. ADB also undertakes periodic reviews of its progress toward policy implementation.
 
 * *[Social Protection Strategy](http://www.adb.org/Documents/Policies/Social_Protection/default.asp)* (Aug 2001) | [print version]( "published July 2003") | [NOTES]( "NOTES: ADB 2001 Social Protection Strategy")
@@ -307,7 +325,7 @@ In addition to the *Safeguard Policy Statement*, the ADB has published strategic
 * *[Social Protection Strategy](http://www.adb.org/documents/social-protection-strategy)* (Jan 2001)
     - *[Social Protection Operational Plan 2014−2020](http://www.adb.org/documents/social-protection-operational-plan-2014-2020)* (Dec 2013)
     - *[Special Evaluation Study on ADB’s Social Protection Strategy](http://www.adb.org/documents/special-evaluation-study-adb-s-social-protection-strategy)* (7 Nov 2012)
-
+-->
 
 <a name="adb-development-policy"></a>
 

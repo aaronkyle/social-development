@@ -8,7 +8,7 @@ This is my attempt to organize and contextualize different manifestations of soc
 
 ## Caveats and Disclaimers
 
-Please recognize that this is an on-going effort. Attempting to create a organizational framework for the ever-expanding and ever more complex universe of social policy requires considerable time and effort, which I contribute in the hours when I am not [otherwise engaged](http://socialpolicy.expert). I consider no page to be "complete". Most are still very immature in terms of their content. Most pages contain typos. This will be a life-long project for me. If you see spot anything that you'd like to challenge or correct, please sent me an email (or better, a pull request).
+Please recognize that this is an on-going effort. Attempting to create a organizational framework for the ever-expanding and ever more complex universe of social policy requires considerable time and effort, which I contribute in the hours when I am not [otherwise engaged](http://aaron-kyle.com). I consider no page to be "complete". Most are still very immature in terms of their content. Most pages contain typos. This will be a life-long project for me. If you see spot anything that you'd like to challenge or correct, please sent me an email (or better, a pull request).
 
 Please also recognize that my work focuses on social development concerns. As I formulate definitions for various terms, I do so with respect to their usage relative to the practice of social development.
 

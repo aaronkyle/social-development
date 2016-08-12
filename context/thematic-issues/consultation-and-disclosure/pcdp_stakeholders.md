@@ -1,0 +1,23 @@
+## PROJECT STAKEHOLDERS
+
+### Stakeholder Identification
+
+The term 'stakeholders' may refer to any individual or group that is directly or indirectly affected by a project’s operations and/or is capable of affecting the outcome of the project. As such, there are many and diverse social groups that may be understood as stakeholders—each of which will have different needs, and priorities. 
+
+Key Project stakeholder groups include:
+
+* The Project (e.g. the project operator, investor and shareholders). The project operator is responsible planning and implementation and is interested in safe, environmentally- and socially-responsible and profitable operations. It risks possible financial loss and/or reputational harm if problems arise during Project implementation, operations, and close-out.
+
+* Government – Government bodies and agents from the national level to the local1; are responsible for civil and corporate administration and governance, including issues of permitting and taxation, as well as control and allocation of state-owned resources. Government is interested in broad social development objectives and livelihood improvements for their constituents as well as realising economic growth. Government, particularly at the local levels, risks backlash from their constituencies if the Project cannot deliver as promised or has unintended negative social impacts. 
+
+* Project-affected local communities – Communities and people living within the Project area of impact (esp. residents adjacent to the proposed mining and plant development in Central and Eastern Halmahera Regencies); this term subsumes many differ population sub-sets, such as can be disaggregated by vulnerability, livelihoods, ethnicity, and religion. These communities are interested in economic, educational, and capacity-building opportunities and hope to realise improved livelihoods, healthcare, and social stability as a result of the Project. Risks for local community members vary according to social group and include economic displacement, involuntary cultural assimilation and loss of local customs and traditions, increased exposure to diseases, crime and increased pressures on local food sources. 
+
+* Marketplace – Entrepreneurs, job-seekers, industry/trade unions, professional associations and other agents operating within the market economy. All of these groups are interested in the economic opportunities Project construction and production will offer. They risk economic loss and/or displacement.
+Civil society organisations (CSOs)– Non-governmental organisations (NGOs), both domestic and international, along with religious bodies and academic organisations are interested in the status of project affected people, the Project’s impact on their lives and livelihoods, and the opportunities for assisting the Project with community engagement, mitigation activities or benefits-sharing . They risk reputational harm if they either ignore unmitigated negative Project impacts on local populations or perhaps if they are seen as not being engaged in helping deliver Project benefits. CSOs might also seek an active role in carrying out Project activities affecting local populations. 
+
+* International organisations – As a significant financing source for the Project, the International Finance Corporation would be interested in the Project’s fulfilment of its Performance Standards. Similarly the World Bank’s risk insurance arm, MIGA (Multilateral Insurance Guarantee Agency) would also be greatly interested in the Project’s fulfilment of IFC’s Performance Standards. Risks to IFC and MIGA would include reputational harm for Project non-performance. Other international organisations, include UNDP, the World Bank, and the Asian Development Bank.  
+
+* Public-at-large – The “public-at-large” would include the general society of Central and Eastern Halmahera Regencies, North Maluku Province, and Indonesia as a nation. The general public is interested in the Project’s potential revenue support to the nation and its support for natural resource development in general and local society development in particular. The public risks inefficient exploitation of its natural resources as well as social and environmental deterioration.  
+
+
+In most cases, Company decisions about which audiences are targeted to receive different types of information and are also influenced by how directly they are affected by Project operations (and according to their relative vulnerabilities) or how directly they are capable of affecting these operations. To the greatest extent possible, the project should endeavour to equally take into consideration the views and the interests of all stakeholders.

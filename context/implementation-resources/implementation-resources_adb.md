@@ -11,6 +11,7 @@ Indigenous Peoples [[PDF]](http://www.adb.org/Documents/Guidelines/IndigenousPeo
 
 ### Handbooks
 
+* [ADB Environmental Assessment Guidelines](https://www.adb.org/documents/adb-environmental-assessment-guidelines) (2003)
 * [Handbook on Resettlement: A Guide to Good Practice](https://www.adb.org/documents/handbook-resettlement-guide-good-practice) (1998)
 * [Involuntary Resettlement Safeguards: A Planning and Implementation Good Practice Sourcebook (Draft Working Document)](https://www.adb.org/documents/involuntary-resettlement-safeguards-planning-and-implementation-good-practice-sourcebook-d) (2012)
 * [Indigenous Peoples Safeguards: A Planning and Implementation Good Practice Sourcebook (Draft Working Document)](https://www.adb.org/documents/indigenous-peoples-safeguards-planning-and-implementation-good-practice-sourcebook) (2013)
@@ -19,11 +20,6 @@ Indigenous Peoples [[PDF]](http://www.adb.org/Documents/Guidelines/IndigenousPeo
 <!--
 * [Public_Consultation_Information_Disclosure.pdf Implementation Notes on Public Consultation and Disclosure](http://www.adb.org/documents/guidelines/environmental_assessment/)
 -->
-
-### Evaluation Tools
-
-* Rapid Environment Assessment checklists for many different sectors are available [here](http://www.adb.org/documents/Guidelines/Environmental_Assessment/eaguidelines002.asp).
-
 
 ### Case Studies
 

@@ -15,7 +15,7 @@ Indigenous Peoples [[PDF]](http://www.adb.org/Documents/Guidelines/IndigenousPeo
 * [Handbook on Resettlement: A Guide to Good Practice](https://www.adb.org/documents/handbook-resettlement-guide-good-practice) (1998)
 * [Involuntary Resettlement Safeguards: A Planning and Implementation Good Practice Sourcebook (Draft Working Document)](https://www.adb.org/documents/involuntary-resettlement-safeguards-planning-and-implementation-good-practice-sourcebook-d) (2012)
 * [Indigenous Peoples Safeguards: A Planning and Implementation Good Practice Sourcebook (Draft Working Document)](https://www.adb.org/documents/indigenous-peoples-safeguards-planning-and-implementation-good-practice-sourcebook) (2013)
-* [Handbook on Social Analysis, A Working Document](http://www.adb.org/Documents/Handbooks/Social-Analysis/social-analysis-handbook.pdf) (Nov 2007)
+* [Handbook on Poverty and Social Analysis: A Working Document](https://www.adb.org/documents/handbook-poverty-and-social-analysis-working-document) (2012)
 
 <!--
 * [Public_Consultation_Information_Disclosure.pdf Implementation Notes on Public Consultation and Disclosure](http://www.adb.org/documents/guidelines/environmental_assessment/)

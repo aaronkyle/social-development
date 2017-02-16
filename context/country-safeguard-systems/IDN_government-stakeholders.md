@@ -7,7 +7,6 @@ Development projects require coordination with a number of government bodies and
 Some key the national-level governmental stakeholders for development projects in Indonesia are listed below.
 
 
-
 * [Departemen Pertahanan Keamanan (DEPHANKAM)](http://www.hankam.go.id/)  [Department of Defense and Security]
     - Angkatan Bersenjata Republik Indonesia (ABRI)
         * [Kepolisian Negara Republik Indonesia](http://www.polri.mil.id/)  [Indonesian National Police]
@@ -15,6 +14,7 @@ Some key the national-level governmental stakeholders for development projects i
     - [Direktorat Jenderal Pajak](http://www.pajak.go.id/)  [Directorate General of Taxes]
     - [Direktorat Jenderal Bea dan Cukai](http://www.beacukai.go.id/)  [Directorate General of Customs and Excise]
 * [Departemen Luar Negeri (DEPLU)](http://www.kemlu.go.id/id/Default.aspx)  [Department of Foreign Affairs]
+* Ministry of Forestry
 * [Departemen Kehutanan dan Perkebunan (DEPHUT)](http://www.dephut.go.id/)  [Department of Forestry and Estate Crops]
 * [Departemen Kesehatan (DEPKES)](http://www.depkes.go.id/)  [Department of Health]
 * [Departemen Perindustrian dan Perdagangan (DEPPERINDAG)](http://indag.dprin.go.id/)  [Department of Industry and Trade]
@@ -33,12 +33,15 @@ Some key the national-level governmental stakeholders for development projects i
     - Direktorat Jenderal Pariwisata [Directorate General of Tourism]
 * Departemen Transmigrasi dan Pemukiman Perambah Hutan (DEPTRANS) [Department of Transmigration and Forest Squatter Resettlement]
 * Badan Perencanaan Pembangunan Nasional (BAPPENAS) [State Ministry for Development Planning / National Development Planning Agency]
+* Ministry of Environment
 * Badan Pengendalian Dampak Lingkungan (BAPEDAL) [State Ministry for Environment / Environmental Impact Mangement Agency]
+* Kementerian Lingkungan Hidup dan Kehutanan (MOEF/KLHK) [Ministry of Environment and Forestry]
 * Badan Koordinasi Penanaman Modal (BKPM) [State Ministry for Investment / Investment Coordinating Board]
 * Batam Industrial Development Authority
 * Lembaga Komunikasi Pengembangan Perkotaan dan Daerah [Urban and Regional Development Institute]
 * Komisi Nasional Hak Asasi Manusia (Komnas HAM) [National Commission on Human Rights]
 * Badan Pemeriksa Keuangan (BEPEKA) [Supreme Audit Board]
+* [Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KPPPA)](www.kemenpppa.go.id/) [Ministry of Female Empowerment and Child Protection] 
 
 NOTE: Other ministries may be involved, depending on specific issues that arise during project construction and operations.
 

@@ -1,20 +1,20 @@
-## Government
-
-Project operations will involve government bodies and agents from the national level to the local levels:
+# Government Stakeholders
 
 ## National Government
 
-The national government’s key interests in the WBN Project include revenue streams, enforcement of legislation, and sustainability of natural resources. WBN-backed community development initiatives can help to lessen the financial, developmental training and capacity-building burdens of the national government, and the project’s success may even have positive reputational consequences.
+Development projects require coordination with a number of government bodies and agencies. The interests of these agencies in project operations vary: assurance of state revenue streams, enforcement of legislation, sustainability of natural resources, etc.
 
-From the level of national government, key ministries include:
+Some key the national-level governmental stakeholders for development projects in Indonesia are listed below.
+
+
 
 * [Departemen Pertahanan Keamanan (DEPHANKAM)](http://www.hankam.go.id/)  [Department of Defense and Security]
     - Angkatan Bersenjata Republik Indonesia (ABRI)
         * [Kepolisian Negara Republik Indonesia](http://www.polri.mil.id/)  [Indonesian National Police]
 * [Departemen Keuangan](http://www.depkeu.go.id/)  [Department of Finance]
     - [Direktorat Jenderal Pajak](http://www.pajak.go.id/)  [Directorate General of Taxes]
-    - [Direktorat Jenderal Bea dan Cukai]()  [Directorate General of Customs and Excise]
-* [Departemen Luar Negeri (DEPLU)](http://www.beacukai.go.id/)  [Department of Foreign Affairs]
+    - [Direktorat Jenderal Bea dan Cukai](http://www.beacukai.go.id/)  [Directorate General of Customs and Excise]
+* [Departemen Luar Negeri (DEPLU)](http://www.kemlu.go.id/id/Default.aspx)  [Department of Foreign Affairs]
 * [Departemen Kehutanan dan Perkebunan (DEPHUT)](http://www.dephut.go.id/)  [Department of Forestry and Estate Crops]
 * [Departemen Kesehatan (DEPKES)](http://www.depkes.go.id/)  [Department of Health]
 * [Departemen Perindustrian dan Perdagangan (DEPPERINDAG)](http://indag.dprin.go.id/)  [Department of Industry and Trade]
@@ -27,8 +27,7 @@ From the level of national government, key ministries include:
         * Directorate of Environmental Geology
         * Volcanological Survey of Indonesia
     - Directorate General of Mines
-    - Directorate General of Oil and Gas
-LEMIGAS
+    - Directorate General of Oil and Gas (LEMIGAS)
 * Departemen Pekerjaan Umum (DEP PU) [Department of Public Works]
 * Departemen Pariwisata, Seni dan Budaya (DEPPARSENIBUD) [Department of Tourism, Art and Culture]
     - Direktorat Jenderal Pariwisata [Directorate General of Tourism]
@@ -43,6 +42,15 @@ LEMIGAS
 
 NOTE: Other ministries may be involved, depending on specific issues that arise during project construction and operations.
 
-Sub-national Government
-Sub-national government refers to the divisions of government at the provincial (propinsi), regency (kabupaten), and sub-district (kecamatan) levels. These units of sub-national government possess administrative authority in all matters other than those retained by the central government and the provinces—including health and safety, education and culture, environment, land affairs, agriculture, transportation, investment, public works, industry and trade, cooperatives and labour.
-Similar to the national government, sub-national (or “local”) government authorities are interested in taxes, enforcement of legislation, and sustainability of natural resources, as well as general aspects of Project activity, including the provision and development of infrastructure (roads, schools, health clinics, etc. as described in the Community Development Plan [CDP]) and compensation payments (as outlined in the Compensation Framework).
+
+## Sub-national Government
+
+Sub-national government refers to the divisions of government at the provincial (_propinsi_), regency (_kabupaten_), and sub-district (_kecamatan_) levels. These units of sub-national government possess administrative authority in all matters other than those retained by the central government and the provinces—including health and safety, education and culture, environment, land affairs, agriculture, transportation, investment, public works, industry and trade, cooperatives and labour.
+
+Similar to the national government, sub-national government authorities have varied interests: collection of taxes, enforcement of legislation, and sustainability of natural resources.  Some are also interested in specifical project activities, including the provision and development of infrastructure (roads, schools, health clinics, etc.) and compensation payments.
+
+<!--
+
+Projec-backed community development initiatives can help to lessen the financial, developmental training and capacity-building burdens of the national government, and the project’s success may even have positive reputational consequences.
+
+-->

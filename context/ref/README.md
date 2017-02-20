@@ -10,15 +10,9 @@ Please refer to the following Google Spreadsheets pages to see my work in progre
 ### global bibliographies and literature reviews
 
 - [Bibliography of Global Literature | Indigenous Peoples](https://docs.google.com/spreadsheets/d/1FRZmmiQBy28r2ppK3HZP7GHrQ46PeZxkjXGpibMLGEg/edit?usp=sharing "000-bib_Indigenous-Peoples")
-- [Reference List of International Laws Affecting Indigenous Peoples](https://docs.google.com/spreadsheets/d/1e3GNtRESh9awKXkk5S2Jmg4evH76RwtRp6fdvN-GqFw/edit?usp=sharing)
 - [Bibliography of Global Literature Discussing Free, Prior and Informed Consent (FPIC)](https://docs.google.com/spreadsheets/d/1OQPStYq9bY1Es3YjBUylFVtZd81bYRAgsmqQvKMQa00/edit?usp=sharing "bibliography_FPIC_free-prior-and-informed-consent")
 
-### policy analysis
-
-- [analysis, IFI, MDB, Bank policy requirements, Indigenous Peoples, 2012](https://docs.google.com/spreadsheets/d/1XJEFWygS7658yu_7Yab36TbVATeN2E5T_ymx_1G5Xsg/edit#gid=1210438341)
-
-- [Social Policies among the IFIs](https://docs.google.com/spreadsheets/d/1SJdrbHcB-Zz05rVDxDqpvJfoVPKqA4EsAvyU7goiU-U/edit?usp=sharing)
-
+And for fun, here's a random document for which I have not made a happy home yet in this repository:
 
 ### program evaluation
 

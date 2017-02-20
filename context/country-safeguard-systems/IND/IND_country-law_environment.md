@@ -41,6 +41,7 @@
 |	2005	|	Revised/New Environmental Standards for Pulp and Paper Industry	|		|
 |	2005	|	The Right to Information Act, 2005	|	RTI Act	|
 |	2006	|	Environmental Impact Assessment Notification, 2006	|	EN	|
+|	2006	|	EIA Notification 14 September 2006 – Interim Operational Guidelines till 13 September 2007 in respect of applications made under EIA 1994. No J-11013/41/2006-IA.II (I) Government of India Ministry of Environment and Forests (IA Division)	|		|
 |	2006	|	National Environment Policy, 2006	|	NEP	|
 |	2006	|	World Trade Organization, Strategic Approach to International Chemicals Management, 2006 (SAICM)	|		|
 |	2008	|	Coastal Regulation Zone (CRZ) Notifications, 1991 & 2008	|		|
@@ -63,5 +64,3 @@
 |	2012	|	Environmental Standards for Petrochemical (Basic and Intermediates) (09/11/2012).	|		|
 |	2014	|	Environment Standards for Cement Plant. (25/08/2014)	|		|
 |	2014	|	Environmental Standards, updated as of September 12, 2014	|		|
-|	2006	|	EIA Notification 14 September 2006 – Interim Operational Guidelines till 13 September 2007 in respect of applications made under EIA 1994. No J-11013/41/2006-IA.II (I) Government of India Ministry of Environment and Forests (IA Division)	|		|
-|	2006	|	EIA Notification 2006	|		|

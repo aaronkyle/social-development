@@ -21,13 +21,17 @@ I should also emphasise how much I continue to struggle to account for what cons
 
 ```
 
-analyses/ # explorations of issues and data
+archive/	# 
 context/	# efforts to conceptually organize social policy
+|__country-safeguard-systems/	# 
+|__guides-and-templates/	# 
+|__implementation-resources/	# 
+|__international-law_good-practice/	# 
+|__ref/	# references and literature indices
+|__social-policy/	# clarifications of the organization of social policy among development financial institutions
+|__terms/	# definitional terminology
 data/		# data sets that relate to social development issues
-frameworks/ # <!-- consider merging with context-->
-ref/		# references and literature indices
 site/		# site-level pages
-terms/		# compiles definitional terminology
 .gitignore	# controls the files managed by the Git file-sharing platform
 README		# introduces the repository concept (for viewers on GitHub, it's the repository landing page) 
 

@@ -10,7 +10,7 @@ Please refer to the following Google Spreadsheets pages to see my work in progre
 ### global bibliographies and literature reviews
 
 - [Bibliography of Global Literature | Indigenous Peoples](https://docs.google.com/spreadsheets/d/1FRZmmiQBy28r2ppK3HZP7GHrQ46PeZxkjXGpibMLGEg/edit?usp=sharing "000-bib_Indigenous-Peoples")
-- [Bibliography of Global Literature Discussing Free, Prior and Informed Consent (FPIC)](https://docs.google.com/spreadsheets/d/1OQPStYq9bY1Es3YjBUylFVtZd81bYRAgsmqQvKMQa00/edit?usp=sharing "bibliography_FPIC_free-prior-and-informed-consent")
+- [Bibliography of Global Literature | Free, Prior and Informed Consent (FPIC)](https://docs.google.com/spreadsheets/d/1OQPStYq9bY1Es3YjBUylFVtZd81bYRAgsmqQvKMQa00/edit?usp=sharing "bibliography_FPIC_free-prior-and-informed-consent")
 
 And for fun, here's a random document for which I have not made a happy home yet in this repository:
 

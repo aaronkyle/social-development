@@ -51,10 +51,10 @@ A total of 18/29 states have adopted implementing rules, as reflected in the fol
 
 |State	|LARR Rules Adopted?	|Reference|
 |---|---|---|
-|Andhra Pradesh	|YES	|Andhra Pradesh Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Rules, 2014 (20.11.2014).|
+|Andhra Pradesh	|YES	| [Andhra Pradesh Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Rules, 2014](http://www.rlarrdc.org.in/images/Government_of_AP-Rules.pdf) (20.11.2014)|
 |Arunachal Pradesh	|NO	||
-|Assam	|YES	|Assam Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Rules, 2015 (31.07.2015).|
-|Bihar	|YES	|Bihar Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Rules, 2014 (27.10.2014).|
+|Assam	|YES	| [Assam Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Rules, 2015](http://www.rlarrdc.org.in/images/Assam_Land_Acquisition_Notification.pdf) (31.07.2015).|
+|Bihar	|YES	| [Bihar Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Rules, 2014](http://lrc.bih.nic.in/circulars/1401E_291020141147.pdf) (27.10.2014).|
 |Chhattisgarh	|NO (draft)	|Chhattisgarh Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Social Impact Assessment, Consent and Public Hearing) Rules, 2015 (10-Dec-2015) (Draft)|
 |Goa	|NO (draft)	|[The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Goa Amendment) Bill, 2015](http://www.goavidhansabha.gov.in/uploads/bills/417_draft_Bill_No042015.pdf) (Bill No. 4 of 2015)|
 |Gujarat	|YES	|RFCTLARR (Gujarat Amendment) Act, 2016.80 |

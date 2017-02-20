@@ -13,15 +13,6 @@ Please refer to the following Google Spreadsheets pages to see my work in progre
 - [Reference List of International Laws Affecting Indigenous Peoples](https://docs.google.com/spreadsheets/d/1e3GNtRESh9awKXkk5S2Jmg4evH76RwtRp6fdvN-GqFw/edit?usp=sharing)
 - [Bibliography of Global Literature Discussing Free, Prior and Informed Consent (FPIC)](https://docs.google.com/spreadsheets/d/1OQPStYq9bY1Es3YjBUylFVtZd81bYRAgsmqQvKMQa00/edit?usp=sharing "bibliography_FPIC_free-prior-and-informed-consent")
 
-
-### country profiles
-
-- [010-bib, Indigenous Peoples -Africa](https://docs.google.com/spreadsheets/d/1uDPIbtEiB1ZeLdLxxpgHRIwPYx67YKn7-yCLCOZ6Ncg/edit?usp=sharing)
-- [100 - Country IP Profile - INDONESIA](https://drive.google.com/drive/u/0/folders/0B_CbKDJqtSI7UWhWa0t2RkZpRzQ)
-- [100 - IP Country Profile - CANADA](https://docs.google.com/spreadsheets/d/146u6qzy9Z_cFp-PGjvMcl_PjGtrd4EXcPTKBedcpS-I/edit?usp=sharing)
-- [100 - IP Profile - RUSSIA](https://docs.google.com/spreadsheets/d/1T-67U8l-IUcAI90fVeLIUHofIwWFznoR77uPeT_aiXs/edit?usp=sharing)
-
-
 ### policy analysis
 
 - [analysis, IFI, MDB, Bank policy requirements, Indigenous Peoples, 2012](https://docs.google.com/spreadsheets/d/1XJEFWygS7658yu_7Yab36TbVATeN2E5T_ymx_1G5Xsg/edit#gid=1210438341)

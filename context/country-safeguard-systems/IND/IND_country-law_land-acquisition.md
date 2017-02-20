@@ -4,14 +4,15 @@
 
 **Binding Legislation:**
 
-* Land Acqusition Act, 1894
-* Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 | LARR 2013 
+* [Land Acqusition Act, 1894](https://www.google.com/search?q=land+acquisition+act+1894) | [भूमि अर्जन अधिनियम, 1894](http://dolr.nic.in/dolr/downloads/pdfs/LandAcquisitionAct1894Hindi.pdf)
+* Land Acquisition (Companies) Rules, 1963 | [भूमि अर्जन (कंपनी) नियम, 1963](http://dolr.nic.in/dolr/downloads/pdfs/LandAcquisition(Companies)Rules1963Hindi.pdf)
+* [Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013](http://indiacode.nic.in/acts-in-pdf/302013.pdf) | LARR 2013 
     * Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Social Impact Assessment and Consent) Rules, 2014 | LARR Rules 2014
     * Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Compensation, Rehabilitation and Resettlement and Development Plan) Rules, 2015 | LARR Rules 2015
 
 **Non-Binding Legislation:**
 
-* National Resettlement and Rehabilitation Policy of 2007 (NRRP)
+* [National Resettlement and Rehabilitation Policy of 2007](http://dolr.nic.in/dolr/downloads/pdfs/NRRP2007.pdf) (NRRP) | [राष्ट्रीय पुनर्वास और पुनर्स्थापन नीति, 2007](http://dolr.nic.in/dolr/downloads/pdfs/NRRP2007_Hindi.pdf)
 * Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Amendment) Ordinance, 2014 | LARR (Amendment) Ordinance 2045
 * Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Amendment) Bill, 2015 | LARR (Amendment) Bill 2015
 

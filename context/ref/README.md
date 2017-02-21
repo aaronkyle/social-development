@@ -2,7 +2,7 @@ I initially uploaded to this repository a few spreadsheet files of bibliographic
 
 In an attempt to make my work as broadly-accessible as possible (while still retaining some control over the content of the files I curate), I am experimenting with other forms of data management.
 
-I am currently using Google Spreadsheets to share and manage permissions for my reference documents. I do not view this as an ideal solution, and to help make my work better accessible (as well as to make it easier for people to share back with me their changes or contributions), I will making periodic dumps of my  work in Google Spreadsheet as CSV files, which I will upload here.
+I am currently using Google Spreadsheets to share and manage permissions for my reference documents. I do not view this as an ideal solution, and to help make my work better accessible (as well as to make it easier for people to share back with me their changes or contributions), I will make periodic dumps of the Google Spreadsheet, which I will upload here.
 
 Please refer to the following Google Spreadsheets pages to see my work in progress:
 

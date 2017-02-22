@@ -250,6 +250,14 @@ In 2009, the Asian Development Bank adopted its *[Safeguard Policy Statement (SP
 </div>
 
 <!--
+ADB’s gender and development policy is a critical mainstreaming strategy in promoting gender equality, and includes the following key points:
+Gender sensitivity: Particular attention should be paid to women’s needs and expectations in consideration of impacts of the ADB-financed project on men and women;
+Gender analysis: A systematic analysis of the project’s impacts on men and women should be made to learn their economic and social connections;
+Gender planning: A special strategy that offers equal opportunities to men and women should be developed;
+Mainstreaming: ADB considers the gender issue in all aspects of the project, and encourages women to participate in decision-making in the development process actively.
+-->
+
+<!--
 **Current Safeguard Policy Framework**
 * *[Safeguard Policy Statement](http://www.adb.org/documents/safeguard-policy-statement)* (Jun 2009) | [PDF](http://www.adb.org/Documents/Policies/Safeguards/Safeguard-Policy-Statement-June2009.pdf)
 * *[Operational Manual Section F1](http://www.adb.org/sites/default/files/institutional-document/31483/om-f1-20131001.pdf)* (2013)

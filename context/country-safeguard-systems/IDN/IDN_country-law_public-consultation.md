@@ -2,14 +2,14 @@
 
 **National Laws**
 
-* Presidential Decree (Keppres) No. 26 of 1989 re:  Ratification of the Convention Concerning the Protection of World Cultural and Natural Heritage
-* Regulation of the Minister of the Interior of the Republic of Indonesia No. 72/2012 re: Operating Costs and the Cost of Supporting Implementation of Land Acquisition for Public Interest Development
+* [Presidential Decree (Keppres) No. 26 of 1989 re:  Ratification of the Convention Concerning the Protection of World Cultural and Natural Heritage]()
+* [Regulation of the Minister of the Interior of the Republic of Indonesia No. 72/2012 re: Operating Costs and the Cost of Supporting Implementation of Land Acquisition for Public Interest Development]()
 * Regulation of the Minister of the Interior No. 32 of 2010 re: Guidelines for Granting Building Permits
 * Regulation of the Minister of Forestry of Republic of Indonesia No. P.18/Menhut-II/2011 Ttg: Guidelines for Borrow and Use of Forest Area
-* Regulation of the Minister of Forestry of the Republic of Indonesia No. 4/Menhut-ll/2011 re: Forest Reclamation Guidelines
+* [Regulation of the Minister of Forestry of the Republic of Indonesia No. 4/Menhut-ll/2011 re: Forest Reclamation Guidelines]()
 * Regulation of the Minister of Forestry of the Republic of Indonesia No. P. 33/Menhut-II/2010 re: Procedures for Release of Forest Production Convertible
-* Regulation of the Minister of Marine Affairs and Fisheries No. Per.08/Men/2009 re: Community Participation and Empowerment in the Management of Coastal Areas and Small Islands
-* Regulation of the State Minister of Environment of Republic of Indonesia No. 16 of 2012 re: Guidelines for Composing Environmental Documents
+* [Regulation of the Minister of Marine Affairs and Fisheries No. Per.08/Men/2009 re: Community Participation and Empowerment in the Management of Coastal Areas and Small Islands]()
+* [Regulation of the State Minister of Environment of Republic of Indonesia No. 16 of 2012 re: Guidelines for Composing Environmental Documents]()
 * Regulation of the State Minister of Environment No. 17 of 2012 re: Guideline for Community Involvement in Environmental Impact Statement and Environment Licensing Process
 * Presidential Regulation No. 71/2012 re: Land Procurement Procedures for Development and the Public Interest
 * Presidential Decree No. 78/2007 re: Ratification Convention for the Safeguarding of the Intangible Cultural Heritage (Convention for the Protection of Intangible Cultural Heritage)
@@ -24,7 +24,7 @@
 * Government Regulation (PP) No. 06 of 2007 re: Forest Management and Forest Management Planning, and Forest Utilization
 * Government Regulation (PP) No. 07 of 1999 re: Conservation of flora and fauna
 * Government Regulation (PP) No. 27 of 1999 re: Environmental Impact Assessment
-* Working Procedure Manual (PTK) No.027/PTK/XII/2007 
+* Working Procedure Manual (PTK) No.027/PTK/XII/2007
 * Working Procedure Manual 017/PTK/III/2005 re: Guidelines for Providing Emergency Information, Community Development Program Guidelines, and Guidelines for Public Relations for Production Sharing Contracts in the Upstream Oil and Gas Environment [Bandan Pelaksana Kegiatan Usaha Hulu Minyak Dan Gas Buni;  BPMIGAS]
 * Government Regulation (PP) 16_2004 re: Land Use Management
 * Decree (KepKa) of the Head of BAPEDAL  No. 8 of 2000  re: Public Participation in and the Disclosure of Information on the AMDAL Process
@@ -66,7 +66,7 @@
 
 <!-- adding these in; need also to transfer content -->
 
-* Law (UU) No. 11 of 1967 re: Basic Provisions of Mining 
+* Law (UU) No. 11 of 1967 re: Basic Provisions of Mining
 * Law No. (UU) 4 of 2009 re: Coal and Mineral Mining
 * Government Regulation (PP) No. 23 of 2010 re: Mineral and Coal Business Activities
 
@@ -88,7 +88,7 @@ Article 8 and 10: The Convention also establishes an Intergovernmental Committee
 
 Article 21 states that before granting international assistance to State Parties, the Committee shall carry out studies and consultations that it deems necessary for a decision to be made.
 
-Article 27 requires each State Party to strengthen the appreciation and respect by their peoples of identified cultural and natural heritage by all appropriate means, particularly through educational programs. 
+Article 27 requires each State Party to strengthen the appreciation and respect by their peoples of identified cultural and natural heritage by all appropriate means, particularly through educational programs.
 
 DISCLOSURE
 
@@ -247,7 +247,7 @@ The law stipulates guidelines for forest reclamation, with a view to make possib
 
 CONSULTATION
 
-The requirements for consultation primarily concern the collection of data ahead of, during, and upon the end of forest reclamation activities. Some requirements also overlap with the requirements for disclosure, primarily in terms of assessment and evaluation of forest reclamation activities. Consultation is mainly required with and via various governing bodies, depending on whether the activities take place on a central or a regional level. 
+The requirements for consultation primarily concern the collection of data ahead of, during, and upon the end of forest reclamation activities. Some requirements also overlap with the requirements for disclosure, primarily in terms of assessment and evaluation of forest reclamation activities. Consultation is mainly required with and via various governing bodies, depending on whether the activities take place on a central or a regional level.
 
 Articles 5 and 6 require actors to include primary and secondary data on the economic social condition of residents of the area, as well as from villages that may be affected by mining activities, in compiling the location inventory for the concerned forest area, which is to be used as baseline data for utilization. Factors accounted for will include demography, income levels and livelihood details, education level, community institutions, land ownership and community cultures. Article 22 further stipulates that analysis of the area’s biophysical and socio-economic condition shall form the basis of the technical design of the annual reclamation plan for every location.
 
@@ -261,11 +261,11 @@ DISCLOSURE
 
 Like the requirements for consultation, those applying to disclosure primarily concern the evaluation and assessment of forest reclamation activities and their implementation. Several technical requirements are detailed, such as what data will be contained in various reports and via what instance this data is to be reported and disclosed, depending on the level that activities take place.
 
-Article 9 requires the results of analysis and evaluation of numeric and special data to be mapped on a reclamation plan, on a scale no smaller than 1:25,000, as a basis for a 5-year or annual reclamation plan. 
+Article 9 requires the results of analysis and evaluation of numeric and special data to be mapped on a reclamation plan, on a scale no smaller than 1:25,000, as a basis for a 5-year or annual reclamation plan.
 
 Article 15 (2) requires as part of the preparation of the forest area the relocation and clearing of infrastructure no longer in use, as well as the installation of signs, prohibition and closing of the entrance to mine location.
 
-Article 25 [sic! There are two Article 25. This refers to the second instance in the document] requires the minister/management of government or non-government institution to develop an information system and ensure the communication of national space layout suited to the requirements of the region. 
+Article 25 [sic! There are two Article 25. This refers to the second instance in the document] requires the minister/management of government or non-government institution to develop an information system and ensure the communication of national space layout suited to the requirements of the region.
 
 Article 26 [sic! There are two Article 26. This refers to the first instance in the document] stipulates that the arranged 5-year reclamation plans are to be analyzed by “the Minister of Technical, Governor, or Regent/Major accordingly to their authority by involving Minister”. These plans are to include information on the policy, plan and program for the stipulated space layout and information on the direction of space utilization.
 
@@ -273,15 +273,15 @@ Articles 27-28 [sic! There are two Articles 27 and 28. This refers to the second
 
 Article 55 requires the license holder to have a special organization to handle the forest reclamation, whose duties shall include establishing the maintenance, research, monitoring and reporting of all execution plans and efforts of forest reclamation.
 
-Article 59 requires technical monitoring and assistance on forest reclamation implementation to be performed at least once a year, carried out on both the central and the regional level. 
+Article 59 requires technical monitoring and assistance on forest reclamation implementation to be performed at least once a year, carried out on both the central and the regional level.
 
 Article 68 specifies the usage of the result of technical monitoring and assistance as to check the development/progress of reclamation implementation and ensure compliance with the law. These results will be reported by the technical instance handling forestry affairs at the District/City level to the Governor cq. Head of Provincial Forestry Office, with a copy to the Directorate General of Management Guidance for River Flow Area and Social Forestry; by the technical instance handling forestry affairs at the Provincial level to the Governor eq. Head of Provincial Forestry Office, with a copy to the Directorate General of Management Guidance for River Flow Area and Social Forestry; and the results of technical monitoring and assistance by the Management Office of RFA will be reported directly to the Directorate General of Management Guidance for River Flow Area and Social Forestry.
 
 Article 69 requires assessment of the success of forest reclamation to be done every 5 years or a year before expiration of the license, to be carried out by a team coordinated by the Directorate General of Management Guidance for River Flow Area and Social Forestry. At the regional level, a team coordinated by the Provincial Technical Office that handles forestry carries it out. This provision may be relevant in terms of tracking documents that may be required to be publicly accessible.
 
-Articles 72-3 require the system of control and observation on forest reclamation implementation to be measurable, reportable, and verifiable, and the results to be transparent and open for review. The implementation of this system of control must also be based on sufficient mapping/spatial data; the availability of database system of process documentation and activities output; and the availability of a monitoring results system. All data and information resulting from forest reclamation monitoring and observation are to be presented in numeric/textual, spatial, and visual forms. 
+Articles 72-3 require the system of control and observation on forest reclamation implementation to be measurable, reportable, and verifiable, and the results to be transparent and open for review. The implementation of this system of control must also be based on sufficient mapping/spatial data; the availability of database system of process documentation and activities output; and the availability of a monitoring results system. All data and information resulting from forest reclamation monitoring and observation are to be presented in numeric/textual, spatial, and visual forms.
 
-Articles 74-75 require the implementation of observation with an MRV system to meet the following stages: a) Output observation/monitoring; b) Outcome observation/monitoring; c) Impact observation monitoring; and d) Benefit observation/monitoring. The license holder will also prepare satellite images with sufficient resolution of the forest area before the utilization takes place. 
+Articles 74-75 require the implementation of observation with an MRV system to meet the following stages: a) Output observation/monitoring; b) Outcome observation/monitoring; c) Impact observation monitoring; and d) Benefit observation/monitoring. The license holder will also prepare satellite images with sufficient resolution of the forest area before the utilization takes place.
 
 Article 76 requires the license holder to submit periodical reports of forest reclamation implementation to the Directorate General of Management Guidance for River Flow Area and Social Forestry, with copies to the Directorate General for Forest Planology [sic] of Ministry of Forestry; Directorate General of Mineral, Coal, and Geothermal, the Ministry of Energy and Mineral Resources; the Provincial Technical Office that handles forestry; and the District/City Technical Office that handles forestry.
 
@@ -302,20 +302,20 @@ CONSULTATION AND DISCLOSURE
 
 The requirements for public consultation and disclosure largely overlap, as the law is focused on community empowerment, and they are therefore treated jointly. The law provides specific requirements and general recommendations for the improvement and execution of community empowerment, and requirements are made of the government, the regional government(s), and business entities. The law is geared towards providing a legal basis to ensure the empowerment and participation of the community in the management of coastal and small islands resources.
 
-Article 1 provides definitions for terms relevant to the law. 
+Article 1 provides definitions for terms relevant to the law.
 
-Management of Coastal Areas and Small Islands (PWP-3-K) is defined as a process of planning, utilization, supervision, and control of coastal and small island resources, with the aim to improve the welfare of the community. 
+Management of Coastal Areas and Small Islands (PWP-3-K) is defined as a process of planning, utilization, supervision, and control of coastal and small island resources, with the aim to improve the welfare of the community.
 Community Empowerment is defined as “the provision of facilities, encouragement, or assistance by the central or regional governments to the community so that they are able to determine the best option in making use of coastal and small island resources in a sustainable manner.”
 Community Participation is defined as “the involvement of the community, physically or non-physically, and directly or indirectly, on the basis of self-consciousness or as the result of coaching in the management of coastal areas and small islands.”
 Community is defined as “the community consisting of customary community groups, local community people, and traditional community people living in coastal areas and small islands.”
 The main stakeholders are named as “the users of coastal and small island resources that have a direct interest in optimizing the utilization of coastal and small island resources, such as traditional fishers, modern fishers, fish farmers, tourism entrepreneurs, fishery entrepreneurs, and coastal community people.”
 Social Institution is defined as “an existing institution that is voluntarily formed by local community members as needed and is a government and/or regional government partner to participate in the management of coastal areas and small islands.”
 
-Article 2 defines the scope of applicability of the law, which comprises community participation in the planning, implementation, and supervision of PWP-3-K, as well as community empowerment in PWP-3-K. 
+Article 2 defines the scope of applicability of the law, which comprises community participation in the planning, implementation, and supervision of PWP-3-K, as well as community empowerment in PWP-3-K.
 
-Article 3 stipulates that community empowerment and participation is intended as a reference for the government, regional governments, and major stakeholders. The article further lists the purposes of this empowerment and participation as to: 
+Article 3 stipulates that community empowerment and participation is intended as a reference for the government, regional governments, and major stakeholders. The article further lists the purposes of this empowerment and participation as to:
 
-a.  improve the effectiveness and sustainability of the utilization of coastal areas and 
+a.  improve the effectiveness and sustainability of the utilization of coastal areas and
 b.  apply the knowledge and skills of the community in the PWP-3-K;
 c.  ensure and protect the interests of the community;
 d.  realize the independence of the community in order to be able to participate, make efforts, and work either independently or collectively; and
@@ -352,7 +352,7 @@ Article 8 requires the government and regional governments to improve community 
 	g. provision and dissemination of environmental information; and
 	h. granting of awards to persons who have contributed in the field of PWP-3-K.
 
-Article 9 requires the federal and regional governments to empower the community to improve its welfare through activities in the field of management of coastal and small island resources to realize, develop, and improve community awareness of and responsibility for the PWP-3-K. These activities include conservation; reclamation; rehabilitation; education and training; research and development; cultivation; fishery business; organic farming; animal husbandry; and tourism. 
+Article 9 requires the federal and regional governments to empower the community to improve its welfare through activities in the field of management of coastal and small island resources to realize, develop, and improve community awareness of and responsibility for the PWP-3-K. These activities include conservation; reclamation; rehabilitation; education and training; research and development; cultivation; fishery business; organic farming; animal husbandry; and tourism.
 
 Article 10 stipulates that community empowerment in decision-making will be carried out by providing direction and guidance in deliberations, both formal and non-formal, which will be submitted via social institutions to the government or regional government. Community empowerment in the implementation of management is carried out by integrating the types of activities undertaken by the key stakeholders involved. In partnerships between the community, businesses, and federal/regional government, the execution of this empowerment include:
 
@@ -375,7 +375,7 @@ Community empowerment in the development and implementation of preventive and pr
 
 Lastly, the article stipulates that community empowerment in the provision and dissemination of environmental information is carried out, among others, by:
 
-	a. establishing the  P-3MP  (Empowerment and Information Service Center for  the 
+	a. establishing the  P-3MP  (Empowerment and Information Service Center for  the
 Coastal Community);
 	b. establishing  social infrastructure in the form of information posts and community radios; and/or
 	c. disseminating information through the print or electronic media.
@@ -399,7 +399,7 @@ Article 13 requires the government and regional governments to monitor and evalu
 
 SUMMARY
 
-This law consists of a series of guidelines for composing environmental documents. The documents include the Terms of Reference Document (TOR), Environmental Management and Monitoring Plans (UKL-UPL), Environmental Impact Assessment (EIA), Environmental Management Plan (RKL), and Environmental Monitoring Plan (RPL), all defined in the first article. The identified requirements for public consultation and disclosure will be sorted by each of these documents according to the guidelines in question. The opening pages of the law provide the specific content sections to be included in each of the documents. 
+This law consists of a series of guidelines for composing environmental documents. The documents include the Terms of Reference Document (TOR), Environmental Management and Monitoring Plans (UKL-UPL), Environmental Impact Assessment (EIA), Environmental Management Plan (RKL), and Environmental Monitoring Plan (RPL), all defined in the first article. The identified requirements for public consultation and disclosure will be sorted by each of these documents according to the guidelines in question. The opening pages of the law provide the specific content sections to be included in each of the documents.
 
 CONSULTATION AND DISCLOSURE
 
@@ -407,9 +407,9 @@ The requirements outlined in the guidelines are almost exclusively in terms of d
 
 TOR
 
-The TOR document is to provide reference material for the assessor of the EIS document to evaluate the results of the EIS Study, as well as for the initiators, AMDAL document composer, agencies in the business and/or activity plan, environmental agencies, and a technical team of the AMDAL Assessing Committee regarding the scope and depth of the EIS Study. 
+The TOR document is to provide reference material for the assessor of the EIS document to evaluate the results of the EIS Study, as well as for the initiators, AMDAL document composer, agencies in the business and/or activity plan, environmental agencies, and a technical team of the AMDAL Assessing Committee regarding the scope and depth of the EIS Study.
 
-The document will contain an Introduction that contains information on the background, objective of business and/or activity plan, and the implementation of the EIS Study. 
+The document will contain an Introduction that contains information on the background, objective of business and/or activity plan, and the implementation of the EIS Study.
 
 The background information will include a justification of the implementation of business and/or activity plan, backed up with formal evidence; a statement of the reason for why the plan requires an EIA, and the study approach applied; and the reason why the business and/or activity plan is to be assessed by the Central, Provincial, or Regional/City EIA Assessing Commission (KPA).
 The information on the objectives of the plan shall include a general and a detailed description of the implementation, and a justification of the benefits of the action plan to the surrounding society, as well as their role in national and regional development.
@@ -417,16 +417,16 @@ The Study implementation shall include information on the initiators and person(
 
 The Scoping chapter of the introduction will contain a description of the business and/or activity plan to assess; a description of the environmental setting; the results of community involvement; hypothetical important impacts; and borders of the studied area and the time limit of assessment.
 
-The description of the business and/or activity plan to assess shall include the status of the EIA Study, a description of the suitability of the plan location under the prevailing laws, and a description focusing on activity components that can potentially bring about environmental impacts based on the activity stage. The latter will include alternatives to the plan and the environmental management that has been prepared or planned since the start of the plan. These details will also be accompanied by relevant maps, which will comply with the rules of cartography and be of sufficient scale. 
-The description of the environmental setting shall describe the environmental setting of the planned activities, and will encompass the impacted environmental components, at least containing geophysical/chemical components, biological components, socio-economic and cultural components, and community health components. Any activity around this setting, along with the environmental impact of these activities, will also be included. 
+The description of the business and/or activity plan to assess shall include the status of the EIA Study, a description of the suitability of the plan location under the prevailing laws, and a description focusing on activity components that can potentially bring about environmental impacts based on the activity stage. The latter will include alternatives to the plan and the environmental management that has been prepared or planned since the start of the plan. These details will also be accompanied by relevant maps, which will comply with the rules of cartography and be of sufficient scale.
+The description of the environmental setting shall describe the environmental setting of the planned activities, and will encompass the impacted environmental components, at least containing geophysical/chemical components, biological components, socio-economic and cultural components, and community health components. Any activity around this setting, along with the environmental impact of these activities, will also be included.
 As part of the scoping process, community involvement will be carried out through public announcement and consultation, in accordance with the governing laws. The scoping chapter of the introduction will include the processed results of this involvement, with detailed information to explain key points that should be taken into consideration in the decision-making process. These may include a description of the condition of the surrounding environment; relevant local values and customs; and community aspirations related to the business and/or activity plan.
-The introduction shall also describe hypothetical important impacts that could arise from the business and/or activity plan, and the evaluation of these shall comply with national and/or internationally recognized scientific methods. After the potential impacts have been identified, an evaluation thereof will be carried out, and the criteria for the evaluation must be described in the document. Finally, this section will contain a list of conclusions describing the likely outcomes of the identified potential impacts. 
-Finally, the introduction shall describe the borders of the studied area and the time limit of the assessment carried out. Each border description shall be supplemented with a strong scientific justification and completed with a map of every relevant border described. The types of borders to be described are the following: project borders (the space in which all components of project activities will take place); ecological border (the space where the environmental impacts of the business and/or activity plan will take place); social borders (the space in which various social interactions containing specific and acceptable norms and values will take place as part of the business and/or activity plan); and administrative borders (the smallest relevant administrative areas whose area is covered by the three aforementioned border elements). 
+The introduction shall also describe hypothetical important impacts that could arise from the business and/or activity plan, and the evaluation of these shall comply with national and/or internationally recognized scientific methods. After the potential impacts have been identified, an evaluation thereof will be carried out, and the criteria for the evaluation must be described in the document. Finally, this section will contain a list of conclusions describing the likely outcomes of the identified potential impacts.
+Finally, the introduction shall describe the borders of the studied area and the time limit of the assessment carried out. Each border description shall be supplemented with a strong scientific justification and completed with a map of every relevant border described. The types of borders to be described are the following: project borders (the space in which all components of project activities will take place); ecological border (the space where the environmental impacts of the business and/or activity plan will take place); social borders (the space in which various social interactions containing specific and acceptable norms and values will take place as part of the business and/or activity plan); and administrative borders (the smallest relevant administrative areas whose area is covered by the three aforementioned border elements).
 
 The Method of Study will contain explanations of and information regarding:
-The method of data collection and analysis employed in collecting primary and secondary data as input in composing the initial environmental setting and in estimating the degree and characteristics of impact importance. This description shall include descriptions of equipment and instruments used, and the level of accuracy thereof. 
-The method by which important impact estimation is applied to the EIS, along with justifications for the methods used. 
-The holistic evaluation method on environmental impact, by which environmental feasibility is determined. 
+The method of data collection and analysis employed in collecting primary and secondary data as input in composing the initial environmental setting and in estimating the degree and characteristics of impact importance. This description shall include descriptions of equipment and instruments used, and the level of accuracy thereof.
+The method by which important impact estimation is applied to the EIS, along with justifications for the methods used.
+The holistic evaluation method on environmental impact, by which environmental feasibility is determined.
 
 Finally, the TOR document is to include a Bibliography of all literatures applied in preparing the document, as well as Appendixes, in which additional information related to the following is appended:
 
@@ -445,21 +445,21 @@ Other data and information as deemed necessary.
 
 EIS Document
 
-The EIS Document is composed to deliver careful and comprehensive assessments of important impacts arising from the business and/or activity plan. The document is used to determine the proposed plan’s feasibility. 
+The EIS Document is composed to deliver careful and comprehensive assessments of important impacts arising from the business and/or activity plan. The document is used to determine the proposed plan’s feasibility.
 
-The EIS Document will contain an Introduction containing (1) a summary of the business and/or activity plan, with a focus on activity components that could potentially result in environmental impacts; (2) a description of hypothetical important impacts with reference to the scoping results in the TOR Document; and (3) a description of the borders of the studied area and the time limit of the study, based on the scoping results in the TOR Document and accompanied by maps or spatial information data. In the event that the term of TOR assessment as specified in Article 23 of the Government Regulation No. 27/2012 on Environmental License has exceeded and EIA Assessing Committee has not issued the decree of TOR approval, an Agreement Approval Letter of Term of Reference or Statement of Term of Reference Document Administration Completeness shall be enclosed. 
+The EIS Document will contain an Introduction containing (1) a summary of the business and/or activity plan, with a focus on activity components that could potentially result in environmental impacts; (2) a description of hypothetical important impacts with reference to the scoping results in the TOR Document; and (3) a description of the borders of the studied area and the time limit of the study, based on the scoping results in the TOR Document and accompanied by maps or spatial information data. In the event that the term of TOR assessment as specified in Article 23 of the Government Regulation No. 27/2012 on Environmental License has exceeded and EIA Assessing Committee has not issued the decree of TOR approval, an Agreement Approval Letter of Term of Reference or Statement of Term of Reference Document Administration Completeness shall be enclosed.
 
 The EIS Document shall contain a detailed description of the initial environmental setting, which will encompass:
 
 Environmental components exposed by the important impacts of the business and/or activity plan, as well as the environmental condition, which will at least contain geo-physical-chemical components, biological components, socio-economic and cultural components, and community health components.
-The business and/or activity around the proposed location, along with the resulting impacts on the environment. 
+The business and/or activity around the proposed location, along with the resulting impacts on the environment.
 
 Detail data and information related to environmental setting may be delivered in enclosure. Where there are alternative locations, detailed descriptions of all alternatives will be provided. Also, the description of the initial environmental setting shall use data from time series. In this section, the composer of EIA document shall also describe the qualitative and quantitative conditions of various natural resources in studied area of the business and/or activity plan which has been or will be utilized or is still in form of potential. The condition of natural resources is important to present in map and/or label in adequate scale and if necessary completed with diagrams, figures, graphs or photographs as necessary.
 
 The document shall also contain a description of the Important Impact Estimation. This section will contain a detailed description of every identified potential impact, including the degree and the characteristics of each identified impact. The composer of the EIA Document is recommended to take the following into account:
 
 Usage of time series data indicating change in environmental quality from time to time.
-Impact estimation shall be carried out meticulously regarding the degree of important impact from the perspective of bio/geophysical-chemical, social, economical, cultural, spatial, and community health aspects during pre-construction, construction, operation, post-operation of in accordance with the type of its business and/or activity. 
+Impact estimation shall be carried out meticulously regarding the degree of important impact from the perspective of bio/geophysical-chemical, social, economical, cultural, spatial, and community health aspects during pre-construction, construction, operation, post-operation of in accordance with the type of its business and/or activity.
 Analysis of the difference in quality condition between the environment estimated with business and/or activity and that without business activity within the given time limit and using impact estimation method.
 In conducting the study, it is necessary to take into account direct and/or indirect impact. Direct impact is defined as impact directly resulted from business and/or activity; indirect impact occurs as the result of change in certain environment component and/or primary business or activity due to presence of business and/or activity plan. In connection with this, it is necessary to consider the mechanism of impact flow in various environmental components, among others:
 activity resulting in direct important impact on social, economical, cultural and community health components;
@@ -513,21 +513,21 @@ The RKL is to contain preventive, control and management efforts important envir
 
 Environmental management aimed at avoiding or preventing the negative environmental impact;
 Environment Management aimed at mitigating, minimizing, and/or controlling negative impacts emerging at the time of business and/or activity; and/or
-Environment Management that can improve positive impacts, defined as potentially bringing greater benefits to both the initiators and other parties, particularly the community. 
+Environment Management that can improve positive impacts, defined as potentially bringing greater benefits to both the initiators and other parties, particularly the community.
 
 The monitoring activities detailed in the RPL shall be continuous, systematic and planned, and shall be carried out for all relevant environmental components. The results of monitoring will serve as indicators in evaluating the compliance, tendency, and critical levels of environmental management. Factors that are to be taken into account in formulating the monitoring plan include:
 
 Environmental components/parameters to be monitored encompass those suffering fundamental transformation or that are exposed by important impact, and those exposed by other environmental impacts.
 The aspects to be monitored should consider the important impacts identified in the EIS and other environmental impacts, as well as the nature of environmental impact management for which the environmental management plan is formulated.
 Monitoring may be carried out in source of impact cause and/or on the impacted environmental components/parameters. By monitoring both, the effectiveness of environmental management activity may be assessed/tested.
-The environmental monitoring shall be economically feasible. 
+The environmental monitoring shall be economically feasible.
 Data collection and analysis plan of the aspects to monitor include the type of data collected; the location of monitoring activities; the frequency and terms of monitoring; and the methods of data collection and analysis.
 The environmental monitoring plan shall contain environmental monitoring institution, defined as the institution functioning as monitoring organizer, monitoring result user, and monitoring activity controller.
 
 The RKL-RPL document shall contain an Introduction, which will contain:
 
 A statement of purpose describing the objectives of RKL-RPL implementation, in a clear, transparent, and systematic manner.
-A statement of the environmental policy from the initiator, which will briefly describe the commitment of the initiator and/or business to comply with the relevant governing laws on the environment, as well as the commitment to perform environmental management and monitoring in a sustainable manner by preventing, mitigating and controlling any and all environmental impacts arising from the business and/or activity. Included in this is a commitment to continuous training of the employees in the field of environmental management. 
+A statement of the environmental policy from the initiator, which will briefly describe the commitment of the initiator and/or business to comply with the relevant governing laws on the environment, as well as the commitment to perform environmental management and monitoring in a sustainable manner by preventing, mitigating and controlling any and all environmental impacts arising from the business and/or activity. Included in this is a commitment to continuous training of the employees in the field of environmental management.
 
 The document shall also contain an Environmental Management Plan, in which the composer of the EIA document shall describe the forms of environmental management to be conducted on the resulting impacts, in terms of avoiding, preventing, minimizing and/or controlling negative impacts and enhancing positive ones. This section shall contain a matrix and table detailing briefly the management of resulting impacts, which will contain the following information:
 
@@ -544,7 +544,7 @@ In this column, the location of the planned environmental management efforts wil
 Period of Environmental Management.
 In this column, the time and duration of environmental management activities will be described.
 Institution of environment management (PLH).
-In this column, the agency and/or institution that will handle environmental management activities will be described. The environmental management institutions to disclose include: the organizer of the environmental management plan; the environmental management controller; and the reporting instance of results of environmental management. 
+In this column, the agency and/or institution that will handle environmental management activities will be described. The environmental management institutions to disclose include: the organizer of the environmental management plan; the environmental management controller; and the reporting instance of results of environmental management.
 
 The document shall also contain an Environmental Monitoring Plan, in which the monitoring plan will be briefly and clearly described in the form of a matrix or table. This matrix or table will contain detailed descriptions of the following items:
 
@@ -571,7 +571,7 @@ Finally, the document shall contain information on the number and types of PPLH 
 
 SUMMARY
 
-The law is to serve as a guideline for community involvement in environmental impact assessment and licensing process. As such, the law carries requirements for public consultation and disclosure, both in the decision-making process and in the implementation of environmental protection and management, from both corporate and governmental entities. 
+The law is to serve as a guideline for community involvement in environmental impact assessment and licensing process. As such, the law carries requirements for public consultation and disclosure, both in the decision-making process and in the implementation of environmental protection and management, from both corporate and governmental entities.
 
 CONSULTATION
 
@@ -579,7 +579,7 @@ The requirements for public consultation appear in the Annex to the law, framed 
 
 Article 1 and 2 stipulate the law as a guideline for community involvement environmental impact assessment and environment license processes. This in turn requires positional equality and coordination, communication and cooperation with the parties involved, providing transparent and complete information and fair and wise problem resolution.
 
-Appendix 1, Chapter 1 A, states that the principle of participation is one of the principles of Environmental Protection and Management, meaning that every member of society shall be supported to play an active role in the decision-making process and the implementation of environmental protection and management, either directly or indirectly. Furthermore, the Environmental Impact Assessment (EIA) document is formulated by involving the society, through public announcement and consultation. Society shall also be involved through the announcement process of environmental license application, as well as announcements after the issuance of licenses. 
+Appendix 1, Chapter 1 A, states that the principle of participation is one of the principles of Environmental Protection and Management, meaning that every member of society shall be supported to play an active role in the decision-making process and the implementation of environmental protection and management, either directly or indirectly. Furthermore, the Environmental Impact Assessment (EIA) document is formulated by involving the society, through public announcement and consultation. Society shall also be involved through the announcement process of environmental license application, as well as announcements after the issuance of licenses.
 
 Chapter 1 B names the objectives of community involvement in EIA and environment licensing processes as:
 
@@ -608,7 +608,7 @@ Some of the aforementioned requirements for consultation overlap those for publi
 
 Article 2 requires positional equality and coordination, communication and cooperation with the parties involved, providing transparent and complete information and fair and wise problem resolution.
 
-Appendix 1, Chapter 1 A, states that the principle of participation is one of the principles of Environmental Protection and Management, meaning that every member of society shall be supported to play an active role in the decision-making process and the implementation of environmental protection and management, either directly or indirectly. Furthermore, the Environmental Impact Assessment (EIA) document is formulated by involving the society, through public announcement and consultation. Society shall also be involved through the announcement process of environmental license application, as well as announcements after the issuance of licenses. 
+Appendix 1, Chapter 1 A, states that the principle of participation is one of the principles of Environmental Protection and Management, meaning that every member of society shall be supported to play an active role in the decision-making process and the implementation of environmental protection and management, either directly or indirectly. Furthermore, the Environmental Impact Assessment (EIA) document is formulated by involving the society, through public announcement and consultation. Society shall also be involved through the announcement process of environmental license application, as well as announcements after the issuance of licenses.
 
 Chapter 1 B names the objectives of community involvement in EIA and environment licensing processes as:
 
@@ -688,13 +688,13 @@ Presidential Decree No. 78/2007 re: Ratification Convention for the Safeguarding
 
 SUMMARY
 
-The law ratifies the UNESCO Convention for the Safeguarding of Intangible Cultural Heritage from October 17, 2003, which is appended in its entirety. The requirements for public consultation and disclosure fall mainly on the relevant government entities. The opening articles of the law also declare that the Government of Indonesia will not be bound by Article 26 (1) of the Convention, which obliges ratifying governments to pay into an Intangible Cultural Heritage Fund. This provision is granted by Article 26 (2) of the Convention. 
+The law ratifies the UNESCO Convention for the Safeguarding of Intangible Cultural Heritage from October 17, 2003, which is appended in its entirety. The requirements for public consultation and disclosure fall mainly on the relevant government entities. The opening articles of the law also declare that the Government of Indonesia will not be bound by Article 26 (1) of the Convention, which obliges ratifying governments to pay into an Intangible Cultural Heritage Fund. This provision is granted by Article 26 (2) of the Convention.
 
 Article 2 defines intangible cultural heritage as “the practices, representations, expressions, knowledge, skills  - as well as the instruments, objects, artefacts and cultural spaces associated therewith - that communities, groups and, in some cases, individuals recognize as part of their cultural heritage. This intangible cultural heritage, transmitted from generation to generation, is constantly recreated by communities and groups in response to their environment, their interaction with nature and their history; and provides them with a sense of identity and continuity, thus promoting respect for cultural diversity and human creativity. For the purposes of this Convention, consideration will be given solely to such intangible cultural heritage as is compatible with existing international human rights instruments, as well as with the requirements of mutual respect among communities, groups and individuals, and of sustainable development.” This intangible cultural heritage is manifested, among other things, in oral traditions and expressions (including language as a vehicle of intangible cultural heritage); performing arts; social practices, rituals and festive events; knowledge and practices concerning nature and the universe; and traditional craftsmanship.
 
 CONSULTATION AND DISCLOSURE
 
-As the requirements for consultation and disclosure detailed in the ratified Convention largely overlap, they are here treated jointly. While requirements to public consultation and disclosure are not numerous in the Convention, the ones that are stipulated are of importance for the implementation of the Convention. These requirements are mainly aimed at State Parties to the Convention, as well as the Intergovernmental Committee for the Safeguarding of the Intangible Cultural Heritage. 
+As the requirements for consultation and disclosure detailed in the ratified Convention largely overlap, they are here treated jointly. While requirements to public consultation and disclosure are not numerous in the Convention, the ones that are stipulated are of importance for the implementation of the Convention. These requirements are mainly aimed at State Parties to the Convention, as well as the Intergovernmental Committee for the Safeguarding of the Intangible Cultural Heritage.
 
 Article 1 defines the purposes of the convention as:
 (a) to safeguard the intangible cultural heritage;
@@ -716,14 +716,14 @@ Article 14 requires each State Party to endeavor, by all appropriate means, to:
 (b) keep the public informed of the dangers threatening such heritage, and of the activities carried out in pursuance of this Convention;
 (c) promote education for the protection of natural spaces and places of memory whose existence is necessary for expressing the intangible cultural heritage.
 
-Article 15 requires each State Party to endeavor to ensure the participation of communities, groups and, where appropriate, individuals that create, maintain and transmit intangible cultural heritage in the management thereof, within the framework of safeguarding activities. 
+Article 15 requires each State Party to endeavor to ensure the participation of communities, groups and, where appropriate, individuals that create, maintain and transmit intangible cultural heritage in the management thereof, within the framework of safeguarding activities.
 
 Article 29 requires the State Parties to submit periodical reports on the legislative, regulatory and other measures taken for the implementation of the Convention to the Committee.
 
 
 Government Regulation in Lieu of Law of the Republic of Indonesia No. 1/2004 re: Amendment to Law No. 41/1999 on Forestry
 
-NOTE: Could not find the document for this law, was formatted from material provided previously. 
+NOTE: Could not find the document for this law, was formatted from material provided previously.
 
 SUMMARY
 
@@ -731,15 +731,15 @@ The law is an amendment to forestry law number 41 of 1999, and it expands the re
 
 CONSULTATION
 
-The law requires every business entity to obtain permission to engage is forestry management, which will be in cooperation with local community cooperatives. This will be done within the framework of economic empowerment of the community, and forest management and land rehabilitation will make use of participatory approaches to help develop and empower local communities. 
+The law requires every business entity to obtain permission to engage is forestry management, which will be in cooperation with local community cooperatives. This will be done within the framework of economic empowerment of the community, and forest management and land rehabilitation will make use of participatory approaches to help develop and empower local communities.
 
-Article 3 requires every business entity to increase the community’s capacity and capability to participate in forest management, and to implement justice and sustainable approaches to increase social and economic resilience as well as endurance against impacts from external changes. 
+Article 3 requires every business entity to increase the community’s capacity and capability to participate in forest management, and to implement justice and sustainable approaches to increase social and economic resilience as well as endurance against impacts from external changes.
 
-Article 8 requires the determination of specially designated forest areas, for the purposes of public interests such as education and training, religion and culture. 
+Article 8 requires the determination of specially designated forest areas, for the purposes of public interests such as education and training, religion and culture.
 
 Article 11 requires forestry planning to promote community participation and integration, and to be transparent and accountable.
 
-Article 30 requires permit-holders to cooperate with local cooperatives in forest management. 
+Article 30 requires permit-holders to cooperate with local cooperatives in forest management.
 
 Article 67 states that ff there is any affected indigenous law community, the business entity is required to ensure its participation in forest management. Any such community shall also be entitled to collect forest produce to fulfill the daily needs of relevant customary community law; manage forests according to the prevailing indigenous law without contradiction of the law; and to be empowered to improve its welfare.
 
@@ -747,7 +747,7 @@ Article 68 entitles the community to enjoy the environmental quality arising fro
 
 Article 69 requires the participation of the community in maintaining the concerned forest area and protect it from disturbance and damage. The community may solicit advocacy, service and support to NGOs, other parties or the Government.
 
-Article 70 stipulates that the community shall take part in the development of the forestry sector, and that the Government shall support such community participation through various activities in the forestry sector. 
+Article 70 stipulates that the community shall take part in the development of the forestry sector, and that the Government shall support such community participation through various activities in the forestry sector.
 
 Article 71 stipulates that is the community suffers any damage as a result of harm to the forest, it is entitled to file a class action before the court of justice or report to law enforcers, limited to cases of forest management that are in violation of the prevailing legislation. Art. 72 further states that the Government or Regional Administration agency responsible for forestry affairs are entitled to act in the interest of the community if it is found to suffer due to pollution or damage to the forest in a way that affects the life of the community.
 
@@ -755,7 +755,7 @@ Article 73 entitles organizations assuming the responsibility for forest managem
 
 DISCLOSURE
 
-Consideration b and Art. 2 both require forestry management to abide by the principles of transparency and democracy. 
+Consideration b and Art. 2 both require forestry management to abide by the principles of transparency and democracy.
 
 Article 11 requires forestry planning to promote community participation and integration, and to be transparent and accountable.
 
@@ -772,17 +772,17 @@ Government regulation 27/2012 sets out requirements associated with the issuance
 
 CONSULTATION
 
-Article 9 requires the Proponent to involve affected people, the environmental observer, or any other impacted community, in the preparation of the AMDAL document through public consultation and an announcement of business/activity plan, prior to the preparation of the Terms of Reference. The affected community shall also be given ten days from the announcement date to voice its opinions on the business/activity plan. 
+Article 9 requires the Proponent to involve affected people, the environmental observer, or any other impacted community, in the preparation of the AMDAL document through public consultation and an announcement of business/activity plan, prior to the preparation of the Terms of Reference. The affected community shall also be given ten days from the announcement date to voice its opinions on the business/activity plan.
 
-Articles 45 and 46 require consultation with the public on proposed environmental permit within ten days of the public announcement, which may be delivered via representatives. 
+Articles 45 and 46 require consultation with the public on proposed environmental permit within ten days of the public announcement, which may be delivered via representatives.
 
-Article 56 requires the inclusion of the affected community on the Central, Provincial, and Regional/City AMDAL Review Commissions. 
+Article 56 requires the inclusion of the affected community on the Central, Provincial, and Regional/City AMDAL Review Commissions.
 
 Article 62 prohibits the members of these Commissions from conducting assessment on the prepared AMDAL document.
 
 DISCLOSURE
 
-Article 9 requires Proponent to allow for community involvement either through public consultation or announcement of business/activity plan. 
+Article 9 requires Proponent to allow for community involvement either through public consultation or announcement of business/activity plan.
 
 Articles 44, 45 and 46 require the public announcement of the proposed environmental permit, via multimedia and notice board in the location of the business/activity, no later than five days after the ANDAL and RKL-RPL are considered administratively complete. The announcement for business/activity subject to UKL-UPL compulsion shall be carried out by the Minister, Governor, or Regent/Major.
 
@@ -809,8 +809,8 @@ Permanent Production Forest is “a forest area with the class of slope, type of
 Limited Production Forest is “a forest area with the class of slope, type of soil, and rainfall intensity which, after each of the factors is multiplied by a weighing factor, scores 125-174, exclusive of protected forest, wildlife reserve, natural conservation forest and hunting ground.”
 Convertible Production Forest is “a forest area which by space is reserved for development other than forestry activities.”
 “Change that has a significant impact, wide scope and strategic value is a change that has an impact on biophysical conditions such as climate change, ecosystem, and water sources, as well as socio-economic impact on the present and future generations.”
- 
-Article 2 requires changes in the appropriation and function of forest areas to meet the demand of national development dynamics and public aspirations. This will be done by continuous optimization of distribution functions, by using forest areas in a sustainable and conservable way, and through proportional maintenance of forest areas. 
+
+Article 2 requires changes in the appropriation and function of forest areas to meet the demand of national development dynamics and public aspirations. This will be done by continuous optimization of distribution functions, by using forest areas in a sustainable and conservable way, and through proportional maintenance of forest areas.
 
 Article 41 states that a change in function within the main function of conservation forests includes changes in, among other things, “hunting ground into nature reserve, wildlife reserve, national park, grand forest park or nature tourist park.” Such changes can only be made if:
 a) there has been a change in the biophysical condition of forest areas as a result of natural phenomenon, environmental impact or human activity;
@@ -858,7 +858,7 @@ temporary shelters of natural disaster victims.
 
 Article 6 states that the use of forest areas requires forest area lend use permits. One form of such a permit is compensation in the form of land (for provinces where forest area covers less than 30% of river basin areas, islands, and/or provinces. This compensation must be of a ration of at least 1 to 1 for non-commercial purposes, and at least 1 to 2 for commercial purposes.
 
-Article 11 defines the handing over and reforestation of forest areas if compensation is in the form of land as one of the client obligations for being granted a permit in principle for the use of forest areas, with a maximum time period of 2 years (with the possibility of extension based on evaluation). 
+Article 11 defines the handing over and reforestation of forest areas if compensation is in the form of land as one of the client obligations for being granted a permit in principle for the use of forest areas, with a maximum time period of 2 years (with the possibility of extension based on evaluation).
 
 Article 17 prohibits the holders of forest area lend use permits from transferring permits to other parties without Minister approval, and from using lend use forest areas as collateral to other parties.
 
@@ -883,7 +883,7 @@ No English version found.
 
 SUMMARY
 
-The law is aimed at enhancing the legal provisions from previous legislation on forest protection as a part of forestry. It contains provisions for the protection of forest areas from human impacts, livestock and natural disasters, which require consultation with public communities. 
+The law is aimed at enhancing the legal provisions from previous legislation on forest protection as a part of forestry. It contains provisions for the protection of forest areas from human impacts, livestock and natural disasters, which require consultation with public communities.
 
 CONSULTATION
 
@@ -907,7 +907,7 @@ Improve the community’s participation in activities of forest management.
 Cooperate with holders of permits or rights.
 Improve the effectiveness of forest protection activity coordination.
 Support the creation of alternative community occupation.
-Improve the effectiveness of forest security disturbance reporting and response. 
+Improve the effectiveness of forest security disturbance reporting and response.
 Implement sanction against transgression.
 
 Article 8 states that the execution of forest protection shall be the responsibility of the pertinent permit holder for forest areas that have become areas for work, environmental service, forest product exploitation and collection, and areas for borrowing and utilization. For forest areas whose management is delegated to state-owned enterprises, forest protection is the responsibility of the manager of that enterprise. This forest protection shall comprise:
@@ -953,11 +953,11 @@ Article 1 (24) amends Article 71 (1) letter a to require all holders of business
 
 Article 1 (26) amends Article 75 (1) letter i to obligate holders of IUPHHK in HTI inside timber estate to provide an area as a space for planting in partnership with local communities, in accordance with the plan in RKT.
 
-Article 1 (32) amends Article 129 letter a and adds the letter d, hence stipulating that administrative sanction in the form of the suspension of administrative service will be imposed on holders of IUPHHK in HTI inside timber estate that violate Article 75 (1) letter i. Holders of IUPHHK in HTR inside timber estate will face such administrative sanction if they violate Article 71 (1) letter a. 
+Article 1 (32) amends Article 129 letter a and adds the letter d, hence stipulating that administrative sanction in the form of the suspension of administrative service will be imposed on holders of IUPHHK in HTI inside timber estate that violate Article 75 (1) letter i. Holders of IUPHHK in HTR inside timber estate will face such administrative sanction if they violate Article 71 (1) letter a.
 
 Article 1 (33) amends Article 130 to stipulate that administrative sanction in the form of suspension of activities will be imposed on holders of IUPHHK in HTR inside timber estate that violate Article 71 (1).
 
-Article 1 (36) amends Article 133 to stipulate that administrative sanction in the form of a revocation of license will be imposed upon the violation of the provision of Article 71 (1) letter a on: 
+Article 1 (36) amends Article 133 to stipulate that administrative sanction in the form of a revocation of license will be imposed upon the violation of the provision of Article 71 (1) letter a on:
 
 holders of IUPK or IUPJL;
 holders of IUPHHK inside natural forest in the production forest;
@@ -979,7 +979,7 @@ No requirements for public disclosure identified.
 
 SUMMARY
 
-The law aims at securing sustainable forestry management for the improvement of people’s welfare, specifying what organizations will carry out forestry utilization and management, and the planning thereof. The exploitation of conservation forests, protected forests and production forests must be preceded by forest management plans, both in the short and long terms, and the law provides for the issuance of licenses for these forest types, as well as the obligations of the licensees. It also specifies the sanctions to be imposed upon permit-holders that violate specific provisions of the law. 
+The law aims at securing sustainable forestry management for the improvement of people’s welfare, specifying what organizations will carry out forestry utilization and management, and the planning thereof. The exploitation of conservation forests, protected forests and production forests must be preceded by forest management plans, both in the short and long terms, and the law provides for the issuance of licenses for these forest types, as well as the obligations of the licensees. It also specifies the sanctions to be imposed upon permit-holders that violate specific provisions of the law.
 
 CONSULTATION
 
@@ -1019,49 +1019,49 @@ Article 26 requires that only communities around the forests execute the collect
 
 Article 32 states that the utilization of areas in production forests may not bring any negative impact to the socio-economic condition of the community.
 
-Article 45 grants the collection of timber forest products inside natural forest in production forests to meet the need for building public facilities for local community groups and to grant the needs of Indonesians, so long as the collected timber product is not traded and does not exceed 50 and 20 cubic meters, respectively. These quotas are adjusted according to the need for public facilities and housing. 
+Article 45 grants the collection of timber forest products inside natural forest in production forests to meet the need for building public facilities for local community groups and to grant the needs of Indonesians, so long as the collected timber product is not traded and does not exceed 50 and 20 cubic meters, respectively. These quotas are adjusted according to the need for public facilities and housing.
 
-Article 46 states that the collection of non-timber forest products inside natural forest in production forests is aimed at fulfilling the needs of local communities, and the products may be traded. 
+Article 46 states that the collection of non-timber forest products inside natural forest in production forests is aimed at fulfilling the needs of local communities, and the products may be traded.
 
-Article 47 states that the collection of non-timber forest products inside timber estates in production forests is aimed at fulfilling the needs of local communities, and the products may be traded. 
+Article 47 states that the collection of non-timber forest products inside timber estates in production forests is aimed at fulfilling the needs of local communities, and the products may be traded.
 
 Article 50 states that the validity period of the IUPJL in production forests, in the case of the utilization of water current service, is limited to 25 years, with the maximum value of 20 percent of the available debit of surface water, provided this does not reduce the public’s right to access the water.
 
 Article 71 [letter a] requires all holders of business licenses to exploit forest areas to formulate action plans for the whole working area, in accordance with the validity period of the license and on the basis of the forest management plan prepared by the KPH. This action plan will contain, among other things, a description of the socio-economic condition of communities in the forest areas.
 
-Article 72 requires holders of IUPJL, IUPHHK and IUPHHBK to cooperate with local community cooperatives, no later than one year after receiving the license. This cooperation can be in the form of participating interest or business cooperation in the segment of forest product exploitation. 
+Article 72 requires holders of IUPJL, IUPHHK and IUPHHBK to cooperate with local community cooperatives, no later than one year after receiving the license. This cooperation can be in the form of participating interest or business cooperation in the segment of forest product exploitation.
 
 Article 73 requires holders of IUPHHK to formulate long-term business plans for the exploitation of timber forest products (RKUPHHK) [paragraph 1 letter a] as well as an annual action plan (RKT) [paragraph 1 letter b] no later than one year after the license has been issued. While not explicitly stated, it is likely that these plans are to include the socio-economic condition of the community as meant in Article 71. This requirement also applied to holders of IUPHHK of ecosystem restoration inside natural forests in production forests. [paragraph 5 letters a-c]
 
 Article 75 applies the same requirements as Article 73 on holders of IUPHHK in HTI inside timber estates [paragraph 1 letters a-b]. Furthermore, these licensees are obliged to provide a maximum of 5 percent of the total area as live planting space for partnership with local communities. [paragraph 1 letter i]
 
-Article 76 requires holders of IUPHHBK to formulate long-term business plans for the exploitation of non-timber forest products (RKUPHHBK) [letter a] as well as an annual action plan (RKT) [letter b] no later than one year after the license has been issued. 
+Article 76 requires holders of IUPHHBK to formulate long-term business plans for the exploitation of non-timber forest products (RKUPHHBK) [letter a] as well as an annual action plan (RKT) [letter b] no later than one year after the license has been issued.
 
-Articles 79 and 80 stipulate that part of the forest-exploitation contribution and fund shall be composed of Provision of Forest Resources (PSDH), imposed on holders of the licenses IUPK, IUPJL, IUPHHK and/or IUPHHBK inside natural forest and/or timber estate, or IPHHK and/or IPHHBK, as well as a Reforestation Fund (DR) imposed on holders of IUPHHK inside natural forests. However, the collection of PSDH and DR does not apply to forest products from traditional forests that are utilized by traditional communities and not traded; timber forest products directly used by local communities and not traded; or timber forest products from concession or communal forests. 
+Articles 79 and 80 stipulate that part of the forest-exploitation contribution and fund shall be composed of Provision of Forest Resources (PSDH), imposed on holders of the licenses IUPK, IUPJL, IUPHHK and/or IUPHHBK inside natural forest and/or timber estate, or IPHHK and/or IPHHBK, as well as a Reforestation Fund (DR) imposed on holders of IUPHHK inside natural forests. However, the collection of PSDH and DR does not apply to forest products from traditional forests that are utilized by traditional communities and not traded; timber forest products directly used by local communities and not traded; or timber forest products from concession or communal forests.
 
-Articles 83 and 84 require the empowerment of the local community through the development of its capacity and provision of access in enhancing its welfare. This requirement is the obligation of the government, provincial governments and regional/municipal governments, and the implementation thereof is the responsibility of the heads of KPH. The local community empowerment can be realized through rural forest, social forest or partnership. 
+Articles 83 and 84 require the empowerment of the local community through the development of its capacity and provision of access in enhancing its welfare. This requirement is the obligation of the government, provincial governments and regional/municipal governments, and the implementation thereof is the responsibility of the heads of KPH. The local community empowerment can be realized through rural forest, social forest or partnership.
 
 Articles 87 and 88 stipulate that local community empowerment through rural forest will be executed by granting exploitation rights to rural institutions in protected and production forests. The government, provincial governments or regional/municipal governments must also, according to their scope, facilitate institutional and business development as well as education, training and access to the market.
 
-Articles 92 to 97 stipulate that local community empowerment through social forest, in conservation, protected or production forests, is executed through the issuance of a business license, in the form of IUPHHK to groups of communities in the form of cooperatives, to exploit social forests. The Minister, based on requests from local communities and recommendations from regents/mayors, stipulates the working area, and the government, provincial governments or regional/municipal governments must also, according to their scope, facilitate institutional and business development as well as education, training and access to the market. Such a license cannot be transferred or be used as collateral. 
+Articles 92 to 97 stipulate that local community empowerment through social forest, in conservation, protected or production forests, is executed through the issuance of a business license, in the form of IUPHHK to groups of communities in the form of cooperatives, to exploit social forests. The Minister, based on requests from local communities and recommendations from regents/mayors, stipulates the working area, and the government, provincial governments or regional/municipal governments must also, according to their scope, facilitate institutional and business development as well as education, training and access to the market. Such a license cannot be transferred or be used as collateral.
 
 Article 99 stipulates that community empowerment through partnerships is possible where the forest area has been provided either with a license for forest exploitation or a forest exploitation right for state-owned enterprises in the forestry sector. Partnership is defined as the cooperation between local communities and forest exploitation licensees on the basis of an agreement, and the minister, governors or regents/mayors are obligated to facilitate the establishment of such partnerships, including helping to settle conflicts. This partnership does not change the authority of the license or rights holders to exploit forests.
 
 Article 104 states the creation of employment opportunities as one of the goals of forest-product primary industry, defined as downstream forest-product industries as meant in Law No. 41/1999 on Forestry, including both timber and non-timber industries.
 
-Article 107 states that industrial business licenses and licenses to expand timber and non-timber forest product primary industry can only be granted to Indonesian individuals, cooperatives, private companies (BUMS Indonesia), state-owned companies (BUMN) and regional administration-owned companies (BUMD). Indonesian individuals and cooperatives are furthermore the only entities eligible for business licenses in the timber sewing industry (with a production capacity of up to 2,000 cubic meters per year) as well as industrial registry number for non-timber forest-product primary industry of timber estate. Any non-Indonesian business venture into this industry could thus require consultation with entities permitted to hold such licenses. 
+Article 107 states that industrial business licenses and licenses to expand timber and non-timber forest product primary industry can only be granted to Indonesian individuals, cooperatives, private companies (BUMS Indonesia), state-owned companies (BUMN) and regional administration-owned companies (BUMD). Indonesian individuals and cooperatives are furthermore the only entities eligible for business licenses in the timber sewing industry (with a production capacity of up to 2,000 cubic meters per year) as well as industrial registry number for non-timber forest-product primary industry of timber estate. Any non-Indonesian business venture into this industry could thus require consultation with entities permitted to hold such licenses.
 
 Article 109 states that holders of business license for timber forest product primary industry can cooperate with holders of concession forests to meet their needs to raw material. This means that industrial license holders can collect timber from land or plantations belonging to communities.
 
-Article 129 states that administrative sanction in the form of suspension of administrative service will be imposed upon holders of IUPHHK in HTI or HTR inside timber estate in production forest if they violate the provisions of Article 75 paragraph 1 letters a or i. 
+Article 129 states that administrative sanction in the form of suspension of administrative service will be imposed upon holders of IUPHHK in HTI or HTR inside timber estate in production forest if they violate the provisions of Article 75 paragraph 1 letters a or i.
 
-Article 130 states that administrative sanction in the form of suspension of activity in the field will be imposed on holders of IUPK or IUPJL or forest and on holders of IUPHHK inside natural forest in production forest if they violate the provision of Article 71 letter a. 
+Article 130 states that administrative sanction in the form of suspension of activity in the field will be imposed on holders of IUPK or IUPJL or forest and on holders of IUPHHK inside natural forest in production forest if they violate the provision of Article 71 letter a.
 
-Article 131 defines the administrative sanctions of Articles 129 and 130 as being imposed for one year. The sanction can be revoked at any time if the licensee fulfills the obligations within that year, and if the licensee fails to do so within the year, the license will be revoked after receiving three written warnings, in a period of 30 days for each warning. 
+Article 131 defines the administrative sanctions of Articles 129 and 130 as being imposed for one year. The sanction can be revoked at any time if the licensee fulfills the obligations within that year, and if the licensee fails to do so within the year, the license will be revoked after receiving three written warnings, in a period of 30 days for each warning.
 
-Article 132 states that the administrative sanction in the form of a fine up to 10 times the basic price of wood will be imposed on holders of IUPHHK in HTI or HTR inside timber estate in production forest if they violate the provision of Article 75 paragraph 1 letter c. 
+Article 132 states that the administrative sanction in the form of a fine up to 10 times the basic price of wood will be imposed on holders of IUPHHK in HTI or HTR inside timber estate in production forest if they violate the provision of Article 75 paragraph 1 letter c.
 
-Article 133 states that the administrative sanction in the form of revocation of license will be imposed on: 
+Article 133 states that the administrative sanction in the form of revocation of license will be imposed on:
 holders of IUPHHK inside natural forest in production forest if they violate the provisions of Article 73 paragraph 1 letter a or b;
 holders of IUPHHK of ecosystem restoration inside natural forest in production forest if they violate the provisions of Article 73 paragraph 5 letters a or b;
 holders of IUPHHK in HTI inside timber estate in production forest if they violate the provisions of Article 75 paragraph 1 letter a or b; and
@@ -1092,9 +1092,9 @@ The law aims at preserving the main functions of the environment in utilizing na
 
 CONSULTATION
 
-The requirements for public consultation all emerge from the stated principle of public participation in the analysis of environmental impacts. Hence, the law’s requirements for public consultation concern the definition of this participation and the form in which it will be carried out. 
+The requirements for public consultation all emerge from the stated principle of public participation in the analysis of environmental impacts. Hence, the law’s requirements for public consultation concern the definition of this participation and the form in which it will be carried out.
 
-Article 3 states that what is defined as a major and significant impact on the environment includes activities that could affect artificial, social and cultural environments. Pending a decision of the Minister, these activities could be required to perform an EIA. 
+Article 3 states that what is defined as a major and significant impact on the environment includes activities that could affect artificial, social and cultural environments. Pending a decision of the Minister, these activities could be required to perform an EIA.
 
 Article 5 lists the following criteria for a particular business and/or activity plan’s major and significant impacts:
 
@@ -1115,23 +1115,23 @@ Article 31 stipulates that EIA for businesses/activities undertaken by the econo
 
 Article 33 states that community members are to be allowed to submit their suggestions, opinions and responses regarding the implementation of the business/activity within three days of the public announcement of the business and/or activity plan. These will be submitted in writing to the responsible government agency, and all suggestions and opinions must be reflected in the framework of reference and studied in the analysis of environmental impacts.
 
-Article 34 requires the participation and involvement of concerned community members in the process of drawing up and evaluating the framework of reference, of the analysis of environmental impacts, and of the plans for environmental management and monitoring. The head of a government agency assigned to control environmental impacts will stipulate the form and procedure of this involvement. 
+Article 34 requires the participation and involvement of concerned community members in the process of drawing up and evaluating the framework of reference, of the analysis of environmental impacts, and of the plans for environmental management and monitoring. The head of a government agency assigned to control environmental impacts will stipulate the form and procedure of this involvement.
 
-Article 37 stipulates that the costs associated with the drawing up and assessment of the framework of reference, the EIA and the plan for environmental monitoring will be borne by the initiating party. As these activities require the participation of the community, this implies that any costs associated with this consultation will be borne by the initiator. 
- 
+Article 37 stipulates that the costs associated with the drawing up and assessment of the framework of reference, the EIA and the plan for environmental monitoring will be borne by the initiating party. As these activities require the participation of the community, this implies that any costs associated with this consultation will be borne by the initiator.
+
 
 DISCLOSURE
 
 While the law contains only two requirements for public disclosure that are intimately connected to the requirements for public consultation, they are quite important for compliance with the law. The principle of both, as well as of the law as a whole, is that the public shall be informed of any and all impacts that might affect it.
 
-Article 33 requires all businesses/activities to be announced to the community before the EIA is conducted. The announcement will be made by the responsible government agency in the form of, for example, print and/or electronic media, and by the initiator in the form of, for example, a notice board at the place of operations. The announcement will at least contain the expected results of the business/activity, the types and volumes of waste expected and the method by which it will be managed, and the likely environmental impacts. 
+Article 33 requires all businesses/activities to be announced to the community before the EIA is conducted. The announcement will be made by the responsible government agency in the form of, for example, print and/or electronic media, and by the initiator in the form of, for example, a notice board at the place of operations. The announcement will at least contain the expected results of the business/activity, the types and volumes of waste expected and the method by which it will be managed, and the likely environmental impacts.
 
 Article 35 requires all documents of environmental impact analysis, community suggestions, opinions and responses, conclusions from the commissions of assessment, and the decisions of environmental worthiness of the proposed business and/or activities to be transparent and available to the public. These documents must also be handed over by the responsible government agencies to a documentation and/or archive institution.
 
 
 
 
-### Working Procedure Manual (PTK) No.027/PTK/XII/2007 
+### Working Procedure Manual (PTK) No.027/PTK/XII/2007
 
 
 
@@ -1142,11 +1142,11 @@ Article 35 requires all documents of environmental impact analysis, community su
 
 SUMMARY
 
-This regulation stipulates policies on land use management and the implementation thereof. The requirements are in relation to the regional spatial layout plan, and concern the ownership of land and its role in the use and utilization of land. 
+This regulation stipulates policies on land use management and the implementation thereof. The requirements are in relation to the regional spatial layout plan, and concern the ownership of land and its role in the use and utilization of land.
 
 CONSULTATION
 
-The requirements for public consultation mainly concern cases where land is communally owned, as well as the requirement for public participation in the analysis of environmental impacts, specified in other laws. 
+The requirements for public consultation mainly concern cases where land is communally owned, as well as the requirement for public participation in the analysis of environmental impacts, specified in other laws.
 
 Article 1 contains the following definitions relevant to public consultation:
 
@@ -1172,7 +1172,7 @@ Article 15 states that the use and utilization of land on islets and plots of la
 
 Article 17 states that the utilization of land may be increased so long as it does not alter the use of the land and is in accordance with land titles and public interests.
 
-Article 19 states that usage of space above and beneath the land not in connection to the control of land may be allowed if it does not disturb the use and utilization of the land, provided that approval of the holder of the land title is secured and it is carried out in accordance with the prevailing laws. 
+Article 19 states that usage of space above and beneath the land not in connection to the control of land may be allowed if it does not disturb the use and utilization of the land, provided that approval of the holder of the land title is secured and it is carried out in accordance with the prevailing laws.
 
 Article 23 states that the adjustment of the control, use and utilization of land to the regional spatial layout plan will take the following into account:
 
@@ -1214,7 +1214,7 @@ Finally, the adjustment of the control, use and utilization of land to the regio
 
 Rearrangement, which includes land consolidation, relocation, swap and city rejuvenation.
 Partnership, meaning the effort to achieve common goals with the rights and obligations jointly stipulated by the partnering entities.
-Delivery and release of land titles to the State or other parties through compensation in accordance with the prevailing laws. 
+Delivery and release of land titles to the State or other parties through compensation in accordance with the prevailing laws.
 
 
 
@@ -1263,7 +1263,7 @@ Appendix 1 B states the purpose of the Technical Guidelines as:
 (2) To understand the relationship between bio-geophysical and social aspects Environmental Impact Analyses.
 (3) To assist in making the process of preparing social aspects in the EIA easier.
 
-Appendix 1 C states that the social component consists of (1) Demography; (2) Economy; and (3) Cultural aspects. The assessment of these will be performed in the preparation of the Terms of Reference of the EIA, the Environmental Management Plan and the Environmental Monitoring Plan. 
+Appendix 1 C states that the social component consists of (1) Demography; (2) Economy; and (3) Cultural aspects. The assessment of these will be performed in the preparation of the Terms of Reference of the EIA, the Environmental Management Plan and the Environmental Monitoring Plan.
 
 Appendix 2.1 states that the process of identifying potential social impacts in the components Demography, Economy and Culture may employ methods such as (a) a test list; (b) a simple interaction matrix; (c) field observations; (d) content analyses; and (e) group interaction. This identification should preferably be supported by analogous methods.
 
@@ -1282,7 +1282,7 @@ Appendix 2.3.2 requires the identification of what social structures (defined in
 
 Appendix 2.3.3 states that the definition of social borders must take into account the public community identification results inside the project and ecological borders, as well as identification results outside these borders of communities potentially affected by the effort/activities.
 
-Appendix 3 states that the preparation of the social aspect of the Environmental Impact Analyses must include descriptions of: 
+Appendix 3 states that the preparation of the social aspect of the Environmental Impact Analyses must include descriptions of:
 
 a) the social data collection and method of analysis, as well as the impact forecasting and evaluation method;
 b) planned efforts or activities;
@@ -1290,7 +1290,7 @@ c) the environmental state;
 d) significant impact forecasts; and
 e) evaluation of significant impacts.
 
-In preparing these descriptions, a certain level of public consultation will likely be necessary. 
+In preparing these descriptions, a certain level of public consultation will likely be necessary.
 
 Appendix 3.A requires the consideration of the following issues in the description of data collection and analyses method as well as forecasting and impact evaluation method:
 a) The scope of the study area will be as stipulated in the Terms of Reference (KA).
@@ -1326,7 +1326,7 @@ Appendix 4 states that in formulating the Environmental Management Plan (RKL) fo
 4) The forms of public participation in preventing, handling and controlling impacts can consist of forming an environmental communication forum to handle arising environmental issues, with members from the developing party, the local society affected by the impacts, local government officials, as well as related institutions. Existing social institutions of the society should be utilized in overcoming arising environmental issues.
 5) Compensation for the affected public, which is a form of environmental management, should consider mutual advantage.
 
-Appendix 5 states that in formulating the Environmental Monitoring Plan (RPL), and specifically in designing the monitoring of social aspects, the developing party should utilize information about the environmental quality obtained from the impacted society. The inclusion of such data should be accompanied by descriptions of the sample taking techniques applied, the number of samples taken and the location from where samples were taken. The environmental monitoring may also be performed by government institutions or the concerned public, provided there is an agreement with the developing party for such monitoring. 
+Appendix 5 states that in formulating the Environmental Monitoring Plan (RPL), and specifically in designing the monitoring of social aspects, the developing party should utilize information about the environmental quality obtained from the impacted society. The inclusion of such data should be accompanied by descriptions of the sample taking techniques applied, the number of samples taken and the location from where samples were taken. The environmental monitoring may also be performed by government institutions or the concerned public, provided there is an agreement with the developing party for such monitoring.
 
 
 
@@ -1400,9 +1400,9 @@ Consult the public on the development plan.
 
 Article 18 states that the preliminary data collection at the location of the development plan shall include the preliminary data gathering of the entitled parties and the objects of the acquired land, to be made within 30 days of the notification of the development plan. The data collected shall be used as data to hold the public consultation on the development plan.
 
-Article 19 states that the public consultation shall be held to reach an agreement on the location of the development plan with the entitled parties. The Agency in need of land shall explain the development plan and the method to calculate compensation used by the appraiser. The consultation will involve the entitled parties and the affected community and held at the location of the development plan or at another agreed-upon place. The involvement of entitled parties may be through representation by a power of attorney from the entitled parties. Agreements shall be stated in the form of minutes, after which the Agency shall file an application for confirmation of the location with the governor, and confirmation shall be given within 14 days of the application. 
+Article 19 states that the public consultation shall be held to reach an agreement on the location of the development plan with the entitled parties. The Agency in need of land shall explain the development plan and the method to calculate compensation used by the appraiser. The consultation will involve the entitled parties and the affected community and held at the location of the development plan or at another agreed-upon place. The involvement of entitled parties may be through representation by a power of attorney from the entitled parties. Agreements shall be stated in the form of minutes, after which the Agency shall file an application for confirmation of the location with the governor, and confirmation shall be given within 14 days of the application.
 
-Articles 20 and 21 state that the public consultations on a development plan shall be conducted within 60 working days. Should a party object to the planned location of development within this period (in writing including the reasons for the objection), a public consultation will be repeated by engagement with the objecting party within 30 working days. If there are still objections after the repeated public consultation, the Agency needing land shall report all such objections to the local governor. The governor shall then form a team to make a study of the documented objections presented by the entitled parties. 
+Articles 20 and 21 state that the public consultations on a development plan shall be conducted within 60 working days. Should a party object to the planned location of development within this period (in writing including the reasons for the objection), a public consultation will be repeated by engagement with the objecting party within 30 working days. If there are still objections after the repeated public consultation, the Agency needing land shall report all such objections to the local governor. The governor shall then form a team to make a study of the documented objections presented by the entitled parties.
 
 Article 55 states that in the implementation of land acquisition, the entitled parties shall have the right to (1) have knowledge of the implementations, and (2) to receive information about the land acquisition.
 
@@ -1416,9 +1416,9 @@ Article 57 states that the public may participate in the performance of Acquisit
 
 SUMMARY
 
-Law № 11, 2010, recognizes that sustainability of cultural national heritage is important for understanding history, science and culture, and is central to national identity. The Law covers discovery, ownership, protection, maintenance, utilization and control of national heritage, including cultural heritage artefacts, buildings, structures, sites, as well as land and underwater areas of heritage value. 
+Law № 11, 2010, recognizes that sustainability of cultural national heritage is important for understanding history, science and culture, and is central to national identity. The Law covers discovery, ownership, protection, maintenance, utilization and control of national heritage, including cultural heritage artefacts, buildings, structures, sites, as well as land and underwater areas of heritage value.
 
-Compared its 1992 processor, Law № 11, 2010, introduces slight modifications of the terminology and definitions associated with the notion of “cultural heritage” in line with changing international standards.  The concept of cultural heritage under the new law explicitly includes not only heritage objects and artefacts, but also buildings, structures and sites of heritage value—both as encountered on land and under water.  In addition to recognizing that both man-made objects and natural objects can have heritage value, Law No. 11, 2010, extends recognition to the heritage value of landscapes. Law No. 11, 2010, further extends the definitional scope of the concept of “valuable” cultural heritage to include those artefacts that of significance to Indonesian history, science, education, religion and/ or cultural practices. 
+Compared its 1992 processor, Law № 11, 2010, introduces slight modifications of the terminology and definitions associated with the notion of “cultural heritage” in line with changing international standards.  The concept of cultural heritage under the new law explicitly includes not only heritage objects and artefacts, but also buildings, structures and sites of heritage value—both as encountered on land and under water.  In addition to recognizing that both man-made objects and natural objects can have heritage value, Law No. 11, 2010, extends recognition to the heritage value of landscapes. Law No. 11, 2010, further extends the definitional scope of the concept of “valuable” cultural heritage to include those artefacts that of significance to Indonesian history, science, education, religion and/ or cultural practices.
 
 Protection of cultural heritage resources under Law No. 11, 2010, applies not only to data recovery, but rather interprets protection in a broader sense of contributing to the development and utilization of cultural heritage as a means of protecting and preserving heritage resources. Additionally, discovery of suspected objects of cultural heritage value must also be reported to a competent authority. Exploration for the purposes of discovering cultural artefacts remains contingent upon government permission and must taking into account the rights of ownership and/ control of any resources discovered. Preservation efforts must involve feasibility studies that give consideration to avoiding damage of sensitive areas and must be supported by documentation.  Protection may be accomplished through proper zoning. Monitoring of cultural heritage preservation plans is understood as critical.
 
@@ -1434,12 +1434,12 @@ Criminal provisions can be imposed on any of the following actions:
 •	Stealing cultural heritage
 •	Moving / relocating cultural heritage resources without special permission separating cultural heritage resources from their original contexts
 •	Taking cultural heritage out of its country of origin without a license
-•	Altering the functioning of a heritage site or landscape 
-•	Illicit reproduction of cultural heritage artefacts 
+•	Altering the functioning of a heritage site or landscape
+•	Illicit reproduction of cultural heritage artefacts
 
 Criminal acts committed by a legal entity, including incorporated and/ or business entities, shall be prosecuted, including by prosecuting the party who gave the order to commit criminal acts.
 
-Specific legislations concerning the implementation of Law No. 11, 2010, have not yet been issued, and all past legislations concerning implementation of Law No. 5 of 1992 (provided in Section 1.1.2.) will remain in effect as long as it does not prescribe or condone actions contrary to the provisions of Law No. 11, 2010. 
+Specific legislations concerning the implementation of Law No. 11, 2010, have not yet been issued, and all past legislations concerning implementation of Law No. 5 of 1992 (provided in Section 1.1.2.) will remain in effect as long as it does not prescribe or condone actions contrary to the provisions of Law No. 11, 2010.
 
 CONSULTATION
 
@@ -1453,7 +1453,7 @@ Archipelagic, meaning that every attempt for the Conservation of Cultural Preser
 Justice, meaning the representation of justice and equity in a proportional manner for all the people of Indonesia.
 Orderliness and legal certainty, meaning that every management of Conservation of Cultural Preserve must be able to maintain public order through legal assurance.
 Expediency, meaning the utilization of the Conservation of Cultural Preserve for people’s prosperity in terms of religion, education, science, technology, culture and tourism.
-Sustainability 
+Sustainability
 
 DISCLOSURE
 
@@ -1469,7 +1469,7 @@ In Law (UU) №. 32, Article 22 stipulates that businesses or activities with si
 
 CONSULTATION
 
-The law strengthens public’s participation in and access to information about environmental protection and managements, as well as access to justice. It also strengthens the rights of communities in environmental protection and management. 
+The law strengthens public’s participation in and access to information about environmental protection and managements, as well as access to justice. It also strengthens the rights of communities in environmental protection and management.
 
 Article 1 makes the following definitions relevant to public consultation:
 
@@ -1478,10 +1478,10 @@ Environmental Protection and Management Plan (RPPLH) is written planning, compri
 Conservation of Environmental Functions is a series of efforts to preserve the continuation of the support and carrying capacities of the environment.
 Support Capacity of the Environment is the capability of the environment to support the livelihoods of humans and other creatures, and the equilibrium between both.
 Carrying Capacity of the Environment is the capability of the environment to absorb substances, energies and/or other components inserted therein.
-Strategic Environmental Assessment (KLHS) is a series of systematic, comprehensive and participatory analyses to ensure that the concerned development implements and is based on sustainability. 
+Strategic Environmental Assessment (KLHS) is a series of systematic, comprehensive and participatory analyses to ensure that the concerned development implements and is based on sustainability.
 An Ecoregion comprises geographic areas sharing characteristics of climate, land, water, original flora and fauna as well as pattern of human interaction with the nature.
 Local Wisdom is a set of noble values effective in human life aimed to protect and manage the environment.
-Traditional Community is a group communities living traditionally in a specific geographic area due to ties in origin with ancestors, relationship with the environment and a system in values determining its economic, political, social and legal structures. 
+Traditional Community is a group communities living traditionally in a specific geographic area due to ties in origin with ancestors, relationship with the environment and a system in values determining its economic, political, social and legal structures.
 
 Article 2 names the following principles relevant to public consultation as forming the basis of the law:
 
@@ -1489,10 +1489,10 @@ State responsibility in assuring that natural resources are utilized to bring th
 Benefit of the whole executed development programs and/or activities are geared to enhance the people’s welfare in harmony with the environment.
 Ecoregion, meaning that environmental protection and management must observe the characteristics of local natural resources, ecosystem, socio-culture and wisdom.
 Participation, meaning that every community member is to be motivated to actively participate in the decision-making and implementation of environmental protection and management, directly and indirectly.
-Local wisdom, meaning that noble values in the social life of communities must be observed in environmental protection and management. 
+Local wisdom, meaning that noble values in the social life of communities must be observed in environmental protection and management.
 Good governance, meaning that environmental protection and management are inspired by the principles of participation, transparency, accountability, efficiency and justice.
 
-Article 7 states that the environmental inventorying shall be the basis for the stipulation of an ecoregion, which will be done by the Minister after coordinating with related institutions. The stipulation of the ecoregion shall take into account, among other things, the socio-culture, economy and community institutions. 
+Article 7 states that the environmental inventorying shall be the basis for the stipulation of an ecoregion, which will be done by the Minister after coordinating with related institutions. The stipulation of the ecoregion shall take into account, among other things, the socio-culture, economy and community institutions.
 
 Article 9 states that the RPPLH shall consist of National, Provincial and Regental/Municipal RPPLH.
 National RPPLH shall be based on national inventorying.
@@ -1505,7 +1505,7 @@ Article 12 states that the utilization of natural resources shall be based on th
 
 Article 18 requires the involvement of communities and stakeholders in the execution of KLHS. The involvement of communities shall be through dialogue, discussion and public consultation.
 
-Articles 22 and 23 require every business and/or activity having substantial impact on the environment to have an AMDAL. One of the criteria to form the basis of the substantial impact is the size of the population likely to be affected by the business and/or activity plan. Among the criteria for a business and/or activity having substantial impacts is a process and activity potentially influencing the natural, artificial and socio-cultural environment. 
+Articles 22 and 23 require every business and/or activity having substantial impact on the environment to have an AMDAL. One of the criteria to form the basis of the substantial impact is the size of the population likely to be affected by the business and/or activity plan. Among the criteria for a business and/or activity having substantial impacts is a process and activity potentially influencing the natural, artificial and socio-cultural environment.
 
 Article 25 requires the AMDAL to contain:
 
@@ -1516,7 +1516,7 @@ An estimate of the extent and important characteristics of the impacts arising f
 A holistic evaluation of the impact to determine the environmental feasibility of the business and/or activity plan.
 An environmental management and monitoring plan.
 
-Article 26 requires the involvement of communities in formulation of the AMDAL, which will be carried out by the initiator. The communities include affected communities, environmental activists and/or other parties affected by decisions in the AMDAL process. This involvement shall be based on the principle of complete and transparent provision of information and notification prior to the execution of the activity, and the community shall be allowed to raise objections to the AMDAL. 
+Article 26 requires the involvement of communities in formulation of the AMDAL, which will be carried out by the initiator. The communities include affected communities, environmental activists and/or other parties affected by decisions in the AMDAL process. This involvement shall be based on the principle of complete and transparent provision of information and notification prior to the execution of the activity, and the community shall be allowed to raise objections to the AMDAL.
 
 Article 30 requires the inclusion of representatives from the affected communities on the AMDAL Appraisal Commission.
 
@@ -1532,7 +1532,7 @@ Risk communications in the form of an interactive process of exchange of informa
 
 Article 62 states that the federal and regional governments shall develop an environmental information system to support the implementation and development of environmental protection and management policies. This system shall contain, among other factors, the distribution of the population and local wisdom, and shall be published to the communities.
 
-Article 65 states that all individuals shall be entitled to environmental education, access to information and participation as well as access to justice. All individuals also have the right to submit recommendations and/or objections to businesses and/or activities expected to impact the environment and to report alleged consequences of environmental pollution and/or damage, as well as to participate in the environmental protection and management in accordance with legislation. 
+Article 65 states that all individuals shall be entitled to environmental education, access to information and participation as well as access to justice. All individuals also have the right to submit recommendations and/or objections to businesses and/or activities expected to impact the environment and to report alleged consequences of environmental pollution and/or damage, as well as to participate in the environmental protection and management in accordance with legislation.
 
 Article 69 prohibits everyone from opening lands by means of burning, and to take local wisdom into account in this provision. This local wisdom specifically means the burning of land at a maximum size of two hectares per head of family to be replanted with plants belonging to the local variety, and surrounded by burning separators to prevent the fire from spreading.
 
@@ -1548,7 +1548,7 @@ Article 84 states that all environmental disputes may be settled either in or ou
 
 Article 86 allows for communities to establish independent and impartial institutes providing service for the settlement of environmental disputes, which may be facilitated by the federal and regional governments.
 
-Article 91 states that communities shall have the right to file class actions for their own and/or the public interest in the event that they suffer losses due to environmental pollution and/or damage. 
+Article 91 states that communities shall have the right to file class actions for their own and/or the public interest in the event that they suffer losses due to environmental pollution and/or damage.
 
 DISCLOSURE
 
@@ -1558,7 +1558,7 @@ Article 2 names the following principles relevant to public disclosure as formin
 
 Good governance, meaning that environmental protection and management are inspired by the principles of participation, transparency, accountability, efficiency and justice.
 
-Article 26 requires the involvement of communities in formulation of the AMDAL, which will be carried out by the initiator. The communities include affected communities, environmental activists and/or other parties affected by decisions in the AMDAL process. This involvement shall be based on the principle of complete and transparent provision of information and notification prior to the execution of the activity, and the community shall be allowed to raise objections to the AMDAL. 
+Article 26 requires the involvement of communities in formulation of the AMDAL, which will be carried out by the initiator. The communities include affected communities, environmental activists and/or other parties affected by decisions in the AMDAL process. This involvement shall be based on the principle of complete and transparent provision of information and notification prior to the execution of the activity, and the community shall be allowed to raise objections to the AMDAL.
 
 Article 39 requires the Ministers, governors or regents/mayors to announce publicly every application for and decision on environmental permits. These announcements will enable the participation of communities.
 
@@ -1570,7 +1570,7 @@ Risk communications in the form of an interactive process of exchange of informa
 
 Article 53 requires the mitigation of all environmental pollution and/or damage, among other things by providing information and warnings about environmental pollution and/or damage to the communities.
 
-Article 59 requires the decision on licenses for the management of hazardous ant toxic (B3) waste to be publicly announced. 
+Article 59 requires the decision on licenses for the management of hazardous ant toxic (B3) waste to be publicly announced.
 
 Article 62 states that the federal and regional governments shall develop an environmental information system to support the implementation and development of environmental protection and management policies. This system shall contain, among other factors, the distribution of the population and local wisdom, and shall be published to the communities.
 
@@ -1617,7 +1617,7 @@ The announcement on the issuance of stocks on credit.
 Any substitution of an accountant serving as the company's auditor.
 Any changes of the company's fiscal year.
 Government-assignment activities and/or public service or subsidized service obligations.
-The mechanism for the procurement of goods and services. 
+The mechanism for the procurement of goods and services.
 Other information determined by the law pertaining to a State/Regional Corporation.
 
 Article 16 requires non-governmental organizations to supply the following information:
@@ -1636,7 +1636,7 @@ Article 22 states that all public information applicants may request public info
 
 The required information for which he/she is authorized or otherwise.
 If the Public Agency does not have authority to the requested information, it is obliged to notify the Public Agency that has that authority.
-The acceptance or rejection of the request, stating the reason for the decision. 
+The acceptance or rejection of the request, stating the reason for the decision.
 In the event that the request is accepted entirely or partly, it is stated in the material of the information to be supplied;
 In the event that a document contains classified information, that information may be blackened, stating the reason therefore and the material thereof.
 The instrument to submit and the format of the information to be supplied.
@@ -1655,12 +1655,12 @@ The law requires large enterprises to cooperate with certain enterprises and coo
 
 Article 13 requires large enterprises to work together with cooperatives as well as micro, small and medium-sized enterprises in business fields reserved for those by the government.
 
-Article 15 requires every investor to: 
+Article 15 requires every investor to:
 
-Implement corporate social responsibility, in the sense of creating and maintaining a harmonious and balanced relationship with the environment, values, norms and culture of the local community. 
+Implement corporate social responsibility, in the sense of creating and maintaining a harmonious and balanced relationship with the environment, values, norms and culture of the local community.
 Respect the cultural tradition of communities around the location of investment business activity.
 
-Article 28 names as some of the duties and functions of the Investment Coordinating Board: to develop the investment business field by, among others, promoting partnerships and competitiveness. 
+Article 28 names as some of the duties and functions of the Investment Coordinating Board: to develop the investment business field by, among others, promoting partnerships and competitiveness.
 
 Article 34 states that any corporations, non-corporations or individual businesses that fail to fulfill their obligations pursuant to Article 15 may receive administrative sanction, in the form of:
 
@@ -1673,11 +1673,11 @@ DISCLOSURE
 
 The requirements for public disclosure are mainly conceptual, as in the openness principle underlying the law. Other than that, the investor is entitled to open information about its business field.
 
-Article 3 lists the openness principle, meaning that the community shall have the right to obtain correct and honest information concerning investment activities, as one of its underlying principles. 
+Article 3 lists the openness principle, meaning that the community shall have the right to obtain correct and honest information concerning investment activities, as one of its underlying principles.
 
 Article 14 entitles every investor to legal certainty and protection of its rights; open information about its business field; service; and various forms of facility in accordance with the law.
 
-Article 26 stipulates that One-Stop Integrated Services are meant to assist investors in obtaining information about investments, provided by an authorized institution or agency in the investment sector delegated by an entity authorized to make licensing or non-licensing at the central, provincial or regency/city levels. 
+Article 26 stipulates that One-Stop Integrated Services are meant to assist investors in obtaining information about investments, provided by an authorized institution or agency in the investment sector delegated by an entity authorized to make licensing or non-licensing at the central, provincial or regency/city levels.
 
 
 
@@ -1691,7 +1691,7 @@ CONSULTATION
 
 These laws include the rights, obligations, and the role of society in the implementation of spatial planning to ensure the involvement of communities, including indigenous peoples in every process of the implementation of spatial planning;
 
-In Law (UU) №. 26, regarding Spatial Planning, Article 5 Section 2 states that cultural reserves fall within the category of “protective zones”. Article 33, section 3 specifies that that protection of culture is a matter of public interest. This Law also designates regulatory authority for the above issues to the Department of Home Affairs. 
+In Law (UU) №. 26, regarding Spatial Planning, Article 5 Section 2 states that cultural reserves fall within the category of “protective zones”. Article 33, section 3 specifies that that protection of culture is a matter of public interest. This Law also designates regulatory authority for the above issues to the Department of Home Affairs.
 
 
 DISCLOSURE
@@ -1744,7 +1744,7 @@ Article 126 states that mergers, consolidations, acquisitions and demergers of c
 
 DISCLOSURE
 
-The main requirement for public disclosure, to which some of the other requirements are connected, is information required to be given to the Register of Companies, which is managed by the Minister and open to the public according to Article 29. 
+The main requirement for public disclosure, to which some of the other requirements are connected, is information required to be given to the Register of Companies, which is managed by the Minister and open to the public according to Article 29.
 
 Article 21 states that the following amendments to a company’s articles of association must have the approval of the Minister:
 
@@ -1798,13 +1798,13 @@ The company is a state-owned liability company.
 The company has assets and/or a business turnover with a value exceeding Rp. 50,000,000,000.
 Audit by a public accountant is obligatory under prevailing legislation.
 
-The Board of Directors will deliver the report on the public accountant’s audit to the General Meeting of Shareholders in writing. For any company fulfilling the first three of the above criteria, the balance sheet and profit and loss statement from the financial report shall be published in at least one national newspaper within 7 days of being ratified by the General Meeting of Shareholders. 
+The Board of Directors will deliver the report on the public accountant’s audit to the General Meeting of Shareholders in writing. For any company fulfilling the first three of the above criteria, the balance sheet and profit and loss statement from the financial report shall be published in at least one national newspaper within 7 days of being ratified by the General Meeting of Shareholders.
 
 Article 82 states that invitations to the annual General Meeting of Shareholders shall be issued no later that 14 days before the date of the meeting, and may be issued by a registered letter and/or by an advertisement in national newspapers. These invitations must state the date, time, place and agenda items for the meeting, as well as a notice that the materials to be discussed will be available at the company’s offices.
 
 Article 111 requires the Board of Directors to report any appointment, replacement or dismissal of members of the Board of Directors to the Minister in charge of the Register of Companies within a period of 30 days of the resolution by the General Meeting of Shareholders (see Article 29).
 
-Article 112 requires the Board of Directors to announce the annulment of an appointment of a member of the Board of Commissioners in a national newspaper and to the Minister in charge of the Register of Companies within 7 days of it becoming known (see Article 29). 
+Article 112 requires the Board of Directors to announce the annulment of an appointment of a member of the Board of Commissioners in a national newspaper and to the Minister in charge of the Register of Companies within 7 days of it becoming known (see Article 29).
 
 Article 127 requires the Boards of Directors of companies in mergers, consolidations, acquisitions or demergers to publish an abstract of the draft in at least one national newspaper no later than 30 days before the invitations to the General Meeting of Shareholders. The published information must also contain a notice that interested parties may obtain the full draft of the merger, consolidation, acquisition or demerger at the company’s office as of the date of the publication.
 
@@ -1845,7 +1845,7 @@ The conservation of biodiversity in the water source.
 
 This development of water resources shall be carried out by means of public consultation in the survey, investigation and planning phases of the utilization. Any potential impacts that may arise due to development shall be comprehensively handled by involving the various relevant parties in the planning phase.
 
-Article 47 requires the Government to supervise the quality of service for state/regionally-owned enterprises managing water resources and for other enterprises and individuals holding permits for water resource exploitation. The Government and/or regional government shall also be obliged to facilitate complaints from the community against these enterprises and individuals. Enterprises and individuals are required to participate in the conservation of water resources and to improve the welfare of the surrounding community, and to encourage the participation of small and medium-sized enterprises in the utilization of water resources. 
+Article 47 requires the Government to supervise the quality of service for state/regionally-owned enterprises managing water resources and for other enterprises and individuals holding permits for water resource exploitation. The Government and/or regional government shall also be obliged to facilitate complaints from the community against these enterprises and individuals. Enterprises and individuals are required to participate in the conservation of water resources and to improve the welfare of the surrounding community, and to encourage the participation of small and medium-sized enterprises in the utilization of water resources.
 
 Article 49 requires the utilization of water for other states to be based on the water resources management plan for the relevant river area and by observing the interest of the surrounding area. The water utilization plan for other states shall be carried out by means of a process of public consultation by the government, in accordance with its authority.
 
@@ -1878,7 +1878,7 @@ Water resources policies, infrastructures and technologies;
 The environment of the water resources and their surrounding areas;
 The social, economical and cultural activities of the community relating to the water resources.
 
-Article 67 states that the Government, regional government and the manager of the water resources, according to their authority, shall provide information on water resources to all stakeholders in the field of water resources. The implementation of this requires the submission of periodic reports of the results of activities to the Government institution and regional government responsible for the field of water resources from all Government institutions, regional government, legal entities, organizations, agencies and individuals engaged in activities related to water resources. Each of the reporting instances are responsible for the accuracy, truth and timeliness of the submitted information. 
+Article 67 states that the Government, regional government and the manager of the water resources, according to their authority, shall provide information on water resources to all stakeholders in the field of water resources. The implementation of this requires the submission of periodic reports of the results of activities to the Government institution and regional government responsible for the field of water resources from all Government institutions, regional government, legal entities, organizations, agencies and individuals engaged in activities related to water resources. Each of the reporting instances are responsible for the accuracy, truth and timeliness of the submitted information.
 
 
 
@@ -1888,7 +1888,7 @@ FOREWORD
 
 The Government of Indonesia made political commitments at the World Education Forum (April 2000), along with other Governments and organizations, for achieving basic education for all. In this broader context, national level reflections were engaged for developing a new vision of education, as part of the reform in Indonesia, which emphasize the implementation of the principles of democracy, autonomy, decentralization, and public accountability. The reforms in education system have given prominence to enhance its performance in the framework of even distribution of educational opportunities. This reform process has fundamental impact on national education system and its mission to meet various challenges in the present day world.
 
-Guided by the mission of education and educational strategies, the Republic of Indonesia enacted a new Law on National Education System in July 2003, resulting from national wide consultation. The Law has its foundations in the 1945 Constitution of Indonesia, Article 31, Section (1), of which states that each and every citizen shall have the fundamental right to education. The Law creates a legal framework for the major educational goal, policies and plans. The key targets include the expansion and equity, the improvement of quality and relevance, and the implementation of autonomy in higher education. The Law seeks to open access to education at all levels and all forms - formal, non-formal, as well as informal - for all the citizens of Indonesia. Its main thrust is to make education relevant to societal needs; to develop further community-based education; and to enhance participation by community in supporting basic education. It provides rights and obligations of citizens, parents, community, and Government. 
+Guided by the mission of education and educational strategies, the Republic of Indonesia enacted a new Law on National Education System in July 2003, resulting from national wide consultation. The Law has its foundations in the 1945 Constitution of Indonesia, Article 31, Section (1), of which states that each and every citizen shall have the fundamental right to education. The Law creates a legal framework for the major educational goal, policies and plans. The key targets include the expansion and equity, the improvement of quality and relevance, and the implementation of autonomy in higher education. The Law seeks to open access to education at all levels and all forms - formal, non-formal, as well as informal - for all the citizens of Indonesia. Its main thrust is to make education relevant to societal needs; to develop further community-based education; and to enhance participation by community in supporting basic education. It provides rights and obligations of citizens, parents, community, and Government.
 
 An outstanding feature of the Law is the implementation of compulsory basic education, free of cost, for all Indonesian citizens. Henceforth, “Every seven to fifteen years old citizen shall have the right to receive basic education”, as the Law provides. This is a major step towards creating a critical mass in the area of education for national development, as recognized in the National Plan of Action: Indonesia’s Education For All (2002). Its realization has become a primary responsibility for all education providers. This indeed deserves to be highlighted. In adopting the new legislation, the Government of Indonesia has been fully conscious of the need for creating equality of opportunity in education and to ensure that basic education is made available to all, including those belonging to economically disadvantaged or socially marginalized groups, and those living in remote areas. To that end, the Law reflects certain fundamental principles, notably universal access to basic education without gender bias, non-discrimination, equality of opportunity, and equity in education. National experience shows that the expansion of equity and equality of educational opportunities has not gone hand in hand with the quality improvement. The Law aims at making a good quality education available to all. Its basic purpose is to develop a national educational system to achieve the Education for All goals, to create opportunities for lifelong learning, etc. in today’s knowledge society.
 
@@ -1920,20 +1920,20 @@ The law, passed following stated commitments to the World Education Forum in 200
 
 CONSULTATION
 
-The requirements for public consultation mainly concern the community’s right to participate in the implementation, monitoring and evaluation of education programs and the quality thereof. 
+The requirements for public consultation mainly concern the community’s right to participate in the implementation, monitoring and evaluation of education programs and the quality thereof.
 
 Article 1 makes the following definitions relevant to public consultation:
 
 Educators mean teaching staff participating in the provision of education, with qualifications to be teachers, lecturers, counselors, learning guides (pamong belajar), senior instructors (widyais-wara), tutors, instructors, facilitators, and other titles in accordance with their specialization.
 Community means a group of Indonesian people that has concerns for and participate in educational areas, and who are not part of the Government.
 
-Article 4 states that one of the principles of educational provision is that education is to be conducted by empowering all components of the community through their participation in the implementation and quality control of education services. 
+Article 4 states that one of the principles of educational provision is that education is to be conducted by empowering all components of the community through their participation in the implementation and quality control of education services.
 
 Articles 8 and 9 state that the community has the right to participate in the planning, implementation, monitoring and evaluation of education programs. The community also has to support the implementation of education by supplying needed resources.
 
-Article 54 states that the community can participate as the source, executor and consumer of the outcomes of education. The community’s participation in the implementation and quality control of educational services will consist of individuals, groups, families, professional associations, private companies and community organizations. 
+Article 54 states that the community can participate as the source, executor and consumer of the outcomes of education. The community’s participation in the implementation and quality control of educational services will consist of individuals, groups, families, professional associations, private companies and community organizations.
 
-Article 56 states that the community shall participate in the quality improvement of educational services. This will include planning, monitoring and evaluation of educational programs through the Board of Education and the School/Madrasah Committee. 
+Article 56 states that the community shall participate in the quality improvement of educational services. This will include planning, monitoring and evaluation of educational programs through the Board of Education and the School/Madrasah Committee.
 
 DISCLOSURE
 
@@ -1960,13 +1960,13 @@ Article 1 makes the following definitions relevant to public consultation:
 General survey is a range of field activities covering the collection, analysis and presentation of data connected with information on geological conditions in order to predict the location and potential of petroleum and natural gas resources outside the working area.
 Exploration is a range of activities aimed at collecting information on the geological condition to find and obtain the estimated reserves of petroleum and natural gas in the stipulated working area.
 Exploitation is a series of activities aimed at producing petroleum and natural gas from the stipulated working area, including drilling and completion of wells, and the building of transport, storage and processing facilities.
-Working area is a certain region within the Indonesian mining jurisdiction (i.e. all Indonesian mainland, waters and continental shelf territories) used for exploration and exploitation. 
+Working area is a certain region within the Indonesian mining jurisdiction (i.e. all Indonesian mainland, waters and continental shelf territories) used for exploration and exploitation.
 Business entities are companies in the form of statutory bodies permanently and continuously undertaking businesses, established in accordance with the prevailing laws and domiciled and operating in the territory of Indonesia.
 Permanent establishments are business entities in the form of statutory bodies established outside the territory of Indonesia that undertake activities within the territories of Indonesia, and are obliged to comply with prevailing Indonesian legislation.
 A join cooperation contract is a production-sharing contract or other forms of joint cooperation contracts in exploration and exploitation activities, used to improve people’s welfare.
 A business license is a license granted to a business entity to process, transport, store and/or trade for the purpose of obtaining a benefit and/or profit.
 
-Article 12 states that the working areas offered to business entities or permanent establishments shall be stipulated by the Minister, following consultations with the regional government. 
+Article 12 states that the working areas offered to business entities or permanent establishments shall be stipulated by the Minister, following consultations with the regional government.
 
 Article 21 states that the plan for the first-time development of a field to be utilized for production activities in a working area must secure the approval of the Minister, based on considerations of the executing agency after consultations with the relevant provincial government. This consultation is needed to ensure that the proposed development plans can be coordinated with provincial governments, especially for regional layout plans and for regional revenues from petroleum and natural gas.
 
@@ -1998,11 +1998,11 @@ Apart from general requirements for transparency in the dissemination of informa
 Article 1 makes the following definitions relevant to public disclosure:
 
 A join cooperation contract is a production-sharing contract or other forms of joint cooperation contracts in exploration and exploitation activities, used to improve people’s welfare.
-Working area is a certain region within the Indonesian mining jurisdiction (i.e. all Indonesian mainland, waters and continental shelf territories) used for exploration and exploitation. 
+Working area is a certain region within the Indonesian mining jurisdiction (i.e. all Indonesian mainland, waters and continental shelf territories) used for exploration and exploitation.
 Business entities are companies in the form of statutory bodies permanently and continuously undertaking businesses, established in accordance with the prevailing laws and domiciled and operating in the territory of Indonesia.
 Permanent establishments are business entities in the form of statutory bodies established outside the territory of Indonesia that undertake activities within the territories of Indonesia, and are obliged to comply with prevailing Indonesian legislation.
 
-Article 20 states that data obtained from general survey and/or exploration and exploitation shall be state property controlled by the government. Data that is obtained by business entities or permanent establishments in their working areas may be used by the relevant entities or establishments for the validity period of the joint cooperation. Should the joint cooperation contract expire, the data shall be handed over to the Minister through the executing agency, and the secrecy of that data, for instance pertaining to the underground condition, shall be effective for a specified period and not disclosed to the public. 
+Article 20 states that data obtained from general survey and/or exploration and exploitation shall be state property controlled by the government. Data that is obtained by business entities or permanent establishments in their working areas may be used by the relevant entities or establishments for the validity period of the joint cooperation. Should the joint cooperation contract expire, the data shall be handed over to the Minister through the executing agency, and the secrecy of that data, for instance pertaining to the underground condition, shall be effective for a specified period and not disclosed to the public.
 
 Articles 38 and 39 require to government to foster petroleum and natural gas-related business activities, in a transparent manner, through:
 
@@ -2023,7 +2023,7 @@ CONTEXT
 
 CONSULTATION
 
-This law is based on five principles: 1) democracy, 2) community participation and empowerment, 3) equity and justice, 4) recognition of the potential and diversity within regions and 5) the need to strengthen local legislatures. 
+This law is based on five principles: 1) democracy, 2) community participation and empowerment, 3) equity and justice, 4) recognition of the potential and diversity within regions and 5) the need to strengthen local legislatures.
 
 
 DISCLOSURE
@@ -2037,11 +2037,11 @@ The Local Development Plan, to be developed based on a  bottom-up approach, by t
 
 SUMMARY
 
-Law No. 41 of 1999 regulates the forestry industry in Indonesia, stipulating the permissions and licenses required to utilize forests and forest products. It requires the participation and empowerment of the community in forest management and protection, and manifests the right of the community to enjoy the forests and forest products and have access to information related to the forestry sector. It also stipulates specific provisions protecting the rights of forest utilizations by indigenous law communities. 
+Law No. 41 of 1999 regulates the forestry industry in Indonesia, stipulating the permissions and licenses required to utilize forests and forest products. It requires the participation and empowerment of the community in forest management and protection, and manifests the right of the community to enjoy the forests and forest products and have access to information related to the forestry sector. It also stipulates specific provisions protecting the rights of forest utilizations by indigenous law communities.
 
 CONSULTATION AND DISCLOSURE
 
-As the requirements for public consultation and disclosure overlap, they are here treated jointly. The law requires every business entity to obtain permission to manage forests in cooperation with local community cooperatives. The community is also required to participate in forest management, protection and rehabilitation, and it shall have the right to access information related to the forestry sector. 
+As the requirements for public consultation and disclosure overlap, they are here treated jointly. The law requires every business entity to obtain permission to manage forests in cooperation with local community cooperatives. The community is also required to participate in forest management, protection and rehabilitation, and it shall have the right to access information related to the forestry sector.
 
 Article 1 makes the following definitions relevant to public consultation:
 
@@ -2052,11 +2052,11 @@ Production forest is a forest area with the main function to yield forest produc
 Protected forest is a forest area with the main function to protect the life supporting systems, to arrange water management, prevent floods and erosion, prevent brine water intrusion, and to maintain land fertility.
 Conservation forest is a forest area with unique characteristics, the ecosystem and bio-diversity of which shall be preserved.
 Natural reserve forest area is a forest with unique characteristics housing life-supporting systems, the ecosystem and bio-diversity of which shall be preserved.
-Natural preservation forest area is a forest with unique characteristics housing life-supporting systems, the ecosystem and bio-diversity of which shall be preserved, and the resources and ecosystem of which shall be utilized in a sustainable manner. 
+Natural preservation forest area is a forest with unique characteristics housing life-supporting systems, the ecosystem and bio-diversity of which shall be preserved, and the resources and ecosystem of which shall be utilized in a sustainable manner.
 
 Article 3 states that the aim of forest management is to maximize the prosperity of the people, in part by improving the capacity of the community to participate in forest management.
 
-Article 4 states that all forests in the territory of Indonesia, including the natural resources contained therein, shall be controlled by the state. Forest control by the state includes maintaining and stipulating the legal relations between people and the forest and to regulate forestry. Where an indigenous law community exists and is not in contradiction to national interests, state forest control shall take into account that community’s rights and acknowledge its existence. 
+Article 4 states that all forests in the territory of Indonesia, including the natural resources contained therein, shall be controlled by the state. Forest control by the state includes maintaining and stipulating the legal relations between people and the forest and to regulate forestry. Where an indigenous law community exists and is not in contradiction to national interests, state forest control shall take into account that community’s rights and acknowledge its existence.
 
 Article 11 requires forestry planning to be implemented and developed in a transparent, accountable, participatory and integrated manner, by taking regional characteristics and community aspirations into account.
 
@@ -2070,9 +2070,9 @@ Articles 40 to 43 state that forest and land rehabilitation shall be aimed at re
 
 Articles 46 to 48 state that forest protection and nature conservation shall be aimed to maintain and uphold the rights held by the state, community and individuals to forests, forest areas, forest products, investments and facilities related to forest management. The Government shall regulate forest protection and implement forest protection in state forests. Holders of forest utilization permits and parties authorized to manage forests shall implement forest protection in their working areas, and the defined forest protection program shall involve the community’s participation.
 
-Article 52 states that the implementation of research and development, education and training as well as forestry extension shall take into account the traditional wisdom and socio-cultural condition of the community. 
+Article 52 states that the implementation of research and development, education and training as well as forestry extension shall take into account the traditional wisdom and socio-cultural condition of the community.
 
-Articles 53 and 54 state that forestry research and development shall be organized by the Government, which may involve cooperation with universities, the business world and the community. The Government, business world and community shall publicize the results of this research and development, and they shall also develop an information and service system for forestry research and development. 
+Articles 53 and 54 state that forestry research and development shall be organized by the Government, which may involve cooperation with universities, the business world and the community. The Government, business world and community shall publicize the results of this research and development, and they shall also develop an information and service system for forestry research and development.
 
 Article 56 states that forestry extension shall be conducted by the Government, the business world and the community, and shall be aimed at improving the knowledge and skills of the community. It shall also be aimed at changing the attitudes and behavior of the community to promote its willingness and ability to support forestry development as well as its awareness of the importance of forest resources.
 
@@ -2089,7 +2089,7 @@ The community in and around the forest shall also be entitled to compensation fo
 
 Article 69 states that the community shall take part in the protection and maintenance of forest areas from disturbance and damage. In conducting forest rehabilitation, the community may solicit advocacy, service and support from non-governmental organizations, the Government or other parties.
 
-Article 70 states that the community shall participate in the development of the forestry sector, and the Government, through various activities in the forestry sector, shall support this participation. 
+Article 70 states that the community shall participate in the development of the forestry sector, and the Government, through various activities in the forestry sector, shall support this participation.
 
 Articles 71 and 72 entitle the community to file a class action before a court of justice and/or report to a law enforcer in the event of damage to the forest that harms the life of the community, provided that the forest management in question is in violation of prevailing legislation. Should it be recognized that the community suffers as a result of pollution and/or damage to the forest in a way that affects its life, the Government or regional administration is entitled to act in the interest of the community.
 Law (UU) No 23 of 1997 re: Environmental Management
@@ -2102,10 +2102,10 @@ Under Law 23/1997, local communities are encouraged to actively supervise and pa
 
 CONSULTATION
 
-The local community is encouraged to provide suggestions, convey reports to the government, and actively supervise and participate in and on all aspects of environmental management and regulation.  Specific regulations for public participation, however, are not clearly stated in the laws 
+The local community is encouraged to provide suggestions, convey reports to the government, and actively supervise and participate in and on all aspects of environmental management and regulation.  Specific regulations for public participation, however, are not clearly stated in the laws
 
 Article 1 makes the following definitions relevant to public consultation:
-Environmental management is an integrated effort to preserve environmental functions, comprising planning policy, exploitation, development, maintenance, reparation, supervision and control of the environment. 
+Environmental management is an integrated effort to preserve environmental functions, comprising planning policy, exploitation, development, maintenance, reparation, supervision and control of the environment.
 Preservation of environmental functions is a set of efforts to maintain the continued supportive and carrying capacities of the environment.
 Environmental supportive capacity is the capacity of the environment to support humans and other living creatures.
 Environmental carrying capacity is the capability of the environment to absorb substances, energy and/or other components that enter or are discharged into it.
@@ -2119,7 +2119,7 @@ Article 6 states that every person is obliged to preserve the continuity of envi
 Article 7 states that the community shall have the broadest possible opportunity to participate in environmental management. This shall be carried out by:
 
 Improving the independence of and empowering the community, and through partnerships.
-Fostering the capabilities and initiatives of the community. 
+Fostering the capabilities and initiatives of the community.
 Improving the community’s responsiveness in carrying out social supervision, to reduce the occurrence of negative impacts.
 Providing guidance and suggestions to the community.
 Conveying information and/or reports to the community.
@@ -2130,7 +2130,7 @@ Article 10 states that the Government, in relation to environmental management, 
 
 Article 18 states that every business and/or activity expected to give rise to a significant impact on the environment must have an Environmental Impact Analysis (EIA) to obtain the license to conduct that business and/or activity. As stipulated in other laws, the formulation of an EIA requires public consultation.
 
-Article 19 states that the issuance of a license to carry out a business and/or activity must take public opinion into account. 
+Article 19 states that the issuance of a license to carry out a business and/or activity must take public opinion into account.
 
 Article 27 states that sanctions in the form of revocation of licenses to conduct business and/or activities may be imposed upon certain infringements, for example where the health of the community has been impaired due to pollution and/or environmental damage. This provision encourages a proactive stance towards the community.
 
@@ -2163,13 +2163,13 @@ Law (UU) No.5 of 1960 re: Agrarian Laws
 
 SUMMARY
 
-This law revokes previous agrarian laws that were stipulated by the colonial government, which according to the opening considerations were in contradiction to the interests of the State and the people and offered no legal guarantee to indigenous people. It mainly identifies areas of land use and ownership that require further legislation, and manifests the interest of the public as the guiding principle of law for land use and ownership. 
+This law revokes previous agrarian laws that were stipulated by the colonial government, which according to the opening considerations were in contradiction to the interests of the State and the people and offered no legal guarantee to indigenous people. It mainly identifies areas of land use and ownership that require further legislation, and manifests the interest of the public as the guiding principle of law for land use and ownership.
 
 CONSULTATION
 
 The law contains few direct requirements for public consultation. Requirements arise in extension from certain provision, such as in cases where only Indonesian citizens can hold land rights such as hak milik, and general requirements to take public interest into account.
 
-Article 6 states that all land rights have a social function. This provision is meant to prevent land use for private gain to the detriment of the people, and to balance private and public interests in land use. 
+Article 6 states that all land rights have a social function. This provision is meant to prevent land use for private gain to the detriment of the people, and to balance private and public interests in land use.
 
 Article 9 states that only Indonesian citizens can have the most complete relationship with the earth, water and airspace. Therefore, every Indonesian citizen, both men and women, shall have equal opportunity to acquire land rights and obtain benefits and yields for himself/herself or for his/her family.
 
@@ -2177,13 +2177,13 @@ Article 10 states that all individual and corporate rights-holders to agricultur
 
 Article 11 states that the legal relationships between people (including corporate bodies) and earth, air and airspace are to be regulated to prevent excessive control of other people’s lives and occupations. Wherever necessary and not contrary to national interest, differences in social conditions and legal needs for societal groups shall be taken into account by providing protection for the interests of the economically weaker groups.
 
-Article 12 states that all joint enterprises in the area of agrarian affairs shall be based on the common interest, within the framework of national interest, and are to be undertaken in the form of cooperatives or other methods of gotong royong (mutual help). The State can also form joint enterprises with the private sector in the area of agrarian affairs. 
+Article 12 states that all joint enterprises in the area of agrarian affairs shall be based on the common interest, within the framework of national interest, and are to be undertaken in the form of cooperatives or other methods of gotong royong (mutual help). The State can also form joint enterprises with the private sector in the area of agrarian affairs.
 
 Article 14 states that the Government shall devise a general plan for the supply, allocation and use of earth, water and airspace as well as natural resources a) for the State’s purposes; b) for worship and other sacred purposes; c) for purposes related to the development of public-life centers, socio-cultural centers, and other forms of prosperity; d) for purposes related to the development of agricultural production; and e) for purposes related to the development of industry, transmigration and mining. This general plan shall take respective local circumstances into account.
 
-Article 15 requires every individual, corporate body or institution with a legal relationship with land to maintain the land, improve its fertility and prevent it from damage. The execution of this shall take the interests of the economically weak into consideration. 
+Article 15 requires every individual, corporate body or institution with a legal relationship with land to maintain the land, improve its fertility and prevent it from damage. The execution of this shall take the interests of the economically weak into consideration.
 
-Articles 20 and 21 define the strongest and fullest right on land which one can hold as the hak milik, which is transferrable but can only be held by Indonesian citizens. The Government is to determine the corporate bodies allowed to hold a hak milik and the conditions thereof. 
+Articles 20 and 21 define the strongest and fullest right on land which one can hold as the hak milik, which is transferrable but can only be held by Indonesian citizens. The Government is to determine the corporate bodies allowed to hold a hak milik and the conditions thereof.
 
 Article 24 states that the use of land with the status of hak milik by a party other than the other shall be limited and regulated. While not a direct requirement for public consultation, usage of land with hak milik status could necessitate consultation.
 
@@ -2239,13 +2239,13 @@ Annex 1, Overview Section identifies the importance of community social and envi
 
 CONSULTATION AND DISCLOSURE
 
-As the requirements are given across five attachments and are not easily sorted, they are here treated jointly, with a short summary for every document concerned. 
+As the requirements are given across five attachments and are not easily sorted, they are here treated jointly, with a short summary for every document concerned.
 
 Terms of Reference (TOR-EIA/KA-ANDAL)
 
-The Terms of Reference (TOR-EIA) is defined as the scope of environmental impact assessment study, resulting from a scoping process agreed to by the author of AMDAL and the AMDAL Appraisal Commission. The TOR-EIA will formulate the scope and depth of the EIA study and direct the ANDAL study to work effectively and efficiently. 
+The Terms of Reference (TOR-EIA) is defined as the scope of environmental impact assessment study, resulting from a scoping process agreed to by the author of AMDAL and the AMDAL Appraisal Commission. The TOR-EIA will formulate the scope and depth of the EIA study and direct the ANDAL study to work effectively and efficiently.
 
-While the parties directly involved in the preparation of TOR-EIA are the initiator, the responsible government agency, and the constituent EIA study, the implementation, or scoping process, should always involve experts and the community. The scoping process will consist of the scoping of significant impacts and the scoping of the study area and time limit of the study. 
+While the parties directly involved in the preparation of TOR-EIA are the initiator, the responsible government agency, and the constituent EIA study, the implementation, or scoping process, should always involve experts and the community. The scoping process will consist of the scoping of significant impacts and the scoping of the study area and time limit of the study.
 
 The scoping of significant impacts will be carried out through the following process:
 
@@ -2256,10 +2256,10 @@ The scoping of significant impacts will be carried out through the following pro
 The scoping of the study area and the time limit of the study shall take into account limitations on resources, time and effort, as well as the opinions, suggestions and responses from the affected community. It will be carried out through the following process:
 
 1. The scope of the EIA study area will be based on the assessment of the following spatial borders:
-a. The Project Boundary, which is the space where the pre-construction, construction and operational activities of the business and/or activity plan will take place. 
+a. The Project Boundary, which is the space where the pre-construction, construction and operational activities of the business and/or activity plan will take place.
 b. The Ecological Boundary, which is the impact distribution space of the business and/or activity plan according to the transport medium, where natural processes are expected to experience fundamental change.
 c. The Social Boundary, which is the space of various social interactions around the proposed business and/or activity, which will contain certain norms and values. Within this boundary, community groups whose socio-economic and cultural life will experience fundamental due to the proposed business and/or activity will be identified.
-d. The Administrative Boundary, which is the space in which people are free to conduct socio-economic and socio-cultural activities in accordance with prevailing legislation. 
+d. The Administrative Boundary, which is the space in which people are free to conduct socio-economic and socio-cultural activities in accordance with prevailing legislation.
 e. The EIA Study Area Scope Boundary, which is a space uniting the four other boundaries and tailored to the capability of its determination, typically facing limitations of data sources such as time, money, energy, engineering and methods of review.
 2. The scope of the EIA study time limit will be set in consideration of the time constraints facing the implementation of the business and/or activity plans. This will be used to make forecasts and evaluate the impact of the EIA study.
 
@@ -2311,13 +2311,13 @@ Should a traditional law community collectively own the land, the methods of con
 
 Article 64 states that in cases where the number of community members holding rights to land or users of state land is too large for effective consultations to be done, the consultations may be carried out partially or with a representative. This representative shall be appointed by and acting on behalf of the rights holders with a power of attorney duly made in accordance with prevailing legislation. If consensus can still not be achieved through deliberations, the parties may appoint another party in accordance with prevailing laws.
 
-Article 65 states that the determination of indemnification for land will be based on the results of consultation. 
+Article 65 states that the determination of indemnification for land will be based on the results of consultation.
 
-Articles 72 to 77 require contractors conducting upstream business activities to develop local communities in coordination with the Regional Government, in accordance with the applicable laws. The responsibilities for this development are 1) participation in the development and utilization of the potential capabilities of the local community, including by employing workforce in specified quantities and qualities in line with the required competences; and 2) upgrading the living environment of the community to achieve harmonious relations between the contractor and the surrounding community. The participation in community development shall be provided in the form of physical facilities and infrastructure, or of empowerment of local enterprises and workforce. The contractor shall allocate funds for this development in each annual work plan and budget, and priority shall be given to communities near the areas where exploitation is carried out. 
+Articles 72 to 77 require contractors conducting upstream business activities to develop local communities in coordination with the Regional Government, in accordance with the applicable laws. The responsibilities for this development are 1) participation in the development and utilization of the potential capabilities of the local community, including by employing workforce in specified quantities and qualities in line with the required competences; and 2) upgrading the living environment of the community to achieve harmonious relations between the contractor and the surrounding community. The participation in community development shall be provided in the form of physical facilities and infrastructure, or of empowerment of local enterprises and workforce. The contractor shall allocate funds for this development in each annual work plan and budget, and priority shall be given to communities near the areas where exploitation is carried out.
 
 Article 79 requires contractors to prioritize the use of domestic goods, services, technology, and engineering and design capabilities in a transparent and competitive manner. This could, by extension, require consultation should these items be found in the local communities (for instance in the form of workforce).
 
-Article 82 requires contractors to place priority on the use of Indonesian manpower, and to use foreign manpower only in cases where the required expertise cannot be found in Indonesian personnel. 
+Article 82 requires contractors to place priority on the use of Indonesian manpower, and to use foreign manpower only in cases where the required expertise cannot be found in Indonesian personnel.
 
 Articles 84 and 85 require contractors to carry out guidance, education and training programs for Indonesian workers in order to develop their capabilities. This development will be carried out in accordance with applicable laws and regulations.
 
@@ -2376,7 +2376,7 @@ CONSULTATION
 
 The law contains no direct requirements for consultation. It does, however, stipulate some of its goals in a manner that could imply the need for a certain level of consultation.
 
-Article 4 lists the principles on which the spatial plan has been made. These include Openness, Collective and Partnership, Protection for Public Interest, and Accountability. 
+Article 4 lists the principles on which the spatial plan has been made. These include Openness, Collective and Partnership, Protection for Public Interest, and Accountability.
 
 Article 5 states the objective of the plan as being in part to ensure continuously dry agricultural land through the development of island communities, local culture and science and technology. These measures will be implemented within the context of disaster mitigation and the raising of community welfare.
 
@@ -2392,15 +2392,15 @@ No requirements identified.
 
 ## Sector-specific Law
 
-### 
+###
 
-* Law (UU) No. 11 of 1967 re: Basic Provisions of Mining 
+* Law (UU) No. 11 of 1967 re: Basic Provisions of Mining
 
 Indonesian Law 11/1967 requires all companies intending to undertake mining operations in Indonesia to disclose a range of information on their planned operations (including social and environmental information) directly to the Department of Mines and Energy (DOME). This information, once submitted, rightful belonging in the public domain and companies must disclose it to interested parties upon request. Quarterly and annual reports are announced and made publicly available through BAPADAL (national) / BAPADALDA (local) offices.
 
 * Law No. (UU) 4 of 2009 re: Coal and Mineral Mining
 
-Law 4/2009 supersedes Law No. 11 of 1967. Among the stated objective of mineral and coal management within the new law are sustainable benefits, capacity-building, and increased incomes for local communities, regions, and countries. Article 7 mandates public participation in environmental conservation measures and charges provincial authorities with the responsibility for disclosure of project information to relevant ministries. Article 8 provides similar responsibilities for district governments. Article 10 notes that spatial planning for mining operations must be carried out in an integrated manner—taking into considerations aspects of ecological, economic, social and cultural, and environmental soundness. 
+Law 4/2009 supersedes Law No. 11 of 1967. Among the stated objective of mineral and coal management within the new law are sustainable benefits, capacity-building, and increased incomes for local communities, regions, and countries. Article 7 mandates public participation in environmental conservation measures and charges provincial authorities with the responsibility for disclosure of project information to relevant ministries. Article 8 provides similar responsibilities for district governments. Article 10 notes that spatial planning for mining operations must be carried out in an integrated manner—taking into considerations aspects of ecological, economic, social and cultural, and environmental soundness.
 
 
 * Government Regulation (PP) No. 23 of 2010 re: Mineral and Coal Business Activities

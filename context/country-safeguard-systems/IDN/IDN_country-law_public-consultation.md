@@ -866,7 +866,7 @@ DISCLOSURE
 
 No requirements identified.
 
-Government Regulation (PP) No. 60 of 2009 re: Amendment to Government Regulation No. 45 of 2004 on Forest Protection
+## Government Regulation (PP) No. 60 of 2009 re: Amendment to Government Regulation No. 45 of 2004 on Forest Protection
 
 CONSULTATION
 
@@ -1073,7 +1073,7 @@ DISCLOSURE
 
 No requirements for public disclosure identified.
 
-Government Regulation (PP) No. 07 of 1999 re: Conservation of flora and fauna
+## Government Regulation (PP) No. 07 of 1999 re: Conservation of flora and fauna
 
 CONSULTATION
 

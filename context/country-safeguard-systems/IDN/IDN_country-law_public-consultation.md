@@ -2,25 +2,25 @@
 
 **National Laws**
 
-* [Presidential Decree (Keppres) No. 26 of 1989 re:  Ratification of the Convention Concerning the Protection of World Cultural and Natural Heritage]()
-* [Regulation of the Minister of the Interior of the Republic of Indonesia No. 72/2012 re: Operating Costs and the Cost of Supporting Implementation of Land Acquisition for Public Interest Development]()
+* [Presidential Decree (Keppres) No. 26 of 1989 re:  Ratification of the Convention Concerning the Protection of World Cultural and Natural Heritage](./IDN-analysis/consultation_participation/IDN_KEPPRES-26-1989_world-cultural-natural-heritage_consultation_disclosure.md)
+* [Regulation of the Minister of the Interior of the Republic of Indonesia No. 72/2012 re: Operating Costs and the Cost of Supporting Implementation of Land Acquisition for Public Interest Development](./IDN-analysis/consultation_participation/IDN_PERMEN-DAGRI-72-2012_costs-of-land-acquisition_consultation_disclosure.md)
 * Regulation of the Minister of the Interior No. 32 of 2010 re: Guidelines for Granting Building Permits
 * Regulation of the Minister of Forestry of Republic of Indonesia No. P.18/Menhut-II/2011 Ttg: Guidelines for Borrow and Use of Forest Area
-* [Regulation of the Minister of Forestry of the Republic of Indonesia No. 4/Menhut-ll/2011 re: Forest Reclamation Guidelines]()
+* [Regulation of the Minister of Forestry of the Republic of Indonesia No. 4/Menhut-ll/2011 re: Forest Reclamation Guidelines](./IDN-analysis/consultation_participation/IDN_PERMEN-HUT-4-MII-2011_forest-reclamation-guidelines_consultation_disclosure.md)
 * Regulation of the Minister of Forestry of the Republic of Indonesia No. P. 33/Menhut-II/2010 re: Procedures for Release of Forest Production Convertible
-* [Regulation of the Minister of Marine Affairs and Fisheries No. Per.08/Men/2009 re: Community Participation and Empowerment in the Management of Coastal Areas and Small Islands]()
-* [Regulation of the State Minister of Environment of Republic of Indonesia No. 16 of 2012 re: Guidelines for Composing Environmental Documents]()
-* [Regulation of the State Minister of Environment No. 17 of 2012 re: Guideline for Community Involvement in Environmental Impact Statement and Environment Licensing Process]()
+* [Regulation of the Minister of Marine Affairs and Fisheries No. Per.08/Men/2009 re: Community Participation and Empowerment in the Management of Coastal Areas and Small Islands](./IDN-analysis/consultation_participation/)
+* [Regulation of the State Minister of Environment of Republic of Indonesia No. 16 of 2012 re: Guidelines for Composing Environmental Documents](./IDN-analysis/consultation_participation/)
+* [Regulation of the State Minister of Environment No. 17 of 2012 re: Guideline for Community Involvement in Environmental Impact Statement and Environment Licensing Process](./IDN-analysis/consultation_participation/)
 * Presidential Regulation No. 71/2012 re: Land Procurement Procedures for Development and the Public Interest
 * Presidential Decree No. 78/2007 re: Ratification Convention for the Safeguarding of the Intangible Cultural Heritage (Convention for the Protection of Intangible Cultural Heritage)
 * Government Regulation in Lieu of Law of the Republic of Indonesia No. 1/2004 re: Amendment to Law No. 41/1999 on Forestry
-* [Government Regulation (PP) No. 27 of 2012 re: Environmental Permit]()
+* [Government Regulation (PP) No. 27 of 2012 re: Environmental Permit](./IDN-analysis/consultation_participation/)
 * Government Regulation (PP) No. 60 of 2012 re: Amendment to Government Regulation No. 10 of 2010 on Procedure of Altering the Appropriation and Function of Forest Areas
 * [Government Regulation (PP) No. 10 of 2010 re: Procedure of Altering the Appropriation and Function of Forest Areas]()
-* [Government Regulation (PP) No. 24 of 2010 re: Forest Area Utilization]()
+* [Government Regulation (PP) No. 24 of 2010 re: Forest Area Utilization](./IDN-analysis/consultation_participation/)
 * Government Regulation (PP) No. 60 of 2009 re: Amendment to Government Regulation No. 45 of 2004 on Forest Protection
-* [Government Regulation (PP) No. 45 of 2004 re: Forest Protection]()
-* [Government Regulation (PP) No. 03 of 2008 re: Amendment to Government Regulation No. 06 of 2007 on Forest Management and Forest Management Planning, and Forest Utilization]()
+* [Government Regulation (PP) No. 45 of 2004 re: Forest Protection](./IDN-analysis/consultation_participation/)
+* [Government Regulation (PP) No. 03 of 2008 re: Amendment to Government Regulation No. 06 of 2007 on Forest Management and Forest Management Planning, and Forest Utilization](./IDN-analysis/consultation_participation/)
 * Government Regulation (PP) No. 06 of 2007 re: Forest Management and Forest Management Planning, and Forest Utilization
 * Government Regulation (PP) No. 07 of 1999 re: Conservation of flora and fauna
 * Government Regulation (PP) No. 27 of 1999 re: Environmental Impact Assessment
@@ -662,7 +662,18 @@ The name and address of the environmental agency receiving suggestions, opinions
 For plans obliged to have an EIA, the announcement of environmental license application shall be carried out no later than five business days after the EIS and RKL-RPL documents are declared complete, with the society giving opinions, reactions and recommendations within ten business days as from the announcement. For plans required to have UKL-UPL, the announcement shall be carried out no later than five days after the EIS and RKL-RPL documents are declared complete, with the society giving opinions, reactions and recommendations within three business days as from the announcement.
 
 Chapter 2 C states that the issuance of environmental license shall be announced by a representative of the Minister, governor or regent/major in mass media and/or multimedia, within five days of the issuance of the license. The Impacted Society shall also have the right to appeal the decision.
-MENLH-03-2012-Biodiversity Park: Presidential Regulation (Perpres) No. 09 of 2013 re: Implementation Management of Upstream Oil and Gas
+
+## MENLH-03-2012-Biodiversity Park: Presidential Regulation (Perpres) No. 09 of 2013 re: Implementation Management of Upstream Oil and Gas
+
+CONSULTATION
+
+No English version found.
+
+DISCLOSURE
+
+No English version found.
+
+## Presidential Regulation No. 71/2012 re: Land Procurement Procedures for Development and the Public Interest
 
 CONSULTATION
 
@@ -673,18 +684,7 @@ DISCLOSURE
 No English version found.
 
 
-Presidential Regulation No. 71/2012 re: Land Procurement Procedures for Development and the Public Interest
-
-CONSULTATION
-
-No English version found.
-
-DISCLOSURE
-
-No English version found.
-
-
-Presidential Decree No. 78/2007 re: Ratification Convention for the Safeguarding of the Intangible Cultural Heritage (Convention for the Protection of Intangible Cultural Heritage)
+## Presidential Decree No. 78/2007 re: Ratification Convention for the Safeguarding of the Intangible Cultural Heritage (Convention for the Protection of Intangible Cultural Heritage)
 
 SUMMARY
 

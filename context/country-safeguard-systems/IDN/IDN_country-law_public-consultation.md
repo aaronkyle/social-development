@@ -8,19 +8,19 @@
 * Regulation of the Minister of Forestry of Republic of Indonesia No. P.18/Menhut-II/2011 Ttg: Guidelines for Borrow and Use of Forest Area
 * [Regulation of the Minister of Forestry of the Republic of Indonesia No. 4/Menhut-ll/2011 re: Forest Reclamation Guidelines](./IDN-analysis/consultation_participation/IDN_PERMEN-HUT-4-MII-2011_forest-reclamation-guidelines_consultation_disclosure.md)
 * Regulation of the Minister of Forestry of the Republic of Indonesia No. P. 33/Menhut-II/2010 re: Procedures for Release of Forest Production Convertible
-* [Regulation of the Minister of Marine Affairs and Fisheries No. Per.08/Men/2009 re: Community Participation and Empowerment in the Management of Coastal Areas and Small Islands](./IDN-analysis/consultation_participation/)
-* [Regulation of the State Minister of Environment of Republic of Indonesia No. 16 of 2012 re: Guidelines for Composing Environmental Documents](./IDN-analysis/consultation_participation/)
-* [Regulation of the State Minister of Environment No. 17 of 2012 re: Guideline for Community Involvement in Environmental Impact Statement and Environment Licensing Process](./IDN-analysis/consultation_participation/)
+* [Regulation of the Minister of Marine Affairs and Fisheries No. Per.08/Men/2009 re: Community Participation and Empowerment in the Management of Coastal Areas and Small Islands](./IDN-analysis/consultation_participation/IDN_PERMEN-KP-8-M-2009_community-participation-coastal-areas_consultation_disclosure.md)
+* [Regulation of the State Minister of Environment of Republic of Indonesia No. 16 of 2012 re: Guidelines for Composing Environmental Documents](./IDN-analysis/consultation_participation/IDN_PERMEN-LH-16-2012_guidelines-environmental-documents_consultation_disclosure.md)
+* [Regulation of the State Minister of Environment No. 17 of 2012 re: Guideline for Community Involvement in Environmental Impact Statement and Environment Licensing Process](./IDN-analysis/consultation_participation/IDN_PERMEN-LH-17-2012_community-involvement-environmental-licensing_consultation_consutlation_disclosure.md)
 * Presidential Regulation No. 71/2012 re: Land Procurement Procedures for Development and the Public Interest
 * Presidential Decree No. 78/2007 re: Ratification Convention for the Safeguarding of the Intangible Cultural Heritage (Convention for the Protection of Intangible Cultural Heritage)
 * Government Regulation in Lieu of Law of the Republic of Indonesia No. 1/2004 re: Amendment to Law No. 41/1999 on Forestry
-* [Government Regulation (PP) No. 27 of 2012 re: Environmental Permit](./IDN-analysis/consultation_participation/)
+* [Government Regulation (PP) No. 27 of 2012 re: Environmental Permit](./IDN-analysis/consultation_participation/IDN_PP-27-2012_environmental-permit_consultation_disclsoure.md)
 * Government Regulation (PP) No. 60 of 2012 re: Amendment to Government Regulation No. 10 of 2010 on Procedure of Altering the Appropriation and Function of Forest Areas
 * [Government Regulation (PP) No. 10 of 2010 re: Procedure of Altering the Appropriation and Function of Forest Areas]()
-* [Government Regulation (PP) No. 24 of 2010 re: Forest Area Utilization](./IDN-analysis/consultation_participation/)
+* [Government Regulation (PP) No. 24 of 2010 re: Forest Area Utilization](./IDN-analysis/consultation_participation/IDN_PP-24-2010_forest-area-utilization_consultation_disclosure.md)
 * Government Regulation (PP) No. 60 of 2009 re: Amendment to Government Regulation No. 45 of 2004 on Forest Protection
-* [Government Regulation (PP) No. 45 of 2004 re: Forest Protection](./IDN-analysis/consultation_participation/)
-* [Government Regulation (PP) No. 03 of 2008 re: Amendment to Government Regulation No. 06 of 2007 on Forest Management and Forest Management Planning, and Forest Utilization](./IDN-analysis/consultation_participation/)
+* [Government Regulation (PP) No. 45 of 2004 re: Forest Protection](./IDN-analysis/consultation_participation/IDN_PP-45-2004_forest-protection_consultation_disclsoure.md)
+* [Government Regulation (PP) No. 03 of 2008 re: Amendment to Government Regulation No. 06 of 2007 on Forest Management and Forest Management Planning, and Forest Utilization](./IDN-analysis/consultation_participation/IDN_PP-03-2008_ammendment-forest-area-utilization_consultation_disclosure.md)
 * Government Regulation (PP) No. 06 of 2007 re: Forest Management and Forest Management Planning, and Forest Utilization
 * Government Regulation (PP) No. 07 of 1999 re: Conservation of flora and fauna
 * Government Regulation (PP) No. 27 of 1999 re: Environmental Impact Assessment
@@ -35,13 +35,13 @@
 * Law (UU) No. 14 of 2008 re: Public Information Disclosure
 * Law (UU) No. 25 of 2007 re: Investment [alt: Capital Investment]
 * Law (UU) No. 26 of 2007 re: Spatial Planning
-* Law  (UU) No. 27 of 2007 re: Management of Coastal Zones and Small Islands
+* Law (UU) No. 27 of 2007 re: Management of Coastal Zones and Small Islands
 * Law (UU) No. 40 of 2007 re:  Limited Liability Companies
-* Law  (UU) No. 7 of 2004 re: Water Resources
+* Law (UU) No. 7 of 2004 re: Water Resources
 * Law (UU) No. 20 of 2003 re:  National Education System
 * Law (UU) No. 22 of 2001 re: Petroleum and Natural Gas
 * Law (UU) No. 22 of 1999 re: Regional Administration
-* Law  (UU) No. 41 of 1999 re: Forestry
+* Law (UU) No. 41 of 1999 re: Forestry
 * Law (UU) No 23 of 1997 re: Environmental Management
 * Law (UU) No.5 of 1960 re: Agrarian Laws
 * Location Permit due to Environment Minister Decision

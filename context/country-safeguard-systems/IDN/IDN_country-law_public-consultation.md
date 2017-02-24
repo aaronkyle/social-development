@@ -12,8 +12,8 @@
 * [Regulation of the State Minister of Environment of Republic of Indonesia No. 16 of 2012 re: Guidelines for Composing Environmental Documents](./IDN-analysis/consultation_participation/IDN_PERMEN-LH-16-2012_guidelines-environmental-documents_consultation_disclosure.md)
 * [Regulation of the State Minister of Environment No. 17 of 2012 re: Guideline for Community Involvement in Environmental Impact Statement and Environment Licensing Process](./IDN-analysis/consultation_participation/IDN_PERMEN-LH-17-2012_community-involvement-environmental-licensing_consultation_consutlation_disclosure.md)
 * Presidential Regulation No. 71/2012 re: Land Procurement Procedures for Development and the Public Interest
-* Presidential Decree No. 78/2007 re: Ratification Convention for the Safeguarding of the Intangible Cultural Heritage (Convention for the Protection of Intangible Cultural Heritage)
-* Government Regulation in Lieu of Law of the Republic of Indonesia No. 1/2004 re: Amendment to Law No. 41/1999 on Forestry
+* [Presidential Decree No. 78/2007 re: Ratification Convention for the Safeguarding of the Intangible Cultural Heritage (Convention for the Protection of Intangible Cultural Heritage)](./IDN-analysis/consultation_participation/IDN_PERPRES-78-2007_ratification-convention-intangible-heritage_consultation_participation.md)
+* [Government Regulation in Lieu of Law of the Republic of Indonesia No. 1/2004 re: Amendment to Law No. 41/1999 on Forestry](./IDN-analysis/consultation_participation/IDN_PP-1-2004_amendment-forestry-law_consultation_disclosure.md)
 * [Government Regulation (PP) No. 27 of 2012 re: Environmental Permit](./IDN-analysis/consultation_participation/IDN_PP-27-2012_environmental-permit_consultation_disclsoure.md)
 * Government Regulation (PP) No. 60 of 2012 re: Amendment to Government Regulation No. 10 of 2010 on Procedure of Altering the Appropriation and Function of Forest Areas
 * [Government Regulation (PP) No. 10 of 2010 re: Procedure of Altering the Appropriation and Function of Forest Areas]()

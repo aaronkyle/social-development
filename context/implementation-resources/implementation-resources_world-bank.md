@@ -4,7 +4,7 @@
 ### Project categorization forms
 -->
 
-### Handbooks / Sourcebooks
+### Handbooks / Sourcebooks / Toolkits
 
 * [Handbook on Poverty and Inequality](http://siteresources.worldbank.org/INTPA/Resources/429966-1259774805724/Poverty_Inequality_Handbook_FrontMatter.pdf)
     - [Poverty Reduction Strategy Papers (PRSP) Sourcebook](http://go.worldbank.org/3I8LYLXO80)
@@ -20,6 +20,8 @@
 * [Gender in Agriculture Sourcebook](https://openknowledge.worldbank.org/handle/10986/6603)  | [PDF](https://openknowledge.worldbank.org/bitstream/handle/10986/6603/461620PUB0Box3101OFFICIAL0USE0ONLY1.pdf?sequence=1&isAllowed=y)
 * [Sustainable Land Management Sourcebook]()
 * [Involuntary Resettlement Sourcebook : Planning and Implementation in Development Projects (1996)](http://documents.worldbank.org/curated/en/2004/01/5159399/involuntary-resettlement-sourcebook-planning-implementation-development-projects-vol-1-2) | [PDF](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2004/10/04/000012009_20041004165645/Rendered/PDF/301180v110PAPE1ettlement0sourcebook.pdf) | [ALT](https://openknowledge.worldbank.org/handle/10986/14914)
+* [Environmental and Social Management System Toolkit (2015)](http://documents.worldbank.org/curated/en/794121486383424061/Environmental-and-social-management-system-toolkit-general) [PDF](http://documents.worldbank.org/curated/en/794121486383424061/pdf/112174-WP-ESMS-Toolkit-General-PUBLIC.pdf)
+
 
 
 ### Evaluation Resources

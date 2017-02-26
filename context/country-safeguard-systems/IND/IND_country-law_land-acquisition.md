@@ -1,12 +1,10 @@
 ## National Legal Frameworks Governing Land Acquisition, Resettlement & Economic Displacement
 
-### Land Acquisition & Resettlement
-
 **Binding Legislation:**
 
-* [Land Acqusition Act, 1894](https://www.google.com/search?q=land+acquisition+act+1894) | [भूमि अर्जन अधिनियम, 1894](http://dolr.nic.in/dolr/downloads/pdfs/LandAcquisitionAct1894Hindi.pdf)
+* [Land Acquisition Act, 1894](https://www.google.com/search?q=land+acquisition+act+1894) | [भूमि अर्जन अधिनियम, 1894](http://dolr.nic.in/dolr/downloads/pdfs/LandAcquisitionAct1894Hindi.pdf)
 * Land Acquisition (Companies) Rules, 1963 | [भूमि अर्जन (कंपनी) नियम, 1963](http://dolr.nic.in/dolr/downloads/pdfs/LandAcquisition(Companies)Rules1963Hindi.pdf)
-* [Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013](http://indiacode.nic.in/acts-in-pdf/302013.pdf) | LARR 2013 
+* [Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013](http://indiacode.nic.in/acts-in-pdf/302013.pdf) | LARR 2013
     * Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Social Impact Assessment and Consent) Rules, 2014 | LARR Rules 2014
     * Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Compensation, Rehabilitation and Resettlement and Development Plan) Rules, 2015 | LARR Rules 2015
 
@@ -16,7 +14,26 @@
 * Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Amendment) Ordinance, 2014 | LARR (Amendment) Ordinance 2045
 * Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Amendment) Bill, 2015 | LARR (Amendment) Bill 2015
 
-## Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 [LARR 2013]
+**Additional Legislation Relevant for Compensation [in cases of economic displacement]:**
+
+* The Electricity Act 2003
+    - addresses major issues involved in generation, distribution, transmission and trading in power—including provisions for payment of compensation for damages. Complementary to the Electricity Act is the MOP (Ministry of Power) Guidelines 2015, which clarify the process of payment and establish the standards for negotiating compensation amount for damages.
+* The Telegraph Act 1885
+    - governs the use of wired and wireless telegraphy, telephones, radio communications and digital data communications. It gives the Government of India exclusive jurisdiction and privileges for establishing, maintaining, operating, licensing and oversight of all forms of wired and wireless communications. The Telegraph Act includes many provisions relevant to POWERGRID operations, including requirements to avoid sensitive environmental areas, to minimize impacts, to notify affected people about the project, and to establish a grievance redress mechanism.
+
+## National Law in Context
+
+### Land Acquisition Act, 1894 [LAA 1894]
+
+The Land Acquisition Act, 1894, governed the process of land acquisition in India until the passing of LARR 2013. LAA 1894 allowed land acquisition for public purposes by a government agency from individual landowners after paying a government-determined compensation to cover losses incurred by landowners.
+
+## National Resettlement and Rehabilitation Policy of 2007 [NRRP 2007]
+
+The National Resettlement and Rehabilitation Policy, 2007, was an early attempt to reform the 1894 Land Acquisition Act. NRRP 2007 is a policy and as such it is not legally binding.  Although a Bill was introduced to Parliament in 2007 to make NRRP into a binding law (Act), this Bill never passed. NRRP is similar in most respect to the subsequent LARR 2013 (discussed below).  
+
+### Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 [LARR 2013]
+
+The Land Acquisition, Resettlement and Rehabilitation Act, 2013m regulates the process of land acquisition—defining rules and procedures for granting compensation, rehabilitation and resettlement. This Act is applicable to POWERGRID operations only where there is land acquisition (for the sub-stations).  LARR 2013 is a binding law and overrules LAA 1894.
 
 <table>
 <tr>
@@ -27,14 +44,14 @@
 <td>Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Amendment) Ordinance, 2014.</td>
 <td>Some provisions of the LARR 2013 were observed as being difficult to implement.  Accordingly, a Conference of State Revenue Ministers was organized in Delhi in June, 2014 to consider changes to LARR 2013. Further, consultation with Secretaries and officers of concerned ministries were held in October, 2014. Based on these discussions and deliberations, some amendments were proposed by DoLR.
 <br/>
-On 29 December 2014, the Cabinet approved the DoLR proposal to amend LARR 2013 and to promulgate the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Amendment) Ordinance, 2014. The LARR (Amendment) Ordinance, 2014 was promulgated on 31 December 2014. 
+On 29 December 2014, the Cabinet approved the DoLR proposal to amend LARR 2013 and to promulgate the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Amendment) Ordinance, 2014. The LARR (Amendment) Ordinance, 2014 was promulgated on 31 December 2014.
 <br/>
 The Cabinet also approved the proposal of the Department to introduce a replacement bill in the Parliament to replace the Ordinance [LARR (Amendment) Bill, 2015].  
 </td>
 </tr>
 <tr>
 <td>Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Amendment) Bill, 2015 </td>
-<td>The LARR (Amendment) Bill, 2015, l amends the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 (LARR Act, 2013). The Bill replaces the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Amendment) Ordinance, 2014. 
+<td>The LARR (Amendment) Bill, 2015, l amends the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 (LARR Act, 2013). The Bill replaces the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Amendment) Ordinance, 2014.
 <br/>
 The Bill was taken up for consideration and passed by the Lok Sabha on 10 March 2015. The Minister of Rural Development also gave notice for Motion for Consideration and Passing of the Bill Passed in Lok Sabha to the Secretary General Rajya Sabha on 13 March 2015. However, the Bill could not be taken up for consideration in the Rajya Sabha as the Rajya Sabha was adjourned on 20 March 2015. The Bill is pending in the Rajya Sabha.
 </td>
@@ -42,9 +59,9 @@ The Bill was taken up for consideration and passed by the Lok Sabha on 10 March 
 </table>
 
 
-##  State Legal Frameworks Governing Land Acquisition
+###  National Laws in State Contexts
 
-### Status of State Notifications of LARR 2013
+#### Status of State Notifications of LARR 2013
 
 Even though fate of the LARR (Amendment) Bill, 2015 rests currently with the Joint Parliamentary Committee report, several states have already brought about changes through Rules under Section 109 of the Act.
 

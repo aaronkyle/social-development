@@ -7,7 +7,7 @@
 * Regulation of the Minister of the Interior No. 32 of 2010 re: Guidelines for Granting Building Permits
 * Regulation of the Minister of Forestry of Republic of Indonesia No. P.18/Menhut-II/2011 Ttg: Guidelines for Borrow and Use of Forest Area
 * [Regulation of the Minister of Forestry of the Republic of Indonesia No. 4/Menhut-ll/2011 re: Forest Reclamation Guidelines](./IDN-analysis/consultation_participation/IDN_PERMEN-HUT-4-MII-2011_forest-reclamation-guidelines_consultation_disclosure.md)
-* Regulation of the Minister of Forestry of the Republic of Indonesia No. P. 33/Menhut-II/2010 re: Procedures for Release of Forest Production Convertible
+* Regulation of the Minister of Forestry of the Republic of Indonesia No. P. 33/Menhut-II/2010 re: Procedures for Release of Convertible Production Forest
 * [Regulation of the Minister of Marine Affairs and Fisheries No. Per.08/Men/2009 re: Community Participation and Empowerment in the Management of Coastal Areas and Small Islands](./IDN-analysis/consultation_participation/IDN_PERMEN-KP-8-M-2009_community-participation-coastal-areas_consultation_disclosure.md)
 * [Regulation of the State Minister of Environment of Republic of Indonesia No. 16 of 2012 re: Guidelines for Composing Environmental Documents](./IDN-analysis/consultation_participation/IDN_PERMEN-LH-16-2012_guidelines-environmental-documents_consultation_disclosure.md)
 * [Regulation of the State Minister of Environment No. 17 of 2012 re: Guideline for Community Involvement in Environmental Impact Statement and Environment Licensing Process](./IDN-analysis/consultation_participation/IDN_PERMEN-LH-17-2012_community-involvement-environmental-licensing_consultation_consutlation_disclosure.md)
@@ -21,13 +21,13 @@
 * Government Regulation (PP) No. 60 of 2009 re: Amendment to Government Regulation No. 45 of 2004 on Forest Protection
 * [Government Regulation (PP) No. 45 of 2004 re: Forest Protection](./IDN-analysis/consultation_participation/IDN_PP-45-2004_forest-protection_consultation_disclsoure.md)
 * [Government Regulation (PP) No. 03 of 2008 re: Amendment to Government Regulation No. 06 of 2007 on Forest Management and Forest Management Planning, and Forest Utilization](./IDN-analysis/consultation_participation/IDN_PP-03-2008_ammendment-forest-area-utilization_consultation_disclosure.md)
-* Government Regulation (PP) No. 06 of 2007 re: Forest Management and Forest Management Planning, and Forest Utilization
+* [Government Regulation (PP) No. 06 of 2007 re: Forest Management and Forest Management Planning, and Forest](./IDN-analysis/consultation_participation/IDN_PP-06-2007_forest-area-utilization_consultation_disclosure.md) UtilizationIDN_PP-06-2007_forest-area-utilization_consultation_disclosure.md
 * Government Regulation (PP) No. 07 of 1999 re: Conservation of flora and fauna
-* Government Regulation (PP) No. 27 of 1999 re: Environmental Impact Assessment
+* [Government Regulation (PP) No. 27 of 1999 re: Environmental Impact Assessment](./IDN-analysis/consultation_participation/IDN_PP-27-1999_environmental-impact-assessment_consultation_disclosure.md)
 * Working Procedure Manual (PTK) No.027/PTK/XII/2007
 * Working Procedure Manual 017/PTK/III/2005 re: Guidelines for Providing Emergency Information, Community Development Program Guidelines, and Guidelines for Public Relations for Production Sharing Contracts in the Upstream Oil and Gas Environment [Bandan Pelaksana Kegiatan Usaha Hulu Minyak Dan Gas Buni;  BPMIGAS]
-* Government Regulation (PP) 16_2004 re: Land Use Management
-* Decree (KepKa) of the Head of BAPEDAL  No. 8 of 2000  re: Public Participation in and the Disclosure of Information on the AMDAL Process
+* [Government Regulation (PP) 16_2004 re: Land Use Management](./IDN-analysis/consultation_participation/IDN_PP-16-2004_land-use-management_consultation_disclsoure.md)
+* [Decree (KepKa) of the Head of BAPEDAL  No. 8 of 2000  re: Public Participation in and the Disclosure of Information on the AMDAL Process](./IDN-analysis/consultation_participation/IDN_KEPKA-BAPEDAL-08-2000_participation-and-disclosure-in-AMDAL.md)
 * Decree of the Chairperson of the Environmental Impact Management Agency, KEP 299/11 of 1996 re: Technical Guidelines on Social Aspects Assessment in Preparing Environmental Impact Analyses
 * Law (UU) No. 2 of 2012 re: Land Procurement for Development in the Public Interest
 * Law (UU) No. 11 of 2010 re: Cultural Heritage
@@ -43,7 +43,7 @@
 * Law (UU) No. 22 of 1999 re: Regional Administration
 * Law (UU) No. 41 of 1999 re: Forestry
 * Law (UU) No 23 of 1997 re: Environmental Management
-* Law (UU) No.5 of 1960 re: Agrarian Laws
+* Law (UU) No.5 of 1960 re: Agrarian Law
 * Location Permit due to Environment Minister Decision
 * Decision Letter of MTB Regent due to Land Allocation for Public Interest
 * Minister of Environment Regulation (LH) No. 08 of 2006 re: Guidelines for the Preparation of the Environmental Impact Assessment (AMDAL)

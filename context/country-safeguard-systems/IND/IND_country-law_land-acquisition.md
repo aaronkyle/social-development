@@ -29,7 +29,7 @@
 
 The Land Acquisition Act, 1894, governed the process of land acquisition in India until the passing of LARR 2013. LAA 1894 allowed land acquisition for public purposes by a government agency from individual landowners after paying a government-determined compensation to cover losses incurred by landowners.
 
-## National Resettlement and Rehabilitation Policy of 2007 [NRRP 2007]
+### National Resettlement and Rehabilitation Policy of 2007 [NRRP 2007]
 
 The National Resettlement and Rehabilitation Policy, 2007, was an early attempt to reform the 1894 Land Acquisition Act. NRRP 2007 is a policy and as such it is not legally binding.  Although a Bill was introduced to Parliament in 2007 to make NRRP into a binding law (Act), this Bill never passed. NRRP is similar in most respect to the subsequent LARR 2013 (discussed below).  
 

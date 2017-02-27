@@ -7,6 +7,10 @@
 * [Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013](http://indiacode.nic.in/acts-in-pdf/302013.pdf) | LARR 2013
     * [Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Social Impact Assessment and Consent) Rules, 2014](http://dolr.nic.in/dolr/downloads/pdfs/RFCTLARR%20%28SIA%20and%20Consent%29%20Rules%202014.pdf) | LARR Rules 2014 | भूमि अर्जन, पुनर्वासन और पुनव्यर्वस्थापन में उचित प्रतिकर और पारदर्शिता अधिकार (सामाजिक समाघात निर्धारण और सहमति) नियम, 2014
     * [Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Compensation, Rehabilitation and Resettlement and Development Plan) Rules, 2015](http://dolr.nic.in/dolr/downloads/pdfs/167169.pdf) | LARR Rules 2015 | भूमि अर्जन, पुनर्वासन और पुनव्यर्वस्थापन में उचित प्रतिकर और पारदर्शिता अधिकार (प्रतिकर, पुनर्वासन और पुनव्यर्वस्थापन, विकास योजना) नियम, 2015
+    * Notifications under the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 | भूमि अर्जन, पुनर्वासन और पुनव्यर्वस्थापन में उचित प्रतिकर और पारदर्शिता अधिकार अधिनियम, 2013 के अंतर्गत अधिसूचनाएं
+        - Limit beyond which Rehabilitation & Resettlement shall apply on land purchased through private negotiations | सीमा जिसके बाद पुनर्वासन और पुनर्व्‍यवस्‍थापन निजी सौदों के माध्‍यम से खरीदी गई भूमि पर लागू होगा।
+        - Multiplication factor for determination of compensation under First Schedule | प्रथम अनुसूची के तहत प्रतिकर के निर्धारण हेतु गुणक।
+
 
 **Non-Binding Legislation:**
 
@@ -14,7 +18,10 @@
 * [Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Amendment) Ordinance, 2014](http://dolr.nic.in/dolr/downloads/pdfs/RFCTLARR%20Act%20%28Amendment%29%20Ordinance,%202014.pdf) | LARR (Amendment) Ordinance 2014] | भूमि अर्जन, पुनर्वासन और पुनव्यर्वस्थापन में उचित प्रतिकर और पारदर्शिता अधिकार अधिनियम (संशोधन) अध्यादेश, 2014
 * [Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act (Amendment) Ordinance, 2015](http://dolr.nic.in/dolr/downloads/pdfs/RFCTLARR%20Act%20%28Amendment%29%20Ordinance,%202015.pdf) | भूमि अर्जन, पुनर्वासन और पुनव्यर्वस्थापन में उचित प्रतिकर और पारदर्शिता अधिकार अधिनियम (संशोधन) अध्यादेश, 2015  
 * [Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act (Amendment) Second Ordinance, 2015](http://dolr.nic.in/dolr/downloads/pdfs/RFCTLARR%20Act%20%28Amendment%29%20Second%20Ordinance,%202015.pdf) | भूमि अर्जन, पुनर्वासन और पुनव्यर्वस्थापन में उचित प्रतिकर और पारदर्शिता अधिकार अधिनियम (संशोधन) द्वितीय अध्यादेश, 2015
-* Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Amendment) Bill, 2015 | LARR (Amendment) Bill 2015 | भूमि अर्जन, पुनर्वासन और पुनव्यर्वस्थापन में उचित प्रतिकर और पारदर्शिता अधिकार अधिनियम (संशोधन) विधेयक, 2015
+* [Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Amendment) Bill, 2015](http://dolr.nic.in/dolr/downloads/pdfs/RFCTLARR%20Act%20%28Amendment%29%20Bill,%202015%20as%20passed%20in%20Lok%20Sabha%20%28English%29.pdf) | LARR (Amendment) Bill 2015 | [भूमि अर्जन, पुनर्वासन और पुनव्यर्वस्थापन में उचित प्रतिकर और पारदर्शिता अधिकार अधिनियम (संशोधन) विधेयक, 2015](http://dolr.nic.in/hindidolr/dolr/downloads/pdfs/RFCTLARR%20Act%20%28Amendment%29%20Bill,%202015%20as%20passed%20in%20Lok%20Sabha%20%28Hindi%29.pdf)
+* [Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act (Amendment) Second Bill, 2015](http://dolr.nic.in/dolr/downloads/pdfs/RFCTLARR%20Act%20%28Second%20Amendment%29%20Bill,%202015%20as%20introduced%20in%20Lok%20Sabha%20%28English%29.pdf) | [भूमि अर्जन, पुनर्वासन और पुनव्यर्वस्थापन में उचित प्रतिकर और पारदर्शिता अधिकार अधिनियम (संशोधन) द्वितीय विधेयक, 2015](http://dolr.nic.in/hindidolr/dolr/downloads/pdfs/RFCTLARR%20Act%20%28Second%20Amendment%29%20Bill,%202015%20as%20introduced%20in%20Lok%20Sabha%20%28Hindi%29.pdf)
+
+
 
 **Additional Legislation Relevant for Compensation [in cases of economic displacement]:**
 

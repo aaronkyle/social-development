@@ -97,11 +97,11 @@ A total of 18/29 states have adopted implementing rules, as reflected in the fol
 |Meghalaya	|NO	||
 |Mizoram	|NO	||
 |Nagaland	|NO	||
-|Odisha	|NO	||
+|Odisha	|NO (draft)	| [S.R.O. No. 461201](http://www.odisha.gov.in/revenue/Acts_Rules/Rules/ORTFCTLARR_Rules_2015.pdf) |
 |Punjab	|NO	||
-|Rajasthan	|YES	|The Rajasthan Land Acquisition Bill, 2014.|
-|Sikkim	|YES	|Sikkim Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Rules, 2015 (02.03.2015)|
-|Tamil Nadu	|YES	|RFCTLARR (Tamil Nadu Amendment) Act, 2014.|
+|Rajasthan	|NO (draft)	| <strike>The Rajasthan Land Acquisition Bill, 2014</strike>, [Rajasthan Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Draft) Rules, 2015](http://www.rajrevenue.gov.in/WriteReadData/26-11-2015.pdf) |
+|Sikkim	|YES	| [Sikkim Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Rules, 2015 (02.03.2015)](http://www.rlarrdc.org.in/images/Gaz_no_64_of_2015.pdf) |
+|Tamil Nadu	|YES	| RFCTLARR (Tamil Nadu Amendment) Act, 2014|
 |Telangana	|YES	|Telangana Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Rules, 2015 (19.12.2015).|
 |Tripura	|YES	|Tripura Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Rules, 2015 (22.04.2015).|
 |Uttar Pradesh	|YES	|Uttar Pradesh Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Rules, 2015 (12.05.2015).|

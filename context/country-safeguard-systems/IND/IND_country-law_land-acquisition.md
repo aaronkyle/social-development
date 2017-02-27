@@ -85,7 +85,7 @@ A total of 18/29 states have adopted implementing rules, as reflected in the fol
 |Karnataka	|YES	|[Revenue Secretariat Notification; No. RD 152 AQB 2013, Bangalore, Dated 17 Oct 2015](http://www.karnataka.gov.in/kandaya/Special%20Instructions/Land%20Acquisition%20-%20Rehabilitation%20and%20Resettlement%20Draft%20rules%20by%20State.pdf)|
 |Kerala	|NO (draft)	|[Government Of Kerala No. 36253/B1/14/RD. Revenue (B) Department, Dated :17/10/2015. - Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation & Resettlement Act, 2013 - instructions for passing of Awards- Issued - reg. 1. G.O(P) No 470/ 15/RD dated 19-09-2015. 2. G.O. (Ms) 485/15/RD dated 23-09-2015.](http://rlarrdc.org.in/images/Kerala%20Draft%20Rules.pdf)|
 |Madhya Pradesh	|NO	||
-|Maharashtra	|YES	|Rules of the Maharashtra Government|
+|Maharashtra	|YES	| [The Right to Fair Compensation and Transparency in Land Acquisition ,Rehabilitation and Resettlement (Maharashtra) by Rules ,2014](https://www.maharashtra.gov.in/Site/Upload/Acts%20Rules/English/Pt.%20IV-A%20Ext.%20196.pdf)|
 |Manipur	|YES	|[Notification: Revenue Department No. 4/6/LA/2014-Com(rev) Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Social Impact Assessment and Consent) (Manipur) Rules](https://www.manipurportal.mn.gov.in/manipurstateportal//Notification/Land%20Revenue%202.pdf)|
 |Meghalaya	|NO	||
 |Mizoram	|NO	||

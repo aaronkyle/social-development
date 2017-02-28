@@ -29,8 +29,7 @@
 |		|	UU	|	Law 6 of 2014 on Villages 	|		|
 |	2007	|		|	SK Bupati Cilacap 590/326/03/2007 for substation	|		|
 |	2009	|		|	SK Bupati Cilacap 590/216/03/2009 for towers	|		|
-|	2011	|		|	International Covenant on Economic, Social and Cultural Rights (1976) that has been ratified by Law 5 of 2011:	|	"UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 11 TAHUN 2005 TENTANG PENGESAHAN INTERNATIONAL COVENANT ON ECONOMIC, SOCIAL AND
-CULTURAL RIGHTS (KOVENAN INTERNASIONAL TENTANG HAK-HAK EKONOMI, SOSIAL DAN BUDAYA)"	|
+|	2011	|		|	International Covenant on Economic, Social and Cultural Rights (1976) that has been ratified by Law 5 of 2011:	|	"UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 11 TAHUN 2005 TENTANG PENGESAHAN INTERNATIONAL COVENANT ON ECONOMIC, SOCIAL AND CULTURAL RIGHTS (KOVENAN INTERNASIONAL TENTANG HAK-HAK EKONOMI, SOSIAL DAN BUDAYA)"	|
 |		|		|		|	UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 5 TAHUN 2011 TENTANG AKUNTAN PUBLIK DENGAN RAHMAT TUHAN YANG MAHA ESA	|
 |	2012	|		|	Head of BPN Regulation 5 (2012)	|	PERATURAN KEPALA BPN RI NOMOR 5 TAHUN 2012 TENTANG PETUNJUK TEKNIS PELAKSANAAN PENGADAAN TANAH	|
 |	2013	|		|	PLN Decree 0289 of 2013 regarding Land Acquisition for the Purpose of Providing Electricity, Operational Costs of Land Acquisition, and Operational Cost of Compensation 	|	Keputusan Direksi PT PLN (PERSERO) Nomor 0289 .K/DIR/2013 tentang Pengadaan Tanah Untuk Kepentingan Penyediaan Tenaga Listrik, Biaya Operasional Pengadaan Tanah Dan Biaya Opersaional Kompensasi Di Lingkungan PT PLN (Persero)	|

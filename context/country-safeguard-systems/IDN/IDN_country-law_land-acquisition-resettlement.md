@@ -1,4 +1,48 @@
-# Land Acquisition Practices in Indonesia under Law 2 of 2012
+
+|	Year	|	Cat.	|	Name of Law (English)	|	Name of Law (Bahasa Indonesia)	|
+|	---	|	---	|	---	|	---	|
+|	2016	|	PERPRES	|	Presidential Decree 40 of 2016 concerning the Acceleration of the Development of Electricity Infrastructure	|	Peraturan Presiden Republik Indonesia Nomor 40 tahun 2016  tentang PENETAPAN HARGA GAS BUMI	|
+|	2013	|	PERMEN	|	Regulation of Minister of Energy and Mineral Resources 38 of 2013: Compensation procedures to Land, Building and Plants located under SUTT (High Power Transmission) and SUTET (Extra-High Power Transmission)	|	Peraturan Menteri Energi Dan Sumber Daya Mineral Republik Indonesia Nomor 38 Tahun 2013 Tentang Kompensasi Atas Tanah, Bangunan Dan Tanaman Yang Berada Di Bawah Ruang Bebas Saluran Udara Tegangan Tinggi Dan Saluran Udara Tegangan Ekstra Tinggi 	|
+|	2015	|	PERMEN	|	Regulation of Ministry of Agrarian and Spatial Planning/National Land Agency 6 of 2015  on Amendment of Regulation of  Head of National Land Agency  5 of 2012 on Technical Guidance of Land Acquisition Implementation.	|	Peraturan Menteri Agraria Dan Tata Ruang/Kepala Bpn Nomor 6 Tahun 2015 Tentang Perubahan Atas Peraturan Kepala Badan Pertanahan Nasional Nomor 5 Tahun 2012 Tentang Petunjuk Teknis Pelaksanaan Pengadaan Tanah	|
+|	2015	|	PERMEN	|	Permen PUPR 15 of 2015 SOTK	|	Menteri Pekerjaan Umum Dan Perumahan Rakyat Republik Indonesia Peraturan Menteri Pekerjaan Umum Dan Perumahan Rakyat Nomor : 15/Prt/M/2015 Tentang Organisasi Dan Tata Kerja Kementerian Pekerjaan Umum Dan Perumahan Rakyat Tanggal 21 April 2015	|
+|	2015	|	PERMEN	|	Regulation of Ministry of Agrarian Affairs and Spatial Planning/Head of National Land Agency 5 of 2015 on Location Permit	|	Peraturan Menteri Agraria Dan Tata Ruang/Kepala Bpn Nomor 5 Tahun 2015 Tentang Izin Lokasi	|
+|		|	PERMEN	|	Ministry of Forestry Implementing Regulation No. 62/13	|	Peraturan Presiden Republik Indonesia Nomor 62 Tahun 2013 Tentang Badan Pengelola Penurunan Emisi Gas Rumah Kaca Dari Deforestasi, Degradasi Hutan Dan Lahan Gambu	|
+|		|	PERMEN	|	Permen 52/14 regarding Guidelines of the Recognition and Protection of Indigenous Peoples	|	Peraturan Menteri Dalam Negeri Nomor 52 Tahun 2014 Tentang Pedoman Pengakuan Dan Perlindungan Masyarakat Hukum Adat	|
+|	2005	|	PERPRES	|	Presidential Decree (Perpres) 36 of 2005 	|	Peraturan Presiden Republik Indonesia Nomor 36 Tahun 2005 Tentang Pengadaan Tanah Bagi Pelaksanaan Pembangunan Untuk Kepentingan Umum 	|
+|	2006	|	PERPRES	|	Perpres 65 of 2006	|	Peraturan Presiden Republik Indonesia Nomor 65 Tahun 2006 Tentang Perubahan Atas Peraturan Presiden Nomor 36 Tahun 2005 Tentang Pengadaan Tanah Bagi Pelaksanaan Pembangunan Untuk Kepentingan Umum	|
+|	2012	|	PERPRES	|	Regulation of the President of the Republic of Indonesia Number 71 of 2012 regarding Implementation of Land Acquisition for Development for Public Interest	|	Peraturan Presiden Republik Indonesia Nomor 71 Tahun 2012 Tentang Penyelenggaraan Pengadaan Tanah Bagi Pembangunan Untuk Kepentingan Umum 	|
+|	2014	|	PERPRES	|	Regulation of the President of the Republic of Indonesia Number 40 of 2014 regarding Amendment of the Presidential Regulation Number 71 of 2012 regarding Implementation Of Land Acquisition For Development For Public Interest.	|	Peraturan Presiden Republik Indonesia Nomor 40 Tahun 2014 Tentang Perubahan Atas Peraturan Presiden Nomor 71 Tahun 2012 Tentang Penyelenggaraan Pengadaan Tanah Bagi Pembangunan Untuk Kepentingan Umum	|
+|	2014	|	PERPRES	|	Perpres 100 of 2014, Accelerated Development Program for Freeways in Sumatra	|	Peraturan Presiden Republik Indonesia Nomor 100 Tahun 2014 Tentang Percepatan Pembangunan Jalan Tol Di Sumatera	|
+|	2015	|	PERPRES	|	Presidential Regulation 2 of 2015 regarding the National Mid-term Development Plan Year 2015-2019 (Rencana Pembangunan Jangka Menengah Nasional). 	|		|
+|	1998	|	PP	|	Regulation of the Government of Indonesia Number 37 of 1998 on Land Deed Making Official	|	Peraturan Pemerintah Republik Indonesia Nomor 37 Tahun 1998 Tentang Peraturan Jabatan Pejabat Pembuat Akta Tanah	|
+|	2014	|	PP	|	Regulation of the Government of Indonesia Number 88 of 2014 regarding Implementing Housing and Guidance of Settlement Area. 	|	Peraturan Pemerintah Republik Indonesia Nomor 88 Tahun 2014 Tentang Pembinaan Penyelenggaraan Perumahan Dan Kawasan Permukiman	|
+|		|	PP	|	Government Regulation on Land Deed Making Official (PPAT/Pejabat Pembuat Akta Tanah)	|		|
+|	1960	|	UU	|	Law 51 of 1960 regarding Ban on Land Use Without Permission of the Entitled or their Proxies. 	|	Undang-Undang No. 51 Prp Tahun 1960 Tentang Larangan Pemakaian Tanah Tanpa Ijin Yang Berhak Atau Kuasanya	|
+|	1960	|	UU	|	Basic Agrarian Law of 1960	|		|
+|	1999	|	UU	|	Law of the Republic of Indonesia Number 39 of 1999 regarding Human Rights. 	|	Undang-Undang No. 39 Tahun 1999 Tentang Hak Asasi Manusia	|
+|	2005	|	UU	|	Law of the Republic of Indonesia Number 11 of 2005 regarding Ratification of the International Covenant on Economic, Social and Cultural Rights. 	|	Undang-Undang Republik Indonesia Nomor 11 Tahun 2005 Tentang Pengesahan International Covenant On Economic, Social And Cultural Rights (Kovenan Internasional Tentang Hak-Hak Ekonomi, Sosial Dan Budaya) 	|
+|	2008	|	UU	|	Law 14 of 2008 on Public Information Openness 	|		|
+|	2009	|	UU	|	Law 25 of 2009 on Public Services	|		|
+|	2011	|	UU	|	Law of the Republic of Indonesia Number 1 of 2011 regarding Housing and Resettlement Area. 	|	Undang-Undang Republik Indonesia Nomor 1 Tahun 2011 Tentang Perumahan Dan Kawasan Permukiman	|
+|	2011	|	UU	|	Law No 16 of 2011 on Legal Aid 	|		|
+|	2012	|	UU	|	Law of the Republic of Indonesia Number 2 of 2012 regarding Land Procurement for Public Utilities Construction. 	|	Undang-Undang Nomor 2 Tahun 2012 Tentang Pengadaan Tanah Bagi Pembangunan Untuk Kepentingan Umum	|
+|		|	UU	|	Law 6 of 2014 on Villages 	|		|
+|	2007	|		|	SK Bupati Cilacap 590/326/03/2007 for substation	|		|
+|	2009	|		|	SK Bupati Cilacap 590/216/03/2009 for towers	|		|
+|	2011	|		|	International Covenant on Economic, Social and Cultural Rights (1976) that has been ratified by Law 5 of 2011:	|	"UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 11 TAHUN 2005 TENTANG PENGESAHAN INTERNATIONAL COVENANT ON ECONOMIC, SOCIAL AND CULTURAL RIGHTS (KOVENAN INTERNASIONAL TENTANG HAK-HAK EKONOMI, SOSIAL DAN BUDAYA)"	|
+|		|		|		|	UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 5 TAHUN 2011 TENTANG AKUNTAN PUBLIK DENGAN RAHMAT TUHAN YANG MAHA ESA	|
+|	2012	|		|	Head of BPN Regulation 5 (2012)	|	PERATURAN KEPALA BPN RI NOMOR 5 TAHUN 2012 TENTANG PETUNJUK TEKNIS PELAKSANAAN PENGADAAN TANAH	|
+|	2013	|		|	PLN Decree 0289 of 2013 regarding Land Acquisition for the Purpose of Providing Electricity, Operational Costs of Land Acquisition, and Operational Cost of Compensation 	|	Keputusan Direksi PT PLN (PERSERO) Nomor 0289 .K/DIR/2013 tentang Pengadaan Tanah Untuk Kepentingan Penyediaan Tenaga Listrik, Biaya Operasional Pengadaan Tanah Dan Biaya Opersaional Kompensasi Di Lingkungan PT PLN (Persero)	|
+|	2013	|		|	Penetapan Lokasi (Persetujuan Penetapan Lokasi Pengadaan Tanah) by Governor Decree (SK Gubernur) 590/23/2013 dated 07 May 2013 for towers, in accordance with Law 2 of 2012	|		|
+|	2013	|		|	Renewal of SJ Gubernur 590/23/2013 by SK Gubernur 590/14/2015	|		|
+|	2013	|		|	SK Gubernur 590/24/2013 dated 13 May 2013	|		|
+|	2015	|		|	Policy of PLN Board (Peraturan Direksi PLN) No. 0133.K/DIR/2015	|		|
+|	2016	|		|	Perma 2 of 2016 Concerning Guidelines For the  Dispute of Location Determination for  the Development of Public Interest at State  Judicial Administration	|	PERATURAN MAHKAMAH AGUNG REPUBLIK INDONESIA NOMOR 2 TAHUN 2016 TENTANG PEDOMAN BERACARA DALAM SENGKETA PENETAPAN LOKASI PEMBANGUNAN UNTUK KEPENTINGAN UMUM PADA PERADILAN TATA USAHA NEGARA	|
+|	2016	|		|	Perma 3 of 2016 Concerning Procedure for Filling Objections and Custody Compensation to Court for Land Acquisition for Development of Public Interest.  	|	PERATURAN MAHKAMAH AGUNG REPUBLIK INDONESIA NOMOR 3 TAHUN 2016 TENTANG TATA CARA PENGAJUAN KEBERATAN DAN PENITIPAN GANTI KERUGIAN KE PENGADILAN NEGERI DALAM PENGADAAN TANAH BAGI PEMBANGUNAN UNTUK KEPENTINGAN UMUM 	|
+|		|		|	Indonesian Civil Code (KUH Perdata)	|		|
+
+
+## Land Acquisition Practices in Indonesia under Law 2 of 2012
 
 
 Indonesia enacted Law 2 of 2012 on Land Acquisition for Development in the Public Interest (Land Acquisition Law) for acquiring land for public use activities together with the implementing regulations.<sup>[1]( "The implementing regulations are: Presidential Decree (Perpres) 71 of 2012, which has been amended by Perpres 40 of 2014, Perpres 99 of 2014, Perpres 30 of 2015 and the most updated one, Perpres 148 of 2015; Minister of Finance Decree 13/PMK.02 of 2013 and 246/PMK.06 of 2014; Minister of Home Affairs Decree 72 of 2012; and Head of Land Office Decree 5 of 2012 and 6 of 2015.")</sup>  
@@ -12,7 +56,7 @@ Law 2 of 2012 has significantly improved Indonesia’s country safeguards system
 The agencies or institutions that are eligible to acquire land through Law 2 of 2012 are any state, institution, ministry and non-ministry government institution, provincial government, district or city government, and state-owned legal entity/state-owned entity that are specially assigned by the Government.<sup>[3]( "Beside Law 2 of 2012 and its implementing regulations, there are other regulations related to the land acquisition and resettlement for public interest, such as Presidential Degree 40 of 2016 concerning the Acceleration of the Development of Electricity Infrastructure, which has significant aspects in reducing the time of land acquisition process and determining the location.  This would be discussed more in the section on Energy Sector.")</sup>  The government can also acquire land by establishing cooperation with state-owned enterprises, regional government owned enterprises, and private enterprises (public-private partnership).
 
 
-## Land Acquisition Process in Accordance with Law 2 of 2012
+### Land Acquisition Process in Accordance with Law 2 of 2012
 
 The land acquisition stages as regulated in the law are: planning, preparation, implementation, and results delivery. The law specifies the institutions responsible for each stage. Figure A.10.1 illustrates the stages of land acquisition and the timing defined for each step. Figure A.10.1 also accounts for the provisions of Presidential Decree 148 of 2015, which has reduced the time needed for the land acquisition process to enhance the development of infrastructure. Details of each stage of the land acquisition are further elaborated below.
 
@@ -40,7 +84,7 @@ The land acquisition stages as regulated in the law are: planning, preparation, 
 Source: Presidential Regulation 71 of 2012 on Implementation of Land Acquisition for the Development in the Public Interest and Presidential Regulation 148 of 2015 on the Fourth Amendment for the Presidential Regulation 71 of 2012.  
 
 
-### Planning Stage
+#### Planning Stage
 
 
 In this stage, the agency needing land shall make a Plan of Land Acquisition in the Public Interest in accordance with all applicable laws and regulations. Specifically, preparation of the plan shall refer to laws on regional planning, spatial planning, as well as to the development priority as stated in the National Medium-Term Development Plan, the Country Strategic Plan, as well as the Working Plan of relevant agencies.
@@ -50,7 +94,7 @@ The Land Acquisition Plan in the Public Interest Document should contain: (i) ob
 There is no time limit for an agency to prepare the Land Acquisition Plan in the Public Interest Document during the planning stage. 
 
 
-### Preparation Stage
+#### Preparation Stage
 
 In the preparation stage, the responsible stakeholders for the activities are the agency that needs the land and the local government. After the agency submits the Land Acquisition Plan in the Public Interest Document, the governor establishes a project preparation team. This team, under governor instruction, implements preparation steps, the output of which is the issuance of the penetapan lokasi (determination of location) by the governor or regent (depending on the project scope). The steps of this stage are:
 
@@ -67,7 +111,7 @@ The preparation stage is critical in land acquisition. The issuance of the penet
 Local governments apply different practices to guarantee that all steps would be achieved within the time limit. 
 
 
-### Implementation Stage
+#### Implementation Stage
 
 MASP/NLA is the agency primarily responsible for the land acquisition activities in the implementation stage, although this responsibility may be delegated to the district land office.  Implementation of land acquisition is conducted by the Land Acquisition Committee (LAC) established by the regional MASP/NLA. The output of this stage is the compensation payment and the Land Release to the land office. The steps of this stage are:
 
@@ -91,7 +135,7 @@ MASP/NLA is the agency primarily responsible for the land acquisition activities
 An individual or group of independent appraisers carries out the valuation of compensation during the implementation stage. As regulated in Law 2 of 2012 and its supporting regulations, the valuation of the compensation should be done by “Independent and Professionals Appraisers who have license from Ministry of Finance as Public Appraiser and registered in National Land Institution (BPN).”  The Indonesian Society of Appraisers (Masyarakat Profesi Penilai Indonesia, MAPPI) has issued Valuation Standard 306, Valuation in the Context of Land Acquisition for Development for Public Interest, in response to Law 2 of 2012. The standard has the same principles as the law, which determines that the amount of compensation is based on the principles of humanity, fairness, usefulness, certainty, transparency, agreement, participation, welfare, harmony, and sustainability.
 
 
-### Valuation of Compensation
+#### Valuation of Compensation
 
 The most critical issue in land acquisition is compensation. The amount of compensation is associated with the valuation of land acquisition objects. In the past, the valuation of land was based on the government tax assessment value (Nilai Jual Obyek Pajak – NJOP), which is much lower than the land market rate.  The Presidential Regulation 65 of 2006 on Land Acquisition for the Development in the Public Interest stipulates that independent appraisers are involved to calculate compensation, but such was limited to lost land. Compensation for structures and trees/plants were based on the Pricing Standard on Building and Plants, issued by the local government. 
 
@@ -121,7 +165,7 @@ The MAPPI standard emphasizes fair replacement value (nilai penggantian wajar), 
 * Physical damages, if parts of the building were cut off as a result of land acquisition and costly repairs have to be carried out to restore functionality.
 
 
-####  Valuation Issues
+#####  Valuation Issues
 
 In practice, coordination among the land office, the agency needing land, and the appraiser should flow smoothly to achieve the expected results of the implementation stage, which are the compensation payments and the land release to the land institution (MASP/NLA).  A report of an appraiser involved in the implementation stage with the land office identified typical problems during this stage. 
 

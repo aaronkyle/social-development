@@ -11,24 +11,26 @@
 * [Regulation of the Minister of Marine Affairs and Fisheries No. Per.08/Men/2009 re: Community Participation and Empowerment in the Management of Coastal Areas and Small Islands](./IDN-analysis/consultation_participation/IDN_PERMEN-KP-8-M-2009_community-participation-coastal-areas_consultation_disclosure.md)
 * [Regulation of the State Minister of Environment of Republic of Indonesia No. 16 of 2012 re: Guidelines for Composing Environmental Documents](./IDN-analysis/consultation_participation/IDN_PERMEN-LH-16-2012_guidelines-environmental-documents_consultation_disclosure.md)
 * [Regulation of the State Minister of Environment No. 17 of 2012 re: Guideline for Community Involvement in Environmental Impact Statement and Environment Licensing Process](./IDN-analysis/consultation_participation/IDN_PERMEN-LH-17-2012_community-involvement-environmental-licensing_consultation_consutlation_disclosure.md)
+* MENLH-03-2012-Biodiversity Park: Presidential Regulation (Perpres) No. 09 of 2013 re: Implementation Management of Upstream Oil and Gas
 * Presidential Regulation No. 71/2012 re: Land Procurement Procedures for Development and the Public Interest
 * [Presidential Decree No. 78/2007 re: Ratification Convention for the Safeguarding of the Intangible Cultural Heritage (Convention for the Protection of Intangible Cultural Heritage)](./IDN-analysis/consultation_participation/IDN_PERPRES-78-2007_ratification-convention-intangible-heritage_consultation_participation.md)
 * [Government Regulation in Lieu of Law of the Republic of Indonesia No. 1/2004 re: Amendment to Law No. 41/1999 on Forestry](./IDN-analysis/consultation_participation/IDN_PP-1-2004_amendment-forestry-law_consultation_disclosure.md)
 * [Government Regulation (PP) No. 27 of 2012 re: Environmental Permit](./IDN-analysis/consultation_participation/IDN_PP-27-2012_environmental-permit_consultation_disclsoure.md)
 * Government Regulation (PP) No. 60 of 2012 re: Amendment to Government Regulation No. 10 of 2010 on Procedure of Altering the Appropriation and Function of Forest Areas
-* [Government Regulation (PP) No. 10 of 2010 re: Procedure of Altering the Appropriation and Function of Forest Areas]()
+* [Government Regulation (PP) No. 10 of 2010 re: Procedure of Altering the Appropriation and Function of Forest Areas](/IDN-analysis/consultation_participation/IDN_PP-10-2010_appropriation-of-forest-areas_consultation_disclosure.md)
 * [Government Regulation (PP) No. 24 of 2010 re: Forest Area Utilization](./IDN-analysis/consultation_participation/IDN_PP-24-2010_forest-area-utilization_consultation_disclosure.md)
 * Government Regulation (PP) No. 60 of 2009 re: Amendment to Government Regulation No. 45 of 2004 on Forest Protection
 * [Government Regulation (PP) No. 45 of 2004 re: Forest Protection](./IDN-analysis/consultation_participation/IDN_PP-45-2004_forest-protection_consultation_disclsoure.md)
 * [Government Regulation (PP) No. 03 of 2008 re: Amendment to Government Regulation No. 06 of 2007 on Forest Management and Forest Management Planning, and Forest Utilization](./IDN-analysis/consultation_participation/IDN_PP-03-2008_ammendment-forest-area-utilization_consultation_disclosure.md)
-* [Government Regulation (PP) No. 06 of 2007 re: Forest Management and Forest Management Planning, and Forest](./IDN-analysis/consultation_participation/IDN_PP-06-2007_forest-area-utilization_consultation_disclosure.md) UtilizationIDN_PP-06-2007_forest-area-utilization_consultation_disclosure.md
+* [Government Regulation (PP) No. 06 of 2007 re: Forest Management and Forest Management Planning, and Forest   Utilization](./IDN-analysis/consultation_participation/IDN_PP-06-2007_forest-area-utilization_consultation_disclosure.md)
 * Government Regulation (PP) No. 07 of 1999 re: Conservation of flora and fauna
 * [Government Regulation (PP) No. 27 of 1999 re: Environmental Impact Assessment](./IDN-analysis/consultation_participation/IDN_PP-27-1999_environmental-impact-assessment_consultation_disclosure.md)
 * Working Procedure Manual (PTK) No.027/PTK/XII/2007
 * Working Procedure Manual 017/PTK/III/2005 re: Guidelines for Providing Emergency Information, Community Development Program Guidelines, and Guidelines for Public Relations for Production Sharing Contracts in the Upstream Oil and Gas Environment [Bandan Pelaksana Kegiatan Usaha Hulu Minyak Dan Gas Buni;  BPMIGAS]
 * [Government Regulation (PP) 16_2004 re: Land Use Management](./IDN-analysis/consultation_participation/IDN_PP-16-2004_land-use-management_consultation_disclsoure.md)
 * [Decree (KepKa) of the Head of BAPEDAL  No. 8 of 2000  re: Public Participation in and the Disclosure of Information on the AMDAL Process](./IDN-analysis/consultation_participation/IDN_KEPKA-BAPEDAL-08-2000_participation-and-disclosure-in-AMDAL.md)
-* Decree of the Chairperson of the Environmental Impact Management Agency, KEP 299/11 of 1996 re: Technical Guidelines on Social Aspects Assessment in Preparing Environmental Impact Analyses
+ [Decree of the Chairperson of the Environmental Impact Management Agency, KEP 299/11 of 1996 re: Technical Guidelines on Social Aspects Assessment in Preparing Environmental Impact Analyses](./IDN-analysis/consultation_participation/IDN_KEPKA-BAPEDAL-299-11-1996_guidelines-social-assessment-in-EIA_consultation_disclosure.md)
+* Decree of the Regent of Western Southeast Maluku Regency No. 520-366/2007 re: Price Standardization of Lands and Crops of Society Impacted by Development in the Government of Western Southeast Maluku Regency
 * Law (UU) No. 2 of 2012 re: Land Procurement for Development in the Public Interest
 * Law (UU) No. 11 of 2010 re: Cultural Heritage
 * Law (UU) No. 32 of 2009 re: Environmental Protection and Management
@@ -1330,10 +1332,7 @@ Appendix 5 states that in formulating the Environmental Monitoring Plan (RPL), a
 
 
 
-
-
-
-Decree of the Regent of Western Southeast Maluku Regency No. 520-366/2007 re: Price Standardization of Lands and Crops of Society Impacted by Development in the Government of Western Southeast Maluku Regency
+### Decree of the Regent of Western Southeast Maluku Regency No. 520-366/2007 re: Price Standardization of Lands and Crops of Society Impacted by Development in the Government of Western Southeast Maluku Regency
 
 SUMMARY
 

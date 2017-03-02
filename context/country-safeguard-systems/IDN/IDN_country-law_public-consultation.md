@@ -29,8 +29,8 @@
 * Working Procedure Manual 017/PTK/III/2005 re: Guidelines for Providing Emergency Information, Community Development Program Guidelines, and Guidelines for Public Relations for Production Sharing Contracts in the Upstream Oil and Gas Environment [Bandan Pelaksana Kegiatan Usaha Hulu Minyak Dan Gas Buni;  BPMIGAS]
 * [Government Regulation (PP) 16_2004 re: Land Use Management](./IDN-analysis/consultation_participation/IDN_PP-16-2004_land-use-management_consultation_disclsoure.md)
 * [Decree (KepKa) of the Head of BAPEDAL  No. 8 of 2000  re: Public Participation in and the Disclosure of Information on the AMDAL Process](./IDN-analysis/consultation_participation/IDN_KEPKA-BAPEDAL-08-2000_participation-and-disclosure-in-AMDAL.md)
- [Decree of the Chairperson of the Environmental Impact Management Agency, KEP 299/11 of 1996 re: Technical Guidelines on Social Aspects Assessment in Preparing Environmental Impact Analyses](./IDN-analysis/consultation_participation/IDN_KEPKA-BAPEDAL-299-11-1996_guidelines-social-assessment-in-EIA_consultation_disclosure.md)
-* Decree of the Regent of Western Southeast Maluku Regency No. 520-366/2007 re: Price Standardization of Lands and Crops of Society Impacted by Development in the Government of Western Southeast Maluku Regency
+* [Decree of the Chairperson of the Environmental Impact Management Agency, KEP 299/11 of 1996 re: Technical Guidelines on Social Aspects Assessment in Preparing Environmental Impact Analyses](./IDN-analysis/consultation_participation/IDN_KEPKA-BAPEDAL-299-11-1996_guidelines-social-assessment-in-EIA_consultation_disclosure.md)
+* [Decree of the Regent of Western Southeast Maluku Regency No. 520-366/2007 re: Price Standardization of Lands and Crops of Society Impacted by Development in the Government of Western Southeast Maluku Regency](./IDN-analysis/consultation_participation/IDN_Keputusan-Bupati-MTB-520-366-2007_price-standarization-lands-crops_consultation_disclosure.md)
 * Law (UU) No. 2 of 2012 re: Land Procurement for Development in the Public Interest
 * Law (UU) No. 11 of 2010 re: Cultural Heritage
 * Law (UU) No. 32 of 2009 re: Environmental Protection and Management
@@ -55,7 +55,7 @@
 **Regional Laws**
 
 * Regulation of Maluku Tenggara Barat Regency No. 14 of 2012 re: Spatial Planning of Maluku Tenggara Barat Regency for the Years of 2012-2032
-* Decree of the Regent of Western Southeast Maluku Regency No. 520-366/2007 re: Price Standardization of Lands and Crops of Society Impacted by Development in the Government of Western Southeast Maluku Regency
+* [Decree of the Regent of Western Southeast Maluku Regency No. 520-366/2007 re: Price Standardization of Lands and Crops of Society Impacted by Development in the Government of Western Southeast Maluku Regency](./IDN-analysis/consultation_participation/IDN_Keputusan-Bupati-MTB-520-366-2007_price-standarization-lands-crops_consultation_disclosure.md)
 
 
 **Sector-specific Laws**

@@ -4,8 +4,7 @@
 [Independent Accountability Mechanismes Network](http://independentaccountabilitymechanism.net/) (IAMnet)  - membership network
 
 World Bank - [Inspection Panel](http://ewebapps.worldbank.org/apps/ip/Pages/Home.aspx)
-* [Operating Procedures (2014)](
-)
+* [Operating Procedures (2014)](http://ewebapps.worldbank.org/apps/ip/PanelMandateDocuments/2014%20Updated%20Operating%20Procedures.pdf)
 
 European Investment Bank (EIB) – [Complaints Mechanism](http://www.eib.org/about/accountability/complaints/)
 * [Complaints Mechanism Policy](http://www.eib.org/infocentre/publications/all/complaints-mechanism-policy)
@@ -14,7 +13,7 @@ European Investment Bank (EIB) – [Complaints Mechanism](http://www.eib.org/abo
 European Bank for Reconstruction and Development (EBRD) - [Project Complaint Mechanism](http://www.ebrd.com/work-with-us/project-finance/project-complaint-mechanism.html) (PCM)
 * [PCM Rules of Procedure (2014)](http://www.ebrd.com/downloads/integrity/pcmrules.pdf)
 
-Inter-American Development Bank (IDB) [sometimes also: IADB] - [Independent Consultation and Investigation Mechanism](http://www.iadb.org/en/mici/mici,1752.html) (MICI) / Mecanismo Independiente de Consulta e Investigación (MICI)
+Inter-American Development Bank (IDB) [sometimes also: IADB] - [Independent Consultation and Investigation Mechanism](http://www.iadb.org/en/mici/mici,1752.html) ([MICI](# "Mecanismo Independiente de Consulta e Investigación"))
 * [MICI-IDB Policy](http://www.iadb.org/document.cfm?id=40792853) [[IDB](http://www.iadb.org/en/inter-american-development-bank,2837.html), [MIF](http://www.fomin.org/en-us/)]
 * [MICI-IIC Policy](http://www.iadb.org/document.cfm?id=40151002) [[IIC](http://www.iic.org/en)]
 

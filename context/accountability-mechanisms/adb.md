@@ -5,6 +5,42 @@
 2. [Special Project Facilitator	(SPF)](https://www.adb.org/site/accountability-mechanism/problem-solving-function/office-special-facilitator)
 
 
+
+---
+[Process flow: How we handle your complaint](https://www.adb.org/site/accountability-mechanism/complaint-process-flow)
+
+You have sent your complaint to the Complaint Receiving Officer. What happens next?
+
+You have two choices:
+
+Problem solving - This tries to help you find a solution
+
+The **Special Project Facilitator** will:
+
+* handle your complaint
+* ask you to clarify what the complaint is and what harm was caused
+* help you, the ADB operation department, and the government to explore possible solutions
+* help everyone involved to agree on what needs to be done to solve your problem
+* then, monitor the actions agreed upon
+
+See detailed information on the [problem solving function](https://www.adb.org/site/accountability-mechanism/problem-solving-function).
+
+or
+
+Compliance review - This finds out if ADB has followed its policies and procedures
+
+The **Compliance Review Panel** will:
+
+* investigate ADB based on your complaint
+* consult with everyone involved in the project
+* write a draft report, which you can comment on
+* give its findings to the ADB Board of Directors in its final report
+
+Should there be noncompliance, ADB will formulate a remedial action plan, in consultation with the borrower and have it approved by the ADB Board of Directors before the remedial actions are implemented. The CRP will monitor the implementation of remedial action up to 3 years from implementation of such.
+
+See detailed information on the [compliance review function](https://www.adb.org/site/accountability-mechanism/compliance-review-function).
+
+
 ---
 
 ## [Compliance Review Panel (CRP)](http://compliance.adb.org/)

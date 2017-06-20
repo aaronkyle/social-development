@@ -6,8 +6,7 @@ AfDB
 
 * Annual Reports on Evaluation
 
-* [Completion Report Reviews](https://www.afdb.org/en/documents/evaluation-reports/completion-report-reviews/)
-
+* [Completion Report Reviews](https://www.afdb.org/en/documents/evaluation-reports/completion-report-reviews/)<br/>
 |_ [Synthesis Report on the Review of 2003-2005 - Project Completion Reports](https://www.afdb.org/en/documents/document/synthesis-report-on-the-review-of-2003-2005-project-completion-reports-9311/)<br/>
 |_ [CAR - Public Finance Management Assessment Based on Pefa (Public Expenditure and Financial Accountability) Framework - Final Report (CAR)
 Categories: Central African Republic](https://www.afdb.org/en/documents/document/car-public-finance-management-assessment-based-on-pefa-public-expenditure-and-financial-accountability-framework-final-report-car-25881/)<br/>
@@ -69,7 +68,7 @@ Categories: Central African Republic](https://www.afdb.org/en/documents/document
 |_ OPEV’s Report-Annual Synthesis of Private Sector Operations Results-Findings and Lessons from 14 Interventions - Management Response
 |_ 	1996-2008 - Gabon - Management Response to the Evaluation of Assistance<br/>
 
-* [Evaluation Report Summary](https://www.afdb.org/en/documents/evaluation-reports/evaluation-report-summary/)
+* [Evaluation Report Summary](https://www.afdb.org/en/documents/evaluation-reports/evaluation-report-summary/)<br/>
 |_ 	Informal Note on PPER Summary of Four Agriculture Sector Projects<br/>
 |_ 	Ethiopia - Review of Bank Group Assistance to the Public Utility Sector - Evaluation Report Summary<br/>
 |_ 	Review of Bank Assistance Effectiveness in the Health Sector - Evaluation Report Summary<br/>
@@ -83,22 +82,27 @@ Categories: Central African Republic](https://www.afdb.org/en/documents/document
 * Evaluation Workshop Proceedings
 * Process Reviews
 
-* [Project Evaluations](https://www.afdb.org/en/documents/evaluation-reports/project-evaluations/)
-|_ [
-|_ [
-|_ [
-|_ [
-|_ [
-|_ [
-|_ [
-|_ [
-|_ [
-|_ [
-|_ [
-|_ [
-|_ [
-|_ [
-|_ [
+* [Project Evaluations](https://www.afdb.org/en/documents/evaluation-reports/project-evaluations/)<br/>
+|_ [Gabon : Road Maintenance Project](https://www.afdb.org/en/documents/document/gabon-road-maintenance-project-9630/)<br/>
+|_ [Multinational - East Africa's Centers of Excellence for skills and Tertially Education in Biomedical Sciences - Phase 1](https://www.afdb.org/en/documents/document/multinational-east-africas-centers-of-excellence-for-skills-and-tertially-education-in-biomedical-sciences-phase-1-49867/)<br/>
+|_ [SOMALIA - Approved- Appraisal Report - Building Resilience to water stress in Somaliland - 10 2014](https://www.afdb.org/en/documents/document/somalia-approved-appraisal-report-building-resilience-to-water-stress-in-somaliland-10-2014-49866/)<br/>
+|_ [Quality of Project Results Reporting at the AfDB, 2008-2009 - What have we learned?](https://www.afdb.org/en/documents/document/quality-of-project-results-reporting-at-the-afdb-2008-2009-what-have-we-learned-25394/)<br/>
+|_ [DRC - National Capacity Building Programme Support Project (PANPURC) - PPER](https://www.afdb.org/en/documents/document/drc-national-capacity-building-programme-support-project-panpurc-pper-25547/)<br/>
+|_ [Equatorial Guinea - Institutional Support Project to the Ministry of Planning and Economic Development (AMPDE)](https://www.afdb.org/en/documents/document/equatorial-guinea-institutional-support-project-to-the-ministry-of-planning-and-economic-development-ampde-25548/)<br/>
+|_ [Lesotho - Mpharane-Bela Bela Road Upgrading Project - PPER](https://www.afdb.org/en/documents/document/lesotho-mpharane-bela-bela-road-upgrading-project-pper-25549/)<br/>
+|_ [Zambia - Victoria Falls-Katima Mulilo 132kv Interconnection Project - PPER](https://www.afdb.org/en/documents/document/zambia-victoria-falls-katima-mulilo-132kv-interconnection-project-pper-25554/)<br/>
+|_ [Benin - Project to Upgrade the Cotonou-Porto Novo Road](https://www.afdb.org/en/documents/document/benin-project-to-upgrade-the-cotonou-porto-novo-road-25546/)<br/>
+|_ [Chad-Cameroon-Niger-Nigeria- Pilot Research/Development Support Project on Integrated Pest Management for Subsistence Farming in the Lake Chad Basin](https://www.afdb.org/en/documents/document/chad-cameroon-niger-nigeria-pilot-research-development-support-project-on-integrated-pest-management-for-subsistence-farming-in-the-lake-chad-basin-25558/)<br/>
+|_ [Gabon-CAR- Institution Building of the Multisector Sub-Regional Institute of Applied Technology, Project Planning and Evaluation (ISTA)(https://www.afdb.org/en/documents/document/gabon-car-institution-building-of-the-multisector-sub-regional-institute-of-applied-technology-project-planning-and-evaluation-ista-25559/)<br/>
+|_ [Project Performance Evaluation Reports for Mozambique: Maputo Water Supply Rehabilitation Project - Zambia:Central Province Water Supply and Sanitation Project - Approach Paper(https://www.afdb.org/en/documents/document/project-performance-evaluation-reports-for-mozambique-maputo-water-supply-rehabilitation-project-zambia-central-province-water-supply-and-sanitation-project-approach-paper-25564/)<br/>
+|_ [Cameroun - Projet de réduction de la pauvreté et actions en faveur des femmes dans l’extrême nord (PREPAFEN) / Guinée-Projet d’appui aux activités économiques des femmes (PAAEF) - Note d’orientation
+|_ [Rwanda - Programme d’alimentation en eau potable et d’assainissement en milieu rural (PNEAR) - Phase de lancement - Document d’orientation pour l’évaluation de performances du sous-programme(https://www.afdb.org/en/documents/document/cameroun-projet-de-reduction-de-la-pauvrete-et-actions-en-faveur-des-femmes-dans-lextreme-nord-prepafen-guinee-projet-dappui-aux-activites-economiques-des-femmes-paaef-note-dorientation-25565/)<br/>
+|_ [Multinational - Institution Building of the Multi-Sector Sub-Regional Institute of Applied Technology, Project Planning and Evaluation (ISTA) - PPER(https://www.afdb.org/en/documents/document/multinational-institution-building-of-the-multi-sector-sub-regional-institute-of-applied-technology-project-planning-and-evaluation-ista-pper-26416/)<br/>
+|_ [Evaluation of the Assistance of the AfDB to Fragile States(https://www.afdb.org/en/documents/document/evaluation-of-the-assistance-of-the-afdb-to-fragile-states-27890/)<br/>
+|_ [2000-2010 - Fostering Regional Integration in Africa-An Evaluation of the Bank’s Multinational Operations(https://www.afdb.org/en/documents/document/2000-2010-fostering-regional-integration-in-africa-an-evaluation-of-the-banks-multinational-operations-29033/)<br/>
+|_ [Benin - Structural Adjustment Programmes I, II, III - PPER(https://www.afdb.org/en/documents/document/benin-structural-adjustment-programmes-i-ii-iii-pper-9440/)<br/>
+|_ [Egypt - El Arish Power Project(https://www.afdb.org/en/documents/document/egypt-el-arish-power-project-9442/)<br/>
+|_ [Ethiopia - Northern Ethiopia Power Transmission Project(https://www.afdb.org/en/documents/document/ethiopia-northern-ethiopia-power-transmission-project-9443/)
 
 * Sector, Thematic and Policy Reviews
 * Evaluation Newsletter

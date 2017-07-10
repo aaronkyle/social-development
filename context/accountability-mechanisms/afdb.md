@@ -28,13 +28,48 @@ previously been unable to resolve their problems with the AfDB’s Management.
     * [RQ2016/1 (Mali)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20161-mali/)
     * [RQ2015/3 (Kenya) Bis](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20153-kenya-bis/)
     * [RQ 2015/3 (Kenya)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20153-kenya/)
+        * Register of Request
+        * Request
+        * Notice of Registration
+        * Management Response   
     * [RQ 2014/1 (Uganda)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20141-uganda/)
+        * Request Register
+        * Request
+        * Notice of Registration
+        * Management Response
+        * Progress Report on Problem-Solving
+        * Fact Finding Mission Report
     * [RQ 2012/1 (Tanzania)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20121-tanzania/)
+        * Request Register
+        * Notice of Registration
     * [RQ 2011/1 (Senegal)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20111-senegal/)
+        * Request Register
+        * Notice of Registration
+        * Problem Solving Report
+        * Closure Report
     * [RQ 2010/2 (South Africa)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20102-south-africa/)
+        * Request Register
+        * Notice of Registration
+        * Compliance Review
+        * The Request
+        * Management Response
+        * Revised Reassessment and Revision of the Terms of Reference for the Compliance Review of the Medupi Power Project, Republic of South Africa
+        * 1st IRM Monitoring Report
+        * Management Response - 1st IRM Monitoring Report
     * [RQ 2010/1 (Morocco)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20101-morocco/)
+        * [Request Register](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Request_Register_Morocco_2010_ENG_-_review.pdf)
+        * [Notice of Registration](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/Notice%20of%20Registration%20English2.pdf)
+        * [Report on problem solving of request](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/IIRM%20Problem%20Solving%20Report%20Morocco%20Request%20web.pdf)
+        * [IRM Experts Memo on Eligibility of the Request for Compliance Review](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/IRM%20Experts%20Memo%20to%20Boards%20re%20eligibility%20of%20Marrakesh%20-%20Agadir%20Motorway%20Web_01.pdf)
     * [RQ 2009/2 (Egypt)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20092-egypt/)
+        * [Request Register](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Request%20Register%20%282010%2011%2018%29.pdf)
+        * [Notice of Registration](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Notice%20of%20Registration.pdf)
+        * [Problem Solving Report ](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Problem%20Solving%20Report%20March%2025%202010f.pdf)
     * [RQ 2009/1b (Ethiopia)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20091b-ethiopia/)
+        * [Request Register](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/Request%20Register%20%282011%2001%2005%29.pdf)
+        * [Notice of Registration](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/Notice%20of%20Registeration%20Gibe%20III%20-%20RQ%202009-1b%20%282009%2007%2022%29.pdf)
+        * [CRMU Director’s Eligibility Report](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/GIBI%20III%20Report%20by%20Director%20CRMU%20on%20eligiblity%20and%20compliance%20review%20with%20annexes%20%282010%2010%2003%29.pdf)
+        * [Chairperson of IRM Roster’s Eligibility Report](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/Report%20of%20the%20Chairperson%20of%20the%20IRM%20Roster%20%28English%202010%2010%2020%29.pdf)
     * [RQ 2009/1 (Ethiopia)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20091-ethiopia/)
         * [Request Register](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/Request%20Register%20%282011%2001%2005%29_01.pdf)
         * [Notice of Registration](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Notice%20of%20Registration%20%282009%2003%2026%29.pdf)

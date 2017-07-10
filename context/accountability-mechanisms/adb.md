@@ -7,21 +7,35 @@
 
 ---
 
+## [Compliance Review Function](https://www.adb.org/site/accountability-mechanism/compliance-review-function)
+
+The compliance review focuses on the direct and material harm alleged by project-affected people, and whether this is caused by ADB’s violations of its operational policies and procedures in formulating, processing, or implementing the project. The compliance review is done by an independent Compliance Review Panel (CRP).[1](https://www.adb.org/site/accountability-mechanism/compliance-review-function)
+
+The compliance review starts with the Compliance Review Panel determining the eligibility of a request for compliance review and recommending to the ADB Board of Directors to authorize a compliance review. If approved, the Compliance Review Panel conducts an independent investigation and makes recommendations to the Board of Directors to ensure project compliance, including remedial changes in the scope or implementation of the project. The Compliance Review Panel then monitors the implementation of its recommendations and any remedial actions approved by the Board of Directors.[1](https://www.adb.org/site/accountability-mechanism/compliance-review-function)
+
+---
+
+The compliance review function of ADB's Accountability Mechanism is done/undertaken by the Compliance Review Panel or CRP. The CRP investigates alleged noncompliance by ADB with its operational policies and procedures that has caused, or is likely to cause, direct and material harm to project-affected people.[2](http://compliance.adb.org/)
+
+Compliance review does not investigate the borrowing country, the executing agency, or the private sector client. The conduct of these parties will be considered only when relevant to the assessment of ADB’s compliance. Compliance review does not provide judicial-type remedies such as injunctions or monetary damages. Relative to the problem solving function of the Accountability Mechanism, a request for compliance review is not an appeal to a higher authority.[2](http://compliance.adb.org/)
+
 ## [Compliance Review Panel (CRP)](http://compliance.adb.org/)
 
-**About the Compliance Review Panel**
 
-The compliance review function of ADB's Accountability Mechanism is done/undertaken by the Compliance Review Panel or CRP. The CRP investigates alleged noncompliance by ADB with its operational policies and procedures that has caused, or is likely to cause, direct and material harm to project-affected people.
+The Compliance Review Panel is an independent body appointed by the ADB’s Board of Directors to carry out compliance review under the second phase of the ADB Accountability Mechanism. The Compliance Review Panel consists of three members—a full-time Chair and two part-time members. Two Compliance Review Panel members are from regional member countries, with one of them from a developing member country, and the third member from a nonregional country. The Compliance Review Panel reports directly to the Board on all activities except on two specific activities where it reports to the Board Compliance Review Committee.[1](https://www.adb.org/site/accountability-mechanism/compliance-review-function)
 
-Compliance review does not investigate the borrowing country, the executing agency, or the private sector client. The conduct of these parties will be considered only when relevant to the assessment of ADB’s compliance. Compliance review does not provide judicial-type remedies such as injunctions or monetary damages. Relative to the problem solving function of the Accountability Mechanism, a request for compliance review is not an appeal to a higher authority.
+The Compliance Review Panel consists of three members—a full-time Chair and two part-time members. Two Compliance Review Panel members are from regional countries, with one of them from a developing member country, and the third member from a nonregional country. The Compliance Review Panel reports directly to the Board on all activities except on two specific activities where it reports to the Board Compliance Review Committee.[1](https://www.adb.org/site/accountability-mechanism/compliance-review-function)
 
-Compliance Review Panel
+The Compliance Review Panel is supported by a Secretariat - the Office of the Compliance Review Panel or OCRP.[1](https://www.adb.org/site/accountability-mechanism/compliance-review-function)
 
-The CRP is a fact-finding body on behalf of the ADB's Board of Directors. The CRP investigates alleged noncompliance by ADB with its operational policies and procedures in designing and implementing ADB-financed projects.
 
-The CRP has three members, one of whom is the chair. The CRP chair works full time and the other two CRP members are part time and are called on when required. Two members are from ADB's regional member countries, with one from a developing member country, and the third member from a non-regional member country.
+---
 
-The CRP does the following:
+The CRP is a fact-finding body on behalf of the ADB's Board of Directors. The CRP investigates alleged noncompliance by ADB with its operational policies and procedures in designing and implementing ADB-financed projects.[2](http://compliance.adb.org/)
+
+The CRP has three members, one of whom is the chair. The CRP chair works full time and the other two CRP members are part time and are called on when required. Two members are from ADB's regional member countries, with one from a developing member country, and the third member from a non-regional member country.[2](http://compliance.adb.org/)
+
+The CRP does the following:[2](http://compliance.adb.org/)
 * investigate complaints requesting compliance review
 * coordinate with other multilateral or bilateral compliance review mechanism conducting a separate review of the same project
 conduct thorough and objective reviews of ADB compliance
@@ -34,7 +48,7 @@ conduct thorough and objective reviews of ADB compliance
 * develop a roster of independent technical experts who can assist the CRP in carrying out its work; and
 * liaise with accountability mechanisms at other institutions.
 
-The CRP chair:
+The CRP chair:[2](http://compliance.adb.org/)
 * performs all the functions listed for the CRP;
 * serves as the head of the Office of the Compliance Review Panel and have full responsibility for running the Office;
 * manages the OCRP's personnel, budget, and work program under the oversight of the BCRC, and in accordance with ADB rules and procedures;
@@ -48,20 +62,10 @@ The CRP chair:
 
 ---
 
-[Compliance Review Function](https://www.adb.org/site/accountability-mechanism/compliance-review-function)
 
-The compliance review focuses on the direct and material harm alleged by project-affected people, and whether this is caused by ADB’s violations of its operational policies and procedures in formulating, processing, or implementing the project. The compliance review is done by an independent Compliance Review Panel (CRP).
 
-The compliance review starts with the Compliance Review Panel determining the eligibility of a request for compliance review and recommending to the ADB Board of Directors to authorize a compliance review. If approved, the Compliance Review Panel conducts an independent investigation and makes recommendations to the Board of Directors to ensure project compliance, including remedial changes in the scope or implementation of the project. The Compliance Review Panel then monitors the implementation of its recommendations and any remedial actions approved by the Board of Directors.
+The Compliance Review Panel undertakes the following activities:[1](https://www.adb.org/site/accountability-mechanism/compliance-review-function)
 
-Compliance Review Panel (CRP)
-The Compliance Review Panel is an independent body appointed by the ADB’s Board of Directors to carry out compliance review under the second phase of the ADB Accountability Mechanism. The Compliance Review Panel consists of three members—a full-time Chair and two part-time members. Two Compliance Review Panel members are from regional member countries, with one of them from a developing member country, and the third member from a nonregional country. The Compliance Review Panel reports directly to the Board on all activities except on two specific activities where it reports to the Board Compliance Review Committee.
-
-The Compliance Review Panel consists of three members—a full-time Chair and two part-time members. Two Compliance Review Panel members are from regional countries, with one of them from a developing member country, and the third member from a nonregional country. The Compliance Review Panel reports directly to the Board on all activities except on two specific activities where it reports to the Board Compliance Review Committee.
-
-The Compliance Review Panel is supported by a Secretariat - the Office of the Compliance Review Panel or OCRP.
-
-The Compliance Review Panel undertakes the following activities:
 
 * determining the eligibility of a request for compliance review
 * engaging all project stakeholders in understanding the issues during compliance review
@@ -77,33 +81,8 @@ The Compliance Review Panel undertakes the following activities:
 * liaising with the accountability mechanisms at other institutions
 
 
-### Complaints Registry
 
-* [Complaints Registry by Region](https://www.adb.org/site/accountability-mechanism/problem-solving-function/complaint-registry-region)
-* [Complaints Registry by Project](https://www.adb.org/site/accountability-mechanism/problem-solving-function/complaint-registry-project)
-* [Complaints Registry by Year](https://www.adb.org/site/accountability-mechanism/problem-solving-function/complaint-registry-year)
-
-
-[Complaints Registry [Alternate Site]](http://compliance.adb.org/dir0035p.nsf/alldocs/BDAO-7XGAWN?OpenDocument)
-
-
-Project name	|	Complaint number	|	Date received*	|
-
-* [PRC: Guangxi Southwestern Cities Development Project (Loan No. 2657)](http://compliance.adb.org/dir0035p.nsf/alldocs/JABM-AJR3RY?OpenDocument) | 2017/1	|	16 February 2017
-* [Georgia: Sustainable Urban Transport Investment Program - Tranche 3 - Loan 3063](http://compliance.adb.org/dir0035p.nsf/alldocs/JABM-AFR657?OpenDocument) | 2016/3	|	10 November 2016
-* [Samoa: Promoting Economic Use of Customary Land and Samoa AgriBusiness Support Project - TA Nos. 4712, 7387, 8481 & Grant No. 0392](http://compliance.adb.org/dir0035p.nsf/alldocs/JABM-A983HD?OpenDocument) | 2016/2	|	20 April 2016
-* [Georgia: Sustainable Urban Transport Investment Program - Tranche 3 - Loan 3063](http://compliance.adb.org/dir0035p.nsf/alldocs/JABM-A848U5?OpenDocument) | 2016/1	|	14 March 2016
-* [Greater Mekong Subregion: Rehabilitation of the Railway in Cambodia Project - Loan 2288 and Loan 2602/ Grant 0187 (Supplementary)](http://compliance.adb.org/dir0035p.nsf/alldocs/JABM-A295PQ?OpenDocument)  | 2015/1	|	7 September 2015
-* [Mundra Ultra Mega Power Project - Loan 2419](http://compliance.adb.org/dir0035p.nsf/alldocs/RDIA-9CQ3SS?OpenDocument) | 2013/1	|	17 October 2013
-* [Greater Mekong Subregion: Rehabilitation of the Railway in Cambodia Project - Loan 2288 and Loan 2602/ Grant 0187 (Supplementary)](http://compliance.adb.org/dir0035p.nsf/alldocs/RDIA-8XT5DA?OpenDocument)  | 2012/2	|	28 August 2012
-* [Integrated Citarum Water Resources Management Investment Program - Project 1 - Loans 2500 & 2501(SF)-INO](http://compliance.adb.org/dir0035p.nsf/alldocs/JABM-8R46AF?OpenDocument) | 2012/1	|	30 January 2012
-* [CAREC Transport Corridor I (Bishkek-Torugart Road) Project 1 - Grant No. 0123-KGZ](http://compliance.adb.org/dir0035p.nsf/alldocs/RDIA-8HF7NJ?OpenDocument)  |	2011/2	|	23 May 2011
-* [Visayas Base-Load Power Development Project - Loan No. 2612-PHI](http://compliance.adb.org/dir0035p.nsf/alldocs/RDIA-8HF6GG?OpenDocument)  | 2011/1	|	25 May 2011
-* [People's Republic of China: Fuzhou Environmental Improvement Project - Loan No. 2176-PRC](http://compliance.adb.org/dir0035p.nsf/alldocs/BDAO-7XVBN9?OpenDocument)| 2009/1	|	03 Jun 2009
-* [Nepal: Melamchi Water Supply Project - Loan No. 1820-NEP(SF)](http://compliance.adb.org/dir0035p.nsf/alldocs/BDAO-7XVBQH?OpenDocument) | 2004/2	|	06 Dec 2004
-* [Sri Lanka: Southern Transport Development Project - Loan No. 1711-SRI (SF)](http://compliance.adb.org/dir0035p.nsf/alldocs/BDAO-7XVBSH?OpenDocument) | 2004/1	|	02 Dec 2004
-
-
+---
 
 ## [Special Project Facilitator	(SPF)](https://www.adb.org/site/accountability-mechanism/problem-solving-function/office-special-facilitator)
 
@@ -134,7 +113,7 @@ What we do:
 
 
 ---
-[The Problem Solving Function](https://www.adb.org/site/accountability-mechanism/problem-solving-function)
+## [The Problem Solving Function](https://www.adb.org/site/accountability-mechanism/problem-solving-function)
 
 
 The problem solving function assists people who are directly, materially, and adversely affected by ADB-assisted projects to find solutions to their problems. It is led by ADB’s Special Project Facilitator (SPF).
@@ -148,6 +127,45 @@ The problem solving function is outcome driven. It will not focus on the identif
 The Special Project Facilitator offers an additional avenue for problem solving but does not supplant the project administration and problem solving functions of ADB’s operations departments. He/ she reports directly to the President of ADB and recommends actions to deal with the complaint. He/she will also monitor implementation of agreements resulting from the problem solving process.
 
 ![The Problem Solving Process](https://www.adb.org/sites/default/files/page/42381/images/problem-solving-process.jpg)
+
+
+
+
+---
+
+## Complaints Registry
+
+### Compliance
+
+[Complaints Registry [Alternate Site]](http://compliance.adb.org/dir0035p.nsf/alldocs/BDAO-7XGAWN?OpenDocument)
+
+[Registry of Complaints](http://compliance.adb.org/dir0035p.nsf/alldocs/BDAO-7XGAWN?OpenDocument)
+
+Project name	|	Complaint number	|	Date received * 	|
+* [India: Rajasthan Renewable Energy Transmission Investment Program- Tranche 2 (Loan Nos. 3482 and 8312)](http://compliance.adb.org/dir0035p.nsf/alldocs/JABM-ANT8VF?OpenDocument) | 2017/1	| 27 June 2017
+* [PRC: Guangxi Southwestern Cities Development Project (Loan No. 2657)](http://compliance.adb.org/dir0035p.nsf/alldocs/JABM-AJR3RY?OpenDocument) | 2017/1	|	16 February 2017
+* [Georgia: Sustainable Urban Transport Investment Program - Tranche 3 - Loan 3063](http://compliance.adb.org/dir0035p.nsf/alldocs/JABM-AFR657?OpenDocument) | 2016/3	|	10 November 2016
+* [Samoa: Promoting Economic Use of Customary Land and Samoa AgriBusiness Support Project - TA Nos. 4712, 7387, 8481 & Grant No. 0392](http://compliance.adb.org/dir0035p.nsf/alldocs/JABM-A983HD?OpenDocument) | 2016/2	|	20 April 2016
+* [Georgia: Sustainable Urban Transport Investment Program - Tranche 3 - Loan 3063](http://compliance.adb.org/dir0035p.nsf/alldocs/JABM-A848U5?OpenDocument) | 2016/1	|	14 March 2016
+* [Greater Mekong Subregion: Rehabilitation of the Railway in Cambodia Project - Loan 2288 and Loan 2602/ Grant 0187 (Supplementary)](http://compliance.adb.org/dir0035p.nsf/alldocs/JABM-A295PQ?OpenDocument)  | 2015/1	|	7 September 2015
+* [Mundra Ultra Mega Power Project - Loan 2419](http://compliance.adb.org/dir0035p.nsf/alldocs/RDIA-9CQ3SS?OpenDocument) | 2013/1	|	17 October 2013
+* [Greater Mekong Subregion: Rehabilitation of the Railway in Cambodia Project - Loan 2288 and Loan 2602/ Grant 0187 (Supplementary)](http://compliance.adb.org/dir0035p.nsf/alldocs/RDIA-8XT5DA?OpenDocument)  | 2012/2	|	28 August 2012
+* [Integrated Citarum Water Resources Management Investment Program - Project 1 - Loans 2500 & 2501(SF)-INO](http://compliance.adb.org/dir0035p.nsf/alldocs/JABM-8R46AF?OpenDocument) | 2012/1	|	30 January 2012
+* [CAREC Transport Corridor I (Bishkek-Torugart Road) Project 1 - Grant No. 0123-KGZ](http://compliance.adb.org/dir0035p.nsf/alldocs/RDIA-8HF7NJ?OpenDocument)  |	2011/2	|	23 May 2011
+* [Visayas Base-Load Power Development Project - Loan No. 2612-PHI](http://compliance.adb.org/dir0035p.nsf/alldocs/RDIA-8HF6GG?OpenDocument)  | 2011/1	|	25 May 2011
+* [People's Republic of China: Fuzhou Environmental Improvement Project - Loan No. 2176-PRC](http://compliance.adb.org/dir0035p.nsf/alldocs/BDAO-7XVBN9?OpenDocument)| 2009/1	|	03 Jun 2009
+* [Nepal: Melamchi Water Supply Project - Loan No. 1820-NEP(SF)](http://compliance.adb.org/dir0035p.nsf/alldocs/BDAO-7XVBQH?OpenDocument) | 2004/2	|	06 Dec 2004
+* [Sri Lanka: Southern Transport Development Project - Loan No. 1711-SRI (SF)](http://compliance.adb.org/dir0035p.nsf/alldocs/BDAO-7XVBSH?OpenDocument) | 2004/1	|	02 Dec 2004
+
+
+
+---
+
+### Problem-Solving
+
+* [Complaints Registry by Region](https://www.adb.org/site/accountability-mechanism/problem-solving-function/complaint-registry-region)
+* [Complaints Registry by Project](https://www.adb.org/site/accountability-mechanism/problem-solving-function/complaint-registry-project)
+* [Complaints Registry by Year](https://www.adb.org/site/accountability-mechanism/problem-solving-function/complaint-registry-year)
 
 ---
 

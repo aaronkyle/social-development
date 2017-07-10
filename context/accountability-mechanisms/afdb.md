@@ -16,31 +16,31 @@ previously been unable to resolve their problems with the AfDB’s Management.
 
 ---
 
-[IRM](https://www.afdb.org/en/independent-review-mechanism/)
-[About IRM](https://www.afdb.org/en/independent-review-mechanism/about-irm/)
-[Mandate of the IRM](https://www.afdb.org/en/independent-review-mechanism/mandate-of-the-irm/)
-[Management of Complaints](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/)
-[How to file a complaint?](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/how-to-file-a-complaint/)
-[How we handle complaint?](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/how-we-handle-complaint/)
-[Registered Requests](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/)
-[RQ2016/3 (Guinea)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20163-guinea/)
-[RQ2016/2 (Senegal)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20162-senegal/)
-[RQ2016/1 (Mali)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20161-mali/)
-[RQ2015/3 (Kenya) Bis](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20153-kenya-bis/)
-[RQ 2015/3 (Kenya)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20153-kenya/)
-[RQ 2014/1 (Uganda)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20141-uganda/)
-[RQ 2012/1 (Tanzania)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20121-tanzania/)
-[RQ 2011/1 (Senegal)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20111-senegal/)
-[RQ 2010/2 (South Africa)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20102-south-africa/)
-[RQ 2010/1 (Morocco)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20101-morocco/)
-[RQ 2009/2 (Egypt)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20092-egypt/)
-[RQ 2009/1b (Ethiopia)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20091b-ethiopia/)
-[RQ 2009/1 (Ethiopia)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20091-ethiopia/)
-[RQ 2007/1 (Uganda)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20071-uganda/)
-[Unregistered Requests](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/unregistered-requests/)
-[Summary of Complaints](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/summary-of-complaints/)
-[The Roster of Experts](https://www.afdb.org/en/independent-review-mechanism/the-roster-of-experts/)
-[Other Independent Accountability Mechanisms](https://www.afdb.org/en/independent-review-mechanism/other-independent-accountability-mechanisms/)
+* [IRM](https://www.afdb.org/en/independent-review-mechanism/)
+* [About IRM](https://www.afdb.org/en/independent-review-mechanism/about-irm/)
+* [Mandate of the IRM](https://www.afdb.org/en/independent-review-mechanism/mandate-of-the-irm/)
+* [Management of Complaints](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/)
+* [How to file a complaint?](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/how-to-file-a-complaint/)
+* [How we handle complaint?](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/how-we-handle-complaint/)
+* [Registered Requests](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/)
+    * [RQ2016/3 (Guinea)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20163-guinea/)
+    * [RQ2016/2 (Senegal)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20162-senegal/)
+    * [RQ2016/1 (Mali)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20161-mali/)
+    * [RQ2015/3 (Kenya) Bis](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20153-kenya-bis/)
+    * [RQ 2015/3 (Kenya)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20153-kenya/)
+    * [RQ 2014/1 (Uganda)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20141-uganda/)
+    * [RQ 2012/1 (Tanzania)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20121-tanzania/)
+    * [RQ 2011/1 (Senegal)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20111-senegal/)
+    * [RQ 2010/2 (South Africa)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20102-south-africa/)
+    * [RQ 2010/1 (Morocco)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20101-morocco/)
+    * [RQ 2009/2 (Egypt)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20092-egypt/)
+    * [RQ 2009/1b (Ethiopia)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20091b-ethiopia/)
+    * [RQ 2009/1 (Ethiopia)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20091-ethiopia/)
+    * [RQ 2007/1 (Uganda)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20071-uganda/)
+* [Unregistered Requests](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/unregistered-requests/)
+* [Summary of Complaints](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/summary-of-complaints/)
+* [The Roster of Experts](https://www.afdb.org/en/independent-review-mechanism/the-roster-of-experts/)
+* [Other Independent Accountability Mechanisms](https://www.afdb.org/en/independent-review-mechanism/other-independent-accountability-mechanisms/)
 
 Institutional Documents
 
@@ -58,20 +58,20 @@ Sample Request Format
 
 |	Reference	|	Name of project	|
 |	---	|	---	|
-|	RQ2016/3	|	Guinea: Multinational – Road Development and Transport Facilitation Programme Within the Manu River Union (Guinea Section)	|
-|	RQ2016/2	|	Senegal: Construction of a 125 MW coal Sendou power plant in the village of Bargny Minam	|
-|	RQ2016/1	|	Mali: Diversification of the Activities of "Moulins Modernes du Mali (M3)" Project in Mali	|
-|	RQ2015/3-Bis	|	Kenya: Outer Ring Road Improvement Project, Nairobi	|
-|	RQ2015/3	|	Kenya: The Nairobi River Rehabilitation and Restoration Program : Sewerage Improvement Project	|
-|	RQ 2014/1	|	Uganda: Improvement of Health Services Delivery at Mulago Hospital and in the City of Kampala	|
-|	RQ 2012/1	|	Tanzania: Tanzania Road Support Project II	|
-|	RQ 2011/1	|	Senegal: Dakar-Diamniadio Highway Project	|
-|	RQ 2010/2	|	South Africa: Medupi Power Project	|
-|	RQ 2010/1	|	Morocco: Construction of the Marrakech – Agadir Motorway	|
-|	RQ 2009/2	|	Egypt: Nuweiba Combined Cycle Power Project	|
-|	RQ 2009/1b	|	Ethiopia : Gibe III Hydropower Project	|
-|	RQ 2009/1	|	Ethiopia: Gibe III Hydroelectric Power Project	|
-|	RQ 2007/1	|	Uganda: Bujagali Hydropower Project and Bujagali Interconnection Project	|
+|	[RQ2016/3](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20163-guinea/)	|	Guinea: Multinational – Road Development and Transport Facilitation Programme Within the Manu River Union (Guinea Section)	|
+|	[RQ2016/2](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20162-senegal/)	|	Senegal: Construction of a 125 MW coal Sendou power plant in the village of Bargny Minam	|
+|	[RQ2016/1](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20161-mali/)	|	Mali: Diversification of the Activities of "Moulins Modernes du Mali (M3)" Project in Mali	|
+|	[RQ2015/3-Bis](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20153-kenya-bis/)	|	Kenya: Outer Ring Road Improvement Project, Nairobi	|
+|	[RQ2015/3](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20153-kenya/)	|	Kenya: The Nairobi River Rehabilitation and Restoration Program : Sewerage Improvement Project	|
+|	[RQ 2014/1](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20141-uganda/)	|	Uganda: Improvement of Health Services Delivery at Mulago Hospital and in the City of Kampala	|
+|	[RQ 2012/1](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20121-tanzania/)	|	Tanzania: Tanzania Road Support Project II	|
+|	[RQ 2011/1](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20111-senegal/)	|	Senegal: Dakar-Diamniadio Highway Project	|
+|	[RQ 2010/2](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20102-south-africa/)	|	South Africa: Medupi Power Project	|
+|	[RQ 2010/1](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20101-morocco/)	|	Morocco: Construction of the Marrakech – Agadir Motorway	|
+|	[RQ 2009/2](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20092-egypt/)	|	Egypt: Nuweiba Combined Cycle Power Project	|
+|	[RQ 2009/1b](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20091b-ethiopia/)	|	Ethiopia : Gibe III Hydropower Project	|
+|	[RQ 2009/1](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20091-ethiopia/)	|	Ethiopia: Gibe III Hydroelectric Power Project	|
+|	[RQ 2007/1](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20071-uganda/)	|	Uganda: Bujagali Hydropower Project and Bujagali Interconnection Project	|
 
 ---
 

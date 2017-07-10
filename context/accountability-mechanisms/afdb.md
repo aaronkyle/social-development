@@ -16,6 +16,43 @@ previously been unable to resolve their problems with the AfDB’s Management.
 
 ---
 
+[IRM](https://www.afdb.org/en/independent-review-mechanism/)
+[About IRM](https://www.afdb.org/en/independent-review-mechanism/about-irm/)
+[Mandate of the IRM](https://www.afdb.org/en/independent-review-mechanism/mandate-of-the-irm/)
+[Management of Complaints](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/)
+[How to file a complaint?](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/how-to-file-a-complaint/)
+[How we handle complaint?](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/how-we-handle-complaint/)
+[Registered Requests](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/)
+[RQ2016/3 (Guinea)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20163-guinea/)
+[RQ2016/2 (Senegal)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20162-senegal/)
+[RQ2016/1 (Mali)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20161-mali/)
+[RQ2015/3 (Kenya) Bis](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20153-kenya-bis/)
+[RQ 2015/3 (Kenya)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20153-kenya/)
+[RQ 2014/1 (Uganda)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20141-uganda/)
+[RQ 2012/1 (Tanzania)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20121-tanzania/)
+[RQ 2011/1 (Senegal)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20111-senegal/)
+[RQ 2010/2 (South Africa)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20102-south-africa/)
+[RQ 2010/1 (Morocco)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20101-morocco/)
+[RQ 2009/2 (Egypt)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20092-egypt/)
+[RQ 2009/1b (Ethiopia)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20091b-ethiopia/)
+[RQ 2009/1 (Ethiopia)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20091-ethiopia/)
+[RQ 2007/1 (Uganda)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20071-uganda/)
+[Unregistered Requests](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/unregistered-requests/)
+[Summary of Complaints](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/summary-of-complaints/)
+[The Roster of Experts](https://www.afdb.org/en/independent-review-mechanism/the-roster-of-experts/)
+[Other Independent Accountability Mechanisms](https://www.afdb.org/en/independent-review-mechanism/other-independent-accountability-mechanisms/)
+
+Institutional Documents
+
+IRM Resolution and Operating Rules and Procedures
+Annual Reports
+Bank Policies and Procedures relevant to IRM
+Spot Check documents
+Sample Request Format
+
+
+---
+
 [Case Update](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/)
 
 

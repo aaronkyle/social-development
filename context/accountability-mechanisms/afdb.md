@@ -1,4 +1,42 @@
-AfDB
+# AfDB
+
+[Independent Review Mechanism (IRM)](https://www.afdb.org/en/about-us/organisational-structure/independent-review-mechanism-irm/)
+
+
+Mandate
+
+The IRM’s mandate is to provide people adversely affected by a project financed
+by the African Development Bank (AfDB) with an independent mechanism through which they can request the AfDB to comply with its own policies and procedures. The IRM intervenes
+when people or communities affected submit a complaint. In this way, the IRM can 
+be considered as a recourse instrument for project affected people who have 
+previously been unable to resolve their problems with the AfDB’s Management.
+
+[More about what we do](https://www.afdb.org/en/independent-review-mechanism/)
+
+
+---
+
+[Case Update](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/)
+
+
+|	Reference	|	Name of project	|
+|	---	|	---	|
+|	RQ2016/3	|	Guinea: Multinational – Road Development and Transport Facilitation Programme Within the Manu River Union (Guinea Section)	|
+|	RQ2016/2	|	Senegal: Construction of a 125 MW coal Sendou power plant in the village of Bargny Minam	|
+|	RQ2016/1	|	Mali: Diversification of the Activities of "Moulins Modernes du Mali (M3)" Project in Mali	|
+|	RQ2015/3-Bis	|	Kenya: Outer Ring Road Improvement Project, Nairobi	|
+|	RQ2015/3	|	Kenya: The Nairobi River Rehabilitation and Restoration Program : Sewerage Improvement Project	|
+|	RQ 2014/1	|	Uganda: Improvement of Health Services Delivery at Mulago Hospital and in the City of Kampala	|
+|	RQ 2012/1	|	Tanzania: Tanzania Road Support Project II	|
+|	RQ 2011/1	|	Senegal: Dakar-Diamniadio Highway Project	|
+|	RQ 2010/2	|	South Africa: Medupi Power Project	|
+|	RQ 2010/1	|	Morocco: Construction of the Marrakech – Agadir Motorway	|
+|	RQ 2009/2	|	Egypt: Nuweiba Combined Cycle Power Project	|
+|	RQ 2009/1b	|	Ethiopia : Gibe III Hydropower Project	|
+|	RQ 2009/1	|	Ethiopia: Gibe III Hydroelectric Power Project	|
+|	RQ 2007/1	|	Uganda: Bujagali Hydropower Project and Bujagali Interconnection Project	|
+
+---
 
 [Evaluation Reports](https://www.afdb.org/en/documents/evaluation-reports/)
   *Results 1 to 20 out of 562*

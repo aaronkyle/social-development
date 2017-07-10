@@ -13,6 +13,32 @@ previously been unable to resolve their problems with the AfDB’s Management.
 
 [More about what we do](https://www.afdb.org/en/independent-review-mechanism/)
 
+---
+
+Documents
+
+* [Boards Resolution on Establishment of IRM 2015 (288 kB)](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Boards_Resolution_on_Establishment_of_IRM_2015.pdf)
+
+* [Revised IRM Operating Rules and Procedures 2015 (417 kB)](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Revised_IRM_Operating_Rules_and_Procedures_2015.pdf)
+
+---
+
+KEY DOCUMENTS
+
+* [IRM Annual Report](https://www.afdb.org/en/documents/compliance-reviews/irm-annual-report/)
+* [Annual Report](https://www.afdb.org/en/documents/publications/annual-report/)
+* [Africa Competitiveness Report](https://www.afdb.org/en/documents/publications/africa-competitiveness-report/)
+* [Integrity & Anti-Corruption Reports](https://www.afdb.org/en/documents/integrity-anti-corruption-reports/)
+* [Board Documents](https://www.afdb.org/en/documents/board-documents/)
+* [Evaluation Reports](https://www.afdb.org/en/documents/evaluation-reports/)
+
+
+---
+
+USEFUL LINKS
+
+* [Integrity and Anti-Corruption](https://www.afdb.org/en/about-us/organisational-structure/integrity-and-anti-corruption/)
+* [Bank Group Results Measurement Framework](https://www.afdb.org/en/topics-and-sectors/topics/quality-assurance-results/bank-group-results-measurement-framework/)
 
 ---
 

@@ -24,9 +24,28 @@ previously been unable to resolve their problems with the AfDB’s Management.
 * [How we handle complaint?](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/how-we-handle-complaint/)
 * [Registered Requests](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/)
     * [RQ2016/3 (Guinea)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20163-guinea/)
+        * Register of Request
+        * Notice of Registration
+        * Management response
     * [RQ2016/2 (Senegal)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20162-senegal/)
+        * Register of Request
+        * Requests
+            * Request 1
+            * Request 2
+        * Notice of Registration
+        * Management response
+        * Eligibility Report for Compliance Review
     * [RQ2016/1 (Mali)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20161-mali/)
+        * Register of Request
+        * Request
+        * Notice of Registration
+        * Management Response
+        * The Independent Review Mechanism Eligibility Assessment Report for Compliance
     * [RQ2015/3 (Kenya) Bis](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20153-kenya-bis/)
+        * Register of Request
+        * Request
+        * Notice of Registration
+        * Management Response
     * [RQ 2015/3 (Kenya)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20153-kenya/)
         * Register of Request
         * Request

@@ -25,26 +25,65 @@ The IRM intervenes when affected people or communities submit a complaint. In th
 
 [Mandate of the IRM](https://www.afdb.org/en/independent-review-mechanism/mandate-of-the-irm/)
 
-Compliance Review
+[Compliance Review](https://www.afdb.org/en/independent-review-mechanism/mandate-of-the-irm/compliance-review/)
 
 The Director of CRMU and the IRM Experts determine eligibility of requests for compliance review.  After such determination, they must submit a Report to the Board of Directors or the President (depending on the status of the project approval) including recommendations to authorize or not a Compliance Review within 30 days. 
 Read more
 
-Problem-Solving / Mediation
+---
+
+[Compliance Review](https://www.afdb.org/en/independent-review-mechanism/mandate-of-the-irm/compliance-review/)
+
+The Director of CRMU and the IRM Experts determine eligibility of requests for compliance review.  After such determination, they must submit a Report to the Board of Directors or the President (depending on the status of the project approval) including recommendations to authorize or not a Compliance Review within 30 days. 
+
+Once the Board of Directors or the President approves the review, the IRM Experts constitute the Compliance Review Panels to undertake the compliance review and receive the administrative and technical support from CRMU. Subject to the provisions of the Bank Group’s Disclosure and Access to Information Policy, the recommendation for a compliance review and the decision made by the President or the Board, as the case may be, is promptly communicated to the Requestors and any other interested person. A summary of the decision and the recommendation for a compliance review shall be published on the Bank Group’s website 
+
+The Compliance Review Panel conducts Compliance Review in accordance with the authorized Terms of Reference and time-frame. The Compliance Review Panel may:
+
+* Solicit additional oral or written information from, or hold meetings with the requestors and any interested party;
+* Undertake site visits to the project(s) in issue;
+* Retain additional expertise (consultants) to assist with an inquiry, assessment, review or exercise of specific issues.
+
+After completing its investigations, the Compliance Review Panel shall within 30 days write the compliance review report containing the panel’s findings and recommendations and circulate it to the Bank Management for review and comments on factual matters only. The Bank Management shall submit its comments to CRMU/IRM within twenty-one (21) business days from the date of receipt of the draft report from CRMU/IRM; and upon receipt of comments from Bank Management, the panel shall finalise its report. 
+
+The panel submits the Compliance Report that has considered Management factual amendments, if any, to the Board of Directors or the President (depending on the status of the project approval) including its findings and recommendations for:
+
+* Any remedial change in the scope or implementation of the Bank financed project;
+* Any remedial change to systems or procedures of the Bank to avoid a recurrence of similar non-compliance which resulted in complaints about harm; and
+* Any further steps to be undertaken to monitor the implementation of the remedial action plans referred to above.
+
+Subject to the provisions of the Bank Group’s Disclosure and Access to Information Policy, the Compliance Review Report shall be made available to the Requestors at the same time as it is submitted for consideration and decision by the Board of Directors. Thereafter, it is posted on the Bank Group’s website. 
+
+Upon receipt of the Compliance Review Report by the President or the Board of Directors, the AfDB Management prepares a response and an action plan based on the findings of the Compliance Review Report. They submit it to the President, the Board of Directors, CRMU and the Requestors within 90 days.  Within 30 days from the date on which the Response and Action Plan are distributed to the Board of Directors, the AfDB Management consults with CRMU and agrees on a date for a joint presentation of the Compliance Review Report and Management’s Response and Action Plan to the Board. 
+
+Management must consult with CRMU not later than three (3) months from the date of consideration by the Board of Directors of the Management Action Plan. Management must also agree to prepare and submit to the Board  progress report on the status of implementation of the recommendations contained in the compliance review report that have been approved by the Boards together with the Management Action Plan..  The IRM Panel and CRMU (the IRM monitoring team) will review these reports and provide, if necessary, an assessment of the progress achieved in the implementation of the Management Action Plan and submit a report to the Board for consideration.  The IRM monitoring team will share its findings with Management and the Requestors for clarification of issues before submitting its report to the Board for consideration.
+
+Subject to the provisions of the Bank Group’s Disclosure and Access to Information Policy, the decision made by the Board or the President, as the case may be, shall be promptly communicated to the Requestors and any interested party of such decision and the Compliance Review Report shall be published on the Bank Group’s website.
+
+The Compliance Review Report may not recommend the award of compensation or any other benefits to the Requestors or any other person, entity or government beyond that which may be expressly contemplated in a relevant Bank Group policy.
+
+
+
+
+---
+
+[Problem-Solving / Mediation](https://www.afdb.org/en/independent-review-mechanism/mandate-of-the-irm/problem-solving-mediation/)
 
 The objective of the problem-solving (mediation) exercise is to restore an effective dialogue between the requestors and any interested persons with a view to resolving the issue(s) underlying a request, without seeking to attribute blame or fault to any such party.  
 Read more
 
-Advisory
+[Advisory](https://www.afdb.org/en/independent-review-mechanism/mandate-of-the-irm/advisory/)
 
 The advisory function is authorized when the President and/or the Board are of the opinion that projects, programs, policies and procedures of the Bank Group can benefit from the accumulated experience of the IRM and support efforts of staff and Management to strengthen the social and environmental impact of the projects funded by the Bank Group. 
 Read more
 
 
-Outreach
+[Outreach](https://www.afdb.org/en/independent-review-mechanism/mandate-of-the-irm/outreach/)
 
 The outreach activities of the CRMU aim to raise awareness of the IRM, and to equip communities affected by the Bank’s financed projects with the information to engage in constructive dialogue with the Bank and, if necessary, to access the IRM to handle their complaints. 
+
 Read more
+
 ---
 
 
@@ -136,6 +175,13 @@ KEY DOCUMENTS
 * [Board Documents](https://www.afdb.org/en/documents/board-documents/)
 * [Evaluation Reports](https://www.afdb.org/en/documents/evaluation-reports/)
 
+
+
+* [IRM Resolution and Operating Rules and Procedures](https://www.afdb.org/en/independent-review-mechanism/institutional-documents/irm-resolution-and-operating-rules-and-procedures/)
+* [Annual Reports](https://www.afdb.org/en/independent-review-mechanism/institutional-documents/annual-reports/)
+* [Bank Policies and Procedures relevant to IRM]()
+* [Spot Check documents](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/LIST_OF_POLICIES-EN-CRMU.pdf)
+* [Sample Request Format](https://www.afdb.org/en/independent-review-mechanism/institutional-documents/sample-request-format/)
 
 ---
 
@@ -384,3 +430,5 @@ Categories: Central African Republic](https://www.afdb.org/en/documents/document
 
 * Sector, Thematic and Policy Reviews
 * Evaluation Newsletter
+
+---

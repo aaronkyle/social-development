@@ -272,10 +272,26 @@ CRMU is not authorized to  register requests relating to:
     * [How we handle complaint?](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/how-we-handle-complaint/)
             * Procedure upon Receiving  a Request
             * Request Registration
+---
+[How we handle complaint?](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/how-we-handle-complaint/)
 
+Procedure upon Receiving a Request
 
-* Unregistered Requests
-* Summary of Complaints
+Within fourteen (14) business days of receipt of the request, the Director shall conduct a preliminary review and decide whether to register or ask for additional information, in which case the decision period may be extended until the requested information and documents are received. The Director shall not register any request that is outside the mandate of the IRM.
+If the Director of CRMU determines that the Request contains a bona fide allegation of harm arising from an AfDB-financed operation, she/he shall register the request for Problem-Solving, or for a Compliance Review.
+The Requestors’ preference for problem-solving exercise or compliance review or both shall be granted subject to the Request meeting the requirement for registration. Where the Requestors have not expressed a preference, the CRMU Director will determine the best course of action in consultation with the Requestors.
+Request Registration
+
+The Director of CRMU shall, while respecting the preference of Requestor, issue a Notice of the Registration of Request. A copy of this notice shall be posted in the IRM Register of Requests. A copy of this Notice shall be promptly posted on the IRM website and sent to the Requestors, the Boards of Directors and the President of the Bank.
+The Director of CRMU will request AfDB Management to provide a written evidence that it has complied, or intends to comply with the AfDB’s relevant policies and procedures within 21 days after receipt of the Notice of Registration.
+After receiving the Management response to the Request, the Director CRMU shall, within 5 business days, while respecting the preference of the Requestors, make a determination on whether the Request should be handled through:
+a problem-solving exercise,
+compliance review or,
+both problem solving and compliance review. In the latter case, the sequencing will be problem solving followed by compliance review.
+Once this determination is made, the Director shall promptly notify the Requestors, the Boards and the President of the proposed remedial course of action and the reasons thereof.
+
+---
+
 * [Registered Requests](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/)
     * [RQ2016/3 (Guinea)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20163-guinea/)
         * Register of Request
@@ -364,18 +380,26 @@ CRMU is not authorized to  register requests relating to:
         * [2nd Monitoring Report](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/2nd%20IRM%20Bujagali%20Monitoring%20Report%20EN%20%282010%2007%2028%29.pdf)
         * [3nd Monitoring Report](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/3rd%20Bujagali%20Monitoring%20Report-June_EN.pdf)
         * [4nd Monitoring Report](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/4th%20Monitoring%20Report-Uganda%20Bujagali%20Hydropower%20Project%20and%20Bujagali%20Interconnection%20Project.pdf)
-* [Unregistered Requests](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/unregistered-requests/)
+
+
+* [Unregistered Requests](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/unregistered-requests/) [PDF](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/ENG_REGISTER_OF_UNREGISTERED_REQUESTS.pdf)
+
 * [Summary of Complaints](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/summary-of-complaints/)
+    * [Case Summary of Senegal Request - Dakar-Diamniadio Highway Project (382 kB)](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Case_summary/Case_Summary_of_Senegal_Request-Dakar-Diamniadio_Highway_Project.pdf)
+
 * [The Roster of Experts](https://www.afdb.org/en/independent-review-mechanism/the-roster-of-experts/)
+
 * [Other Independent Accountability Mechanisms](https://www.afdb.org/en/independent-review-mechanism/other-independent-accountability-mechanisms/)
+
+
 
 Institutional Documents
 
-IRM Resolution and Operating Rules and Procedures
-Annual Reports
-Bank Policies and Procedures relevant to IRM
-Spot Check documents
-Sample Request Format
+* [IRM Resolution and Operating Rules and Procedures](https://www.afdb.org/en/independent-review-mechanism/institutional-documents/irm-resolution-and-operating-rules-and-procedures/)
+* [Annual Reports](https://www.afdb.org/en/independent-review-mechanism/institutional-documents/annual-reports/)
+* [Bank Policies and Procedures relevant to IRM](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/LIST_OF_POLICIES-EN-CRMU.pdf)
+* [Spot Check documents](https://www.afdb.org/en/independent-review-mechanism/institutional-documents/spot-check-documents/)
+* [Sample Request Format](https://www.afdb.org/en/independent-review-mechanism/institutional-documents/sample-request-format/)
 
 
 ---

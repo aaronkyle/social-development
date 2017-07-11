@@ -3,15 +3,120 @@
 [Independent Review Mechanism (IRM)](https://www.afdb.org/en/about-us/organisational-structure/independent-review-mechanism-irm/)
 
 
+Compliance Review and Mediation Unit (CRMU) - BAD
+
+BP 1387 Abidjan 01, Cote D'Ivoire,
+
+Immeuble du Centre de Commerce International D'Abidjan Avenue Jean Paul II | CCIA, 2nd Floor, 2A -
+
+B.kargougou@afdb.org copie à S.toure@afdb.org 
+
+Tel: +225 20 26 20 56
+
+
+
 Mandate
 
-The IRM’s mandate is to provide people adversely affected by a project financed
-by the African Development Bank (AfDB) with an independent mechanism through which they can request the AfDB to comply with its own policies and procedures. The IRM intervenes
-when people or communities affected submit a complaint. In this way, the IRM can 
-be considered as a recourse instrument for project affected people who have 
-previously been unable to resolve their problems with the AfDB’s Management.
+The IRM’s mandate is to provide people adversely affected by a project financed by the African Development Bank (AfDB) with an independent mechanism through which they can request the AfDB to comply with its own policies and procedures. The IRM intervenes when people or communities affected submit a complaint. In this way, the IRM can be considered as a recourse instrument for project affected people who have previously been unable to resolve their problems with the AfDB’s Management. [1]](https://www.afdb.org/en/about-us/organisational-structure/independent-review-mechanism-irm/)
+---
+The mandate of the IRM (administered by Compliance Review and Mediation Unit (CRMU)) is to provide people adversely affected by a project financed by the African Development Bank Group (AfDB), with an independent mechanism through which they can request the AfDB to comply with its own policies and procedures. [2](https://www.afdb.org/en/independent-review-mechanism/)
+
+The IRM intervenes when affected people or communities submit a complaint. In this way, the IRM can be considered as a recourse instrument for project affected people who have previously been unable to resolve their problems with the AfDB's Management. [2](https://www.afdb.org/en/independent-review-mechanism/)
+
+---
+[Mandate of the IRM](https://www.afdb.org/en/independent-review-mechanism/mandate-of-the-irm/)
+
+Compliance Review
+
+The Director of CRMU and the IRM Experts determine eligibility of requests for compliance review.  After such determination, they must submit a Report to the Board of Directors or the President (depending on the status of the project approval) including recommendations to authorize or not a Compliance Review within 30 days. 
+Read more
+
+Problem-Solving / Mediation
+
+The objective of the problem-solving (mediation) exercise is to restore an effective dialogue between the requestors and any interested persons with a view to resolving the issue(s) underlying a request, without seeking to attribute blame or fault to any such party.  
+Read more
+
+Advisory
+
+The advisory function is authorized when the President and/or the Board are of the opinion that projects, programs, policies and procedures of the Bank Group can benefit from the accumulated experience of the IRM and support efforts of staff and Management to strengthen the social and environmental impact of the projects funded by the Bank Group. 
+Read more
+
+
+Outreach
+
+The outreach activities of the CRMU aim to raise awareness of the IRM, and to equip communities affected by the Bank’s financed projects with the information to engage in constructive dialogue with the Bank and, if necessary, to access the IRM to handle their complaints. 
+Read more
+---
+
 
 [More about what we do](https://www.afdb.org/en/independent-review-mechanism/)
+
+Who are we?
+
+The IRM provides people adversely affected by projects financed by the African Development Bank Group (AfDB) with an independent mechanism through which they can request the Bank Group to comply with its own policies and procedures.[3](https://www.afdb.org/en/independent-review-mechanism/about-irm/)
+
+---
+
+[Who are we?](https://www.afdb.org/en/independent-review-mechanism/about-irm/who-are-we/)
+
+The IRM provides people adversely affected by projects financed by the African Development Bank Group (AfDB) with an independent mechanism through which they can request the Bank Group to comply with its own policies and procedures.
+
+The IRM was established on 30 June 2004 by the Enabling Resolution B/BD/2004/9 - F/BD/2004/7 of the Boards of Directors of the AfDB and became operational in 2006, following the appointment of the first Director of the CRMU. This Resolution provided for the review of the experience of the IRM after three (3) years from the date of the effectiveness of the RIM, during when the IRM Director was appointed. Therefore, the performance of the IRM was assessed for the first time in 2009/2010, resulting in the adoption of a new IRM Resolution and Operating Rules and Procedures by the Boards of Directors on 16 June, 2010. This Resolution provided for review of the experience of the IRM every four years or otherwise as decided by the Board. Accordingly, the second review of the IRM took place in 2014/2015 and the current IRM Resolution and the Operating Rules and Procedures were approved by the Board of Directors on 28 January 2015.
+
+The IRM is administered by the Compliance Review and Mediation Unit (CRMU). Investigations are carried out by the Panel of Experts who report to the Boards of Directors.
+
+The Compliance Review and Mediation Unit is the organisational entity of the Bank that administers the IRM. It was established by a Resolution of the Board and headed by a Director. The Director is assisted by professional and support staff.
+
+CRMU maintains the IRM Roster of Experts and provides administrative and technical support to them when they constitute themselves into a compliance review panel when undertaking compliance reviews.
+
+The IRM Roster of Experts comprises three (3) individuals appointed by the Board on the recommendation of the President of the Bank Group. They are selected on the basis of their knowledge of, and exposure to development issues in Africa and the operations of multilateral development banks as well their experience, expertise, integrity and ability to act independently. They constitute themselves into the IRM Panel of Experts to conduct compliance review investigations. They enjoy total independence from Bank Management in their investigations.
+
+The IRM handles requests through;
+
+Compliance Review (investigation), and
+Problem-Solving (mediation).
+The IRM performs also an advisory function, consisting of advisory services and spot-check advisory reviews of project compliance.
+
+The compliance review and spot-check advisory reviews of project compliance are undertaken by the IRM Panel of Experts.
+
+CRMU undertakes the problem-solving exercises, advisory services and outreach activities to fulfill its mandate and to contribute to the AfDB's overall objectives.
+
+Consultants
+
+Consultants may be hired to assist CRMU and the Compliance Review Panels to assist with investigations and fact-finding missions. Consultants with experience in compliance review and problem-solving can send their applications to the CRMU, and register themselves in DACON- a database of Individual Consultants and Consulting Firms maintained by the African Development Bank Group.
+
+---
+
+What we do?
+
+Problem Solving - Mediation
+Compliance Review - Investigation
+Advisory Service 
+Outreach
+
+---
+
+[What we do?](https://www.afdb.org/en/independent-review-mechanism/about-irm/what-we-do/)
+
+Problem Solving - Mediation
+
+In a request for problem -solving, CRMU will restore an effective dialogue between the requestors and any interested persons with an aim to resolving underlying issues without seeking to attribute blame or fault to any such party.
+
+Compliance Review - Investigation
+
+The compliance review function is handled by the IRM Roster of Experts comprising three external professionals, appointed by the Board of Directors for a five-year non-renewable term. The Experts together with the Director of CRMU determine eligibility of request(s) for compliance review, and submit their eligibility report, recommending whether or not to undertake the compliance review, to the Board of Directors or to the President, as the case may be for project's status of approval. 
+
+Advisory Service 
+
+CRMU and the IRM do have an advisory function. This is authorized by the President and/or the Board when they are of the opinion that projects, programs, policies and procedures of the Bank Group can benefit from the accumulated experience of the IRM and support efforts of staff and Management to strengthen the social and environmental impact of the projects funded by the Bank Group. The advisory function enables CRMU to provide independent opinions on systemic issues, technical advice on any projects and programs of the Bank Group, and to support efforts of staff and Management to strengthen the social and environmental impact of projects funded by the Bank Group. The advisory function consists of Advisory services by CRMU and Spot-check advisory reviews of project compliance undertaken by IRM Experts.
+
+Outreach
+
+CRMU carries out outreach activities to raise awareness of Bank staff, civil society organizations, project affected communities and other stakeholders about the mandate and procedures of the IRM.
+
+Consultants
+
+Consultants may be hired to assist CRMU and the Compliance Review Panels with investigations and fact finding missions. Consultants with experience in compliance review and problem-solving can send their applications to the CRMU, and register themselves in DACON- of the African Development Bank Group. 
 
 ---
 

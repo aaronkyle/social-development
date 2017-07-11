@@ -3,14 +3,10 @@
 [Independent Review Mechanism (IRM)](https://www.afdb.org/en/about-us/organisational-structure/independent-review-mechanism-irm/)
 
 
-Compliance Review and Mediation Unit (CRMU) - BAD
-
-BP 1387 Abidjan 01, Cote D'Ivoire,
-
-Immeuble du Centre de Commerce International D'Abidjan Avenue Jean Paul II | CCIA, 2nd Floor, 2A -
-
-B.kargougou@afdb.org copie à S.toure@afdb.org 
-
+Compliance Review and Mediation Unit (CRMU) - BAD <br/>
+BP 1387 Abidjan 01, Cote D'Ivoire, <br/
+Immeuble du Centre de Commerce International D'Abidjan Avenue Jean Paul II | CCIA, 2nd Floor, 2A - <br/>
+B.kargougou@afdb.org copie à S.toure@afdb.org  <br/>
 Tel: +225 20 26 20 56
 
 
@@ -18,12 +14,15 @@ Tel: +225 20 26 20 56
 Mandate
 
 The IRM’s mandate is to provide people adversely affected by a project financed by the African Development Bank (AfDB) with an independent mechanism through which they can request the AfDB to comply with its own policies and procedures. The IRM intervenes when people or communities affected submit a complaint. In this way, the IRM can be considered as a recourse instrument for project affected people who have previously been unable to resolve their problems with the AfDB’s Management. [1]](https://www.afdb.org/en/about-us/organisational-structure/independent-review-mechanism-irm/)
+
 ---
+
 The mandate of the IRM (administered by Compliance Review and Mediation Unit (CRMU)) is to provide people adversely affected by a project financed by the African Development Bank Group (AfDB), with an independent mechanism through which they can request the AfDB to comply with its own policies and procedures. [2](https://www.afdb.org/en/independent-review-mechanism/)
 
 The IRM intervenes when affected people or communities submit a complaint. In this way, the IRM can be considered as a recourse instrument for project affected people who have previously been unable to resolve their problems with the AfDB's Management. [2](https://www.afdb.org/en/independent-review-mechanism/)
 
 ---
+
 [Mandate of the IRM](https://www.afdb.org/en/independent-review-mechanism/mandate-of-the-irm/)
 
 Compliance Review

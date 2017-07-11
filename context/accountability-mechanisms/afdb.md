@@ -217,53 +217,58 @@ For recourse, CRMU receives requests presented by two or more persons (such as c
 
 Who can submit Requests for Compliance Review or Problem-Solving?
 
-Any group of two or more people in the country or countries where the Bank Group-financed project is located who believe that as a result of the Bank Group’s violation, their rights or interests have been, or are likely to be, adversely affected in a direct and material way. They may be an organisation, association, society or other grouping of individuals;
-A duly appointed local representative acting on explicit instructions as the agent of adversely affected people;
+* Any group of two or more people in the country or countries where the Bank Group-financed project is located who believe that as a result of the Bank Group’s violation, their rights or interests have been, or are likely to be, adversely affected in a direct and material way. They may be an organisation, association, society or other grouping of individuals;
+* A duly appointed local representative acting on explicit instructions as the agent of adversely affected people;
 In exceptional cases, a foreign representative (See “Operating Rules and Procedures of the IRM”) acting as an agent of adversely affected people. If so, CRMU should require clear evidence that there is inadequate or inappropriate representation in the country or countries where the project is located or has a direct and material impact, or
-The Board of Directors of the Bank Group.
+* The Board of Directors of the Bank Group.
+
 The requestor(s) and any other interested persons may ask that their identities be kept confidential, and if so, the reasons for such confidentiality. If the request contains a demand for confidentiality, the Director of CRMU shall respect such a request and shall agree to the terms of proceeding with the requestors and other interested persons. However, if in the opinion of the Director of CRMU, after consultation with the requestors, the compliance review process cannot proceed with the requested confidentiality being maintained, the requestors and other interested persons shall be notified accordingly and the Director will terminate the process.
 
 What information shall be included in a Request for Compliance Review or Problem-Solving?
 
-A reference to  the project, stating all the relevant facts including the harm suffered by or threat to the affected parties;
-How the parties have been or are likely to be materially and adversely affected by the Bank Group's act or omission, and what rights or interests of the parties were directly affected;
-When requesting a compliance review, an explanation of how Bank Group policies, procedures or contractual documents were violated;
-An indication if there has been any previous communication  between  the affected parties  and the Bank Group concerning the issue (s) raised in the request;
-In the case of requests relating to matters previously submitted to the CRMU, a statement specifying what new evidence or changed circumstances justify revisiting the issue; and
+* A reference to  the project, stating all the relevant facts including the harm suffered by or threat to the affected parties;
+* How the parties have been or are likely to be materially and adversely affected by the Bank Group's act or omission, and what rights or interests of the parties were directly affected;
+* When requesting a compliance review, an explanation of how Bank Group policies, procedures or contractual documents were violated;
+* An indication if there has been any previous communication  between  the affected parties  and the Bank Group concerning the issue (s) raised in the request;
+* In the case of requests relating to matters previously submitted to the CRMU, a statement specifying what new evidence or changed circumstances justify revisiting the issue; and
+
 If some of the above information cannot be provided, an explanation should be included.
 
 Documents to be attached to the Request
 
-Relevant correspondence with Bank Group staff, if any;
-A description of the location of the affected parties or area affected by the project; and
-Any other evidence supporting the request.
+* Relevant correspondence with Bank Group staff, if any;
+* A description of the location of the affected parties or area affected by the project; and
+* Any other evidence supporting the request.
+
 If some of the information listed above cannot be provided, an explanation should be included in the request.
 
 Request Format and Submission
 
-No specific format is required;
-The requests will be interpreted with flexibility;
-Requestors can use the means at their disposal to submit complaints (If requests are made orally, CRMU will assist Requestors in submitting them in writing);
-Requests must be submitted in writing, dated and signed by the Requestors and contain their names, contact addresses and an address to which correspondence shall be sent (if different from the Requestors’ address (es)). The Requestors and any other interested persons may, however, request that their identities be kept confidential, and if so, the reasons for such confidentiality;
-Requests must be sent to the Director of the Compliance Review and Mediation Unit (CRMU), African Development Bank  Group (AfDB)
-01 P.O. Box  1387 Abidjan 01, Cote d’Ivoire
-2nd Floor, Room 2A, CCIA Building, Abidjan Plateau
-Avenue Jean-Paul II - Tel: +225 20 26 29 56 - Email: crmuinfo@afdb.org), copy to B.Kargougou@afdb.org; B.Fall@afdb.org, S.Toure@afdb.org or to any of the AfDB Group’s field offices in the respective country of the Requestors.
+* No specific format is required;
+* The requests will be interpreted with flexibility;
+* Requestors can use the means at their disposal to submit complaints (If requests are made orally, CRMU will assist Requestors in submitting them in writing);
+* Requests must be submitted in writing, dated and signed by the Requestors and contain their names, contact addresses and an address to which correspondence shall be sent (if different from the Requestors’ address (es)). The Requestors and any other interested persons may, however, request that their identities be kept confidential, and if so, the reasons for such confidentiality;
+* Requests must be sent to the Director of the Compliance Review and Mediation Unit (CRMU), African Development Bank  Group (AfDB)
+01 P.O. Box  1387 Abidjan 01, Cote d’Ivoire <br/>
+2nd Floor, Room 2A, CCIA Building, Abidjan Plateau<br/>
+Avenue Jean-Paul II - Tel: +225 20 26 29 56 - Email: crmuinfo@afdb.org), copy to B.Kargougou@afdb.org; B.Fall@afdb.org, S.Toure@afdb.org or to any of the AfDB Group’s field offices in the respective country of the Requestors.<br/>
+
 Limitations 
 
 CRMU is not authorized to  register requests relating to:
 
-Procurement complaints from bidders and suppliers;  
-Fraud and corruption since they are handled by another unit within the Bank Group (IACD);  
-Matters before the Administrative Tribunal of the Bank;  
-Matters before other judicial review or similar bodies;  
-Frivolous or malicious complaints;  
-Complaints motivated by an intention to gain competitive advantage;  
-Matters already considered by the IRM, except where there is material new evidence;  
-Actions that are the sole responsibility of other parties;  
-Adequacy or unsuitability of AfDB's policies and procedures; and
-Alleged Human Rights violations, other than those involving social and economic rights alleging any action or omission on the part of the Bank Group.
+* Procurement complaints from bidders and suppliers;  
+* Fraud and corruption since they are handled by another unit within the Bank Group (IACD);  
+* Matters before the Administrative Tribunal of the Bank;  
+* Matters before other judicial review or similar bodies;  
+* Frivolous or malicious complaints;  
+* Complaints motivated by an intention to gain competitive advantage;  
+* Matters already considered by the IRM, except where there is material new evidence;  
+* Actions that are the sole responsibility of other parties;  
+* Adequacy or unsuitability of AfDB's policies and procedures; and
+* Alleged Human Rights violations, other than those involving social and economic rights alleging any action or omission on the part of * the Bank Group.
 
+*   * 
     * [How we handle complaint?](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/how-we-handle-complaint/)
             * Procedure upon Receiving  a Request
             * Request Registration

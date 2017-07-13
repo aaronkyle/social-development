@@ -297,7 +297,7 @@ Once this determination is made, the Director shall promptly notify the Requesto
         * Register of Request
         * Notice of Registration
         * Management response
-    * [RQ2016/2 (Senegal)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20162-senegal/)
+    * **[RQ2016/2 (Senegal)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20162-senegal/)**
         * Register of Request
         * Requests
             * Request 1
@@ -305,7 +305,7 @@ Once this determination is made, the Director shall promptly notify the Requesto
         * Notice of Registration
         * Management response
         * Eligibility Report for Compliance Review
-    * [RQ2016/1 (Mali)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20161-mali/)
+    * **[RQ2016/1 (Mali)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20161-mali/)**
         * Register of Request
         * Request
         * Notice of Registration
@@ -336,7 +336,7 @@ Once this determination is made, the Director shall promptly notify the Requesto
         * Notice of Registration
         * Problem Solving Report
         * Closure Report
-    * [RQ 2010/2 (South Africa)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20102-south-africa/)
+    * **[RQ 2010/2 (South Africa)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20102-south-africa/)**
         * Request Register
         * Notice of Registration
         * Compliance Review
@@ -345,7 +345,7 @@ Once this determination is made, the Director shall promptly notify the Requesto
         * Revised Reassessment and Revision of the Terms of Reference for the Compliance Review of the Medupi Power Project, Republic of South Africa
         * 1st IRM Monitoring Report
         * Management Response - 1st IRM Monitoring Report
-    * [RQ 2010/1 (Morocco)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20101-morocco/)
+    * **[RQ 2010/1 (Morocco)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20101-morocco/)**
         * [Request Register](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Request_Register_Morocco_2010_ENG_-_review.pdf)
         * [Notice of Registration](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/Notice%20of%20Registration%20English2.pdf)
         * [Report on problem solving of request](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/IIRM%20Problem%20Solving%20Report%20Morocco%20Request%20web.pdf)
@@ -365,7 +365,7 @@ Once this determination is made, the Director shall promptly notify the Requesto
         * [Problem Solving Report](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/PROBLEM%20SOVLING%20REPORT%20GIBE%20III%20%28ENGLISH%2002%2009%202010%29.pdf)
             * [Studies commissioned as part of the problem solving exercise](https://www.afdb.org/en/topics-and-sectors/topics/independent-review-mechanism-irm/registered-requests/rq-20091-ethiopia/studies-commissioned-as-part-of-the-problem-solving-exercise/)
         * [Report of the Chairperson of the IRM Roster](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/Report%20of%20the%20Chairperson%20of%20the%20IRM%20Roster%20%28English%202010%2010%2020%29_01.pdf)
-    * [RQ 2007/1 (Uganda)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20071-uganda/)
+    * **[RQ 2007/1 (Uganda)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20071-uganda/)**
         * [Request Register](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/Request_Register.pdf)
         * [Notice of Registration](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/19836283-EN-NOTICE-OF-REGISTRATION-2007-06-04.PDF)
         * [Eligibility Report](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/23754315-EN-CRMU-ELIGIBILITY-REPORT-BUJAGALI-PROJECT-WEB.PDF)

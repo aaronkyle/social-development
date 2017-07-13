@@ -8,33 +8,39 @@ The Project Complaint Mechanism (PCM) is the EBRD's accountability mechanism tha
 
 2017
 *	EPS Restructuring ([PSD 47318](http://www.ebrd.com/work-with-us/projects/psd/eps-restructuring.html)), EPS Kolubara Environmental Improvement ([PSD 41923](http://www.ebrd.com/work-with-us/projects/psd/eps-kolubara-environmental-improvement.html))
+   - Eligibility Assessment currently in progress
 *	GEORGIA - Jvari-Khorga Interconnection ([PSD](http://www.ebrd.com/work-with-us/projects/psd/georgia---jvari-khorga-interconnection.html))
+   - Eligibility Assessment currently in progress
 * Krnovo Wind Farm ([PSD](http://www.ebrd.com/work-with-us/projects/psd/krnovo-wind-farm.html))
-
+   - Eligibility Assessment currently in progress
+   
 2016
 * EPS Restructuring ([PSD](http://www.ebrd.com/work-with-us/projects/psd/eps-restructuring.html))
    - Eligibility Assessment Report
-
+   - Compliance Review Report
+   - EBRD Management Action Plan
+   - Complainant comments
+   
 2015
-* Turk Traktor ([PSD](http://www.ebrd.com/work-with-us/projects/psd/turk-traktor.html))
+* **Turk Traktor ([PSD](http://www.ebrd.com/work-with-us/projects/psd/turk-traktor.html))**
    - Eligibility Assessment Report
    - [Compliance Review Report](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395255759495&d=&pagename=EBRD%2FContent%2FDownloadDocument)
    - [EBRD Management Action Plan](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395255759556&d=&pagename=EBRD%2FContent%2FDownloadDocument)
    - [Complainant comments](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395255759617&d=&pagename=EBRD%2FContent%2FDownloadDocument)
-* IPP4 Al-Manakher Power Project ([PSD](http://www.ebrd.com/work-with-us/projects/psd/ipp4-al-manakher-power-project.html))
+* **IPP4 Al-Manakher Power Project ([PSD](http://www.ebrd.com/work-with-us/projects/psd/ipp4-al-manakher-power-project.html))**
    - [Eligibility Assessment Report](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395248507882&d=&pagename=EBRD%2FContent%2FDownloadDocument) (08/01/2016)
    - [Compliance Review Report](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395254359284&d=&pagename=EBRD%2FContent%2FDownloadDocument)
-* Altain Khuder debt & equity ([PSD 43804](http://www.ebrd.com/work-with-us/projects/psd/altain-khuder-debt.html)) ([PSD 39581](http://www.ebrd.com/work-with-us/projects/psd/altain-khuder-equity.html))
+* **Altain Khuder debt & equity ([PSD 43804](http://www.ebrd.com/work-with-us/projects/psd/altain-khuder-debt.html)) ([PSD 39581](http://www.ebrd.com/work-with-us/projects/psd/altain-khuder-equity.html))**
    - Eligibility Assessment Report
    - [Compliance Review Report](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395254359284&d=&pagename=EBRD%2FContent%2FDownloadDocument)
 
 2014
-* Dariali HPP ([PSD](http://www.ebrd.com/work-with-us/projects/psd/dariali-hpp.html))
+* **Dariali HPP ([PSD](http://www.ebrd.com/work-with-us/projects/psd/dariali-hpp.html))**
    - Eligibility Assessment Report
    - [Compliance Review Report](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395255714344&d=&pagename=EBRD%2FContent%2FDownloadDocument)
    - [EBRD Management Action Plan](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395255714751&d=&pagename=EBRD%2FContent%2FDownloadDocument)
    - [Complainant comments](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395255714887&d=&pagename=EBRD%2FContent%2FDownloadDocument)
-* South-West Corridor Road ([PSD](http://www.ebrd.com/work-with-us/projects/psd/southwest-corridor-road-project.html))
+* **South-West Corridor Road ([PSD](http://www.ebrd.com/work-with-us/projects/psd/southwest-corridor-road-project.html))**
    - Eligibility Assessment Report for CR (English)
    - Eligibility Assessment Report for CR (Russian)
    - Eligibility Assessment Report for PSI (English)
@@ -57,39 +63,39 @@ The Project Complaint Mechanism (PCM) is the EBRD's accountability mechanism tha
 * Oltenia - Turceni Rehabilitation (PSD)
 
 2013
-* EPS: Emergency Power Sector Reconstruction Loan (PSD 17829), EPS Power II (PSD 27005), EPS Kolubara Environmental Improvement (PSD 41923)
+* **EPS: Emergency Power Sector Reconstruction Loan (PSD 17829), EPS Power II (PSD 27005), EPS Kolubara Environmental Improvement (PSD 41923)**
    - Eligibility Assessment Report
    - [Monitoring report II (February 2017)](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395255211561&d=&pagename=EBRD%2FContent%2FDownloadDocument)
    - [Monitoring report I (July 2016)](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395252039236&d=&pagename=EBRD%2FContent%2FDownloadDocument)
    - [Compliance Review Report](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395247380630&d=&pagename=EBRD%2FContent%2FDownloadDocument)
    - [EBRD Management Action Plan](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395247381326&d=&pagename=EBRD%2FContent%2FDownloadDocument)
    - [Complainant comments](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395247380759&d=&pagename=EBRD%2FContent%2FDownloadDocument)
-* EPS Power II (PSD)
+* **EPS Power II (PSD)**
    - Eligibility Assessment Report
    - [Compliance Review Report](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395245720255&d=&pagename=EBRD%2FContent%2FDownloadDocument)
-* Energy Resources Phase II (PSD)
+* **Energy Resources Phase II (PSD)**
    - Eligibility Assessment Report
    - [Compliance Review Report (ER)](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395255511982&d=&pagename=EBRD%2FContent%2FDownloadDocument)
-* Oyu Tolgoi (PSD)
+* **Oyu Tolgoi (PSD)**
    - Eligibility Assessment Report
    - Eligibility Assessment Report PSI (OT)
    - [Compliance Review Report (OT)](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395255007261&d=&pagename=EBRD%2FContent%2FDownloadDocument)
 
 2012
-* EPS Kolubara Environmental Improvement (PSD)
+* **EPS Kolubara Environmental Improvement (PSD)**
    - Eligibility Assessment Report
    - [Monitoring report II (February 2017)](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395255211561&d=&pagename=EBRD%2FContent%2FDownloadDocument)
    - [Monitoring report I (July 2016)](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395252039236&d=&pagename=EBRD%2FContent%2FDownloadDocument)
    - [Compliance Review Report](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395247380630&d=&pagename=EBRD%2FContent%2FDownloadDocument)
    - [EBRD Management Action Plan](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395247381326&d=&pagename=EBRD%2FContent%2FDownloadDocument)
    - [Complainant comments](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395247380759&d=&pagename=EBRD%2FContent%2FDownloadDocument)
-* Sostanj Thermal Power Plant (PSD)
+* **Sostanj Thermal Power Plant (PSD)**
    - Eligibility Assessment Report
    - [Compliance Review Report](http://www.ebrd.com/downloads/integrity/sostanj_cr.pdf)
-* Rivne Kyiv High Voltage Line (PSD)
+* **Rivne Kyiv High Voltage Line (PSD)**
    - Eligibility Assessment Report
    - [Compliance Review Report](http://www.ebrd.com/downloads/integrity/rivne_kyiv_cr.pdf)
-* Paravani HPP (PSD)
+* **Paravani HPP (PSD)**
    - Eligibility Assessment Report
    - [Monitoring report VI (March 2017)](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395255633558&d=&pagename=EBRD%2FContent%2FDownloadDocument)
    - [Monitoring report V (November 2016)](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395253564754&d=&pagename=EBRD%2FContent%2FDownloadDocument)
@@ -102,7 +108,7 @@ The Project Complaint Mechanism (PCM) is the EBRD's accountability mechanism tha
    - [Complainant comments](http://www.ebrd.com/downloads/integrity/Paravani_comments_on_MAP.pdf)
 
 2011
-* Ombla HPP (PSD)
+* **Ombla HPP (PSD)**
    - Eligibility Assessment Report
    - [Monitoring report V (November 2016)](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395253564713&d=&pagename=EBRD%2FContent%2FDownloadDocument)
    - [Monitoring report IV (March 2016)](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395250068590&d=&pagename=EBRD%2FContent%2FDownloadDocument)
@@ -112,7 +118,7 @@ The Project Complaint Mechanism (PCM) is the EBRD's accountability mechanism tha
    - [Compliance Review Report](http://www.ebrd.com/downloads/integrity/Ombla_CRR.pdf)
    - [EBRD Management Action Plan](http://www.ebrd.com/downloads/integrity/Ombla_MAP.pdf)
    - [Complainant comments](http://www.ebrd.com/downloads/integrity/Ombla_comments_to_map.pdf)
-* Boskov Most Hydro Power (PSD)
+* **Boskov Most Hydro Power (PSD)**
    - Eligibility Assessment Report]()
    - [Monitoring report VI (March 2017)](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395255393266&d=&pagename=EBRD%2FContent%2FDownloadDocument)
    - [Monitoring report V (November 2016)](http://www.ebrd.com/cs/Satellite?c=Content&cid=1395253564196&d=&pagename=EBRD%2FContent%2FDownloadDocument)
@@ -126,18 +132,18 @@ The Project Complaint Mechanism (PCM) is the EBRD's accountability mechanism tha
 * Tbilisi Railway Bypass 4 (PSD)
    - Eligibility Assessment Report
    - [Problem-solving Initiative terminated due to cancellation of the Project](http://www.ebrd.com/news/2011/tbilisi-railway-bypass-project-restructured.html)
-* Tbilisi Railway Bypass 3 (PSD)
+* **Tbilisi Railway Bypass 3 (PSD)**
    - Eligibility Assessment Report
    - [Compliance Review Report](http://www.ebrd.com/downloads/integrity/Tbilisi_cr_report_final.pdf)
-* Tbilisi Railway Bypass 2 (PSD)
+* **Tbilisi Railway Bypass 2 (PSD)**
    - Eligibility Assessment Report
    - [Compliance Review Report](http://www.ebrd.com/downloads/integrity/Tbilisi_cr_report_final.pdf)
-* Tbilisi Railway Bypass 1 (PSD)
+* **Tbilisi Railway Bypass 1 (PSD)**
    - Eligibility Assessment Report
    - [Compliance Review Report](http://www.ebrd.com/downloads/integrity/Tbilisi_cr_report_final.pdf)
 
 2010
-* D1 motorway Phase I (PSD)
+* **D1 motorway Phase I (PSD)**
    - Eligibility Assessment Report
    - [Compliance Review Report](http://www.ebrd.com/downloads/integrity/Compliance_Review_Report_D1_Slovakia_FINAL.pdf)
 

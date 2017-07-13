@@ -279,72 +279,77 @@ Procedure upon Receiving a Request
 
 Within fourteen (14) business days of receipt of the request, the Director shall conduct a preliminary review and decide whether to register or ask for additional information, in which case the decision period may be extended until the requested information and documents are received. The Director shall not register any request that is outside the mandate of the IRM.
 If the Director of CRMU determines that the Request contains a bona fide allegation of harm arising from an AfDB-financed operation, she/he shall register the request for Problem-Solving, or for a Compliance Review.
+
 The Requestors’ preference for problem-solving exercise or compliance review or both shall be granted subject to the Request meeting the requirement for registration. Where the Requestors have not expressed a preference, the CRMU Director will determine the best course of action in consultation with the Requestors.
+
 Request Registration
 
 The Director of CRMU shall, while respecting the preference of Requestor, issue a Notice of the Registration of Request. A copy of this notice shall be posted in the IRM Register of Requests. A copy of this Notice shall be promptly posted on the IRM website and sent to the Requestors, the Boards of Directors and the President of the Bank.
+
 The Director of CRMU will request AfDB Management to provide a written evidence that it has complied, or intends to comply with the AfDB’s relevant policies and procedures within 21 days after receipt of the Notice of Registration.
+
 After receiving the Management response to the Request, the Director CRMU shall, within 5 business days, while respecting the preference of the Requestors, make a determination on whether the Request should be handled through:
-a problem-solving exercise,
-compliance review or,
-both problem solving and compliance review. In the latter case, the sequencing will be problem solving followed by compliance review.
+* a problem-solving exercise,
+* compliance review or,
+* both problem solving and compliance review. In the latter case, the sequencing will be problem solving followed by compliance review.
+
 Once this determination is made, the Director shall promptly notify the Requestors, the Boards and the President of the proposed remedial course of action and the reasons thereof.
 
 ---
 
 * [Registered Requests](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/)
     * [RQ2016/3 (Guinea)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20163-guinea/)
-        * Register of Request
-        * Notice of Registration
-        * Management response
+        * [Register of Request](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Register_of_Request.pdf)
+        * [Notice of Registration](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Notice_of_Registration_Mano_River_Project_Guinea.pdf)
+        * [Management response](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/UFM-Management_Response.pdf)
     * **[RQ2016/2 (Senegal)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20162-senegal/)**
-        * Register of Request
+        * [Register of Request](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/ENG_Register_of_Request_Sendou_Power_plant.pdf)
         * Requests
-            * Request 1
-            * Request 2
-        * Notice of Registration
-        * Management response
-        * Eligibility Report for Compliance Review
+            * [Request 1](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Plainte_des_premiers_requerants_ENG-1.pdf)
+            * [Request 2](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/EN_Request_of_Second_Requestors_Sendou_project-2.pdf)
+        * [Notice of Registration](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Notice_of_registration_Request_Sendou_Power_Plant_Eng.pdf)
+        * [Management response](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Management_response_on_the_request_filed_against_the_Sendou_coal_fired_power_plant_project_in_Senegal.pdf)
+        * [Eligibility Report for Compliance Review](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Sendou_-_Eligibility_Report-EN.pdf)
     * **[RQ2016/1 (Mali)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20161-mali/)**
-        * Register of Request
-        * Request
-        * Notice of Registration
-        * Management Response
-        * The Independent Review Mechanism Eligibility Assessment Report for Compliance
+        * [Register of Request](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/ENG_Register_of_Request-Moulins_Moderne_du_Mali__08_07_2016_.pdf)
+        * [Request](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/M3_Request_-_English.pdf)
+        * [Notice of Registration](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/ENG_Notice_of_Registration__Moulins_Modernes_du_Mali.pdf)
+        * [Management Response](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Management_Response_on_the_request_filed_on_the_diversification_of_the_activities_of_the_modern_Mills_project__Moulins_Modernes_du_Mali__in_Mali.pdf)
+        * [The Independent Review Mechanism Eligibility Assessment Report for Compliance](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Mali-_Diversification_of_the_activities_of_Modern_Mills_Project_-_The_Independent_Review_Mechanism_Eligibility_Assessment_Report_for_Compliance.pdf)
     * [RQ2015/3 (Kenya) Bis](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20153-kenya-bis/)
-        * Register of Request
-        * Request
-        * Notice of Registration
-        * Management Response
+        * [Register of Request](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/ENG_Register_of_Request-Outer_Ring_Road__15_07_2016_.pdf)
+        * [Request](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/ENG_Request_Kenya_Outer_Ring_Road_Project.pdf)
+        * [Notice of Registration](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/ENG_Notice_of_Registration_Outer_Ring_Road_Project.pdf)
+        * [Management Response](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Management_Response_Outring_Road_Project.pdf)
     * [RQ 2015/3 (Kenya)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20153-kenya/)
-        * Register of Request
-        * Request
-        * Notice of Registration
-        * Management Response   
+        * [Register of Request](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/ENG_Request_Register__Nairobi_River_Kenya_-revu.pdf)
+        * [Request](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/ENG_Request_Nairobi_Athi_River_-_revu.pdf)
+        * [Notice of Registration](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/Notice_of_Registeration_Kenya_Athi_River.pdf)
+        * [Management Response](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/ENG_Management_Response_August_2015.pdf) 
     * [RQ 2014/1 (Uganda)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20141-uganda/)
-        * Request Register
-        * Request
-        * Notice of Registration
-        * Management Response
-        * Progress Report on Problem-Solving
-        * Fact Finding Mission Report
+        * [Request Register](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Uganda_-_Improvement_of_Health_Services_Delivery_at_Mulago_Hospital_and_in_the_City_of_Kampala_-_Request_Register_N-RQ_2014-1.pdf)
+        * [Request](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/ENG_Request_-_uganda.pdf)
+        * [Notice of Registration](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Uganda_-_Improvement_of_Health_Services_Delivery_at_Mulago_Hospital_and_in_the_City_of_Kampala_-_Notice_of_Registration_Request_N-RQ_2014-1.pdf)
+        * [Management Response](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/ENG_Management_Response_-_uganda.pdf)
+        * [Progress Report on Problem-Solving](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/ENG_Progress_Report_on_Problem-Solving_Uganda_case.pdf)
+        * [Fact Finding Mission Report](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/ENG_Fact_Finding_Mission_Report.pdf)
     * [RQ 2012/1 (Tanzania)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20121-tanzania/)
-        * Request Register
-        * Notice of Registration
+        * [Request Register](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Request_Register_Tanzania.pdf)
+        * [Notice of Registration](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Notice%20of%20Reqistration%20Tanzania%20Request%20web.pdf)
     * [RQ 2011/1 (Senegal)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20111-senegal/)
-        * Request Register
-        * Notice of Registration
-        * Problem Solving Report
-        * Closure Report
+        * [Request Register](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Senegal_-_Dakar-Diamniadio_Highway_Project_-_Request_Register_N_RQ_20111.pdf)
+        * [Notice of Registration](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Senegal%20Notice%20of%20Registration%20Dakar%20-%20Diamniadio%20Highway%20%282011%2007%2026%29.pdf)
+        * [Problem Solving Report](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/IRM%20Report-%20%20Request%20for%20Problem%20solving%20-%20Dakar-%20Diamniadio%20Highway%20Project%20web.pdf)
+        * [Closure Report](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Closure_Report_-_Senegal-Dakar-Diamniado_Highway_Project_-Request_N_RQ2011-01.pdf)
     * **[RQ 2010/2 (South Africa)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20102-south-africa/)**
-        * Request Register
-        * Notice of Registration
-        * Compliance Review
-        * The Request
-        * Management Response
-        * Revised Reassessment and Revision of the Terms of Reference for the Compliance Review of the Medupi Power Project, Republic of South Africa
-        * 1st IRM Monitoring Report
-        * Management Response - 1st IRM Monitoring Report
+        * [Request Register](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Request_Register__2012_06_28_.pdf)
+        * [Notice of Registration](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Notice%20of%20Registration%20Request%20Medupi%20Power%20Project.pdf)
+        * [Compliance Review](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Medupi%20Power%20Project%20Q20102%20%20%281%29.pdf)
+        * [The Request](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/The%20Request%20Medupi%20Power%20Project%20%282010%2009%2028%29.pdf)
+        * [Management Response](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/MANAGEMENT%20RESPONSE%20TO%20THE%20REQUEST%20FOR%20VERIFICATION%20OF%20COMPLIANCE%20TO%20BANK%20%20POLICIES%20REGARDING%20THE%20MEDUPI%20POWER%20%20PROJECT.pdf)
+        * [Revised Reassessment and Revision of the Terms of Reference for the Compliance Review of the Medupi Power Project, Republic of South Africa](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/REVISED%20REASSESSMENT%20AND%20REVISION%20OF%20TERMS%20OF%20REFERENCE%20FOR%20THE%20COMPLIANCE%20REVIEW%20OF%20THE%20MEDUPI%20POWER%20PROJECT%20%282011%2006%2028%29.pdf)
+        * [1st IRM Monitoring Report](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/ENG_1st_IRM_Medupi_Monitoring_Report.pdf)
+        * [Management Response - 1st IRM Monitoring Report](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/ENG_Mgt_Resp_Medupi_Monitoring_Report.pdf)
     * **[RQ 2010/1 (Morocco)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq-20101-morocco/)**
         * [Request Register](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Request_Register_Morocco_2010_ENG_-_review.pdf)
         * [Notice of Registration](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/Notice%20of%20Registration%20English2.pdf)

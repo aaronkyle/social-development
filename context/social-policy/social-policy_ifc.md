@@ -149,7 +149,7 @@ English | Français | Español | Português | русский | 简体中文
 IFC Exclusion List
 
 The IFC Exclusion List defines the types of projects that IFC does not finance. The below Exclusion List relates to IFC's investments prior to the introduction of the Environmental and Social Review Procedure version 2 dated July 30, 2007.
-•IFC Exclusion List (Pre-2007) [PDF]
+• IFC Exclusion List (Pre-2007) [PDF]
 
 The most recent version of the IFC Exclusion List is available on our website.
 
@@ -158,108 +158,108 @@ WBG Environmental, Health, and Safety Guidelines/Pollution Prevention and Abatem
 The World Bank Group Environmental, Health, and Safety Guidelines (known as the "EHS Guidelines") are living documents and are occasionally updated. The current version of the EHS Guidelines are available at www.ifc.org/ehsguidelines. Earlier versions of the EHS Guidelines (including documents that were previously published in Part III of the Pollution Prevention and Abatement Handbook (PPAH) and on the IFC website), that are no longer in use, can be found below and are provided for reference only.
 
 PPAH Part III: Project Guidelines [PDF]
-•Principles of Industrial Pollution Management
-•Monitoring
-•Summary of Air Emission and Effluent Discharge Requirements Presented in the Industry Guidelines
+• [Principles of Industrial Pollution Management](http://www.ifc.org/wps/wcm/connect/98463a8048855c188b04db6a6515bb18/HandbookPrinciplesOfIndustrialPollutionManagement.pdf?MOD=AJPERES)
+• [Monitoring](http://www.ifc.org/wps/wcm/connect/108b0e0048865874b60af66a6515bb18/monitoring_PPAH.pdf?MOD=AJPERES)
+• [Summary of Air Emission and Effluent Discharge Requirements Presented in the Industry Guidelines](http://www.ifc.org/wps/wcm/connect/39ba870048855b5a88acda6a6515bb18/HandbookSummaryAirEmissionAndEffluentDischargeRequirements.pdf?MOD=AJPERES)
 
 
 Pollutants [PDF]
-•Airborne Particulate Matter
-•Arsenic
-•Cadmium
-•Lead Pollution
-•Mercury
-•Nitrogen-Oxides
-•Ground-Level Ozone
-•Sulfur Oxides
+• [Airborne Particulate Matter](http://www.ifc.org/wps/wcm/connect/59cfb38048855493b35cf36a6515bb18/HandbookAirborneParticularMatter.pdf?MOD=AJPERES)
+• [Arsenic](http://www.ifc.org/wps/wcm/connect/c63c698048865840b506f76a6515bb18/HandbookArsenic.pdf?MOD=AJPERES)
+• [Cadmium](http://www.ifc.org/wps/wcm/connect/3f41e280488552b9ac6cfe6a6515bb18/HandbookCadmium.pdf?MOD=AJPERES)
+• [Lead Pollution](http://www.ifc.org/wps/wcm/connect/e6d8e20048855be28a6cda6a6515bb18/HandbookLeadPollution.pdf?MOD=AJPERES)
+• [Mercury](http://www.ifc.org/wps/wcm/connect/0b94c30048855447b21cf26a6515bb18/HandbookMercury.pdf?MOD=AJPERES)
+• [Nitrogen-Oxides](http://www.ifc.org/wps/wcm/connect/1304c9804885560bb91cfb6a6515bb18/HandbookNitrogenOxides.pdf?MOD=AJPERES)
+• [Ground-Level Ozone](http://www.ifc.org/wps/wcm/connect/dd7c9800488553e0b0b4f26a6515bb18/HandbookGroundLevelOzone.pdf?MOD=AJPERES)
+• [Sulfur Oxides](http://www.ifc.org/wps/wcm/connect/5cb16d8048855c248b24db6a6515bb18/HandbookSulfurOxides.pdf?MOD=AJPERES)
 
 
 Pollutant Control Technologies [PDF]
-•Airborne Particulate Matter: Pollution Prevention and Control
-•Removal of Lead from Gasoline: Technical Considerations
-•Nitrogen Oxides: Pollution Prevention and Control
-•Ozone-Depleting Substances: Alternatives
-•Sulfur Oxides: Pollution Prevention and Control
+• [Airborne Particulate Matter: Pollution Prevention and Control](http://www.ifc.org/wps/wcm/connect/ab848080488557a8bd44ff6a6515bb18/HandbookAirborneParticulateMatterPollutionPreventionAndControl.pdf?MOD=AJPERES)
+• [Removal of Lead from Gasoline: Technical Considerations](http://www.ifc.org/wps/wcm/connect/7862fe004885591c81fcd36a6515bb18/HandbookRemovalOfLeadFromGasolineTechnicalConsiderations.pdf?MOD=AJPERES)
+• [Nitrogen Oxides: Pollution Prevention and Control](http://www.ifc.org/wps/wcm/connect/60add78048855368aeecfe6a6515bb18/HandbookNitrogenOxidesPollutionPreventionAndControl.pdf?MOD=AJPERES)
+• [Ozone-Depleting Substances: Alternatives](http://www.ifc.org/wps/wcm/connect/4e730100488559478284d26a6515bb18/HandbookOzoneDepletingSubstancesAlternatives.pdf?MOD=AJPERES)
+• [Sulfur Oxides: Pollution Prevention and Control](http://www.ifc.org/wps/wcm/connect/c92d6d80488658c5b6faf66a6515bb18/HandbookSulfurOxidesPollutionPreventionAndControl.pdf?MOD=AJPERES)
 
  
 
 IFC Guidelines [PDF]
-•Airports
-•Ceramic Tile Manufacturing
-•Construction Materials Plants
-•Electric Power Transmission
-•Fish Processing
-•Food & Beverage Processing
-•Forestry Operations: Logging
-•Gas Terminal Systems
-•Geothermal Projects
-•Hazardous Materials Mgmt.
-•Health Care
-•Life & Fire Safety
-•Occupational Health & Safety
-•Office Buildings
-•Offshore Oil & Gas
-•Polychlorinated Biphenyls (PCBs)
-•Pesticide Handling
-•Plantations
-•Port & Harbor Facilities
-•Rail Transit Systems
-•Roads & Highways
-•Telecommunications
-•Tourism & Hospitality Dev.
-•Waste Management Facilities
-•Wastewater Reuse
-•Wildland Management
-•Wind Energy Conversion
-•Wood Products Industries
+• [Airports](http://www.ifc.org/wps/wcm/connect/e0c3f38048855a72860cd66a6515bb18/airports.pdf?MOD=AJPERES)
+• [Ceramic Tile Manufacturing](http://www.ifc.org/wps/wcm/connect/1866d780488553b1b014f26a6515bb18/ceramictilemfg.pdf?MOD=AJPERES)
+• [Construction Materials Plants](http://www.ifc.org/wps/wcm/connect/63244480488554c2b3ecf36a6515bb18/constmat.pdf?MOD=AJPERES)
+• [Electric Power Transmission](http://www.ifc.org/wps/wcm/connect/cce2e38048865909b802fa6a6515bb18/electricpower.pdf?MOD=AJPERES)
+• [Fish Processing](http://www.ifc.org/wps/wcm/connect/94cf31004885578abcccfe6a6515bb18/fishprocessing.pdf?MOD=AJPERES)
+• [Food & Beverage Processing](http://www.ifc.org/wps/wcm/connect/e1cd6e8048855c868c14de6a6515bb18/foodandbev.pdf?MOD=AJPERES)
+• [Forestry Operations: Logging](http://www.ifc.org/wps/wcm/connect/ca0dd900488551f6aa14fa6a6515bb18/forestrylogging.pdf?MOD=AJPERES)
+• [Gas Terminal Systems](http://www.ifc.org/wps/wcm/connect/cc1a6c80488551e3a9c4fb6a6515bb18/gasterminal.pdf?MOD=AJPERES)
+• [Geothermal Projects](http://www.ifc.org/wps/wcm/connect/061c348048855b3b8834da6a6515bb18/geothermal.pdf?MOD=AJPERES)
+• [Hazardous Materials Mgmt.](http://www.ifc.org/wps/wcm/connect/1caec10048855cde8d0cdf6a6515bb18/hazmatmgmt.pdf?MOD=AJPERES)
+• [Health Care](http://www.ifc.org/wps/wcm/connect/b009d180488551c9a98cfb6a6515bb18/healthcarefacilities.pdf?MOD=AJPERES)
+• [Life & Fire Safety](http://www.ifc.org/wps/wcm/connect/341dcb00488554e2b49cf66a6515bb18/Life%26FireSafety.pdf?MOD=AJPERES)
+• [Occupational Health & Safety](http://www.ifc.org/wps/wcm/connect/af11720048865868b5caf76a6515bb18/OHSguideline.pdf?MOD=AJPERES)
+• [Office Buildings](http://www.ifc.org/wps/wcm/connect/90ccb600488554e1b494f66a6515bb18/officebuildings.pdf?MOD=AJPERES)
+• [Offshore Oil & Gas](http://www.ifc.org/wps/wcm/connect/bfc6f4004886590bb80afa6a6515bb18/offshoreoil.pdf?MOD=AJPERES)
+• [Polychlorinated Biphenyls (PCBs)](http://www.ifc.org/wps/wcm/connect/5b15b00048855db28fe4df6a6515bb18/pcb.pdf?MOD=AJPERES)
+• [Pesticide Handling](http://www.ifc.org/wps/wcm/connect/34fe7780488557d6be0cfe6a6515bb18/pesticidehandling.pdf?MOD=AJPERES)
+• [Plantations](http://www.ifc.org/wps/wcm/connect/4ab8c78048855b5d88bcda6a6515bb18/plantations.pdf?MOD=AJPERES)
+• [Port & Harbor Facilities](http://www.ifc.org/wps/wcm/connect/5112850048855cbe8cb4de6a6515bb18/portharbor.pdf?MOD=AJPERES)
+• [Rail Transit Systems](http://www.ifc.org/wps/wcm/connect/52f78c80488555cab82cfa6a6515bb18/railtransit.pdf?MOD=AJPERES)
+• [Roads & Highways](http://www.ifc.org/wps/wcm/connect/fbcee600488556b5ba6cfa6a6515bb18/roadsandhighways.pdf?MOD=AJPERES)
+• [Telecommunications](http://www.ifc.org/wps/wcm/connect/4014530048855d548e9cde6a6515bb18/telecommunications.pdf?MOD=AJPERES)
+• [Tourism & Hospitality Dev.](http://www.ifc.org/wps/wcm/connect/0c817800488557ecbe5cfe6a6515bb18/tourismhospitality.pdf?MOD=AJPERES)
+• [Waste Management Facilities](http://www.ifc.org/wps/wcm/connect/b8d0bf00488658d4b732f76a6515bb18/wastemgmt.pdf?MOD=AJPERES)
+• [Wastewater Reuse](http://www.ifc.org/wps/wcm/connect/7a944500488556efbb04fb6a6515bb18/wastewaterreuse.pdf?MOD=AJPERES)
+• [Wildland Management](http://www.ifc.org/wps/wcm/connect/76f6e0004885580dbec4fe6a6515bb18/wildlandmgmt.pdf?MOD=AJPERES)
+• [Wind Energy Conversion](http://www.ifc.org/wps/wcm/connect/9d208c80488558ae80fcd26a6515bb18/windenergy.pdf?MOD=AJPERES)
+• [Wood Products Industries](http://www.ifc.org/wps/wcm/connect/9af39500488553b9b044f26a6515bb18/woodproducts.pdf?MOD=AJPERES)
 
  
 
 World Bank Guidelines [PDF]
 
-•Aluminum Manufacturing
-•Base Metal & Iron Ore Mining
-•Breweries
-•Cement Manufacturing
-•Chlor-Alkali Plants
-•Coal Mining & Production
-•Coke Manufacturing
-•Copper Smelting
-•Dairy Industry
-•Dye Manufacturing
-•Electronics Manufacturing
-•Electroplating Industry
-•Foundries
-•Fruit & Vegetable Processing
-•General Env. Guidelines
-•Glass Manufacturing
-•Industrial Estates
-•Iron & Steel Manufacturing
-•Lead & Zinc Smelting
-•Meat Processing & Rendering
-•Mini Steel Mills
-•Mining and Milling, Underground
-•Mining and Milling, Open Pit
-•Mixed Fertilizer Plants
-•Monitoring
-•Nickel Smelting & Refining
-•Nitrogenous Fertilizer Plants
-•Oil & Gas Dev (Onshore)
-•Pesticides Formulation
-•Pesticides Manufacturing
-•Petrochemicals Manufacturing
-•Petroleum Refining
-•Pharmaceutical Manufacturing
-•Phosphate Fertilizer Plants
-•Printing Industry
-•Pulp & Paper Mills
-•Sugar Manufacturing
-•Tanning & Leather Finishing
-•Textiles Industry
-•Thermal Power for New Plants
-•Thermal Power Rehabilitation
-•Vegetable Oil Processing
-•Wood Preserving Industry
+• [Aluminum Manufacturing]()
+• [Base Metal & Iron Ore Mining]()
+• [Breweries]()
+• [Cement Manufacturing]()
+• [Chlor-Alkali Plants]()
+• [Coal Mining & Production]()
+• [Coke Manufacturing]()
+• [Copper Smelting]()
+• [Dairy Industry]()
+• [Dye Manufacturing]()
+• [Electronics Manufacturing]()
+• [Electroplating Industry]()
+• [Foundries]()
+• [Fruit & Vegetable Processing]()
+• [General Env. Guidelines]()
+• [Glass Manufacturing]()
+• [Industrial Estates]()
+• [Iron & Steel Manufacturing]()
+• [Lead & Zinc Smelting]()
+• [Meat Processing & Rendering]()
+• [Mini Steel Mills]()
+• [Mining and Milling, Underground]()
+• [Mining and Milling, Open Pit]()
+• [Mixed Fertilizer Plants]()
+• [Monitoring]()
+• [Nickel Smelting & Refining]()
+• [Nitrogenous Fertilizer Plants]()
+• [Oil & Gas Dev (Onshore)]()
+• [Pesticides Formulation]()
+• [Pesticides Manufacturing]()
+• [Petrochemicals Manufacturing]()
+• [Petroleum Refining]()
+• [Pharmaceutical Manufacturing]()
+• [Phosphate Fertilizer Plants]()
+• [Printing Industry]()
+• [Pulp & Paper Mills]()
+• [Sugar Manufacturing]()
+• [Tanning & Leather Finishing]()
+• [Textiles Industry]()
+• [Thermal Power for New Plants]()
+• [Thermal Power Rehabilitation]()
+• [Vegetable Oil Processing]()
+• [Wood Preserving Industry]()
 
  
 
@@ -305,14 +305,14 @@ English | Français | Español | русский | 简体中文 | عربي
 :''see our'' [[IFC Environmental and Social Review Procedure|internal notes on the IFC Environmental and Social Review Procedure]]</h4>
 
 
-== Implementation Resources ==
+## Implementation Resources
 
-=== Impact Assessment ===
+### Impact Assessment
 
 * [http://www.guidetohriam.org/welcome IFC Guide to Human Rights Impact Assessment and Management (online tool)] [http://www.guidetohriam.org/app/images/documents/Guide%20to%20HRIAM%20booklet%20English.pdf (alt link; short PDF intro)]
 
 
-=== Stakeholder Engagement ===
+### Stakeholder Engagement
 
 *  [http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_StakeholderEngagement_Full/$FILE/IFC_StakeholderEngagement.pdf Stakeholder Engagement: A Good Practice Handbook for Companies Doing Business in Emerging Markets]
 * [http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_StakeholderEngagement Handbook on Stakeholder Engagement]
@@ -322,24 +322,24 @@ English | Français | Español | русский | 简体中文 | عربي
 * [http://www.ifc.org/wps/wcm/connect/1ab9f60048855b56889cda6a6515bb18/FPIC.pdf?MOD=AJPERES&attachment=true&id=1322807873478 Free Prior Informed Consultation]
 * [http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_DoingBetterBusiness Handbook on Doing Better Business through Effective Public Consultation]
 
-=== Labour ===
+### Labour
 
 * [http://www.ifc.org/wps/wcm/connect/664132804885559fb75cf76a6515bb18/Labor%2BToolkit.pdf?MOD=AJPERES&attachment=true&id=1322808662414 Labor Toolkit: A Practical Screening and Due Diligence Tool for Project Review [PDF]]
 * [http://www.ifc.org/wps/wcm/connect/629b648048865944b8aafa6a6515bb18/NonDiscrimination.pdf?MOD=AJPERES&CACHEID=629b648048865944b8aafa6a6515bb18 Good Practice Note on Non-Discrimination and Equal Opportunity [PDF]]
 * [http://www.ifc.org/wps/wcm/connect/9839db00488557d1bdfcff6a6515bb18/workers_accomodation.pdf?MOD=AJPERES&CACHEID=9839db00488557d1bdfcff6a6515bb18 Workers' Accommodation: Processes and Standards]
 * [http://www.ifc.org/wps/wcm/connect/8b14b6004885555db65cf66a6515bb18/Retrenchment.pdf?MOD=AJPERES&CACHEID=8b14b6004885555db65cf66a6515bb18 Good Practice Note on Managing Retrenchment]
 
-=== Resettlement / Displacement === 
+### Resettlement / Displacement
 
 * [http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_RAP Handbook on Preparing a Resettlement Action Plan]
 * [http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_GPN_WorkersAccommodation Workers' Accommodation: Processes and Standards]
 
-=== Grievance Redress ===
+### Grievance Redress
 
 * [http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_GrievanceMechanisms/$FILE/IFC+Grievance+Mechanisms.pdf Addressing Grievances from Project-Affected Communities: Guidance for Projects and Companies on Designing Grievance Mechanisms]
 :''see our'' [[IFC Good Practice Note, Grievances from Project-Affected Communities | internal notes on the IFC Good Practice Note: Grievances from Project-Affected Communities]]
 
-=== Migration Management ===
+### Migration Management
 
 * IFC 2008, Project-Induced In-Migration: Risk Assessment and Management Strategies, Washington DC: Environment and Social Division, CommDev.
 
@@ -354,12 +354,12 @@ English | Français | Español | русский | 简体中文 | عربي
    - [Ongoing discussion about project induced in-migration](http://commdev.org/content/blog/detail/2092/)
 
 
-=== Sustainability Reporting ===
+### Sustainability Reporting
 
 * [Global Reporting Initiative Guidelines](http://www.globalreporting.org/)
 * [IFC Sustainability Reports](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Reports_Annual)
 
-=== Compliance Review ===
+### Compliance Review
 
 * [Environmental and Social Review Procedure](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_ESRP2009/$FILE/ESRP2009.pdf)
 
@@ -367,17 +367,17 @@ English | Français | Español | русский | 简体中文 | عربي
 ---
 
 
-== PS1: Social and Environmental Assessment and Management System ==
+## PS1: Social and Environmental Assessment and Management System
 
 Among other issues, Performance Standard 1 establishes the importance of effective community engagement through disclosure of project-related information and consultation with local communities on matters that directly affect them. Community engagement is defined as “an on-going process involving the client’s disclosure of information… free of external manipulation, interference, or coercion, and intimidation, and conducted on the basis of timely, relevant, understandable and accessible information”. The purpose such engagement is “to build and maintain over time a constructive relationship with these communities”. The nature and frequency of community engagement must reflect the project’s risks to and adverse impacts on the affected communities. 
 
 IFC articulates three general topics within the framework of community engagement: disclosure, consultation and grievance mechanisms.
 
-''Disclosure''
+**Disclosure**
 
 IFC requires that clients publicly disclose the Assessment document. If communities face potential risks or adverse impacts from the project, clients must provide such communities with access to information on the purpose, nature and scale of the project, the duration of proposed project activities, and the nature of such potential risks and impacts. Disclosure should occur early in the Social and Environmental Assessment process and in any event before the project construction commences; disclosure must also be continued on an ongoing basis.
 
-''Consultation''
+**Consultation**
 
 If affected communities may be subject to risks or adverse impacts from a project, IFC requires that clients undertake a process of consultation in a manner that provides the affected communities with opportunities to express their views on project risks, impacts, and mitigation measures. Such consultation should also allow the client to consider and respond to community inputs. Effective consultation:
 * (i)	should be based on the prior disclosure of relevant and adequate information, including draft documents and plans
@@ -389,33 +389,33 @@ Consultation must be undertaken in a manner that is inclusive and culturally app
 
 For projects with significant adverse impacts on affected communities, consultation must ensure their free, prior and informed consultation and facilitate their informed participation. Informed participation involves organised and iterative consultation, leading to the client’s incorporating into their decision-making process the views of the affected communities on matters that affect them directly (such as proposed mitigation measures, the sharing of development benefits and opportunities, and implementation issues). The consultation must be documented—particularly the measures taken to avoid or minimise risks to and adverse impacts on the affected communities.
 
-''Grievance Mechanism''
+**Grievance Mechanism**
 
 IFC mandates that clients respond to communities’ concerns. If anticipating ongoing risks to or adverse impacts on affected communities, the client must establish a grievance mechanism to receive and facilitate resolution of communities’ concerns and grievances. The grievance mechanism should be scaled to the risks and adverse impacts of the project. It should address concerns promptly using an understandable and transparent process that is culturally appropriate and readily accessible to all segments of the affected communities—at no cost and without retribution. The mechanism should not impede access to judicial or administrative remedies.
 The client must inform the affected communities about the project grievance mechanism in the course of its community engagement process.
 
-''Reporting''
+**Reporting**
 
 In terms of external reporting, IFC requires clients to disclose to affected communities an Action Plan describing specific mitigation measures and actions necessary for the project to comply with applicable laws and regulations and to meet the requirements of the Performance Standards. Clients must also provide periodic reports that describe progress with Action Plan implementation on issues that involve ongoing risk to or impacts on affected communities, and on issues of concern identified via the consultation process or grievance mechanism. These reports must also be in a format accessible to the affected communities and in a frequency proportionate to the concerns of affected communities (but not less than annually).
 
 
-== PS 2: Labor and Working Conditions ==
+## PS 2: Labor and Working Conditions
 
 Performance Standard 2 requires consultation to be carried out in cases where large-scale retrenchment is necessary (e.g. at the end of the project operation phase). In these cases, the client must ensure consultation with employees, their representative organisations and the government (where appropriate) in a manner that is absent of discrimination.
 IFC PS 2 also stipulates the need for a grievance mechanism for workers (and their organisations, where they exist) to raise reasonable workplace concerns. This mechanism should involve an appropriate level of management and address concerns promptly, using an understandable and transparent process that provides feedback to those concerned, without any retribution. The mechanism should not impede access to other judicial or administrative remedies that might be available under law or through existing arbitration procedures, or substitute for grievance mechanisms provided through collective agreements. IFC obligates clients to inform their workforce of the grievance mechanism at the time of hire, and make it easily accessible to them.
 
 
-== PS 3: Pollution Prevention and Abatement ==
+## PS 3: Pollution Prevention and Abatement
 
 Performance Standard 3 does not contain any specific provisions calling for community consultation/participation, disclosure, or grievance redrerdss
 
 
-== PS 4: Community Health Safety and Security ==
+## PS 4: Community Health Safety and Security
 
 Performance Standard 4 does not contain any specific provisions calling for community consultation/participation, disclosure, or grievance redress
 
 
-== PS 5: Land Acquisition and Involuntary Resettlement ==
+## PS 5: Land Acquisition and Involuntary Resettlement
 
 Performance Standard 5 also makes clear statements requiring consultation evidencing the informed participation of affected persons and communities in decision-making processes. It stipulates that consultation “will continue during the implementation, monitoring, and evaluation of compensation payment and resettlement”. 
 
@@ -424,13 +424,13 @@ For instances of physical displacement, consultations must help clients to offer
 IFC also mandates that clients establish special grievance mechanisms for receive and addresses concerns specific to compensation and relocation.
 
 
-== PS 6: Biodiversity Conservation and Sustainable Natural Resource Management ==
+## PS 6: Biodiversity Conservation and Sustainable Natural Resource Management
 
 
 For Performance Standard 6, the need for community consultation is understood as integral to defining an appropriate system of independent certification for the sustainable management of the resources.
 
 
-== PS 7: Indigenous Peoples ==
+## PS 7: Indigenous Peoples
 
 Information disclosure, consultation and informed participation are key issues in IFC Performance Standard 7. When a project initiative will affect communities of Indigenous Peoples, the Client is to establish an ongoing relationship from as early as possible in the project planning and to maintain it throughout the life of the project. In projects with adverse impacts, the consultation process will ensure the free, prior, and informed consultation on affected communities of Indigenous Peoples and facilitate their informed participation on matters that affect them directly. Processes of community engagement must be culturally appropriate and commensurate with the risks and potential impacts to the Indigenous Peoples.
 
@@ -444,7 +444,7 @@ To ensure these aims, IFC mandates the following steps:
 For projects affecting communities of Indigenous Peoples, IFC also requires clients to “seek to identify, through the process of free, prior, and informed consultation with and the informed participation of the affected communities of Indigenous Peoples, opportunities for culturally appropriate development benefits.” Such opportunities and benefits should be commensurate with the degree of project impacts, with the aim of improving their standard of living and livelihoods in a culturally appropriate manner, and to fostering the long-term sustainability of the natural resource on which Indigenous Peoples communities. The client must document identified development benefits and make them accessible to Indigenous Peoples communities in a timely and equitable manner.
 
 
-== PS 8:	Cultural Heritage ==
+## PS 8:	Cultural Heritage
 
 Performance Standard 8 states that where a project may affect cultural heritage, clients must consult with affected communities who use, or have used within living memory, the cultural heritage for longstanding cultural purposes and must incorporate the views of the affected communities on such cultural heritage into the client’s decision-making process. Consultation will also involve the relevant national or local regulatory agencies that are entrusted with the protection of cultural heritage.&nbsp;
 
@@ -460,12 +460,12 @@ As part of IFC commitment to socially and environmentally sustainable developmen
 Included within the ESRP is IFC’s explanation of the terms “Free Prior and Informed Consultation (FPIC)” and “Broad Community Support (BCS)” as part of the requirements for community consultation and Performance Standards and EIR. The ESRP also details which projects require FPIC and BCS and the methodology used by IFC to determine client fulfilment of these requirements.
 
 As noted in the ESRP, both the PS and EIR requirements for FPIC and BCS are applicable to: 
-# Any proposed project with significant adverse impacts on affected  communities (i.e., in any project categorized ‘A’ by virtue of its predicted social impacts)<br>
-# Any proposed project where Indigenous People are directly affected. In such cases, there is an additional obligation for clients to enter into good faith negotiation with IPs as outlined in PS 7.1.
+* Any proposed project with significant adverse impacts on affected  communities (i.e., in any project categorized ‘A’ by virtue of its predicted social impacts)<br>
+* Any proposed project where Indigenous People are directly affected. In such cases, there is an additional obligation for clients to enter into good faith negotiation with IPs as outlined in PS 7.1.
 
 In order to verify the client’s fulfilment of the Performance Standards and EIR requirements for FPIC and BCS, the IFC has developed a documenting matrix. Essentially the matrix is designed to answer these two questions:
-# Has the client conducted free, prior and informed consultation regarding the investment project, and enabled the informed participation of affected communities?<br>
-#What  is the level of support and dissent related to the project among the affected communities for the investment project?
+* Has the client conducted free, prior and informed consultation regarding the investment project, and enabled the informed participation of affected communities?<br>
+* What  is the level of support and dissent related to the project among the affected communities for the investment project?
 
 Based upon the answers to these questions, IFC classifies the quality of its client’s consultation efforts and the projects conformance with the Performance Standards, the Extractive Industry Review, and IFC’s overall commitment to socially and environmentally sustainable development.
 
@@ -484,6 +484,7 @@ International Finance Corporation (IFC)
 The 2006 IFC Policy on Disclosure of Information is a 13-page document outlining the scope of materials that IFC makes publically available—either on a routine basis or upon request. This disclosure policy is intended to reflect IFC’s commitment to transparent business practices in-line with the Policy on Social and Environmental Sustainability and the Performance Standards.
 
 In accordance with the prescripts of IFC’s Performance Standards, the disclosure policy necessitates that IFC clients self-disclose information to project-affected parties about all types of adverse environmental and social impacts resulting from the project, as well as the client’s plan to mitigate these impacts.
+
 In addition, the document also defines how routinely provided information can be obtained from, the types of information that IFC does not routinely provide (a fairly standard list of exceptions intended to protect the financial and personal welfare of IFC, its clients, and its employees), and how IFC monitors its own implementation of this policy. 
 
 

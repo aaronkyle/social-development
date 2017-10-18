@@ -46,11 +46,260 @@ PS 8:	Cultural Heritage
 
 ### Past Policy Framework
 
-* [http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_Disclosure2006/$FILE/Disclosure2006.pdf 2006 Policy on Disclosure of Information]
+* [http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_Disclosure2006/$FILE/Disclosure2006.pdf](2006 Policy on Disclosure of Information)
 
 :''see my'' [[IFC Policy on Disclosure of Information| notes on the IFC Policy on Disclosure of Information]]</h4>
 
-### Axillary Policy Framework
+---
+
+http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsppah
+
+### Former Environmental and Social Safeguards and Supporting Materials
+
+Below are the environmental and social safeguard policies, as well as supporting materials, that IFC followed prior to April 30, 2006. This information is provided for reference only. Only investments made prior to April 30, 2006 are subject to the Safeguard Policies.
+
+In 2006, IFC adopted the Sustainability Framework, which articulates our strategic commitment to sustainable development and is an integral part of our approach to risk management. The [2006 edition of IFC's Sustainability Framework](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/ifcsustainabilityframework_2006) applies to investments that underwent IFC's initial credit review process from April 30, 2006 to December 31, 2011.
+
+In 2012, the Sustainability Framework was updated following an 18-month consultation process with stakeholders around the world. The 2012 edition of IFC's Sustainability Framework applies to all investment and advisory clients whose projects undergo IFC's initial credit review process after January 1, 2012.
+
+### Pre-2006 Environmental and Social Safeguards
+
+• [Disclosure Policy](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#disclosure)
+• [Environmental and Social Review Procedure](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#esrp)
+• [Guidance Notes](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#guidance)
+• [Safeguard Policies](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#safeguard)
+
+Note: Only investments made prior to April 30, 2006 are subject to these policies.
+
+### Supporting Materials
+
+• [IFC Exclusion List](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#exclusion) of projects that IFC does not finance, relating to IFC's investments prior to July 30, 2007
+• [Environmental, Health, and Safety (EHS) Guidelines and Pollution Prevention and Abatement Handbook (PPAH)](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsppah) followed prior to 2007 and 2008
+• [Decommissioned EHS Guidelines](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsdecommissioned) that have been updated following the review process beginning in 2013
+
+### Disclosure Policy
+
+The Disclosure Policy (September 1998) defined IFC's policy on disclosure of information and described the materials available to the public under that policy.
+
+Disclosure Policy (September 1998) [PDF]
+English | Français | Español | Portugués | русский | عربي
+
+The most recent version of the policy, IFC's Access to Information Policy, is available on our [website](https://disclosures.ifc.org/#/accessInfoPolicy).
+
+
+### Environmental and Social Review Procedure
+
+The Environmental and Social Review Procedure (December 1998) was prepared for IFC staff and project sponsors to evaluate prospective projects prior to investment, focusing on economic, financial, technical, legal, environmental and social issues during the project appraisal process. This policy was replaced by now [archived versions](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/es-proc-manual/esrp-manual) of the Environmental and Social Review Procedure, beginning in April 2006.
+
+The archived and most recent version of the Environmental and Social Review Procedure are available on our [website](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/es-proc-manual).
+
+### Guidance Notes
+
+The Guidance Notes accompanied the December 1998 Environmental and Social Review Procedure (ESRP) and contained additional information to assist IFC staff and project sponsors in applying the ESRP. These policies were replaced by the revised Guidance Notes in April 30, 2006, which are still in use for investments that underwent IFC's initial credit review process from April 30, 2006 to December 31, 2011.
+
+Guidance Notes (December 1998)
+
+• [Guidance Note A: Checklist of Potential Issues for an Environmental Assessment](http://www.ifc.org/wps/wcm/connect/14432a0048855889807cd26a6515bb18/GuiA_EAIssuesChecklist.pdf?MOD=AJPERES) [PDF]
+• [Guidance Note B: Content of an Environmental Impact Assessment Report](http://www.ifc.org/wps/wcm/connect/30b6768048855837bf54ff6a6515bb18/GuiB_EIAReportContent.pdf?MOD=AJPERES) [PDF]
+• [Guidance Note C: Outline of an Environmental Action Plan](http://www.ifc.org/wps/wcm/connect/68667f804885535aae9cfe6a6515bb18/GuiC_EAPOutline.pdf?MOD=AJPERES) [PDF]
+• [Guidance Note D: Outline of a Project Specific Environmental Audit](http://www.ifc.org/wps/wcm/connect/7d4ccb0048855b318814da6a6515bb18/GuiD_EnvAuditOutline.pdf?MOD=AJPERES) [PDF]
+• [Guidance Note E: Outline of a Project Specific Major Hazard Assessment](http://www.ifc.org/wps/wcm/connect/8a57a600488559db844cd66a6515bb18/GuiE_HazardAssessment.pdf?MOD=AJPERES) [PDF]
+• [Guidance Note F: Guidance for Preparation of a Public Consultation and Disclosure Plan](http://www.ifc.org/wps/wcm/connect/e7e722004886583bb4def66a6515bb18/GuiF_PCDPGuidance.pdf?MOD=AJPERES) [PDF]
+
+The 2006 Guidance Notes and 2012 Guidance Notes are available on our website.
+
+Safeguard Policies
+
+The Safeguard Policies provided guidelines for IFC and its clients on how to prevent and mitigate undue harm to people and their environment in the identification, preparation, and implementation of projects. The Safeguard Policies were replaced by the Policy on Social and Environmental Sustainability and the Performance Standards in April 30, 2006.
+
+
+
+Environmental Assessment (OP 4.01, October 1998) [PDF]
+English | Français | Español | Português | русский | عربي | 简体中文
+
+Natural Habitats (OP 4.04, November 1998) [PDF]
+English | Français | Español | Português | русский | عربي | 简体中文
+
+Pest Management (OP 4.09, November 1998) [PDF]
+English | Français | Español | Português | русский | عربي | 简体中文
+
+Forestry (OP 4.36, November 1998) [PDF]
+English | Français | Español | Português | русский | عربي | 简体中文
+
+Safety of Dams (OP 4.37, September 1996) [PDF]
+English | Français | Español | Português | русский | عربي | 简体中文
+
+
+International Waterways (OP 7.50, November 1998) [PDF]
+English | Français | Español | Português | русский | عربي | 简体中文
+
+Indigenous Peoples (OD 4.20, September 1991) [PDF]
+English | Français | Español | Português | русский | عربي | 简体中文
+
+Involuntary Resettlement (OD 4.30, June 1990) [PDF]
+English | Français | Español | Português | русский | عربي | 简体中文
+
+Cultural Property (OPN 11.03, September 1986) [PDF]
+English | Français | Español | Português | русский | عربي | 简体中文
+
+Child and Forced Labor Policy Statement (March 1998) [PDF]
+English | Français | Español | Português | русский | 简体中文
+
+
+IFC Exclusion List
+
+The IFC Exclusion List defines the types of projects that IFC does not finance. The below Exclusion List relates to IFC's investments prior to the introduction of the Environmental and Social Review Procedure version 2 dated July 30, 2007.
+•IFC Exclusion List (Pre-2007) [PDF]
+
+The most recent version of the IFC Exclusion List is available on our website.
+
+WBG Environmental, Health, and Safety Guidelines/Pollution Prevention and Abatement Handbook
+
+The World Bank Group Environmental, Health, and Safety Guidelines (known as the "EHS Guidelines") are living documents and are occasionally updated. The current version of the EHS Guidelines are available at www.ifc.org/ehsguidelines. Earlier versions of the EHS Guidelines (including documents that were previously published in Part III of the Pollution Prevention and Abatement Handbook (PPAH) and on the IFC website), that are no longer in use, can be found below and are provided for reference only.
+
+PPAH Part III: Project Guidelines [PDF]
+•Principles of Industrial Pollution Management
+•Monitoring
+•Summary of Air Emission and Effluent Discharge Requirements Presented in the Industry Guidelines
+
+
+Pollutants [PDF]
+•Airborne Particulate Matter
+•Arsenic
+•Cadmium
+•Lead Pollution
+•Mercury
+•Nitrogen-Oxides
+•Ground-Level Ozone
+•Sulfur Oxides
+
+
+Pollutant Control Technologies [PDF]
+•Airborne Particulate Matter: Pollution Prevention and Control
+•Removal of Lead from Gasoline: Technical Considerations
+•Nitrogen Oxides: Pollution Prevention and Control
+•Ozone-Depleting Substances: Alternatives
+•Sulfur Oxides: Pollution Prevention and Control
+
+ 
+
+IFC Guidelines [PDF]
+•Airports
+•Ceramic Tile Manufacturing
+•Construction Materials Plants
+•Electric Power Transmission
+•Fish Processing
+•Food & Beverage Processing
+•Forestry Operations: Logging
+•Gas Terminal Systems
+•Geothermal Projects
+•Hazardous Materials Mgmt.
+•Health Care
+•Life & Fire Safety
+•Occupational Health & Safety
+•Office Buildings
+•Offshore Oil & Gas
+•Polychlorinated Biphenyls (PCBs)
+•Pesticide Handling
+•Plantations
+•Port & Harbor Facilities
+•Rail Transit Systems
+•Roads & Highways
+•Telecommunications
+•Tourism & Hospitality Dev.
+•Waste Management Facilities
+•Wastewater Reuse
+•Wildland Management
+•Wind Energy Conversion
+•Wood Products Industries
+
+ 
+
+World Bank Guidelines [PDF]
+
+•Aluminum Manufacturing
+•Base Metal & Iron Ore Mining
+•Breweries
+•Cement Manufacturing
+•Chlor-Alkali Plants
+•Coal Mining & Production
+•Coke Manufacturing
+•Copper Smelting
+•Dairy Industry
+•Dye Manufacturing
+•Electronics Manufacturing
+•Electroplating Industry
+•Foundries
+•Fruit & Vegetable Processing
+•General Env. Guidelines
+•Glass Manufacturing
+•Industrial Estates
+•Iron & Steel Manufacturing
+•Lead & Zinc Smelting
+•Meat Processing & Rendering
+•Mini Steel Mills
+•Mining and Milling, Underground
+•Mining and Milling, Open Pit
+•Mixed Fertilizer Plants
+•Monitoring
+•Nickel Smelting & Refining
+•Nitrogenous Fertilizer Plants
+•Oil & Gas Dev (Onshore)
+•Pesticides Formulation
+•Pesticides Manufacturing
+•Petrochemicals Manufacturing
+•Petroleum Refining
+•Pharmaceutical Manufacturing
+•Phosphate Fertilizer Plants
+•Printing Industry
+•Pulp & Paper Mills
+•Sugar Manufacturing
+•Tanning & Leather Finishing
+•Textiles Industry
+•Thermal Power for New Plants
+•Thermal Power Rehabilitation
+•Vegetable Oil Processing
+•Wood Preserving Industry
+
+ 
+
+Decommissioned World Bank Group (WBG) Environmental, Health, and Safety (EHS) Guidelines
+
+In 2013, the World Bank Group began to review and update the EHS Guidelines. As those Guidelines are revised, the outdated versions, including their translations, will be added below.
+
+
+
+Annual Crop Production (2007)
+English | Français | Español | русский | 简体中文 | عربي
+
+Liquefied Natural Gas (LNG) Facilities (2007)
+English | Français | Español | русский | 简体中文 | عربي
+
+Offshore Oil and Gas Development (2007)
+English | Français | Español | русский | 简体中文 | عربي
+
+Petroleum Refining (2007)
+English | Français | Español | русский | 简体中文 | عربي
+
+
+Plantation Crop Production (2007)
+English | Français | Español | русский | 简体中文 | عربي
+
+Ports, Harbors and Terminals (2007)
+English | Français | Español | русский | 简体中文 | عربي
+
+Vegetable Oil Processing (2007)
+English | Français | Español | русский | 简体中文 | عربي
+
+Wind Energy (2007)
+English | Français | Español | русский | 简体中文 | عربي
+
+
+
+---
+
+
+### Auxillary Policy Framework
 
 * [http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_ESRP2009/$FILE/ESRP2009.pdf Environmental and Social Review Procedure]
 :''see our'' [[IFC Environmental and Social Review Procedure|internal notes on the IFC Environmental and Social Review Procedure]]</h4>

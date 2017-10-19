@@ -51,6 +51,7 @@ Operational guidance is provided in the form of [Guidance Notes: Performance Sta
 
 
 ---
+
 ##### Sustainability Framework
 
 The [Sustainability Framework](http://www.ifc.org/sustainabilityframework) articulates IFC's strategic commitment to sustainable development. The framework is a risk-management insturment--inteded to promote sound environmental and social practices via accountability and encourage transparency.  Originally adopted in 2006 [^1](# "The 2006 edition of IFC's Sustainability Framework applies to investments that go through IFC's initial credit review process from April 30, 2006 to December 31, 2011. Investments made prior to April 30, 2006 are subject to the Safeguard Policies."), the Sustainability Framework was updated in 2012 [^2](# "The updated 2012 edition of IFC's Sustainability Framework applies to all investment and advisory clients whose projects go through IFC's initial credit review process after January 1, 2012.
@@ -124,12 +125,14 @@ As part of IFC commitment to socially and environmentally sustainable developmen
 Included within the ESRP is IFC’s explanation of the terms “Free Prior and Informed Consultation (FPIC)” and “Broad Community Support (BCS)” as part of the requirements for community consultation and Performance Standards and EIR. The ESRP also details which projects require FPIC and BCS and the methodology used by IFC to determine client fulfilment of these requirements.
 
 As noted in the ESRP, both the PS and EIR requirements for FPIC and BCS are applicable to:
-# Any proposed project with significant adverse impacts on affected  communities (i.e., in any project categorized ‘A’ by virtue of its predicted social impacts)<br>
-# Any proposed project where Indigenous People are directly affected. In such cases, there is an additional obligation for clients to enter into good faith negotiation with IPs as outlined in PS 7.1.
+
+* Any proposed project with significant adverse impacts on affected  communities (i.e., in any project categorized ‘A’ by virtue of its predicted social impacts)
+* Any proposed project where Indigenous People are directly affected. In such cases, there is an additional obligation for clients to enter into good faith negotiation with IPs as outlined in PS 7.1.
 
 In order to verify the client’s fulfilment of the Performance Standards and EIR requirements for FPIC and BCS, the IFC has developed a documenting matrix. Essentially the matrix is designed to answer these two questions:
-# Has the client conducted free, prior and informed consultation regarding the investment project, and enabled the informed participation of affected communities?<br>
-#What  is the level of support and dissent related to the project among the affected communities for the investment project?
+
+* Has the client conducted free, prior and informed consultation regarding the investment project, and enabled the informed participation of affected communities?
+* What  is the level of support and dissent related to the project among the affected communities for the investment project?
 
 Based upon the answers to these questions, IFC classifies the quality of its client’s consultation efforts and the projects conformance with the Performance Standards, the Extractive Industry Review, and IFC’s overall commitment to socially and environmentally sustainable development.
 
@@ -186,18 +189,18 @@ In 2012, the Sustainability Framework was updated following an 18-month consulta
 
 ### Pre-2006 Environmental and Social Safeguards
 
-• [Disclosure Policy](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#disclosure)
-• [Environmental and Social Review Procedure](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#esrp)
-• [Guidance Notes](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#guidance)
-• [Safeguard Policies](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#safeguard)
+* [Disclosure Policy](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#disclosure)
+* [Environmental and Social Review Procedure](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#esrp)
+* [Guidance Notes](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#guidance)
+* [Safeguard Policies](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#safeguard)
 
 Note: Only investments made prior to April 30, 2006 are subject to these policies.
 
 ### Supporting Materials
 
-• [IFC Exclusion List](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#exclusion) of projects that IFC does not finance, relating to IFC's investments prior to July 30, 2007
-• [Environmental, Health, and Safety (EHS) Guidelines and Pollution Prevention and Abatement Handbook (PPAH)](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsppah) followed prior to 2007 and 2008
-• [Decommissioned EHS Guidelines](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsdecommissioned) that have been updated following the review process beginning in 2013
+* [IFC Exclusion List](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#exclusion) of projects that IFC does not finance, relating to IFC's investments prior to July 30, 2007
+* [Environmental, Health, and Safety (EHS) Guidelines and Pollution Prevention and Abatement Handbook (PPAH)](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsppah) followed prior to 2007 and 2008
+* [Decommissioned EHS Guidelines](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsdecommissioned) that have been updated following the review process beginning in 2013
 
 ### Disclosure Policy
 
@@ -221,12 +224,12 @@ The Guidance Notes accompanied the December 1998 Environmental and Social Review
 
 Guidance Notes (December 1998)
 
-• [Guidance Note A: Checklist of Potential Issues for an Environmental Assessment](http://www.ifc.org/wps/wcm/connect/14432a0048855889807cd26a6515bb18/GuiA_EAIssuesChecklist.pdf?MOD=AJPERES) [PDF]
-• [Guidance Note B: Content of an Environmental Impact Assessment Report](http://www.ifc.org/wps/wcm/connect/30b6768048855837bf54ff6a6515bb18/GuiB_EIAReportContent.pdf?MOD=AJPERES) [PDF]
-• [Guidance Note C: Outline of an Environmental Action Plan](http://www.ifc.org/wps/wcm/connect/68667f804885535aae9cfe6a6515bb18/GuiC_EAPOutline.pdf?MOD=AJPERES) [PDF]
-• [Guidance Note D: Outline of a Project Specific Environmental Audit](http://www.ifc.org/wps/wcm/connect/7d4ccb0048855b318814da6a6515bb18/GuiD_EnvAuditOutline.pdf?MOD=AJPERES) [PDF]
-• [Guidance Note E: Outline of a Project Specific Major Hazard Assessment](http://www.ifc.org/wps/wcm/connect/8a57a600488559db844cd66a6515bb18/GuiE_HazardAssessment.pdf?MOD=AJPERES) [PDF]
-• [Guidance Note F: Guidance for Preparation of a Public Consultation and Disclosure Plan](http://www.ifc.org/wps/wcm/connect/e7e722004886583bb4def66a6515bb18/GuiF_PCDPGuidance.pdf?MOD=AJPERES) [PDF]
+* [Guidance Note A: Checklist of Potential Issues for an Environmental Assessment](http://www.ifc.org/wps/wcm/connect/14432a0048855889807cd26a6515bb18/GuiA_EAIssuesChecklist.pdf?MOD=AJPERES) [PDF]
+* [Guidance Note B: Content of an Environmental Impact Assessment Report](http://www.ifc.org/wps/wcm/connect/30b6768048855837bf54ff6a6515bb18/GuiB_EIAReportContent.pdf?MOD=AJPERES) [PDF]
+* [Guidance Note C: Outline of an Environmental Action Plan](http://www.ifc.org/wps/wcm/connect/68667f804885535aae9cfe6a6515bb18/GuiC_EAPOutline.pdf?MOD=AJPERES) [PDF]
+* [Guidance Note D: Outline of a Project Specific Environmental Audit](http://www.ifc.org/wps/wcm/connect/7d4ccb0048855b318814da6a6515bb18/GuiD_EnvAuditOutline.pdf?MOD=AJPERES) [PDF]
+* [Guidance Note E: Outline of a Project Specific Major Hazard Assessment](http://www.ifc.org/wps/wcm/connect/8a57a600488559db844cd66a6515bb18/GuiE_HazardAssessment.pdf?MOD=AJPERES) [PDF]
+* [Guidance Note F: Guidance for Preparation of a Public Consultation and Disclosure Plan](http://www.ifc.org/wps/wcm/connect/e7e722004886583bb4def66a6515bb18/GuiF_PCDPGuidance.pdf?MOD=AJPERES) [PDF]
 
 The 2006 Guidance Notes and 2012 Guidance Notes are available on our website.
 
@@ -271,7 +274,8 @@ English | Français | Español | Português | русский | 简体中文
 IFC Exclusion List
 
 The IFC Exclusion List defines the types of projects that IFC does not finance. The below Exclusion List relates to IFC's investments prior to the introduction of the Environmental and Social Review Procedure version 2 dated July 30, 2007.
-• IFC Exclusion List (Pre-2007) [PDF]
+
+* IFC Exclusion List (Pre-2007) [PDF]
 
 The most recent version of the IFC Exclusion List is available on our website.
 
@@ -280,108 +284,108 @@ WBG Environmental, Health, and Safety Guidelines/Pollution Prevention and Abatem
 The World Bank Group Environmental, Health, and Safety Guidelines (known as the "EHS Guidelines") are living documents and are occasionally updated. The current version of the EHS Guidelines are available at www.ifc.org/ehsguidelines. Earlier versions of the EHS Guidelines (including documents that were previously published in Part III of the Pollution Prevention and Abatement Handbook (PPAH) and on the IFC website), that are no longer in use, can be found below and are provided for reference only.
 
 PPAH Part III: Project Guidelines [PDF]
-• [Principles of Industrial Pollution Management](http://www.ifc.org/wps/wcm/connect/98463a8048855c188b04db6a6515bb18/HandbookPrinciplesOfIndustrialPollutionManagement.pdf?MOD=AJPERES)
-• [Monitoring](http://www.ifc.org/wps/wcm/connect/108b0e0048865874b60af66a6515bb18/monitoring_PPAH.pdf?MOD=AJPERES)
-• [Summary of Air Emission and Effluent Discharge Requirements Presented in the Industry Guidelines](http://www.ifc.org/wps/wcm/connect/39ba870048855b5a88acda6a6515bb18/HandbookSummaryAirEmissionAndEffluentDischargeRequirements.pdf?MOD=AJPERES)
+* [Principles of Industrial Pollution Management](http://www.ifc.org/wps/wcm/connect/98463a8048855c188b04db6a6515bb18/HandbookPrinciplesOfIndustrialPollutionManagement.pdf?MOD=AJPERES)
+* [Monitoring](http://www.ifc.org/wps/wcm/connect/108b0e0048865874b60af66a6515bb18/monitoring_PPAH.pdf?MOD=AJPERES)
+* [Summary of Air Emission and Effluent Discharge Requirements Presented in the Industry Guidelines](http://www.ifc.org/wps/wcm/connect/39ba870048855b5a88acda6a6515bb18/HandbookSummaryAirEmissionAndEffluentDischargeRequirements.pdf?MOD=AJPERES)
 
 
 Pollutants [PDF]
-• [Airborne Particulate Matter](http://www.ifc.org/wps/wcm/connect/59cfb38048855493b35cf36a6515bb18/HandbookAirborneParticularMatter.pdf?MOD=AJPERES)
-• [Arsenic](http://www.ifc.org/wps/wcm/connect/c63c698048865840b506f76a6515bb18/HandbookArsenic.pdf?MOD=AJPERES)
-• [Cadmium](http://www.ifc.org/wps/wcm/connect/3f41e280488552b9ac6cfe6a6515bb18/HandbookCadmium.pdf?MOD=AJPERES)
-• [Lead Pollution](http://www.ifc.org/wps/wcm/connect/e6d8e20048855be28a6cda6a6515bb18/HandbookLeadPollution.pdf?MOD=AJPERES)
-• [Mercury](http://www.ifc.org/wps/wcm/connect/0b94c30048855447b21cf26a6515bb18/HandbookMercury.pdf?MOD=AJPERES)
-• [Nitrogen-Oxides](http://www.ifc.org/wps/wcm/connect/1304c9804885560bb91cfb6a6515bb18/HandbookNitrogenOxides.pdf?MOD=AJPERES)
-• [Ground-Level Ozone](http://www.ifc.org/wps/wcm/connect/dd7c9800488553e0b0b4f26a6515bb18/HandbookGroundLevelOzone.pdf?MOD=AJPERES)
-• [Sulfur Oxides](http://www.ifc.org/wps/wcm/connect/5cb16d8048855c248b24db6a6515bb18/HandbookSulfurOxides.pdf?MOD=AJPERES)
+* [Airborne Particulate Matter](http://www.ifc.org/wps/wcm/connect/59cfb38048855493b35cf36a6515bb18/HandbookAirborneParticularMatter.pdf?MOD=AJPERES)
+* [Arsenic](http://www.ifc.org/wps/wcm/connect/c63c698048865840b506f76a6515bb18/HandbookArsenic.pdf?MOD=AJPERES)
+* [Cadmium](http://www.ifc.org/wps/wcm/connect/3f41e280488552b9ac6cfe6a6515bb18/HandbookCadmium.pdf?MOD=AJPERES)
+* [Lead Pollution](http://www.ifc.org/wps/wcm/connect/e6d8e20048855be28a6cda6a6515bb18/HandbookLeadPollution.pdf?MOD=AJPERES)
+* [Mercury](http://www.ifc.org/wps/wcm/connect/0b94c30048855447b21cf26a6515bb18/HandbookMercury.pdf?MOD=AJPERES)
+* [Nitrogen-Oxides](http://www.ifc.org/wps/wcm/connect/1304c9804885560bb91cfb6a6515bb18/HandbookNitrogenOxides.pdf?MOD=AJPERES)
+* [Ground-Level Ozone](http://www.ifc.org/wps/wcm/connect/dd7c9800488553e0b0b4f26a6515bb18/HandbookGroundLevelOzone.pdf?MOD=AJPERES)
+* [Sulfur Oxides](http://www.ifc.org/wps/wcm/connect/5cb16d8048855c248b24db6a6515bb18/HandbookSulfurOxides.pdf?MOD=AJPERES)
 
 
 Pollutant Control Technologies [PDF]
-• [Airborne Particulate Matter: Pollution Prevention and Control](http://www.ifc.org/wps/wcm/connect/ab848080488557a8bd44ff6a6515bb18/HandbookAirborneParticulateMatterPollutionPreventionAndControl.pdf?MOD=AJPERES)
-• [Removal of Lead from Gasoline: Technical Considerations](http://www.ifc.org/wps/wcm/connect/7862fe004885591c81fcd36a6515bb18/HandbookRemovalOfLeadFromGasolineTechnicalConsiderations.pdf?MOD=AJPERES)
-• [Nitrogen Oxides: Pollution Prevention and Control](http://www.ifc.org/wps/wcm/connect/60add78048855368aeecfe6a6515bb18/HandbookNitrogenOxidesPollutionPreventionAndControl.pdf?MOD=AJPERES)
-• [Ozone-Depleting Substances: Alternatives](http://www.ifc.org/wps/wcm/connect/4e730100488559478284d26a6515bb18/HandbookOzoneDepletingSubstancesAlternatives.pdf?MOD=AJPERES)
-• [Sulfur Oxides: Pollution Prevention and Control](http://www.ifc.org/wps/wcm/connect/c92d6d80488658c5b6faf66a6515bb18/HandbookSulfurOxidesPollutionPreventionAndControl.pdf?MOD=AJPERES)
+* [Airborne Particulate Matter: Pollution Prevention and Control](http://www.ifc.org/wps/wcm/connect/ab848080488557a8bd44ff6a6515bb18/HandbookAirborneParticulateMatterPollutionPreventionAndControl.pdf?MOD=AJPERES)
+* [Removal of Lead from Gasoline: Technical Considerations](http://www.ifc.org/wps/wcm/connect/7862fe004885591c81fcd36a6515bb18/HandbookRemovalOfLeadFromGasolineTechnicalConsiderations.pdf?MOD=AJPERES)
+* [Nitrogen Oxides: Pollution Prevention and Control](http://www.ifc.org/wps/wcm/connect/60add78048855368aeecfe6a6515bb18/HandbookNitrogenOxidesPollutionPreventionAndControl.pdf?MOD=AJPERES)
+* [Ozone-Depleting Substances: Alternatives](http://www.ifc.org/wps/wcm/connect/4e730100488559478284d26a6515bb18/HandbookOzoneDepletingSubstancesAlternatives.pdf?MOD=AJPERES)
+* [Sulfur Oxides: Pollution Prevention and Control](http://www.ifc.org/wps/wcm/connect/c92d6d80488658c5b6faf66a6515bb18/HandbookSulfurOxidesPollutionPreventionAndControl.pdf?MOD=AJPERES)
 
  
 
 IFC Guidelines [PDF]
-• [Airports](http://www.ifc.org/wps/wcm/connect/e0c3f38048855a72860cd66a6515bb18/airports.pdf?MOD=AJPERES)
-• [Ceramic Tile Manufacturing](http://www.ifc.org/wps/wcm/connect/1866d780488553b1b014f26a6515bb18/ceramictilemfg.pdf?MOD=AJPERES)
-• [Construction Materials Plants](http://www.ifc.org/wps/wcm/connect/63244480488554c2b3ecf36a6515bb18/constmat.pdf?MOD=AJPERES)
-• [Electric Power Transmission](http://www.ifc.org/wps/wcm/connect/cce2e38048865909b802fa6a6515bb18/electricpower.pdf?MOD=AJPERES)
-• [Fish Processing](http://www.ifc.org/wps/wcm/connect/94cf31004885578abcccfe6a6515bb18/fishprocessing.pdf?MOD=AJPERES)
-• [Food & Beverage Processing](http://www.ifc.org/wps/wcm/connect/e1cd6e8048855c868c14de6a6515bb18/foodandbev.pdf?MOD=AJPERES)
-• [Forestry Operations: Logging](http://www.ifc.org/wps/wcm/connect/ca0dd900488551f6aa14fa6a6515bb18/forestrylogging.pdf?MOD=AJPERES)
-• [Gas Terminal Systems](http://www.ifc.org/wps/wcm/connect/cc1a6c80488551e3a9c4fb6a6515bb18/gasterminal.pdf?MOD=AJPERES)
-• [Geothermal Projects](http://www.ifc.org/wps/wcm/connect/061c348048855b3b8834da6a6515bb18/geothermal.pdf?MOD=AJPERES)
-• [Hazardous Materials Mgmt.](http://www.ifc.org/wps/wcm/connect/1caec10048855cde8d0cdf6a6515bb18/hazmatmgmt.pdf?MOD=AJPERES)
-• [Health Care](http://www.ifc.org/wps/wcm/connect/b009d180488551c9a98cfb6a6515bb18/healthcarefacilities.pdf?MOD=AJPERES)
-• [Life & Fire Safety](http://www.ifc.org/wps/wcm/connect/341dcb00488554e2b49cf66a6515bb18/Life%26FireSafety.pdf?MOD=AJPERES)
-• [Occupational Health & Safety](http://www.ifc.org/wps/wcm/connect/af11720048865868b5caf76a6515bb18/OHSguideline.pdf?MOD=AJPERES)
-• [Office Buildings](http://www.ifc.org/wps/wcm/connect/90ccb600488554e1b494f66a6515bb18/officebuildings.pdf?MOD=AJPERES)
-• [Offshore Oil & Gas](http://www.ifc.org/wps/wcm/connect/bfc6f4004886590bb80afa6a6515bb18/offshoreoil.pdf?MOD=AJPERES)
-• [Polychlorinated Biphenyls (PCBs)](http://www.ifc.org/wps/wcm/connect/5b15b00048855db28fe4df6a6515bb18/pcb.pdf?MOD=AJPERES)
-• [Pesticide Handling](http://www.ifc.org/wps/wcm/connect/34fe7780488557d6be0cfe6a6515bb18/pesticidehandling.pdf?MOD=AJPERES)
-• [Plantations](http://www.ifc.org/wps/wcm/connect/4ab8c78048855b5d88bcda6a6515bb18/plantations.pdf?MOD=AJPERES)
-• [Port & Harbor Facilities](http://www.ifc.org/wps/wcm/connect/5112850048855cbe8cb4de6a6515bb18/portharbor.pdf?MOD=AJPERES)
-• [Rail Transit Systems](http://www.ifc.org/wps/wcm/connect/52f78c80488555cab82cfa6a6515bb18/railtransit.pdf?MOD=AJPERES)
-• [Roads & Highways](http://www.ifc.org/wps/wcm/connect/fbcee600488556b5ba6cfa6a6515bb18/roadsandhighways.pdf?MOD=AJPERES)
-• [Telecommunications](http://www.ifc.org/wps/wcm/connect/4014530048855d548e9cde6a6515bb18/telecommunications.pdf?MOD=AJPERES)
-• [Tourism & Hospitality Dev.](http://www.ifc.org/wps/wcm/connect/0c817800488557ecbe5cfe6a6515bb18/tourismhospitality.pdf?MOD=AJPERES)
-• [Waste Management Facilities](http://www.ifc.org/wps/wcm/connect/b8d0bf00488658d4b732f76a6515bb18/wastemgmt.pdf?MOD=AJPERES)
-• [Wastewater Reuse](http://www.ifc.org/wps/wcm/connect/7a944500488556efbb04fb6a6515bb18/wastewaterreuse.pdf?MOD=AJPERES)
-• [Wildland Management](http://www.ifc.org/wps/wcm/connect/76f6e0004885580dbec4fe6a6515bb18/wildlandmgmt.pdf?MOD=AJPERES)
-• [Wind Energy Conversion](http://www.ifc.org/wps/wcm/connect/9d208c80488558ae80fcd26a6515bb18/windenergy.pdf?MOD=AJPERES)
-• [Wood Products Industries](http://www.ifc.org/wps/wcm/connect/9af39500488553b9b044f26a6515bb18/woodproducts.pdf?MOD=AJPERES)
+* [Airports](http://www.ifc.org/wps/wcm/connect/e0c3f38048855a72860cd66a6515bb18/airports.pdf?MOD=AJPERES)
+* [Ceramic Tile Manufacturing](http://www.ifc.org/wps/wcm/connect/1866d780488553b1b014f26a6515bb18/ceramictilemfg.pdf?MOD=AJPERES)
+* [Construction Materials Plants](http://www.ifc.org/wps/wcm/connect/63244480488554c2b3ecf36a6515bb18/constmat.pdf?MOD=AJPERES)
+* [Electric Power Transmission](http://www.ifc.org/wps/wcm/connect/cce2e38048865909b802fa6a6515bb18/electricpower.pdf?MOD=AJPERES)
+* [Fish Processing](http://www.ifc.org/wps/wcm/connect/94cf31004885578abcccfe6a6515bb18/fishprocessing.pdf?MOD=AJPERES)
+* [Food & Beverage Processing](http://www.ifc.org/wps/wcm/connect/e1cd6e8048855c868c14de6a6515bb18/foodandbev.pdf?MOD=AJPERES)
+* [Forestry Operations: Logging](http://www.ifc.org/wps/wcm/connect/ca0dd900488551f6aa14fa6a6515bb18/forestrylogging.pdf?MOD=AJPERES)
+* [Gas Terminal Systems](http://www.ifc.org/wps/wcm/connect/cc1a6c80488551e3a9c4fb6a6515bb18/gasterminal.pdf?MOD=AJPERES)
+* [Geothermal Projects](http://www.ifc.org/wps/wcm/connect/061c348048855b3b8834da6a6515bb18/geothermal.pdf?MOD=AJPERES)
+* [Hazardous Materials Mgmt.](http://www.ifc.org/wps/wcm/connect/1caec10048855cde8d0cdf6a6515bb18/hazmatmgmt.pdf?MOD=AJPERES)
+* [Health Care](http://www.ifc.org/wps/wcm/connect/b009d180488551c9a98cfb6a6515bb18/healthcarefacilities.pdf?MOD=AJPERES)
+* [Life & Fire Safety](http://www.ifc.org/wps/wcm/connect/341dcb00488554e2b49cf66a6515bb18/Life%26FireSafety.pdf?MOD=AJPERES)
+* [Occupational Health & Safety](http://www.ifc.org/wps/wcm/connect/af11720048865868b5caf76a6515bb18/OHSguideline.pdf?MOD=AJPERES)
+* [Office Buildings](http://www.ifc.org/wps/wcm/connect/90ccb600488554e1b494f66a6515bb18/officebuildings.pdf?MOD=AJPERES)
+* [Offshore Oil & Gas](http://www.ifc.org/wps/wcm/connect/bfc6f4004886590bb80afa6a6515bb18/offshoreoil.pdf?MOD=AJPERES)
+* [Polychlorinated Biphenyls (PCBs)](http://www.ifc.org/wps/wcm/connect/5b15b00048855db28fe4df6a6515bb18/pcb.pdf?MOD=AJPERES)
+* [Pesticide Handling](http://www.ifc.org/wps/wcm/connect/34fe7780488557d6be0cfe6a6515bb18/pesticidehandling.pdf?MOD=AJPERES)
+* [Plantations](http://www.ifc.org/wps/wcm/connect/4ab8c78048855b5d88bcda6a6515bb18/plantations.pdf?MOD=AJPERES)
+* [Port & Harbor Facilities](http://www.ifc.org/wps/wcm/connect/5112850048855cbe8cb4de6a6515bb18/portharbor.pdf?MOD=AJPERES)
+* [Rail Transit Systems](http://www.ifc.org/wps/wcm/connect/52f78c80488555cab82cfa6a6515bb18/railtransit.pdf?MOD=AJPERES)
+* [Roads & Highways](http://www.ifc.org/wps/wcm/connect/fbcee600488556b5ba6cfa6a6515bb18/roadsandhighways.pdf?MOD=AJPERES)
+* [Telecommunications](http://www.ifc.org/wps/wcm/connect/4014530048855d548e9cde6a6515bb18/telecommunications.pdf?MOD=AJPERES)
+* [Tourism & Hospitality Dev.](http://www.ifc.org/wps/wcm/connect/0c817800488557ecbe5cfe6a6515bb18/tourismhospitality.pdf?MOD=AJPERES)
+* [Waste Management Facilities](http://www.ifc.org/wps/wcm/connect/b8d0bf00488658d4b732f76a6515bb18/wastemgmt.pdf?MOD=AJPERES)
+* [Wastewater Reuse](http://www.ifc.org/wps/wcm/connect/7a944500488556efbb04fb6a6515bb18/wastewaterreuse.pdf?MOD=AJPERES)
+* [Wildland Management](http://www.ifc.org/wps/wcm/connect/76f6e0004885580dbec4fe6a6515bb18/wildlandmgmt.pdf?MOD=AJPERES)
+* [Wind Energy Conversion](http://www.ifc.org/wps/wcm/connect/9d208c80488558ae80fcd26a6515bb18/windenergy.pdf?MOD=AJPERES)
+* [Wood Products Industries](http://www.ifc.org/wps/wcm/connect/9af39500488553b9b044f26a6515bb18/woodproducts.pdf?MOD=AJPERES)
 
  
 
 World Bank Guidelines [PDF]
 
-• [Aluminum Manufacturing]()
-• [Base Metal & Iron Ore Mining]()
-• [Breweries]()
-• [Cement Manufacturing]()
-• [Chlor-Alkali Plants]()
-• [Coal Mining & Production]()
-• [Coke Manufacturing]()
-• [Copper Smelting]()
-• [Dairy Industry]()
-• [Dye Manufacturing]()
-• [Electronics Manufacturing]()
-• [Electroplating Industry]()
-• [Foundries]()
-• [Fruit & Vegetable Processing]()
-• [General Env. Guidelines]()
-• [Glass Manufacturing]()
-• [Industrial Estates]()
-• [Iron & Steel Manufacturing]()
-• [Lead & Zinc Smelting]()
-• [Meat Processing & Rendering]()
-• [Mini Steel Mills]()
-• [Mining and Milling, Underground]()
-• [Mining and Milling, Open Pit]()
-• [Mixed Fertilizer Plants]()
-• [Monitoring]()
-• [Nickel Smelting & Refining]()
-• [Nitrogenous Fertilizer Plants]()
-• [Oil & Gas Dev (Onshore)]()
-• [Pesticides Formulation]()
-• [Pesticides Manufacturing]()
-• [Petrochemicals Manufacturing]()
-• [Petroleum Refining]()
-• [Pharmaceutical Manufacturing]()
-• [Phosphate Fertilizer Plants]()
-• [Printing Industry]()
-• [Pulp & Paper Mills]()
-• [Sugar Manufacturing]()
-• [Tanning & Leather Finishing]()
-• [Textiles Industry]()
-• [Thermal Power for New Plants]()
-• [Thermal Power Rehabilitation]()
-• [Vegetable Oil Processing]()
-• [Wood Preserving Industry]()
+* [Aluminum Manufacturing]()
+* [Base Metal & Iron Ore Mining]()
+* [Breweries]()
+* [Cement Manufacturing]()
+* [Chlor-Alkali Plants]()
+* [Coal Mining & Production]()
+* [Coke Manufacturing]()
+* [Copper Smelting]()
+* [Dairy Industry]()
+* [Dye Manufacturing]()
+* [Electronics Manufacturing]()
+* [Electroplating Industry]()
+* [Foundries]()
+* [Fruit & Vegetable Processing]()
+* [General Env. Guidelines]()
+* [Glass Manufacturing]()
+* [Industrial Estates]()
+* [Iron & Steel Manufacturing]()
+* [Lead & Zinc Smelting]()
+* [Meat Processing & Rendering]()
+* [Mini Steel Mills]()
+* [Mining and Milling, Underground]()
+* [Mining and Milling, Open Pit]()
+* [Mixed Fertilizer Plants]()
+* [Monitoring]()
+* [Nickel Smelting & Refining]()
+* [Nitrogenous Fertilizer Plants]()
+* [Oil & Gas Dev (Onshore)]()
+* [Pesticides Formulation]()
+* [Pesticides Manufacturing]()
+* [Petrochemicals Manufacturing]()
+* [Petroleum Refining]()
+* [Pharmaceutical Manufacturing]()
+* [Phosphate Fertilizer Plants]()
+* [Printing Industry]()
+* [Pulp & Paper Mills]()
+* [Sugar Manufacturing]()
+* [Tanning & Leather Finishing]()
+* [Textiles Industry]()
+* [Thermal Power for New Plants]()
+* [Thermal Power Rehabilitation]()
+* [Vegetable Oil Processing]()
+* [Wood Preserving Industry]()
 
  
 
@@ -402,7 +406,6 @@ English | Français | Español | русский | 简体中文 | عربي
 
 Petroleum Refining (2007)
 English | Français | Español | русский | 简体中文 | عربي
-
 
 Plantation Crop Production (2007)
 English | Français | Español | русский | 简体中文 | عربي

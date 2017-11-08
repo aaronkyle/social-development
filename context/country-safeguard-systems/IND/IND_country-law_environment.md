@@ -53,7 +53,7 @@
 |	2009	|	Effluent Standards for Hotel Industry (4/11/2009)	|		|
 |	2009	|	Effluent Standards for Pharmaceutical Industry (09/07/2009)	|		|
 |	2009	|	Emission Standards for Brick Kiln Sector (22/07/2009)	|		|
-|	2009	|	Environmental] Notification, September 14, 2006 (as amended through January 19, 2009)  (“EN” )	|		|
+|	2009	|	Environmental Impact Assessment Notification, September 14, 2006 (as amended through January 19, 2009)  (“EN” )	|		|
 |	2009	|	Revised National Ambient Air Quality Standards (16/11/2009)	|		|
 |	2010	|	National Green Tribunal Act, 2010	|		|
 |	2010	|	National Green Tribunal Act, 2010 |		|
@@ -64,3 +64,58 @@
 |	2012	|	Environmental Standards for Petrochemical (Basic and Intermediates) (09/11/2012).	|		|
 |	2014	|	Environment Standards for Cement Plant. (25/08/2014)	|		|
 |	2014	|	Environmental Standards, updated as of September 12, 2014	|		|
+
+
+<!--
+http://www.envfor.nic.in/legis/env_clr.htm
+
+Environmental Clearance - General
+S.O.1850(E), [14/08/2012] - Environmental Impact Assessement Notification, 2012.[pdf].
+
+S.O.156(E), [25/01/2012] - Amendment to EIA Notification, 2006.[pdf].
+
+S.O.695(E), [4/04/2011] - Amendment to EIA Notification, 2006.[pdf].
+
+S.O.3067(E), [01/12/2009] - Environmental Impact Assessement Notification-2009.[pdf].
+
+S.O.195(E), [19/01/2009] - Environmental Impact Assessement Notification-2009.[pdf].
+
+S.O.2244(E), [22/11/2008] - Environmental Impact Assessement Notification-2008.[pdf].
+
+S.O.2674(E), [17/11/2008] - Environmental Impact Assessement Notification-2008.[pdf].
+
+S.O.1737(E), [11/10/2007] - Environmental Impact Assessement Notification-2007.[pdf]and [Hindi].
+
+S.O.1736(E), [11/10/2007] - Environmental Impact Assessement Notification-2007.[pdf].
+
+S.O.1735(E), [11/10/2007] - Environmental Impact Assessement Notification-2007.[pdf].
+
+S.O.1203(E), [23/07/2007] - Environmental Impact Assessement Notification-2007.[pdf]
+
+S.O.1134(E), [12/07/2007] - Environmental Impact Assessement Notification-2007.[English] and [Hindi]
+
+S.O.1105(E), [4/07/2007] - Environmental Impact Assessement Notification-2007.[pdf]
+
+S.O.948(E), [12/06/2007] - Environmental Impact Assessement Notification-2007.[pdf]
+
+S.O.945(E), [11/06/2007] - Environmental Impact Assessement Notification-2007.[English] and [Hindi]
+
+S.O.582(E), [13/04/2007] ,Notification - State Level Environment Impact Assessment Authority (SEIAA) , West Bengal- [pdf], and [word].
+
+S.O.1533(E), [14/09/2006] - Environmental Impact Assessement Notification-2006. English - [pdf], and [word].
+Hindi - [Pdf-1],[Pdf-2],[pdf-3], [Pdf-4],[Pdf-5],[pdf-6],[pdf-7]
+
+Environmental Impact Assessment Notifications and amendments - 2006
+
+S.O.60(E), [27/1/1994] - Restrictions & Prohibitions on the Expansion & Modernization of any activity or new projects unless Environmental Clearance has been accorded, amended 2001 [html], [pdf], and [word].
+
+S.O.1087(E), [22/9/2003] - Amendments to S.O.60(E) dated 27/1/1994 [html], [pdf], and [word].
+
+S.O.891(E), [4/8/2003] - Amendments to S.O.60(E) dated 27/1/1994 [html], [pdf], and [word].
+
+S.O.506(E), [7/5/2003] - Amendments to S.O.60(E) dated 27/1/1994 [html], [pdf], and [word].
+
+S.O.248(E), [28/2/2003] - Amendments to S.O.60(E) dated 27/1/1994 [html], [pdf], and [word].
+
+S.O.801(E), [7/7/2004] - Amendments to S.O.60(E) dated 27/1/1994. English - [html], [pdf], and [word] Hindi - [pdf]
+-->

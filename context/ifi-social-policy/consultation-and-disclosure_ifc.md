@@ -1,6 +1,8 @@
 ## International Finance Corporation
 
-The International Finance Corporation (IFC) has adopted policy requirements and guidelines (Performance Standards, or PS) that include stipulations for public consultation and disclosure to ensure projects are implemented in an environmentally and socially responsible manner. These materials have been consulted and inform the content of this PCDP. Key considerations derive from the below IFC policy sources.
+The International Finance Corporation (IFC) has adopted policy requirements and guidelines (Performance Standards, or PS) that include stipulations for public consultation and disclosure to ensure projects are implemented in an environmentally and socially responsible manner.
+
+Theis discussion evaluates key IFC policy provisions on consultation and disclosure.
 
 ### IFC Policy on Social & Environmental Sustainability
 

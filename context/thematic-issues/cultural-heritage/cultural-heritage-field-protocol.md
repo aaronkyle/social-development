@@ -1,6 +1,6 @@
 ## TEMPLATE CULTURAL HERITAGE FIELD PROTOCOL
 
-## Ters of Reference
+## Terms of Reference
 
 
 1 INTRODUCTION

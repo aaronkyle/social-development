@@ -1,4 +1,4 @@
-# TO7: Supplementary Baseline Survey
+# Supplementary Baseline Survey
 
 ## Context
 

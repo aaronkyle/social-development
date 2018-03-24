@@ -38,4 +38,4 @@
 |	*	|		|		|	resident	|		|		|
 |	*	|		|		|	normally resident (absent)	|		|		|
 |	*	|		|		|	temporary resident	|		|		|
-|	*	|		|		|	non-resident (outside mtb, mbd)	|		|		|
+|	*	|		|		|	non-resident (outside project-affected villages)	|		|		|

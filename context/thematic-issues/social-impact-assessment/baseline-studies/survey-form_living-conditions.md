@@ -21,7 +21,6 @@
 |	*	|		|		|	river, stream, lake, spring and/or other natural water sources	|	sungai	|		|
 |	*	|		|		|	rainwater	|	air hujan	|		|
 |	*	|		|		|	other (specify)	|	lainnya (sebutkan)	|		|
-
 |	60	|	How far is it to this source?	|		|		|		|		|
 |	*	|		|		|	under 100m	|		|		|
 |	*	|		|		|	100m to 1 km	|		|		|

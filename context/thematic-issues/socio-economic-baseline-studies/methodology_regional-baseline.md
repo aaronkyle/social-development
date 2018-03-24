@@ -119,7 +119,7 @@ A rough typology of potential new and expanding (non-local) stakeholder groups t
    * money lenders encouraging community members to borrow money under conditions not familiar to them; their increasing economic power is often associated with co-opting local political leaders and elites
    * commercial sex workers
 
-CCCS would like to note that the delay in project disclosure about its activities (and the limitations thereof, such as limitations in local investment and workforce recruitment) risks building unrealistic expectations about potential project benefits, and therefore also risks further exposing local stakeholders to speculative in-migration.
+Consultancy would like to note that the delay in project disclosure about its activities (and the limitations thereof, such as limitations in local investment and workforce recruitment) risks building unrealistic expectations about potential project benefits, and therefore also risks further exposing local stakeholders to speculative in-migration.
 
 A well-structured social baseline framework can help to identify and account for different forms of in-migration by examining demographic composition of income-earning activities, changing compositions of economic classes and changing access to economic activities and income streams.  While such measurements are extremely important at villages and towns proximate to the project site, it is also critical for the client to measure and evaluate for project-induced impacts in areas further afield, as such may still fit squarely within the project's 'area of social influence'.
 
@@ -176,9 +176,9 @@ Access to basic services including water supply, sanitation, education and healt
 
 ## Supplementary Social Baseline Study Design
 
-The following discussion of field selection design methods for ensuring adequate site selection and sampling are based on a rough proximate working definition of the client 'area of social influence' as the regency of Maluku Tenggara Barat (MTB). [CCCS encourages the project to revise its definition of 'area of social influence' to include parts of Maluku Barat Daya (MBD), especially communities from Babar Island claiming a 'stake' in the project and its benefits.] CCCS proposes a cost-effective approach to build on the existing social baseline data for MTB by drawing on supplemental secondary sources such as census data, socio-economic and health surveys and by conducting primary research in the form of village and household level surveys, key informant interviews and focus group discussions.
+The following discussion of field selection design methods for ensuring adequate site selection and sampling are based on a rough proximate working definition of the client 'area of social influence' as the regency of Maluku Tenggara Barat (MTB). [Consultancy encourages the project to revise its definition of 'area of social influence' to include parts of Maluku Barat Daya (MBD), especially communities from Babar Island claiming a 'stake' in the project and its benefits.] Consultancy proposes a cost-effective approach to build on the existing social baseline data for MTB by drawing on supplemental secondary sources such as census data, socio-economic and health surveys and by conducting primary research in the form of village and household level surveys, key informant interviews and focus group discussions.
 
-MTB is characterized by two major population concentrations--one in the south, centered around Saumlaki, and the other in the north, centered around Larat.  These population centers developed partially in response to historic political rivalries. Due in part to the client plans to situate its Logistics Supply Base in Olilit, and owing partially to regional planning and investment decisions of the MTB government (such as the new airport near Saumlaki), the current focus of previous client baseline studies has been on villages in southern MTB. CCCS' proposed methodology extends the scope of study to account for the potential of project-induced impacts also to northern village--gathering data especially that can help to evaluate potential impacts induced by speculative in-migration, as well as other indirect and cumulative impacts.
+MTB is characterized by two major population concentrations--one in the south, centered around Saumlaki, and the other in the north, centered around Larat.  These population centers developed partially in response to historic political rivalries. Due in part to the client plans to situate its Logistics Supply Base in Olilit, and owing partially to regional planning and investment decisions of the MTB government (such as the new airport near Saumlaki), the current focus of previous client baseline studies has been on villages in southern MTB. Consultancy' proposed methodology extends the scope of study to account for the potential of project-induced impacts also to northern village--gathering data especially that can help to evaluate potential impacts induced by speculative in-migration, as well as other indirect and cumulative impacts.
 
 
 ### Determination of a 'Representative Sample'
@@ -197,7 +197,7 @@ MTB total # villages*	72	45%	0.05	28
 
 ----
 
-To help ensure that the survey team interacts directly with a 'representative sample' of the regional area of influence, CCCS grouped villages according to arithmetic quartiles by population and sought to balance site selection accordingly.
+To help ensure that the survey team interacts directly with a 'representative sample' of the regional area of influence, Consultancy grouped villages according to arithmetic quartiles by population and sought to balance site selection accordingly.
 
 FIGURE: 2
 %%{[ADJUST TABLE]}%%
@@ -231,7 +231,7 @@ As calculated in the table above and reflected in the graphics below, the distri
 FIGURE: 2
 {[INSERT EXCEL IMAGE]}
 
-Primary baseline data collection in each village sets numerical targets for the number of survey participants according to confidence values of 80% and margin of error calculations varying between 0.25 and 0.5. CCCS will use a combination of household questionnaire surveys, key informant interviews, and focus group discussions to effect a rapid rural appraisal that reaches representative sample population targets //%%{[SECTION]}%%//.  The target number of participants for FGD sessions is calculated according to MTB 2010 village population quartile values. ESMS supplementary social baseline implementation schedules were created by calculating village days according to the estimated number of FGDs that can be completed in one day (6 total; refer to //%%{[SECTION]}%%//).
+Primary baseline data collection in each village sets numerical targets for the number of survey participants according to confidence values of 80% and margin of error calculations varying between 0.25 and 0.5. Consultancy will use a combination of household questionnaire surveys, key informant interviews, and focus group discussions to effect a rapid rural appraisal that reaches representative sample population targets //%%{[SECTION]}%%//.  The target number of participants for FGD sessions is calculated according to MTB 2010 village population quartile values. ESMS supplementary social baseline implementation schedules were created by calculating village days according to the estimated number of FGDs that can be completed in one day (6 total; refer to //%%{[SECTION]}%%//).
 
 ANNEX 1:
 %%{INSERT: [Sample Definition]}%%
@@ -239,14 +239,14 @@ ANNEX 1:
 
 ### Selection of Study Sites
 
-CCCS and INPEX agreed to the following parameters for supplementary baseline site selection:
+Consultancy and client agreed to the following parameters for supplementary baseline site selection:
 
    * sample size should seek to achieve a defensible statistical representation of the social field; no less than 35% confidence level for regional "area of influence" (minimum of 17 villages)
    * full representation of directly affected communities [equivalent to 'priority directly-affected communities' (PDAC)in the terminology of the client *Public Consultation and Disclosure Plan* (PCDP)]
    * partial representation (ca. 40% - 80%) of areas likely to be exposed to project-induced direct and indirect socio-economic impacts ('directly-affected communities' DAC)
    * partial representation (ca. 10% - 40%) of areas that may indirectly be affected by project-induced socio-economic change, or those area where there is a vocal stakeholder perception or belief that such changes may occur ('indirectly-affected communities' IAC)
 
-Additional parameters influencing CCCS' proposed field sites selection include:
+Additional parameters influencing Consultancy' proposed field sites selection include:
 
   - proximity and distance from key project activity zones, especially the administrative and economic center of Saumlaki, the capital of MTB, as well as the planned on-shore LSB site and port facilities in neighboring Olilit Village.
   - distances from port facilities / accessibility by regular forms transportation [proximity to transportation hubs affects the likelihood a village will experience in-migration]
@@ -255,9 +255,9 @@ Additional parameters influencing CCCS' proposed field sites selection include:
  - due consideration of existing social, demographic, linguistic, geographical and economic data [MTB has several distinctive language groups, the number of which is a matter of scholarly debate; at least five major groups can be distinguished]
  - due consideration of timing, capacity constraints and the logistics of access
 
-CCCS' proposed selection criteria seeks to extend the geographic coverage of study sites to better account for potential project-induced changes in northern parts of MTB and other more distant villages--such as those that may be affected by speculative flows of immigrants or particularly remote and impoverished villages that are relatively more vulnerable to shocks of regional economic change.  We recognize, however, that  much of the west coast of MTB's Yamdena Island is not accessible by road, and a number of populated islands in the northwest and northeast of Yamdena cannot be readily reached by means of sea transport meeting INPEX' quality, health and safety standards.  CCCS will work with INPEX to revise and finalize final field site selection.
+Consultancy' proposed selection criteria seeks to extend the geographic coverage of study sites to better account for potential project-induced changes in northern parts of MTB and other more distant villages--such as those that may be affected by speculative flows of immigrants or particularly remote and impoverished villages that are relatively more vulnerable to shocks of regional economic change.  We recognize, however, that  much of the west coast of MTB's Yamdena Island is not accessible by road, and a number of populated islands in the northwest and northeast of Yamdena cannot be readily reached by means of sea transport meeting client' quality, health and safety standards.  Consultancy will work with client to revise and finalize final field site selection.
 
-Following the above parameters and considerations, the CCCS team recommends selection of the below villages for village-level collection of supplementary baseline data:
+Following the above parameters and considerations, the Consultancy team recommends selection of the below villages for village-level collection of supplementary baseline data:
 
 ID#	Village	Kecamatan
 
@@ -317,7 +317,7 @@ The ESMS supplementary social baseline studies compile following sources of data
 
 *Badan Pusat Statistik* (BPS) of Maluku Tenggara Barat works with kecamatan-level governments to produce annual reports of socio-economic and health data in a series referred to collectively in this methodology as the *Badan Pusat Statistik* (BPS) *'Kecamatan' Dalam Angka* series.  A variety of government agencies supply indicator data for the *'Kecamatan' Dalam Angka* series, and much of the data they provide can be utilized to help inform ongoing analysis of potential project-induced impacts to local communities. Initial comparative analysis performed on all MTB *'Kecamatan' Dalam Angka*  demonstrate that reporting is  uneven for most socio-economic variables--to an extent that severely limits current capacity to use these data in studies of social change and sustainable development.  The distribution of topics varies greatly and few variable measures are uniformly disaggregated to the village level. Even fewer variables desegregate according to gender. The varying integrity of each underlying dataset and mistakes resulting from the process of government reporting and client re-capture are also processes certain to have introduced errors.   [All analysis therefore involves substantial interpretation and application of professional judgment.]
 
-CCCS is contributing on-going work to re-constitute, clean, and verify MTB government village-level data in a manner that is helpful for social analysis.  We will continue integrating government data sources as they become available to us.  Allowes are made within the scope of this methodology to pursue data access by working directly with key stakeholder informants. %%{[REFERENCE METHODOLOGY SECTION]}%%.  CCCS will continue to seek access to data from the 2010 Indonesian Census, which records to the household level across the country.
+Consultancy is contributing on-going work to re-constitute, clean, and verify MTB government village-level data in a manner that is helpful for social analysis.  We will continue integrating government data sources as they become available to us.  Allowes are made within the scope of this methodology to pursue data access by working directly with key stakeholder informants. %%{[REFERENCE METHODOLOGY SECTION]}%%.  Consultancy will continue to seek access to data from the 2010 Indonesian Census, which records to the household level across the country.
 
 
 #### Questionnaire Household Surveys
@@ -408,7 +408,7 @@ Order of priority for targeted interviews is as follows:
    * focusing especially on interviews with people with subsistence-based livelihoods (the very poor), local homeowners and local business owners
 
 
-INPEX has requested CCCS--in addition to household surveys and FGD/PRA session--to gather updated socio-economic and census data from local institutions and government agencies.   ESMS supplementary baseline field team will dedicate at least one field researcher to pursuing secondary data access from local authorities and institutions.
+client has requested Consultancy--in addition to household surveys and FGD/PRA session--to gather updated socio-economic and census data from local institutions and government agencies.   ESMS supplementary baseline field team will dedicate at least one field researcher to pursuing secondary data access from local authorities and institutions.
 
 It is very likely possible to improve coverage of available socio-economic data for baseline study by requesting materials directly from data suppliers.  The following government and civic groups supply the raw data upon which all *'Kecamatan' Dalam Angka* series are generated :
 
@@ -463,7 +463,7 @@ In the following provisional field schedule, consideration has been given to con
 
 #### Preliminary Schedules
 
-CCCS proposes that supplementary baseline field studies occur in two parts. Splitting the survey into two parts accounts for the expanded  scope of the study and accomodates different logistical challenges that correspond with seasonal change--particularly challenges associated with sea travel. A phased approach also allows for follow-up on data requests made to specific government partners.
+Consultancy proposes that supplementary baseline field studies occur in two parts. Splitting the survey into two parts accounts for the expanded  scope of the study and accomodates different logistical challenges that correspond with seasonal change--particularly challenges associated with sea travel. A phased approach also allows for follow-up on data requests made to specific government partners.
 
 The first round of fieldwork will be occur in March 2015 and will focus on village communities on the island of Yamdena that are accessible by road. The second round of fieldwork will occur in June 2015 and will focus on villages on Selaru Island as well as commmunities in the north of Yamdena Island and on Larat Island. **ANNEX 5** provides an overview of study groupings according to fieldwork component; it further shows how study sites will be distributed across ESMS study teams. **ANNEX 6** provides a detailed (daily) schedule for ESMS team site visits.
 
@@ -479,6 +479,6 @@ The first round of fieldwork will be occur in March 2015 and will focus on villa
 
 ### Post-Fieldwork Data Processing and Reporting
 
-Compilation and reporting of the supplementary baseline results will be produced progressively, with initial processing undertaken after the first period of fieldwork. The final ESMS supplementary baseline report will be completed after the second phase of field research. Quantitative statistical analysis of questionnaire data will be combined with context and thematic analysis of the FGD material. CCCS will also make allowances for advanced statistical analysis to be undertaken at ANU (Australia).
+Compilation and reporting of the supplementary baseline results will be produced progressively, with initial processing undertaken after the first period of fieldwork. The final ESMS supplementary baseline report will be completed after the second phase of field research. Quantitative statistical analysis of questionnaire data will be combined with context and thematic analysis of the FGD material. Consultancy will also make allowances for advanced statistical analysis to be undertaken at ANU (Australia).
 
-An amalgamated report on the findings of the Supplementary Baseline Survey will be submitted by 15 September 2015. Final report preparation and peer review will be supported by CCCS Senior Social Specialist, Dr. Andrew McWilliam.
+An amalgamated report on the findings of the Supplementary Baseline Survey will be submitted by 15 September 2015. Final report preparation and peer review will be supported by Consultancy Senior Social Specialist, Dr. Andrew McWilliam.

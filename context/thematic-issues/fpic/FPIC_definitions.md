@@ -54,11 +54,11 @@ In the 2012 revision of the IFC [*Sustainability Framework*](http://www.ifc.org/
 
 > **Guidance Note 7: Indigenous Peoples <span style="font-size:medium;">[GN7:4]</span>**
 
->The client and the Affected Communities of Indigenous Peoples should establish an ongoing relationship throughout the life of the project. To this end, Performance Standard 7 requires the client to engage in a process of informed consultation and participation (ICP). 
+> The client and the Affected Communities of Indigenous Peoples should establish an ongoing relationship throughout the life of the project. To this end, Performance Standard 7 requires the client to engage in a process of informed consultation and participation (ICP). 
 
->In the special circumstances described in paragraphs 13–17 of [Performance Standard 7]( http://www.ifc.org/wps/wcm/connect/1ee7038049a79139b845faa8c6a8312a/PS7_English_2012.pdf?MOD=AJPERES), the client’s engagement process will ensure the Free, Prior and Informed Consent (FPIC) of the Affected Communities of Indigenous Peoples.
+> In the special circumstances described in paragraphs 13–17 of [Performance Standard 7]( http://www.ifc.org/wps/wcm/connect/1ee7038049a79139b845faa8c6a8312a/PS7_English_2012.pdf?MOD=AJPERES), the client’s engagement process will ensure the Free, Prior and Informed Consent (FPIC) of the Affected Communities of Indigenous Peoples.
 
->As noted in Performance Standard 7 there is no universally accepted definition of FPIC and thus, for the purposes of Performance Standards 1, 7, and 8, FPIC has the meaning described in paragraph 12 of Performance Standard 7.
+> As noted in Performance Standard 7 there is no universally accepted definition of FPIC and thus, for the purposes of Performance Standards 1, 7, and 8, FPIC has the meaning described in paragraph 12 of Performance Standard 7.
 
 >> **<span style="font-size:small;">PS7: 12.</span>** There is no universally accepted definition of FPIC. For the purposes of Performance Standards 1, 7 and 8, “FPIC” has the meaning described in this paragraph. FPIC builds on and expands the process of ICP described in Performance Standard 1 and will be established through good faith negotiation between the client and the Affected Communities of Indigenous Peoples. The client will document: (i) the mutually accepted process between the client and Affected Communities of Indigenous Peoples, and (ii) evidence of agreement between the parties as the outcome of the negotiations. FPIC does not necessarily require unanimity and may be achieved even when individuals or groups within the community explicitly disagree.
 
@@ -79,16 +79,15 @@ In the 2012 revision of the IFC [*Sustainability Framework*](http://www.ifc.org/
 <p>&nbsp;</p>
 Some definitional frameworks proposed in international jurisprudence are as follow:
 
-###<a id="UN_IP_2005">From</a> the “[Report of the International Workshop on Methodologies Regarding Free Prior and Informed Consent](http://social.un.org/index/IndigenousPeoples/MeetingsandWorkshops/InternationalWorkshoponFPIC.aspx)” [§ III ‘Conclusions and recommendations’]
+### <a id="UN_IP_2005">From</a> the “[Report of the International Workshop on Methodologies Regarding Free Prior and Informed Consent](http://social.un.org/index/IndigenousPeoples/MeetingsandWorkshops/InternationalWorkshoponFPIC.aspx)” [§ III ‘Conclusions and recommendations’]
 
-#####United Nations Permanent Forum on Indigenous Issues (17 February 2005)<a href="#fn,UN_IP_2005"> [1]</a>
+##### United Nations Permanent Forum on Indigenous Issues (17 February 2005)<a href="#fn,UN_IP_2005"> [1]</a>
 
->**Free:** should imply no coercion, intimidation or manipulation;
+> **Free:** should imply no coercion, intimidation or manipulation;
 
->**Prior:** should imply consent has been sought sufficiently in advance of any authorization or commencement of activities and respect time requirements of indigenous consultation/consensus processes;
+> **Prior:** should imply consent has been sought sufficiently in advance of any authorization or commencement of activities and respect time requirements of indigenous consultation/consensus processes;
 
->**Informed:** should imply that information is provided that covers (at least) the following aspects:
-
+> **Informed:** should imply that information is provided that covers (at least) the following aspects:
 
 > a. The nature, size, pace, reversibility and scope of any proposed project or activity;
 
@@ -108,27 +107,29 @@ Some definitional frameworks proposed in international jurisprudence are as foll
 
  
 
-###<a id="Tebtebba_2005">From</a> “[Standard-Setting: Legal Commentary On The Concept Of Free, Prior And Informed Consent](http://www2.ohchr.org/english/issues/indigenous/docs/wgip23/WP1.doc)” 
-#####An expanded working paper submitted by Mrs. Antoanella-Iulia Motoc and the Tebtebba Foundation to the United Nations Working Group on Indigenous Populations (14 July 2005)<a href="#ref,Tebtebba_2005">[2]</a>
+### <a id="Tebtebba_2005">From</a> “[Standard-Setting: Legal Commentary On The Concept Of Free, Prior And Informed Consent](http://www2.ohchr.org/english/issues/indigenous/docs/wgip23/WP1.doc)” 
+
+##### An expanded working paper submitted by Mrs. Antoanella-Iulia Motoc and the Tebtebba Foundation to the United Nations Working Group on Indigenous Populations (14 July 2005)<a href="#ref,Tebtebba_2005">[2]</a>
 
 > In relation to development projects affecting indigenous peoples’ lands and natural resources, the respect for the principle of free, prior and informed consent is important so that:
 
->* Indigenous peoples are not coerced, pressured or intimidated in their choices of development;
-* Their consent is sought and freely given prior to the authorization and start of development activities;
-* indigenous peoples have full information about the scope and impacts of the proposed development activities on their lands, resources and well-being;
-* Their choice to give or withhold consent over developments affecting them is respected and upheld.
+> * Indigenous peoples are not coerced, pressured or intimidated in their choices of development;
+> * Their consent is sought and freely given prior to the authorization and start of development activities;
+> * indigenous peoples have full information about the scope and impacts of the proposed development activities on their lands, resources and well-being;
+> * Their choice to give or withhold consent over developments affecting them is respected and upheld.
  
 
-###<a id="UNDRIP_framework_2008">From</a><a id="UNDRIP_framework_2008,alt">&nbsp;</a>the “[The UN Declaration on the Rights of Indigenous Peoples, Treaties and the Right to Free, Prior and Informed Consent - The Framework For a New Mechanism for Reparations, Restitution and Redress](http:/www.un.org/esa/socdev/unpfii/documents/E_C19_2008_CRP_12.doc)”
+### < a id="UNDRIP_framework_2008">From</a><a id="UNDRIP_framework_2008,alt">&nbsp;</a>the “[The UN Declaration on the Rights of Indigenous Peoples, Treaties and the Right to Free, Prior and Informed Consent - The Framework For a New Mechanism for Reparations, Restitution and Redress](http:/www.un.org/esa/socdev/unpfii/documents/E_C19_2008_CRP_12.doc)”
+
 ##### Submitted by the International Indian Treaty Council to the United Nations Permanent Forum on Indigenous Issues (March 9, 2008)<a href="#ref,UNDRIP_framework_2008">[3]</a><a href="#ref,UNDRIP_framework_2008,alt">[4]</a>
 
->Free is defined as the absence of coercion and outside pressure, including monetary inducements (unless they are mutually agreed on as part of a settlement process), and “divide and conquer” tactics. It must also include the absence of any threats or retaliation if it results in the decisions to say “no”.
+> Free is defined as the absence of coercion and outside pressure, including monetary inducements (unless they are mutually agreed on as part of a settlement process), and “divide and conquer” tactics. It must also include the absence of any threats or retaliation if it results in the decisions to say “no”.
 
->Prior is defined as a process taking place with sufficient lead time to allow the information gathering and sharing process to take place, including translations into traditional languages and verbal dissemination as needed, according to the decision-making processes decided by the Indigenous Peoples in question. It must also take place without time pressure or time constraints. A plan or project must not begin before this process is fully completed and an agreement is reached.
+> Prior is defined as a process taking place with sufficient lead time to allow the information gathering and sharing process to take place, including translations into traditional languages and verbal dissemination as needed, according to the decision-making processes decided by the Indigenous Peoples in question. It must also take place without time pressure or time constraints. A plan or project must not begin before this process is fully completed and an agreement is reached.
 
->Informed is defined as having all relevant information reflecting all views and positions. This includes the input of traditional elders, spiritual leaders, traditional subsistence practitioners and traditional knowledge holders, with adequate time and resources to find and consider information that is impartial and balanced as to potential risks and benefits, based on the “precautionary principle” regarding potential threats to health, environment or traditional means of subsistence.
+> Informed is defined as having all relevant information reflecting all views and positions. This includes the input of traditional elders, spiritual leaders, traditional subsistence practitioners and traditional knowledge holders, with adequate time and resources to find and consider information that is impartial and balanced as to potential risks and benefits, based on the “precautionary principle” regarding potential threats to health, environment or traditional means of subsistence.
 
->Consent can be defined as the demonstration of clear and compelling agreement, using a mechanism to reach agreement which is in itself agreed to under the principle of FPIC, in keeping with the decision-making structures and criteria of the Indigenous Peoples in question, including traditional consensus procedures. Agreements must be reached with the full and effective participation of the authorized leaders, representatives or decision-making institutions as decided by the Indigenous Peoples themselves.
+> Consent can be defined as the demonstration of clear and compelling agreement, using a mechanism to reach agreement which is in itself agreed to under the principle of FPIC, in keeping with the decision-making structures and criteria of the Indigenous Peoples in question, including traditional consensus procedures. Agreements must be reached with the full and effective participation of the authorized leaders, representatives or decision-making institutions as decided by the Indigenous Peoples themselves.
 
  
 

@@ -89,7 +89,6 @@ Some definitional frameworks proposed in international jurisprudence are as foll
 
 > **Informed:** should imply that information is provided that covers (at least) the following aspects:
 
-
 > a. The nature, size, pace, reversibility and scope of any proposed project or activity;
 
 > b. The reason/s or purpose of the project and/or activity;
@@ -109,7 +108,8 @@ Some definitional frameworks proposed in international jurisprudence are as foll
  
 
 ### <a id="Tebtebba_2005">From</a> “[Standard-Setting: Legal Commentary On The Concept Of Free, Prior And Informed Consent](http://www2.ohchr.org/english/issues/indigenous/docs/wgip23/WP1.doc)” 
-#####An expanded working paper submitted by Mrs. Antoanella-Iulia Motoc and the Tebtebba Foundation to the United Nations Working Group on Indigenous Populations (14 July 2005)<a href="#ref,Tebtebba_2005">[2]</a>
+
+##### An expanded working paper submitted by Mrs. Antoanella-Iulia Motoc and the Tebtebba Foundation to the United Nations Working Group on Indigenous Populations (14 July 2005)<a href="#ref,Tebtebba_2005">[2]</a>
 
 > In relation to development projects affecting indigenous peoples’ lands and natural resources, the respect for the principle of free, prior and informed consent is important so that:
 
@@ -119,7 +119,8 @@ Some definitional frameworks proposed in international jurisprudence are as foll
 > * Their choice to give or withhold consent over developments affecting them is respected and upheld.
  
 
-###< a id="UNDRIP_framework_2008">From</a><a id="UNDRIP_framework_2008,alt">&nbsp;</a>the “[The UN Declaration on the Rights of Indigenous Peoples, Treaties and the Right to Free, Prior and Informed Consent - The Framework For a New Mechanism for Reparations, Restitution and Redress](http:/www.un.org/esa/socdev/unpfii/documents/E_C19_2008_CRP_12.doc)”
+### < a id="UNDRIP_framework_2008">From</a><a id="UNDRIP_framework_2008,alt">&nbsp;</a>the “[The UN Declaration on the Rights of Indigenous Peoples, Treaties and the Right to Free, Prior and Informed Consent - The Framework For a New Mechanism for Reparations, Restitution and Redress](http:/www.un.org/esa/socdev/unpfii/documents/E_C19_2008_CRP_12.doc)”
+
 ##### Submitted by the International Indian Treaty Council to the United Nations Permanent Forum on Indigenous Issues (March 9, 2008)<a href="#ref,UNDRIP_framework_2008">[3]</a><a href="#ref,UNDRIP_framework_2008,alt">[4]</a>
 
 > Free is defined as the absence of coercion and outside pressure, including monetary inducements (unless they are mutually agreed on as part of a settlement process), and “divide and conquer” tactics. It must also include the absence of any threats or retaliation if it results in the decisions to say “no”.

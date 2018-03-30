@@ -3,13 +3,14 @@
 
 The Government of Indonesia is party to the eight (8) ‘fundamental’ ILO conventions, four (4) of which contain provisions relating to consultation, disclosure and/or grievance redress:
 
-* [C 29:Forced Labour](#### C 29:	Forced Labour [1930]) [1930]
+* [C 29:Forced Labour](#c29-forced-labor) [1930]
 * C 111:	Discrimination (Employment and Occupation) [1958]
 * C 138:	Minimum Age [1973]
 * C 182:	Worst Forms of Child Labour [1999]
 
 Pertinent details of these conventions are as follows:
 
+[](#c29-forced-labor)
 #### C 29:	Forced Labour [1930]
 
 Convention 29 contains the following provisions which outline requirements for community consultation, disclosure, and grievance redress:

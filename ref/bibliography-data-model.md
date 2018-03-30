@@ -151,13 +151,13 @@
 * URL
     - corresponds with BibTeX `url`
 * URL-alt
-* CCCS folder - orig
+*  folder - orig
 * sub-folder - orig
 * original file name
 * original file name -alt
 * revised file name
 * BIBTEX entry type
-* CCCS entry type
+*  entry type
 * attribute tag
 * Country / Countries
 * Region(s)

@@ -7,3 +7,5 @@ implementation-resources_adb.md
 
 implementation-resources_world-bank.html
 implementation-resources_world-bank.md
+
+My early logic is separating out resources by institution for this link lists is that I am often interested in how an institution informs its staff to interpret or implement a policy. 

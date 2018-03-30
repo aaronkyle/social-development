@@ -6,19 +6,19 @@ The Global Reporting Initiative a non-profit organization that produces one of t
 
 #### G4 Principles for Defining Report Content
 
-_Stakeholder Inclusiveness_
+*Stakeholder Inclusiveness*
 
 Participant organizations should identify stakeholders and explicate responses to their reasonable expectations and interests.
 
-_Sustainability Context_
+*Sustainability Context*
 
 Reporting should present the organizational performance in the broader context of sustainability.
 
-_Materiality_
+*Materiality*
 
 Reporting should address organizations’ significant economic, environmental and social impacts and/ or aspects that substantively influence the assessments and decisions of stakeholders.
 
-_Completeness_
+*Completeness*
  
 Reporting should include coverage of material aspects and their boundaries, sufficient to reflect significant economic, environmental, and social impacts, and organizations should enable stakeholders to assess the organization’s performance in the reporting period. 
 
@@ -26,27 +26,27 @@ Reporting should include coverage of material aspects and their boundaries, suff
 #### G4 Principles for Defining Report Quality
 
 
-_Balance_
+*Balance*
 
 Reporting should reflect positive and negative aspects of organizational performance to enable a reasoned assessment of overall performance.
 
-_Comparability_
+*Comparability*
 
 Organizations should select, compile and report information consistently. Reported information should be presented in a manner that enables stakeholders to analyze changes in organizational performance over time, and that could support analysis relative to other organizations.
 
-_Accuracy_
+*Accuracy*
 
 Reported information should be sufficiently accurate and detailed for stakeholders to assess organizational performance.
 
-_Timeliness_
+*Timeliness*
 
 Organizations should report on a regular schedule so that information is available in time for stakeholders to make informed decisions.
 
-_Clarity_
+*Clarity*
 
 Organizations should make information available in a manner that is understandable and accessible to stakeholders.
 
-_Reliability_
+*Reliability*
  
 Organizations should gather, record, compile, analyze and disclose information and processes used in the preparation reporting documents in a way that they can be subject to examination and that establishes the quality and materiality of the information.
 

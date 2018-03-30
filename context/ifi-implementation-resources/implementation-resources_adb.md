@@ -30,16 +30,23 @@ Indigenous Peoples [[PDF]](http://www.adb.org/Documents/Guidelines/IndigenousPeo
 
 * [Implementation Notes on Public Consultation and Disclosure](# "Public_Consultation_Information_Disclosure.pdf")
 
+<!--
+*NOTE:* These documents are no longer available at the given links
+-->
+
+<!--
 ### Case Studies
 
+<!--
 * [Fostering Public Participation in Budget-making: Case studies from Indonesia, Marshall Islands and Pakistan](http://www.adb.org/Documents/Books/Fostering-Public-Participation/fostering-public-participation.pdf) (2006)
 * [Complaint Handling in the Rehabilitation of Aceh and Nias—Experiences of the Asian Development Bank and Other Organizations.](www.adb.org/ Documents/Books/ComplaintHandling-Rehabilitation/default.asp)
 
 
+<!--
 ### Training Tools
 
+<!--
 * [For Life, With Love: Training Tool for HIV Prevention and Safe Migration in Road Construction Settings and Affected Communities](http://www.adb.org/documents/books/for-life-with-love/for-life-with-love.pdf) (2009)
-
-
+-->
 
 

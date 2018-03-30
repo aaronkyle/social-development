@@ -1,3 +1,6 @@
+Also note [this discussion](https://github.com/aaronkyle/concept/blob/master/digital-publishing/document-metadata.md).
+
+---
 
 ## [000-bib_indigenous-peoples](https://docs.google.com/spreadsheets/d/1FRZmmiQBy28r2ppK3HZP7GHrQ46PeZxkjXGpibMLGEg/edit?usp=sharing)
 

@@ -12,7 +12,7 @@ I hope that someone other than myself may eventually find this resource, and tha
 
 My work here in an on-going.  Attempting to define a organizational framework for the ever-expanding and ever more complex universe of social policy requires considerable time and effort. I contribute to this repository in the hours when I am not [otherwise engaged](http://aaron-kyle.com). Probably I will never 'finish'. 
 
-I consider no page to be "complete". Most are still very immature in terms of their content. Most pages contain typos. This will be a life-long project for me. If you see spot anything that you'd like to challenge or correct, please sent me an email (or better, a pull request).
+I consider no page to be "complete". Most are still very immature in terms of their content. Most pages contain typos. This will be a life-long project for me. If you see spot anything that you'd like to challenge or correct, please send me an email (or better, a submit a pull request).
 
 Also - as noted - my work focuses on social development. As I work on defining terms, I do so with respect to their usage relative to the practice of social development&mdash;I don't worry to much about how a term is used in other disciplines.
 
@@ -25,15 +25,16 @@ I should also emphasise how much I continue to struggle to account for what cons
 
 ```
 
-archive/	# 
+archive/	# record of HTML pages generated for web front end
 context/	# efforts to conceptually organize social policy
-|__country-safeguard-systems/	# 
-|__guides-and-templates/	# 
-|__implementation-resources/	# 
+|__accountability-mechanisms/	# 
+|__country-safeguard-systems/	# work on state-level social policy, including compilation of law and analysis of topical issues
+|__ifi-implementation-resources/	# 
 |__international-law_good-practice/	# 
 |__ref/	# references and literature indices
 |__social-policy/	# clarifications of the organization of social policy among development financial institutions
 |__terms/	# definitional terminology
+|__thematic-issues/
 data/		# data sets that relate to social development issues
 site/		# site-level pages
 .gitignore	# controls the files managed by the Git file-sharing platform

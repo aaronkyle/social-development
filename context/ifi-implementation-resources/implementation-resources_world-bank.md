@@ -23,9 +23,9 @@
 * [Environmental and Social Management System Toolkit (2015)](http://documents.worldbank.org/curated/en/794121486383424061/Environmental-and-social-management-system-toolkit-general) [PDF](http://documents.worldbank.org/curated/en/794121486383424061/pdf/112174-WP-ESMS-Toolkit-General-PUBLIC.pdf)
 
 
-
+<!-- 
 ### Evaluation Resources
-
+-->
 
 
 <!-- THE FOLLOWING LINKS ARE NOT WORLD BANK DOCS; MOVE TO BIBLIOGRAPHY -->
@@ -35,7 +35,6 @@
 -->
 
 <!--
-
 ### Case Studies
 ### Training Tools
 -->

@@ -6,7 +6,9 @@ This document sets out some rationale and methodology for establishing a 'region
 
 To help mitigate the challenges of discussing issues in the abstract, the discussion takes as an example an imaginary development project situated on a remote island group in Indonesia, known administratively as Maluku Tenggara Barat (MTB) and Maluku Barat Daya (MBD) [and known informally as the Tanimbar Islands].
 
-![MTB sub-district shapes with fill](https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/MTB+sub-district+shapes+with+fill.jpg "MTB sub-district shapes with fill.jpg ")
+![MTB sub-district shapes with fill](https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/MTB+sub-district+shapes+with+fill.jpg "MTB sub-district shapes with fill.jpg")
+
+![MTB village shape boundaries](https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/MTB+village+shape+boundaries.jpg "MTB village shape boundaries.jpg")
 
 MTB is characterized by two major population concentrations--one in the south, centered around Saumlaki, and the other in the north, centered around Larat.  These population centers developed partially in response to historic political rivalries.
 

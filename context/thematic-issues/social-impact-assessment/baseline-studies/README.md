@@ -8,7 +8,7 @@ To help mitigate the challenges of discussing issues in the abstract, the discus
 
 MTB is characterized by two major population concentrations--one in the south, centered around Saumlaki, and the other in the north, centered around Larat.  These population centers developed partially in response to historic political rivalries.
 
-This analysis examines the scope of 'project area of social influence' to account for the potential of project-induced impacts also to northern village&mdash;gathering data especially that can help to evaluate potential impacts induced by speculative in-migration, as well as other indirect and cumulative impacts.
+This analysis examines the scope of 'project area of social influence' tohttps://github.com/aaronkyle/social-development/tree/master/context/thematic-issues/social-impact-assessment/baseline-studies account for the potential of project-induced impacts also to northern village&mdash;gathering data especially that can help to evaluate potential impacts induced by speculative in-migration, as well as other indirect and cumulative impacts.
 
 The following discussion of methods seeks to ensure that site selection and sampling are rationally determined according to proximate understandings of 'impact' and that the approach is cost-effective&mdash;leveraging secondary data sources such as census data, socio-economic and health surveys and by conducting primary research in the form of village and household level surveys, key informant interviews and focus group discussions.
 
@@ -20,6 +20,9 @@ This directory is organized into two parts: 1) methodology, and 2) example surve
 Within the methodology section are short articles addressing each of the following topics:
 
 * [Rapid Appraisal](./methodology/methods_rapid-appraisal_defining-questionnaire.md)
+
+---
+
 * [Identification of Target Baseline Data](./methodology/methods_identifying-target-baseline-data.md)
 * [Stakeholder Identification](methods_stakeholder-identification.md)
 * [Determing Sample Size for Socio-Economic Baseline Data](./methodology/methods_representative-samples.md)

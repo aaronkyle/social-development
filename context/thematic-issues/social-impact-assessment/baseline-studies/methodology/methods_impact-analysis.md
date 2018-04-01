@@ -1,6 +1,6 @@
 ### On-Going Impact Identification and Analysis: Proactive Planning to Enable a Robust M&E Framework
 
-The ESMS social baseline utilizes a household and community resources framework as a tool to organize data to facilitate impact identification and analysis and to help inform the on-going development and refinement of action plans for impact mitigation and sustainable social development. This 'resources framework' approach to data organization draws on social research theory and has been applied to IFC client projects. Existing social baseline provide a partial dataset to inform analysis using the 'resources framework' approach; ESMS supplimentary baseline field studies seek to help fill remaining gaps ahead of the social impact assessment studies.
+A 'household and community resources framework' us a a tool to organize basedline data to facilitate impact identification and analysis and to help inform the on-going development and refinement of action plans for impact mitigation and sustainable social development. This 'resources framework' approach to data organization draws on social research theory and has been applied to IFC client projects. Existing social baseline provide a partial dataset to inform analysis using the 'resources framework' approach; ESMS supplimentary baseline field studies seek to help fill remaining gaps ahead of the social impact assessment studies.
 
 There are eight categories of resources under the framework:
 

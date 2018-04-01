@@ -25,10 +25,15 @@ Governments collect socio-economic data--and often lots of it. These data they p
 For example, [Badan Pusat Statistik](https://mtbkab.bps.go.id/) (BPS) of Maluku Tenggara Barat works with kecamatan-level governments to produce annual reports of socio-economic and health data in a series referred to collectively in this methodology as the BPS *'Kecamatan' Dalam Angka* series, which collects a series of high-level indicator data for each sub-district government within region.
 
 
-![district areas.jpg](https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/district+areas.jpg "district areas.jpg")
+![MTB sub-district shapes with fill](https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/MTB+sub-district+shapes+with+fill.jpg "MTB sub-district shapes with fill.jpg ")
 
+![district areas](https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/district+areas.jpg "district areas.jpg")
 
-![account for all villages, v2.jpg ](https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/account+for+all+villages%2C+v2.jpg "account for all villages, v2.jpg")
+![account for all villages](https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/account+for+all+villages%2C+v2.jpg "account for all villages, v2.jpg")
+
+![MTB village shape boundaries](https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/MTB+village+shape+boundaries.jpg "MTB village shape boundaries.jpg")
+
+![dots](https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/dots.jpg "dots.jpg")
 
 
 Comparative analysis of MTB *'Kecamatan' Dalam Angka* demonstrates that reporting is  uneven for most socio-economic variables--to an extent that severely limits current capacity to use these data in studies of social change and sustainable development. The distribution of topics varies greatly and few variable measures are uniformly disaggregated to the village level. Even fewer variables desegregate according to gender. The varying integrity of each underlying dataset and mistakes resulting from the process of government reporting and client re-capture are also processes certain to have introduced errors. Aanalysis, therefore, is involves substantial interpretation and application of 'professional judgment'.

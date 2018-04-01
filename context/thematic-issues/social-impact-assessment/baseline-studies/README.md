@@ -20,5 +20,5 @@ This directory is organized into two parts: 1) methodology, and 2) example surve
 
 Within the methodology section are short articles addressing each of the following topics:
 
-* [Identification of Target Baseline Data](./methods_identifying-target-baseline-data.md)
-* [Using Baseline Data in Impact Assessment](./methods_impact-analysis.md)
+* [Identification of Target Baseline Data](./methodology/methods_identifying-target-baseline-data.md)
+* [Using Baseline Data in Impact Assessment](./methodology/methods_impact-analysis.md)

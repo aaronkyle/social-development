@@ -85,6 +85,8 @@ Local-level (*kecamaten*) government agencies currently support data collection 
 
 #### Questionnaire Household Surveys
 
+* [check out my survey template repository](https://github.com/aaronkyle/social-development/tree/master/context/thematic-issues/social-impact-assessment/baseline-studies/survey-forms)
+
 A questionnaire household survey is a method of direct data collection. General census surveys tend to ask a large number of questions in order to describe comparatively large populations.  A questionnaire household survey is a shorter form of questionnaire survey that focuses on a narrowly-defined set of targeted inquiries and collects data from only a small representative sample of respondents. Close-ended  design helps to facilitate a quantifiable dataset for subsequent statistical analysis, but these surveys are limited in how their results can credibly be generalized or extrapolated. Short surveys are therefore used primarily to augment and verify existing data sources. ESMS questionnaire surveys will therefore focus on obtaining nuanced quantification and measurements from respondents that are less likely to vary according to individual circumstances (e.g., costs, distances, time, and common forms of infrastructure) but reflect community-wide practice or experience. //%% {[IMPROVE]} %%//
 
 

@@ -7,6 +7,6 @@ Rapid appraisal encompases:<sup><a href="http://www.fao.org/docrep/w3241e/w3241e
 * methods for gathering quantitative data within a short time frame;
 * key informant interviews;
 * tools and techniques for surveys at individual and household levels;
-* [fit-for-purpose sampling techniques](./methodology/methods_representative-samples.md);
+* [fit-for-purpose sampling techniques](./methods_representative-samples.md);
 * methods for direct observation on-site;
-* [methods to cross-check information originating from different sources (incl. primary and secondary data sources)](./methodology/methods_impact-analysis.md);
+* [methods to cross-check information originating from different sources (incl. primary and secondary data sources)](./methods_impact-analysis.md);

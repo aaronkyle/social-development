@@ -1,1 +1,3 @@
-That is, this document presents the 'full' list of questions suggested by our associates as being important for informing the social baseline (and thus the social impact assessment). CCCS recognizes that this list of questions needs to be reduced prior to fieldwork. Our continuing work with secondary socio-economic indicator data (from BPS) will allow us to make informed decisions about which particular questions to ask in each study village. The outcome of this work will be a final, customized list of questions defined per village (once the final list of villages has been determined).
+This document presents a list of questions helpful for informing the design of social baseline studies (and consequently social impact assessment).
+
+Remember: This list is intended as an example only.  Questions needs to be refined according to context and structured prior to fieldwork.

@@ -22,15 +22,6 @@ A well-structured social baseline framework can help to identify and account for
 
 
 
-
-
-## Supplementary Social Baseline Study Design
-
-The following discussion of field selection design methods for ensuring adequate site selection and sampling are based on a rough proximate working definition of the client 'area of social influence' as the regency of Maluku Tenggara Barat (MTB). [Consultancy encourages the project to revise its definition of 'area of social influence' to include parts of Maluku Barat Daya (MBD), especially communities from Babar Island claiming a 'stake' in the project and its benefits.] Consultancy proposes a cost-effective approach to build on the existing social baseline data for MTB by drawing on supplemental secondary sources such as census data, socio-economic and health surveys and by conducting primary research in the form of village and household level surveys, key informant interviews and focus group discussions.
-
-MTB is characterized by two major population concentrations--one in the south, centered around Saumlaki, and the other in the north, centered around Larat.  These population centers developed partially in response to historic political rivalries. Due in part to the client plans to situate its Logistics Supply Base in Olilit, and owing partially to regional planning and investment decisions of the MTB government (such as the new airport near Saumlaki), the current focus of previous client baseline studies has been on villages in southern MTB. Consultancy' proposed methodology extends the scope of study to account for the potential of project-induced impacts also to northern village--gathering data especially that can help to evaluate potential impacts induced by speculative in-migration, as well as other indirect and cumulative impacts.
-
-
 ### Determination of a 'Representative Sample'
 
 %% {[NOT YET INTEGRATED]} %%

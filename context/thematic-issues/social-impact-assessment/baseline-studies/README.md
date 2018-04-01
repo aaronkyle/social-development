@@ -15,10 +15,19 @@ The following discussion of methods seeks to ensure that site selection and samp
 
 ---
 
-
 This directory is organized into two parts: 1) methodology, and 2) example survey forms.
 
 Within the methodology section are short articles addressing each of the following topics:
 
+* [Rapid Appraisal](./methodology/methods_rapid-appraisal_defining-questionnaire.md)
 * [Identification of Target Baseline Data](./methodology/methods_identifying-target-baseline-data.md)
+* [Stakeholder Identification](methods_stakeholder-identification.md)
+* [Determing Sample Size for Socio-Economic Baseline Data](./methodology/methods_representative-samples.md)
+* [Planning Fieldwork](./methodology/methods_planning-fieldwork.md)
+    - methods_study-design_preparing-print-media.md
+    - methods_study-design_translations.md
+* [Processing Baseline Data](./methodology/methods_data-processing.md)
 * [Using Baseline Data in Impact Assessment](./methodology/methods_impact-analysis.md)
+
+
+

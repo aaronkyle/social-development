@@ -29,6 +29,8 @@ For example, [Badan Pusat Statistik](https://mtbkab.bps.go.id/) (BPS) of Maluku 
 
 ![district areas](https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/district+areas.jpg "district areas.jpg")
 
+![scaled village names](https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/scaled+village+names.jpg "scaled village names.jpg ")
+
 ![account for all villages](https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/account+for+all+villages%2C+v2.jpg "account for all villages, v2.jpg")
 
 ![MTB village shape boundaries](https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/MTB+village+shape+boundaries.jpg "MTB village shape boundaries.jpg")

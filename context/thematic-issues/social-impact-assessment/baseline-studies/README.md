@@ -39,7 +39,7 @@ Within the methodology section are short articles addressing each of the followi
 
 ---
 
-* [livlihoods](./survey-forms/survey-data_livlihoods.md)
+* [livelihoods](./survey-forms/survey-data_livelihoods.md)
 * [acknowledgement](./survey-forms/survey-form_acknowledgement.md)
 * [asset-ownership](./survey-forms/survey-form_asset-ownership.md)
 * [cultural-heritage](./survey-forms/survey-form_cultural-heritage.md)

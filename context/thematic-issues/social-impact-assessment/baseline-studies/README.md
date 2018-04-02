@@ -39,20 +39,20 @@ Within the methodology section are short articles addressing each of the followi
 
 ---
 
-survey-data_livlihoods.md	structuring	2 hours ago
-survey-form_acknowledgement.md	structuring	2 hours ago
-survey-form_asset-ownership.md	structuring	2 hours ago
-survey-form_cultural-heritage.md	structuring	2 hours ago
-survey-form_cultural-institutions.md	structuring	2 hours ago
-survey-form_displacement-perception.md	structuring	2 hours ago
-survey-form_economic-integration.md	structuring	2 hours ago
-survey-form_education.md	structuring	2 hours ago
-survey-form_health.md	structuring	2 hours ago
-survey-form_household-composition.md	structuring	2 hours ago
-survey-form_identity-distribution.md	structuring	2 hours ago
-survey-form_living-conditions.md	structuring	2 hours ago
-survey-form_population-mobility.md	structuring	2 hours ago
-survey-form_project-perception.md	structuring	2 hours ago
-survey-form_security.md	structuring	2 hours ago
-survey-form_structured-ID.md	structuring	2 hours ago
-survey-form_territorial-ties.md	structuring	2 hours ago
+* [livlihoods](./survey-forms/survey-data_livlihoods.md)
+* [acknowledgement](./survey-forms/survey-form_acknowledgement.md)
+* [asset-ownership](./survey-forms/survey-form_asset-ownership.md)
+* [cultural-heritage](./survey-forms/survey-form_cultural-heritage.md)
+* [cultural-institutions](./survey-forms/survey-form_cultural-institutions.md)
+* [displacement-perception](./survey-forms/survey-form_displacement-perception.md)
+* [economic-integration](./survey-forms/survey-form_economic-integration.md)
+* [education](./survey-forms/survey-form_education.md)
+* [health](./survey-forms/survey-form_health.md)
+* [household-composition](./survey-forms/survey-form_household-composition.md)
+* [identity-distribution](./survey-forms/survey-form_identity-distribution.md)
+* [living-conditions](./survey-forms/survey-form_living-conditions.md)
+* [population-mobility](./survey-forms/survey-form_population-mobility.md)
+* [project-perception](./survey-forms/survey-form_project-perception.md)
+* [form_security](./survey-forms/survey-form_security.md)
+* [structured-ID](./survey-forms/survey-form_structured-ID.md)
+* [territorial-ties](./survey-forms/survey-form_territorial-ties.md)

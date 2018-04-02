@@ -26,67 +26,67 @@
 ### MBD
 
 <table>
-<tr><th>FILE NAME</th><th>TITLE</th><th>PUBLISHER</th><th>ID#</th><th>STATUS</th></tr>
-<tr><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Kecamatan Dalam Angka</td><td></td><td></td><td></td><td>STATUS</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=1">Maluku Barat Daya Dalam Angka 2014</a></td><td>Badan Pusat Statistik: Kabupaten Maluku  Barat Daya</td><td></td><td>needed</td></tr>
-<tr><td>MBD 2013.pdf</td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=2">Maluku Barat Daya Dalam Angka 2013 (Maluku Barat Daya In Figures 2013)</a></td><td>Badan Pusat Statistik: Kabupaten Maluku  Barat Daya</td><td>Katalog BPS: 4102001.8108</td><td>obtained</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=3">Maluku Barat Daya Dalam Angka 2012</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=14">Kecamatan Wetar Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=15">Kecamatan Wetar Barat Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=16">Kecamatan Wetar Utara Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=17">Kecamatan Wetar Timur Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=18">Kecamatan PP. Terselatan Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=19">Kecamatan Kisar Utara Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=20">Kecamatan Kep. Romang Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=21">Kecamatan Letti Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=22">Kecamatan Moa Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=23">Kecamatan Lakor Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=24">Kecamatan Damer Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=25">Kecamatan Mdona Hyera Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=26">Kecamatan Mdona Hyera Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=27">Kecamatan P. Wetang Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=28">Kecamatan Babar Timur Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=29">Kecamatan P. Masela Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=30">Kecamatan Dawelor-Dawera Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=31">Kecamatan Wetar Dalam Angka 2013</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=32">Kecamatan PP. Terselatan Dalam Angka 2013</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=33">Kecamatan Letti Dalam Angka 2013</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=34">Kecamatan Moa Lakor Dalam Angka 2013</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=35">Kecamatan Damer Dalam Angka 2013</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=36">Kecamatan Mdona Hyera Dalam Angka 2013</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=37">Kecamatan PP. Babar Dalam Angka 2013</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=38">Kecamatan Babar Timur Dalam Angka 2013</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Other Publications</td><td></td><td></td><td></td><td>STATUS</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=4">Statistik Daerah Kabupaten Maluku Barat Daya 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=5">Statistik Daerah Kabupaten Maluku Barat Daya 2013</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=6">Statistik Daerah Kabupaten Maluku Barat Daya 2012</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=7">PDRB Kabupaten Maluku Barat Daya 2013</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=8">PDRB Kabupaten Maluku Barat Daya 2012</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=9">PDRB Kabupaten Maluku Barat Daya 2011</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=10">"Indikator Ekonomi Kabupaten Maluku Barat Daya 2013
-"</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=11">"Inflasi Kabupaten Maluku Barat Daya 2013
-"</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=12">Indeks Pembangunan Manusia Kabupaten Maluku Barat Daya 2013</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=13">Indikator Kesejahteraan Rakyat Kabupaten Maluku Barat 2013</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=39">Statistik Kecamatan Wetar Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=40">Statistik Kecamatan Wetar Barat Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=41">Statistik Kecamatan Wetar Utara Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=42">Statistik Kecamatan Wetar Timur Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=43">Statistik Kecamatan PP. Terselatan Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=44">Statistik Kecamatan Kisar Utara Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=45">Statistik Kecamatan Kep. Romang Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=46">Statistik Kecamatan Letti Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=47">Statistik Kecamatan Moa Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=48">Statistik Kecamatan Lakor Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=49">Statistik Kecamatan Damer Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=50">Statistik Kecamatan Mdona Hyera Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=51">Statistik Kecamatan PP. Babar Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=52">Statistik Kecamatan P. Wetang Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=53">Statistik Kecamatan Babar Timur Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=54">Statistik Kecamatan P. Masela Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
-<tr><td></td><td><a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=55">Statistik Kecamatan Dawelor Dawera Dalam Angka 2014</a></td><td></td><td></td><td>needed</td></tr>
+<tr>	<th>	FILE NAME	</th>	<th>	TITLE	</th>	<th>	PUBLISHER	</th>	<th>	ID#	</th>	<th>	STATUS	</th>	<th>SOURCE URL</th>	</tr>
+<tr>	<td></td>	<td></td>	<td></td>	<td></td>	<td></td>	<td></td>	</tr>
+<tr>	<td></td>	<td></td>	<td></td>	<td></td>	<td></td>	<td>	</tr>
+<tr>	<td>	Kecamatan Dalam Angka	</td>	<td></td>	<td></td>	<td></td>	<td>	STATUS	</td>	<td></td>	</tr>
+<tr>	<td></td>	<td>	Maluku Barat Daya Dalam Angka 2014	</td>	<td>	Badan Pusat Statistik: Kabupaten Maluku  Barat Daya	</td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=1">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=1	</a>	</td>	</tr>
+<tr>	<td>	MBD 2013.pdf	</td>	<td>	Maluku Barat Daya Dalam Angka 2013 (Maluku Barat Daya In Figures 2013)	</td>	<td>	Badan Pusat Statistik: Kabupaten Maluku  Barat Daya	</td>	<td>	Katalog BPS: 4102001.8108	</td>	<td>	obtained	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=2">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=2	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Maluku Barat Daya Dalam Angka 2012	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=3">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=3	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan Wetar Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=14">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=14	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan Wetar Barat Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=15">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=15	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan Wetar Utara Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=16">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=16	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan Wetar Timur Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=17">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=17	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan PP. Terselatan Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=18">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=18	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan Kisar Utara Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=19">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=19	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan Kep. Romang Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=20">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=20	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan Letti Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=21">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=21	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan Moa Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=22">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=22	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan Lakor Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=23">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=23	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan Damer Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=24">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=24	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan Mdona Hyera Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=25">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=25	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan Mdona Hyera Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=26">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=26	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan P. Wetang Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=27">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=27	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan Babar Timur Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=28">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=28	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan P. Masela Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=29">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=29	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan Dawelor-Dawera Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=30">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=30	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan Wetar Dalam Angka 2013	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=31">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=31	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan PP. Terselatan Dalam Angka 2013	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=32">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=32	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan Letti Dalam Angka 2013	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=33">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=33	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan Moa Lakor Dalam Angka 2013	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=34">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=34	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan Damer Dalam Angka 2013	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=35">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=35	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan Mdona Hyera Dalam Angka 2013	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=36">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=36	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan PP. Babar Dalam Angka 2013	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=37">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=37	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Kecamatan Babar Timur Dalam Angka 2013	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=38">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=38	</a>	</td>	</tr>
+<tr>	<td></td>	<td></td>	<td></td>	<td></td>	<td></td>	<td></td>	</tr>
+<tr>	<td>	Other Publications	</td>	<td></td>	<td></td>	<td></td>	<td>	STATUS	</td>	<td></td>	</tr>
+<tr>	<td></td>	<td>	Statistik Daerah Kabupaten Maluku Barat Daya 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=4">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=4	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Statistik Daerah Kabupaten Maluku Barat Daya 2013	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=5">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=5	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Statistik Daerah Kabupaten Maluku Barat Daya 2012	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=6">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=6	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	PDRB Kabupaten Maluku Barat Daya 2013	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=7">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=7	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	PDRB Kabupaten Maluku Barat Daya 2012	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=8">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=8	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	PDRB Kabupaten Maluku Barat Daya 2011	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=9">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=9	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	"Indikator Ekonomi Kabupaten Maluku Barat Daya 2013
+"	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=10">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=10	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	"Inflasi Kabupaten Maluku Barat Daya 2013
+"	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=11">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=11	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Indeks Pembangunan Manusia Kabupaten Maluku Barat Daya 2013	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=12">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=12	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Indikator Kesejahteraan Rakyat Kabupaten Maluku Barat 2013	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=13">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=13	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Statistik Kecamatan Wetar Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=39">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=39	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Statistik Kecamatan Wetar Barat Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=40">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=40	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Statistik Kecamatan Wetar Utara Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=41">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=41	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Statistik Kecamatan Wetar Timur Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=42">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=42	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Statistik Kecamatan PP. Terselatan Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=43">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=43	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Statistik Kecamatan Kisar Utara Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=44">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=44	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Statistik Kecamatan Kep. Romang Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=45">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=45	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Statistik Kecamatan Letti Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=46">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=46	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Statistik Kecamatan Moa Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=47">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=47	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Statistik Kecamatan Lakor Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=48">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=48	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Statistik Kecamatan Damer Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=49">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=49	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Statistik Kecamatan Mdona Hyera Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=50">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=50	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Statistik Kecamatan PP. Babar Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=51">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=51	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Statistik Kecamatan P. Wetang Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=52">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=52	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Statistik Kecamatan Babar Timur Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=53">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=53	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Statistik Kecamatan P. Masela Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=54">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=54	</a>	</td>	</tr>
+<tr>	<td></td>	<td>	Statistik Kecamatan Dawelor Dawera Dalam Angka 2014	</td>	<td></td>	<td></td>	<td>	needed	</td>	<td>	<a href="http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=55">	http://malukubaratdayakab.bps.go.id/?hal=publikasi_detil&id=55	</a>	</td>	</tr>
 </table>

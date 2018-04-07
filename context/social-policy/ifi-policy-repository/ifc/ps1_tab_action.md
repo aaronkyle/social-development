@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
   <!-- Site Properties -->
-  <title>CAO Compliance Case Data Entry Form</title>
+  <title>IFC PS1 table</title>
 
 
   <!-- Adding Semantic-UI -->

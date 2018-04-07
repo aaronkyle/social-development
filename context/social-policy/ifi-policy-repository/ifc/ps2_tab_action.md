@@ -8,15 +8,8 @@
 |	PS2	|	Introduction	|	1	|	1	|	Failure to establish and foster a sound worker-management relationship can undermine worker commitment and retention, and can jeopardize a project.	|		|		|		|		|		|		|		|
 |		|	Introduction	|	1	|	1	|	Conversely, through a constructive worker-management relationship, and by treating the workers fairly and providing them with safe and healthy working conditions, clients may create tangible benefits, such as enhancement of the efficiency and productivity of their operations.	|		|		|		|		|		|		|		|
 |	PS2	|	Introduction	|	1	|	2	|	The requirements set out in this Performance Standard have been in part guided by a number of international conventions and instruments, including those of the International Labour Organization (ILO) and the United Nations (UN). [FN2]	|		|		|		|		|		|		|		|
-|	PS2	|	Scope of Application	|	1	|	2	|	"[FN 2] These conventions are:
-  * ILO Convention 87 on Freedom of Association and Protection of the Right to Organize 
-  * ILO Convention 98 on the Right to Organize and Collective Bargaining 
-  * ILO Convention 29 on Forced Labor ILO Convention 105 on the Abolition of Forced Labor 
-  * ILO Convention 138 on Minimum Age (of Employment) ILO Convention 182 on the Worst Forms of Child Labor 
-  * ILO Convention 100 on Equal Remuneration 
-  * ILO Convention 111 on Discrimination (Employment and Occupation) 
-  * UN Convention on the Rights of the Child, Article 32.1 
-  * UN Convention on the Protection of the Rights of all Migrant Workers and Members of their Families"	|		|		|		|		|		|		|		|
+|	PS2	|	Scope of Application	|	1	|	2	|	"[FN 2] These conventions are: <br />  * ILO Convention 87 on Freedom of Association and Protection of the Right to Organize <br />  * ILO Convention 98 on the Right to Organize and Collective Bargaining 
+  * ILO Convention 29 on Forced Labor ILO Convention 105 on the Abolition of Forced Labor <br />  * ILO Convention 138 on Minimum Age (of Employment) ILO Convention 182 on the Worst Forms of Child Labor <br />  * ILO Convention 100 on Equal Remuneration <br />  * ILO Convention 111 on Discrimination (Employment and Occupation) <br />  * UN Convention on the Rights of the Child, Article 32.1 <br />  * UN Convention on the Protection of the Rights of all Migrant Workers and Members of their Families"	|		|		|		|		|		|		|		|
 |	PS2	|	Objectives	|	1	|		|	Objectives	|		|		|		|		|		|		|		|
 |	PS2	|	Objectives	|	1	|	*	|	To promote the fair treatment, non-discrimination, and equal opportunity of workers	|	Does the project promote the fair treatment, non-discrimination, and equal opportunity of the personnel it will engage?	|		|		|		|		|		|		|
 |	PS2	|	Objectives	|	1	|	*	|	* To establish, maintain, and improve the worker-management relationship	|		|		|		|		|		|		|		|

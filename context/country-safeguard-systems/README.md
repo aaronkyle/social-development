@@ -1,6 +1,6 @@
 ## What are country safeguard systems?
 
-The term country safeguard systems (CSS) refers to aspects of a country’s legal and institutional framework that pertain to environmental and social safeguards.[^1](# "ADB. 2009. Safeguard Policy Statement. Manila. p. 77.")] This includes laws, regulations, rules, and procedures, as well as national, subnational, or sectoral implementing institutions and agencies.
+The term country safeguard systems (CSS) refers to aspects of a country’s legal and institutional framework that pertain to environmental and social safeguards.[[^1](# "ADB. 2009. Safeguard Policy Statement. Manila. p. 77.")] This includes laws, regulations, rules, and procedures, as well as national, subnational, or sectoral implementing institutions and agencies.
 Internatioanl financial insitutions increasingly call for greater reliance on state legal and regulatory frameworks for the realization of environmental and social developmental objectives.
 
 The World Bank refers to this work as use of borrower systems.

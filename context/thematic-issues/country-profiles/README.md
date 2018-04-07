@@ -1,3 +1,4 @@
-This repository contains work that I've done to create 'country profiles' on social safegauard topics.  Country profiles are thematic reviews of legal, regulatory, and insititonal contexts pertinant to developmenal practice.
- 
-Currently only one document is reproduced here: 'Indigeous Peoples Country Profile in the Russian Federation.  This document is an artefact of work that I conducted in 2014 (so it's quite dated already -- as I am updating this repository currently in 2018). 
+This directory contains work that I've done to create 'country profiles' on social safegauard topics.  Country profiles are thematic reviews of legal, regulatory, and insititonal contexts pertinant to developmenal practice. I distinguish work on country profiles from that on country safeguard systems largely because my past work in this area has been project-specific and represented by certain artefacts, such as the work that I conducted in 2014: 'Indigeous Peoples Country Profile in the Russian Federation'. I may revisit this distinction later.
+
+Also check out my separate lists of reference materials.
+

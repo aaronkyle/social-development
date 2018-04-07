@@ -6,7 +6,7 @@ Social policy has varied articulations and manifestations.  Tracking how social 
 
 This repository seeks to collate information on social policy and to and establish a means of tracking changes in policy articulations in relationship to one another.
 
-I hope that someone other than myself may eventually find this resource, and that it might help to more readily compare articulations manifestations of international social policy and to appreciate their inter-connectedness and their nuance.  
+I hope that someone other than myself may eventually find this resource, and that my work might help others to analyse articulations and manifestations of international social policy and to better appreciate (and document) their inter-connectedness and their nuance.  
 
 ## Caveats and Disclaimers
 

@@ -1,4 +1,4 @@
-##IFC: Components of an IFC Indigenous Peoples Plan
+## IFC: Components of an IFC Indigenous Peoples Plan
 
 <table>
 <tr><th>Section</th><th>Component</th><th>Component Description</th></tr>

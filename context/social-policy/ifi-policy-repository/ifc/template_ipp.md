@@ -1,7 +1,9 @@
 ## IFC: Components of an IFC Indigenous Peoples Plan
 
-<table>
+<table class="ui celled table">
+<thead>
 <tr><th>Section</th><th>Component</th><th>Component Description</th></tr>
+</thead>
 <tr><td></td><td>Annex A: Indigenous Peoples Plan (IPP)</td><td>The IPP is prepared in a flexible and pragmatic manner, and its level of detail varies depending on the specific project and the nature of the effects to be addressed. In general and where appropriate, an IPP should include the following elements:</td></tr>
 <tr><td>a)</td><td>Baseline information (from environmental and social risks and impacts assessment process)</td><td>Summarize relevant baseline information that clearly profiles the Affected Communities, their circumstances and livelihoods, with description and quantification of the natural resources upon which the Indigenous Peoples depend.</td></tr>
 <tr><td>b)</td><td>Key Findings: Analysis of Impacts, Risks & Opportunities (from environmental and social risks and impacts assessment process)</td><td>Summarize key findings, analysis of impacts, risks and opportunities and recommended possible measures to mitigate adverse impacts, enhance positive impacts, conserve and manage their natural resource base on a sustainable basis, and achieve sustainable community development.</td></tr>

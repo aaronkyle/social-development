@@ -6,7 +6,7 @@
                                                           
                                                           
 |	Paragraph / Section No.	|	Section Title	|	Clause	|	Operational Formulation	|	Linked Documents	|																			
-|		|		|		|		|		|																			
+|	---	|	---	|	---	|	---	|	---	|																			
 |	1	|	n/a	|	This policy[1] contributes to the Bank's [2] mission of poverty reduction and sustainable development by ensuring that the development process fully respects the dignity, human rights, economies, and cultures of Indigenous Peoples.	|	 -	|		|																			
 |	1	|	n/a	|	For all projects that are proposed for Bank financing and affect Indigenous Peoples, [3] the Bank requires the borrower to engage in a process of free, prior, and informed consultation. [4]	|	Engage in a process of free, prior, and informed consultation.	|		|																			
 |	1	|	n/a	|	The Bank provides project financing only where free, prior, and informed consultation results in broad community support to the project by the affected Indigenous Peoples.[5]	|	 -	|		|																			

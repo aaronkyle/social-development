@@ -12,7 +12,7 @@ The World Bank refers to this work as use of borrower systems.
 
 ## What's the purpose of this repository?
 
-I use this repository to bring together different lines of research that I have done on country safeguard systesms. In many respects, this is more of an 'information dump' than anything else... and I am barely getting started even in organizing and sharing my own notes.  CSS analysis involves an incredible amount of work--as rule of law tends to have a long history of documented analysis, and as laws (and governments) and constantly changing.  
+I use this repository to bring together different lines of research that I have done on country safeguard systesms. In many respects, this is more of an 'information dump' than anything else... and I am barely getting started even in organizing and sharing my own notes.  CSS analysis involves an incredible amount of work&mdash;as rule of law tends to have a long history of documented analysis, and as laws (and governments) and constantly changing.  
 
 I'd appreciate help to building out this resources and sharing tracking and anlysis of legal change.
 

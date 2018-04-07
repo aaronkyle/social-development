@@ -1,4 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Standard Meta -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
+  <!-- Site Properties -->
+  <title>CAO Compliance Case Data Entry Form</title>
+
+
+  <!-- Adding Semantic-UI -->
+
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.js"></script>
+
+<!-- Adding Data Tables -->
+
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.datatables.net/1.10.16/js/dataTables.semanticui.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.0/semantic.min.js"></script>
+
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.0/semantic.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/dataTables.semanticui.min.css">
+
+<!-- C3.js -->
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.10/c3.min.css" rel="stylesheet" type="text/css">
+
+
+<!-- Google Tables -->
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+
+<!--
+Including old JS file to get calendar widget to work from CDN
+Refer here: https://www.npmjs.com/package/semantic-ui-calendar
+-->
+<script src="https://cdn.rawgit.com/mdehoog/Semantic-UI/6e6d051d47b598ebab05857545f242caf2b4b48c/dist/semantic.min.js"></script>
+
+  <style type="text/css">
+
+  body {
+    background-color: ;
+  }
+  .main.container {
+    margin-top: 2em;
+  }
+
+  .main.menu {
+    margin-top: 4em;
+    border-radius: 0;
+    border: none;
+    box-shadow: none;
+    transition:
+      box-shadow 0.5s ease,
+      padding 0.5s ease
+    ;
+  }
+  .main.menu .item img.logo {
+    margin-right: 1.5em;
+  }
+
+  .overlay {
+    float: left;
+    margin: 0em 3em 1em 0em;
+  }
+  .overlay .menu {
+    position: relative;
+    left: 0;
+    transition: left 0.5s ease;
+  }
+
+  .main.menu.fixed {
+    background-color: #FFFFFF;
+    border: 1px solid #DDD;
+    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
+  }
+  .overlay.fixed .menu {
+    left: 800px;
+  }
+
+  .text.container .left.floated.image {
+    margin: 2em 2em 2em -4em;
+  }
+  .text.container .right.floated.image {
+    margin: 2em -4em 2em 2em;
+  }
+
+  .ui.footer.segment {
+    margin: 5em 0em 0em;
+    padding: 5em 0em;
+  }
+  </style>
+
+
+</head>
 
 <div class="ui stackable four column grid">																							
 <div class="column">		</div>	<div class="column">		</div>	<div class="column">		</div>	<div class="column">	IFC Provision	</div>	<div class="column">	M&E Question Format	</div>	<div class="column">	Compliance Assessment	</div>	<div class="column">	Notes / Supporting Evidence	</div>	<div class="column">	Recommendations/Remedial Actions	</div>
@@ -693,3 +793,119 @@ and Management System
 > Grievance Mechanisms for Affected Communities
 "	</div>	<div class="column">	36	</div>	<div class="four wide column">	The frequency of these reports will be proportionate to the concerns of Affected Communities but not less than annually.	</div>	<div class="four wide column">	Is the frequency of project reviews and reporting proportionate to the concerns of Affected Communities and not less than annually?	</div>	<div class="column">		</div>	<div class="column">		</div>	<div class="column">		</div>
 </div>
+
+</body>
+
+
+  </body>
+
+  <style type="text/css">
+
+  /* Shaded */
+  .demo .grid.shaded.examples .row {
+    position: relative;
+  }
+  .demo .grid.shaded.examples .grid > .column {
+    position: relative;
+    z-index: 11;
+  }
+  .demo .grid.shaded.examples .grid .column:not(.row):after {
+    background-color: #AAAAAA;
+    content: "";
+    display: block;
+    min-height: 1em;
+  }
+
+  .demo .grid.divided.examples .grid .column:not(.row):after {
+    background-color: rgba(0, 0, 0, 0.1);
+    content: "";
+    display: block;
+    min-height: 1em;
+  }
+
+  .demo .grid.nested.examples .grid .grid {
+    box-shadow: 0px 0px 0px 1px #F0F0F0 inset;
+  }
+  .demo .grid.nested.examples .grid .grid .column:after {
+    background-color: #AAAAAA;
+    content: "";
+    display: block;
+    min-height: 1em;
+  }
+
+  .demo .grid.simple.examples .grid .column:not(.row):not(.grid):after {
+    content: "";
+    display: block;
+    min-height: 50px;
+  }
+
+
+  /* Animation */
+  .demo .grid.examples {
+    margin: 0em !important;
+    padding: 0em !important;
+  }
+
+  </style>
+
+    <script  src="./custom-js/date-picker.js"></script>
+
+    <!--navigation element -->
+        <script>
+        $('.ui.sidebar').sidebar({
+            context: $('.bottom.segment')
+          })
+          .sidebar('attach events', '.menu .item');
+        </script>
+
+        <!-- SCRIPT TO EXECUTE DROPDOWN BREAKS W/ MENU -->
+        <script>
+        $('.ui.dropdown').dropdown({
+          allowAdditions: true,
+        });
+        </script>
+        <!-- -->
+
+        <!-- SCRIPT TO INITALIZE TAB IN CONTEXT OF MENU -->
+        <script>
+        $('.menu .item')
+          .tab()
+        ;
+        </script>
+        <!-- -->
+
+        <!-- SCRIPT TO EXECUTE TAB MENU. NOTE: Each of these examples is initialized with a context
+         to prevent contamination with other tab examples on this page. This is not necessary unless
+          using multiple tab systems on a single page. -->
+        <script>
+        $('.paths.example .menu .item')
+          .tab({
+            context: '.paths.example'
+          })
+        ;
+        </script>
+        <!-- -->
+
+        <!-- DATA TABLES: https://datatables.net/examples/styling/semanticui.html-->
+        <script>
+        $(document).ready(function() {
+            $('#example').DataTable();
+        } );
+        </script>
+        <script>
+        $(document).ready(function() {
+            $('#example_all-cases').DataTable();
+        } );
+        </script>
+
+        <!-- ADDING CHARTS -->
+
+        <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.10/c3.min.js"></script>
+        <script src="./custom-js/f4_cao-cases-by-institution_FY17_donut-chart_c3.js"></script>
+        <script src="./custom-js/f5_cao-cases-by-region_FY17_donut-chart_c3.js"></script>
+        <script src="./custom-js/f6_cao-cases-by-sector_FY17_donut-chart_c3.js"></script>
+        <script src="./custom-js/demo-phase-age_google-horizontal-bar.js"></script>
+        <script src="./custom-js/demo-phase-timeliness_google-horizontal-bar.js"></script>
+</html>
+

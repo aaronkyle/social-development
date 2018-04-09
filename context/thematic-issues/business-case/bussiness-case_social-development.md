@@ -1,0 +1,54 @@
+# A Positive Business Cases for Social Investment in Communities of Indigenous Peoples
+
+<span style="text-align:justify;">*Although observance of the rights of Indigenous Peoples is mandated by most international financial institutions, a question often posed to CCCS is whether a project stands to realize any tangible benefits from investing in social developments targeting affected Indigenous Peoples communities. This article summarizes some arguments in favor of early engagement with project-affected indigenous communities.*</span> 
+
+by Marcus Björkqvist and Aaron Kyle Dennis
+2014-Feb-01 
+<span style="font-size:small;">©Cross-Cultural Consulting Services, PLCC. 2014.
+<span style="font-size:small;">[Attribution; Share Alike](http://creativecommons.org/licenses/by-sa/3.0/us/)</span>
+<p>&nbsp;</p>
+
+Many arguments in favor of robust forms of engagement and benefits-sharing available in social development literature are predicated on negative case examples emphasizing what a company risks by not complying with minimal policy requirements. For instance, arguments in favor of early project engagement with potentially-affected communities are often framed as reducing corporate liability and avoiding litigation. While cautionary tales of risks and repercussions of poor relations with indigenous communities can carry considerable clout when attempting to motivate social investments and development initiatives, CCCS would like also to share some of the more positive arguments for investing money, time and resources into collaborative partnerships with Indigenous Peoples. 
+
+
+### Achieving Social License to Operate
+
+All projects applying for international financing are expected to achieve—and maintain—a so-called ‘social license to operate’ from within and among affected communities (indigenous and non-indigenous alike) and other concerned stakeholders. Constructive engagement with Indigenous Peoples at the outset of project planning can decrease the costs associated with obtaining (and demonstrating) a project’s social license to operate. CCCS suggests that when project operators wait until plans are “more detailed” before bringing them to Indigenous Peoples communities for review and discussion, communities are likely to regard this as reflective of the project’s insincerity. Facing such a perception, it can be difficult for a project operator to demonstrate its ‘good faith’.   Early investments in meaningful consultation—where communities contribute to project design from the outset—help operators to establish themselves as a sincere partner to affected communities in defining and realizing social development goals.
+
+
+### Comparative Advantage: Garnering Reputational Gains
+
+Beyond merely ensuring social license to operate, good company–community partnerships can also contribute to valuable reputational gains. Many examples of reputational gains are intangible or incalculable, and opportunities for reputational gain vary widely across industries and sectors. Commonly cited examples being increased consumer loyalty and positive brand recognition. Yet there are other potential reputation gains from being known as a proactive and community-focused operator, such as being received favorably by investors, government, and communities when first exploring business opportunities—further streamlining business activities. Project operators recognized as industry leaders in socially-responsible investments also tend to attract a higher caliber of staff—with positive returns for workplace morale and quality of life.
+
+One CCCS client, the Sakhalin Energy Investment Company, is realizing tremendous reputational gains for their work with Indigenous Peoples—in spite of starting from an context of strained company–community relations marked by public protests and global criticism. Acknowledging the gravity of the situation, SEIC started re-thinking its approach to working with stakeholders, and began investing time and resources into direct consultations with indigenous communities on Sakhalin Island.  To demonstrate partnership, SEIC invited community representatives to establish a joint working group to deliberate and decide of project risks and impacts management strategies as well as on a structure for community investment (formalized under the project Indigenous Peoples Development Plan).  The guiding principle in the revised Sakhalin-2 project approach to engagement was that of inclusion—with the company make efforts to reach out even to groups only peripherally affected by the project operations.  
+
+The sincerity of the Sakhalin-2 project—demonstrated over time by the actions of the company and the improved relations it cultivated with indigenous representatives—won over a skeptical population. Within about three years, rather than criticism, SEIC and the Sakhalin-2 project were garnering acclaim from indigenous peoples organization (including RAIPON -  Russian Association of Indigenous Peoples of the North, Siberia, and the Far East), from local and state governments (including the State Duma –the Russian legislature) as well as from multilateral development banks (including IFC – the International Financial Corporation).  In recent years, SEIC’s positive public image following its revised strategy for engaging with its host  communities has [earned SEIC a spot in the United Nations Global Compact](http://www.sakhalinenergy.ru/en/global_compact.wbp) [as a LEAD Company](http://www.unglobalcompact.org/HowToParticipate/Lead/lead_participants.html).
+
+
+### Gaining Access to Resources and Easier Access to Capital
+
+As noted above, meaningful engagement with Indigenous Peoples required of projects seeking funding from most international financial institutions, including not only multilateral development banks such as the World Bank and the International Finance Corporation, but also private-sector lenders such as the Equator Banks. Indigenous Peoples also have recognized rights under international law to self-determination, territorial sovereignty and control over natural resources found within the lands they traditionally use or occupy. Demonstrating that a project complies with these requirements of international lenders largely has to do with showing how the project helps people to exercise their right (as well as showing that people generally see and agree with the project’s efforts in this regard). 
+
+Investments in building collaborative partnerships with Indigenous Peoples around critical business decisions (the location of a port or supply base, for example) help expose people to the complexity of technical decisions, and help them to appreciate how their contributions affect these decision-making processes.   Project planners that readily point to aspect of project design that have taken into account community inputs early engagement have far less to worry about at the time of a financial investment decision than do projects presenting tentative plans for how participatory inputs can be achieved on proposed scenario (i.e., indicating that early investment in consultation and partnership help to improve access to financial capital). In CCCS’ experience, even projects that believe themselves unlikely to require such financing are taking the risk out of future financing options by preparing projects anticipating that their capital needs may change, requiring both international capital access and acquiescence to global Indigenous Peoples standards. 
+
+### Benefiting from Indigenous Knowledge
+
+Projects that intend to capitalize indigenous cultural knowledge (IK) for developmental purposes (such as biomedical research of traditional remedies or ethno-tourism initiative) are required to undertake specialized form of cultural assessment—culminating in a ‘Traditional (Indigenous) Knowledge Report’ along associated planning actions for achieving community consent to the initiative and associated benefits-sharing arrangements. Yet efforts to learn about indigenous knowledge system can yield far-reaching advantages for any company operating in indigenous territories—not only those focused on indigenous knowledge.
+
+For example, indigenous knowledge can help project planners to fine-tune impact avoidance and migration strategies by providing insights into “how things work” that might not be apparent in technical measures and analyses.
+
+Companies may also benefit from indigenous knowledge when setting up project environmental and social safeguard systems. Management of marine and land-based resources can be strengthened, for example, when based on indigenous knowledge of ecological systems. The effectiveness with which scientific methods integrate with traditional knowledge is a strong argument for allotting sufficient time to integrate traditional knowledge into various aspects of project operations. 
+<p>&nbsp;</p>
+
+---
+**In sum**, project investments in meaningful engagement with Indigenous Peoples are advantageous *not merely for reducing risks and avoiding liabilities*. When companies and project operators cooperate with affected communities as partners early in process of project design and planning, both the company and the communities can benefit from the results—via streamlined operations, improved social performance, higher returns on investment at later stages of project operations, etc. Moreover, *the benefits of community engagement are often synergistic and cumulative*; companies that “do it right” from the start will realize the positive consequences of their decisions throughout the lifetime of project operations and across their investment portfolios.
+<p>&nbsp;</p>
+
+
+## Further Reading:
+
+* Business for Social Responsibility (BSR) and First Peoples Worldwide (FPW). 2004. _[Resource/Extractive Companies and Indigenous Peoples Engagement (RECIPE) for Dialogue Project – GUIDEBOOK](http://commdev.org/files/1923_file_RECIPE_Guide.pdf)_. [Accessed 17 November 2013].
+* Parliament of Australia. 2008. “[Chapter 4: Corporate incentives to trade and engage with Indigenous businesses](http://www.aph.gov.au/parliamentary_business/committees/house_of_representatives_committees?url=/atsia/indigenousenterprises/report/chapter4.pdf)”, _Open for Business_. [Accessed 17 November 2013].
+* Centre for Social Responsibility in Mining (CSRM). 2012. _[Agreement-making with Indigenous Groups](http://www.csrm.uq.edu.au/publications?task=download&file=pub_link&id=280)_. [Accessed 17 November 2013].
+* Network for Business Sustainability (NBS). “[The Growing Authority of Indigenous Communities (And What it Means for Companies)](http://nbs.net/knowledge/the-growing-authority-of-indigenous-communities/)”. [Accessed 17 November 2013].
+* Global Environment Facility (GEF). 2012. _[Principles and Guidelines for Engagement with Indigenous Peoples](http://www.thegef.org/gef/pubs/principles-and-guidelines-engagement-indigenous-peoples)_. [Accessed 17 November 2013].

@@ -3,18 +3,17 @@
 
 ## Policy Régimes of the Asian Development Bank
 
-Investments of the Asian Development Bank must accord with the [ADB Charter](http://www.adb.org/documents/agreement-establishing-asian-development-bank-adb-charter "*Agreement Establishing the Asian Development Bank*, 1965").
+Investments of the Asian Development Bank must accord with the [ADB Charter](http://www.adb.org/documents/agreement-establishing-asian-development-bank-adb-charter "*Agreement Establishing the Asian Development Bank*, 1965"), which defines as the bank's purpose "to foster economic growth and co-operation in the region of Asia and the Far East... and to contribute to the acceleration of the process of economic development of the developing member countries in the region, collectively and individually." To help realize its purpose, ADB establishes lending guidelines in a body of policy known collectively as the [ADB Operational Manual](#adb-operational-policy).
 
-Toward this end, ADB defines guidlines to shape loan terms and conditions. These policies are collected in what is known as the [ADB Operational Manual](#adb-operational-policy). [Social Policy](#adb-social-policy), in this context, is defined with respect to specific dimensions of ADB work, e.g. governance and anti-corruption. [Safeguard Policies](#adb-safeguards-policy) are specific measures for risk avoidance and mitigation.
+[Social Policy](#adb-social-policy), in this context, is defined with respect to specific dimensions of ADB work, e.g. governance and anti-corruption. That is to say, ADB does not enumerate social policy as such, but rather seeks to attend to social development concerns fundamental to bank operations&mdash;although it does emphasize the need to pay particular attention to certain concerns, namely via its [safeguard policies](#adb-safeguards-policy).
 
-
+This article seeks to identify social policy at the ADB, both in terms of [safeguard policies](#adb-safeguards-policy) and in terms of other [aspirational / developmental policies](#adb-development-policy) with a distinct focus on social development.
 
 <a name="adb-operational-policy"></a>
 
 ### The ADB Operation Manual (OM)
 
-The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual) collects operational policies known as [Bank Policies (BPs)]( "*bank policies*: short, focused statements defining borrower client obligations") that follow from ADB Charter, regulations of the [ADF](http://www.adb.org/site/adf/main) and [OCR](http://www.adb.org/site/funds/ocr), as well as [other operational policies and strategies](http://www.adb.org/about/other-operational-policies-and-strategies) adopted by the [ADB Board of Directors](http://www.adb.org/about/board-directors). The OM also includes [Operational Procedures (OPs)](# "procedural requirements and guidance on policy implementation") that spell out procedural requirements and guidance on policy implementation.
-
+The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual) collects operational policies known as [Bank Policies (BPs)](# "short, focused statements defining borrower client obligations") that follow from ADB Charter, regulations of the [ADF](http://www.adb.org/site/adf/main) and [OCR](http://www.adb.org/site/funds/ocr), as well as [other operational policies and strategies](http://www.adb.org/about/other-operational-policies-and-strategies) adopted by the [ADB Board of Directors](http://www.adb.org/about/board-directors). The OM also includes [Operational Procedures (OPs)](# "procedural requirements and guidance on policy implementation") that spell out procedural requirements and guidance on policy implementation.
 
 <p>
   <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
@@ -251,6 +250,14 @@ In 2009, the Asian Development Bank adopted its *[Safeguard Policy Statement (SP
 </div>
 
 <!--
+ADB’s gender and development policy is a critical mainstreaming strategy in promoting gender equality, and includes the following key points:
+Gender sensitivity: Particular attention should be paid to women’s needs and expectations in consideration of impacts of the ADB-financed project on men and women;
+Gender analysis: A systematic analysis of the project’s impacts on men and women should be made to learn their economic and social connections;
+Gender planning: A special strategy that offers equal opportunities to men and women should be developed;
+Mainstreaming: ADB considers the gender issue in all aspects of the project, and encourages women to participate in decision-making in the development process actively.
+-->
+
+<!--
 **Current Safeguard Policy Framework**
 * *[Safeguard Policy Statement](http://www.adb.org/documents/safeguard-policy-statement)* (Jun 2009) | [PDF](http://www.adb.org/Documents/Policies/Safeguards/Safeguard-Policy-Statement-June2009.pdf)
 * *[Operational Manual Section F1](http://www.adb.org/sites/default/files/institutional-document/31483/om-f1-20131001.pdf)* (2013)
@@ -296,9 +303,24 @@ The SPS builds upon (and supersedes) three previous safeguard policies: (i) the 
 -->
 
 
-**Non-Policy Safeguard Frameworks**
+In addition to the *Safeguard Policy Statement*, the ADB has published strategic frameworks for realizing socially-beneficial development, e.g. the *[Social Protection Operational Plan 2014−2020](http://www.adb.org/documents/social-protection-operational-plan-2014-2020)*. ADB also undertakes periodic reviews of its progress toward policy implementation.
 
+<div class="well">
+<p><strong>Non-Policy Safeguard Frameworks</strong></p>
+<ul>
+<li><em><a href="http://www.adb.org/Documents/Policies/Social_Protection/default.asp">Social Protection Strategy</a></em> (Aug 2001)
+<ul>
+<li><a href="http://www.adb.org/Documents/Reports/Social_Protection/IN252-02.pdf">Social Protection Progress Report to the Board of Directors</a>
+</ul></li>
+<li><em><a href="http://www.adb.org/documents/social-protection-strategy">Social Protection Strategy</a></em> (Jan 2001)
+<ul>
+<li><a href="http://www.adb.org/documents/social-protection-operational-plan-2014-2020">Social Protection Operational Plan 2014−2020</a></em> (Dec 2013)
+<li><a href="http://www.adb.org/documents/special-evaluation-study-adb-s-social-protection-strategy">Special Evaluation Study on ADB’s Social Protection Strategy</a></em> (7 Nov 2012)
+</ul></li>
+</ul>
+</div>
 
+<!--
 In addition to the *Safeguard Policy Statement*, the ADB has published strategic frameworks for realizing socially-beneficial development, e.g. the *[Social Protection Operational Plan 2014−2020](http://www.adb.org/documents/social-protection-operational-plan-2014-2020)*. ADB also undertakes periodic reviews of its progress toward policy implementation.
 
 * *[Social Protection Strategy](http://www.adb.org/Documents/Policies/Social_Protection/default.asp)* (Aug 2001) | [print version]( "published July 2003") | [NOTES]( "NOTES: ADB 2001 Social Protection Strategy")
@@ -307,7 +329,7 @@ In addition to the *Safeguard Policy Statement*, the ADB has published strategic
 * *[Social Protection Strategy](http://www.adb.org/documents/social-protection-strategy)* (Jan 2001)
     - *[Social Protection Operational Plan 2014−2020](http://www.adb.org/documents/social-protection-operational-plan-2014-2020)* (Dec 2013)
     - *[Special Evaluation Study on ADB’s Social Protection Strategy](http://www.adb.org/documents/special-evaluation-study-adb-s-social-protection-strategy)* (7 Nov 2012)
-
+-->
 
 <a name="adb-development-policy"></a>
 

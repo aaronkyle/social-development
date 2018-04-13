@@ -1,4 +1,8 @@
 <!--
+http://powerandsamplesize.com/Calculators/
+-->
+
+<!--
 
 https://en.wikipedia.org/wiki/Sample_size_determination
 Qualitative research

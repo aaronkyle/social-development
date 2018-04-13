@@ -1,3 +1,44 @@
+<!--
+
+https://en.wikipedia.org/wiki/Sample_size_determination
+Qualitative research
+Sample size determination in qualitative studies takes a different approach. It is generally a subjective judgment, taken as the research proceeds.[13] One approach is to continue to include further participants or material until saturation is reached.[14] The number needed to reach saturation has been investigated empirically.[15][16][17][18]
+
+There is a paucity of reliable guidance on estimating sample sizes before starting the research, with a range of suggestions given.[16][19][20][21] A tool akin to a quantitative power calculation, based on the negative binomial distribution, has been suggested for thematic analysis.[22][21]
+
+
+Sandelowski, M. (1995). Sample size in qualitative research. Research in Nursing & Health, 18, 179–183
+Glaser, B. (1965). The constant comparative method of qualitative analysis. Social Problems, 12, 436–445
+Francis, J. J., Johnston, M., Robertson, C., Glidewell, L., Entwistle, V., Eccles, M. P., & Grimshaw, J. M. (2010). What is an adequate sample size? Operationalising data saturation for theory-based interview studies. Psychology and Health, 25, 1229–1245. doi:10.1080/08870440903194015
+Guest, G., Bunce, A., & Johnson, L. (2006). How many interviews are enough?: An experiment with data saturation and variability. Field Methods, 18, 59–82. doi:10.1177/1525822X05279903
+Wright, A., Maloney, F. L., & Feblowitz, J. C. (2011). Clinician attitudes toward and use of electronic problem lists: a thematic analysis. BMC Medical Informatics and Decision Making, 11, 36. doi:10.1186/1472-6947-11-36
+"Sample Size and Saturation in PhD Studies Using Qualitative Interviews – Mason – Forum Qualitative Sozialforschung / Forum: Qualitative Social Research". qualitative-research.net.
+
+Guest, G., Bunce, A., & Johnson, L. (2006). How many interviews are enough?: An experiment with data saturation and variability. Field Methods, 18, 59–82. doi:10.1177/1525822X05279903
+Emmel, N. (2013). Sampling and choosing cases in qualitative research: A realist approach. London: Sag
+Onwuegbuzie, A. J., & Leech, N. L. (2007). A call for qualitative power analyses. Quality & Quantity, 41, 105–121. doi:10.1007/s11135-005-1098-1
+Fugard AJB; Potts HWW (10 February 2015). "Supporting thinking on sample sizes for thematic analyses: A quantitative tool". International Journal of Social Research Methodology. doi:10.1080/13645579.2015.1005453.
+
+Galvin R (2015). How many interviews are enough? Do qualitative interviews in building energy consumption research produce reliable knowledge? Journal of Building Engineering, 1:2–12
+
+Fugard AJB; Potts HWW (10 February 2015). "Supporting thinking on sample sizes for thematic analyses: A quantitative tool". International Journal of Social Research Methodology. doi:10.1080/13645579.2015.1005453.
+
+
+Software for power and sample size calculations
+Numerous free and/or open source programs are available for performing power and sample size calculations. These include
+
+G*Power (http://www.gpower.hhu.de/)
+powerandsamplesize.com Free and open source online calculators
+PS
+PowerUp! provides convenient excel-based functions to determine minimum detectable effect size and minimum required sample size for various experimental and quasi-experimental designs.
+R package pwr
+Russ Lenth's power and sample-size page
+WebPower Free online statistical power analysis (http://webpower.psychstat.org)
+SampSize app for Android and iOS iPhone and iPad (https://www.epigenesys.org.uk/portfolio/sampsize/)
+
+
+-->
+
 
 <!--
 
@@ -2267,4 +2308,714 @@ Don’t just take a guess at how many people should take your survey and don’t
 
 If the sample size calculator says you need more respondents, we can help. Tell us about your population, and we’ll find the right people to take your surveys. With millions of qualified respondents, SurveyMonkey Audience makes it easy to get survey responses from people around the world instantly, from almost anyone.
 
+-->
+
+
+<!-- 
+http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-23-point.html
+
+Python for Data Analysis Part 23: Point Estimates and Confidence Intervals
+
+
+To this point, this guide has focused on the functions and syntax necessary to manipulate, explore and describe data. Data cleaning and exploratory analysis are often preliminary steps toward the end goal of extracting insight from data through statistical inference or predictive modeling. The remainder of this guide will focus on methods for analyzing data and tools for carrying out analyses in Python.
+Statistical inference is the process of analyzing sample data to gain insight into the population from which the data was collected and to investigate differences between data samples. In data analysis, we are often interested in the characteristics of some large population, but collecting data on the entire population may be infeasible. For example, leading up to U.S. presidential elections it could be very useful to know the political leanings of every single eligible voter, but surveying every voter is not feasible. Instead, we could poll some subset of the population, such as a thousand registered voters, and use that data to make inferences about the population as a whole.
+Point Estimates
+Point estimates are estimates of population parameters based on sample data. For instance, if we wanted to know the average age of registered voters in the U.S., we could take a survey of registered voters and then use the average age of the respondents as a point estimate of the average age of the population as a whole. The average of a sample is known as the sample mean.
+The sample mean is usually not exactly the same as the population mean. This difference can be caused by many factors including poor survey design, biased sampling methods and the randomness inherent to drawing a sample from a population. Let's investigate point estimates by generating a population of random age data and then drawing a sample from it to estimate the mean:
+In [1]:
+%matplotlib inline
+In [2]:
+import numpy as np
+import pandas as pd
+import scipy.stats as stats
+import matplotlib.pyplot as plt
+import random
+import math
+In [3]:
+np.random.seed(10)
+population_ages1 = stats.poisson.rvs(loc=18, mu=35, size=150000)
+population_ages2 = stats.poisson.rvs(loc=18, mu=10, size=100000)
+population_ages = np.concatenate((population_ages1, population_ages2))
+
+population_ages.mean()
+Out[3]:
+43.002372000000001
+In [4]:
+np.random.seed(6)
+sample_ages = np.random.choice(a= population_ages,
+                               size=500)            # Sample 1000 values
+
+print ( sample_ages.mean() )                         # Show sample mean
+
+population_ages.mean() - sample_ages.mean()   # Check difference between means
+42.388
+Out[4]:
+0.61437200000000303
+Our point estimate based on a sample of 500 individuals underestimates the true population mean by 0.6 years, but it is close. This illustrates an important point: we can get a fairly accurate estimate of a large population by sampling a relatively small subset of individuals.
+Another point estimate that may be of interest is the proportion of the population that belongs to some category or subgroup. For example, we might like to know the race of each voter we poll, to get a sense of the overall demographics of the voter base. You can make a point estimate of this sort of proportion by taking a sample and then checking the ratio in the sample:
+In [5]:
+random.seed(10)
+population_races = (["white"]*100000) + (["black"]*50000) +\
+                   (["hispanic"]*50000) + (["asian"]*25000) +\
+                   (["other"]*25000)
+    
+demo_sample = random.sample(population_races, 1000)   # Sample 1000 values
+
+for race in set(demo_sample):
+    print( race + " proportion estimate:" )
+    print( demo_sample.count(race)/1000 )
+hispanic proportion estimate:
+0.192
+white proportion estimate:
+0.379
+other proportion estimate:
+0.099
+black proportion estimate:
+0.231
+asian proportion estimate:
+0.099
+Notice that the proportion estimates are close to the true underlying population proportions.
+Sampling Distributions and The Central Limit Theorem
+Many statistical procedures assume that data follows a normal distribution, because the normal distribution has nice properties like symmetricity and having the majority of the data clustered within a few standard deviations of the mean. Unfortunately, real world data is often not normally distributed and the distribution of a sample tends to mirror the distribution of the population. This means a sample taken from a population with a skewed distribution will also tend to be skewed. Let's investigate by plotting the data and sample we created earlier and by checking the skew:
+In [6]:
+pd.DataFrame(population_ages).hist(bins=58,
+                                  range=(17.5,75.5),
+                                  figsize=(9,9))
+
+print( stats.skew(population_ages) )
+-0.12008483603917186
+
+The distribution has low skewness, but the plot reveals the data is clearly not normal: instead of one symmetric bell curve, it has as bimodal distribution with two high density peaks. The sample we drew from this population should have roughly the same shape and skew:
+In [7]:
+pd.DataFrame(sample_ages).hist(bins=58,
+                                  range=(17.5,75.5),
+                                  figsize=(9,9))
+
+print( stats.skew(sample_ages) )
+-0.056225282585406065
+
+The sample has roughly the same shape as the underlying population. This suggests that we can't apply techniques that assume a normal distribution to this data set, since it is not normal. In reality, we can, thanks the central limit theorem.
+The central limit theorem is one of the most important results of probability theory and serves as the foundation of many methods of statistical analysis. At a high level, the theorem states the distribution of many sample means, known as a sampling distribution, will be normally distributed. This rule holds even if the underlying distribution itself is not normally distributed. As a result we can treat the sample mean as if it were drawn normal distribution.
+To illustrate, let's create a sampling distribution by taking 200 samples from our population and then making 200 point estimates of the mean:
+In [8]:
+np.random.seed(10)
+
+point_estimates = []         # Make empty list to hold point estimates
+
+for x in range(200):         # Generate 200 samples
+    sample = np.random.choice(a= population_ages, size=500)
+    point_estimates.append( sample.mean() )
+    
+pd.DataFrame(point_estimates).plot(kind="density",  # Plot sample mean density
+                                   figsize=(9,9),
+                                   xlim=(41,45))   
+Out[8]:
+<matplotlib.axes._subplots.AxesSubplot at 0xa664f98>
+
+The sampling distribution appears to be roughly normal, despite the bimodal population distribution that the samples were drawn from. In addition, the mean of the sampling distribution approaches the true population mean:
+In [9]:
+population_ages.mean() - np.array(point_estimates).mean()
+Out[9]:
+-0.084407999999996264
+The more samples we take, the better our estimate of the population parameter is likely to be.
+Confidence Intervals
+A point estimate can give you a rough idea of a population parameter like the mean, but estimates are prone to error and taking multiple samples to get improved estimates may not be feasible. A confidence interval is a range of values above and below a point estimate that captures the true population parameter at some predetermined confidence level. For example, if you want to have a 95% chance of capturing the true population parameter with a point estimate and a corresponding confidence interval, you'd set your confidence level to 95%. Higher confidence levels result in a wider confidence intervals.
+Calculate a confidence interval by taking a point estimate and then adding and subtracting a margin of error to create a range. Margin of error is based on your desired confidence level, the spread of the data and the size of your sample. The way you calculate the margin of error depends on whether you know the standard deviation of the population or not.
+If you know the standard deviation of the population, the margin of error is equal to:
+
+z∗σn√
+Where σ (sigma) is the population standard deviation, n is sample size, and z is a number known as the z-critical value. The z-critical value is the number of standard deviations you'd have to go from the mean of the normal distribution to capture the proportion of the data associated with the desired confidence level. For instance, we know that roughly 95% of the data in a normal distribution lies within 2 standard deviations of the mean, so we could use 2 as the z-critical value for a 95% confidence interval (although it is more exact to get z-critical values with stats.norm.ppf().).
+Let's calculate a 95% confidence for our mean point estimate:
+In [10]:
+np.random.seed(10)
+
+sample_size = 1000
+sample = np.random.choice(a= population_ages, size = sample_size)
+sample_mean = sample.mean()
+
+z_critical = stats.norm.ppf(q = 0.975)  # Get the z-critical value*
+
+print("z-critical value:")              # Check the z-critical value
+print(z_critical)                        
+
+pop_stdev = population_ages.std()  # Get the population standard deviation
+
+margin_of_error = z_critical * (pop_stdev/math.sqrt(sample_size))
+
+confidence_interval = (sample_mean - margin_of_error,
+                       sample_mean + margin_of_error)  
+
+print("Confidence interval:")
+print(confidence_interval)
+z-critical value:
+1.95996398454
+Confidence interval:
+(41.703064068826833, 43.342935931173173)
+*Note: We use stats.norm.ppf(q = 0.975) to get the desired z-critical value instead of q = 0.95 because the distribution has two tails.
+Notice that the confidence interval we calculated captures the true population mean of 43.0023.
+Let's create several confidence intervals and plot them to get a better sense of what it means to "capture" the true mean:
+In [11]:
+np.random.seed(12)
+
+sample_size = 1000
+
+intervals = []
+sample_means = []
+
+for sample in range(25):
+    sample = np.random.choice(a= population_ages, size = sample_size)
+    sample_mean = sample.mean()
+    sample_means.append(sample_mean)
+
+    z_critical = stats.norm.ppf(q = 0.975)  # Get the z-critical value*         
+
+    pop_stdev = population_ages.std()  # Get the population standard deviation
+
+    stats.norm.ppf(q = 0.025)
+
+    margin_of_error = z_critical * (pop_stdev/math.sqrt(sample_size))
+
+    confidence_interval = (sample_mean - margin_of_error,
+                           sample_mean + margin_of_error)  
+    
+    intervals.append(confidence_interval)
+In [12]:
+plt.figure(figsize=(9,9))
+
+plt.errorbar(x=np.arange(0.1, 25, 1), 
+             y=sample_means, 
+             yerr=[(top-bot)/2 for top,bot in intervals],
+             fmt='o')
+
+plt.hlines(xmin=0, xmax=25,
+           y=43.0023, 
+           linewidth=2.0,
+           color="red")
+Out[12]:
+<matplotlib.collections.LineCollection at 0xa7166a0>
+
+Notice that in the plot above, all but one of the 95% confidence intervals overlap the red line marking the true mean. This is to be expected: since a 95% confidence interval captures the true mean 95% of the time, we'd expect our interval to miss the true mean 5% of the time.
+If you don't know the standard deviation of the population, you have to use the standard deviation of your sample as a stand in when creating confidence intervals. Since the sample standard deviation may not match the population parameter the interval will have more error when you don't know the population standard deviation. To account for this error, we use what's known as a t-critical value instead of the z-critical value. The t-critical value is drawn from what's known as a t-distribution--a distribution that closely resembles the normal distribution but that gets wider and wider as the sample size falls. The t-distribution is available in scipy.stats with the nickname "t" so we can get t-critical values with stats.t.ppf().
+Let's take a new, smaller sample and then create a confidence interval without the population standard deviation, using the t-distribution:
+In [13]:
+np.random.seed(10)
+
+sample_size = 25
+sample = np.random.choice(a= population_ages, size = sample_size)
+sample_mean = sample.mean()
+
+t_critical = stats.t.ppf(q = 0.975, df=24)  # Get the t-critical value*
+
+print("t-critical value:")                  # Check the t-critical value
+print(t_critical)                        
+
+sample_stdev = sample.std()    # Get the sample standard deviation
+
+sigma = sample_stdev/math.sqrt(sample_size)  # Standard deviation estimate
+margin_of_error = t_critical * sigma
+
+confidence_interval = (sample_mean - margin_of_error,
+                       sample_mean + margin_of_error)  
+
+print("Confidence interval:")
+print(confidence_interval)
+t-critical value:
+2.06389856163
+Confidence interval:
+(37.757112737010608, 48.002887262989397)
+*Note: when using the t-distribution, you have to supply the degrees of freedom (df). For this type of test, the degrees of freedom is equal to the sample size minus 1. If you have a large sample size, the t-distribution approaches the normal distribution.
+Notice that the t-critical value is larger than the z-critical value we used for 95% confidence interval. This allows the confidence interval to cast a larger net to make up for the variability caused by using the sample standard deviation in place of the population standard deviation. The end result is a much wider confidence interval (an interval with a larger margin of error.).
+If you have a large sample, the t-critical value will approach the z-critical value so there is little difference between using the normal distribution vs. the t-distribution:
+In [14]:
+# Check the difference between critical values with a sample size of 1000
+             
+stats.t.ppf(q=0.975, df= 999) - stats.norm.ppf(0.975)  
+Out[14]:
+0.0023774765933946007
+Instead of calculating a confidence interval for a mean point estimate by hand, you can calculate it using the Python function stats.t.interval():
+In [15]:
+stats.t.interval(alpha = 0.95,              # Confidence level
+                 df= 24,                    # Degrees of freedom
+                 loc = sample_mean,         # Sample mean
+                 scale = sigma)             # Standard deviation estimate
+Out[15]:
+(37.757112737010608, 48.002887262989397)
+We can also make a confidence interval for a point estimate of a population proportion. In this case, the margin of error equals:
+
+z∗p(1−p)n−−−−−−−√
+Where z is the z-critical value for our confidence level, p is the point estimate of the population proportion and n is the sample size. Let's calculate a 95% confidence interval for Hispanics according to the sample proportion we calculated earlier (0.192):
+In [16]:
+z_critical = stats.norm.ppf(0.975)      # Record z-critical value
+
+p = 0.192                               # Point estimate of proportion
+
+n = 1000                                # Sample size
+
+margin_of_error = z_critical * math.sqrt((p*(1-p))/n)
+
+confidence_interval = (p - margin_of_error,  # Calculate the the interval
+                       p + margin_of_error) 
+
+confidence_interval
+Out[16]:
+(0.16758794241348748, 0.21641205758651252)
+The output shows that the confidence interval captured the true population parameter of 0.2. Similar to our population mean point estimates, we can use the scipy stats.distribution.interval() function to calculate a confidence interval for a population proportion for us. In this case were working with z-critical values so we want to work with the normal distribution instead of the t distribution:
+In [17]:
+stats.norm.interval(alpha = 0.95,    # Confidence level             
+                   loc =  0.192,     # Point estimate of proportion
+                   scale = math.sqrt((p*(1-p))/n))  # Scaling factor
+Out[17]:
+(0.16758794241348748, 0.21641205758651252)
+Wrap Up
+Estimating population parameters through sampling is a simple, yet powerful form of inference. Point estimates combined with error margins let us create confidence intervals that capture the true population parameter with high probability.
+Next time we'll expand on the concepts in this lesson by learning about statistical hypothesis testing.
+Next Time: Python for Data Analysis Part 24: Hypothesis Testing and T-Tests
+
+-->
+
+<!--
+
+http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-24.html
+
+Python for Data Analysis Part 24: Hypothesis Testing and the T-Test
+
+Point estimates and confidence intervals are basic inference tools that act as the foundation for another inference technique: statistical hypothesis testing. Statistical hypothesis testing is a framework for determining whether observed data deviates from what is expected. Python's scipy.stats library contains an array of functions that make it easy to carry out hypothesis tests.
+Hypothesis Testing Basics
+Statistical hypothesis tests are based a statement called the null hypothesis that assumes nothing interesting is going on between whatever variables you are testing. The exact form of the null hypothesis varies from one type test to another: if you are testing whether groups differ, the null hypothesis states that the groups are the same. For instance, if you wanted to test whether the average age of voters in your home state differs from the national average, the null hypothesis would be that there is no difference between the average ages.
+The purpose of a hypothesis test is to determine whether the null hypothesis is likely to be true given sample data. If there is little evidence against the null hypothesis given the data, you accept the null hypothesis. If the null hypothesis is unlikely given the data, you might reject the null in favor of the alternative hypothesis: that something interesting is going on. The exact form of the alternative hypothesis will depend on the specific test you are carrying out. Continuing with the example above, the alternative hypothesis would be that the average age of voters in your state does in fact differ from the national average.
+Once you have the null and alternative hypothesis in hand, you choose a significance level (often denoted by the Greek letter α.). The significance level is a probability threshold that determines when you reject the null hypothesis. After carrying out a test, if the probability of getting a result as extreme as the one you observe due to chance is lower than the significance level, you reject the null hypothesis in favor of the alternative. This probability of seeing a result as extreme or more extreme than the one observed is known as the p-value.
+The T-test is a statistical test used to determine whether a numeric data sample of differs significantly from the population or whether two samples differ from one another.
+One-Sample T-Test
+A one-sample t-test checks whether a sample mean differs from the population mean. Let's create some dummy age data for the population of voters in the entire country and a sample of voters in Minnesota and test the whether the average age of voters Minnesota differs from the population:
+In [1]:
+%matplotlib inline
+In [2]:
+import numpy as np
+import pandas as pd
+import scipy.stats as stats
+import matplotlib.pyplot as plt
+import math
+In [3]:
+np.random.seed(6)
+
+population_ages1 = stats.poisson.rvs(loc=18, mu=35, size=150000)
+population_ages2 = stats.poisson.rvs(loc=18, mu=10, size=100000)
+population_ages = np.concatenate((population_ages1, population_ages2))
+
+minnesota_ages1 = stats.poisson.rvs(loc=18, mu=30, size=30)
+minnesota_ages2 = stats.poisson.rvs(loc=18, mu=10, size=20)
+minnesota_ages = np.concatenate((minnesota_ages1, minnesota_ages2))
+
+print( population_ages.mean() )
+print( minnesota_ages.mean() )
+43.000112
+39.26
+Notice that we used a slightly different combination of distributions to generate the sample data for Minnesota, so we know that the two means are different. Let's conduct a t-test at a 95% confidence level and see if it correctly rejects the null hypothesis that the sample comes from the same distribution as the population. To conduct a one sample t-test, we can the stats.ttest_1samp() function:
+In [4]:
+stats.ttest_1samp(a= minnesota_ages,               # Sample data
+                 popmean= population_ages.mean())  # Pop mean
+Out[4]:
+Ttest_1sampResult(statistic=-2.5742714883655027, pvalue=0.013118685425061678)
+The test result shows the test statistic "t" is equal to -2.574. This test statistic tells us how much the sample mean deviates from the null hypothesis. If the t-statistic lies outside the quantiles of the t-distribution corresponding to our confidence level and degrees of freedom, we reject the null hypothesis. We can check the quantiles with stats.t.ppf():
+In [5]:
+stats.t.ppf(q=0.025,  # Quantile to check
+            df=49)  # Degrees of freedom
+Out[5]:
+-2.0095752344892093
+In [6]:
+stats.t.ppf(q=0.975,  # Quantile to check
+            df=49)  # Degrees of freedom
+Out[6]:
+2.0095752344892088
+We can calculate the chances of seeing a result as extreme as the one we observed (known as the p-value) by passing the t-statistic in as the quantile to the stats.t.cdf() function:
+In [7]:
+stats.t.cdf(x= -2.5742,      # T-test statistic
+               df= 49) * 2   # Mupltiply by two for two tailed test*
+Out[7]:
+0.013121066545690117
+*Note: The alternative hypothesis we are checking is whether the sample mean differs (is not equal to) the population mean. Since the sample could differ in either the positive or negative direction we multiply the by two.
+Notice this value is the same as the p-value listed in the original t-test output. A p-value of 0.01311 means we'd expect to see data as extreme as our sample due to chance about 1.3% of the time if the null hypothesis was true. In this case, the p-value is lower than our significance level α (equal to 1-conf.level or 0.05) so we should reject the null hypothesis. If we were to construct a 95% confidence interval for the sample it would not capture population mean of 43:
+In [8]:
+sigma = minnesota_ages.std()/math.sqrt(50)  # Sample stdev/sample size
+
+stats.t.interval(0.95,                        # Confidence level
+                 df = 49,                     # Degrees of freedom
+                 loc = minnesota_ages.mean(), # Sample mean
+                 scale= sigma)                # Standard dev estimate
+Out[8]:
+(36.369669080722176, 42.15033091927782)
+On the other hand, since there is a 1.3% chance of seeing a result this extreme due to chance, it is not significant at the 99% confidence level. This means if we were to construct a 99% confidence interval, it would capture the population mean:
+In [9]:
+stats.t.interval(alpha = 0.99,                # Confidence level
+                 df = 49,                     # Degrees of freedom
+                 loc = minnesota_ages.mean(), # Sample mean
+                 scale= sigma)                # Standard dev estimate
+Out[9]:
+(35.405479940921069, 43.114520059078927)
+With a higher confidence level, we construct a wider confidence interval and increase the chances that it captures to true mean, thus making it less likely that we'll reject the null hypothesis. In this case, the p-value of 0.013 is greater than our significance level of 0.01 and we fail to reject the null hypothesis.
+Two-Sample T-Test
+A two-sample t-test investigates whether the means of two independent data samples differ from one another. In a two-sample test, the null hypothesis is that the means of both groups are the same. Unlike the one sample-test where we test against a known population parameter, the two sample test only involves sample means. You can conduct a two-sample t-test by passing with the stats.ttest_ind() function. Let's generate a sample of voter age data for Wisconsin and test it against the sample we made earlier:
+In [10]:
+np.random.seed(12)
+wisconsin_ages1 = stats.poisson.rvs(loc=18, mu=33, size=30)
+wisconsin_ages2 = stats.poisson.rvs(loc=18, mu=13, size=20)
+wisconsin_ages = np.concatenate((wisconsin_ages1, wisconsin_ages2))
+
+print( wisconsin_ages.mean() )
+42.8
+In [11]:
+stats.ttest_ind(a= minnesota_ages,
+                b= wisconsin_ages,
+                equal_var=False)    # Assume samples have equal variance?
+Out[11]:
+Ttest_indResult(statistic=-1.7083870793286842, pvalue=0.090731043439577483)
+The test yields a p-value of 0.0907, which means there is a 9% chance we'd see sample data this far apart if the two groups tested are actually identical. If we were using a 95% confidence level we would fail to reject the null hypothesis, since the p-value is greater than the corresponding significance level of 5%.
+Paired T-Test
+The basic two sample t-test is designed for testing differences between independent groups. In some cases, you might be interested in testing differences between samples of the same group at different points in time. For instance, a hospital might want to test whether a weight-loss drug works by checking the weights of the same group patients before and after treatment. A paired t-test lets you check whether the means of samples from the same group differ.
+We can conduct a paired t-test using the scipy function stats.ttest_rel(). Let's generate some dummy patient weight data and do a paired t-test:
+In [12]:
+np.random.seed(11)
+
+before= stats.norm.rvs(scale=30, loc=250, size=100)
+
+after = before + stats.norm.rvs(scale=5, loc=-1.25, size=100)
+
+weight_df = pd.DataFrame({"weight_before":before,
+                          "weight_after":after,
+                          "weight_change":after-before})
+
+weight_df.describe()             # Check a summary of the data
+Out[12]:
+weight_after	weight_before	weight_change
+count	100.000000	100.000000	100.000000
+mean	249.115171	250.345546	-1.230375
+std	28.422183	28.132539	4.783696
+min	165.913930	170.400443	-11.495286
+25%	229.148236	230.421042	-4.046211
+50%	251.134089	250.830805	-1.413463
+75%	268.927258	270.637145	1.738673
+max	316.720357	314.700233	9.759282
+The summary shows that patients lost about 1.23 pounds on average after treatment. Let's conduct a paired t-test to see whether this difference is significant at a 95% confidence level:
+In [13]:
+stats.ttest_rel(a = before,
+                b = after)
+Out[13]:
+Ttest_relResult(statistic=2.5720175998568284, pvalue=0.011596444318439857)
+The p-value in the test output shows that the chances of seeing this large of a difference between samples due to chance is just over 1%.
+Type I and Type II Error
+The result of a statistical hypothesis test and the corresponding decision of whether to reject or accept the null hypothesis is not infallible. A test provides evidence for or against the null hypothesis and then you decide whether to accept or reject it based on that evidence, but the evidence may lack the strength to arrive at the correct conclusion. Incorrect conclusions made from hypothesis tests fall in one of two categories: type I error and type II error.
+Type I error describes a situation where you reject the null hypothesis when it is actually true. This type of error is also known as a "false positive" or "false hit". The type 1 error rate is equal to the significance level α, so setting a higher confidence level (and therefore lower alpha) reduces the chances of getting a false positive.
+Type II error describes a situation where you fail to reject the null hypothesis when it is actually false. Type II error is also known as a "false negative" or "miss". The higher your confidence level, the more likely you are to make a type II error.
+Let's investigate these errors with a plot:
+In [14]:
+plt.figure(figsize=(12,10))
+
+plt.fill_between(x=np.arange(-4,-2,0.01), 
+                 y1= stats.norm.pdf(np.arange(-4,-2,0.01)) ,
+                 facecolor='red',
+                 alpha=0.35)
+
+plt.fill_between(x=np.arange(-2,2,0.01), 
+                 y1= stats.norm.pdf(np.arange(-2,2,0.01)) ,
+                 facecolor='white',
+                 alpha=0.35)
+
+plt.fill_between(x=np.arange(2,4,0.01), 
+                 y1= stats.norm.pdf(np.arange(2,4,0.01)) ,
+                 facecolor='red',
+                 alpha=0.5)
+
+plt.fill_between(x=np.arange(-4,-2,0.01), 
+                 y1= stats.norm.pdf(np.arange(-4,-2,0.01),loc=3, scale=2) ,
+                 facecolor='white',
+                 alpha=0.35)
+
+plt.fill_between(x=np.arange(-2,2,0.01), 
+                 y1= stats.norm.pdf(np.arange(-2,2,0.01),loc=3, scale=2) ,
+                 facecolor='blue',
+                 alpha=0.35)
+
+plt.fill_between(x=np.arange(2,10,0.01), 
+                 y1= stats.norm.pdf(np.arange(2,10,0.01),loc=3, scale=2),
+                 facecolor='white',
+                 alpha=0.35)
+
+plt.text(x=-0.8, y=0.15, s= "Null Hypothesis")
+plt.text(x=2.5, y=0.13, s= "Alternative")
+plt.text(x=2.1, y=0.01, s= "Type 1 Error")
+plt.text(x=-3.2, y=0.01, s= "Type 1 Error")
+plt.text(x=0, y=0.02, s= "Type 2 Error")
+Out[14]:
+<matplotlib.text.Text at 0x91ff3c8>
+
+In the plot above, the red areas indicate type I errors assuming the alternative hypothesis is not different from the null for a two-sided test with a 95% confidence level.
+The blue area represents type II errors that occur when the alternative hypothesis is different from the null, as shown by the distribution on the right. Note that the Type II error rate is the area under the alternative distribution within the quantiles determined by the null distribution and the confidence level. We can calculate the type II error rate for the distributions above as follows:
+In [15]:
+lower_quantile = stats.norm.ppf(0.025)  # Lower cutoff value
+upper_quantile = stats.norm.ppf(0.975)  # Upper cutoff value
+
+# Area under alternative, to the left the lower cutoff value
+low = stats.norm.cdf(lower_quantile,    
+                     loc=3,             
+                     scale=2)
+
+# Area under alternative, to the left the upper cutoff value
+high = stats.norm.cdf(upper_quantile, 
+                      loc=3, 
+                      scale=2)          
+
+# Area under the alternative, between the cutoffs (Type II error)
+high-low
+Out[15]:
+0.29495606111232298
+With the normal distributions above, we'd fail to reject the null hypothesis about 30% of the time because the distributions are close enough together that they have significant overlap.
+Wrap Up
+The t-test is a powerful tool for investigating the differences between sample and population means. T-tests operate on numeric variables; in the next lesson, we'll discuss statistical tests for categorical variables.
+
+-->
+
+<!--
+
+https://www.surveysystem.com/sscalc.htm
+
+Sample Size Calculator
+This Sample Size Calculator is presented as a public service of Creative Research Systems survey software. You can use it to determine how many people you need to interview in order to get results that reflect the target population as precisely as needed. You can also find the level of precision you have in an existing sample.
+
+Before using the sample size calculator, there are two terms that you need to know. These are: confidence interval and confidence level. If you are not familiar with these terms, click here. To learn more about the factors that affect the size of confidence intervals, click here.
+
+Enter your choices in a calculator below to find the sample size you need or the confidence interval you have. Leave the Population box blank, if the population is very large or unknown.
+
+Determine Sample Size
+
+Confidence Level:	95%  99%
+Confidence Interval:	
+Population:	
+    	    	
+Sample size needed:	
+Find Confidence Interval
+Confidence Level:	95%  99%
+Sample Size:	
+Population:	
+Percentage:	
+50
+    		    	
+Confidence Interval:	
+
+
+Sample Size Calculator Terms: Confidence Interval & Confidence Level
+The confidence interval (also called margin of error) is the plus-or-minus figure usually reported in newspaper or television opinion poll results. For example, if you use a confidence interval of 4 and 47% percent of your sample picks an answer you can be "sure" that if you had asked the question of the entire relevant population between 43% (47-4) and 51% (47+4) would have picked that answer.
+
+The confidence level tells you how sure you can be. It is expressed as a percentage and represents how often the true percentage of the population who would pick an answer lies within the confidence interval. The 95% confidence level means you can be 95% certain; the 99% confidence level means you can be 99% certain. Most researchers use the 95% confidence level.
+
+When you put the confidence level and the confidence interval together, you can say that you are 95% sure that the true percentage of the population is between 43% and 51%. The wider the confidence interval you are willing to accept, the more certain you can be that the whole population answers would be within that range.
+
+For example, if you asked a sample of 1000 people in a city which brand of cola they preferred, and 60% said Brand A, you can be very certain that between 40 and 80% of all the people in the city actually do prefer that brand, but you cannot be so sure that between 59 and 61% of the people in the city prefer the brand.
+
+Factors that Affect Confidence Intervals
+There are three factors that determine the size of the confidence interval for a given confidence level:
+
+Sample size
+Percentage
+Population size
+Sample Size
+The larger your sample size, the more sure you can be that their answers truly reflect the population. This indicates that for a given confidence level, the larger your sample size, the smaller your confidence interval. However, the relationship is not linear (i.e., doubling the sample size does not halve the confidence interval).
+
+Percentage
+Your accuracy also depends on the percentage of your sample that picks a particular answer. If 99% of your sample said "Yes" and 1% said "No," the chances of error are remote, irrespective of sample size. However, if the percentages are 51% and 49% the chances of error are much greater. It is easier to be sure of extreme answers than of middle-of-the-road ones.
+
+When determining the sample size needed for a given level of accuracy you must use the worst case percentage (50%). You should also use this percentage if you want to determine a general level of accuracy for a sample you already have. To determine the confidence interval for a specific answer your sample has given, you can use the percentage picking that answer and get a smaller interval.
+
+Population Size
+How many people are there in the group your sample represents? This may be the number of people in a city you are studying, the number of people who buy new cars, etc. Often you may not know the exact population size. This is not a problem. The mathematics of probability prove that the size of the population is irrelevant unless the size of the sample exceeds a few percent of the total population you are examining. This means that a sample of 500 people is equally useful in examining the opinions of a state of 15,000,000 as it would a city of 100,000. For this reason, The Survey System ignores the population size when it is "large" or unknown. Population size is only likely to be a factor when you work with a relatively small and known group of people (e.g., the members of an association).
+
+The confidence interval calculations assume you have a genuine random sample of the relevant population. If your sample is not truly random, you cannot rely on the intervals. Non-random samples usually result from some flaw or limitation in the sampling procedure. An example of such a flaw is to only call people during the day and miss almost everyone who works. For most purposes, the non-working population cannot be assumed to accurately represent the entire (working and non-working) population. An example of a limitation is using an opt-in online poll, such as one promoted on a website. There is no way to be sure an opt-in poll truly represents the population of interest.
+
+-->
+
+<!--
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4279315/?report=printable
+
+Ayu. 2014 Apr-Jun; 35(2): 119–123.
+doi:  10.4103/0974-8520.146202
+PMCID: PMC4279315
+PMID: 25558154
+Some basic aspects of statistical methods and sample size determination in health science research
+V. S Binu, Shreemathi S. Mayya, and Murali Dhar1
+Department of Statistics, Manipal University, Manipal, Karnataka, India
+1Department of Population Policies and Programmes, International Institute for Population Sciences, Deonar, Mumbai, Maharashtra, India
+Address for correspondence: Dr. Murali Dhar, Asso. Prof. Department of Population Policies and Programmes, International Institute for Population Sciences, Govandi Station Road, Deonar, Mumbai - 400 088, Maharashtra, India. E-mail: ten.spii@rahd.m
+Copyright : © AYU (An International Quarterly Journal of Research in Ayurveda)
+This is an open-access article distributed under the terms of the Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Go to:
+Abstract
+A health science researcher may sometimes wonder “why statistical methods are so important in research?” Simple answer is that, statistical methods are used throughout a study that includes planning, designing, collecting data, analyzing and drawing meaningful interpretation and report the findings. Hence, it is important that a researcher knows the concepts of at least basic statistical methods used at various stages of a research study. This helps the researcher in the conduct of an appropriately well-designed study leading to valid and reliable results that can be generalized to the population. A well-designed study possesses fewer biases, which intern gives precise, valid and reliable results. There are many statistical methods and tests that are used at various stages of a research. In this communication, we discuss the overall importance of statistical considerations in medical research with the main emphasis on estimating minimum sample size for different study objectives.
+
+Keywords: Applications, health-sciences-research, sample-size, statistics
+Go to:
+Introduction
+Statistics is a branch of science concerned with (i) The collection, organization, summarization and analysis of data and (ii) the drawing of inferences about whole body of data when only a part of the data is observed.[1] Statistics has a role in a study starting from planning, designing, collecting data, analyzing until drawing meaningful interpretation from it. Many health science researchers may wonder around the question “why statistical methods are so important in research?” The answer is “bad statistics lead to bad research and bad research is unethical.”[2] Statistical methods revolutionized science in 20th century[3] with a vast majority of advanced methodological developments taking place during this period. Further, the invention of high end computers toward the end of the last century enabled the researchers to apply advanced statistical methods in their research with ease and comfort in computations. The ease in computations has, at least to some extent; changed the course of analytical considerations. For example, sophisticated multivariate methods are no more considered as difficult to apply from computations point of view. Today, statistics is an indispensable tool in each and every field of health science research, whether it is Medicine, Ayurveda, Pharmacy, Dental or other allied health sciences. Statistics helps even clinicians in extracting vital information from the empirical data that ultimately lead to improved patient care. Statistical concepts are required to be considered throughout a study, from planning to the final reporting stage. This article provides a brief overview of statistical methods used at various stages of a research study with the main emphasis on estimation of minimum sample size for various types of objectives.
+
+Go to:
+Role of Statistics in Research Studies
+The first step in any research study is to clearly state aims of the study followed by its objectives, which are focused at achieving the aim. Many use the terms aim and objective interchangeably, whereas the two terms have their own meaning with clear-cut distinction. Aim of the study is a general statement about main and broad study question, meaning that it is not measurable. On the other hand, objectives of a research study should be (Specific, Measureable, Achievable, Relevant and Time-bound) and limited in number. Before stating the objectives, the researcher should know about the types of variables and/or attributes being assessed in the study, especially the exposure and outcome measurements and distinction between the two in the analytical studies. This is required in order to ensure the characteristics of the objectives stated above. The second step is to choose the appropriate study design for meeting the stated objectives, which depends on many factors related to study, such as, study question/aim, availability of the fund and other logistic resources, type of study subjects/variables, etc., After selecting the study design, the third step is to define the target population and also the method of selecting study participants from this population. Statistical techniques called sampling types/methods are used for selecting subjects from a study population to form the sample. There are broadly two types of sampling methods namely probability (random) sampling and non-probability (non-random) sampling methods. Statistical methods pertaining to inference have been developed based on assumptions that study participants are randomly selected, i.e., the sampling method used should be a probability sampling. Even within probability sampling, there are a number of ways of selecting a sample randomly. The choice of probability sampling method to be used in a study depends on the objective of the study, heterogeneity of characteristics of individuals in the study population and also the feasibility of getting study participants in terms of cost, time and manpower.
+
+Once the study design and sampling technique has been finalized the fourth step in a study is to estimate the sample size. This aspect is being dealt in detail in the present communication.
+
+The fifth step in a research study is to decide on data collection tools used for collecting relevant information from the selected participants. Some studies require the researcher to develop new tools for data collection. Statistical methods are used for the development and validation of research tools. Reliability coefficients such as Cronbach's alpha, intra-class correlation coefficient, split-half coefficient etc., are used for measuring the reliability of a questionnaire. Another aspect of tool preparation is validity, which requires looking for content, criterion and face validity. Once data collection is over it has to undergo quality checking, coding and computer entry.
+
+The sixth step in a research study is to perform appropriate statistical analysis. The first step in data analysis is to compute descriptive statistics for all important variables in the study. The descriptive statistics summarize various aspects about the data, giving details about the selected sample.[4] To summarize the data, we use several statistical summary measures such as mean, median, standard deviation, inter quartile range, percentages etc., depending upon the type of variable, measurement scale used and the variability in each of the variables. Descriptive statistics is followed by inferential statistics dealing with generalization of the sample results to the population. Confidence intervals (CIs) are presented to take account of sampling error involved in the estimates and tests of significance are applied to find whether the results observed from a sample is due to chance or not. There are many statistical tests, but the choice depends on many factors such as the objective of the study, type of variables and measurement scales used, sample size, number of groups to be compared, number of variables, distribution of the outcome variable etc.[5] Statistical hypothesis tests are broadly classified in to two categories; based on whether they mandate the assumption of the distribution of variable under study as normal or not. Parametric tests have been built under the assumption that the variable under consideration follows the normal distribution. Non-parametric tests on the other hand, do not require any distributional assumption about the variable under consideration in the study population. Hence, non-parametric tests are called distribution free tests. However, one should know that the non-parametric tests bring the ease in their application on the cost of sacrificing the power of the study, a main concern in clinical studies.
+
+The final step in a research study is to communicate the results and interpretations using the appropriate figures and tables. A table of appropriate summary measures for variables in the study with the number of subjects in each category is a necessary one to brief the sampled data. Reporting a CI for every population parameter became a mandatory pre-requisite in modern research. Several authors have discussed about the principles and reporting of CIs.[6,7,8,9,10,11,12,13,14] It is recommended to report both CI and exact P value instead of reporting only P < 0.05 or as P < 0.01 etc., The next section discuss about the determination of minimum sample size required for studies with a common type of objectives.
+
+Go to:
+Estimation of Minimum Sample Size Required for a Study
+The problem of sample size estimation can be broadly of two types namely (a) Sample size for an estimation study and (b) sample size for a hypothesis testing study, i.e., comparison study. In an estimation study, the researcher is interested in estimating the quantum of one or more characteristics of the population called parameter(s), for example, mean hemoglobin level or prevalence of arthritis, etc., In hypothesis testing studies, the investigators are interested in comparing a characteristic of the population for one or more time points or a characteristic of two or more populations, for example, comparison of prevalence of arthritis before and after administration of some intervention or between two populations. The objective of calculating sample size in an estimation study is to estimate the value of the parameter under study for a prefixed precision and level of confidence. If a researcher wants the estimate to be more precise in his study then he should select a large number of subjects, i.e., as precision increases (or margin of error decreases) the minimum sample size required increases. Similarly, the sample size increases with the increase in level of confidence. For example, the sample size required for estimating a parameter with 99% confidence level is more than that required for 95% confidence level. In testing of hypothesis studies, the objective of sample size calculation is to achieve a desired power for detecting a clinically or scientifically meaningful difference at a prefixed level of significance.[15] Power of a study is the probability of rejecting a null hypothesis, which is false. Level of significance is the threshold set on the probability of rejecting a null hypothesis, which is true. In this section, we see how one can find the minimum sample size for (a) Estimating a population mean, (b) estimating a population proportion, (c) testing the equality of two means and (d) testing the equality of two proportions.
+
+Sample size for estimating a population mean
+The sample size formula for estimating a population mean is given by
+
+An external file that holds a picture, illustration, etc.
+Object name is AYU-35-119-g001.jpg
+
+where, Z1-α/2 is the value obtained from the standard normal distribution table for 100 (1-α)% confidence level. Its value for 95% and 99% confidence level is 1.96 and 2.58 respectively.
+
+σ is the population standard deviation, which is majority of times unknown. The value of σ can be taken from a similar published study or based on a pilot study. For the pilot study, there is no need of sample size estimation; one can do a pilot study according to the number available. d is the absolute allowable error (or precision) in the estimation.
+
+Thus, the minimum sample size (n) required for estimating a population mean is directly proportional to the level of confidence and the standard deviation, whereas it is inversely proportional to the absolute error that is allowed in the estimation.
+
+For example, an Ayurveda physician wants to estimate the average age of patients visiting his clinic. If the allowable error in estimating the average age is within ±2 years, confidence level of 95% and assumed the standard deviation of age of patients visiting the clinic is 8 years, the minimum sample size required for his study is obtained as
+
+An external file that holds a picture, illustration, etc.
+Object name is AYU-35-119-g002.jpg
+
+In the above example if the researcher wants 99% confidence level, the sample size becomes
+
+An external file that holds a picture, illustration, etc.
+Object name is AYU-35-119-g003.jpg
+
+Similarly, the minimum number of subjects required for the above study at 95% confidence level and allowable error of ± 1 year is 246.
+
+Sample size for estimating a population proportion (or prevalence)
+The sample size formula for estimating a population proportion is given by
+
+An external file that holds a picture, illustration, etc.
+Object name is AYU-35-119-g004.jpg
+
+where, Z1-α/2 is as defined earlier, P is the anticipated proportion of the condition in the study population and ε is the relative precision. An estimate for the anticipated proportion in the study population can be obtained from previous studies conducted in the same population or from a pilot study.
+
+Thus, the minimum sample size n required for estimating the proportion of a rare condition in the study population is large compared with that of a common condition. Furthermore, the sample size decreases as the value of relative precision ε increases.
+
+For example, a survey was planned to assess the prevalence of current Ayurveda use among an urban adult population in India. It was anticipated that in the study population the current prevalence of Ayurveda use was 30%. The minimum sample size required for this study for relative precision of 10% and confidence level of 95% is given by
+
+An external file that holds a picture, illustration, etc.
+Object name is AYU-35-119-g005.jpg
+
+Hence, the above study requires a minimum of 897 participants to estimate the prevalence of Ayurveda use in the study population with relative precision of 10% and confidence level of 95%.
+
+Sample size for testing equality of two population means
+If the primary objective of a study is to test the null hypothesis of equality of means of two independent populations then the formula for estimating the sample size in each of the study group is given by
+
+An external file that holds a picture, illustration, etc.
+Object name is AYU-35-119-g006.jpg
+
+where, n is the minimum sample size required in each group (equal allocation and hence total sample size is 2n), Z1-α/2 is the two-tailed standard normal distribution table value for 100 α% level of significance, Z1-β is the value of standard normal distribution table value for 100 β% Type II error or 100× α% power of the study. Usually, the power of a study is selected as 80% (β = 0.2) or 90% (β = 0.1) and the value of Z1-β is respectively 0.842 and 1.282.
+
+S is the pooled standard deviation (or average of two population standard deviations), which can be obtained from previous literature or from a pilot study.
+
+The most important component in sample size estimation for hypothesis testing is fixing the minimum clinically or scientifically meaningful difference between two population means, which is given by d in the above equation. The researcher has to fix the value of d based on clinical or scientific judgment and not based on results of the pilot study or previous literature. The clinically significant difference should be a difference that makes some real difference. Thus, the minimum sample size required for testing the equality of two population means depends on:
+
+The level of significance (inversely proportional)
+Power of the study (directly proportional)
+Pooled standard deviation of the variable under study (directly proportional)
+The minimum clinically significant difference (inversely proportional).
+The above formula is used for selecting equal number of subjects in each of the study group. Sometimes the investigators want higher number of subjects in control/standard drug group. For example, in a clinical trial the research team wants more number of subjects to be recruited in the standard treatment arm than in the new treatment arm. If the sample size nc in the standard treatment group is to be k times the size nt of new treatment group, i.e., nc= k nt, then nt is given by
+
+An external file that holds a picture, illustration, etc.
+Object name is AYU-35-119-g007.jpg
+
+Thus, the total number of subjects required for a clinical trial in which the allocation to the treatment and controlled group is in the ratio of 1:2 is 12.5% more than that required for a 1:1 allocation. Similarly, a study which allocates 1:3 requires a sample size of 33% more than that required for 1:1 allocation.[16] The sample size required for comparison of more than two population means depends on the number of groups to be compared in addition to all the above mentioned factors. In this case, the value of Z1-α/2 has to be adjusted for the number of comparisons made between the study populations. Hence, sample size in this situation increases with the increase in number of group comparisons.
+
+For example, a randomized controlled trial has been planned to compare the efficacy of an Ayurvedic medication with a placebo in controlling the thyroid stimulating hormone (TSH) levels among subjects with hypothyroidism. The researchers consider a difference of 3 mlU/L in TSH level between the two groups as clinically important and they want 80% power to detect this difference at 5% level of significance. A pilot study showed the pooled standard deviation of TSH levels to be 5 mlU/L. Then, the minimum number of subjects required in each group is computed as
+
+An external file that holds a picture, illustration, etc.
+Object name is AYU-35-119-g008.jpg
+
+In the above study if the researchers want 90% power then the sample size in each group is
+
+An external file that holds a picture, illustration, etc.
+Object name is AYU-35-119-g009.jpg
+
+Similarly, in the above example if the level of significance is fixed at 1% and power at 80%, the minimum sample size required is
+
+An external file that holds a picture, illustration, etc.
+Object name is AYU-35-119-g010.jpg
+
+Sample size for testing equality of two population proportions
+The sample size required for testing the null hypothesis of equal proportion of a particular condition under study in two independent populations is given by
+
+An external file that holds a picture, illustration, etc.
+Object name is AYU-35-119-g011.jpg
+
+n is the minimum number of subjects required in each group, P1 and P2 are proportions of the disease or condition expected in two independent populations. In the above equation, the denominator term P1–P2 is the minimum clinically significant difference between the two proportions and as mentioned earlier the researcher has to fix it. Once the researcher fixes the minimum clinically significant difference and also he knows either P1 or P2, then he can obtain the proportion in the other group.
+
+For example it was planned to conduct a randomized controlled trial to compare the percentage survival 5 years of diagnosis of breast cancer between two treatment groups. One half of the study participants with confirmed breast cancer will be randomly allocated to intervention (a new treatment) group and the other half to the control group (standard treatment). The investigators consider a difference of 6% between the two groups as clinically significant. It is known that the percentage of survival after 5 years in the standard treatment group is 70%. Then one would expect a percentage survival of 76% (or 64%) in the intervention group. Then, the minimum sample size required in each group at 80% power and 5% level of significance is obtained as (assuming no loss to follow-up)
+
+An external file that holds a picture, illustration, etc.
+Object name is AYU-35-119-g012.jpg
+
+Approximately, 860 breast cancer patients are required in each group to detect a clinically significant difference of 6% between the two treatment groups at 80% power and 5% level of significance. In the above example if the clinically significant difference is fixed at 5% (i.e., in the intervention group we expect 75% survival after 5 years) then the minimum number of subjects required in each group is 1251.
+
+The above mentioned four sample size formulas assume that the sample being selected using simple random sampling technique and the sampling distribution follows normal. There are many more sample size formulae available in the literature depending on the situations; for example, if one wants to estimate a correlation coefficient or test a regression coefficient then one needs to use a different set of formulas. Thus, the sample size formula to be used in a study depends on:
+
+The main objective of the study
+The primary outcome variable
+The study design used
+The sampling technique used and
+The summary statistics and the type of statistical analysis (estimation or testing of hypothesis) used for the main objective in the study.
+There is an abundance of literature available regarding the choice and principles of sample size estimation.[16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32] Furthermore, there are many statistical packages that provide estimates of minimum sample size. However, the researchers must provide the relevant information in order to get the correct number and to do that a researcher should have complete conceptual understanding of determining minimum sample size.
+
+Go to:
+Conclusion
+Statistical methods are applied in almost all stages of a research study from the planning and design stage to the final reporting of findings. Utmost care must be taken in choosing the right statistical method at each stage of a study. Sample size estimation is very important and choosing the right formula is crucial in all types of research studies. The selection of appropriate sample size formula depends on the primary objective of the study, the type of outcome variable, study design used, the statistical analysis planned, number of groups in the study and sampling technique to be adopted. The number of subjects to be recruited in a study depends on the power of the study, the precision of the estimated value, level of significance or confidence level, clinically significant difference and also other constraints such as money, manpower, availability of subjects and time in particular and feasibility in general. There are many statistical tests and the choice of appropriate analysis depends on the objective of the study, types of the outcome variable, number of variables, sample size, number of groups in the study, whether the groups are related or not and also on distributional assumptions.
+
+Go to:
+Footnotes
+Source of Support: Nil
+
+Conflict of Interest: None declared.
+
+Go to:
+References
+1. Daniel WW. 7th ed. Singapore, Asia: John Wiley and Sons Pte. Ltd; 2004. Biostatistics: A Foundation for Analysis in Health Sciences.
+2. Bland M. 2nd ed. England: Oxford University Press; 1995. An Introduction to Medical Statistics.
+3. Applegate KE, Crewson PE. Statistical literacy. Radiology. 2004;230:613–4. [PubMed: 14990828]
+4. Larson MG. Descriptive statistics and graphical displays. Circulation. 2006;114:76–81. [PubMed: 16818830]
+5. McCluskey A, Lalkhen GA. Statistics III: Probability and statistical tests. Contin Educ Anaest Crit Care Pain. 2007;7:167–70.
+6. Montori VM, Kleinbart J, Newman TB, Keitz S, Wyer PC, Moyer V, et al. Tips for learners of evidence-based medicine: 2. Measures of precision (confidence intervals) CMAJ. 2004;171:611–5. [PMCID: PMC516199] [PubMed: 15367466]
+7. Curran-Everett D. Explorations in statistics: Confidence intervals. Adv Physiol Educ. 2009;33:87–90. [PubMed: 19509392]
+8. du Prel JB, Hommel G, Röhrig B, Blettner M. Confidence interval or P-value?: Part 4 of a series on evaluation of scientific publications. Dtsch Arztebl Int. 2009;106:335–9. [PMCID: PMC2689604] [PubMed: 19547734]
+9. Gardner MJ, Altman DG. Confidence intervals rather than P-values: Estimation rather than hypothesis testing. Br Med J (Clin Res Ed) 1986;292:746–50. [PMCID: PMC1339793]
+10. Poole C. Low P-values or narrow confidence intervals: Which are more durable? Epidemiology. 2001;12:291–4. [PubMed: 11337599]
+11. Rigby AS. Getting past the statistical referee: Moving away from P-values and towards interval estimation. Health Educ Res. 1999;14:713–5. [PubMed: 10585379]
+12. Potter RH. Significance level and confidence interval. J Dent Res. 1994;73:494–6. [PubMed: 8120210]
+13. Evans SJ, Mills P, Dawson J. The end of the P value? Br Heart J. 1988;60:177–80. [PMCID: PMC1216550] [PubMed: 3052552]
+14. Attia A. Why should researchers report the confidence interval in modern research? Middle East Fertil Soc J. 2005;10:78–81.
+15. Chow CS, Wang H, Shao J. USA: Chapman and Hall/CRC Press; 2003. Sample Size Calculation in Clinical Research.
+16. Wittes J. Sample size calculations for randomized controlled trials. Epidemiol Rev. 2002;24:39–53. [PubMed: 12119854]
+17. Endacott R, Botti M. Clinical research 3: Sample selection. Accid Emerg Nurs. 2007;15:234–8. [PubMed: 17420129]
+18. Neely JG, Karni RJ, Engel SH, Fraley PL, Nussenbaum B, Paniello RC. Practical guides to understanding sample size and minimal clinically important difference (MCID) Otolaryngol Head Neck Surg. 2007;136:14–8. [PubMed: 17210326]
+19. Devane D, Begley CM, Clarke M. How many do I need? Basic principles of sample size estimation. J Adv Nurs. 2004;47:297–302. [PubMed: 15238124]
+20. Columb OM, Stevens A. Power analysis and sample size calculations. Curr Anaesth Crit Care. 2008;19:12–4.
+21. Brasher PM, Brant RF. Sample size calculations in randomized trials: Common pitfalls. Can J Anaesth. 2007;54:103–6. [PubMed: 17272248]
+22. Schulz KF, Grimes DA. Sample size calculations in randomised trials: Mandatory and mystical. Lancet. 2005;365:1348–53. [PubMed: 15823387]
+23. Jones SR, Carley S, Harrison M. An introduction to power and sample size estimation. Emerg Med J. 2003;20:453–8. [PMCID: PMC1726174] [PubMed: 12954688]
+24. Donner A. Approaches to sample size estimation in the design of clinical trials – A review. Stat Med. 1984;3:199–214. [PubMed: 6385187]
+25. Lwanga KS, Lemeshow S. Geneva: WHO; 1992. Sample Size Determination in Health Studies: A Practical Manual.
+26. Campbell MJ, Julious SA, Altman DG. Estimating sample sizes for binary, ordered categorical, and continuous outcomes in two group comparisons. BMJ. 1995;311:1145–8. [PMCID: PMC2551061] [PubMed: 7580713]
+27. Parker AR, Bermman GN. Sample size: More than calculations. Am Stat. 2003;57:166–70.
+28. Lenth VR. Some practical guidelines for effective sample size determination. Am Stat. 2001;55:187–93.
+29. Eng J. Sample size estimation: How many individuals should be studied? Radiology. 2003;227:309–13. [PubMed: 12732691]
+30. Florey CD. Sample size for beginners. BMJ. 1993;306:1181–4. [PMCID: PMC1677669] [PubMed: 8499826]
+31. Woodward M. Sample size, power and minimum detectable relative risk in medical studies. J R Stat Soc Series D Stat. 1992;41:185–96.
+32. Bacchetti P, Wolf LE, Segal MR, McCulloch CE. Ethics and sample size. Am J Epidemiol. 2005;161:105–10. [PubMed: 15632258]
 -->

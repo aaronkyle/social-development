@@ -118,3 +118,50 @@ ANNEX 2:
 %%{INSERT: [Site Selection and Lines of Focused Inquiry]}%%
 
 ----
+
+<!--
+
+https://datascience.stackexchange.com/questions/19943/what-is-a-large-enough-sample-size/19946
+
+What is a large enough sample size?
+
+It highly depends, If you want to make inferences on the total population you need to determine what margin of error and what confidence level you can allow for. These will then help you determine the needed sample size. 
+
+If we would want to estimate the population mean $\mu$. The maximum difference between the sample mean $\bar x$ and $\mu$ is given by: 
+
+$$ \epsilon = z_{\frac{\alpha}{2}}\frac{\sigma}{\sqrt{n}}  $$
+
+Where $n$ is the sample size, $\sigma$ is the population standard deviation and $z_{\frac{\alpha}{2}}$ is commonly called the critical value which is derived from the standard normal distribution. These values can be found in tables or using r or python, e.g 1.96 corresponds to a 95% confidence level. 
+
+Knowing $\sigma$ (you usually don't) will allow you to determine the sample size needed to approximate $\mu$ within $\pm \epsilon $ with a confidence level of $1-\alpha$. You can try using $\sigma =  \frac{1}{2}$ which is usually enough. There exists methods for determining $\sigma$ as well. Anyhow, you may rearrange the above relation as follows: 
+
+$$ n = \bigg ( \frac{z_\frac{\alpha}{2}\sigma }{\epsilon}  \bigg )^2 $$
+
+In fact, this question is quite hard to answer. There are many factors that determine the sample size needed for your study. You should definitely go through some material on basic statstics starting with 
+[Awesome probability theory][1] and go on studying inferential statistics.    
+
+It is worth taking some time to understand what the total population is in your case and with regard to the inferential question, does the sample include enough relevant observations? I do not feel that enough info is given in your question to provide a good answer.  
+
+You may look at similar surveys conducted and see what sample sizes they have used. 
+
+Another common approach, when you don't know much about your population is using *Slovin's formula* : 
+
+$$n = \frac{N}{(1+N \epsilon ^2)}$$
+
+Where $N$ is the total population. As an example given a confidence level of 98% $\rightarrow \epsilon = 0.02$  and a total population of 600. we would get  
+
+$$n = \frac{600}{1+600\times0.02^2} = 484.$$
+
+Note that *Slovin's formula*  is easily misused but can give you a good starting point. 
+
+I would highly recommend studying statistics if you are planning to continue working with DS.
+
+Hope this provided some help at least. 
+  
+
+ 
+
+
+  [1]: https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
+
+-->

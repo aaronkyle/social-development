@@ -1774,3 +1774,497 @@ Hope this provided some help at least.
   [1]: https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
 -->
+
+<!--
+
+https://towardsdatascience.com/inferential-statistics-series-t-test-using-numpy-2718f8f9bf2f
+
+
+
+T-test using Python and Numpy
+
+Although popular statistics libraries like SciPy and PyMC3 have pre-defined functions to compute different tests, to understand the maths behind the process, it is imperative to understand whats going on in the background. This series will help you understand different statistical tests and how to perform them in python using only Numpy.
+
+A t-test is one of the most frequently used procedures in statistics. But even people who frequently use t-tests often don’t know exactly what happens when their data are wheeled away and operated upon behind the curtain using software like Python and R.
+
+What is t-test?
+The t test (also called Student’s T Test) compares two averages (means) and tells you if they are different from each other. The t test also tells you how significant the differences are; In other words it lets you know if those differences could have happened by chance.
+
+
+t-distribution
+A very simple example: Let’s say you have a cold and you try a naturalistic remedy. Your cold lasts a couple of days. The next time you have a cold, you buy an over-the-counter pharmaceutical and the cold lasts a week. You survey your friends and they all tell you that their colds were of a shorter duration (an average of 3 days) when they took the homeopathic remedy. What you really want to know is, are these results repeatable? A t test can tell you by comparing the means of the two groups and letting you know the probability of those results happening by chance.
+
+Another example: Student’s T-tests can be used in real life to compare means. For example, a drug company may want to test a new cancer drug to find out if it improves life expectancy. In an experiment, there’s always a control group (a group who are given a placebo, or “sugar pill”). The control group may show an average life expectancy of +5 years, while the group taking the new drug might have a life expectancy of +6 years. It would seem that the drug might work. But it could be due to a fluke. To test this, researchers would use a Student’s t-test to find out if the results are repeatable for an entire population.
+
+What is t-score?
+The t score is a ratio between the difference between two groups and the difference within the groups. The larger the t score, the more difference there is between groups. The smaller the t score, the more similarity there is between groups. A t score of 3 means that the groups are three times as different from each other as they are within each other. When you run a t test, the bigger the t-value, the more likely it is that the results are repeatable.
+
+A large t-score tells you that the groups are different.
+A small t-score tells you that the groups are similar.
+What are T-Values and P-values?
+How big is “big enough”? Every t-value has a p-value to go with it. A p-value is the probability that the results from your sample data occurred by chance. P-values are from 0% to 100%. They are usually written as a decimal. For example, a p value of 5% is 0.05. Low p-values are good; They indicate your data did not occur by chance. For example, a p-value of .01 means there is only a 1% probability that the results from an experiment happened by chance. In most cases, a p-value of 0.05 (5%) is accepted to mean the data is valid.
+
+Types of t-tests?
+There are three main types of t-test:
+1. An Independent Samples t-test compares the means for two groups.
+2. A Paired sample t-test compares means from the same group at different times (say, one year apart).
+3. A One sample t-test tests the mean of a single group against a known mean.
+
+How to perform a 2 sample t-test?
+Lets us say we have to test whether the height of men in the population is different from height of women in general. So we take a sample from the population and use the t-test to see if the result is significant.
+
+Steps:-
+
+Determine a null and alternate hypothesis.
+In general, the null hypothesis will state that the two populations being tested have no statistically significant difference. The alternate hypothesis will state that there is one present. In this example we can say that:
+
+2. Collect sample data
+Next step is to collect data for each population group. In our example we will collect 2 sets of data, one with the height of women and one with the height of men. The sample size should ideally be the same but it can be different. Lets say that the sample sizes are nx and ny.
+
+3. Determine a confidence interval and degrees of freedom
+This is what we call alpha (α). The typical value of α is 0.05. This means that there is 95% confidence that the conclusion of this test will be valid. The degree of freedom can be calculated by the the following formula:
+
+
+4. Calculate the t-statistic
+t-statistic can be calculated using the below formula:
+
+
+where, Mx and My are the mean values of the two samples of male and female.
+Nx and Ny are the sample space of the two samples
+S is the standard deviation
+
+5. Calculate the critical t-value from the t distribution
+To calculate the critical t-value, we need 2 things, the chosen value of alpha and the degrees of freedom. The formula of critical t-value is complex but it is fixed for a fixed pair of degree of freedom and value of alpha. We therefore use a table to calculate the critical t-value:
+
+
+In python, rather than looking up in the table we will use a function from the sciPy package. (I promise u, its the only time we will use it!)
+
+6. Compare the critical t-values with the calculated t statistic
+If the calculated t-statistic is greater than the critical t-value, the test concludes that there is a statistically significant difference between the two populations. Therefore, you reject the null hypothesis that there is no statistically significant difference between the two populations.
+
+In any other case, there is no statistically significant difference between the two populations. The test fails to reject the null hypothesis and we accept the alternate hypothesis which says that the height of men and women are statistically different.
+
+Lets Code:
+
+```
+## Import the packages
+import numpy as np
+from scipy import stats
+
+
+## Define 2 random distributions
+#Sample Size
+N = 10
+#Gaussian distributed data with mean = 2 and var = 1
+a = np.random.randn(N) + 2
+#Gaussian distributed data with with mean = 0 and var = 1
+b = np.random.randn(N)
+
+
+## Calculate the Standard Deviation
+#Calculate the variance to get the standard deviation
+
+#For unbiased max likelihood estimate we have to divide the var by N-1, and therefore the parameter ddof = 1
+var_a = a.var(ddof=1)
+var_b = b.var(ddof=1)
+
+#std deviation
+s = np.sqrt((var_a + var_b)/2)
+s
+
+
+
+## Calculate the t-statistics
+t = (a.mean() - b.mean())/(s*np.sqrt(2/N))
+
+
+
+## Compare with the critical t-value
+#Degrees of freedom
+df = 2*N - 2
+
+#p-value after comparison with the t 
+p = 1 - stats.t.cdf(t,df=df)
+
+
+print("t = " + str(t))
+print("p = " + str(2*p))
+#Note that we multiply the p value by 2 because its a twp tail t-test
+### You can see that after comparing the t statistic with the critical t value (computed internally) we get a good p value of 0.0005 and thus we reject the null hypothesis and thus it proves that the mean of the two distributions are different and statistically significant.
+
+
+## Cross Checking with the internal scipy function
+t2, p2 = stats.ttest_ind(a,b)
+print("t = " + str(t2))
+print("p = " + str(2*p2))
+
+```
+
+-->
+
+<!--
+
+https://help.surveymonkey.com/articles/en_US/kb/How-many-respondents-do-I-need
+
+
+Calculating the Number of Respondents You Need
+The number of respondents you need depends on your survey goals and how confident you want to be in your results. The more confident you want to be, the less of a margin of error you should accept.
+
+To calculate the number of respondents you need (known as your sample size), use our sample size calculator.
+
+TIP! If you need a guaranteed number of respondents, buy survey responses from SurveyMonkey Audience. You specify the number of responses you need and we'll use your targeting criteria to find you respondents.
+Definitions
+To calculate your sample size, you'll need to know the following information:
+
+Your population size is the size of the entire population you wish to represent.
+
+Population: The entire group you're interested in making conclusions about.
+Sample: The group you're surveying.
+Think about the potential size of your target population. For example, if you're sending a survey to male iPhone users in California, you may need to do some research to determine how many total men fit that criteria.
+
+Margin of error tells you how much error surrounds a measure. It's a percentage that describes how much the opinions and behavior of the sample you survey is likely to deviate from the total population. To calculate your margin of error, use our margin of error calculator.
+
+The smaller the margin of error is, the closer you are to having the exact answer at a given confidence level.
+
+In general, the larger your sample size, the lower the margin of error. The closer your sample is in size to your population, the more representative your results are likely to be. And that’s why you’ll notice that the recommended sample size in the table below gets smaller as your tolerance for error gets larger.
+
+For example, let's say we asked 400 people if they have a favorable or unfavorable opinion of Barack Obama and 55% say favorable. Using a 95% confidence level and ±5% margin of error, if we repeated this survey 100 times under the same conditions, 95 out of 100 times, the response would be somewhere between 50% and 60%.
+
+A confidence level tells you how reliable a measure is. Common standards used by researchers are 90%, 95%, and 99%.
+
+A 95% confidence level means if the same survey were to be repeated 100 times under the same conditions, 95 times out of 100 the measure would lie somewhere within the margin of error.
+
+When calculating your sample size, you'll use the z-score for your confidence level. The z-score is the number of standard deviations a given proportion is away from the mean.
+
+Confidence Level
+z-score
+90%	1.65
+95%	1.96
+99%	2.58
+ 
+ 
+ Sample size requirements vary based on the percentage of your sample that picks a particular answer. For example, if in a previous survey you found that 75% of your customers said yes they are satisfied with your product and you are looking to conduct that survey again, you can use p = 0.75 to calculate your needed sample size.
+
+If you're running a survey for the first time, and since most surveys have more than one question (and therefore more than one percentage value to evaluate), we recommend using p = 0.5 to calculate your optimum sample size. This produces a sample size estimate that is neither too conservative nor too loose.
+
+Calculating Sample Size
+Calculate the number of respondents you need in seconds using our sample size calculator. If you’d like to do the sample size calculation by hand, use the following formula:
+
+![](https://help.surveymonkey.com/servlet/servlet.ImageServer?id=01530000003EKKb&oid=00D30000001HuKJ)
+
+
+tatistic
+Description
+N	Population Size
+e	Margin of Error (as a decimal)
+z	Confidence Level (as a z-score)
+p	Percentage Value (as a decimal)
+
+Suggested Sample Sizes
+Below is a table with suggested population sizes by margin of error at a 95% confidence level. We used the above formula to calculate the suggested sample sizes. In some cases, we rounded the sample sizes up to the nearest 5 or 10. For a more exact calculation, use our sample size calculator.
+
+Population Size	Sample Size per Margin of Error
+ 	
+±3%
+±5%
+±10%
+500
+345
+220
+80
+1,000
+525
+285
+90
+3,000
+810
+350
+100
+5,000
+910
+370
+100
+10,000
+1,000
+385
+100
+100,000+
+1,100
+400
+100
+
+Example Sample Size
+You're sending a survey with a Yes or No question asking if parents of children at your school are in favor of an extended school day.
+
+The total number of parents (your population size) is 10,000 and you're comfortable with a ±10% margin of error. Using the table above, you can see you'll need at least 100 people to take your survey.
+
+70% of the 100 parents surveyed answered that they are in favor of an extended school day. This means you can assume that if all 10,000 parents answered the survey, between 60% to 80% of people would be in favor of an extended school day.
+
+How many people should I ask to take my survey?
+Your response rate may affect the number of people you send your survey to. The higher the response rate, the fewer people you need to ask to take your survey.
+
+For example, if you need 100 respondents and you expect 25% of the people invited to take your survey will actually respond, then you need to invite 400 people to take your survey.
+
+To calculate the number of people you need to invite to take your survey based on your expected response rate, use the following equation:
+
+# of respondents you need
+ x 100
+expected % response rate
+
+-->
+
+<!--
+
+
+http://veekaybee.github.io/2015/08/04/how-big-of-a-sample-size-do-you-need/
+
+Vicki Boykis Data, tech, and sometimes Nutella
+About Twitter GitHub Personal RSS
+
+How large should your sample size be?
+Aug 4, 2015
+
+
+I read a recent interview with Hadley Wickham. Two things stood out to me.
+
+The first is how down-to-earth he seems, even given how well-known he is in the data science community.
+
+The second was this quote:
+
+Big data problems [are] actually small data problems, once you have the right subset/sample/summary. Inventing numbers on the spot, I’d say 90% of big data problems fall into this category.
+
+##The technical side of sampling
+
+Even if you don’t have huge data sets (defined for me personally as anything over 10GB or 5 million rows, whichever comes first), you usually run into issues where even a fast computer will process too slowly in memory (especially if you’re using R). It will go even slower if you’re processing data remotely, as is usually the case with pulling down data from relational databases (I’m not considering Hadoop or other NoSQL solutions in this post, since they’re a different animal entirely.)
+
+In the cases where pulling down data takes longer than running regressions on it, you’ll need to sample.
+
+But how big a sample is big enough? As I’ve been working through a couple of rounds of sampling lately, I’ve found that there’s no standard rule of thumb, either in the data science community or in specific industries like healthcare and finance. The answer is, as always, “It depends.”.
+
+Before the rise of computer-generated data collection, statisticians used to have to work up to a large-enough sample. The question was, “I have to collect a lot of data. The process of collecting data, usually through paper surveys, will take a long time and be extremely expensive. How much data is enough to be accurate?”
+
+Today, the question is the opposite: “How much of this massive amount of data that we’ve collected can we throw out and still be accurate?”
+
+That was the question I was trying to answer a couple weeks ago when I was working with a SQL table that had grown to 1+ billion rows.
+
+The business side of sampling
+To understand the relationship between an entire population and a subset, let’s take a step back to see why someone might ask.
+
+Let’s say you’re the data scientist at a start-up - Goatly - that sells artisanal handcrafted medicine boxes monthly to owners of narcoleptic goats (this is a real thing and I could watch this video over and over again.
+
+Goatly has ~ 100,000 farms already in your system (who knew America had a narcoleptic goat problem?) and the CEO wants to buy a share in a private jet, so she needs the company to keep growing very quickly. A startling number of goats get much better after taking your medicine and hence, the farm leaves your service. The CEO needs you to figure out what makes these goats better and see if you can predict how many farms will be the next to leave, and as a result, how much business she needs to replace them.
+
+You think you might be able to use logistic regression to predict whether the farm will cancel Goatly (number of goats, size of goats, color of goats, how much of the pills they buy in a month, how many pills they use in a month, ratio of narcoleptic to regular goats, etc.) But when you try to run the regression on the entire data set, it fails because it’s simply too much.
+
+So you need to sample. How many farms do you need to pick to make sure that they accurately represent the total population of farms? There are some smaller farms, some larger farms, some farms with more narcoleptic goats, some farms where the farmers are more aggressive in giving the goats the medicine, etc. If you pick the wrong sample, it won’t be the same as the population, and then all the tests you plan to do later will fail.
+
+Determining sample size
+Here’s the standard equation used to calculate error. It’s often the precursor to testing the power of a test (that is, if this equation works in your favor, then you can use power of a test to figure out whether logistic regression or most other tests you use actually work on your sample). More on that at the bottom of the post.
+
+You need to know:
+
+Population size - The entire population you’re sampling (in our case, 100,000.)
+Margin of error/confidence interval - How far away are you willing to be from the population statistic?
+Confidence level - How confident do you want to be that your sample statistic (the mean, for example) matches your population?
+The two things you have to pass judgment on are:
+
+how large you want your confidence level to be: i.e. do you want to be 90% sure that you found all the farms that will cancel Goatly and leave your CEO traveling coach with the peons? 95% or 99%? In settings where you’re dealing with medical data, you want this to be 99%. Elsewhere, 95%, or even 90%, depending on what you’re doing is good enough. I asked around the Data Science Slack and the general consensus was most business settings can do with 95%, again, depending on context.
+
+margin of error By what percent the sample deviates from the population. This is the number you usually see in polls: 43% of people voted Yes on this issue, +/- 3%. Again, you’ll need to use your judgment. There is no standard of error. It’s usually anything between 1 to 4%. Let’s pick 2% for now. Just keep in mind that sample size and margin of error are related: the larger margin of error you pick, the smaller sample size you’ll need.
+
+##Putting it all together:
+
+Interpreting the results of the four stats you need for the entire equation: If we have a population size of 100,000, what number of farms can we sample and be sure that they are representative of all of the farms using Goatly 95% of the time, where our sample statistic is at most 2% below or 2% above the population mean?
+
+Calculating sample size with Python
+There are a couple ways to run a quick calculation. The fastest is probably this site. I use it a lot for quick back of the envelope calculations. Normally I would be wary of using a site whose code and methods I didn’t know, but this site is generally well-documented, and we’ll be cross-checking this value against another method.
+
+Putting in our numbers there, we get:
+
+2,345 as the sample size.
+
+image
+
+There is also a really nice Python script that does the same thing.
+
+Adjusted for my sample size and confidence interval (see my Github):
+
+def main():
+  sample_sz = 0
+  population_sz = 100000
+  confidence_level = 95.0
+  confidence_interval = 2.0
+It also returns the same number:
+
+vicki$ python samplesize.py 
+SAMPLE SIZE: 2345
+There are a couple of ways to get close to it in R, but I haven’t found anything in the pwr library so far that only requires those three things: margin of error, confidence level, and population. I also haven’t found anything in either SciPy or NumPy that does exactly this, although if I do, I’ll be sure to change the post.
+
+Wrapping up
+If you want to select a sample of farms that are representative of the whole Goatly population, you’d need to pick about 2.5k, which is much more manageable than looking at 100,000, and will allow you to get your CEO the results much more quickly. You’re happy, she’s happy, and the narcoleptic goats (the ones that are getting treated, anyway), are also happy.
+
+##Post-script on the Power of a Test
+
+Something you might often come across while reading up on picking the right sample size is “power of test.” (This can be performed once)[https://en.wikipedia.org/wiki/Statistical_power] you actually have your sample size. The power for a test gives you an acceptable Type I error. A Type I error is a false positive, or saying that a farm will leave the Goatly platform when they really won’t. What you’re really testing for is whether the sample size you’re taking matches the population.
+
+Thanks to Sandy and @perfectalgo for editing.
+
+
+-->
+
+<!--
+
+http://www.tools4dev.org/resources/how-to-choose-a-sample-size/
+
+How to choose a sample size (for the statistically challenged)
+One of the most common questions I get asked by people doing surveys in international development is “how big should my sample size be?”. While there are many sample size calculators and statistical guides available, those who never did statistics at university (or have forgotten it all) may find them intimidating or difficult to use.
+
+If this sounds like you, then keep reading. This guide will explain how to choose a sample size for a basic survey without any of the complicated formulas. For more easy rules of thumb regarding sample sizes for other situations, I highly recommend Sample size: A rough guide by Ronán Conroy and  The Survey Research Handbook by Pamela Alreck and Robert Settle.
+
+This advice is for:
+
+Basic surveys such as feedback forms, needs assessments, opinion surveys, etc. conducted as part of a program.
+Surveys that use random sampling.
+This advice is NOT for:
+
+Research studies conducted by universities, research firms, etc.
+Complex or very large surveys, such as national household surveys.
+Surveys to compare between an intervention and control group or before and after a program (for this situation Sample size: A rough guide).
+Surveys that use non-random sampling, or a special type of sampling such as cluster or stratified sampling (for these situations see Sample size: A rough guide and the UN guidelines on household surveys).
+Surveys where you plan to use fancy statistics to analyse the results, such as multivariate analysis (if you know how to do such fancy statistics then you should already know how to choose a sample size).
+The minimum sample size is 100
+Most statisticians agree that the minimum sample size to get any kind of meaningful result is 100. If your population is less than 100 then you really need to survey all of them.
+
+A good maximum sample size is usually 10% as long as it does not exceed 1000
+A good maximum sample size is usually around 10% of the population, as long as this does not exceed 1000. For example, in a population of 5000, 10% would be 500. In a population of 200,000, 10% would be 20,000. This exceeds 1000, so in this case the maximum would be 1000.
+
+Even in a population of 200,000, sampling 1000 people will normally give a fairly accurate result. Sampling more than 1000 people won’t add much to the accuracy given the extra time and money it would cost.
+
+Choose a number between the minimum and maximum depending on the situation
+Suppose that you want to survey students at a school which has 6000 pupils enrolled. The minimum sample would be 100. This would give you a rough, but still useful, idea about their opinions. The maximum sample would be 600, which would give you a fairly accurate idea about their opinions.
+
+Choose a number closer to the minimum if:
+
+You have limited time and money.
+You only need a rough estimate of the results.
+You don’t plan to divide the sample into different groups during the analysis, or you only plan to use a few large subgroups (e.g. males / females).
+You think most people will give similar answers.
+The decisions that will be made based on the results do not have significant consequences.
+Choose a number closer to the maximum if:
+
+You have the time and money to do it.
+It is very important to get accurate results.
+You plan to divide the sample into many different groups during the analysis (e.g. different age groups, socio-economic levels, etc).
+You think people are likely to give very different answers.
+The decisions that will be made based on the results of the survey are important, expensive or have serious consequences.
+In practice most people normally want the results to be as accurate as possible, so the limiting factor is usually time and money. In the example above, if you had the time and money to survey all 600 students then that will give you a fairly accurate result. If you don’t have enough time or money then just choose the largest number that you can manage, as long as it’s more than 100.
+
+If you want to be a bit more scientific then use this table
+While the previous rules of thumb are perfectly acceptable for most basic surveys, sometimes you need to sound more “scientific” in order to be taken seriously. In that case you can use the following table. Simply choose the column that most closely matches your population size. Then choose the row that matches the level of error you’re willing to accept in the results.
+
+Sample size table
+
+You will see on this table that the smallest samples are still around 100, and the biggest sample (for a population of more than 5000) is still around 1000. The same general principles apply as before – if you plan to divide the results into lots of sub-groups, or the decisions to be made are very important, you should pick a bigger sample.
+
+Note: This table can only be used for basic surveys to measure what proportion of the population have a particular characteristic (e.g. what proportion of farmers are using fertiliser, what proportion of women believe myths about family planning, etc). It can’t be used if you are trying to compare two groups (e.g. control versus intervention) or two points in time (e.g. baseline and endline surveys). See Sample size: A rough guide for other tables that can be used in these cases.
+
+Relax and stop worrying about the formulas
+It’s a dirty little secret among statisticians that sample size formulas often require you to have information in advance that you don’t normally have. For example, you typically need to know (in numerical terms) how much the answers in the survey are likely to vary between individuals (if you knew that in advance then you wouldn’t be doing a survey!).
+
+So even though it’s theoretically possible to calculate a sample size using a formula, in many cases experts still end up relying rules of thumb plus a good deal of common sense and pragmatism. That means you shouldn’t worry too much if you can’t use fancy maths to choose your sample size – you’re in good company.
+
+Once you’ve chosen a sample size, don’t forget to write good survey questions, design the survey form properly and pre-test and pilot your questionnaire.
+
+Photo by James Cridland
+
+-->
+
+<!--
+
+Sample Size Calculator
+How many people do you need to take your survey? Even if you’re a statistician, determining survey sample size can be tough.
+
+Want to know how to calculate it? Our sample size calculator makes it easy. Here’s everything you need to know about getting the right number of responses for your survey.
+
+Calculate Your Sample Size:
+Population Size:	
+Confidence Level (%):	
+Margin of Error (%):	
+CALCULATE	
+Sample Size:
+—
+What is sample size?
+Sample size is the number of completed responses your survey receives. It’s called a sample because it only represents part of the group of people (or target population) whose opinions or behavior you care about. For example, one way of sampling is to use a “random sample,” where respondents are chosen entirely by chance from the population at large.
+
+Understanding sample sizes
+Here are two key terms you’ll need to understand to calculate your sample size and give it context:
+
+Population size: The total number of people in the group you are trying to study. If you were taking a random sample of people across the U.S., then your population size would be about 317 million. Similarly, if you are surveying your company, the size of the population is the total number of employees.
+
+Margin of error: A percentage that tells you how much you can expect your survey results to reflect the views of the overall population. The smaller the margin of error, the closer you are to having the exact answer at a given confidence level.
+
+If you want to calculate your margin of error, check out our margin of error calculator.
+
+How to calculate sample size
+Wondering how to calculate sample size? If you’d like to do the calculation by hand, use the following formula:
+
+Sample Size   =
+
+Population Size = N  |   Margin of error = e  |   z-score = z
+
+e is percentage, put into decimal form (for example, 3% = 0.03).
+
+The z-score is the number of standard deviations a given proportion is away from the mean. To find the right z-score to use, refer to the table below:
+
+Desired Confidence Level	z-score
+80%	1.28
+85%	1.44
+90%	1.65
+95%	1.96
+99%	2.58
+ 
+
+Things to watch for when calculating sample size
+If you want a smaller margin of error, you must have a larger sample size given the same population.
+The higher the confidence level you want to have, the larger your sample size will need to be.
+Does having a statistically significant sample size matter?
+Generally, the rule of thumb is that the larger the sample size, the more statistically significant it is—meaning there’s less of a chance that your results happened by coincidence.
+
+But you might be wondering whether or not a statistically significant sample size matters. The truth is, it’s a case-by-case situation. Survey sampling can still give you valuable answers without having a sample size that represents the general population. Customer feedback is one of the surveys that does so, regardless of whether or not you have a statistically significant sample size. Listening to customer thoughts will give you valuable perspectives on how you can improve your business.
+
+On the other hand, political pollsters have to be extremely careful about surveying the right sample size—they need to make sure it’s balanced to reflect the overall population. Here are some specific use cases to help you figure out whether a statistically significant sample size makes a difference.
+
+ 
+
+The Effect Survey Values have on the Accuracy of its Results
+
+Value Increased	Value Decreased
+Population Size	Accuracy Decreases	Accuracy Increases
+Sample Size	Accuracy Increases	Accuracy Decreases
+Confidence Level	Accuracy Increases	Accuracy Decreases
+Margin of Error	Accuracy Decreases	Accuracy Increases
+
+Employee and Human Resources Surveys:
+Working on an employee satisfaction survey? All HR surveys provide important feedback on how employees feel about the work environment or your company. Having a statistically significant sample size can give you a more holistic view on employees in general. However, even if your sample size isn’t statistically significant, it’s important to send the survey anyway. HR-related surveys can give you important feedback on how you should improve the workplace.
+
+Customer Satisfaction Surveys:
+Like we said earlier, customer satisfaction surveys don’t necessarily have to rely on having a statistically significant sample size. While it’s important that your responses are accurate and represent how customers feel, you really should be taking a closer look on each answer in a customer satisfaction survey. Any feedback, positive or negative, is important.
+
+Market Research:
+When conducting a market research survey, having a statistically significant sample size can make a big difference. Market research surveys help you discover more information about your customers and your target market. That means a statistically significant sample size can easily help you discover insights on your overall target market. It also assures you’re getting the most accurate information.
+
+Education Surveys:
+For education surveys, we recommend getting a statistically significant sample size that represents the population. If you’re planning on making changes in your school based on feedback from students about the institution, instructors, teachers, etc., a statistically significant sample size will help you get results to lead your school to success. If you’re planning on just receiving feedback from students for the sake of seeing what they think—and not necessarily making a change in the system—a statistically significant sample size might not be as important.
+
+Healthcare Surveys:
+When conducting healthcare surveys, a statistically significant sample size can help you find out what health issues are a greater concern for your patients over others. It can also help you come to conclusions in medical research. However, if you’re using Healthcare Surveys for Patient Satisfaction reasons or questioning patients about their regular care, a statistically significant sample size might not be as important. Without it, you’re still able to get valuable information from individual patients about their needs and experience.
+
+Casual surveys:
+On a day-to-day basis, you might want to send surveys to friends, colleagues, family, etc. In this case, it really depends on what you’re looking for from your survey. If you’d like your results to be used as evidence, a statistically significant sample size is important. If not, and you’re just using SurveyMonkey for fun, sending your survey to just a few people won’t hurt.
+
+Do you need more responses?
+Don’t just take a guess at how many people should take your survey and don’t get bogged down in probability sampling or probability distribution models—use our sample size calculator. Get familiar with sample bias, sample size, statistically significant sample sizes, and how to get more responses. Soon you’ll have everything you’ll need to get better data for your survey.
+
+If the sample size calculator says you need more respondents, we can help. Tell us about your population, and we’ll find the right people to take your surveys. With millions of qualified respondents, SurveyMonkey Audience makes it easy to get survey responses from people around the world instantly, from almost anyone.
+
+-->

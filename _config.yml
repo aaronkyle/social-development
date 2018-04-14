@@ -1,4 +1,3 @@
 theme: minima
 header_pages:
-  - index.html
-  - ./context/country-safeguard-systems/methodology/css-methodology_action-plan.md
+  - context/country-safeguard-systems/methodology/css-methodology_action-plan.md

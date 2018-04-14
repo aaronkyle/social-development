@@ -41,7 +41,8 @@
             {%- if site.author -%}
               {{ site.author | escape }}
             {%- else -%}
-              {{ site.title | escape }} : {{- site.description | escape -}}
+              {{ site.title | escape }}: <br />
+              {{- site.description | escape -}}
             {%- endif -%}
             </li>
             {%- if site.email -%}

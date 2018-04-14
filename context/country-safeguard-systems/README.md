@@ -6,6 +6,14 @@
   <option value="1">Male</option>
   <option value="0">Female</option>
 </select>
+
+<div class="ui labeled input">
+  <div class="ui label">
+    http://
+  </div>
+  <input type="text" placeholder="mysite.com">
+</div>
+
 </div>
 
 ## What are country safeguard systems?

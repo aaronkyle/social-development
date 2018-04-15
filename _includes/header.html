@@ -3,11 +3,14 @@
 <!-- commenting out default theme information -->
   <!--
   <div class="wrapper">
+
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
+
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
     {%- if page_paths -%}
+
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
@@ -28,70 +31,14 @@
         </div>
 
       </nav>
+
     {%- endif -%}
-  </div>
+
+</div>
   -->
   
-  <!-- adding styles for top nav bar -->
-  <!-- 
-  <style type="text/css">
-  body {
-    background-color: #FFFFFF;
-  }
-  .ui.menu .item img.logo {
-    margin-right: 1.5em;
-  }
-  .main.container {
-    margin-top: 7em;
-  }
-  .wireframe {
-    margin-top: 2em;
-  }
-  .ui.footer.segment {
-    margin: 5em 0em 0em;
-    padding: 5em 0em;
-  }
-  </style>
-  -->
   
   <!-- adding semantic ui nav bar -->
-  <!-- 
-<div class="ui fixed inverted menu">
-    <div class="ui container">
-      <a href="/index.html" class="header item">
-   -->
-        <!--
-        <img class="logo" src="https://d30y9cdsu7xlg0.cloudfront.net/png/85769-200.png">
-        -->
-  <!--
-        Social Development | Policy & Practice
-      </a>
-      
-      <a href="https://github.com/aaronkyle/social-development/tree/master/context/" class="item right">On Policy</a>
-      
-      <div class="ui simple dropdown item">
-        On Practice <i class="dropdown icon"></i>
-        <div class="menu">
-          <a class="item" href="https://github.com/aaronkyle/social-development/tree/master/context/thematic-issues">thematic issues</a>
-          <a class="item" href="#">Link Item</a>
-          <div class="divider"></div>
-          <div class="header">Header Item</div>
-          <div class="item">
-            <i class="dropdown icon"></i>
-            Sub Menu
-            <div class="menu">
-              <a class="item" href="#">Link Item</a>
-              <a class="item" href="#">Link Item</a>
-            </div>
-          </div>
-          <a class="item" href="#">Link Item</a>
-        </div>
-      </div>
-    </div>
-  </div>
-   -->
-  
-<!-- TRYING NEW NAVBAR -->
   
     <!--Sidebar Menu-->
     <div class="ui vertical inverted sidebar menu">
@@ -110,7 +57,6 @@
               <div class="right menu">
               <a class="item">On Policy</a>
               <a class="item">On Practice</a>
-              <a class="item" href="https://github.com/aaronkyle/social-development/tree/"><i class="github big icon"></i></a>
               </div> 
            </div>
         </div>

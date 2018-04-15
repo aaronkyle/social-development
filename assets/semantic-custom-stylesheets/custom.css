@@ -79,9 +79,9 @@ nav.ui.menu {
 .ui.alternative.segment {
   background: #FFFFFF; }
 .ui.vertical.stripe.segment {
-  padding: 4rem 0; }
-.ui.vertical.segment {
   padding: 2rem 0; }
+.ui.vertical.segment {
+  padding: 1rem 0; }
 
 .ui.menu {
   border-radius: 0;

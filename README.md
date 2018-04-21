@@ -1,4 +1,4 @@
-# Welcome
+## Purpose
 
 This repository is intended as a resource for people interested in, or working with, [social policy](http://applied-anthro.com/terms/social-policy/).
 

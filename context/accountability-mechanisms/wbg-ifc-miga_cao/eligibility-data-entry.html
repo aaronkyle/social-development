@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Standard Meta -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <!-- Site Properties -->
+  <title>CAO Eligibility Data Entry Form</title>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.js"></script>
+
+<!--
+Including old JS file to get calendar widget to work from CDN
+Refer here: https://www.npmjs.com/package/semantic-ui-calendar
+-->
+<script src="https://cdn.rawgit.com/mdehoog/Semantic-UI/6e6d051d47b598ebab05857545f242caf2b4b48c/dist/semantic.min.js"></script>
+
+  <style type="text/css">
+
+  body {
+    background-color: ;
+  }
+  .main.container {
+    margin-top: 2em;
+  }
+
+  .main.menu {
+    margin-top: 4em;
+    border-radius: 0;
+    border: none;
+    box-shadow: none;
+    transition:
+      box-shadow 0.5s ease,
+      padding 0.5s ease
+    ;
+  }
+  .main.menu .item img.logo {
+    margin-right: 1.5em;
+  }
+
+  .overlay {
+    float: left;
+    margin: 0em 3em 1em 0em;
+  }
+  .overlay .menu {
+    position: relative;
+    left: 0;
+    transition: left 0.5s ease;
+  }
+
+  .main.menu.fixed {
+    background-color: #FFFFFF;
+    border: 1px solid #DDD;
+    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
+  }
+  .overlay.fixed .menu {
+    left: 800px;
+  }
+
+  .text.container .left.floated.image {
+    margin: 2em 2em 2em -4em;
+  }
+  .text.container .right.floated.image {
+    margin: 2em -4em 2em 2em;
+  }
+
+  .ui.footer.segment {
+    margin: 5em 0em 0em;
+    padding: 5em 0em;
+  }
+  </style>
+
+
+</head>
+<body>
+
+  <!-- PAGE MENU -->
+  <!-- COMMENTING OUT FOR NOW
+  <div class="ui top attached menu">
+    <a class="item">
+      <i class="sidebar icon"></i>
+    </a>
+  </div>
+  <div class="ui bottom attached segment">
+    <div class="ui right vertical inverted labeled inline sidebar menu">
+      <a class="item" href="case-intake-data-entry.html">
+        <i class=""></i> Intake & Analytics
+      </a>
+      <a class="item" href="eligibility-data-entry.html">
+        <i class="" ></i> Eligibility
+      </a>
+      <a class="item" href="#">
+        <i class=""></i> Dispute Resolution
+      </a>
+      <a class="item" href="complaince-case-data-entry.html">
+        <i class=""></i> Compliance
+      </a>
+    </div>
+    <div class="pusher">
+      <div class="ui basic segment">
+-->
+
+<!-- TRYING NEW MENU -->
+<div class="ui fixed inverted menu">
+<div class="ui container">
+
+<!--
+
+  <a href="#" class="header item">
+    <img class="logo" src="assets/images/logo.png">
+    CAO Case Management Utility
+  </a>
+-->
+<!--
+  <a class="item" href="case-intake-data-entry.html">Intake & Analytics</a>
+  <a class="item" href="eligibility-data-entry.html">Eligibility</a>
+  <a class="item" href="#"> Dispute Resolution</a>
+  <a class="item" href="complaince-case-data-entry.html">Compliance</a>
+-->
+  <div class="ui simple dropdown item">
+    CAO Case Management Utility <i class="dropdown icon"></i>
+    <div class="menu">
+    <a class="item" href="case-intake-data-entry.html">Intake & Analytics</a>
+    <a class="item" href="eligibility-data-entry.html">Eligibility</a>
+    <a class="item" href=""> Dispute Resolution</a>
+    <a class="item" href="complaince-case-data-entry.html">Compliance</a>
+<!--
+      <div class="divider"></div>
+      <div class="header">Header Item</div>
+      <div class="item">
+        <i class="dropdown icon"></i>
+        Sub Menu
+        <div class="menu">
+          <a class="item" href="#">Link Item</a>
+          <a class="item" href="#">Link Item</a>
+        </div>
+      </div>
+      <a class="item" href="#">Link Item</a>
+-->
+    </div>
+  </div>
+</div>
+</div>
+
+
+  <div class="ui main text container">
+    <p>&nbsp;</p>
+    <h1 class="ui header">CAO Eligibility Data Entry Form</h1>
+  </div>
+
+<p>&nbsp;</p>
+<div class="ui container">
+
+<div class="ui equal width form">
+<div class="ui calendar" id="year-first-date-only-3">
+<div class="inline fields">
+<label><strong>Eligibility Start Date</strong></label>
+  <div class="ui input left icon">
+    <i class="calendar icon"></i>
+    <input type="text" placeholder="user-defined" value="27 January 2017">
+  </div>
+</div>
+</div>
+</div>
+
+<p>Eligibility Assessment: <a class="ui grey label">Complete.</a></p>
+<p><a class="ui green circular label">6 </a>&nbsp;Days in Eligibility</p>
+
+<div class="ui equal width form">
+  <div class="ui calendar" id="year-first-date-only-5">
+  <div class="inline fields">
+  <label><strong>Eligibility Screening Deadline:</strong></label>
+    <div class="ui input left icon">
+      <i class="calendar icon"></i>
+      <input type="text" placeholder="auto-calculate allowing manual override" value="27 January 2017">
+    </div>
+  </div>
+  </div>
+</div>
+
+
+
+
+<!--
+
+
+Eligibility Determination Outcome
+// Eligibility:
+Eligible
+Ineligible
+Triggered
+Pending
+
+
+
+IF Ineligible THEN
+
+Reasons for Rejection
+Not IFC/MIGA project
+Not E&S issues
+Community not affected
+N/A
+
+
+-->
+
+<!-- For the next two elements, toggle so that if one is changed to active or pending state, that affected the ohter (and locks related inputs screens elsewhere in the applicatoin) -->
+<div>Eligibility Determination Completed? &nbsp;
+  <div class="ui inline dropdown">
+    <div class="text">Yes.</div>
+    <i class="dropdown icon"></i>
+    <div class="menu">
+      <div class="item active" data-text="Yes.">Yes</div>
+      <div class="item" data-text="No.">No</div>
+    </div>
+  </div>
+</div>
+
+
+<p>Eligibility Status: &nbsp;<a class="ui green label">Eligible. </a></p>
+
+<div>Reasons for rejection: &nbsp;
+  <div class="ui inline dropdown">
+    <div class="text">n/a.</div>
+    <i class="dropdown icon"></i>
+    <div class="menu">
+      <div class="item active" data-text="Yes.">n/a.</div>
+      <div class="item" data-text="No.">Not IFC/MIGA project</div>
+      <div class="item" data-text="No.">Not E&S issues</div>
+      <div class="item" data-text="No.">Community not affected</div>
+    </div>
+  </div>
+</div>
+
+
+<div class="ui equal width form">
+<div class="ui calendar" id="year-first-date-only-3">
+<div class="inline fields">
+<label><strong>Eligibility Completion Date</strong></label>
+  <div class="ui input left icon">
+    <i class="calendar icon"></i>
+    <input type="text" placeholder="user-defined" value="27 January 2017">
+  </div>
+</div>
+</div>
+
+</div>
+
+<div class="ui equal width form">
+<div>Case Merged at Eligibility? &nbsp;
+  <div class="ui inline dropdown">
+    <div class="text">No.</div>
+    <i class="dropdown icon"></i>
+    <div class="menu">
+      <div class="item active" data-text="Yes.">Yes</div>
+      <div class="item" data-text="No.">No</div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div class="ui fluid search selection dropdown">
+  <input type="hidden" name="country">
+  <i class="dropdown icon"></i>
+  <div class="default text">Select Case. [List should pull from database.]</div>
+  <div class="menu">
+  <div class="item" data-value="Case-01">Case-01</div>
+  <div class="item" data-value="Case-02">Case-02</div>
+  <div class="item" data-value="Case-03">Case-03</div>
+</div>
+ </div>
+
+
+ <p>&nbsp;</p>
+
+
+<h2 class="ui header">Eligibility Status Update</h2>
+
+<p>
+<div class="ui form">
+  <div class="field">
+    <label>Status Notes [Internal]</label>
+    <textarea rows="2" placeholder="Use this space to add notes for the CAO case status update."></textarea>
+  </div>
+</div>
+</p>
+
+<p>
+<div class="ui form">
+  <div class="field">
+    <label>Status Notes [IFC]</label>
+    <textarea rows="2" placeholder="Use this space to add notes for CAO's updates to IFC."></textarea>
+  </div>
+</div>
+</p>
+
+<p>
+<div class="ui form">
+  <div class="field">
+    <label>Status Notes [Public]</label>
+    <textarea rows="2" placeholder="Use this space to add updates that will appear on the public case status page (online)."></textarea>
+  </div>
+</div>
+</p>
+
+
+
+
+<!--
+
+
+Eligibility Determination Outcome
+// Eligibility:
+Eligible
+Ineligible
+Triggered
+Pending
+
+
+
+IF Ineligible THEN
+
+Reasons for Rejection
+Not IFC/MIGA project
+Not E&S issues
+Community not affected
+N/A
+
+
+-->
+
+ <div>Case transferred? &nbsp;
+   <div class="ui inline dropdown">
+     <div class="text">Yes. Case transferred to investigation.</div>
+     <i class="dropdown icon"></i>
+     <div class="menu">
+       <div class="item active" data-text="Yes.  Case transferred to compliance investigation.">Yes.  Case transferred to compliance.</div>
+       <div class="item" data-text="Yes.  Case transferred to compliance investigation.">Yes.  Case transferred to dispute resolution.</div>
+       <div class="item" data-text="Yes.  Case transferred to both functions.">Yes.  Case transferred to both functions.</div>
+       <div class="item" data-text="No.  Case Closed.">No.  Case closed.</div><!--Allow this to change when value adjusted elswhere-->
+     </div>
+   </div>
+ </div>
+
+<p>&nbsp;</p>
+
+<!-- end UI container from top -->
+  </div>
+
+<!--end navigation element w/ pusher segment-->
+
+<!--
+  </div>
+  </div>
+  </div>
+-->
+
+</body>
+
+    <script  src="./custom-js/date-picker.js"></script>
+
+<!--navigation element -->
+    <script>
+    $('.ui.sidebar').sidebar({
+        context: $('.bottom.segment')
+      })
+      .sidebar('attach events', '.menu .item');
+    </script>
+
+    <!-- SCRIPT TO EXECUTE DROPDOWN BREAKS W/ MENU -->
+    <script>
+    $('.ui.dropdown')
+      .dropdown()
+    ;
+    </script>
+    <!-- -->
+
+</html>

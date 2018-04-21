@@ -1,3 +1,6 @@
+Also note [this discussion](https://github.com/aaronkyle/concept/blob/master/digital-publishing/document-metadata.md).
+
+---
 
 ## [000-bib_indigenous-peoples](https://docs.google.com/spreadsheets/d/1FRZmmiQBy28r2ppK3HZP7GHrQ46PeZxkjXGpibMLGEg/edit?usp=sharing)
 
@@ -151,13 +154,13 @@
 * URL
     - corresponds with BibTeX `url`
 * URL-alt
-* CCCS folder - orig
+*  folder - orig
 * sub-folder - orig
 * original file name
 * original file name -alt
 * revised file name
 * BIBTEX entry type
-* CCCS entry type
+*  entry type
 * attribute tag
 * Country / Countries
 * Region(s)

@@ -1,0 +1,170 @@
+1.	Performance Standard 2 recognizes that the pursuit of economic growth through employment creation and income generation should be accompanied by protection of the fundamental rights [FN1] of workers.
+1.	[FN1] As guided by the ILO Conventions listed in footnote 2.
+1.	For any business, the workforce is a valuable asset, and a sound worker-management relationship is a key ingredient in the sustainability of a company.
+1.	Failure to establish and foster a sound worker-management relationship can undermine worker commitment and retention, and can jeopardize a project.
+1.	Conversely, through a constructive worker-management relationship, and by treating the workers fairly and providing them with safe and healthy working conditions, clients may create tangible benefits, such as enhancement of the efficiency and productivity of their operations.
+
+2.	The requirements set out in this Performance Standard have been in part guided by a number of international conventions and instruments, including those of the International Labour Organization (ILO) and the United Nations (UN). [FN2]
+2.	"[FN 2] These conventions are:
+
+* ILO Convention 87 on Freedom of Association and Protection of the Right to Organize 
+  * ILO Convention 98 on the Right to Organize and Collective Bargaining 
+  * ILO Convention 29 on Forced Labor ILO Convention 105 on the Abolition of Forced Labor 
+  * ILO Convention 138 on Minimum Age (of Employment) ILO Convention 182 on the Worst Forms of Child Labor 
+  * ILO Convention 100 on Equal Remuneration 
+  * ILO Convention 111 on Discrimination (Employment and Occupation) 
+  * UN Convention on the Rights of the Child, Article 32.1 
+  * UN Convention on the Protection of the Rights of all Migrant Workers and Members of their Families"
+
+.	Objectives
+
+*.	To promote the fair treatment, non-discrimination, and equal opportunity of workers
+*.	* To establish, maintain, and improve the worker-management relationship
+*.	* To promote compliance with national employment and labor laws
+*.	* To protect workers, including vulnerable categories of workers such as children, migrant workers, workers engaged by third parties, and workers in the client’s supply chain
+*.	* To promote safe and healthy working conditions, and the health of workers
+*.	* To avoid the use of forced labor
+
+.	Scope of Application
+
+3.	The applicability of this Performance Standard is established during the environmental and social risks and impacts identification process.
+3.	The implementation of the actions necessary to meet the requirements of this Performance Standard is managed through the client’s Environmental and Social Management System (ESMS), the elements of which are outlined in Performance Standard 1.
+
+4.	The scope of application of this Performance Standard depends on the type of employment relationship between the client and the worker.
+4.	It applies to workers directly engaged by the client (direct workers), workers engaged through third parties to perform work related to core business processes [FN3] of the project for a substantial duration (contracted workers), as well as workers engaged [FN4] by the client’s primary suppliers (supply chain workers).
+4.	[FN 3] Core business processes constitute those production and/or service processes essential for a specific business activity without which the business activity could not continue.
+4.	[FN 4] Primary suppliers are those suppliers who, on an ongoing basis, provide goods or materials essential for the core business processes of the project.
+
+.	Direct Workers
+
+5.	With respect to direct workers, the client will apply the requirements of paragraphs 8–23 of this Performance Standard.
+
+.	Contracted Workers
+
+6.	With respect to contracted workers, the client will apply the requirements of paragraphs 23–26 of this Performance Standard.
+
+.	Supply Chain Workers
+
+7.	With respect to supply chain workers, the client will apply the requirements of paragraphs 27–29 of this Performance Standard.
+
+.	Requirements
+
+.	Working Conditions and Management of Worker Relationship
+
+.	Human Resources Policies and Procedures
+
+8.	The client will adopt and implement human resources policies and procedures appropriate to its size and workforce that set out its approach to managing workers consistent with the requirements of this Performance Standard and national law.
+
+9.	The client will provide workers with documented information that is clear and understandable, regarding their rights under national labor and employment law and any applicable collective agreements, including their rights related to hours of work, wages, overtime, compensation, and benefits upon beginning the working relationship and when any material changes occur.
+
+.	Working Conditions and Terms of Employment
+
+10.	Where the client is a party to a collective bargaining agreement with a workers’ organization, such agreement will be respected.
+10.	Where such agreements do not exist, or do not address working conditions and terms of employment [FN5], the client will provide reasonable working conditions and terms of employment [FN6].
+10.	[FN 5] Working conditions and terms of employment examples are wages and benefits; wage deductions; hours of work; overtime arrangements and overtime compensation; breaks; rest days; and leave for illness, maternity, vacation or holiday.
+10.	[FN 6] Reasonable working conditions and terms of employment could be assessed by reference to (i) conditions established for work of the same character in the trade or industry concerned in the area/region where the work is carried out; (ii) collective agreement or other recognized negotiation between other organizations of employers and workers’ representatives in the trade or industry concerned; (iii) arbitration award; or (iv) conditions established by national law.
+
+11.	The client will identify migrant workers and ensure that they are engaged on substantially equivalent terms and conditions to non-migrant workers carrying out similar work.
+
+12.	Where accommodation services [FN7] are provided to workers covered by the scope of this Performance Standard, the client will put in place and implement policies on the quality and [FN8] management of the accommodation and provision of basic services.
+12.	[FN 7] Those services might be provided either directly by the client or by third parties.
+12.	[FN 8] Basic services requirements refer to minimum space, supply of water, adequate sewage and garbage disposal system, appropriate protection against heat, cold, damp, noise, fire and disease-carrying animals, adequate sanitary and washing facilities, ventilation, cooking and storage facilities and natural and artificial lighting, and in some cases basic medical services.
+12.	The accommodation services will be provided in a manner consistent with the principles of non-discrimination and equal opportunity.
+12.	Workers’ accommodation arrangements should not restrict workers’ freedom of movement or of association.
+
+.	Workers’ Organizations
+
+13.	In countries where national law recognizes workers’ rights to form and to join workers’ organizations of their choosing without interference and to bargain collectively, the client will comply with national law.
+13.	Where national law substantially restricts workers’ organizations, the client will not restrict workers from developing alternative mechanisms to express their grievances and protect their rights regarding working conditions and terms of employment.
+
+14.	The client should not seek to influence or control these mechanisms.
+14.	In either case described in paragraph 13 of this Performance Standard, and where national law is silent, the client will not discourage workers from electing worker representatives, forming or joining workers’ organizations of their choosing, or from bargaining collectively, and will not discriminate or retaliate against workers who participate, or seek to participate, in such organizations and collective bargaining.
+14.	The client will engage with such workers’ representatives and workers’ organizations, and provide them with information needed for meaningful negotiation in a timely manner.
+14.	Workers’ organizations are expected to fairly represent the workers in the workforce.
+
+.	Non-Discrimination and Equal Opportunity
+
+15.	The client will not make employment decisions on the basis of personal characteristics [FN9] unrelated to inherent job requirements.
+15.	[FN 9] Such as gender, race, nationality, ethnic, social and indigenous origin, religion or belief, disability, age, or sexual orientation
+15.	The client will base the employment relationship on the principle of equal opportunity and fair treatment, and will not discriminate with respect to any aspects of the employment relationship, such as recruitment and hiring, compensation (including wages and benefits), working conditions and terms of employment, access to training, job assignment, promotion, termination of employment or retirement, and disciplinary practices.
+15.	The client will take measures to prevent and address harassment, intimidation, and/or exploitation, especially in regard to women.
+15.	The principles of non-discrimination apply to migrant workers.
+
+16.	In countries where national law provides for non-discrimination in employment, the client will comply with national law
+16.	When national laws are silent on non-discrimination in employment, the client will meet this Performance Standard.
+16.	In circumstances where national law is inconsistent with this Performance Standard, the client is encouraged to carry out its operations consistent with the intent of paragraph 15 above without contravening applicable laws.
+
+17.	Special measures of protection or assistance to remedy past discrimination or selection for a particular job based on the inherent requirements of the job will not be deemed as discrimination, provided they are consistent with national law.
+
+.	Retrenchment
+
+18.	Prior to implementing any collective dismissals, [FN10] the client will carry out an analysis of alternatives to retrenchment. [FN11]
+18.	[FN 10] Collective dismissals cover all multiple dismissals that are a result of an economic, technical, or organizational reason; or other reasons that are not related to performance or other personal reasons.
+18.	[FN 11] Examples of alternatives may include negotiated working-time reduction programs, employee capacity-building programs; long-term maintenance works during low production periods, etc.
+18.	If the analysis does not identify viable alternatives to retrenchment, a retrenchment plan will be developed and implemented to reduce the adverse impacts of retrenchment on workers
+18.	The retrenchment plan will be based on the principle of non-discrimination and will reflect the client’s consultation with workers, their organizations, and, where appropriate, the government, and comply with collective bargaining agreements if they exist
+18.	The client will comply with all legal and contractual requirements related to notification of public authorities, and provision of information to, and consultation with workers and their organizations.
+
+19.	The client should ensure that all workers receive notice of dismissal and severance payments mandated by law and collective agreements in a timely manner.
+19.	All outstanding back pay and social security benefits and pension contributions and benefits will be paid (i) on or before termination of the working relationship to the workers, (ii) where appropriate, for the benefit of the workers, or (iii) payment will be made in accordance with a timeline agreed through a collective agreement.
+19.	Where payments are made for the benefit of workers, workers will be provided with evidence of such payments.
+
+.	Grievance Mechanism
+
+20.	The client will provide a grievance mechanism for workers (and their organizations, where they exist) to raise workplace concerns.
+20.	The client will inform the workers of the grievance mechanism at the time of recruitment and make it easily accessible to them.
+20.	The mechanism should involve an appropriate level of management and address concerns promptly, using an understandable and transparent process that provides timely feedback to those concerned, without any retribution
+20.	The mechanism should also allow for anonymous complaints to be raised and addressed.
+20.	The mechanism should not impede access to other judicial or administrative remedies that might be available under the law or through existing arbitration procedures, or substitute for grievance mechanisms provided through collective agreements.
+
+.	Protecting the Work Force
+
+.	Child Labor
+
+21.	The client will not employ children in any manner that is economically exploitative, or is likely to be hazardous or to interfere with the child’s education, or to be harmful to the child’s health or physical, mental, spiritual, moral, or social development.
+21.	The client will identify the presence of all persons under the age of 18.
+21.	Where national laws have provisions for the employment of minors, the client will follow those laws applicable to the client.
+21.	Children under the age of 18 will not be employed in hazardous work. [FN12]
+21.	[FN 12] Examples of hazardous work activities include work (i) with exposure to physical, psychological, or sexual abuse; (ii) underground, underwater, working at heights, or in confined spaces; (iii) with dangerous machinery, equipment, or tools, or involving handling of heavy loads; (iv) in unhealthy environments exposing the worker to hazardous substances, agents, processes, temperatures, noise, or vibration damaging to health; or (v) under difficult conditions such as long hours, late night, or confinement by employer
+21.	All work of persons under the age of 18 will be subject to an appropriate risk assessment and regular monitoring of health, working conditions, and hours of work.
+
+.	Forced Labor
+
+22.	The client will not employ forced labor, which consists of any work or service not voluntarily performed that is exacted from an individual under threat of force or penalty.
+22.	This covers any kind of involuntary or compulsory labor, such as indentured labor, bonded labor, or similar labor-contracting arrangements.
+22.	The client will not employ trafficked persons [FN13].
+22.	[FN 13] Trafficking in persons is defined as the recruitment, transportation, transfer, harboring, or receipt of persons, by means of the threat or use of force or other forms of coercion, abduction, fraud, deception, abuse of power, or of a position of vulnerability, or of the giving or receiving of payments or benefits to achieve the consent of a person having control over another person, for the purpose of exploitation. Women and children are particularly vulnerable to trafficking practices.
+
+.	Occupational Health and Safety
+
+23.	The client will provide a safe and healthy work environment, taking into account inherent risks in its particular sector and specific classes of hazards in the client’s work areas, including physical, chemical, biological, and radiological hazards, and specific threats to women.
+23.	The client will take steps to prevent accidents, injury, and disease arising from, associated with, or occurring in the course of work by minimizing, as far as reasonably practicable, the causes of hazards.
+23.	In a manner consistent with good international industry practice, [FN14] as reflected in various internationally recognized sources including the World Bank Group Environmental, Health and Safety Guidelines, the client will address areas that include the
+23.	(i) identification of potential hazards to workers, particularly those that may be life-threatening;
+23.	(ii) provision of preventive and protective measures, including modification, substitution, or elimination of hazardous conditions or substances;
+23.	(iii) training of workers;
+23.	(iv) documentation and reporting of occupational accidents, diseases, and incidents; and
+23.	(v) emergency prevention, preparedness, and response arrangements.
+23.	[FN 14] Defined as the exercise of professional skill, diligence, prudence, and foresight that would reasonably be expected from skilled and experienced professionals engaged in the same type of undertaking under the same or similar circumstances, globally or regionally.
+23.	For additional information related to emergency preparedness and response refer to Performance Standard 1.
+
+.	Workers Engaged by Third Parties
+
+24.	With respect to contracted workers the client will take commercially reasonable efforts to ascertain that the third parties who engage these workers are reputable and legitimate enterprises and have an appropriate ESMS that will allow them to operate in a manner consistent with the requirements of this Performance Standard, except for paragraphs 18–19, and 27–29.
+
+25.	The client will establish policies and procedures for managing and monitoring the performance of such third party employers in relation to the requirements of this Performance Standard.
+25.	In addition, the client will use commercially reasonable efforts to incorporate these requirements in contractual agreements with such third party employers.
+
+26.	The client will ensure that contracted workers, covered in paragraphs 24–25 of this Performance Standard, have access to a grievance mechanism.
+26.	In cases where the third party is not able to provide a grievance mechanism the client will extend its own grievance mechanism to serve workers engaged by the third party.
+
+.	Supply Chain
+
+27.	Where there is a high risk of child labor or forced labor [FN15] in the primary supply chain, the client will identify those risks consistent with paragraphs 21 and 22 above.
+27.	[FN 15] The potential risk of child labor and forced labor will be determined during the risks and impacts identification process as required in Performance Standard 1.
+27.	If child labor or forced labor cases are identified, the client will take appropriate steps to remedy them.
+
+28.	Additionally, where there is a high risk of significant safety issues related to supply chain workers, the client will introduce procedures and mitigation measures to ensure that primary suppliers within the supply chain are taking steps to prevent or to correct life-threatening situations.
+
+29.	The ability of the client to fully address these risks will depend upon the client’s level of management control or influence over its primary suppliers.
+29.	Where remedy is not possible, the client will shift the project’s primary supply chain over time to suppliers that can demonstrate that they are complying with this Performance Standard.

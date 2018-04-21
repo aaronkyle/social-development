@@ -10,6 +10,7 @@ status: draft
 
 
 * [000-bib, Indigenous Peoples](https://docs.google.com/spreadsheet/ccc?key=0AvCbKDJqtSI7dHhWbkJfRGRCQmlxaDc2d3E2R1pjRVE)
+- [010-bib, Indigenous Peoples -Africa](https://docs.google.com/spreadsheets/d/1uDPIbtEiB1ZeLdLxxpgHRIwPYx67YKn7-yCLCOZ6Ncg/edit?usp=sharing)
 
 * [IP locations in country](https://docs.google.com/spreadsheets/d/1N_EzgzlBV_EiakIAH3wbH84LORPLfJhCEh6MZkPkEvQ/edit#gid=0)
     - [100 - IP Country Profile - CANADA](https://docs.google.com/spreadsheets/d/146u6qzy9Z_cFp-PGjvMcl_PjGtrd4EXcPTKBedcpS-I/edit#gid=6)

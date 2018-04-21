@@ -43,7 +43,7 @@ Members of IAMnet currently include:<sup>[[ref]](http://independentaccountabilit
 * United Nations Development Programme (UNDP) - [Social and Environmental Compliance Review and Stakeholder Response Mechanism](http://www.undp.org/content/undp/en/home/operations/accountability/secu-srm/)
 
 * World Bank - [Inspection Panel](http://ewebapps.worldbank.org/apps/ip/Pages/Home.aspx)
-* [Operating Procedures (2014)](http://ewebapps.worldbank.org/apps/ip/PanelMandateDocuments/2014%20Updated%20Operating%20Procedures.pdf)
+    -[Operating Procedures (2014)](http://ewebapps.worldbank.org/apps/ip/PanelMandateDocuments/2014%20Updated%20Operating%20Procedures.pdf)
 
 
 ---

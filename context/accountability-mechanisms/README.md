@@ -48,7 +48,7 @@ Members of IAMnet currently include:<sup>[[ref]](http://independentaccountabilit
 
 ---
 
-Work on this repository is in very early stages.
+Work on this repository is in very early stages. I started (2017) by culling data from across IAM member pages:
 
 * [`adb.md`](./adb)
 * [`afdb.md`](./afdb)
@@ -57,6 +57,8 @@ Work on this repository is in very early stages.
 * [`idb_idb.md`](./idb_idb)
 * [`idb_iic.md`](./idb_iic)
 * [`world-bank.md`](./world-bank)
+
+I would ulitmately like to build a tool that pulls and re-organizes these data into a common framework.
 
 ---
 

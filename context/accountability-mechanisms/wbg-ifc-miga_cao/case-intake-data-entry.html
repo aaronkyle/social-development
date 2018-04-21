@@ -1,0 +1,1047 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Standard Meta -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <!-- Site Properties -->
+  <title>CAO Case Intake Form</title>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.js"></script>
+
+<!--
+Including old JS file to get calendar widget to work from CDN
+Refer here: https://www.npmjs.com/package/semantic-ui-calendar
+-->
+<script src="https://cdn.rawgit.com/mdehoog/Semantic-UI/6e6d051d47b598ebab05857545f242caf2b4b48c/dist/semantic.min.js"></script>
+
+  <style type="text/css">
+
+  body {
+    background-color: ;
+  }
+  .main.container {
+    margin-top: 2em;
+  }
+
+  .main.menu {
+    margin-top: 4em;
+    border-radius: 0;
+    border: none;
+    box-shadow: none;
+    transition:
+      box-shadow 0.5s ease,
+      padding 0.5s ease
+    ;
+  }
+  .main.menu .item img.logo {
+    margin-right: 1.5em;
+  }
+
+  .overlay {
+    float: left;
+    margin: 0em 3em 1em 0em;
+  }
+  .overlay .menu {
+    position: relative;
+    left: 0;
+    transition: left 0.5s ease;
+  }
+
+  .main.menu.fixed {
+    background-color: #FFFFFF;
+    border: 1px solid #DDD;
+    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
+  }
+  .overlay.fixed .menu {
+    left: 800px;
+  }
+
+  .text.container .left.floated.image {
+    margin: 2em 2em 2em -4em;
+  }
+  .text.container .right.floated.image {
+    margin: 2em -4em 2em 2em;
+  }
+
+  .ui.footer.segment {
+    margin: 5em 0em 0em;
+    padding: 5em 0em;
+  }
+  </style>
+
+
+</head>
+<body>
+
+
+
+      <!-- PAGE MENU -->
+      <!-- COMMENTING OUT FOR NOW
+      <div class="ui top attached menu">
+        <a class="item">
+          <i class="sidebar icon"></i>
+        </a>
+      </div>
+      <div class="ui bottom attached segment">
+        <div class="ui right vertical inverted labeled inline sidebar menu">
+          <a class="item" href="case-intake-data-entry.html">
+            <i class=""></i> Intake & Analytics
+          </a>
+          <a class="item" href="eligibility-data-entry.html">
+            <i class="" ></i> Eligibility
+          </a>
+          <a class="item" href="#">
+            <i class=""></i> Dispute Resolution
+          </a>
+          <a class="item" href="complaince-case-data-entry.html">
+            <i class=""></i> Compliance
+          </a>
+        </div>
+        <div class="pusher">
+          <div class="ui basic segment">
+-->
+
+<!-- TRYING NEW MENU -->
+<div class="ui fixed inverted menu">
+    <div class="ui container">
+
+<!--
+
+      <a href="#" class="header item">
+        <img class="logo" src="assets/images/logo.png">
+        CAO Case Management Utility
+      </a>
+-->
+<!--
+      <a class="item" href="case-intake-data-entry.html">Intake & Analytics</a>
+      <a class="item" href="eligibility-data-entry.html">Eligibility</a>
+      <a class="item" href="#"> Dispute Resolution</a>
+      <a class="item" href="complaince-case-data-entry.html">Compliance</a>
+-->
+      <div class="ui simple dropdown item">
+        CAO Case Management Utility <i class="dropdown icon"></i>
+        <div class="menu">
+        <a class="item" href="case-intake-data-entry.html">Intake & Analytics</a>
+        <a class="item" href="eligibility-data-entry.html">Eligibility</a>
+        <a class="item" href=""> Dispute Resolution</a>
+        <a class="item" href="complaince-case-data-entry.html">Compliance</a>
+<!--
+          <div class="divider"></div>
+          <div class="header">Header Item</div>
+          <div class="item">
+            <i class="dropdown icon"></i>
+            Sub Menu
+            <div class="menu">
+              <a class="item" href="#">Link Item</a>
+              <a class="item" href="#">Link Item</a>
+            </div>
+          </div>
+          <a class="item" href="#">Link Item</a>
+-->
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="ui main text container">
+    <p>&nbsp;</p>
+
+    <h1 class="ui header">CAO Case Intake Form</h1>
+  </div>
+
+<p>&nbsp;</p>
+
+<div class="ui container">
+
+<h2 class="ui header">Case Intake Data</h2>
+
+<!--
+Institution: IFC / MIGA / both
+IFC
+MIGA
+IFC/MIGA
+Neither
+Missing
+
+
+No. of IFC Projects
+No. of MIGA Projects
+-->
+
+
+<div class="ui equal width form">
+  <div class="fields">
+    <div class="field">
+      <div class="ui calendar" id="year-first-date-only-1">
+      <div class="inline fields">
+      <label><strong>Date Received by CAO</strong></label>
+        <div class="ui input left icon">
+          <i class="calendar icon"></i>
+          <input type="text" placeholder="auto-populate on transfer to compliance" value="27 January 2017">
+        </div>
+      </div>
+      </div>
+    </div>
+    <div class="field">
+      <div class="ui calendar" id="year-first-date-only-2">
+      <div class="inline fields">
+      <label><strong>Date Acknowledged</strong></label>
+        <div class="ui input left icon">
+          <i class="calendar icon"></i>
+          <input type="text" placeholder="auto-populate on transfer to compliance" value="02 February 2017">
+        </div>
+      </div>
+      </div>
+    </div>
+    <div class="field">
+        <input type="text" placeholder="derived from date acknolwedged; FY runs July through June" value="FY17">
+    </div>
+
+</div>
+</div>
+
+
+    <div class="ui equal width form">
+      <div class="fields">
+        <div class="field">
+          <label>Country</label>
+          <select class="ui search dropdown">
+            <option value="">Select Country</option>
+            <option value="AF">Afghanistan</option>
+            <option value="AX">Åland Islands</option>
+            <option value="AL">Albania</option>
+            <option value="DZ">Algeria</option>
+            <option value="AS">American Samoa</option>
+            <option value="AD">Andorra</option>
+            <option value="AO">Angola</option>
+            <option value="AI">Anguilla</option>
+            <option value="AQ">Antarctica</option>
+            <option value="AG">Antigua and Barbuda</option>
+            <option value="AR">Argentina</option>
+            <option value="AM">Armenia</option>
+            <option value="AW">Aruba</option>
+            <option value="AU">Australia</option>
+            <option value="AT">Austria</option>
+            <option value="AZ">Azerbaijan</option>
+            <option value="BS">Bahamas</option>
+            <option value="BH">Bahrain</option>
+            <option value="BD">Bangladesh</option>
+            <option value="BB">Barbados</option>
+            <option value="BY">Belarus</option>
+            <option value="BE">Belgium</option>
+            <option value="BZ">Belize</option>
+            <option value="BJ">Benin</option>
+            <option value="BM">Bermuda</option>
+            <option value="BT">Bhutan</option>
+            <option value="BO">Bolivia, Plurinational State of</option>
+            <option value="BQ">Bonaire, Sint Eustatius and Saba</option>
+            <option value="BA">Bosnia and Herzegovina</option>
+            <option value="BW">Botswana</option>
+            <option value="BV">Bouvet Island</option>
+            <option value="BR">Brazil</option>
+            <option value="IO">British Indian Ocean Territory</option>
+            <option value="BN">Brunei Darussalam</option>
+            <option value="BG">Bulgaria</option>
+            <option value="BF">Burkina Faso</option>
+            <option value="BI">Burundi</option>
+            <option value="KH">Cambodia</option>
+            <option value="CM">Cameroon</option>
+            <option value="CA">Canada</option>
+            <option value="CV">Cape Verde</option>
+            <option value="KY">Cayman Islands</option>
+            <option value="CF">Central African Republic</option>
+            <option value="TD">Chad</option>
+            <option value="CL">Chile</option>
+            <option value="CN">China</option>
+            <option value="CX">Christmas Island</option>
+            <option value="CC">Cocos (Keeling) Islands</option>
+            <option value="CO">Colombia</option>
+            <option value="KM">Comoros</option>
+            <option value="CG">Congo</option>
+            <option value="CD">Congo, the Democratic Republic of the</option>
+            <option value="CK">Cook Islands</option>
+            <option value="CR">Costa Rica</option>
+            <option value="CI">Côte d'Ivoire</option>
+            <option value="HR">Croatia</option>
+            <option value="CU">Cuba</option>
+            <option value="CW">Curaçao</option>
+            <option value="CY">Cyprus</option>
+            <option value="CZ">Czech Republic</option>
+            <option value="DK">Denmark</option>
+            <option value="DJ">Djibouti</option>
+            <option value="DM">Dominica</option>
+            <option value="DO">Dominican Republic</option>
+            <option value="EC">Ecuador</option>
+            <option value="EG">Egypt</option>
+            <option value="SV">El Salvador</option>
+            <option value="GQ">Equatorial Guinea</option>
+            <option value="ER">Eritrea</option>
+            <option value="EE">Estonia</option>
+            <option value="ET">Ethiopia</option>
+            <option value="FK">Falkland Islands (Malvinas)</option>
+            <option value="FO">Faroe Islands</option>
+            <option value="FJ">Fiji</option>
+            <option value="FI">Finland</option>
+            <option value="FR">France</option>
+            <option value="GF">French Guiana</option>
+            <option value="PF">French Polynesia</option>
+            <option value="TF">French Southern Territories</option>
+            <option value="GA">Gabon</option>
+            <option value="GM">Gambia</option>
+            <option value="GE">Georgia</option>
+            <option value="DE">Germany</option>
+            <option value="GH">Ghana</option>
+            <option value="GI">Gibraltar</option>
+            <option value="GR">Greece</option>
+            <option value="GL">Greenland</option>
+            <option value="GD">Grenada</option>
+            <option value="GP">Guadeloupe</option>
+            <option value="GU">Guam</option>
+            <option value="GT">Guatemala</option>
+            <option value="GG">Guernsey</option>
+            <option value="GN">Guinea</option>
+            <option value="GW">Guinea-Bissau</option>
+            <option value="GY">Guyana</option>
+            <option value="HT">Haiti</option>
+            <option value="HM">Heard Island and McDonald Islands</option>
+            <option value="VA">Holy See (Vatican City State)</option>
+            <option value="HN">Honduras</option>
+            <option value="HK">Hong Kong</option>
+            <option value="HU">Hungary</option>
+            <option value="IS">Iceland</option>
+            <option value="IN">India</option>
+            <option value="ID">Indonesia</option>
+            <option value="IR">Iran, Islamic Republic of</option>
+            <option value="IQ">Iraq</option>
+            <option value="IE">Ireland</option>
+            <option value="IM">Isle of Man</option>
+            <option value="IL">Israel</option>
+            <option value="IT">Italy</option>
+            <option value="JM">Jamaica</option>
+            <option value="JP">Japan</option>
+            <option value="JE">Jersey</option>
+            <option value="JO">Jordan</option>
+            <option value="KZ">Kazakhstan</option>
+            <option value="KE">Kenya</option>
+            <option value="KI">Kiribati</option>
+            <option value="KP">Korea, Democratic People's Republic of</option>
+            <option value="KR">Korea, Republic of</option>
+            <option value="KW">Kuwait</option>
+            <option value="KG">Kyrgyzstan</option>
+            <option value="LA">Lao People's Democratic Republic</option>
+            <option value="LV">Latvia</option>
+            <option value="LB">Lebanon</option>
+            <option value="LS">Lesotho</option>
+            <option value="LR">Liberia</option>
+            <option value="LY">Libya</option>
+            <option value="LI">Liechtenstein</option>
+            <option value="LT">Lithuania</option>
+            <option value="LU">Luxembourg</option>
+            <option value="MO">Macao</option>
+            <option value="MK">Macedonia, the former Yugoslav Republic of</option>
+            <option value="MG">Madagascar</option>
+            <option value="MW">Malawi</option>
+            <option value="MY">Malaysia</option>
+            <option value="MV">Maldives</option>
+            <option value="ML">Mali</option>
+            <option value="MT">Malta</option>
+            <option value="MH">Marshall Islands</option>
+            <option value="MQ">Martinique</option>
+            <option value="MR">Mauritania</option>
+            <option value="MU">Mauritius</option>
+            <option value="YT">Mayotte</option>
+            <option value="MX">Mexico</option>
+            <option value="FM">Micronesia, Federated States of</option>
+            <option value="MD">Moldova, Republic of</option>
+            <option value="MC">Monaco</option>
+            <option value="MN">Mongolia</option>
+            <option value="ME">Montenegro</option>
+            <option value="MS">Montserrat</option>
+            <option value="MA">Morocco</option>
+            <option value="MZ">Mozambique</option>
+            <option value="MM">Myanmar</option>
+            <option value="NA">Namibia</option>
+            <option value="NR">Nauru</option>
+            <option value="NP">Nepal</option>
+            <option value="NL">Netherlands</option>
+            <option value="NC">New Caledonia</option>
+            <option value="NZ">New Zealand</option>
+            <option value="NI">Nicaragua</option>
+            <option value="NE">Niger</option>
+            <option value="NG">Nigeria</option>
+            <option value="NU">Niue</option>
+            <option value="NF">Norfolk Island</option>
+            <option value="MP">Northern Mariana Islands</option>
+            <option value="NO">Norway</option>
+            <option value="OM">Oman</option>
+            <option value="PK">Pakistan</option>
+            <option value="PW">Palau</option>
+            <option value="PS">Palestinian Territory, Occupied</option>
+            <option value="PA">Panama</option>
+            <option value="PG">Papua New Guinea</option>
+            <option value="PY">Paraguay</option>
+            <option value="PE" selected>Peru</option>
+            <option value="PH">Philippines</option>
+            <option value="PN">Pitcairn</option>
+            <option value="PL">Poland</option>
+            <option value="PT">Portugal</option>
+            <option value="PR">Puerto Rico</option>
+            <option value="QA">Qatar</option>
+            <option value="RE">Réunion</option>
+            <option value="RO">Romania</option>
+            <option value="RU">Russian Federation</option>
+            <option value="RW">Rwanda</option>
+            <option value="BL">Saint Barthélemy</option>
+            <option value="SH">Saint Helena, Ascension and Tristan da Cunha</option>
+            <option value="KN">Saint Kitts and Nevis</option>
+            <option value="LC">Saint Lucia</option>
+            <option value="MF">Saint Martin (French part)</option>
+            <option value="PM">Saint Pierre and Miquelon</option>
+            <option value="VC">Saint Vincent and the Grenadines</option>
+            <option value="WS">Samoa</option>
+            <option value="SM">San Marino</option>
+            <option value="ST">Sao Tome and Principe</option>
+            <option value="SA">Saudi Arabia</option>
+            <option value="SN">Senegal</option>
+            <option value="RS">Serbia</option>
+            <option value="SC">Seychelles</option>
+            <option value="SL">Sierra Leone</option>
+            <option value="SG">Singapore</option>
+            <option value="SX">Sint Maarten (Dutch part)</option>
+            <option value="SK">Slovakia</option>
+            <option value="SI">Slovenia</option>
+            <option value="SB">Solomon Islands</option>
+            <option value="SO">Somalia</option>
+            <option value="ZA">South Africa</option>
+            <option value="GS">South Georgia and the South Sandwich Islands</option>
+            <option value="SS">South Sudan</option>
+            <option value="ES">Spain</option>
+            <option value="LK">Sri Lanka</option>
+            <option value="SD">Sudan</option>
+            <option value="SR">Suriname</option>
+            <option value="SJ">Svalbard and Jan Mayen</option>
+            <option value="SZ">Swaziland</option>
+            <option value="SE">Sweden</option>
+            <option value="CH">Switzerland</option>
+            <option value="SY">Syrian Arab Republic</option>
+            <option value="TW">Taiwan, Province of China</option>
+            <option value="TJ">Tajikistan</option>
+            <option value="TZ">Tanzania, United Republic of</option>
+            <option value="TH">Thailand</option>
+            <option value="TL">Timor-Leste</option>
+            <option value="TG">Togo</option>
+            <option value="TK">Tokelau</option>
+            <option value="TO">Tonga</option>
+            <option value="TT">Trinidad and Tobago</option>
+            <option value="TN">Tunisia</option>
+            <option value="TR">Turkey</option>
+            <option value="TM">Turkmenistan</option>
+            <option value="TC">Turks and Caicos Islands</option>
+            <option value="TV">Tuvalu</option>
+            <option value="UG">Uganda</option>
+            <option value="UA">Ukraine</option>
+            <option value="AE">United Arab Emirates</option>
+            <option value="GB">United Kingdom</option>
+            <option value="US">United States</option>
+            <option value="UM">United States Minor Outlying Islands</option>
+            <option value="UY">Uruguay</option>
+            <option value="UZ">Uzbekistan</option>
+            <option value="VU">Vanuatu</option>
+            <option value="VE">Venezuela, Bolivarian Republic of</option>
+            <option value="VN">Viet Nam</option>
+            <option value="VG">Virgin Islands, British</option>
+            <option value="VI">Virgin Islands, U.S.</option>
+            <option value="WF">Wallis and Futuna</option>
+            <option value="EH">Western Sahara</option>
+            <option value="YE">Yemen</option>
+            <option value="ZM">Zambia</option>
+            <option value="ZW">Zimbabwe</option>
+          </select>
+        </div>
+        <div class="field">
+          <label>Region</label>
+          <select class="ui search dropdown">
+            <option value="">Select Region</option>
+            <option value="East Asia and the Pacific">East Asia and the Pacific</option>
+            <option value="South Asia">South Asia</option>
+            <option value="Europe and Central Asia">Europe and Central Asia</option>
+            <option value="Middle East and North Africa">Middle East and North Africa</option>
+            <option value="Sub-Saharan Africa">Sub-Saharan Africa</option>
+            <option value="Latin America and the Caribbean" selected>Latin America and the Caribbean</option>
+            <option value="North America">North America</option>
+            <option value="World">World</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="fields">
+        <div class="field">
+          <label>Type of complainant:</label>
+          <select class="ui search dropdown">
+            <option value="">Select Complianant Type</option>
+            <option value="International CSO">International CSO</option>
+            <option value="National CSO">National CSO</option>
+            <option value="Local CSO or community-based organization">Local CSO or community-based organization</option>
+            <option value="Community" selected>Community</option>
+            <!-- consider adding value for 'workers' -->
+            <option value="Individual">Individual</option>
+            <option value="CAO Vice President">CAO Vice President</option>
+            <option value="WB President">WB President</option>
+            <option value="IFC/MIGA senior management">IFC/MIGA senior management</option>
+            <option value="Missing">Missing</option>
+          </select>
+        </div>
+        <div class="field">
+          <label>Number of Complainants</label>
+          <input type="text" placeholder=" (1, 2+)" value="4">
+        </div>
+      </div>
+
+      <div class="fields">
+        <div class="field">
+          <label>Complainant Name (1st)</label>
+          <input type="text" placeholder="user-defined; allow to add as needed">
+        </div>
+      </div>
+
+      <div class="fields">
+        <div class="field">
+          <label>Complainant Name (2nd)</label>
+          <input type="text" placeholder="user-defined; allow to add as needed">
+        </div>
+      </div>
+
+      <div class="fields">
+        <div class="field">
+          <label>Complainant Name (Nth)</label>
+          <input type="text" placeholder="user-defined; allow to add as needed">
+        </div>
+      </div>
+    </div>
+
+      <p>
+            <div>Is this a confidential complaint? &nbsp;
+
+              <a class="ui grey circular label">
+              <div class="ui inline dropdown">
+                <div class="text">No.</div>
+                <i class="dropdown icon"></i>
+                <div class="menu">
+                  <div class="item active" data-text="Yes.">Yes</div>
+                  <div class="item" data-text="No.">No</div>
+                </div>
+              </div>
+              </a>
+            </div>
+      </p>
+<p>
+      <div>Have the complainants requested confidentiality? &nbsp;
+
+        <a class="ui orange circular label">
+        <div class="ui inline dropdown">
+          <div class="text">Yes.</div>
+          <i class="dropdown icon"></i>
+          <div class="menu">
+            <div class="item active" data-text="Yes.">Yes</div>
+            <div class="item" data-text="No.">No</div>
+          </div>
+        </div>
+        </a>
+      </div>
+</p>
+<p>
+      <div>Have the complainants raised security / threat concerns? &nbsp;
+        <a class="ui orange circular label">
+        <div class="ui inline dropdown">
+          <div class="text">Yes.</div>
+          <i class="dropdown icon"></i>
+          <div class="menu">
+            <div class="item active" data-text="Yes.">Yes</div>
+            <div class="item" data-text="No.">No</div>
+          </div>
+        </div>
+      </a>
+      </div>
+
+</p>
+<p>
+      <div>Is the complaint being supported by a CSO? &nbsp;
+      <a class="ui grey circular label">
+        <div class="ui inline dropdown">
+          <div class="text">No.</div>
+          <i class="dropdown icon"></i>
+          <div class="menu">
+            <div class="item active" data-text="Yes.">Yes</div>
+            <div class="item" data-text="No.">No</div>
+          </div>
+        </div>
+      </a>
+      </div>
+
+
+</p>
+
+<div>Case passed to eligibility? &nbsp;
+  <div class="ui inline dropdown">
+    <div class="text">Yes.</div><!-- Auto-transfer case details to eligibility if value toggled to 'yes'. -->
+    <i class="dropdown icon"></i>
+    <div class="menu">
+      <div class="item active" data-text="Yes.">Yes</div>
+      <div class="item" data-text="No.">No</div>
+    </div>
+  </div>
+</div>
+
+
+<p>&nbsp;</p>
+
+<h2 class="ui header">Case Analytics Data</h2>
+
+
+<!-- This might need to be iterated or allow for multi-selection  or user input if multiple loan products were used for a project -->
+<div class="ui form">
+    <div class="eight wide field">
+      <label>Type of financial product: </label>
+      <select class="ui search dropdown">
+        <option value="">Select Financial Product</option>
+        <option value="A Loan (senior)">A Loan (senior)</option>
+        <option value="B Loan (syndicated)">B Loan (syndicated)</option>
+        <option value="C Loan (subordinated)">C Loan (subordinated)</option>
+        <option value="Loan">Loan</option>
+        <option value="Equity" selected>Equity</option>
+        <option value="Quasi-Equity">Quasi-Equity</option>
+        <option value="Guarantees">Guarantees</option>
+        <option value="Syndications">Syndications</option>
+        <option value="Fin Risk Mgmt Instruments">Fin Risk Mgmt Instruments</option>
+      </select>
+    </div>
+</div>
+
+<div class="ui equal width form">
+  <div class="fields">
+    <div class="field">
+      <label>IFC Industry: </label>
+      <select class="ui search dropdown">
+        <option value="">Select Industry</option>
+        <option value="Manufacturing, Agribusiness and Services">Manufacturing, Agribusiness and Services</option>
+        <option value="Financial Markets">Financial Markets</option>
+        <option value="Infrastructure and Natural Resources" selected>Infrastructure and Natural Resources</option>
+        <option value="Advisory Services">Advisory Services</option>
+        <option value="Missing">Missing</option>
+        <option value="N/A">N/A</option>
+      </select>
+    </div>
+    <div class="field">
+      <label>IFC Sector: </label>
+      <select class="ui search dropdown">
+        <option value="">Select Sector</option>
+        <option value="Agribusiness and Forestry (MAS)">Agribusiness and Forestry (MAS)</option>
+        <option value="Cement">Cement</option>
+        <option value="Chemicals and Fertilizers (MAS)">Chemicals and Fertilizers (MAS)</option>
+        <option value="Construction Materials (MAS)">Construction Materials (MAS)</option>
+        <option value="Health and Education (MAS)">Health and Education (MAS)</option>
+        <option value="Machinery (MAS)" >Machinery (MAS)</option>
+        <option value="Tourism, Retail, Property (MAS)">Tourism, Retail, Property (MAS)</option>
+        <option value="Sustainability and Climate Business (FM)">Sustainability and Climate Business (FM)</option>
+        <option value="MSME Finance (FM)">MSME Finance (FM)</option>
+        <option value="Port and Harbor Operations">Port and Harbor Operations</option>
+        <option value="Private Equity Funds (FM)">Private Equity Funds (FM)</option>
+        <option value="Retail Finance (FM)">Retail Finance (FM)</option>
+        <option value="Trade Finance (FM)">Trade Finance (FM)</option>
+        <option value="Telecom, Media and Tech (INR)">Telecom, Media and Tech (INR)</option>
+        <option value="Sustainability and Climate Business (FM)">Power (INR)</option>
+        <option value="Sustainability and Climate Business (FM)">Transport (INR)</option>
+        <option value="Sustainability and Climate Business (FM)">Water (INR)</option>
+        <option value="Sustainability and Climate Business (FM)">Oil and Gas (INR)</option>
+        <option value="Sustainability and Climate Business (FM)">Mining (INR)</option>
+        <option value="Sustainability and Climate Business (FM)">V-AB - Gas - Thermal Power Generation</option>
+        <option value="Sustainability and Climate Business (FM)">Advisory Services (AS)</option>
+        <option value="Sustainability and Climate Business (FM)">Missing</option>
+        <option value="Sustainability and Climate Business (FM)">n/a</option>
+      </select>
+    </div>
+  </div>
+
+</div>
+
+
+<div class="ui equal width form">
+  <div class="fields">
+    <div class="field">
+      <label>CAO Industry: </label>
+      <select class="ui search dropdown">
+        <option value="">Select Industry</option>
+        <option value="N/A">n/a</option>
+        <option value="Mining, Oil, Gas and Chemicals" selected>Mining, Oil, Gas and Chemicals</option>
+        <option value="Manufacturing">Manufacturing</option>
+        <option value="Infrastructure">Infrastructure</option>
+        <option value="Agribusiness">Agribusiness</option>
+        <option value="Financial Markets">Financial Markets</option>
+        <option value="Health and Education">Health and Education</option>
+        <option value="Advisory Services">Advisory Services</option>
+        <option value="Missing">Missing</option>
+        <option value="Other">Other</option><!--If other, allow user input-->
+      </select>
+    </div>
+    <div class="field">
+      <label>CAO Sector: </label>
+      <select class="ui search dropdown">
+        <option value="">Select Sector</option>
+        <option value="n/a">N/A</option>
+        <option value="Agribusiness and Forestry (MAS)">Agribusiness and Forestry (MAS)</option>
+        <option value="Cement">Cement</option>
+        <option value="Chemicals and Fertilizers (MAS)">Chemicals and Fertilizers (MAS)</option>
+        <option value="Construction Materials (MAS)">Construction Materials (MAS)</option>
+        <option value="Health and Education (MAS)">Health and Education (MAS)</option>
+        <option value="Machinery (MAS)" >Machinery (MAS)</option>
+        <option value="Tourism, Retail, Property (MAS)">Tourism, Retail, Property (MAS)</option>
+        <option value="Sustainability and Climate Business (FM)">Sustainability and Climate Business (FM)</option>
+        <option value="MSME Finance (FM)">MSME Finance (FM)</option>
+        <option value="Port and Harbor Operations">Port and Harbor Operations</option>
+        <option value="Private Equity Funds (FM)">Private Equity Funds (FM)</option>
+        <option value="Retail Finance (FM)">Retail Finance (FM)</option>
+        <option value="Trade Finance (FM)">Trade Finance (FM)</option>
+        <option value="Telecom, Media and Tech (INR)">Telecom, Media and Tech (INR)</option>
+        <option value="Power (INR)">Power (INR)</option>
+        <option value="Transport (INR)">Transport (INR)</option>
+        <option value="Water (INR)">Water (INR)</option>
+        <option value="Oil and Gas (INR)">Oil and Gas (INR)</option>
+        <option value="Mining (INR)">Mining (INR)</option>
+        <option value="V-AB - Gas - Thermal Power Generation">V-AB - Gas - Thermal Power Generation</option>
+        <option value="Advisory Services (AS)">Advisory Services (AS)</option>
+        <option value="Missing">Missing</option>
+        <option value="Missing">Other</option><!--If other, allow user input-->
+      </select>
+    </div>
+  </div>
+
+</div>
+
+<!--
+Department
+
+Partners (IBRD, IDA, etc.)
+
+-->
+
+
+<div class="ui equal width form">
+  <div class="fields">
+    <div class="field">
+      <label>E&S Category: </label>
+      <select class="ui search dropdown">
+        <option value="">Select E&S Category</option>
+        <option value="E&S Category A" selected>A</option>
+        <option value="E&S Category B">B</option>
+        <option value="E&S Category C">C</option>
+        <option value="FI">FI</option>
+        <option value="FI-1">FI-1</option>
+        <option value="FI-2">FI-2</option>
+        <option value="FI-3">FI-3</option>
+        <option value="N/A">N/A</option>
+        <option value="Missing">Missing</option>
+      </select>
+    </div>
+    <div class="field">
+      <label>Applicable E&S Framework: </label>
+      <select class="ui search dropdown">
+        <option value="">Select Performance Standard</option>
+        <option value="n/a">N/A</option>
+        <option value="Safeguards" selected>Safeguards (pre-2006)</option>
+        <option value="2006">SP 2006</option>
+        <option value="2012">SP 2012</option>
+        <option value="Missing">Missing</option>
+        <option value="Other">Other</option><!--If other, allow user input-->
+      </select>
+    </div>
+    <div class="field">
+      <label>Operational Guidelines: </label>
+      <select class="ui search dropdown">
+        <option value="">Select Operational Guidelines</option>
+        <option value="n/a">N/A</option>
+        <option value="Safeguards" selected>Safeguards</option>
+        <option value="2006">2006</option>
+        <option value="2012">2012</option>
+        <option value="Missing">Missing</option>
+        <option value="Other">Other</option><!--If other, allow user input-->
+      </select>
+    </div>
+  </div>
+
+
+</div>
+
+<!-- NOTE:
+https://semantic-ui.com/modules/dropdown.html#/examples
+Match Search Query on Server
+Search selection dropdowns can specify API settings for retrieving values remotely, this can use either a named API action or url.
+
+Using API can allow users to select choices from large datasets that would be too large to include directly in page markups.
+
+If your backend is not designed to return the correct markup you can use API's onResponse callback to adjust the format of an API response after it is received from the server.
+
+Requests for the same API endpoints will automatically cached locally, to avoid server roundtrips. You can disable this by adjusting the cache API setting.
+
+When a user refreshes the page, selection labels are automatically recreated by using sessionStorage to store the corresponding names for selected values. You can disable this feature by setting saveRemoteData: false
+-->
+
+
+<div class="ui sub header">Case Categorization</div>
+
+<div class="ui fluid multiple search selection dropdown">
+  <input name="tags" type="hidden"  value="Occupational Health & Safety,Work Environment">
+  <i class="dropdown icon"></i>
+  <div class="default text">Select...</div>
+
+  <div class="menu">
+    <id="esp">	<div class="item" data-value="PSs/Safeguard Policies">	PSs/Safeguard Policies	</div>
+    <id="dp">	<div class="item" data-value="Information Disclosure">	Information Disclosure 	</div>
+    <id="lj">	<div class="item" data-value="Local Jurisdiction">	Local Jurisdiction </div>
+    <id="pc">	<div class="item" data-value="Policy Compliance Binary">	Policy Compliance </div>
+    <id="esia">	<div class="item" data-value="Environmental and Social Risk & Impact Assessment">	Environmental and Social Risk & Impact Assessment (Risk Assessment - Process Issues)		</div>
+    <id="cat">	<div class="item" data-value="Project Categorization">	Project Categorization </div>
+    <id="rsk">	<div class="item" data-value="Risk Assessment Binary">	Risk Assessment 		</div>
+    <id="mgmt-sys">	<div class="item" data-value="E&S Management System">	E&S Management System </div>
+    <id="monit">	<div class="item" data-value="Monitoring & Supervision">	Monitoring & Supervision </div>
+    <id="mgmt">	<div class="item" data-value="E&S Management Binary">	E&S Management</div>
+    <id="chng">	<div class="item" data-value="Change in Social Order">	Change in Social Order 		</div>
+    <id="conf">	<div class="item" data-value="Social Divisions/Conflict">	Social Divisions/Conflict 		</div>
+    <id="prac">	<div class="item" data-value="Cultural Practices">	Cultural Practices 	</div>
+    <id="fbrc">	<div class="item" data-value="Social Fabric Binary ">	Social Fabric 	</div>
+    <id="iden">	<div class="item" data-value="Stakeholder Identification">	Stakeholder Identification </div>
+    <id="grm">	<div class="item" data-value="Grievance Mechanism">	Grievance Mechanism </div>
+    <id="cp">	<div class="item" data-value="Consultation & Participation">	Consultation & Participation </div>
+    <id="coe">	<div class="item" data-value="Coercion">	Coercion </div>
+    <id="com">	<div class="item" data-value="Unfulfilled Commitments">	Unfulfilled Commitments </div>
+    <id="eng-bi">	<div class="item" data-value="Stakeholder Engagement Binary">	Stakeholder Engagement  </div>
+    <id="wmn">	<div class="item" data-value="Women">	Women</div>
+    <id="cdrn">	<div class="item" data-value="Children">	Children </div>
+    <id="ip">	<div class="item" data-value="Indigenous Peoples">	Indigenous Peoples </div>
+    <id="vg">	<div class="item" data-value="Other Vulnerable Groups">	Other Vulnerable Groups </div>
+    <id="cominf">	<div class="item" data-value="Community Infrastructure & Services">	Community Infrastructure & Services </div>
+    <id="jobtrng">	<div class="item" data-value="Training/Job Opportunities">	Training/Job Opportunities </div>
+    <id="livlres">	<div class="item" data-value="Livelihood Restoration">	Livelihood Restoration 	</div>
+    <id="revdsp">	<div class="item" data-value="Revenue Distribution">	Revenue Distribution </div>
+    <id="qalfe">	<div class="item" data-value="Quality of Life">	Quality of Life </div>
+    <id="ben">	<div class="item" data-value="Project Benefits to Communities Binary">	Project Benefits to Communities  </div>
+    <id="fdlbr">	<div class="item" data-value="Forced/Child Labor">	Forced/Child Labor 	</div>
+    <id="discrm">	<div class="item" data-value="Discrimination & Equal Opportunities">	Discrimination & Equal Opportunities </div>
+    <id="foa">	<div class="item" data-value="Freedom of Association & Collective Bargaining">	Freedom of Association & Collective Bargaining </div>
+    <id="toe">	<div class="item" data-value="Terms of Employment">	Terms of Employment </div>
+    <id="retrnch">	<div class="item" data-value="Retrenchment/Wrongful Termination">	Retrenchment/Wrongful Termination </div>
+    <id="wrk">	<div class="item" data-value="Work Environment">	Work Environment </div>
+    <id="ohs">	<div class="item" data-value="Occupational Health & Safety">	Occupational Health & Safety </div>
+    <id="grvmec">	<div class="item" data-value="Grievance Mechanism">	Grievance Mechanism </div>
+    <id="lb-bi">	<div class="item" data-value="Labor Binary">	Labor </div>
+    <id="dise">	<div class="item" data-value="Disease & General Health">	Disease & General Health 	</div>
+    <id="hcac">	<div class="item" data-value="Health Care Quality/Access">	Health Care Quality/Access </div>
+    <id="wcac">	<div class="item" data-value="Water Quality/Access">	Water Quality/Access </div>
+    <id="lqal">	<div class="item" data-value="Land Quality">	Land Quality </div>
+    <id="aqal">	<div class="item" data-value="Air Quality">	Air Quality </div>
+    <id="fs">	<div class="item" data-value="Food Access/Security">	Food Access/Security</div>
+    <id="com-hlt">	<div class="item" data-value="Community Health Binary">	Community Health </div>
+    <id="viol">	<div class="item" data-value="Violence/Abuse">	Violence/Abuse</div>
+    <id="sec-con">	<div class="item" data-value="Security Forces Misconduct">	Security Forces Misconduct </div>
+    <id="cons">	<div class="item" data-value="Facility Construction & Management (Community Safety and Security - Socio-Economic Impacts)">	Facility Construction & Management </div>
+    <id="los-lf">	<div class="item" data-value="Loss of Life">	Loss of Life </div>
+    <id="com-sec">	<div class="item" data-value="Community Safety and Security Binary">	Community Safety and Security </div>
+    <id="invl">	<div class="item" data-value="Involuntary">	Involuntary	</div>
+    <id="indq">	<div class="item" data-value="Inadequate">	Inadequate 	</div>
+    <id="res-bi">	<div class="item" data-value="Resettlement Binary ">	Resettlement </div>
+    <id="">	<div class="item" data-value="Land Productivity/Access">	Land Productivity/Access 	</div>
+    <id="">	<div class="item" data-value="Water Quality/Access">	Water Quality/Access </div>
+    <id="">	<div class="item" data-value="Other Income Generation Capacity/Sources">	Other Income Generation Capacity/Sources </div>
+    <id="">	<div class="item" data-value="Cost of Living">	Cost of Living 	</div>
+    <id="">	<div class="item" data-value="Economic Displacement Binary">	Economic Displacement </div>
+    <id="">	<div class="item" data-value="Land">	Land 	</div>
+    <id="">	<div class="item" data-value="Property">	Property </div>
+    <id="">	<div class="item" data-value="Other">	Other </div>
+    <id="">	<div class="item" data-value="Compensation Binary">	Compensation </div>
+    <id="">	<div class="item" data-value="Private/Personal Property">	Private/Personal Property</div>
+    <id="">	<div class="item" data-value="Infrastructure">	Infrastructure</div>
+    <id="">	<div class="item" data-value="Cultural Heritage Sites">	Cultural Heritage Sites</div>
+    <id="">	<div class="item" data-value="Asset Damage/Loss Binary">	Asset Damage/Loss </div>
+    <id="">	<div class="item" data-value="Air">	Air </div>
+    <id="">	<div class="item" data-value="Land">	Land </div>
+    <id="">	<div class="item" data-value="Water">	Water </div>
+    <id="">	<div class="item" data-value="Noise/ Odor/Dust">	Noise/ Odor/Dust </div>
+    <id="">	<div class="item" data-value="Other">	Other </div>
+    <id="">	<div class="item" data-value="Pollution Binary">	Pollution</div>
+    <id="">	<div class="item" data-value="Protected Areas">	Protected Areas</div>
+    <id="">	<div class="item" data-value="Endangered Species">	Endangered Species</div>
+    <id="">	<div class="item" data-value="Water">	Water</div>
+    <id="">	<div class="item" data-value="Land">	Land</div>
+    <id="">	<div class="item" data-value="Climate Change">	Climate Change</div>
+    <id="">	<div class="item" data-value="Ecosystem Services">	Ecosystem Services</div>
+    <id="">	<div class="item" data-value="Other">	Other</div>
+
+
+  </div>
+</div>
+
+<!--
+
+- PSs/Safeguard Policies (Policy Compliance - Process Issues)
+- Information Disclosure (Policy Compliance - Process Issues)
+- Local Jurisdiction (Policy Compliance - Process Issues)
+- Policy Compliance Binary (Policy Compliance - Process Issues)
+- Environmental and Social Risk & Impact Assessment (Risk Assessment - Process Issues)
+- Project Categorization (Risk Assessment - Process Issues)
+- Risk Assessment Binary (Risk Assessment - Process Issues)
+- E&S Management System (E&S Management - Process Issues)
+- Monitoring & Supervision (E&S Management - Process Issues)
+- E&S Management Binary (E&S Management - Process Issues)
+- Change in Social Order (Social Fabric - Socio-Economic Impacts)
+- Social Divisions/Conflict (Social Fabric - Socio-Economic Impacts)
+- Cultural Practices (Social Fabric - Socio-Economic Impacts)
+- Social Fabric Binary (Social Fabric - Socio-Economic Impacts)
+- Stakeholder Identification (Stakeholder Engagement - Socio-Economic Impacts)
+- Grievance Mechanism (Stakeholder Engagement - Socio-Economic Impacts)
+- Consultation & Participation (Stakeholder Engagement - Socio-Economic Impacts)
+- Coercion (Stakeholder Engagement - Socio-Economic Impacts)
+- Unfulfilled Commitments (Stakeholder Engagement - Socio-Economic Impacts)
+- Stakeholder Engagement Binary (Stakeholder Engagement - Socio-Economic Impacts)
+- Women (Vulnerable Groups - Socio-Economic Impacts)
+- Children (Vulnerable Groups - Socio-Economic Impacts)
+- Indigenous Peoples (Vulnerable Groups - Socio-Economic Impacts)
+- Other Vulnerable Groups (Vulnerable Groups - Socio-Economic Impacts)
+- Vulnerable Groups Binary (Vulnerable Groups - Socio-Economic Impacts)
+- Community Infrastructure & Services (Project Benefits to Communities - Socio-Economic Impacts)
+- Training/Job Opportunities (Project Benefits to Communities - Socio-Economic Impacts)
+- Livelihood Restoration (Project Benefits to Communities - Socio-Economic Impacts)
+- Revenue Distribution (Project Benefits to Communities - Socio-Economic Impacts)
+- Quality of Life (Project Benefits to Communities - Socio-Economic Impacts)
+- Project Benefits to Communities Binary (Project Benefits to Communities - Socio-Economic Impacts)
+- Forced/Child Labor (Labor - Socio-Economic Impacts)
+- Discrimination & Equal Opportunities (Labor - Socio-Economic Impacts)
+- Freedom of Association & Collective Bargaining (Labor - Socio-Economic Impacts)
+- Terms of Employment (Labor - Socio-Economic Impacts)
+- Retrenchment/Wrongful Termination (Labor - Socio-Economic Impacts)
+- Work Environment (Labor - Socio-Economic Impacts)
+- Occupational Health & Safety (Labor - Socio-Economic Impacts)
+- Grievance Mechanism (Labor - Socio-Economic Impacts)
+- Labor Binary (Labor - Socio-Economic Impacts)
+- Disease & General Health (Community Health - Socio-Economic Impacts)
+- Health Care Quality/Access (Community Health - Socio-Economic Impacts)
+- Water Quality/Access (Community Health - Socio-Economic Impacts)
+- Land Quality (Community Health - Socio-Economic Impacts)
+- Air Quality (Community Health - Socio-Economic Impacts)
+- Food Access/Security (Community Health - Socio-Economic Impacts)
+- Community Health Binary (Community Health - Socio-Economic Impacts)
+- Violence/Abuse (Community Safety and Security - Socio-Economic Impacts)
+- Security Forces Misconduct (Community Safety and Security - Socio-Economic Impacts)
+- Facility Construction & Management (Community Safety and Security - Socio-Economic Impacts)
+- Loss of Life (Community Safety and Security - Socio-Economic Impacts)
+- Community Safety and Security Binary (Community Safety and Security - Socio-Economic Impacts)
+- Involuntary (Resettlement - Socio-Economic Impacts)
+- Inadequate (Resettlement - Socio-Economic Impacts)
+- Resettlement Binary (Resettlement - Socio-Economic Impacts)
+- Land Productivity/Access (Economic Displacement - Socio-Economic Impacts)
+- Water Quality/Access (Economic Displacement - Socio-Economic Impacts)
+- Other Income Generation Capacity/Sources (Economic Displacement - Socio-Economic Impacts)
+- Cost of Living (Economic Displacement - Socio-Economic Impacts)
+- Economic Displacement Binary (Economic Displacement - Socio-Economic Impacts)
+- Land (Compensation - Socio-Economic Impacts)
+- Property (Compensation - Socio-Economic Impacts)
+- Other (Compensation - Socio-Economic Impacts)
+- Compensation Binary (Compensation - Socio-Economic Impacts)
+- Private/Personal Property (Asset Damage/Loss - Socio-Economic Impacts)
+- Infrastructure (Asset Damage/Loss - Socio-Economic Impacts)
+- Cultural Heritage Sites (Asset Damage/Loss - Socio-Economic Impacts)
+- Asset Damage/Loss Binary (Asset Damage/Loss - Socio-Economic Impacts)
+- Air (Pollution - Environmental Impacts)
+- Land (Pollution - Environmental Impacts)
+- Water (Pollution - Environmental Impacts)
+- Noise/ Odor/Dust (Pollution - Environmental Impacts)
+- Other (Pollution - Environmental Impacts)
+- Pollution Binary (Pollution - Environmental Impacts)
+- Protected Areas (Biodiversity and Natural Resources Impact - Environmental Impacts)
+- Endangered Species (Biodiversity and Natural Resources Impact - Environmental Impacts)
+- Water (Biodiversity and Natural Resources Impact - Environmental Impacts)
+- Land (Biodiversity and Natural Resources Impact - Environmental Impacts)
+- Climate Change (Biodiversity and Natural Resources Impact - Environmental Impacts)
+- Ecosystem Services (Biodiversity and Natural Resources Impact - Environmental Impacts)
+- Other (Biodiversity and Natural Resources Impact - Environmental Impacts)
+- Biodiversity and Natural Resources Impact Binary (Biodiversity and Natural Resources Impact - Environmental Impacts)
+
+Total Issues Raised
+
+-->
+
+
+
+
+<!--
+
+Comments
+
+-->
+
+<p>&nbsp;</p>
+
+<!-- end UI container from top -->
+  </div>
+
+
+  <!--end navigation element w/ pusher segment-->
+<!--
+  </div>
+  </div>
+  </div>
+-->
+</body>
+
+
+
+
+    <script  src="./custom-js/date-picker.js"></script>
+
+
+    <!--navigation element -->
+        <script>
+        $('.ui.sidebar').sidebar({
+            context: $('.bottom.segment')
+          })
+          .sidebar('attach events', '.menu .item');
+        </script>
+
+<!-- SCRIPT TO EXECUTE DROPDOWN BREAKS W/ MENU -->
+<script>
+$('.ui.dropdown')
+  .dropdown()
+;
+</script>
+<!-- -->
+
+
+<!-- SCRIPT TO EXECUTE MULTISELECT -->
+<script>
+$('.tag.example .ui.dropdown')
+  .dropdown({
+    allowAdditions: true
+  })
+;
+</script>
+<!-- -->
+
+<!-- SCRIPT TO STORE DEFAULT VALUES -->
+<script>
+$('.restore.example .button')
+  .on('click', function() {
+    $('.restore.example .ui.dropdown')
+      .dropdown('restore defaults')
+    ;
+  })
+;
+</script>
+<!-- -->
+
+
+
+
+</html>

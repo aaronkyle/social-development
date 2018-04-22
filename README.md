@@ -14,7 +14,7 @@ My work here is on-going.  Attempting to define a organizational framework for t
 
 I consider no page to be complete. Most are still very immature in terms of their content. I make many typos. This will be a life-long project for me. If you see spot anything that you'd like to challenge or correct, please send me an email (or better, a submit a pull request).
 
-Also&mdash;as noted&mdash;my work focuses on social development. As I work on defining [terms](./category/terminology.html), I do so with respect to their usage relative to the practice of social development&mdash;I don't worry to much about how a term is used in other disciplines.
+Also&mdash;as noted&mdash;my work focuses on social development. As I work on defining [terms](http://applied-anthro.com/category/terminology.html), I do so with respect to their usage relative to the practice of social development&mdash;I don't worry to much about how a term is used in other disciplines.
 
 <!--
 I should also emphasise how much I continue to struggle to account for what constitutes 'social policy'.

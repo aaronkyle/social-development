@@ -20,8 +20,7 @@ Also&mdash;as noted&mdash;my work focuses on social development. As I work on de
 I should also emphasise how much I continue to struggle to account for what constitutes 'social policy'.
 -->
 
-## Organization of the Repository
-
+## Organization of the [Repository](https://github.com/aaronkyle/social-development)
 
 ```
 archive/	# record of HTML pages generated for web front end

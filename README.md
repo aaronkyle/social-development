@@ -1,6 +1,6 @@
 ## Purpose
 
-This repository is intended as a resource for people interested in, or working with, [social policy](http://applied-anthro.com/terms/social-policy/).
+This [repository](https://github.com/aaronkyle/social-development) is intended as a resource for people interested in, or working with, [social policy](http://applied-anthro.com/terms/social-policy/).
 
 Social policy has varied articulations and manifestations.  Tracking how social policy is defined and realized over time and across institutions is difficult.  Policy formulations change and evolve, and the relationship between seemingly similar terms and concepts is sometimes obtuse and counter-intuitive.
 

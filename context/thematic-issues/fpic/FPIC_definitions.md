@@ -122,7 +122,7 @@ Some definitional frameworks proposed in international jurisprudence are as foll
 > * Their choice to give or withhold consent over developments affecting them is respected and upheld.
  
 
-### < a id="UNDRIP_framework_2008">From</a><a id="UNDRIP_framework_2008,alt">&nbsp;</a>the “[The UN Declaration on the Rights of Indigenous Peoples, Treaties and the Right to Free, Prior and Informed Consent - The Framework For a New Mechanism for Reparations, Restitution and Redress](http:/www.un.org/esa/socdev/unpfii/documents/E_C19_2008_CRP_12.doc)”
+### <a id="UNDRIP_framework_2008">From</a><a id="UNDRIP_framework_2008,alt">&nbsp;</a>the “[The UN Declaration on the Rights of Indigenous Peoples, Treaties and the Right to Free, Prior and Informed Consent - The Framework For a New Mechanism for Reparations, Restitution and Redress](http:/www.un.org/esa/socdev/unpfii/documents/E_C19_2008_CRP_12.doc)”
 
 ##### Submitted by the International Indian Treaty Council to the United Nations Permanent Forum on Indigenous Issues (March 9, 2008)<a href="#ref,UNDRIP_framework_2008">[3]</a><a href="#ref,UNDRIP_framework_2008,alt">[4]</a>
 

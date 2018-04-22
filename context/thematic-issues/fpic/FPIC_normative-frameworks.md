@@ -1,10 +1,5 @@
 # Establishing FPIC via Normative Frameworks
 
-by Aaron Kyle Dennis
-<span style="font-size:small;">Published 2011-Feb-16 on the [CCCS website](http://internal.crossculturalconsult.com/joomla/index.php/en/spotlight-on-fpic/defining-fpic);<br>re-published as a weblog on 2013-Nov-21.</span>
-<span style="font-size:small;">&copy;Cross-Cultural Consulting Services, PLCC. 2011.</span>
-<span style="font-size:small;">[Attribution; Share Alike](http://creativecommons.org/licenses/by-sa/3.0/us/)</span>
-
 ## International Law
 
 ### Binding Instruments
@@ -92,6 +87,14 @@ Report No. 96/03
 * <a href="http://www.european-council.europa.eu/home-page.aspx?lang=en">European Council of Ministers</a>
 * <a href="http://ec.europa.eu/index_en.htm">European Commission</a>
 
+
+
+<!--
+by Aaron Kyle Dennis
+<span style="font-size:small;">Published 2011-Feb-16 on the [CCCS website](http://internal.crossculturalconsult.com/joomla/index.php/en/spotlight-on-fpic/defining-fpic);<br>re-published as a weblog on 2013-Nov-21.</span>
+<span style="font-size:small;">&copy;Cross-Cultural Consulting Services, PLCC. 2011.</span>
+<span style="font-size:small;">[Attribution; Share Alike](http://creativecommons.org/licenses/by-sa/3.0/us/)</span>
+-->
 
 ...
 

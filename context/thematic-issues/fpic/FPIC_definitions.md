@@ -4,10 +4,13 @@
 
 *But what exactly is FPIC, and how is it realized in practice?*
 
+<!--
 by Aaron Kyle Dennis <br />
 <span style="font-size:small;">Published 2011-Feb-15 by Cross-Cultural Consulting Services, PLCC.</span>
 <span style="font-size:small;">[Attribution; Share Alike](http://creativecommons.org/licenses/by-sa/3.0/us/)</span>
 <p>&nbsp;</p>
+-->
+
 
 ## free, prior and informed consent (FPIC) under the 2007 United Nations Declaration on the Rights of Indigenous Peoples*
 

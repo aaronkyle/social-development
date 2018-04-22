@@ -1,6 +1,6 @@
 # Defining FPIC: free, prior and informed consent
 
-<span style="text-align: justify;"><em>The principle of free, prior and informed consent (FPIC) is increasingly invoked as a right of Indigenous Peoples relative to the development projects and resource extraction that occurs within their lands and territories.*</em></span>
+<span style="text-align: justify;"><em>The principle of free, prior and informed consent (FPIC) is increasingly invoked as a right of Indigenous Peoples relative to the development projects and resource extraction that occurs within their lands and territories.</em></span>
 
 <em>But what exactly is FPIC, and how is it realized in practice?</em>
 

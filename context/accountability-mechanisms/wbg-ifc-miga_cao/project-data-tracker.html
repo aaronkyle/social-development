@@ -123,12 +123,14 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
 -->
   <div class="ui simple dropdown item">
     CAO Case Management Utility <i class="dropdown icon"></i>
+<!--
+    <a class="item" href="complaince-case-data-entry.html">Compliance</a>
     <div class="menu">
     <a class="item" href="case-intake-data-entry.html">Intake & Analytics</a>
     <a class="item" href="eligibility-data-entry.html">Eligibility</a>
-    <a class="item" href="#ombudsman_case-data-entry.html"> Dispute Resolution</a>
-    <a class="item" href="#complaince_case-data-entry.html">Compliance</a>
-    <a class="item" href="project-data-tracker.html">Project Data Tracker</a>
+    <a class="item" href=""> Dispute Resolution</a>
+    <a class="item" href="complaince-case-data-entry.html">Compliance</a>
+-->
 <!--
       <div class="divider"></div>
       <div class="header">Header Item</div>
@@ -165,8 +167,9 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
       <a class="item" data-tab="second">Timeline</a>
       <a class="item" data-tab="third">Intake & Analytics</a>
       <a class="item" data-tab="fourth">Eligibility</a>
-      <a class="item" data-tab="fifth">Dispute Resolution</a>
-      <a class="item" data-tab="sixth">Compliance</a>
+      <a class="item" data-tab="fifth">Asssessment</a>
+      <a class="item" data-tab="sixth">Dispute Resolution</a>
+      <a class="item" data-tab="seventh">Compliance</a>
     </div>
     <!-- START FIRST TAB -->
     <div class="ui tab segment active" data-tab="first">
@@ -189,7 +192,7 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
           <input type="text" placeholder="Enter case name." value="Yanacocha-09/Cajamarca">
         </div>
         <div class="field">
-          <label>Case Number</label>
+          <label>Project Number(s)</label>
           <input type="text" placeholder="Enter number, separate with comma." value="2983, 4449, 9502, A-539023, A-600157">
         </div>
         <div class="fields">
@@ -230,8 +233,20 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
           </div>
           <div class="fields">
             <div class="field">
+                     <div class="inline fields">
               <label>Financial Year</label>
-              <input type="text" placeholder="auto-calculated based on values in assessment" value="FY-18">
+              <div class="ui fluid search selection dropdown">
+                <input type="text" placeholder="auto-calculated based on values in assessment">
+                <i class="dropdown icon"></i>
+                <div class="default text">auto-complete</div>
+                <div class="menu">
+                  <div class="item" data-text="FY19">FY-19</div>
+                  <div class="item" data-text="FY18">FY-18</div>
+                  <div class="item" data-text="FY17" selected>FY-17</div>
+                  <div class="item" data-text="FY16">FY-16</div>
+              </div>
+               </div>
+   </div>
             </div>
         </div>
       </div>
@@ -708,15 +723,15 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
                               <option value="Retail Finance (FM)">Retail Finance (FM)</option>
                               <option value="Trade Finance (FM)">Trade Finance (FM)</option>
                               <option value="Telecom, Media and Tech (INR)">Telecom, Media and Tech (INR)</option>
-                              <option value="Sustainability and Climate Business (FM)">Power (INR)</option>
-                              <option value="Sustainability and Climate Business (FM)">Transport (INR)</option>
-                              <option value="Sustainability and Climate Business (FM)">Water (INR)</option>
-                              <option value="Sustainability and Climate Business (FM)">Oil and Gas (INR)</option>
-                              <option value="Sustainability and Climate Business (FM)">Mining (INR)</option>
-                              <option value="Sustainability and Climate Business (FM)">V-AB - Gas - Thermal Power Generation</option>
-                              <option value="Sustainability and Climate Business (FM)">Advisory Services (AS)</option>
-                              <option value="Sustainability and Climate Business (FM)">Missing</option>
-                              <option value="Sustainability and Climate Business (FM)">n/a</option>
+                              <option value="Power (INR)">Power (INR)</option>
+                              <option value="Transport (INR)">Transport (INR)</option>
+                              <option value="Water (INR)">Water (INR)</option>
+                              <option value="Oil and Gas (INR)">Oil and Gas (INR)</option>
+                              <option value="Mining (INR)" selected>Mining (INR)</option>
+                              <option value="V-AB - Gas - Thermal Power Generation">V-AB - Gas - Thermal Power Generation</option>
+                              <option value="Advisory Services (AS)">Advisory Services (AS)</option>
+                              <option value="Missing">Missing</option>
+                              <option value="n/a">n/a</option>
                             </select>
                           </div>
                         </div>
@@ -925,13 +940,13 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
 
 
 
-        <h2 class="ui header">Case Timeline</h2>
+<!--  <h2 class="ui header">Case Timeline</h2> -->
 
 
         <div class="ui equal width form">
           <div class="fields">
             <div class="field">
-              <div class="ui calendar" id="year-first-date-only-1">
+              <div class="ui calendar" id="year-first-date-only-2">
               <div class="inline fields">
               <label><strong>Date Received by CAO</strong></label>
                 <div class="ui input left icon">
@@ -942,7 +957,7 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
               </div>
             </div>
             <div class="field">
-              <div class="ui calendar" id="year-first-date-only-2">
+              <div class="ui calendar" id="year-first-date-only-3">
               <div class="inline fields">
               <label><strong>Date Acknowledged</strong></label>
                 <div class="ui input left icon">
@@ -965,7 +980,7 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
 
         <!-- Verify whether eligibility start date is needed; appears to start automatically on date acknowledged -->
         <div class="ui equal width form">
-        <div class="ui calendar" id="year-first-date-only-3">
+        <div class="ui calendar" id="year-first-date-only-4">
         <div class="inline fields">
         <label><strong>Eligibility Start Date</strong></label>
           <div class="ui input left icon">
@@ -989,7 +1004,19 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
         </div>
 
         <div class="ui equal width form">
-          <div class="ui calendar" id="year-first-date-only-5">
+        <div class="ui calendar" id="year-first-date-only-22">
+        <div class="inline fields">
+        <label><strong>Eligibility Completion Date</strong></label>
+          <div class="ui input left icon">
+            <i class="calendar icon"></i>
+            <input type="text" placeholder="user-defined" value="3 March 2017">
+          </div>
+        </div>
+        </div>
+        </div>
+
+        <div class="ui equal width form">
+          <div class="ui calendar" id="year-first-date-only-6">
           <div class="inline fields">
           <label><strong>Eligibility Screening Complete:</strong></label>
             <div class="ui input left icon">
@@ -1004,54 +1031,261 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
 
         <p>&nbsp;Days in Eligibility:&nbsp;<a class="ui red circular label">22 </a></p>
 
-        <p>Eligibility Outcomet: <a class="ui green label">Eligible</a></p>
+        <p>Eligibility Decision: <a class="ui green label">Eligible</a></p>
 
+        <p><!-- note: should make 'reporting only', as changing state here would have implications for active fields.-->
+
+        <div>Eligibility Outcome: &nbsp;
+          <div class="ui inline dropdown">
+            <div class="text">Case transferred to compliance.</div>
+            <i class="dropdown icon"></i>
+            <div class="menu">
+              <div class="item active" data-text="Case transferred to compliance.">Case transferred to compliance.</div>
+              <div class="item" data-text="Case transferred to compliance investigation.">Case transferred to dispute resolution.</div>
+              <div class="item" data-text="Case transferred to both functions.">Case transferred to both compliance and dispute resolution.</div>
+              <div class="item" data-text="No.  Case Closed.">Case closed.</div><!--Allow this to change when value adjusted elswhere-->
+            </div>
+          </div>
+        </div>
+</p>
             <h4 class="ui header">Dispute Resolution</h4>
+
+            <p>&nbsp;Days in Dispute Resolution:&nbsp;<a class="ui grey circular label">0 </a></p>
+
+                    <!-- Verify whether eligibility start date is needed; appears to start automatically on date acknowledged -->
+                    <div class="ui equal width form">
+                    <div class="fields">
+                    <div class="field">
+                    <div class="ui calendar" id="year-first-date-only-7">
+                    <div class="inline fields">
+                      <label><strong>	Dispute Resolution Start Date	</strong></label>
+                      <div class="ui input left icon">
+                        <i class="calendar icon"></i>
+                        <input type="text" placeholder="user-defined" value="">
+                      </div>
+                    </div>
+                    </div>
+                    </div>
+                    <div class="field">
+                             <div class="inline fields">
+                      <label>Financial Year</label>
+                      <div class="ui fluid search selection dropdown">
+                        <input type="text" placeholder="auto-calculated based on values in assessment">
+                        <i class="dropdown icon"></i>
+                        <div class="default text">auto-complete</div>
+                        <div class="menu">
+                          <div class="item" data-text="FY19">FY-19</div>
+                          <div class="item" data-text="FY18">FY-18</div>
+                          <div class="item" data-text="FY17">FY-17</div>
+                          <div class="item" data-text="FY16">FY-16</div>
+                      </div>
+                       </div>
+           </div>
+                    </div>
+                  </div>
+                </div>
+
+                                <div class="ui equal width form">
+                                  <div class="ui calendar" id="year-first-date-only-8">
+                                  <div class="inline fields">
+                                  <label><strong>Date of DR Survey:</strong></label>
+                                    <div class="ui input left icon">
+                                      <i class="calendar icon"></i>
+                                      <input type="text" placeholder="auto-calculate allowing manual override" value="">
+                                    </div>
+                                  </div>
+                                  </div>
+                                </div>
+
+                <div>Agreement reached? &nbsp;
+                  <div class="ui inline dropdown">
+                    <div class="text">N/A.</div>
+                    <i class="dropdown icon"></i>
+                    <div class="menu">
+                      <div class="item active" data-text="N/A.">N/A.</div>
+                      <div class="item active" data-text="Yes.">Yes</div>
+                      <div class="item" data-text="No.">No</div>
+                    </div>
+                  </div>
+                </div>
+
+                    <div class="ui equal width form">
+                      <div class="ui calendar" id="year-first-date-only-9">
+                      <div class="inline fields">
+                      <label><strong>Date of Settlement Agreement:</strong></label>
+                        <div class="ui input left icon">
+                          <i class="calendar icon"></i>
+                          <input type="text" placeholder="auto-calculate allowing manual override" value="">
+                        </div>
+                      </div>
+                      </div>
+                    </div>
+
+                    <div>Report Completed? &nbsp;
+                      <div class="ui inline dropdown">
+                        <div class="text">N/A.</div>
+                        <i class="dropdown icon"></i>
+                        <div class="menu">
+                          <div class="item active" data-text="N/A.">N/A.</div>
+                          <div class="item active" data-text="Yes.">Yes</div>
+                          <div class="item" data-text="No.">No</div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="ui equal width form">
+                      <div class="ui calendar" id="year-first-date-only-10">
+                      <div class="inline fields">
+                      <label><strong>Date of Conclusion Report:</strong></label>
+                        <div class="ui input left icon">
+                          <i class="calendar icon"></i>
+                          <input type="text" placeholder="auto-calculate allowing manual override" value="">
+                        </div>
+                      </div>
+                      </div>
+                    </div>
+
+                    <div>Agreement implemented? &nbsp;
+                      <div class="ui inline dropdown">
+                        <div class="text">N/A.</div>
+                        <i class="dropdown icon"></i>
+                        <div class="menu">
+                          <div class="item active" data-text="N/A.">N/A.</div>
+                          <div class="item active" data-text="Yes.">Yes</div>
+                          <div class="item" data-text="No.">No</div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div>Monitoring Complete? &nbsp;
+                      <div class="ui inline dropdown">
+                        <div class="text">N/A.</div>
+                        <i class="dropdown icon"></i>
+                        <div class="menu">
+                          <div class="item active" data-text="N/A.">N/A.</div>
+                          <div class="item active" data-text="Yes.">Yes</div>
+                          <div class="item" data-text="No.">No</div>
+                        </div>
+                      </div>
+                    </div>
+
+  <p>DR Outcome: <a class="ui grey label">N/A</a></p> <!-- note: should make 'reporting only', as changing state here would have implications for active fields.-->
+
+
+
+
+
+
+
+
+
 
 
         <h4 class="ui header">Compliance </h4>
 
+        <div class="ui equal width form">
+        <div class="fields">
+        <div class="field">
+        <div class="ui calendar" id="year-first-date-only-30">
+        <div class="inline fields">
+          <label><strong>Compliance Start Date	</strong></label>
+          <div class="ui input left icon">
+            <i class="calendar icon"></i>
+            <input type="text" placeholder="user-defined" value="11 August 2017">
+          </div>
+        </div>
+        </div>
+        </div>
+          <div class="field">
+                   <div class="inline fields">
+            <label>Financial Year</label>
+            <div class="ui fluid search selection dropdown">
+              <input type="text" placeholder="auto-calculated based on values from eligibility or DR">
+              <i class="dropdown icon"></i>
+              <div class="text">FY-18</div>
+              <div class="menu">
+                <div class="item" data-text="FY-19">FY-19</div>
+                <div class="item active" data-text="FY-18">FY-18</div>
+                <div class="item" data-text="FY-17">FY-17</div>
+                <div class="item" data-text="FY-16">FY-16</div>
+            </div>
+             </div>
+ </div>
+          </div>
+      </div>
+    </div>
+
+
+    <p><strong>Days at Appraisal:</strong> <a class="ui red circular label">50</a></p>
+
+    <p>
+    <div class="ui calendar" id="year-first-date-only-11">
+    <div class="inline fields">
+    <label><strong>Date Appraisal Due</strong></label>
+      <div class="ui input left icon">
+        <i class="calendar icon"></i>
+        <input type="text" placeholder="user-defined date value" value="17 October 2017">
+      </div>
+    </div>
+    </div>
+    </p>
+
+
         <p>
-        <div class="ui calendar" id="year-first-date-only-3">
+        <div class="ui calendar" id="year-first-date-only-11">
         <div class="inline fields">
         <label><strong>Date Appraisal Complete/IFC memo notified (later date)</strong></label>
           <div class="ui input left icon">
             <i class="calendar icon"></i>
-            <input type="text" placeholder="user-defined date value">
+            <input type="text" placeholder="user-defined date value" value="14 November 2017">
           </div>
         </div>
         </div>
         </p>
 
-        <div>Case went to investigation? &nbsp;
+        <div>Case went to investigation? &nbsp;<!-- Change this to allow a drop-down menu. -->
+          <a class="ui green label">
           <div class="ui inline dropdown">
             <div class="text">Yes.</div>
             <i class="dropdown icon"></i>
             <div class="menu">
+              <div class="item" data-text="N/A">N/A</div>
               <div class="item active" data-text="Yes.">Yes</div>
               <div class="item" data-text="No.">No</div>
             </div>
           </div>
+        </a>
         </div>
 
+        <p><strong>Days at Investigation:</strong> <a class="ui green circular label">36</a></p>
 
-        <p><strong>Days at Investigation:</strong> <a class="ui green circular label">1</a></p>
+        <p>
+        <div class="ui calendar" id="year-first-date-only-34">
+        <div class="inline fields">
+        <label><strong>Date Investigation Due</strong></label>
+          <div class="ui input left icon">
+            <i class="calendar icon"></i>
+            <input type="text" placeholder="user-defined date value" value="11 August 2018">
+          </div>
+        </div>
+        </div>
+        </p>
 
          <div class="ui equal width form">
            <div class="fields">
              <div class="field">
-               <div class="ui calendar" id="year-first-date-only-5">
+               <div class="ui calendar" id="year-first-date-only-12">
                <div class="inline fields">
                <label><strong>Date Sent for IFC Factual Review:</strong></label>
                  <div class="ui input left icon">
                    <i class="calendar icon"></i>
-                   <input type="text" placeholder="auto-calculate allowing manual override" value="17 January 2017">
+                   <input type="text" placeholder="auto-calculate allowing manual override" value="">
                  </div>
                </div>
                </div>
              </div>
              <div class="field">
-               <div class="ui calendar" id="year-first-date-only-4">
+               <div class="ui calendar" id="year-first-date-only-13">
                <div class="inline fields">
                <label><strong>Date Factual Review Received from IFC:</strong></label>
                  <div class="ui input left icon">
@@ -1064,23 +1298,23 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
            </div>
            <div class="fields">
              <div class="field">
-               <div class="ui calendar" id="year-first-date-only-3">
+               <div class="ui calendar" id="year-first-date-only-14">
                <div class="inline fields">
                <label><strong>Date Finalized Investigation Report Sent for Response:</strong></label>
                  <div class="ui input left icon">
                    <i class="calendar icon"></i>
-                   <input type="text" placeholder="user-defined date value" value="27 January 2017">
+                   <input type="text" placeholder="user-defined date value" value="">
                  </div>
                </div>
                </div>
              </div>
              <div class="field">
-               <div class="ui calendar" id="year-first-date-only-2">
+               <div class="ui calendar" id="year-first-date-only-15">
                <div class="inline fields">
                <label><strong>Date Response Received from IFC</strong></label>
                  <div class="ui input left icon">
                    <i class="calendar icon"></i>
-                   <input type="text" placeholder="user-defined date value" value="27 January 2017">
+                   <input type="text" placeholder="user-defined date value" value="">
                  </div>
                </div>
                </div>
@@ -1088,23 +1322,23 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
            </div>
            <div class="fields">
              <div class="field">
-               <div class="ui calendar" id="year-first-date-only-1">
+               <div class="ui calendar" id="year-first-date-only-16">
                <div class="inline fields">
                <label><strong>Date Report Sent to President's Office:</strong></label>
                  <div class="ui input left icon">
                    <i class="calendar icon"></i>
-                   <input type="text" placeholder="user-defined date value" value="24 January 2017">
+                   <input type="text" placeholder="user-defined date value" value="">
                  </div>
                </div>
                </div>
              </div>
              <div class="field">
-               <div class="ui calendar" id="year-first-date-only-1">
+               <div class="ui calendar" id="year-first-date-only-17">
                <div class="inline fields">
                <label><strong>Date Report Made Public:</strong></label>
                  <div class="ui input left icon">
                    <i class="calendar icon"></i>
-                   <input type="text" placeholder="user-defined date value" value="24 January 2017">
+                   <input type="text" placeholder="user-defined date value" value="">
                  </div>
                </div>
                </div>
@@ -1117,10 +1351,10 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
                  <i class="dropdown icon"></i>
                  <div class="default text">auto-complete</div>
                  <div class="menu">
-                   <div class="item" data-text="FY19">FY19</div>
-                   <div class="item" data-text="FY18">FY18</div>
-                   <div class="item" data-text="FY17">FY17</div>
-                   <div class="item" data-text="FY16">FY16</div>
+                   <div class="item" data-text="FY19">FY-19</div>
+                   <div class="item" data-text="FY18">FY-18</div>
+                   <div class="item" data-text="FY17">FY-17</div>
+                   <div class="item" data-text="FY16">FY-16</div>
                </div>
                 </div>
     </div>
@@ -1130,10 +1364,11 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
 
          <div>Case went to monitoring? &nbsp;
            <div class="ui inline dropdown">
-             <div class="text">Yes.</div>
+             <div class="text">N/A</div>
              <i class="dropdown icon"></i>
              <div class="menu">
-               <div class="item active" data-text="Yes.">Yes</div>
+               <div class="item active" data-text="Yes.">N/A</div>
+               <div class="item" data-text="Yes.">Yes</div>
                <div class="item" data-text="No.">No</div>
              </div>
            </div>
@@ -1149,10 +1384,11 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
 
          <div>Case Merged at Monitoring? &nbsp;
            <div class="ui inline dropdown">
-             <div class="text">No.</div>
+             <div class="text">N/A</div>
              <i class="dropdown icon"></i>
              <div class="menu">
-               <div class="item active" data-text="Yes.">Yes</div>
+               <div class="item active" data-text="Yes.">N/A</div>
+               <div class="item" data-text="Yes.">Yes</div>
                <div class="item" data-text="No.">No</div>
              </div>
            </div>
@@ -1185,7 +1421,7 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
     </div>
     <div class="ui tab segment" data-tab="third">
 
-      <h2 class="ui header">Case Intake Data</h2>
+      <!--<h2 class="ui header">Case Intake Data</h2>-->
 
       <!--
       Institution: IFC / MIGA / both
@@ -1200,11 +1436,31 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
       No. of MIGA Projects
       -->
 
+      <div class="ui equal form">
+        <div class="fields">
+          <div class="five wide field">
+            <label>Case Name</label>
+            <input type="text" placeholder="Enter case name." value="Yanacocha">
+          </div>
+            <div class="two wide field">
+              <label>Case Count</label>
+              <input type="text" placeholder="auto-calculated based on values in assessment" value="09">
+            </div>
+        <div class="four wide field">
+          <label>Location</label>
+          <input type="text" placeholder="Enter case name." value="Cajamarca">
+        </div>
+          <div class="five wide field">
+                        <label>Project Number(s)</label>
+            <input type="text" placeholder="Enter number, separate with comma." value="2983, 4449, 9502, A-539023, A-600157">
+          </div>
+      </div>
+      </div>
 
       <div class="ui equal width form">
         <div class="fields">
           <div class="field">
-            <div class="ui calendar" id="year-first-date-only-1">
+            <div class="ui calendar" id="year-first-date-only-18">
             <div class="inline fields">
             <label><strong>Date Received by CAO</strong></label>
               <div class="ui input left icon">
@@ -1215,7 +1471,7 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
             </div>
           </div>
           <div class="field">
-            <div class="ui calendar" id="year-first-date-only-2">
+            <div class="ui calendar" id="year-first-date-only-19">
             <div class="inline fields">
             <label><strong>Date Acknowledged</strong></label>
               <div class="ui input left icon">
@@ -1226,7 +1482,8 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
             </div>
           </div>
           <div class="field">
-              <input type="text" placeholder="derived from date acknolwedged; FY runs July through June" value="FY17">
+              <label>Financial Year Acknowledged</label>
+              <input type="text" placeholder="derived from date acknolwedged; FY runs July through June" value="FY-17">
           </div>
 
       </div>
@@ -1514,9 +1771,10 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
                   <option value="International CSO">International CSO</option>
                   <option value="National CSO">National CSO</option>
                   <option value="Local CSO or community-based organization">Local CSO or community-based organization</option>
-                  <option value="Community" selected>Community</option>
-                  <!-- consider adding value for 'workers' -->
+                  <option value="Community">Community</option>
                   <option value="Individual">Individual</option>
+                  <!-- consider adding value for 'workers' -->
+                  <option value="Worker" selected>Worker(s)</option>
                   <option value="CAO Vice President">CAO Vice President</option>
                   <option value="WB President">WB President</option>
                   <option value="IFC/MIGA senior management">IFC/MIGA senior management</option>
@@ -1528,6 +1786,8 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
                 <input type="text" placeholder=" (1, 2+)" value="4">
               </div>
             </div>
+
+<!-- Commenting out field (raise concern for security --
 
             <div class="fields">
               <div class="field">
@@ -1549,7 +1809,11 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
                 <input type="text" placeholder="user-defined; allow to add as needed">
               </div>
             </div>
+
+
+--Commenting out field (raise concern for security -->
           </div>
+
 
             <p>
                   <div>Is this a confidential complaint? &nbsp;
@@ -1583,9 +1847,9 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
       </p>
       <p>
             <div>Have the complainants raised security / threat concerns? &nbsp;
-              <a class="ui grey circular label">
+              <a class="ui red circular label">
               <div class="ui inline dropdown">
-                <div class="text">No.</div>
+                <div class="text">Yes.</div>
                 <i class="dropdown icon"></i>
                 <div class="menu">
                   <div class="item red" data-text="Yes.">Yes.</div>
@@ -1627,26 +1891,36 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
 
       <p>&nbsp;</p>
 
-      <h2 class="ui header">Case Analytics Data</h2>
+      <!--<h2 class="ui header">Case Analytics Data</h2>-->
 
 
       <!-- This might need to be iterated or allow for multi-selection  or user input if multiple loan products were used for a project -->
       <div class="ui form">
           <div class="eight wide field">
             <label>Type of financial product: </label>
-            <select class="ui search dropdown">
-              <option value="">Select Financial Product</option>
-              <option value="A Loan (senior)">A Loan (senior)</option>
-              <option value="B Loan (syndicated)">B Loan (syndicated)</option>
-              <option value="C Loan (subordinated)">C Loan (subordinated)</option>
-              <option value="Loan">Loan</option>
-              <option value="Equity" selected>Equity</option>
-              <option value="Quasi-Equity">Quasi-Equity</option>
-              <option value="Guarantees">Guarantees</option>
-              <option value="Syndications">Syndications</option>
-              <option value="Fin Risk Mgmt Instruments">Fin Risk Mgmt Instruments</option>
-            </select>
+            <div class="ui fluid multiple search selection dropdown">
+              <input name="tags" type="hidden"  value="Equity,Loan,Advisory Services">
+              <i class="dropdown icon"></i>
+              <div class="default text">Select...</div>
+              <div class="menu">
+                <id="a-loan">	<div class="item" data-value="A Loan (senior)">	A Loan (senior)	</div>
+            <id="b-loan">	<div class="item" data-value="B Loan (syndicated)">	B Loan (syndicated)	</div>
+            <id="c-loan">	<div class="item" data-value="C Loan (subordinated)">	C Loan (subordinated)	</div>
+            <id="loan">	<div class="item" data-value="Loan">	Loan	</div>
+            <id="equity">	<div class="item" data-value="Equity">	Equity	</div>
+            <id="cmb-equity-loan">	<div class="item" data-value="Loan & Equity">	Loan & Equity	</div>
+            <id="quasi-equity-loan">	<div class="item" data-value="Quasi-Equity">	Quasi-Equity	</div>
+            <id="guarantee">	<div class="item" data-value="Guarantees">	Guarantees	</div>
+            <id="syndication">	<div class="item" data-value="Syndications">	Syndications	</div>
+            <id="fin-risk">	<div class="item" data-value="Fin Risk Mgmt Instruments">	Fin Risk Mgmt Instruments	</div>
+            <id="advisory">	<div class="item" data-value="Advisory Services">	Advisory Services	</div>
+            <id="na">	<div class="item" data-value="N/A">	N/A	</div>
+            <id="missing">	<div class="item" data-value="Missing">	Missing	</div>
+
+                </div>
+              </div>
           </div>
+
       </div>
 
       <div class="ui equal width form">
@@ -1681,15 +1955,15 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
               <option value="Retail Finance (FM)">Retail Finance (FM)</option>
               <option value="Trade Finance (FM)">Trade Finance (FM)</option>
               <option value="Telecom, Media and Tech (INR)">Telecom, Media and Tech (INR)</option>
-              <option value="Sustainability and Climate Business (FM)">Power (INR)</option>
-              <option value="Sustainability and Climate Business (FM)">Transport (INR)</option>
-              <option value="Sustainability and Climate Business (FM)">Water (INR)</option>
-              <option value="Sustainability and Climate Business (FM)">Oil and Gas (INR)</option>
-              <option value="Sustainability and Climate Business (FM)">Mining (INR)</option>
-              <option value="Sustainability and Climate Business (FM)">V-AB - Gas - Thermal Power Generation</option>
-              <option value="Sustainability and Climate Business (FM)">Advisory Services (AS)</option>
-              <option value="Sustainability and Climate Business (FM)">Missing</option>
-              <option value="Sustainability and Climate Business (FM)">n/a</option>
+              <option value="Power (INR)">Power (INR)</option>
+              <option value="Transport (INR)">Transport (INR)</option>
+              <option value="Water (INR)">Water (INR)</option>
+              <option value="Oil and Gas (INR)">Oil and Gas (INR)</option>
+              <option value="Mining (INR)" selected>Mining (INR)</option>
+              <option value="V-AB - Gas - Thermal Power Generation">V-AB - Gas - Thermal Power Generation</option>
+              <option value="Advisory Services (AS)">Advisory Services (AS)</option>
+              <option value="Missing">Missing</option>
+              <option value="n/a">n/a</option>
             </select>
           </div>
         </div>
@@ -1915,9 +2189,8 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
     </div>
     <div class="ui tab segment" data-tab="fourth">
 
-
       <div class="ui equal width form">
-      <div class="ui calendar" id="year-first-date-only-3">
+      <div class="ui calendar" id="year-first-date-only-20">
       <div class="inline fields">
       <label><strong>Eligibility Start Date</strong></label>
         <div class="ui input left icon">
@@ -1928,23 +2201,70 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
       </div>
       </div>
 
-      <p>Eligibility Assessment: <a class="ui grey label">Complete.</a></p>
-      <p><a class="ui green circular label">6 </a>&nbsp;Days in Eligibility</p>
-
-      <div class="ui equal width form">
-        <div class="ui calendar" id="year-first-date-only-5">
-        <div class="inline fields">
-        <label><strong>Eligibility Screening Deadline:</strong></label>
-          <div class="ui input left icon">
-            <i class="calendar icon"></i>
-            <input type="text" placeholder="auto-calculate allowing manual override" value="27 January 2017">
-          </div>
-        </div>
-        </div>
-      </div>
-
+      <p>Eligibility Assessment Status: <a class="ui grey label">Complete.</a></p>
+      <p>Days in Eligibility:&nbsp;<a class="ui red circular label">22 </a></p>
+              <div class="ui equal width form">
+                <div class="ui calendar" id="year-first-date-only-21">
+                <div class="inline fields">
+                <label><strong>Eligibility Screening Due:</strong></label>
+                  <div class="ui input left icon">
+                    <i class="calendar icon"></i>
+                    <input type="text" placeholder="auto-calculate allowing manual override" value="23 February 2017">
+                  </div>
+                </div>
+                </div>
+              </div>
 
 
+                    <div class="ui equal width form">
+                    <div>Case Merged at Eligibility? &nbsp;
+                      <div class="ui inline dropdown">
+                        <div class="text">No.</div>
+                        <i class="dropdown icon"></i>
+                        <div class="menu">
+                          <div class="item" data-text="Yes.">Yes</div>
+                          <div class="item active" data-text="No.">No</div>
+                        </div>
+                      </div>
+                    </div>
+                    </div>
+                    <div class="ui fluid search selection dropdown">
+                      <input type="hidden" name="country">
+                      <i class="dropdown icon"></i>
+                      <div class="default text">Select Case. [List should pull from database.]</div>
+                      <div class="menu">
+                      <div class="item" data-value="Yanacocha-01">Yanacocha-01</div>
+                      <div class="item" data-value="Yanacocha-02">Yanacocha-02</div>
+                      <div class="item" data-value="Yanacocha-03">Yanacocha-03</div>
+                      <div class="item" data-value="Yanacocha-04">Yanacocha-04</div>
+                      <div class="item" data-value="Yanacocha-05">Yanacocha-05</div>
+                      <div class="item" data-value="Yanacocha-06">Yanacocha-06</div>
+                      <div class="item" data-value="Yanacocha-07">Yanacocha-07</div>
+                      <div class="item" data-value="Yanacocha-08">Yanacocha-08</div>
+                      <div class="item" data-value="Yanacocha-10">Yanacocha-10</div>
+                    </div>
+                     </div>
+<p>&nbsp;</p>
+                    <div class="ui equal width form">
+                    <div>Case Separated at Eligibility? &nbsp;
+                      <div class="ui inline dropdown">
+                        <div class="text">No.</div>
+                        <i class="dropdown icon"></i>
+                        <div class="menu">
+                          <div class="item active" data-text="Yes.">Yes</div>
+                          <div class="item" data-text="No.">No</div>
+                        </div>
+                      </div>
+                    </div>
+                    </div>
+                    <div class="ui form">
+                      <div class="field">
+                        <textarea rows="1" placeholder="Define Case. [List add new case record to database."></textarea>
+                      </div>
+                    </div>
+                    </p>
+
+<p>&nbsp;</p>
 
       <!--
 
@@ -1981,8 +2301,19 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
         </div>
       </div>
 
+      <div>Eligibility Decision: &nbsp;<!-- Change this to allow a drop-down menu. -->
+        <a class="ui green label">
+        <div class="ui inline dropdown">
+          <div class="text">Eligible. </div>
+          <i class="dropdown icon"></i>
+          <div class="menu">
+            <div class="item" data-text="Yes.">Inligible.</div>
+            <div class="item active" data-text="No.">Eligible.</div>
+          </div>
+        </div>
+      </a>
+      </div>
 
-      <p>Eligibility Status: &nbsp;<a class="ui green label">Eligible. </a></p>
 
       <div>Reasons for rejection: &nbsp;
         <div class="ui inline dropdown">
@@ -1998,49 +2329,25 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
       </div>
 
 
-      <div class="ui equal width form">
-      <div class="ui calendar" id="year-first-date-only-3">
-      <div class="inline fields">
-      <label><strong>Eligibility Completion Date</strong></label>
-        <div class="ui input left icon">
-          <i class="calendar icon"></i>
-          <input type="text" placeholder="user-defined" value="27 January 2017">
-        </div>
-      </div>
-      </div>
-
-      </div>
-
-      <div class="ui equal width form">
-      <div>Case Merged at Eligibility? &nbsp;
+      <div>Case transferred? &nbsp;
         <div class="ui inline dropdown">
-          <div class="text">No.</div>
+          <div class="text">Yes. Case transferred to investigation.</div>
           <i class="dropdown icon"></i>
           <div class="menu">
-            <div class="item active" data-text="Yes.">Yes</div>
-            <div class="item" data-text="No.">No</div>
+            <div class="item active" data-text="Yes.  Case transferred to compliance investigation.">Yes.  Case transferred to compliance.</div>
+            <div class="item" data-text="Yes.  Case transferred to compliance investigation.">Yes.  Case transferred to dispute resolution.</div>
+            <div class="item" data-text="Yes.  Case transferred to both functions.">Yes.  Case transferred to both functions.</div>
+            <div class="item" data-text="No.  Case Closed.">No.  Case closed.</div><!--Allow this to change when value adjusted elswhere-->
           </div>
         </div>
       </div>
-      </div>
-
-
-      <div class="ui fluid search selection dropdown">
-        <input type="hidden" name="country">
-        <i class="dropdown icon"></i>
-        <div class="default text">Select Case. [List should pull from database.]</div>
-        <div class="menu">
-        <div class="item" data-value="Case-01">Case-01</div>
-        <div class="item" data-value="Case-02">Case-02</div>
-        <div class="item" data-value="Case-03">Case-03</div>
-      </div>
-       </div>
-
 
        <p>&nbsp;</p>
 
 
-      <h2 class="ui header">Eligibility Status Update</h2>
+      <!-- <h2 class="ui header">Eligibility Status Update</h2> -->
+
+<!-- would be helpful to allow text area for 'status notes' to "grow" as more information added  : https://developer.mozilla.org/en-US/docs/Web/API/HTMLTextAreaElement#Autogrowing_textarea_example-->
 
       <p>
       <div class="ui form">
@@ -2064,7 +2371,15 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
       <div class="ui form">
         <div class="field">
           <label>Status Notes [Public]</label>
-          <textarea rows="2" placeholder="Use this space to add updates that will appear on the public case status page (online)."></textarea>
+          <textarea rows="10" placeholder="Use this space to add updates that will appear on the public case status page (online).">
+Project Overview
+
+Minera Yanacocha S.R.L. operates a large open-pit gold mine located in the Andes mountains in the Department of Cajamarca, Peru. The company is engaged in the exploration and production of gold. Over a period from 1993 to 1999, IFC committed three loans to finance the capital expenditure programs for three of the company’s mines, Carachugo, Maqui Maqui and La Quinua. In parallel, IFC made an equity investment for a 5% ownership stake in the company, which it continues to hold.
+
+Complaint
+
+The complaint was filed in January 2017 by a former employee of Yanacocha, on behalf of himself and other current and former employees. The complainants raise concerns related to occupational health and safety conditions at the mine during their employment. They contend exposure to toxic gases has led to negative impacts on their health. The complaint also raises issues related to information disclosure and the company’s response to these issues.
+</textarea>
         </div>
       </div>
       </p>
@@ -2095,587 +2410,930 @@ Refer here: https://www.npmjs.com/package/semantic-ui-calendar
 
       -->
 
-       <div>Case transferred? &nbsp;
-         <div class="ui inline dropdown">
-           <div class="text">Yes. Case transferred to investigation.</div>
-           <i class="dropdown icon"></i>
-           <div class="menu">
-             <div class="item active" data-text="Yes.  Case transferred to compliance investigation.">Yes.  Case transferred to compliance.</div>
-             <div class="item" data-text="Yes.  Case transferred to compliance investigation.">Yes.  Case transferred to dispute resolution.</div>
-             <div class="item" data-text="Yes.  Case transferred to both functions.">Yes.  Case transferred to both functions.</div>
-             <div class="item" data-text="No.  Case Closed.">No.  Case closed.</div><!--Allow this to change when value adjusted elswhere-->
-           </div>
-         </div>
-       </div>
 
       <p>&nbsp;</p>
 
     </div>
+
     <div class="ui tab segment" data-tab="fifth">
-      <div class="ui top attached tabular menu">
-        <a class="item" data-tab="fifth/a">5A</a>
-        <a class="item" data-tab="fifth/b">5B</a>
-        <a class="item active" data-tab="fifth/c">5C</a>
+
+                        <p>&nbsp;Days in Assessment:&nbsp;<a class="ui grey circular label">0 </a></p>
+
+                                                  <!-- Verify whether eligibility start date is needed; appears to start automatically on date acknowledged -->
+                                                  <div class="ui equal width form">
+                                                  <div class="fields">
+                                                  <div class="field">
+                                                  <div class="ui calendar" id="year-first-date-only-23">
+                                                  <div class="inline fields">
+                                                    <label><strong>	Assessment Start Date	</strong></label>
+                                                    <div class="ui input left icon">
+                                                      <i class="calendar icon"></i>
+                                                      <input type="text" placeholder="user-defined" value="">
+                                                    </div>
+                                                  </div>
+                                                  </div>
+                                                  </div>
+                                                    <div class="field">
+                                                             <div class="inline fields">
+                                                      <label>Financial Year</label>
+                                                      <div class="ui fluid search selection dropdown">
+                                                        <input type="text" placeholder="auto-calculated based on values in assessment">
+                                                        <i class="dropdown icon"></i>
+                                                        <div class="default text">auto-complete</div>
+                                                        <div class="menu">
+                                                          <div class="item" data-text="FY19">FY-19</div>
+                                                          <div class="item" data-text="FY18">FY-18</div>
+                                                          <div class="item" data-text="FY17">FY-17</div>
+                                                          <div class="item" data-text="FY16">FY-16</div>
+                                                      </div>
+                                                       </div>
+                                           </div>
+                                                    </div>
+                                                </div>
+                                              </div>
+
+
+                                                      <p>
+                                                      <div class="ui calendar" id="year-first-date-only-34">
+                                                      <div class="inline fields">
+                                                      <label><strong>Date Assessment Due</strong></label>
+                                                        <div class="ui input left icon">
+                                                          <i class="calendar icon"></i>
+                                                          <input type="text" placeholder="user-defined date value" value="">
+                                                        </div>
+                                                      </div>
+                                                      </div>
+                                                      </p>
+                                                                        <div>Report Completed? &nbsp;
+                                                                          <div class="ui inline dropdown">
+                                                                            <div class="text">N/A.</div>
+                                                                            <i class="dropdown icon"></i>
+                                                                            <div class="menu">
+                                                                              <div class="item active" data-text="N/A.">N/A.</div>
+                                                                              <div class="item active" data-text="Yes.">Yes</div>
+                                                                              <div class="item" data-text="No.">No</div>
+                                                                            </div>
+                                                                          </div>
+                                                                        </div>
+
+                                                                        <div class="ui equal width form">
+                                                                          <div class="fields">
+                                                                            <div class="field">
+                                                                              <label>Assessment Outcome: </label> <!-- Consider making reporting only as changes would have implications for active fields --><!-- Always confirm saves that overwrite data -- noting other URLs affected) -->
+                                                                              <select class="ui search dropdown">
+                                                                                <id="	Pending	">	<option value=" 	Pending	">	Pending Assessment	</option>
+                                                                                <id="	Closed after Assessment	">	<option value=" 	Closed after Assessment	">	Closed after Assessment	</option>
+                                                                                <id="	Dispute Resolution	">	<option value=" 	Dispute Resolution	">	Dispute Resolution	</option>
+                                                                                <id="	Dispute Resolution Monitoring	">	<option value=" 	Dispute Resolution Monitoring	">	Dispute Resolution Monitoring	</option>
+                                                                                <id="	Closed after Settlement	">	<option value=" 	Closed after Settlement	">	Closed after Settlement	</option>
+                                                                                <id="	Compliance Appraisal	">	<option value=" 	Compliance Appraisal	">	Compliance Appraisal	</option>
+                                                                                <id="	Closed after Referral and Compliance Appraisal	">	<option value=" 	Closed after Referral and Compliance Appraisal	">	Closed after Referral and Compliance Appraisal	</option>
+                                                                                <id="	Compliance Investigation	">	<option value=" 	Compliance Investigation	" selected>	Compliance Investigation	</option>
+                                                                                <id="	Compliance Monitoring	">	<option value=" 	Compliance Monitoring	">	Compliance Monitoring	</option>
+                                                                                <id="	Closed after Referral and Compliance Investigation	">	<option value=" 	Closed after Referral and Compliance Investigation	">	Closed after Referral and Compliance Investigation	</option>
+
+                                                                            </select>
+                                                                          </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                        <div class="ui equal width form">
+                                                                          <div class="ui calendar" id="year-first-date-only-26">
+                                                                          <div class="inline fields">
+                                                                          <label><strong>Date of Assessment Report:</strong></label>
+                                                                            <div class="ui input left icon">
+                                                                              <i class="calendar icon"></i>
+                                                                              <input type="text" placeholder="user-defined value" value="">
+                                                                            </div>
+                                                                          </div>
+                                                                          </div>
+                                                                        </div>
+
+      <div class="ui bottom attached tab segment" data-tab="fifth/a">
+
       </div>
-      <div class="ui bottom attached tab segment" data-tab="fifth/a">5A</div>
-      <div class="ui bottom attached tab segment" data-tab="fifth/b">5B</div>
-      <div class="ui bottom attached tab segment active" data-tab="fifth/c">5C</div>
     </div>
+
+
+
     <div class="ui tab segment" data-tab="sixth">
 
+                  <p>&nbsp;Days in Dispute Resolution:&nbsp;<a class="ui grey circular label">0 </a></p>
 
-      <h2 class="ui header">Basic Project Data</h2>
-          <div class="ui equal width form">
-            <div class="fields">
-              <div class="field">
-                <label>Project ID</label>
-                <input type="text" placeholder="auto-populate on transfer to compliance" value="24803">
-              </div>
-              <div class="field">
-                <label>Country</label>
-                <select class="ui search dropdown">
-                  <option value="">Select Country</option>
-                  <option value="AF">Afghanistan</option>
-                  <option value="AX">Åland Islands</option>
-                  <option value="AL">Albania</option>
-                  <option value="DZ">Algeria</option>
-                  <option value="AS">American Samoa</option>
-                  <option value="AD">Andorra</option>
-                  <option value="AO">Angola</option>
-                  <option value="AI">Anguilla</option>
-                  <option value="AQ">Antarctica</option>
-                  <option value="AG">Antigua and Barbuda</option>
-                  <option value="AR">Argentina</option>
-                  <option value="AM">Armenia</option>
-                  <option value="AW">Aruba</option>
-                  <option value="AU">Australia</option>
-                  <option value="AT">Austria</option>
-                  <option value="AZ">Azerbaijan</option>
-                  <option value="BS">Bahamas</option>
-                  <option value="BH">Bahrain</option>
-                  <option value="BD">Bangladesh</option>
-                  <option value="BB">Barbados</option>
-                  <option value="BY">Belarus</option>
-                  <option value="BE">Belgium</option>
-                  <option value="BZ">Belize</option>
-                  <option value="BJ">Benin</option>
-                  <option value="BM">Bermuda</option>
-                  <option value="BT">Bhutan</option>
-                  <option value="BO">Bolivia, Plurinational State of</option>
-                  <option value="BQ">Bonaire, Sint Eustatius and Saba</option>
-                  <option value="BA">Bosnia and Herzegovina</option>
-                  <option value="BW">Botswana</option>
-                  <option value="BV">Bouvet Island</option>
-                  <option value="BR">Brazil</option>
-                  <option value="IO">British Indian Ocean Territory</option>
-                  <option value="BN">Brunei Darussalam</option>
-                  <option value="BG">Bulgaria</option>
-                  <option value="BF">Burkina Faso</option>
-                  <option value="BI">Burundi</option>
-                  <option value="KH">Cambodia</option>
-                  <option value="CM">Cameroon</option>
-                  <option value="CA">Canada</option>
-                  <option value="CV">Cape Verde</option>
-                  <option value="KY">Cayman Islands</option>
-                  <option value="CF">Central African Republic</option>
-                  <option value="TD">Chad</option>
-                  <option value="CL">Chile</option>
-                  <option value="CN">China</option>
-                  <option value="CX">Christmas Island</option>
-                  <option value="CC">Cocos (Keeling) Islands</option>
-                  <option value="CO">Colombia</option>
-                  <option value="KM">Comoros</option>
-                  <option value="CG">Congo</option>
-                  <option value="CD">Congo, the Democratic Republic of the</option>
-                  <option value="CK">Cook Islands</option>
-                  <option value="CR">Costa Rica</option>
-                  <option value="CI">Côte d'Ivoire</option>
-                  <option value="HR">Croatia</option>
-                  <option value="CU">Cuba</option>
-                  <option value="CW">Curaçao</option>
-                  <option value="CY">Cyprus</option>
-                  <option value="CZ">Czech Republic</option>
-                  <option value="DK">Denmark</option>
-                  <option value="DJ">Djibouti</option>
-                  <option value="DM">Dominica</option>
-                  <option value="DO">Dominican Republic</option>
-                  <option value="EC">Ecuador</option>
-                  <option value="EG">Egypt</option>
-                  <option value="SV">El Salvador</option>
-                  <option value="GQ">Equatorial Guinea</option>
-                  <option value="ER">Eritrea</option>
-                  <option value="EE">Estonia</option>
-                  <option value="ET">Ethiopia</option>
-                  <option value="FK">Falkland Islands (Malvinas)</option>
-                  <option value="FO">Faroe Islands</option>
-                  <option value="FJ">Fiji</option>
-                  <option value="FI">Finland</option>
-                  <option value="FR">France</option>
-                  <option value="GF">French Guiana</option>
-                  <option value="PF">French Polynesia</option>
-                  <option value="TF">French Southern Territories</option>
-                  <option value="GA">Gabon</option>
-                  <option value="GM">Gambia</option>
-                  <option value="GE">Georgia</option>
-                  <option value="DE">Germany</option>
-                  <option value="GH">Ghana</option>
-                  <option value="GI">Gibraltar</option>
-                  <option value="GR">Greece</option>
-                  <option value="GL">Greenland</option>
-                  <option value="GD">Grenada</option>
-                  <option value="GP">Guadeloupe</option>
-                  <option value="GU">Guam</option>
-                  <option value="GT">Guatemala</option>
-                  <option value="GG">Guernsey</option>
-                  <option value="GN">Guinea</option>
-                  <option value="GW">Guinea-Bissau</option>
-                  <option value="GY">Guyana</option>
-                  <option value="HT">Haiti</option>
-                  <option value="HM">Heard Island and McDonald Islands</option>
-                  <option value="VA">Holy See (Vatican City State)</option>
-                  <option value="HN">Honduras</option>
-                  <option value="HK">Hong Kong</option>
-                  <option value="HU">Hungary</option>
-                  <option value="IS">Iceland</option>
-                  <option value="IN">India</option>
-                  <option value="ID">Indonesia</option>
-                  <option value="IR">Iran, Islamic Republic of</option>
-                  <option value="IQ">Iraq</option>
-                  <option value="IE">Ireland</option>
-                  <option value="IM">Isle of Man</option>
-                  <option value="IL">Israel</option>
-                  <option value="IT">Italy</option>
-                  <option value="JM">Jamaica</option>
-                  <option value="JP">Japan</option>
-                  <option value="JE">Jersey</option>
-                  <option value="JO">Jordan</option>
-                  <option value="KZ">Kazakhstan</option>
-                  <option value="KE">Kenya</option>
-                  <option value="KI">Kiribati</option>
-                  <option value="KP">Korea, Democratic People's Republic of</option>
-                  <option value="KR">Korea, Republic of</option>
-                  <option value="KW">Kuwait</option>
-                  <option value="KG">Kyrgyzstan</option>
-                  <option value="LA">Lao People's Democratic Republic</option>
-                  <option value="LV">Latvia</option>
-                  <option value="LB">Lebanon</option>
-                  <option value="LS">Lesotho</option>
-                  <option value="LR">Liberia</option>
-                  <option value="LY">Libya</option>
-                  <option value="LI">Liechtenstein</option>
-                  <option value="LT">Lithuania</option>
-                  <option value="LU">Luxembourg</option>
-                  <option value="MO">Macao</option>
-                  <option value="MK">Macedonia, the former Yugoslav Republic of</option>
-                  <option value="MG">Madagascar</option>
-                  <option value="MW">Malawi</option>
-                  <option value="MY">Malaysia</option>
-                  <option value="MV">Maldives</option>
-                  <option value="ML">Mali</option>
-                  <option value="MT">Malta</option>
-                  <option value="MH">Marshall Islands</option>
-                  <option value="MQ">Martinique</option>
-                  <option value="MR">Mauritania</option>
-                  <option value="MU">Mauritius</option>
-                  <option value="YT">Mayotte</option>
-                  <option value="MX">Mexico</option>
-                  <option value="FM">Micronesia, Federated States of</option>
-                  <option value="MD">Moldova, Republic of</option>
-                  <option value="MC">Monaco</option>
-                  <option value="MN">Mongolia</option>
-                  <option value="ME">Montenegro</option>
-                  <option value="MS">Montserrat</option>
-                  <option value="MA">Morocco</option>
-                  <option value="MZ">Mozambique</option>
-                  <option value="MM">Myanmar</option>
-                  <option value="NA">Namibia</option>
-                  <option value="NR">Nauru</option>
-                  <option value="NP">Nepal</option>
-                  <option value="NL">Netherlands</option>
-                  <option value="NC">New Caledonia</option>
-                  <option value="NZ">New Zealand</option>
-                  <option value="NI">Nicaragua</option>
-                  <option value="NE">Niger</option>
-                  <option value="NG">Nigeria</option>
-                  <option value="NU">Niue</option>
-                  <option value="NF">Norfolk Island</option>
-                  <option value="MP">Northern Mariana Islands</option>
-                  <option value="NO">Norway</option>
-                  <option value="OM">Oman</option>
-                  <option value="PK">Pakistan</option>
-                  <option value="PW">Palau</option>
-                  <option value="PS">Palestinian Territory, Occupied</option>
-                  <option value="PA">Panama</option>
-                  <option value="PG">Papua New Guinea</option>
-                  <option value="PY">Paraguay</option>
-                  <option value="PE" selected>Peru</option>
-                  <option value="PH">Philippines</option>
-                  <option value="PN">Pitcairn</option>
-                  <option value="PL">Poland</option>
-                  <option value="PT">Portugal</option>
-                  <option value="PR">Puerto Rico</option>
-                  <option value="QA">Qatar</option>
-                  <option value="RE">Réunion</option>
-                  <option value="RO">Romania</option>
-                  <option value="RU">Russian Federation</option>
-                  <option value="RW">Rwanda</option>
-                  <option value="BL">Saint Barthélemy</option>
-                  <option value="SH">Saint Helena, Ascension and Tristan da Cunha</option>
-                  <option value="KN">Saint Kitts and Nevis</option>
-                  <option value="LC">Saint Lucia</option>
-                  <option value="MF">Saint Martin (French part)</option>
-                  <option value="PM">Saint Pierre and Miquelon</option>
-                  <option value="VC">Saint Vincent and the Grenadines</option>
-                  <option value="WS">Samoa</option>
-                  <option value="SM">San Marino</option>
-                  <option value="ST">Sao Tome and Principe</option>
-                  <option value="SA">Saudi Arabia</option>
-                  <option value="SN">Senegal</option>
-                  <option value="RS">Serbia</option>
-                  <option value="SC">Seychelles</option>
-                  <option value="SL">Sierra Leone</option>
-                  <option value="SG">Singapore</option>
-                  <option value="SX">Sint Maarten (Dutch part)</option>
-                  <option value="SK">Slovakia</option>
-                  <option value="SI">Slovenia</option>
-                  <option value="SB">Solomon Islands</option>
-                  <option value="SO">Somalia</option>
-                  <option value="ZA">South Africa</option>
-                  <option value="GS">South Georgia and the South Sandwich Islands</option>
-                  <option value="SS">South Sudan</option>
-                  <option value="ES">Spain</option>
-                  <option value="LK">Sri Lanka</option>
-                  <option value="SD">Sudan</option>
-                  <option value="SR">Suriname</option>
-                  <option value="SJ">Svalbard and Jan Mayen</option>
-                  <option value="SZ">Swaziland</option>
-                  <option value="SE">Sweden</option>
-                  <option value="CH">Switzerland</option>
-                  <option value="SY">Syrian Arab Republic</option>
-                  <option value="TW">Taiwan, Province of China</option>
-                  <option value="TJ">Tajikistan</option>
-                  <option value="TZ">Tanzania, United Republic of</option>
-                  <option value="TH">Thailand</option>
-                  <option value="TL">Timor-Leste</option>
-                  <option value="TG">Togo</option>
-                  <option value="TK">Tokelau</option>
-                  <option value="TO">Tonga</option>
-                  <option value="TT">Trinidad and Tobago</option>
-                  <option value="TN">Tunisia</option>
-                  <option value="TR">Turkey</option>
-                  <option value="TM">Turkmenistan</option>
-                  <option value="TC">Turks and Caicos Islands</option>
-                  <option value="TV">Tuvalu</option>
-                  <option value="UG">Uganda</option>
-                  <option value="UA">Ukraine</option>
-                  <option value="AE">United Arab Emirates</option>
-                  <option value="GB">United Kingdom</option>
-                  <option value="US">United States</option>
-                  <option value="UM">United States Minor Outlying Islands</option>
-                  <option value="UY">Uruguay</option>
-                  <option value="UZ">Uzbekistan</option>
-                  <option value="VU">Vanuatu</option>
-                  <option value="VE">Venezuela, Bolivarian Republic of</option>
-                  <option value="VN">Viet Nam</option>
-                  <option value="VG">Virgin Islands, British</option>
-                  <option value="VI">Virgin Islands, U.S.</option>
-                  <option value="WF">Wallis and Futuna</option>
-                  <option value="EH">Western Sahara</option>
-                  <option value="YE">Yemen</option>
-                  <option value="ZM">Zambia</option>
-                  <option value="ZW">Zimbabwe</option>
-                </select>
-              </div>
-            </div>
-            <div class="fields">
-              <div class="field">
-                <label>Client Name</label>
-                <input type="text" placeholder="auto-populate on transfer to compliance" value="Yanacocha-09">
-              </div>
-              <div class="field">
-                <label>Compliant Name</label>
-                <input type="text" placeholder="auto-populate on transfer to compliance" value="Yanacocha-09/Cajamarca">
-              </div>
-            </div>
+                          <!-- Verify whether eligibility start date is needed; appears to start automatically on date acknowledged -->
+                          <div class="ui equal width form">
+                          <div class="fields">
+                          <div class="field">
+                          <div class="ui calendar" id="year-first-date-only-23">
+                          <div class="inline fields">
+                            <label><strong>	Dispute Resolution Start Date	</strong></label>
+                            <div class="ui input left icon">
+                              <i class="calendar icon"></i>
+                              <input type="text" placeholder="user-defined" value="">
+                            </div>
+                          </div>
+                          </div>
+                          </div>
+                            <div class="field">
+                                     <div class="inline fields">
+                              <label>Financial Year</label>
+                              <div class="ui fluid search selection dropdown">
+                                <input type="text" placeholder="auto-calculated based on values in assessment">
+                                <i class="dropdown icon"></i>
+                                <div class="default text">auto-complete</div>
+                                <div class="menu">
+                                  <div class="item" data-text="FY19">FY-19</div>
+                                  <div class="item" data-text="FY18">FY-18</div>
+                                  <div class="item" data-text="FY17">FY-17</div>
+                                  <div class="item" data-text="FY16">FY-16</div>
+                              </div>
+                               </div>
+                   </div>
+                            </div>
+                        </div>
+                      </div>
 
-                <div class="ui calendar" id="year-first-date-only-1">
+                                      <div class="ui equal width form">
+                                        <div class="ui calendar" id="year-first-date-only-24">
+                                        <div class="inline fields">
+                                        <label><strong>Date of DR Survey:</strong></label>
+                                          <div class="ui input left icon">
+                                            <i class="calendar icon"></i>
+                                            <input type="text" placeholder="auto-calculate allowing manual override" value="">
+                                          </div>
+                                        </div>
+                                        </div>
+                                      </div>
+
+                      <div>Agreement reached? &nbsp;
+                        <div class="ui inline dropdown">
+                          <div class="text">N/A.</div>
+                          <i class="dropdown icon"></i>
+                          <div class="menu">
+                            <div class="item active" data-text="N/A.">N/A.</div>
+                            <div class="item active" data-text="Yes.">Yes</div>
+                            <div class="item" data-text="No.">No</div>
+                          </div>
+                        </div>
+                      </div>
+
+                          <div class="ui equal width form">
+                            <div class="ui calendar" id="year-first-date-only-35">
+                            <div class="inline fields">
+                            <label><strong>Date of Settlement Agreement:</strong></label>
+                              <div class="ui input left icon">
+                                <i class="calendar icon"></i>
+                                <input type="text" placeholder="auto-calculate allowing manual override" value="">
+                              </div>
+                            </div>
+                            </div>
+                          </div>
+
+                          <div>Report Completed? &nbsp;
+                            <div class="ui inline dropdown">
+                              <div class="text">N/A.</div>
+                              <i class="dropdown icon"></i>
+                              <div class="menu">
+                                <div class="item active" data-text="N/A.">N/A.</div>
+                                <div class="item active" data-text="Yes.">Yes</div>
+                                <div class="item" data-text="No.">No</div>
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="ui equal width form">
+                            <div class="ui calendar" id="year-first-date-only-26">
+                            <div class="inline fields">
+                            <label><strong>Date of Conclusion Report:</strong></label>
+                              <div class="ui input left icon">
+                                <i class="calendar icon"></i>
+                                <input type="text" placeholder="auto-calculate allowing manual override" value="">
+                              </div>
+                            </div>
+                            </div>
+                          </div>
+
+                          <div>Agreement implemented? &nbsp;
+                            <div class="ui inline dropdown">
+                              <div class="text">N/A.</div>
+                              <i class="dropdown icon"></i>
+                              <div class="menu">
+                                <div class="item active" data-text="N/A.">N/A.</div>
+                                <div class="item active" data-text="Yes.">Yes</div>
+                                <div class="item" data-text="No.">No</div>
+                              </div>
+                            </div>
+                          </div>
+
+                          <div>Monitoring Complete? &nbsp;
+                            <div class="ui inline dropdown">
+                              <div class="text">N/A.</div>
+                              <i class="dropdown icon"></i>
+                              <div class="menu">
+                                <div class="item active" data-text="N/A.">N/A.</div>
+                                <div class="item active" data-text="Yes.">Yes</div>
+                                <div class="item" data-text="No.">No</div>
+                              </div>
+                            </div>
+                          </div>
+
+<p>&nbsp;</p>
+
+                          <div class="ui equal width form">
+                            <div class="fields">
+                              <div class="field">
+                                <label>DR Outcome: </label> <!-- Consider making reporting only as changes would have implications for active fields --><!-- Always confirm saves that overwrite data -- noting other URLs affected) -->
+                                <select class="ui search dropdown">
+                                  <id="	n/a	 ">	<option value="	N/A	 " selected>	N/A	</option>
+                                  <id="	pending	 ">	<option value="	Pending	 ">	Pending	</option>
+                                  <id="	ongoing-dispute-resolution-process	 ">	<option value="	Ongoing Dispute Resolution Process	 ">	Ongoing Dispute Resolution Process	</option>
+                                  <id="	ongoing-dispute-resolution-monitoring	 ">	<option value="	Ongoing Dispute Resolution Monitoring	 ">	Ongoing Dispute Resolution Monitoring	</option>
+                                  <id="	settled	 ">	<option value="	Settled	 ">	Settled	</option>
+                                  <id="	closed-after-settlement	 ">	<option value="	Closed after Settlement	 ">	Closed after Settlement	</option>
+                                  <id="	settled-with-partial-transfer-to-compliance	 ">	<option value="	Settled with Partial Transfer to Compliance	 ">	Settled with Partial Transfer to Compliance	</option>
+                                  <id="	closed-after-referral-and-compliance-appraisal	 ">	<option value="	Closed after Referral	 ">	Closed after Referral	</option>
+                                  <id="	transferred-to-compliance	 ">	<option value="	Transferred to Compliance	 ">	Transferred to Compliance	</option>
+
+                              </select>
+                            </div>
+                          </div>
+                      </div>
+
+<!-- would be helpful to allow text area for 'status notes' to "grow" as more information added : https://developer.mozilla.org/en-US/docs/Web/API/HTMLTextAreaElement#Autogrowing_textarea_example-->
+
+                            <p>
+                            <div class="ui form">
+                              <div class="field">
+                                <label>Status Notes [Internal]</label>
+                                <textarea rows="2" placeholder="Use this space to add notes for the CAO case status update."></textarea>
+                              </div>
+                            </div>
+                            </p>
+
+                            <p>
+                            <div class="ui form">
+                              <div class="field">
+                                <label>Status Notes [IFC]</label>
+                                <textarea rows="2" placeholder="Use this space to add notes for CAO's updates to IFC."></textarea>
+                              </div>
+                            </div>
+                            </p>
+
+                            <p>
+                            <div class="ui form">
+                              <div class="field">
+                                <label>Status Notes [Public]</label>
+                                <textarea rows="2" placeholder="Use this space to add updates that will appear on the public case status page (online).">  </textarea>
+                              </div>
+                            </div>
+                            </p>
+
+
+    </div>
+
+    <div class="ui tab segment" data-tab="seventh">
+      <div class="ui top attached tabular menu">
+        <a class="item" data-tab="seventh/a">Basic Project Data</a>
+        <a class="item" data-tab="seventh/b">Appraisal</a>
+        <a class="item active" data-tab="seventh/c">Investigation</a>
+        <a class="item active" data-tab="seventh/d">Monitoring</a>
+      </div>
+      <div class="ui bottom attached tab segment" data-tab="seventh/a">
+
+        <h2 class="ui header">Basic Project Data</h2>
+            <div class="ui equal width form">
+              <div class="fields">
+                <div class="field">
+                  <label>Project ID</label>
+                  <input type="text" placeholder="auto-populate on transfer to compliance" value="2983, 4449, 9502, A-539023, A-600157">
+                </div>
+                <div class="field">
+                  <label>Country</label>
+                  <select class="ui search dropdown">
+                    <option value="">Select Country</option>
+                    <option value="AF">Afghanistan</option>
+                    <option value="AX">Åland Islands</option>
+                    <option value="AL">Albania</option>
+                    <option value="DZ">Algeria</option>
+                    <option value="AS">American Samoa</option>
+                    <option value="AD">Andorra</option>
+                    <option value="AO">Angola</option>
+                    <option value="AI">Anguilla</option>
+                    <option value="AQ">Antarctica</option>
+                    <option value="AG">Antigua and Barbuda</option>
+                    <option value="AR">Argentina</option>
+                    <option value="AM">Armenia</option>
+                    <option value="AW">Aruba</option>
+                    <option value="AU">Australia</option>
+                    <option value="AT">Austria</option>
+                    <option value="AZ">Azerbaijan</option>
+                    <option value="BS">Bahamas</option>
+                    <option value="BH">Bahrain</option>
+                    <option value="BD">Bangladesh</option>
+                    <option value="BB">Barbados</option>
+                    <option value="BY">Belarus</option>
+                    <option value="BE">Belgium</option>
+                    <option value="BZ">Belize</option>
+                    <option value="BJ">Benin</option>
+                    <option value="BM">Bermuda</option>
+                    <option value="BT">Bhutan</option>
+                    <option value="BO">Bolivia, Plurinational State of</option>
+                    <option value="BQ">Bonaire, Sint Eustatius and Saba</option>
+                    <option value="BA">Bosnia and Herzegovina</option>
+                    <option value="BW">Botswana</option>
+                    <option value="BV">Bouvet Island</option>
+                    <option value="BR">Brazil</option>
+                    <option value="IO">British Indian Ocean Territory</option>
+                    <option value="BN">Brunei Darussalam</option>
+                    <option value="BG">Bulgaria</option>
+                    <option value="BF">Burkina Faso</option>
+                    <option value="BI">Burundi</option>
+                    <option value="KH">Cambodia</option>
+                    <option value="CM">Cameroon</option>
+                    <option value="CA">Canada</option>
+                    <option value="CV">Cape Verde</option>
+                    <option value="KY">Cayman Islands</option>
+                    <option value="CF">Central African Republic</option>
+                    <option value="TD">Chad</option>
+                    <option value="CL">Chile</option>
+                    <option value="CN">China</option>
+                    <option value="CX">Christmas Island</option>
+                    <option value="CC">Cocos (Keeling) Islands</option>
+                    <option value="CO">Colombia</option>
+                    <option value="KM">Comoros</option>
+                    <option value="CG">Congo</option>
+                    <option value="CD">Congo, the Democratic Republic of the</option>
+                    <option value="CK">Cook Islands</option>
+                    <option value="CR">Costa Rica</option>
+                    <option value="CI">Côte d'Ivoire</option>
+                    <option value="HR">Croatia</option>
+                    <option value="CU">Cuba</option>
+                    <option value="CW">Curaçao</option>
+                    <option value="CY">Cyprus</option>
+                    <option value="CZ">Czech Republic</option>
+                    <option value="DK">Denmark</option>
+                    <option value="DJ">Djibouti</option>
+                    <option value="DM">Dominica</option>
+                    <option value="DO">Dominican Republic</option>
+                    <option value="EC">Ecuador</option>
+                    <option value="EG">Egypt</option>
+                    <option value="SV">El Salvador</option>
+                    <option value="GQ">Equatorial Guinea</option>
+                    <option value="ER">Eritrea</option>
+                    <option value="EE">Estonia</option>
+                    <option value="ET">Ethiopia</option>
+                    <option value="FK">Falkland Islands (Malvinas)</option>
+                    <option value="FO">Faroe Islands</option>
+                    <option value="FJ">Fiji</option>
+                    <option value="FI">Finland</option>
+                    <option value="FR">France</option>
+                    <option value="GF">French Guiana</option>
+                    <option value="PF">French Polynesia</option>
+                    <option value="TF">French Southern Territories</option>
+                    <option value="GA">Gabon</option>
+                    <option value="GM">Gambia</option>
+                    <option value="GE">Georgia</option>
+                    <option value="DE">Germany</option>
+                    <option value="GH">Ghana</option>
+                    <option value="GI">Gibraltar</option>
+                    <option value="GR">Greece</option>
+                    <option value="GL">Greenland</option>
+                    <option value="GD">Grenada</option>
+                    <option value="GP">Guadeloupe</option>
+                    <option value="GU">Guam</option>
+                    <option value="GT">Guatemala</option>
+                    <option value="GG">Guernsey</option>
+                    <option value="GN">Guinea</option>
+                    <option value="GW">Guinea-Bissau</option>
+                    <option value="GY">Guyana</option>
+                    <option value="HT">Haiti</option>
+                    <option value="HM">Heard Island and McDonald Islands</option>
+                    <option value="VA">Holy See (Vatican City State)</option>
+                    <option value="HN">Honduras</option>
+                    <option value="HK">Hong Kong</option>
+                    <option value="HU">Hungary</option>
+                    <option value="IS">Iceland</option>
+                    <option value="IN">India</option>
+                    <option value="ID">Indonesia</option>
+                    <option value="IR">Iran, Islamic Republic of</option>
+                    <option value="IQ">Iraq</option>
+                    <option value="IE">Ireland</option>
+                    <option value="IM">Isle of Man</option>
+                    <option value="IL">Israel</option>
+                    <option value="IT">Italy</option>
+                    <option value="JM">Jamaica</option>
+                    <option value="JP">Japan</option>
+                    <option value="JE">Jersey</option>
+                    <option value="JO">Jordan</option>
+                    <option value="KZ">Kazakhstan</option>
+                    <option value="KE">Kenya</option>
+                    <option value="KI">Kiribati</option>
+                    <option value="KP">Korea, Democratic People's Republic of</option>
+                    <option value="KR">Korea, Republic of</option>
+                    <option value="KW">Kuwait</option>
+                    <option value="KG">Kyrgyzstan</option>
+                    <option value="LA">Lao People's Democratic Republic</option>
+                    <option value="LV">Latvia</option>
+                    <option value="LB">Lebanon</option>
+                    <option value="LS">Lesotho</option>
+                    <option value="LR">Liberia</option>
+                    <option value="LY">Libya</option>
+                    <option value="LI">Liechtenstein</option>
+                    <option value="LT">Lithuania</option>
+                    <option value="LU">Luxembourg</option>
+                    <option value="MO">Macao</option>
+                    <option value="MK">Macedonia, the former Yugoslav Republic of</option>
+                    <option value="MG">Madagascar</option>
+                    <option value="MW">Malawi</option>
+                    <option value="MY">Malaysia</option>
+                    <option value="MV">Maldives</option>
+                    <option value="ML">Mali</option>
+                    <option value="MT">Malta</option>
+                    <option value="MH">Marshall Islands</option>
+                    <option value="MQ">Martinique</option>
+                    <option value="MR">Mauritania</option>
+                    <option value="MU">Mauritius</option>
+                    <option value="YT">Mayotte</option>
+                    <option value="MX">Mexico</option>
+                    <option value="FM">Micronesia, Federated States of</option>
+                    <option value="MD">Moldova, Republic of</option>
+                    <option value="MC">Monaco</option>
+                    <option value="MN">Mongolia</option>
+                    <option value="ME">Montenegro</option>
+                    <option value="MS">Montserrat</option>
+                    <option value="MA">Morocco</option>
+                    <option value="MZ">Mozambique</option>
+                    <option value="MM">Myanmar</option>
+                    <option value="NA">Namibia</option>
+                    <option value="NR">Nauru</option>
+                    <option value="NP">Nepal</option>
+                    <option value="NL">Netherlands</option>
+                    <option value="NC">New Caledonia</option>
+                    <option value="NZ">New Zealand</option>
+                    <option value="NI">Nicaragua</option>
+                    <option value="NE">Niger</option>
+                    <option value="NG">Nigeria</option>
+                    <option value="NU">Niue</option>
+                    <option value="NF">Norfolk Island</option>
+                    <option value="MP">Northern Mariana Islands</option>
+                    <option value="NO">Norway</option>
+                    <option value="OM">Oman</option>
+                    <option value="PK">Pakistan</option>
+                    <option value="PW">Palau</option>
+                    <option value="PS">Palestinian Territory, Occupied</option>
+                    <option value="PA">Panama</option>
+                    <option value="PG">Papua New Guinea</option>
+                    <option value="PY">Paraguay</option>
+                    <option value="PE" selected>Peru</option>
+                    <option value="PH">Philippines</option>
+                    <option value="PN">Pitcairn</option>
+                    <option value="PL">Poland</option>
+                    <option value="PT">Portugal</option>
+                    <option value="PR">Puerto Rico</option>
+                    <option value="QA">Qatar</option>
+                    <option value="RE">Réunion</option>
+                    <option value="RO">Romania</option>
+                    <option value="RU">Russian Federation</option>
+                    <option value="RW">Rwanda</option>
+                    <option value="BL">Saint Barthélemy</option>
+                    <option value="SH">Saint Helena, Ascension and Tristan da Cunha</option>
+                    <option value="KN">Saint Kitts and Nevis</option>
+                    <option value="LC">Saint Lucia</option>
+                    <option value="MF">Saint Martin (French part)</option>
+                    <option value="PM">Saint Pierre and Miquelon</option>
+                    <option value="VC">Saint Vincent and the Grenadines</option>
+                    <option value="WS">Samoa</option>
+                    <option value="SM">San Marino</option>
+                    <option value="ST">Sao Tome and Principe</option>
+                    <option value="SA">Saudi Arabia</option>
+                    <option value="SN">Senegal</option>
+                    <option value="RS">Serbia</option>
+                    <option value="SC">Seychelles</option>
+                    <option value="SL">Sierra Leone</option>
+                    <option value="SG">Singapore</option>
+                    <option value="SX">Sint Maarten (Dutch part)</option>
+                    <option value="SK">Slovakia</option>
+                    <option value="SI">Slovenia</option>
+                    <option value="SB">Solomon Islands</option>
+                    <option value="SO">Somalia</option>
+                    <option value="ZA">South Africa</option>
+                    <option value="GS">South Georgia and the South Sandwich Islands</option>
+                    <option value="SS">South Sudan</option>
+                    <option value="ES">Spain</option>
+                    <option value="LK">Sri Lanka</option>
+                    <option value="SD">Sudan</option>
+                    <option value="SR">Suriname</option>
+                    <option value="SJ">Svalbard and Jan Mayen</option>
+                    <option value="SZ">Swaziland</option>
+                    <option value="SE">Sweden</option>
+                    <option value="CH">Switzerland</option>
+                    <option value="SY">Syrian Arab Republic</option>
+                    <option value="TW">Taiwan, Province of China</option>
+                    <option value="TJ">Tajikistan</option>
+                    <option value="TZ">Tanzania, United Republic of</option>
+                    <option value="TH">Thailand</option>
+                    <option value="TL">Timor-Leste</option>
+                    <option value="TG">Togo</option>
+                    <option value="TK">Tokelau</option>
+                    <option value="TO">Tonga</option>
+                    <option value="TT">Trinidad and Tobago</option>
+                    <option value="TN">Tunisia</option>
+                    <option value="TR">Turkey</option>
+                    <option value="TM">Turkmenistan</option>
+                    <option value="TC">Turks and Caicos Islands</option>
+                    <option value="TV">Tuvalu</option>
+                    <option value="UG">Uganda</option>
+                    <option value="UA">Ukraine</option>
+                    <option value="AE">United Arab Emirates</option>
+                    <option value="GB">United Kingdom</option>
+                    <option value="US">United States</option>
+                    <option value="UM">United States Minor Outlying Islands</option>
+                    <option value="UY">Uruguay</option>
+                    <option value="UZ">Uzbekistan</option>
+                    <option value="VU">Vanuatu</option>
+                    <option value="VE">Venezuela, Bolivarian Republic of</option>
+                    <option value="VN">Viet Nam</option>
+                    <option value="VG">Virgin Islands, British</option>
+                    <option value="VI">Virgin Islands, U.S.</option>
+                    <option value="WF">Wallis and Futuna</option>
+                    <option value="EH">Western Sahara</option>
+                    <option value="YE">Yemen</option>
+                    <option value="ZM">Zambia</option>
+                    <option value="ZW">Zimbabwe</option>
+                  </select>
+                </div>
+              </div>
+              <div class="fields">
+                <div class="field">
+                  <label>Client Name</label>
+                  <input type="text" placeholder="auto-populate on transfer to compliance" value="Minera Yanacocha S.A.">
+                </div>
+                <div class="field">
+                  <label>Compliant Name</label>
+                  <input type="text" placeholder="auto-populate on transfer to compliance" value="Yanacocha-09/Cajamarca">
+                </div>
+              </div>
+        <p>Case Status: <a class="ui green label">Active: Investigation.</a></p>
+
+                  <div class="ui calendar" id="year-first-date-only-27">
+                  <div class="inline fields">
+                  <label><strong>Date Filed with CAO</strong></label>
+                    <div class="ui input left icon">
+                      <i class="calendar icon"></i>
+                      <input type="text" placeholder="auto-populate on transfer to compliance" value="27 January 2017">
+                    </div>
+                  </div>
+                  </div>
+
+                <div class="ui calendar" id="year-first-date-only-28">
                 <div class="inline fields">
-                <label><strong>Date Filed with CAO</strong></label>
+                  <label><strong>Date Transferred to Compliance</strong></label>
                   <div class="ui input left icon">
                     <i class="calendar icon"></i>
-                    <input type="text" placeholder="auto-populate on transfer to compliance" value="27 January 2017">
+                    <input type="text" placeholder="auto-populate on transfer to compliance" value="11 August 2017">
                   </div>
                 </div>
                 </div>
 
-              <div class="ui calendar" id="year-first-date-only-2">
+                <div class="fields">
+                  <div class="field">
+                    <label>CAO Contact Point</label>
+                    <input type="text" placeholder="auto-populate on transfer to compliance">
+                  </div>
+                  <div class="field">
+                    <label>IFC/MIGA Director</label>
+                    <input type="text" placeholder="auto-populate on transfer to compliance" value="John Middleton">
+                  </div>
+                </div>
+              <div class="fields">
+                <div class="field">
+                  <label>Portfolio Manager</label>
+                  <input type="text" placeholder="auto-populate on transfer to compliance">
+                </div>
+                <div class="field">
+                  <label>LESS</label>
+                  <input type="text" placeholder="auto-populate on transfer to compliance" value="Example Name">
+                </div>
+              </div>
+              <div class="fields">
+                <div class="field">
+                  <label>Lead CAO Specialist</label>
+                  <input type="text" placeholder="user-defined / populate from list if possible" value="Example Name">
+                </div>
+                <div class="field">
+                  <label>Other CAO Staff Assigned</label>
+                  <input type="text" placeholder="user-defined / populate from list if possible" value="Example Name, Example Name">
+                </div>
+              </div>
+            </div>
+
+
+      </div>
+      <div class="ui bottom attached tab segment" data-tab="seventh/b">
+
+
+              <h2 class="ui header">Compliance Appraisal Data</h2>
+
+              <p><strong>Days at Appraisal:</strong> <a class="ui red circular label">50</a></p>
+
+              <div>Case Merged at Appraisal? &nbsp;
+                <div class="ui inline dropdown">
+                  <div class="text">No.</div>
+                  <i class="dropdown icon"></i>
+                  <div class="menu">
+                    <div class="item active" data-text="Yes.">Yes</div>
+                    <div class="item" data-text="No.">No</div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="ui fluid search selection dropdown">
+                <input type="hidden" name="country">
+                <i class="dropdown icon"></i>
+                <div class="default text">Select Case. [List should pull from database.]</div>
+                <div class="menu">
+                  <div class="item" data-value="Yanacocha-01">Yanacocha-01</div>
+                  <div class="item" data-value="Yanacocha-02">Yanacocha-02</div>
+                  <div class="item" data-value="Yanacocha-03">Yanacocha-03</div>
+                  <div class="item" data-value="Yanacocha-04">Yanacocha-04</div>
+                  <div class="item" data-value="Yanacocha-05">Yanacocha-05</div>
+                  <div class="item" data-value="Yanacocha-06">Yanacocha-06</div>
+                  <div class="item" data-value="Yanacocha-07">Yanacocha-07</div>
+                  <div class="item" data-value="Yanacocha-08">Yanacocha-08</div>
+                  <div class="item" data-value="Yanacocha-10" selected>Yanacocha-10</div>
+              </div>
+               </div>
+
+                       <div class="ui equal width form">
+                         <div class="ui calendar" id="year-first-date-only-32">
+                         <div class="inline fields">
+                         <label><strong>Compliance Appraisal Due:</strong></label>
+                           <div class="ui input left icon">
+                             <i class="calendar icon"></i>
+                             <input type="text" placeholder="auto-calculate allowing manual override" value="October 17, 2017">
+                           </div>
+                         </div>
+                         </div>
+                       </div>
+
+
+              <p>
+              <div class="ui calendar" id="year-first-date-only-29">
               <div class="inline fields">
-                <label><strong>Date Transferred to Compliance</strong></label>
+              <label><strong>Date Appraisal Complete/IFC memo notified (later date)</strong></label>
                 <div class="ui input left icon">
                   <i class="calendar icon"></i>
-                  <input type="text" placeholder="auto-populate on transfer to compliance" value="11 August 2017">
+                  <input type="text" placeholder="user-defined date value" value="14 November 2017">
                 </div>
               </div>
               </div>
+              </p>
 
-            <div class="fields">
-              <div class="field">
-                <label>Portfolio Manager</label>
-                <input type="text" placeholder="auto-populate on transfer to compliance">
+              <div>Case went to investigation? &nbsp;
+                <div class="ui inline dropdown">
+                  <div class="text">Yes.</div>
+                  <i class="dropdown icon"></i>
+                  <div class="menu">
+                    <div class="item active" data-text="Yes.">Yes</div>
+                    <div class="item" data-text="No.">No</div>
+                  </div>
+                </div>
               </div>
-              <div class="field">
-                <label>LESS</label>
-                <input type="text" placeholder="auto-populate on transfer to compliance" value="John Middleton">
+
+<!-- would be helpful to allow text area for 'status notes' to "grow" as more information added  : https://developer.mozilla.org/en-US/docs/Web/API/HTMLTextAreaElement#Autogrowing_textarea_example-->
+                            <p>
+                            <div class="ui form">
+                              <div class="field">
+                                <label>Status Notes [Internal]</label>
+                                <textarea rows="2" placeholder="Use this space to add notes for the CAO case status update."></textarea>
+                              </div>
+                            </div>
+                            </p>
+
+                            <p>
+                            <div class="ui form">
+                              <div class="field">
+                                <label>Status Notes [IFC]</label>
+                                <textarea rows="2" placeholder="Use this space to add notes for CAO's updates to IFC."></textarea>
+                              </div>
+                            </div>
+                            </p>
+
+                            <p>
+                            <div class="ui form">
+                              <div class="field">
+                                <label>Status Notes [Public]</label>
+                                <textarea rows="8" placeholder="Use this space to add updates that will appear on the public case status page (online).">
+CAO found the complaint eligible for further assessment in March 2017. Due to lack of agreement between the parties on pursuing a dispute resolution process facilitated by CAO, the complaint was referred for a compliance appraisal of IFC’s due diligence in August 2017 and merged with a subsequent complaint that addressed substantively similar issues [Yanacocha-10]. CAO concluded its joint compliance appraisal of the Yanacocha-09 and Yanacocha-10 complaints in November 2017. Following a review of documentation, CAO has questions as to the adequacy of IFC’s appraisal and supervision of occupational health and safety risks as relevant to the issues raised by the complainants. CAO has thus concluded that these complaints merit a compliance investigation.
+
+A Spanish version of the appraisal report is forthcoming.
+                                </textarea>
+                              </div>
+                            </div>
+                            </p>
+              <p></p>
+      </div>
+      <div class="ui bottom attached tab segment active" data-tab="seventh/c">
+
+              <h2 class="ui header">Compliance Investigation Data</h2>
+
+
+              <p><strong>Days at Investigation:</strong> <a class="ui green circular label">36</a></p>
+
+              <div>Merged with Case at Investigation? &nbsp;
+                <div class="ui inline dropdown">
+                  <div class="text">Yes.</div>
+                  <i class="dropdown icon"></i>
+                  <div class="menu">
+                    <div class="item active" data-text="Yes.">Yes</div>
+                    <div class="item" data-text="No.">No</div>
+                  </div>
+                </div>
               </div>
-            </div>
-            <div class="fields">
-              <div class="field">
-                <label>Lead CAO Specialist</label>
-                <input type="text" placeholder="user-defined / populate from list if possible" value="Patrick Flanagan">
-              </div>
-              <div class="field">
-                <label>Other CAO Staff Assigned</label>
-                <input type="text" placeholder="user-defined / populate from list if possible" value="Aaron Dennis,  Reiko Ishihara-Brito">
-              </div>
-            </div>
-          </div>
 
-      <h2 class="ui header">Compliance Appraisal Data</h2>
-
-      <p><strong>Days at Appraisal:</strong> <a class="ui red circular label">50</a></p>
-
-      <div>Case Merged at Appraisal? &nbsp;
-        <div class="ui inline dropdown">
-          <div class="text">Yes.</div>
-          <i class="dropdown icon"></i>
-          <div class="menu">
-            <div class="item active" data-text="Yes.">Yes</div>
-            <div class="item" data-text="No.">No</div>
-          </div>
-        </div>
+               <div class="field">
+                        <div class="inline fields">
+                 <div class="ui fluid search selection dropdown">
+                   <input type="text" placeholder="If merged at investigation, auto-populate. Otherwise select case.">
+                   <i class="dropdown icon"></i>
+                   <div class="text">Yanacocha-10</div>
+                   <div class="menu">
+                     <div class="item" data-value="Yanacocha-01">Yanacocha-01</div>
+                     <div class="item" data-value="Yanacocha-02">Yanacocha-02</div>
+                     <div class="item" data-value="Yanacocha-03">Yanacocha-03</div>
+                     <div class="item" data-value="Yanacocha-04">Yanacocha-04</div>
+                     <div class="item" data-value="Yanacocha-05">Yanacocha-05</div>
+                     <div class="item" data-value="Yanacocha-06">Yanacocha-06</div>
+                     <div class="item" data-value="Yanacocha-07">Yanacocha-07</div>
+                     <div class="item" data-value="Yanacocha-08">Yanacocha-08</div>
+                     <div class="item" data-value="Yanacocha-10" selected>Yanacocha-10</div>
+                 </div>
+                  </div>
       </div>
-
-
-      <div class="ui fluid search selection dropdown">
-        <input type="hidden" name="country">
-        <i class="dropdown icon"></i>
-        <div class="default text">Select Case. [List should pull from database.]</div>
-        <div class="menu">
-        <div class="item" data-value="Case-01">Case-01</div>
-        <div class="item" data-value="Case-02">Case-02</div>
-        <div class="item" data-value="Case-03">Case-03</div>
-      </div>
-       </div>
-
-
-      <p>
-      <div class="ui form">
-        <div class="field">
-          <label>Status Notes [Internal]</label>
-          <textarea rows="2" placeholder="Use this space to add notes for the CAO case status update."></textarea>
-        </div>
-      </div>
-      </p>
-
-      <p>
-      <div class="ui form">
-        <div class="field">
-          <label>Status Notes [IFC]</label>
-          <textarea rows="2" placeholder="Use this space to add notes for CAO's updates to IFC."></textarea>
-        </div>
-      </div>
-      </p>
-
-      <p>
-      <div class="ui form">
-        <div class="field">
-          <label>Status Notes [Public]</label>
-          <textarea rows="2" placeholder="Use this space to add updates that will appear on the public case status page (online)."></textarea>
-        </div>
-      </div>
-      </p>
-
-      <p>
-      <div class="ui calendar" id="year-first-date-only-3">
-      <div class="inline fields">
-      <label><strong>Date Appraisal Complete/IFC memo notified (later date)</strong></label>
-        <div class="ui input left icon">
-          <i class="calendar icon"></i>
-          <input type="text" placeholder="user-defined date value">
-        </div>
-      </div>
-      </div>
-      </p>
-
-      <div>Case went to investigation? &nbsp;
-        <div class="ui inline dropdown">
-          <div class="text">Yes.</div>
-          <i class="dropdown icon"></i>
-          <div class="menu">
-            <div class="item active" data-text="Yes.">Yes</div>
-            <div class="item" data-text="No.">No</div>
-          </div>
-        </div>
-      </div>
-
-
-      <p></p>
-
-
-      <h2 class="ui header">Compliance Investigation Data</h2>
-
-
-      <p><strong>Days at Investigation:</strong> <a class="ui green circular label">1</a></p>
-
-      <div>Merged with Case at Investigation? &nbsp;
-        <div class="ui inline dropdown">
-          <div class="text">Yes.</div>
-          <i class="dropdown icon"></i>
-          <div class="menu">
-            <div class="item active" data-text="Yes.">Yes</div>
-            <div class="item" data-text="No.">No</div>
-          </div>
-        </div>
-      </div>
-
-
-      <div class="ui fluid search selection dropdown">
-        <input type="hidden" name="country">
-        <i class="dropdown icon"></i>
-        <div class="default text">If merged at investigation, auto-populate. Otherwise select case</div>
-        <div class="menu">
-        <div class="item" data-value="Case-01">Case-01</div>
-        <div class="item" data-value="Case-02">Case-02</div>
-        <div class="item" data-value="Case-03">Case-03</div>
-      </div>
-       </div>
-
-
-       <p>
-       <div class="ui form">
-         <div class="field">
-           <label>Status Notes [Internal]</label>
-           <textarea rows="2" placeholder="Use this space to add notes for the CAO case status update."></textarea>
-         </div>
-       </div>
-       </p>
-
-       <p>
-       <div class="ui form">
-         <div class="field">
-           <label>Status Notes [IFC]</label>
-           <textarea rows="2" placeholder="Use this space to add notes for CAO's updates to IFC."></textarea>
-         </div>
-       </div>
-       </p>
-
-       <p>
-       <div class="ui form">
-         <div class="field">
-           <label>Status Notes [Public]</label>
-           <textarea rows="2" placeholder="Use this space to add updates that will appear on the public case status page (online)."></textarea>
-         </div>
-       </div>
-       </p>
-
-
-       <div class="ui equal width form">
-         <div class="fields">
-           <div class="field">
-             <label>Date Sent for IFC Factual Review:</label>
-             <input type="text" placeholder="user-defined date value">
-           </div>
-           <div class="field">
-             <label>Date Factual Review Received from IFC:</label>
-             <input type="text" placeholder="user-defined date value">
-           </div>
-         </div>
-         <div class="fields">
-           <div class="field">
-             <label>Date Finalized Investigation Report Sent for Response:</label>
-             <input type="text" placeholder="user-defined date value">
-           </div>
-           <div class="field">
-             <label>Date Response Received from IFC:</label>
-             <input type="text" placeholder="user-defined date value">
-           </div>
-         </div>
-         <div class="fields">
-           <div class="field">
-             <label>Date Report Sent to President's Office:</label>
-             <input type="text" placeholder="user-defined date value">
-           </div>
-           <div class="field">
-             <label>Date Report Made Public:</label>
-             <input type="text" placeholder="user-defined date value">
-           </div>
-         </div>
-       </div>
-
-        <p>
-        <div class="ui form">
-          <div class="inline fields">
-            <label>Fiscal Year Audit Complete (Published):</label>
-            <div class="four wide field">
-              <input type="text" placeholder="user-defined date value">
-            </div>
-          </div>
-        </div>
-        </p>
-
-       <div>Case went to monitoring? &nbsp;
-         <div class="ui inline dropdown">
-           <div class="text">Yes.</div>
-           <i class="dropdown icon"></i>
-           <div class="menu">
-             <div class="item active" data-text="Yes.">Yes</div>
-             <div class="item" data-text="No.">No</div>
-           </div>
-         </div>
-       </div>
-
-
-       <h2 class="ui header">Compliance Monitoring Data</h2>
-
-
-       <p><strong>Days at Monitoring:</strong> <a class="ui grey circular label">0</a></p>
-
-       <p><strong>Date Next Monitoring Report Due:</strong> [auto-calculate]</p>
-
-       <div>Case Merged at Monitoring? &nbsp;
-         <div class="ui inline dropdown">
-           <div class="text">No.</div>
-           <i class="dropdown icon"></i>
-           <div class="menu">
-             <div class="item active" data-text="Yes.">Yes</div>
-             <div class="item" data-text="No.">No</div>
-           </div>
-         </div>
-       </div>
-
-           <p>
-           <div class="ui form">
-             <div class="inline fields">
-               <label>Date 1st Montoring Complete:</label>
-               <div class="four wide field">
-                 <input type="text" placeholder="user-defined date value">
                </div>
-             </div>
-           </div>
-           </p>
 
-        <p>
-        <div class="ui form">
-          <div class="inline fields">
-            <label>Date N<sup>th</sup> Montoring Complete</label>
-            <div class="four wide field">
-              <input type="text" placeholder="user-defined date value">
-            </div>
-          </div>
-        </div>
-        </p>
+
+               <div class="ui equal width form">
+                 <div class="fields">
+                   <div class="field">
+                     <label>Date Report Sent for IFC Factual Review:</label>
+                     <input type="text" placeholder="user-defined date value">
+                   </div>
+                   <div class="field">
+                     <label>Date Factual Review Received from IFC:</label>
+                     <input type="text" placeholder="user-defined date value">
+                   </div>
+                 </div>
+                 <div class="fields">
+                   <div class="field">
+                     <label>Date Finalized Report Sent for Response:</label>
+                     <input type="text" placeholder="user-defined date value">
+                   </div>
+                   <div class="field">
+                     <label>Date Response Received from IFC:</label>
+                     <input type="text" placeholder="user-defined date value">
+                   </div>
+                 </div>
+                 <div class="fields">
+                   <div class="field">
+                     <label>Date Report Sent to President's Office:</label>
+                     <input type="text" placeholder="user-defined date value">
+                   </div>
+                   <div class="field">
+                     <label>Date Report Made Public:</label>
+                     <input type="text" placeholder="user-defined date value">
+                   </div>
+                 </div>
+               </div>
+
+                <p>
+                <div class="ui form">
+                  <div class="inline fields">
+                    <label>Fiscal Year Audit Complete (Published):</label>
+                    <div class="four wide field">
+                      <input type="text" placeholder="user-defined date value">
+                    </div>
+                  </div>
+                </div>
+                </p>
+
+               <div>Case went to monitoring? &nbsp;
+                 <div class="ui inline dropdown">
+                   <div class="text">N/A</div>
+                   <i class="dropdown icon"></i>
+                   <div class="menu">
+                     <div class="item active" data-text="N/A">N/A</div>
+                     <div class="item" data-text="Yes.">Yes</div>
+                     <div class="item" data-text="No.">No</div>
+                   </div>
+                 </div>
+               </div>
+<!-- would be helpful to allow text area for 'status notes' to "grow" as more information added : https://developer.mozilla.org/en-US/docs/Web/API/HTMLTextAreaElement#Autogrowing_textarea_example -->
+                              <p>
+                              <div class="ui form">
+                                <div class="field">
+                                  <label>Status Notes [Internal]</label>
+                                  <textarea rows="2" placeholder="Use this space to add notes for the CAO case status update."></textarea>
+                                </div>
+                              </div>
+                              </p>
+
+                              <p>
+                              <div class="ui form">
+                                <div class="field">
+                                  <label>Status Notes [IFC]</label>
+                                  <textarea rows="2" placeholder="Use this space to add notes for CAO's updates to IFC."></textarea>
+                                </div>
+                              </div>
+                              </p>
+
+                              <p>
+                              <div class="ui form">
+                                <div class="field">
+                                  <label>Status Notes [Public]</label>
+                                  <textarea rows="6" placeholder="Use this space to add updates that will appear on the public case status page (online).">CAO’s joint compliance appraisal of the Yanacocha-09 and Yanacocha-10 complaints was released in November 2017. CAO has concluded that an investigation is merited in relation to the issues raised in the complaints. CAO is preparing the Terms of Reference for the investigation of IFC’s performance</textarea>
+                                </div>
+                              </div>
+                              </p>
+
+      </div>
+      <div class="ui bottom attached tab segment active" data-tab="seventh/d">
+
+               <h2 class="ui header">Compliance Monitoring Data</h2>
+
+
+               <p><strong>Days at Monitoring:</strong> <a class="ui grey circular label">0</a></p>
+
+               <p><strong>Date Next Monitoring Report Due:</strong> [auto-calculate]</p>
+
+               <div>Case Merged at Monitoring? &nbsp;
+                 <div class="ui inline dropdown">
+                   <div class="text">No.</div>
+                   <i class="dropdown icon"></i>
+                   <div class="menu">
+                     <div class="item active" data-text="Yes.">Yes</div>
+                     <div class="item" data-text="No.">No</div>
+                   </div>
+                 </div>
+               </div>
+
+                   <p>
+                   <div class="ui form">
+                     <div class="inline fields">
+                       <label>Date 1st Montoring Complete:</label>
+                       <div class="four wide field">
+                         <input type="text" placeholder="user-defined date value">
+                       </div>
+                     </div>
+                   </div>
+                   </p>
+
+                <p>
+                <div class="ui form">
+                  <div class="inline fields">
+                    <label>Date N<sup>th</sup> Montoring Complete</label>
+                    <div class="four wide field">
+                      <input type="text" placeholder="user-defined date value">
+                    </div>
+                  </div>
+                </div>
+                </p>
+
+<!-- would be helpful to allow text area for 'status notes' to "grow" as more information added  : https://developer.mozilla.org/en-US/docs/Web/API/HTMLTextAreaElement#Autogrowing_textarea_example-->
+                      <p>
+                      <div class="ui form">
+                        <div class="field">
+                          <label>Status Notes [Internal]</label>
+                          <textarea rows="2" placeholder="Use this space to add notes for the CAO case status update."></textarea>
+                        </div>
+                      </div>
+                      </p>
+
+                      <p>
+                      <div class="ui form">
+                        <div class="field">
+                          <label>Status Notes [IFC]</label>
+                          <textarea rows="2" placeholder="Use this space to add notes for CAO's updates to IFC."></textarea>
+                        </div>
+                      </div>
+                      </p>
+
+                      <p>
+                      <div class="ui form">
+                        <div class="field">
+                          <label>Status Notes [Public]</label>
+                          <textarea rows="2" placeholder="Use this space to add updates that will appear on the public case status page (online)."></textarea>
+                        </div>
+                      </div>
+                      </p>
+
+      </div>
+
+
+
 
     </div>
+
 <!-- END TAB FRAME -->
 
 

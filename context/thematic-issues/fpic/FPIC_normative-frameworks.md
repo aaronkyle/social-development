@@ -10,7 +10,9 @@
 
 * <a id="C169"></a><a href="http://www.ilo.org/dyn/normlex/en/f?p=1000:12100:0::NO::P12100_INSTRUMENT_ID:312314">Convention concerning Indigenous and Tribal Peoples [ILO C169]</a> (1989)
 
-The International Labour Organisation’s Convention on Indigenous and Tribal Peoples in Independent Countries – 169/1989 refers to the principle of free and informed consent <a href="#ref,C169">[1]</a>:
+---
+
+The International Labour Organisation’s [Convention on Indigenous and Tribal Peoples in Independent Countries – 169/1989](http://www.ilo.org/dyn/normlex/en/f?p=1000:12100:0::NO::P12100_INSTRUMENT_ID:312314) refers to the principle of free and informed consent <a href="#ref,C169">[1]</a>:
 
 **Article 6**
 
@@ -27,12 +29,13 @@ The International Labour Organisation’s Convention on Indigenous and Tribal Pe
 
 <ol type="1">
 <li>Subject to the following paragraphs of this Article, the peoples concerned shall not be removed from the lands which they occupy. 
-
 <li>Where the relocation of these peoples is considered necessary as an exceptional measure, such relocation shall take place only with their free and informed consent. Where their consent cannot be obtained, such relocation shall take place only following appropriate procedures established by national laws and regulations, including public inquiries where appropriate, which provide the opportunity for effective representation of the peoples concerned. 
 <li>Whenever possible, these peoples shall have the right to return to their traditional lands, as soon as the grounds for relocation cease to exist. 
 <li>When such return is not possible, as determined by agreement or, in the absence of such agreement, through appropriate procedures, these peoples shall be provided in all possible cases with lands of quality and legal status at least equal to that of the lands previously occupied by them, suitable to provide for their present needs and future development. Where the peoples concerned express a preference for compensation in money or in kind, they shall be so compensated under appropriate guarantees. 
 <li>Persons thus relocated shall be fully compensated for any resulting loss or injury. 
 </li></ol>
+
+---
 
 * <a href="http://www.cbd.int/convention/text/">Convention on Biological Diversity</a> (1992)
 
@@ -40,7 +43,9 @@ Among the few legally binding international human rights instruments, the Conven
 
 <a id="EI_review1"></a><a id="Decision_V/16"></a>The Fifth Conference of Parties (‘COP’) to the CBD Decision V/16 expressed a firm commitment to the implementation of prior informed consent in its general principles: “access to traditional knowledge, innovation and practices of indigenous and local communities should be subject to prior informed consent or prior informed approval from the holders of such knowledge, innovations and practices.” <a href="#ref,Decision_V/16">[2]</a> Decision V/16 further calls upon “parties to take measures to enhance and strengthen the capacity of  indigenous and local communities to be effectively involved in decision-making related to the use of their traditional knowledge, innovations and practices relevant to the conservation and sustainable use of biological diversity subject to their prior informed approval and effective involvement.” <a href="#ref,EI_review1">[3]</a>
 
+<!---
 * <a href="http://www.unccd.int/en/about-the-convention/Pages/Text-overview.aspx">Convention to Combat Desertification</a> (1994)
+-->
 
 ### Non-binding Instruments
 

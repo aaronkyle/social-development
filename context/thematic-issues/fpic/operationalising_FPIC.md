@@ -2,10 +2,12 @@
 <br>
 How can (and do) financial lenders ensure that Indigenous Peoples' rights to free, prior and informed consent are meaningfully recognized in development practices? This article identifies some different facets of the concept of 'FPIC' and offers some recommendations for how the *principal* of FPIC can be operationalized via policy provisions and practice approaches.
 
+<!-- COMMENTING OUT SELF-REFERENCE
 by Aaron Kyle Dennis
 <span style="font-size:small;">Published 2011-Feb-23 on the [CCCS website](http://internal.crossculturalconsult.com/joomla/index.php/en/spotlight-on-fpic/defining-fpic);<br>re-published as a weblog on 2013-Nov-21.</span>
 <span style="font-size:small;">&copy;Cross-Cultural Consulting Services, PLCC. 2011.</span>
 <span style="font-size:small;">[Attribution; Share Alike](http://creativecommons.org/licenses/by-sa/3.0/us/)</span>
+-->
 
 <p>&nbsp;</p>
 <a id="Motoc,Tebtebba"></a><blockquote>Substantively, the principle of free, prior and informed consent recognizes indigenous peoples’ inherent and prior rights to their lands and resources and respects their legitimate authority to require that third parties enter into an equal and respectful relationship with them based on the principle of informed consent. Procedurally, free, prior and informed consent requires processes that allow and support meaningful choices by indigenous peoples about their development path. </blockquote>
@@ -67,7 +69,7 @@ An analysis of international law and international formulations of FPIC suggests
 * any policies or programmes that may lead to the removal of their children, or their removal, displacement or relocation from their traditional territories.
  
 
-##Citations:
+## Citations:
  
 <a href="#Motoc,Tebtebba">[↑Ref. 1]</a><a id="ref,Motoc,Tebtebba">&nbsp;</a> Quote from a preliminary working paper on the principle of free, prior and informed consent, submitted to the UN Commission on Human Rights, Working Group on Indigenous Populations (twenty-second session). Document ID: E/CN.4/Sub.2/AC.4/2004/4 (08 July 2004).
 Available at: http://www2.ohchr.org/english/issues/indigenous/docs/wgip22/4.pdf

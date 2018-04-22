@@ -1,13 +1,16 @@
 # Defining FPIC: free, prior and informed consent
-<br>
-<span style="text-align: justify;">*The principle of free, prior and informed consent (FPIC) is increasingly invoked as a right of Indigenous Peoples relative to the development projects and resource extraction that occurs within their lands and territories.*</span>
 
-*But what exactly is FPIC, and how is it realized in practice?*
+<span style="text-align: justify;"><em>The principle of free, prior and informed consent (FPIC) is increasingly invoked as a right of Indigenous Peoples relative to the development projects and resource extraction that occurs within their lands and territories.</em></span>
 
+<em>But what exactly is FPIC, and how is it realized in practice?</em>
+
+<!--
 by Aaron Kyle Dennis <br />
 <span style="font-size:small;">Published 2011-Feb-15 by Cross-Cultural Consulting Services, PLCC.</span>
 <span style="font-size:small;">[Attribution; Share Alike](http://creativecommons.org/licenses/by-sa/3.0/us/)</span>
 <p>&nbsp;</p>
+-->
+
 
 ## free, prior and informed consent (FPIC) under the 2007 United Nations Declaration on the Rights of Indigenous Peoples*
 
@@ -119,7 +122,7 @@ Some definitional frameworks proposed in international jurisprudence are as foll
 > * Their choice to give or withhold consent over developments affecting them is respected and upheld.
  
 
-### < a id="UNDRIP_framework_2008">From</a><a id="UNDRIP_framework_2008,alt">&nbsp;</a>the “[The UN Declaration on the Rights of Indigenous Peoples, Treaties and the Right to Free, Prior and Informed Consent - The Framework For a New Mechanism for Reparations, Restitution and Redress](http:/www.un.org/esa/socdev/unpfii/documents/E_C19_2008_CRP_12.doc)”
+### <a id="UNDRIP_framework_2008">From</a><a id="UNDRIP_framework_2008,alt">&nbsp;</a>the “[The UN Declaration on the Rights of Indigenous Peoples, Treaties and the Right to Free, Prior and Informed Consent - The Framework For a New Mechanism for Reparations, Restitution and Redress](http:/www.un.org/esa/socdev/unpfii/documents/E_C19_2008_CRP_12.doc)”
 
 ##### Submitted by the International Indian Treaty Council to the United Nations Permanent Forum on Indigenous Issues (March 9, 2008)<a href="#ref,UNDRIP_framework_2008">[3]</a><a href="#ref,UNDRIP_framework_2008,alt">[4]</a>
 

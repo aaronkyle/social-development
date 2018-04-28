@@ -5,7 +5,6 @@ The term 'country safeguard systems' refers to aspects of a country’s legal an
 Internatioanl financial insitutions increasingly call for greater reliance on state legal and regulatory frameworks for the realization of environmental and social developmental objectives. ADB refers to 'country safeguard systems' (CSS) under its 2009 *Safeguard Policy Statement*. <sup>[[^1](# "ADB. 2009. Safeguard Policy Statement. Manila. p. 77.")]</sup>
 (CSS)The World Bank refers to this work as use of borrower systems.
 
-
 <!--
 [^1]: ADB. 2009. Safeguard Policy Statement. Manila. p. 77.
 -->

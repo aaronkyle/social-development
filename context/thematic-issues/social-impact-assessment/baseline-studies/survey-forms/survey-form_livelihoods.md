@@ -1,768 +1,500 @@
-		QUESTIONS -English	QUESTIONS -Bahasa Indonesia	PROMPT / OPTIONS -Englsih	PROMPT / OPTIONS -Bahasa Indonesia	NOTES
-						
-						
-##		LIVELIHOODS / SOCIO-ECONOMIC CONDITIONS	KONDISI SOSIAL EKONOMI			
-						
-117		How do you and the people in your village utilize natural resources—such as forest products or ocean resources—to meet the needs of daily life?	Untuk pemenuhan kebutuhan hidup sehari-hari, apakah bapak/ibu memiliki informasi terkait aktivitas pemanfaatan hasil hutan yang dilakukan oleh masyarakat lokal di desa ini?			CATATAN: sedapat mungkin, sertakan nama berbagai SDA yang dikutip sebagai penting bagi orang, baik dalam dialek setempat maupun Bahasa Indonesia. Untuk melengkapi catatan tertulis, lakukan pemotretan.
-*		 - type of resource		foraging	makanan	
-*		 - frequency		agriculture	tebas-bakar	
-*				habitation	pemukiman	
-*				ceremonies	seremoni	
-						
-118		How do you normally obtain food?	Bagaimana Anda biasanya mendapatkan makanan?			(check all that apply)
-*				buy in market/local store	beli di pasar / toko lokal	
-*				grow by farming area/yard/garden	tumbuh dengan pertanian daerah / halaman / taman	
-*				forage from forest (e.g. nuts, vegetation)	hijauan dari hutan (kacang-kacangan, vegetasi)	
-*				capture from forest (e.g. small animals)	capture dari hutan (binatang kecil)	
-*				hunt from forest (e.g. small / large animals)	berburu dari hutan (binatang kecil)	
-*				gather from river (e.g. snails)	mengumpulkan dari sungai (siput, dll)	
-*				capture in river (e.g. fishing)	capture di sungai (memancing)	
-*				gather from sea (e.g. seaweed; shell fish)	mengumpulkan dari laut (siput, dll)	
-*				capture from sea (e.g. fishing; trapping)	capture dari laut (nelayan)	
-						
-119		Primary basis of economic livelihoods?	Dasar utama mata pencaharian ekonomi?			
-*				natural resources based livelihoods	darat	
-*				wage income	upah berdasarkan	
-*				profile from enterprises	perusahaan berbasis	
-*				remittances	remittance berbasis	
-*				not applicable / do not use money	tidak berlaku	
-						
-120		Primary economic occupation?	Apa pekerjaan bapak/ibu? / Jika bekerja formal, dimana bapak/ibu bekerja?			
-*				farmer	bertani	
-*				farm hand	buruh tani	
-*				fisher		
-*				seaweed farmer		
-*				mine employees	karyawan tambang	
-*				merchant	pedagang	
-*				entrepreneur	wiraswasta	
-*				civil servants	pegawai negeri	
-*				army / police	tentara/polisi	
-*				motorcycle taxis	tukang ojek	
-*				money-lender	rentenir	
-*				worker / wage laborer (specify; e.g. porters for artisanal miners; tourist guide)	serabutan / upah buruh (sebutkan)	
-*				other (specify)	lainnya (sebutkan)	
-						
-121		Secondary basis of economic livelihoods?	Secara sekunder mata pencaharian ekonomi?			
-*				natural resources based livelihoods	darat	
-*				wage income	upah berdasarkan	
-*				profile from enterprises	perusahaan berbasis	
-*				remittances	remittance berbasis	
-*				not applicable / do not use money	tidak berlaku	
-						
-122		Secondary economic occupation?				
-*				farmer	bertani	
-*				farm hand	buruh tani	
-*				fisher		
-*				seaweed farmer		
-*				mine employees	karyawan tambang	
-*				merchant	pedagang	
-*				entrepreneur	wiraswasta	
-*				civil servants	pegawai negeri	
-*				army / police	tentara/polisi	
-*				motorcycle taxis	tukang ojek	
-*				money-lender	rentenir	
-*				worker / wage laborer (specify; e.g. porters for artisanal miners; tourist guide)	serabutan / upah buruh (sebutkan)	
-*				other (specify)	lainnya (sebutkan)	
-						
-123		Are there many opportunities available locally to earn money?				
-*				yes		
-*				no		
-						
-124		What specific industries or markets are important for local economic production?				
-						
-						
-						
-##		DEPENDECY ON MARKET ACCESS				
-						
-125		Which food and items does your household typically purchase from the market or from the store each month?	Yang makanan / item yang rumah tangga Anda biasanya membeli dari pasar atau dari toko setiap bulan?			Write the number in the code column. Write the unit of measurement in the Unit column and write the quantity purchased in the No. column.
-*		code		rice	beras	
-*		unit		corn	jagung	
-*		no		noodles	mi	
-*		Frequency of use:		fresh vegetables	sayuran segar	
-*		daily		sweet potato	ubi jalar	
-*		weekly		cassava	singkong	
-*		monthly		taro	talas	
-*		annually		papaya	pepaya	
-*		cost / unit		banana	pisang	
-*				coconut	kelapa	
-*				seaweed		
-*				fresh pork	daging babi segar	
-*				pig	babi	
-*				wild pig	babi hutan	
-*				fresh beef	daging sapi segar	
-*				buffalo / caribou	kerbau	
-*				cow/cattle	sapi / sapi	
-*				goat	kambing	
-*				sheep	domba	
-*				wild deer	rusa liar	
-*				fresh chicken	ayam segar	
-*				chicken	ayam pedaging	
-*				wild chicken/birds	liar ayam / burung	
-*				native chicken	ayam kampung	
-*				laying chickens	ayam petelor	
-*				duck	itik	
-*				fresh fish	ikan segar	
-*				fish	ikan	
-*				snails	siput	
-*				eel	belut	
-*				frogs	katak	
-*				crabs	kepiting	
-*				insects	serangga	
-*				birds	burung	
-*				bats	kelelawar	
-*				eggs	telur	
-*				cooking oil	minyak goreng	
-*				milk	susu segar	
-*				condensed milk	susu kental	
-*				milk powder	susu bubuk	
-*				honey	madu	
-*				saps/resins	Sap / resin	
-*				canned fish	ikan kaleng	
-*				canned meat	daging kaleng	
-*				canned vegetables	sayuran kaleng	
-*				canned soup	sup kalengan	
-*				coffee	kopi	
-*				sugar	gula / gula pasir	
-*				creamer	creamer	
-*				cola drinks	minuman cola	
-*				beer/ alcoholic drinks	bir / minuman beralkohol	
-*				cigarettes	rokok	
-*				shampoo	sampo	
-*				soap	sabun	
-*				toothpaste	pasta gigi	
-*				medicine	obat	
-*				cell phone load	beban ponsel	
-*				clothing	pakaian	
-*				heating / fuel oil	minyak tanah	
-*				cooking fuel / kerosene		
-*				gasoline / diesel / petroleum		
-*				timber( wood for housing)	kayu (kayu untuk perumahan)	please indicate no. of units used per resource/product accessed (i.e sacks, kilos, heads, basket, bottles, etc.)
-*				wood as a building materials	kayu sebagai bahan bangunan	
-*				palm / rattan	palm / rotan	
-*				wood for fuel	kayu untuk bahan bakar	
-*				gaharu tree (fragrant tree)	Pohon gaharu (pohon wangi)	
-*				medicinal plants	tanaman obat	
-*				charcoal	arang	
-*				other cultivated fruits (specify)	buah dibudidayakan lainnya (sebutkan)	
-*				other cultivated nuts / vegetables (specify)	lainnya dibudidayakan kacang / sayuran (sebutkan)	
-*				other cultivated livestock (specify)	ternak dibudidayakan lainnya (sebutkan)	
-*				other forest resource (specify)	sumber daya hutan lainnya (sebutkan)	
-*				other river resources (specify)	sumber lain sungai (sebutkan)	
-*				other marine resources		
-*				others (specify)	lain (sebutkan)	
-						
-126		Mode of Access				
-*				on foot	berjalan kaki	
-*				on foot, with hand trolley	berjalan kaki, dengan tangan troli	
-*				bicycle, self-owned	sepeda, milik sendiri	
-*				bicycle, borrowed	sepeda, dipinjam	
-*				bicycle, rented / hired	sepeda, menyewa	
-*				motorbike, self-owned	sepeda motor, milik sendiri	
-*				motorbike, borrowed	sepeda motor, dipinjam	
-*				motorbike taxi	ojek	
-*				car, self-owned	mobil, milik sendiri	
-*				car, rented / hired	mobil, menyewa	
-*				van, self-owned	van, milik sendiri	
-*				van, rented / hired	van, disewa	
-*				bus, hired	bus, disewa	
-*				non-motor boats: catamaran	perahu tanpa motor: jukung	
-*				non-motor boats: small	perahu tanpa motor: kecil	
-*				non-motor boats: medium	perahu tanpa motor: sedang	
-*				non-motor boats: large	perahu tanpa motor: besar	
-*				outboard motor boat	perahu motor tempel	
-*				onboard motor boat	kapal motor	
-*				public transportation	transportasi umum	
-*				others (specify)	lainnya (sebutkan)	
-						
-127		Please name some "common" foods and foodstuff (items that are abundantly available).	Tanyakan tentang di mana orang-orang lazim memperoleh bahan pangan ini.			
-						
-128		Please name some types of food resources are hard to come by.	Tanyakan tentang jenis “makanan biasa” dan bahan makanan yang tersedia melimpah.			
-						
-129		Please identify "prestigious" food items (both naturally available and those available from the outside).	Tanyakan tentang jenis sumber pangan mana yang sulit diperoleh.			
-						
-130		Which are the most important species / resources for your local consumption?				
-						
-						
-						
-##		DEPENDECY ON FOREST RESOURCES				
-						
-131		Do you hunt or gather forest products for household or economic use?				
-*				subsistence / household use	subsisten / penggunaan rumah tangga	
-*				economic use	penggunaan ekonomi	
-*				both	kedua	
-				no / do not use for economic purposes		
-						
-132		Does anyone own any of the local forests?				
-						
-133		What are the main uses of forest resources?				
-						
-134		Who are the main users of the forest resources?				
-*						
-*		What are prevalent types of activities people conduct in the forest?	Jika bapak/ibu punya, jenis aktivitas apa yang bapak/ibu temui dari beberapa kegiatan berikut?	hunting	berburu	(please choose one of the many people do / mohon memilih salah satu dari kebanyakan orang melakukan)
-*		Frequency of activities:		trapping	pasang	
-*		daily		gathering vegetables	konsumsi sayuran	
-*		weekly		gathering fruits	konsumsi buah	
-*		monthly		gathering medicinal plants	pemanfaatan tanaman obat untuk pengobatan tradisional	
-*		annually		gathering firewood		
-*				gathering wood to build a house or building	pemanfaatan kayu untuk membangun rumah atau gedung	
-						
-135		What specific products do you gather from forest sources?				
-*		location where gathered		firewood / wood fuel	kayu bakar	
-*		amount harvested		timber (e.g. housing materials)	kayu untuk perumahan	
-*		amount consumed		palm	palm	
-*		amount sold		rattan	rotan	
-*		perceived abundancy		gaharu tree (fragrant tree)	gaharu (pohon wangi)	
-*		perceived abundancy trends		saps/resins	Sap / resin	
-*				medicinal plants	tanaman obat	
-*				edible plants	tanaman pangan	
-*				charcoal	arang	
-*				honey	madu	
-*				wild deer	rusa liar	
-*				wild pig	babi hutan	
-*				wild chicken/birds	liar ayam / burung	
-*				birds	burung	
-*				eggs	telur	
-*				bats	kelelawar	
-*				snakes		
-*				saps/resins	Sap / resin	
-*				other forest resources (specify)	sumberdaya hutan lainnya (sebutkan	
-						
-136		mode of access				
-*		 - dry season		on foot	berjalan kaki	
-*		 - wet season		on foot, with hand trolley	berjalan kaki, dengan tangan troli	
-*		 - east monsoon		bicycle, self-owned	sepeda, milik sendiri	
-*		 - west monsoon		bicycle, borrowed	sepeda, dipinjam	
-*				bicycle, rented / hired	sepeda, menyewa	
-*				motorbike, self-owned	sepeda motor, milik sendiri	
-*				motorbike, borrowed	sepeda motor, dipinjam	
-*				motorbike taxi	ojek	
-*				car, self-owned	mobil, milik sendiri	
-*				car, rented / hired	mobil, menyewa	
-*				van, self-owned	van, milik sendiri	
-*				van, rented / hired	van, disewa	
-*				bus, hired	bus, disewa	
-*				non-motor boats: catamaran	perahu tanpa motor: jukung	
-*				non-motor boats: small	perahu tanpa motor: kecil	
-*				non-motor boats: medium	perahu tanpa motor: sedang	
-*				non-motor boats: large	perahu tanpa motor: besar	
-*				outboard motor boat	perahu motor tempel	
-*				onboard motor boat	kapal motor	
-*				public transportation	transportasi umum	
-*				others (specify)	lainnya (sebutkan)	
-						
-137		travel time				
-*		 - dry season		less than 1 hour		
-*		 - wet season		1 to 2 hours		
-*		 - east monsoon		2 to 5 hours		
-*		 - west monsoon		more than 5 hours		
-						
-138		How many individuals in your households are involved in hunting / wild food collection from forest resources?				
-						
-139		Can you estimate how much of your livelihood depends of access to forest resources?				
-						
-140		Do you sell any forest products to particular villages / traders?				
-						
-141		Is it hunting a culturally important or ceremonial activity?				
-						
-142		Are there any legal restrictions imposed on hunting activities?				
-						
-143		How important is hunting likely to be in future?				
-						
-144		Are other, more distant places where you might go to hunt or collect forest resources if you can no longer do so at your preferred location?				
-						
-145		Do you know if anyone owns the local forests?				
-						
-146		Is there any standing timber in the project area?				
-						
-147		What species of trees are harvested for timber?				
-						
-148		How important is timber production and trade to peoples'  livelihoods in this village (e.g. it is the only source of construction material; it is the only source of income for those who harvest and sell timber, etc)?				
-						
-149		Can trees / palm groves be ‘owned’? [Includes both wild and planted]	Dapatkah rumpun pepohonan / palem-paleman ‘dimiliki’? [baik liar maupun budi daya]			
-						
-150		How is ownership marked / delineated?	Bagaimana tanda atau simbol kepemilikannya?			
-						
-151		Is there any specific logic governing how land boundaries are defined? If ‘yes’, please explain.	Apakah ada tata cara spesifik dalam penentuan batas tanah? Jika ‘ya’, harap dijelaskan.			
-						
-152		How are claims administered / how are disputes moderated?	Bagaimana mereka menangani klaim / memediasi sengketa?			
-						
-153		What happens to the timber once it is harvested (e.g. used locally in construction, sold, etc)? Are different types of wood used for different purposes?				
-						
-154		Are there alternative locations where timber (for each of the purposes identified) can be harvested?				
-						
-155		Are there any restrictions on timber harvesting (e.g. licenses / permits or quotas)?				
-						
-156		Are the standing timber stocks (forests) subject to any management?				
-						
-157		Are there alternative locations where woodfuel can be collected?				
-						
-158		Are there any restrictions on woodfuel harvesting (e.g. permits / licenses required)?				
-						
-						
-						
-##		DEPENDECY ON FRESHWATER AQUATIC RESOURCES				
-						
-159		What are the main uses of freshwater aquatic resources?				
-						
-160		Who are the main users of freshwater aquatic resources in the area?				
-						
-161		What specific products do you gather from freshwater aquatic resources?		fish	ikan	(please choose one of the many people do / mohon memilih salah satu dari kebanyakan orang melakukan)
-*		Frequency of activities:		snails	siput	
-*		daily		eel	belut	
-*		weekly		frogs	katak	
-*		monthly		crabs	kepiting	
-*		annually		insects	serangga	
-*		location where gathered		other river resources (specify)	sumber lain sungai (sebutkan)	
-*		amount harvested				
-*		amount consumed				
-*		amount sold				indicate your households gross monthly income
-*		perceived abundancy				
-*		perceived abundancy trends				
-						
-162		Can you name the specific locations where harvesting/capturing takes place?		(location)		
-						
-163		mode of access				
-*		 - dry season		on foot	berjalan kaki	
-*		 - wet season		on foot, with hand trolley	berjalan kaki, dengan tangan troli	
-*		 - east monsoon		bicycle, self-owned	sepeda, milik sendiri	
-*		 - west monsoon		bicycle, borrowed	sepeda, dipinjam	
-*				bicycle, rented / hired	sepeda, menyewa	
-*				motorbike, self-owned	sepeda motor, milik sendiri	
-*				motorbike, borrowed	sepeda motor, dipinjam	
-*				motorbike taxi	ojek	
-*				car, self-owned	mobil, milik sendiri	
-*				car, rented / hired	mobil, menyewa	
-*				van, self-owned	van, milik sendiri	
-*				van, rented / hired	van, disewa	
-*				bus, hired	bus, disewa	
-*				non-motor boats: catamaran	perahu tanpa motor: jukung	
-*				non-motor boats: small	perahu tanpa motor: kecil	
-*				non-motor boats: medium	perahu tanpa motor: sedang	
-*				non-motor boats: large	perahu tanpa motor: besar	
-*				outboard motor boat	perahu motor tempel	
-*				onboard motor boat	kapal motor	
-*				public transportation	transportasi umum	
-*				others (specify)	lainnya (sebutkan)	
-						
-164		travel time				
-*		 - dry season		less than 1 hour		
-*		 - wet season		1 to 2 hours		
-*		 - east monsoon		2 to 5 hours		
-*		 - west monsoon		more than 5 hours		
-						
-165		Which are the most important species / resources?				
-						
-166		Can you estimate how much of your livelihood depends on freshwater aquatic resources?				
-						
-167		How has the importance of freshwater aquatic resources changed over time?				
-						
-168		Is freshwater aquaculture cultivation a significant part of your village economy?				
-						
-169		Who has a right to use / gather freshwater aquaculture resources?				
-						
-170		What institutions govern tenure of freshwater aquaculture resources (e.g. access to specific rivers and streams)?				
-						
-171		Do you need any permit to collect freshwater aquaculture resources?				
-						
-172		Are there particular areas where ownership of  freshwater aquaculture resources is formally recognized / titled (e.g. an area of a stream is located in private land)?				
-						
-173		Do you have any particular claims to freshwater aquaculture resources?				
-						
-						
-						
-##		DEPENDECY ON MARINE RESOURCES				
-						
-174		Who are the main users of marine resources?				
-						
-175		What are the main uses of marine resources?				
-						
-176		What specific products do you gather from the ocean?		fish	ikan	(please choose one of the many people do / mohon memilih salah satu dari kebanyakan orang melakukan)
-*		Frequency of activities:		small pelagic	pelagis kecil	
-*		daily		large pelagic	pelagis besar	
-*		weekly		demersal fish	demersal	
-*		monthly		seaweed		
-*		annually		shellfish		
-		location where gathered		squid / octopus		
-177		amount harvested		crabs / crustaceans		
-*		amount consumed		misc.	lain-lain	
-*		amount sold				indicate your households gross monthly income
-*		perceived abundancy				
-*		perceived abundancy trends				
-						
-						
-178		Which are the most important species / resources?				
-						
-179		Can you name the specific locations where fishing/harvesting/capturing takes place?		(location)		
-						
-180		mode of access				
-*		 - dry season		on foot	berjalan kaki	
-*		 - wet season		on foot, with hand trolley	berjalan kaki, dengan tangan troli	
-*		 - east monsoon		bicycle, self-owned	sepeda, milik sendiri	
-*		 - west monsoon		bicycle, borrowed	sepeda, dipinjam	
-*				bicycle, rented / hired	sepeda, menyewa	
-*				motorbike, self-owned	sepeda motor, milik sendiri	
-*				motorbike, borrowed	sepeda motor, dipinjam	
-*				motorbike taxi	ojek	
-*				car, self-owned	mobil, milik sendiri	
-*				car, rented / hired	mobil, menyewa	
-*				van, self-owned	van, milik sendiri	
-*				van, rented / hired	van, disewa	
-*				bus, hired	bus, disewa	
-*				non-motor boats: catamaran	perahu tanpa motor: jukung	
-*				non-motor boats: small	perahu tanpa motor: kecil	
-*				non-motor boats: medium	perahu tanpa motor: sedang	
-*				non-motor boats: large	perahu tanpa motor: besar	
-*				outboard motor boat	perahu motor tempel	
-*				onboard motor boat	kapal motor	
-*				public transportation	transportasi umum	
-*				others (specify)	lainnya (sebutkan)	
-						
-181		travel time				
-*		 - dry season		less than 1 hour		
-*		 - wet season		1 to 2 hours		
-*		 - east monsoon		2 to 5 hours		
-*		 - west monsoon		more than 5 hours		
-						
-182		How much marine products did you produce, catch and sell over the last 12 months?				
-						
-183		Where / to whom did you sell mostly?				
-						
-184		Can you estimate how much of your livelihood depends on fishing?				
-						
-185		Is marine aquaculture cultivation (e.g. seaweed farming) a significant part of your village economy?				
-						
-186		How has the importance of fishing changed over time?				
-						
-187		If, for any reason, your preferred fishing areas were to become inaccessible (or restricted), are there alternative sites available?				
-						
-188		What are the main threats to fish stocks?				
-						
-189		Who has a right to use / gather marine resources?				
-						
-190		Do particular communities have rights to fish or harvest marine resources in specific areas?				
-						
-191		What institutions govern marine resource tenure?				
-						
-192		Do you need any permit to collect marine resources?				
-						
-193		Are there particular areas where ownership of  marine resources is formally recognized / titled (e.g. an area of a stream is located in private land)?				
-						
-194		Do you have any particular claims to marine resources?				
-						
-						
-						
-##		DEPENDECY ON AGRICULTURE				
-						
-195		Do you farm any crops for household use or economic purposes?				
-*				subsistence / household use		
-*				economic use		
-*				both		
-						
-196		What methods do you use to grow crops (traditional or using heavy equipment)?	Dan metode apa yang digunakan dalam menanam tanaman (tradisional atau menggunakan alat berat)?			
-						
-197		What crops do you farm?	Jenis tanaman apa yang ditanam di lahan bapak/ibu? 			
-*		annual / perennial		bananas		plantation species
-*		location where gathered		bean	buncis	
-*		amount harvested		cabbage		
-*		amount consumed		carrot	wortel	
-*		amount sold		cashew	jambu mete	plantation species
-*				cassava	ketela pohon	
-*				cassava vine		
-*				chili	cabai	
-*				chinese cabbage		
-*				cocoa	kakao	plantation species
-*				coconut	kelapa	plantation species
-*				coffee	kopi	plantation species
-*				corn	jagung	
-*				cucumber	ketimun	
-*				eggplant	terong	
-*				gandaria fruit		
-*				green beans	kacang hijau	
-*				kale	kangkung	
-*				long bean		
-*				mustard	petsai	
-*				nuts	kacang-kacang	
-*				palm	kelapa sawit	plantation species
-*				peanuts	kacang tanah	
-*				pepper	lada	plantation species
-*				potato		
-*				rice	padi ladang	
-*				rubber	karet	plantation species
-*				shallots	bawang merah	
-*				spinach	bayam	
-*				sweet potato	ketela rambat	
-*				taro		
-*				teak		plantation species
-*				other bulbs	lainnya ubi-ubian lainnya	
-*				other legumes		
-*				other nuts		
-*				others (specify)	lainnya (sebutkan)	
-						
-198		mode of access				
-*		 - dry season		on foot	berjalan kaki	
-*		 - wet season		on foot, with hand trolley	berjalan kaki, dengan tangan troli	
-*		 - east monsoon		bicycle, self-owned	sepeda, milik sendiri	
-*		 - west monsoon		bicycle, borrowed	sepeda, dipinjam	
-*				bicycle, rented / hired	sepeda, menyewa	
-*				motorbike, self-owned	sepeda motor, milik sendiri	
-*				motorbike, borrowed	sepeda motor, dipinjam	
-*				motorbike taxi	ojek	
-*				car, self-owned	mobil, milik sendiri	
-*				car, rented / hired	mobil, menyewa	
-*				van, self-owned	van, milik sendiri	
-*				van, rented / hired	van, disewa	
-*				bus, hired	bus, disewa	
-*				non-motor boats: catamaran	perahu tanpa motor: jukung	
-*				non-motor boats: small	perahu tanpa motor: kecil	
-*				non-motor boats: medium	perahu tanpa motor: sedang	
-*				non-motor boats: large	perahu tanpa motor: besar	
-*				outboard motor boat	perahu motor tempel	
-*				onboard motor boat	kapal motor	
-*				public transportation	transportasi umum	
-*				others (specify)	lainnya (sebutkan)	
-						
-199		travel time				
-*		 - dry season		less than 1 hour		
-*		 - wet season		1 to 2 hours		
-*		 - east monsoon		2 to 5 hours		
-*		 - west monsoon		more than 5 hours		
-						
-200		To whom do you sell most often?				
-						
-201		Are there any observable trends in cultivation (e.g. a shift from rice to other staples or high value crops?)				
-						
-						
-						
-##		DEPENDECY ON ANIMAL HUSBANDRY				
-						
-202		Do you cultivate any livestock for household or economic use?				
-*				subsistence / household use		
-*				economic use		
-*				both		
-						
-203		Does any of the vegetation within the project area provide shading for humans or livestock?				
-						
-204		What kind of livestock do you keep?				
-*		location where cultivated		chickens	ayam	
-*		total herd size		native chicken	ayam kampung	
-*		number of livestock slaughtered per year		laying chickens	ayam petelor	
-*		amount consumed		broiler chicken	ayam pedaging	
-*		amount sold		duck	itik	
-*				pig	babi	
-*				goat	kambing	
-*				sheep	domba	
-*				buffalo / caribou	kerbau	
-*				cow / cattle	sapi / sapi	
-*				horse		
-*				others (specify)	lainnya (sebutkan)	
-						
-205		mode of access				
-*		 - dry season		on foot	berjalan kaki	
-*		 - wet season		on foot, with hand trolley	berjalan kaki, dengan tangan troli	
-*		 - east monsoon		bicycle, self-owned	sepeda, milik sendiri	
-*		 - west monsoon		bicycle, borrowed	sepeda, dipinjam	
-*				bicycle, rented / hired	sepeda, menyewa	
-*				motorbike, self-owned	sepeda motor, milik sendiri	
-*				motorbike, borrowed	sepeda motor, dipinjam	
-*				motorbike taxi	ojek	
-*				car, self-owned	mobil, milik sendiri	
-*				car, rented / hired	mobil, menyewa	
-*				van, self-owned	van, milik sendiri	
-*				van, rented / hired	van, disewa	
-*				bus, hired	bus, disewa	
-*				non-motor boats: catamaran	perahu tanpa motor: jukung	
-*				non-motor boats: small	perahu tanpa motor: kecil	
-*				non-motor boats: medium	perahu tanpa motor: sedang	
-*				non-motor boats: large	perahu tanpa motor: besar	
-*				outboard motor boat	perahu motor tempel	
-*				onboard motor boat	kapal motor	
-*				public transportation	transportasi umum	
-*				others (specify)	lainnya (sebutkan)	
-						
-206		travel time				
-*		 - dry season		less than 1 hour		
-*		 - wet season		1 to 2 hours		
-*		 - east monsoon		2 to 5 hours		
-*		 - west monsoon		more than 5 hours		
-						
-207		To whom do you sell most often?				
-						
-208		If, for any reason, your cultivation / grazing lands were to become inaccessible / restricted, are there other alternative grazing lands available?				
-						
-209		Would any potential alternative cultivation / grazing lands be located nearby or far away?				
-						
-						
-						
-##		COMMUNAL RESOURCE CULTIVATION				
-						
-210		Does the village communally farm or collectively cultivate any natural resources?	Apakah masyarakat lokal di desa ini bercocok tanam di sekitar lahan perkebunan mereka untuk sesuatu kebutuhan berikut ini?			
-*				yes (specify)		
-*				no		
-						
-						
-						
-##		MEANS OF MARKET ACCESS				
-						
-211		How do you sell the natural resources that you gather, cultivate, or capture?				
-*				traders/wholesalers come directly to the village	pedagang / grosir datang langsung ke desa	
-*				bring the products to the nearest market	membawa produk ke pasar terdekat	
-*				both traders/ wholesaler and taking the products to the nearest market	baik pedagang / grosir dan mengambil produk ke pasar terdekat	
-*				others (specify)	lainnya (sebutkan)	
-						
-212		mode of access				
-*		 - dry season		on foot	berjalan kaki	
-*		 - wet season		on foot, with hand trolley	berjalan kaki, dengan tangan troli	
-*		 - east monsoon		bicycle, self-owned	sepeda, milik sendiri	
-*		 - west monsoon		bicycle, borrowed	sepeda, dipinjam	
-*				bicycle, rented / hired	sepeda, menyewa	
-*				motorbike, self-owned	sepeda motor, milik sendiri	
-*				motorbike, borrowed	sepeda motor, dipinjam	
-*				motorbike taxi	ojek	
-*				car, self-owned	mobil, milik sendiri	
-*				car, rented / hired	mobil, menyewa	
-*				van, self-owned	van, milik sendiri	
-*				van, rented / hired	van, disewa	
-*				bus, hired	bus, disewa	
-*				non-motor boats: catamaran	perahu tanpa motor: jukung	
-*				non-motor boats: small	perahu tanpa motor: kecil	
-*				non-motor boats: medium	perahu tanpa motor: sedang	
-*				non-motor boats: large	perahu tanpa motor: besar	
-*				outboard motor boat	perahu motor tempel	
-*				onboard motor boat	kapal motor	
-*				public transportation	transportasi umum	
-*				others (specify)	lainnya (sebutkan)	
-						
-213		travel time		less than 1 hour		
-*		 - dry season		1 to 2 hours		
-*		 - wet season		2 to 5 hours		
-*		 - east monsoon		more than 5 hours		
-*		 - west monsoon				
-						
-214		How much does it cost to get there, if any?				
-*				no cost		
-*				(rupiah)		
-						
-						
-						
-##		DISTRIBUTION OF LOCAL BUSINESSES				
-						
-215		Do you have one or more non-farm businesses?				
-*				yes (specify)		
-*				no		
-						
-216		How many people do you employ in the business/s?				
-						
-						
-217		Which products do you sell most commonly?		(specify)		please indicate no. of units used per resource/product accessed (i.e sacks, kilos, heads, basket, bottles, etc.)
-		(sector)				
-*		Units:				
-*		sacks				
-*		kilos				
-*		head				
-*		baskets				
-*		bottles				
-*		other specify				
-						
-						
-						
-##		SUFFICIENCY OF FOOD SUPPLY				
-						
-218		How sufficient has food supply been in your house for EACH of the last 12 months?				
-*		Assessment:		January	Januari	
-*		very sufficient		February	Februari	
-*		sufficient		March	Maret	
-*		insufficient		April	April	
-*				May	Mei	
-*				June	Juni	
-*				July	Juli	
-*				August	Agustus	
-*				September	September	
-*				October	Oktober	
-*				November	November	
-*				December	Desember	
-						
-219		reasons for sufficiency				
-*				bountiful harvest	panen yang melimpah	state reasons by using categories identified below.
-*				other household members have work contributing to household income,	anggota rumah tangga lainnya telah bekerja berkontribusi terhadap pendapatan rumah tangga,	
-*				crops were not affected by any calamities,	tanaman yang tidak terpengaruh oleh bencana,	
-*				adequate farm inputs/services	input pertanian yang memadai / jasa	
-*				additional source of food from neighbors/relatives	sumber tambahan makanan dari tetangga / saudara	
-*				have enough harvest of root crops as an alternative food or source of income	memiliki cukup panen tanaman akar sebagai makanan alternatif atau sumber penghasilan	
-*				others (specify)	lainnya (sebutkan)	
-						
-220		reasons for insufficiency				
-*				unemployment	pengangguran	
-*				limited income,	pendapatan yang terbatas,	
-*				poor production due to lack of resources,	produksi yang buruk karena kurangnya sumber daya,	
-*				damage crops due to calamity,	tanaman kerusakan akibat bencana,	
-*				percentage of income allocated to medicines to sick member of the family, poor soil condition ,	persentase dari pendapatan dialokasikan untuk obat-obatan untuk anggota keluarga yang sakit, kondisi tanah yang buruk,	
-*				no harvest yet,	tidak ada panen lagi,	
-*				others (specify)	lainnya (sebutkan)	
-*						
-						
-221		Do you keep food / crop stocks in case of potential food shortages?				
-*				yes		
-*				no		
-						
-						
-						
-##		ACCESS TO SOCIAL / ECONOMIC SUPPORT SEVICES				
-						
-222		Have you received any form of assistance / aid from the government in the last year?				
-*				rice for poor (RASKIN)		
-*				BLT		
-*				BOS		
-*				PNPM		
-				no / none		
-*				other		
-*				remark		
-						
-223		What is your opinion of that assistance/aid?				
-						
-224		Have you or your family received any form of assistance / aid from an NGO in the last year?				
-*				yes		
-*				no / none		
-*				name of institution		
-*				remark		
-						
-225		What is your opinion of that assistance/aid?				
-						
-						
-						
-##		PERCEPTION OF THE CURRENT LIVING CONDITION				
-						
-226		How do you assess your current socio-economic situation?				Choose the situation you are in and write the number corresponding to your situation in the BOX in next column.
-*				very poor/not able to meet basic needs most of the time	sangat miskin / tidak mampu memenuhi kebutuhan dasar sebagian besar waktu	
-*				somewhat poor/ not able to meet basic needs some of the time	agak miskin / tidak mampu memenuhi kebutuhan dasar beberapa waktu	
-*				with adequate income/ able to meet basic needs	dengan penghasilan yang memadai / mampu memenuhi kebutuhan dasar	
-						
-227		What are your reasons for the assessment?				check those boxes which apply
-*				no employment	tidak ada pekerjaan	
-*				limited harvest/crop damage	panen terbatas / kerusakan tanaman	
-*				infertile soil	tanah subur	
-*				limited farm inputs used due to lack of financial resources	input pertanian yang terbatas digunakan karena kurangnya sumber daya keuangan	
-*				many children to feed	banyak anak-anak untuk memberi makan	
-*				some household members got sick, spent resources on hospital bills and medicines	beberapa anggota rumah tangga jatuh sakit, sumber daya yang dihabiskan untuk tagihan rumah sakit dan obat-obatan	
-*				inadequate skills to seek alternative employment	keterampilan memadai untuk mencari pekerjaan alternatif	
-*				lack of capital to start a small business	kurangnya modal untuk memulai usaha kecil	
-*				most household members are employed	sebagian besar anggota rumah tangga dipekerjakan	
-*				good harvests for this season	hasil panen yang baik untuk musim ini	
-*				access alternative resources for food/ hence generated savings	mengakses sumber daya alternatif untuk makanan / tabungan maka dihasilkan	
-*				put up small business to augment income	memasang usaha kecil untuk meningkatkan pendapatan	
-*				others (specify)	lainnya (sebutkan)	
-						
-228		Is it easy or difficult to start a new homestead?				
-						
-229		Is it expensive or inexpensive to gather materials to start your home?				
-						
-230		What materials do you use to build your home?	Jenis tanaman (kayu) yang digunakan oleh masyarakat lokal di desa ini untuk membangun rumah atau gedung?			
-						
-231		From where do you source these materials?				
-						
-232		What kind of economic infrastructure do you think might benefit people in this village?	Jenis infrastruktur ekonomi apa yang dibutuhkan oleh masyarakat di desa ini? (mohon jelaskan dimana dan bagaimana?)			
-*				road	jalan	
-*				market	pasar	
-*				processing plantation crops	pengolahan hasil panen perkebunan	
-*				cooperative	koperasi	
-*				clean water	air bersih	
-*				others (specify)	lainnya (sebutkan)	
+<table>																																													
+<tr><td>		<td></td>	QUESTION	<td></td>		<td></td>	PROMPT / OPTIONS	<td></td>		<td></td>	NOTES	<td></td>	Thematic Index		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	category	<td></td>	target description	<td></td>	indicator	<td></td></tr>
+<tr><td>	##	<td></td>	LIVLIHOODS / SOCIO-ECONOMIC CONDITIONS	<td></td>	KONDISI SOSIAL EKONOMI	<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>	If the formal work, where the father / mother work?	<td></td>	Jika bekerja formal, dimana bapak/ibu bekerja?	<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>	Other Skills / Trade	<td></td>	Keahlian lain/ Perdagangan	<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>	Forms of land use	<td></td>	Bentuk penggunaan lahan	<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	Forms of land use	<td></td>		<td></td></tr>
+<tr><td>		<td></td>	* Hunting and trapping?	<td></td>	* Berburu dan memasang jerat?	<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	Forms of land use	<td></td>		<td></td></tr>
+<tr><td>		<td></td>	* Foraging?	<td></td>	* Mengumpulkan makanan?	<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	Forms of land use	<td></td>		<td></td></tr>
+<tr><td>		<td></td>	* Swidden agriculture?	<td></td>	* Pertanian tebas-bakar?	<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	Forms of land use	<td></td>		<td></td></tr>
+<tr><td>		<td></td>	* Use of riverine resources?	<td></td>	* Pemanfaatan sumber daya perairan sungai?	<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	Forms of land use	<td></td>		<td></td></tr>
+<tr><td>		<td></td>	* Habitation?	<td></td>	* Pemukiman?	<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	Forms of land use	<td></td>		<td></td></tr>
+<tr><td>		<td></td>	* Ceremonies?	<td></td>	* Seremoni?	<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	Forms of land use	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>	Can you please tell us about how people in the local village utilize natural resources, such as forest products or ocean resources, to meet the needs of daily life?	<td></td>	Untuk pemenuhan kebutuhan hidup sehari-hari, apakah bapak/ibu memiliki informasi terkait aktivitas pemanfaatan hasil hutan yang dilakukan oleh masyarakat lokal di desa ini?	<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	yes	<td></td>	Ya	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	no	<td></td>	Tidak	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>	Which sorts of natural resource utilization activities do people in this village engage in most often?	<td></td>	Jika bapak/ibu punya, jenis aktivitas apa yang bapak/ibu temui dari beberapa kegiatan berikut?	<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	From where do you obtain your food?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>	 - Grown locally	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>	 - Caputred locally	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>	 - Foraged locally	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>	 - Obtained at store	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	How do you normally obtain food?	<td></td>	Bagaimana Anda biasanya mendapatkan makanan?	<td></td>		<td></td>		<td></td>	(check all that apply)	<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	buy in market/local store	<td></td>	beli di pasar / toko lokal	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	grow by farming area/yard/garden	<td></td>	tumbuh dengan pertanian daerah / halaman / taman	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	forage from forest (nuts, vegetation)	<td></td>	hijauan dari hutan (kacang-kacangan, vegetasi)	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	capture from forest (small animals)	<td></td>	capture dari hutan (binatang kecil)	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	hunt from forest (small animals)	<td></td>	berburu dari hutan (binatang kecil)	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	gather from river (snails, etc)	<td></td>	mengumpulkan dari sungai (siput, dll)	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	capture in river (fishing)	<td></td>	capture di sungai (memancing)	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	gather from sea (snails, etc)	<td></td>	mengumpulkan dari laut (siput, dll)	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	capture from sea (fishing)	<td></td>	capture dari laut (nelayan)	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	Primary basis of economic livelihoods?	<td></td>	Dasar utama mata pencaharian ekonomi?	<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; income sources; natural resource consumption; economic integration	<td></td>	employment	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	land-based	<td></td>	darat	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; income sources; natural resource consumption; economic integration	<td></td>	employment	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	wage-based	<td></td>	upah berdasarkan	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; income sources; natural resource consumption; economic integration	<td></td>	employment	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	enterprise-based	<td></td>	perusahaan berbasis	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; income sources; natural resource consumption; economic integration	<td></td>	employment	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	remittance-based	<td></td>	remittance berbasis	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; income sources; natural resource consumption; economic integration	<td></td>	employment	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	not applicable	<td></td>	tidak berlaku	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; income sources; natural resource consumption; economic integration	<td></td>	employment	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	Secondary basis of economic livelihoods?	<td></td>	Secara sekunder mata pencaharian ekonomi?	<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; income sources; natural resource consumption; economic integration	<td></td>	employment	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	land-based	<td></td>	darat	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; income sources; natural resource consumption; economic integration	<td></td>	employment	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	wage-based	<td></td>	upah berdasarkan	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; income sources; natural resource consumption; economic integration	<td></td>	employment	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	enterprise-based	<td></td>	perusahaan berbasis	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; income sources; natural resource consumption; economic integration	<td></td>	employment	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	remittance-based	<td></td>	remittance berbasis	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; income sources; natural resource consumption; economic integration	<td></td>	employment	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	not applicable	<td></td>	tidak berlaku	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; income sources; natural resource consumption; economic integration	<td></td>	employment	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	Primary economic occupation?	<td></td>	Apa pekerjaan bapak/ibu?	<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; income sources; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	farmer	<td></td>	bertani	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; income sources; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	farm hand	<td></td>	buruh tani	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	income sources; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	mine employees	<td></td>	karyawan tambang	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	income sources; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	merchant	<td></td>	pedagang	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; income sources; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	entrepreneur	<td></td>	wiraswasta	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; income sources; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	civil servants	<td></td>	pegawai negeri	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; income sources; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	army / police	<td></td>	tentara/polisi	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; income sources; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	motorcycle taxis	<td></td>	tukang ojek	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; income sources; economic integration	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	money-lender	<td></td>	rentenir	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; income sources; economic integration	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	wage laboror (specifiy)	<td></td>	serabutan / upah buruh (sebutkan)	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; income sources; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	other (specify)	<td></td>	lainnya (sebutkan)	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; income sources; economic integration	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	How much money do you spend for food?	<td></td>	Berapa banyak uang yang Anda habiskan untuk makanan?	<td></td>	(rupiah /week/month)	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	sources of income; economic integration natural resource consumption;	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	Which food/items does your household typically purchase from the market or from the store each month?	<td></td>	Yang makanan / item yang rumah tangga Anda biasanya membeli dari pasar atau dari toko setiap bulan?	<td></td>		<td></td>		<td></td>	Select food or items from the list below and write the number in the code column. Write the unit of measurement in the Unit column and write the quantity purchased in the No. column.	<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; household expenditure; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	Food/ items purchased:	<td></td>		<td></td>	rice	<td></td>	beras	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; household expenditure; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	code	<td></td>		<td></td>	noodles	<td></td>	mi	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; household expenditure; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	unit	<td></td>		<td></td>	fresh vegetables	<td></td>	sayuran segar	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	household expenditure; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	no	<td></td>		<td></td>	fresh pork	<td></td>	daging babi segar	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; household expenditure; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	Frequency of use:	<td></td>		<td></td>	fresh beef	<td></td>	daging sapi segar	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	household expenditure; natural resource consumption; economic integration	<td></td>	purchase of food	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	fresh chicken	<td></td>	ayam segar	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	daily	<td></td>		<td></td>	fresh fish	<td></td>	ikan segar	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; household expenditure; natural resource consumption; economic integration	<td></td>	purchase of food	<td></td></tr>
+<tr><td>	*	<td></td>	weekly	<td></td>		<td></td>	eggs	<td></td>	telur	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; household expenditure; natural resource consumption	<td></td>	purchase of sanitary / personal hygiene items	<td></td></tr>
+<tr><td>	*	<td></td>	monthly	<td></td>		<td></td>	cooking oil	<td></td>	minyak goreng	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; household expenditure; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	annually	<td></td>		<td></td>	milk	<td></td>	susu segar	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; household expenditure; natural resource consumption	<td></td>	purchase of sanitary / personal hygiene items	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	condensed milk	<td></td>	Susu Kental	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	Susu Bubuk	<td></td>	milk Powder	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	canned fish	<td></td>	ikan kaleng	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; household expenditure; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	canned meat	<td></td>	daging kaleng	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; household expenditure; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	canned vegetables	<td></td>	sayuran kaleng	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; household expenditure; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	canned soup	<td></td>	sup kalengan	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; household expenditure; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	coffee	<td></td>	kopi	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; household expenditure; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	sugar	<td></td>	gula / Gula Pasir	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	household expenditure; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	creamer	<td></td>	creamer	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	household expenditure; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	cola drinks	<td></td>	minuman cola	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	household expenditure	<td></td>	purchase of food	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	beer/ alcoholic drinks	<td></td>	bir / minuman beralkohol	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; household expenditure	<td></td>	purchase of food	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	cigarettes	<td></td>	rokok	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	household expenditure; hygene and sanitation practices and conditions	<td></td>	purchase of food	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	shampoo	<td></td>	sampo	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; household expenditure; natural resource consumption; economic integration	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	soap	<td></td>	sabun	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	household expenditure; hygene and sanitation practices and conditions	<td></td>	purchase of food	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	toothpaste	<td></td>	pasta gigi	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	household expenditure; medicine	<td></td>	purchase of food	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	medicine	<td></td>	obat	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	household expenditure; hygene and sanitation practices and conditions	<td></td>	purchase of food	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	cell phone load	<td></td>	beban ponsel	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	food sources; household expenditure; natural resource consumption	<td></td>	purchase of medicine	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	clothing	<td></td>	pakaian	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	household expenditure	<td></td>	purchase of sanitary / personal hygiene items	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	Oil / Kerosene / Petroleum	<td></td>	Minyak Tanah	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	others (specify)	<td></td>	lain (sebutkan)	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	household expenditure	<td></td>	purchase of cigarettes	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	Do you hunt, gather and use any products from the forest or rivers?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	yes (go to qX)	<td></td>	ya (pergi ke QX)	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	no (go to qY)	<td></td>	tidak ada (pergi ke QY)	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>	forest products	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	Do you hunt or gather forest and river product for household or economic use?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	subsistence / household use	<td></td>	subsisten / penggunaan rumah tangga	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	economic use	<td></td>	penggunaan ekonomi	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	both	<td></td>	kedua	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	What are prevalent types of activities people conduct in the forest?	<td></td>	Jika bapak/ibu punya, jenis aktivitas apa yang bapak/ibu temui dari beberapa kegiatan berikut?	<td></td>	hunting	<td></td>	berburu	<td></td>	(please choose one of the many people do / mohon memilih salah satu dari kebanyakan orang melakukan)	<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	Frequency of activities:	<td></td>		<td></td>	trapping	<td></td>	pasang	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	daily	<td></td>		<td></td>	gathering honey	<td></td>	mengambil madu	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	weekly	<td></td>		<td></td>	harvesting rattan	<td></td>	panen rotan	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	monthly	<td></td>		<td></td>	gathering medicinal plants	<td></td>	pemanfaatan tanaman obat untuk pengobatan tradisional	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	annually	<td></td>		<td></td>	gathering vegetables	<td></td>	konsumsi sayuran	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	gathering fruits	<td></td>	konsumsi buah	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	gathering firewood	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	gathering wood to build a house or building	<td></td>	pemanfaatan kayu untuk membangun rumah atau gedung	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	What specific products do you gather from forest sources?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	gaharu tree (fragrant tree)	<td></td>	pohon gaharu (pohon wangi)	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	firewood	<td></td>	kayu bakar	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	wood for housing	<td></td>	kayu untuk perumahan	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	palm / rattan	<td></td>	palm / rotan	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	charcoal	<td></td>	arang	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	honey	<td></td>	madu	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	wild deer	<td></td>	rusa liar	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	wild pig	<td></td>	babi hutan	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	wild chicken/birds	<td></td>	liar ayam / burung	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	birds	<td></td>	burung	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	eggs	<td></td>	telur	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	bats	<td></td>	kelelawar	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	medicinal plants	<td></td>	tanaman obat	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	edible plants	<td></td>	tanaman pangan	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	saps/resins	<td></td>	Sap / resin	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	other forest resources (specify)	<td></td>	sumberdaya hutan lainnya (sebutkan	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>	forest products	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	Can you name the specific locations where harvesting/hunting takes place?	<td></td>		<td></td>	(location)	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>	source of income	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	mode of access	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	on foot	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	bicycle	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	motor bike	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	car	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	truck	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	van	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	bus	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	travel time	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	less than 1 hour	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	1 to 2 hours	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	2 to 5 hours	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	more than 5 hours	<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	What specific products do you gather from river sources?	<td></td>		<td></td>	fish	<td></td>	ikan	<td></td>	(please choose one of the many people do / mohon memilih salah satu dari kebanyakan orang melakukan)	<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	Frequency of activities:	<td></td>		<td></td>	snails	<td></td>	siput	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	daily	<td></td>		<td></td>	eel	<td></td>	belut	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	weekly	<td></td>		<td></td>	frogs	<td></td>	katak	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	monthly	<td></td>		<td></td>	crabs	<td></td>	kepiting	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	annually	<td></td>		<td></td>	insects	<td></td>	serangga	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	other river resources (specify)	<td></td>	sumber lain sungai (sebutkan)	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	Can you name the specific locations where harvesting/capturing takes place?	<td></td>		<td></td>	(location)	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; resource access	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	mode of access	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	on foot	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	truck	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	bicycle	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	motor bike	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	car	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	van	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	bus	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	others (specify)	<td></td>	lainnya (sebutkan)	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	travel time	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	less than 1 hour	<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	1 to 2 hours	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	2 to 5 hours	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	more than 5 hours	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	What specific products do you gather from the ocean?	<td></td>		<td></td>	fish	<td></td>	ikan	<td></td>	(please choose one of the many people do / mohon memilih salah satu dari kebanyakan orang melakukan)	<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	Frequency of activities:	<td></td>		<td></td>	small pelagic	<td></td>	pelagis kecil	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	daily	<td></td>		<td></td>	large pelagic	<td></td>	pelagis besar	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	weekly	<td></td>		<td></td>	demersal fish	<td></td>	demersal	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	monthly	<td></td>		<td></td>	misc.	<td></td>	lain-lain	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	annually	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	Can you name the specific locations where harvesting/capturing takes place?	<td></td>		<td></td>	(location)	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; resource access	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	mode of access	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	on foot	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	truck	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	bicycle	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	motor bike	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	car	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	van	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	bus	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	others (specify)	<td></td>	lainnya (sebutkan)	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	travel time	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	less than 1 hour	<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	1 to 2 hours	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	2 to 5 hours	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	more than 5 hours	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	Does your household farm any crops?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices	<td></td>	crops	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	yes (go to qX)	<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	no (go to qY)	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices	<td></td>	crops	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	Do you farm for household or economic use?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	subsistence / household use	<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	economic use	<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	both	<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	What crops do you farm?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	What plants do you grow in your land?	<td></td>	Jenis tanaman apa yang ditanam di lahan bapak/ibu? 	<td></td>		<td></td>		<td></td>		<td></td>	PS5		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	asset ownership	<td></td>	agricultural production	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	bananas	<td></td>		<td></td>	plantation species	<td></td>	PS1		<td></td>	PS7	<td></td>		<td></td>		<td></td>		<td></td>	economic integration	<td></td>	household income	<td></td>	source of income	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	bean	<td></td>	buncis	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	cabbage	<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	carrot	<td></td>	wortel	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	cashew	<td></td>	jambu mete	<td></td>	plantation species	<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	cassava	<td></td>	ketela pohon	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; vulnerability to economic shock	<td></td>	food supply	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	chili	<td></td>	cabai	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	chinese cabbage	<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	cocoa	<td></td>	kakao	<td></td>	plantation species	<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	coconut	<td></td>	kelapa	<td></td>	plantation species	<td></td>	PS1		<td></td>	PS7	<td></td>		<td></td>		<td></td>		<td></td>	economic integration	<td></td>	household income	<td></td>	source of income	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	coffee	<td></td>	kopi	<td></td>	plantation species	<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	corn	<td></td>	jagung	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	cucumber	<td></td>	ketimun	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	eggplant	<td></td>	terong	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	gandaria fruit	<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	green beans	<td></td>	kacang hijau	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	kale	<td></td>	kangkung	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	long bean	<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	mustard	<td></td>	petsai	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	nuts	<td></td>	kacang-kacang	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	palm	<td></td>	kelapa sawit	<td></td>	plantation species	<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	peanuts	<td></td>	kacang tanah	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	pepper	<td></td>	lada	<td></td>	plantation species	<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	potato	<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	rice	<td></td>	padi ladang	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; vulnerability to economic shock	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	rubber	<td></td>	karet	<td></td>	plantation species	<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	shallots	<td></td>	bawang merah	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	spinach	<td></td>	bayam	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	sweet potato	<td></td>	ketela rambat	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; vulnerability to economic shock; economic integration	<td></td>	food supply; household income; source of income 	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	taro	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; vulnerability to economic shock	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	teak	<td></td>		<td></td>	plantation species	<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	other bulbs	<td></td>	lainnya ubi-ubian lainnya	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	other legumes	<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	other nuts	<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	others (specify)	<td></td>	lainnya (sebutkan)	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; vulnerability to economic shock	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	What methods do you use to grow crops (traditional or using heavy equipment)?	<td></td>	Dan metode apa yang digunakan dalam menanam tanaman (tradisional atau menggunakan alat berat)?	<td></td>		<td></td>		<td></td>		<td></td>	PS5		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	asset ownership	<td></td>	agricultural production	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	Does your household cultivate any livestock?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices	<td></td>	crops	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	yes (go to qX)	<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	no (go to qY)	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices	<td></td>	crops	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	Do you cultivate livestock for household or economic use?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices	<td></td>	forest products	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	subsistence / household use	<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	economic use	<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	both	<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	What kind of livestock do you keep?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; economic integration	<td></td>	livestock	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	chickens	<td></td>	ayam	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	chicken [Broiler Chickens??]	<td></td>	ayam pedaging	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; economic integration	<td></td>	livestock	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	native chicken	<td></td>	ayam kampung	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	laying chickens	<td></td>	ayam petelor	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	duck	<td></td>	itik	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	pig	<td></td>	babi	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; economic integration	<td></td>	livestock	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	goat	<td></td>	kambing	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; economic integration	<td></td>	livestock	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	sheep	<td></td>	domba	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	buffalo / carabao	<td></td>	kerbau	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; economic integration	<td></td>	livestock	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	cow / cattle	<td></td>	sapi / sapi	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; economic integration	<td></td>	livestock	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	horse	<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	others (specify)	<td></td>	lainnya (sebutkan)	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; economic integration	<td></td>	livestock	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	Does the village communally farm or collectively cultivate any of the following products?	<td></td>	Apakah masyarakat lokal di desa ini bercocok tanam di sekitar lahan perkebunan mereka untuk sesuatu kebutuhan berikut ini?	<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	vegetables and fruits	<td></td>	kebutuhan akan sayuran dan buah	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	firewood	<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	wood for building materials	<td></td>	kebutuhan akan kayu untuk material bahan bangunan	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	animals	<td></td>	kebutuhan akan protein hewani	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	rattan	<td></td>	kebutuhan akan rotan	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	honey	<td></td>	kebutuhan akan madu	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	no / none	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	Do you have one or more non-farm businesses?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS7	<td></td>		<td></td>		<td></td>		<td></td>	economic integration	<td></td>	livelihood constitution; vulnerability to economic shock	<td></td>	non-farm related income	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	yes specify:	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS7	<td></td>		<td></td>		<td></td>		<td></td>	economic integration	<td></td>	livelihood constitution; vulnerability to economic shock	<td></td>	non-farm related income	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	no, (go to 39)	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS7	<td></td>		<td></td>		<td></td>		<td></td>	economic integration	<td></td>	livelihood constitution; vulnerability to economic shock	<td></td>	non-farm related income	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	How many people do you employ in the business/s in Q37?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS7	<td></td>		<td></td>		<td></td>		<td></td>	economic integration	<td></td>	livelihood constitution; vulnerability to economic shock	<td></td>	non-farm related income	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	Which products do you sell most commonly?	<td></td>		<td></td>	timber( wood for housing)	<td></td>	kayu (kayu untuk perumahan)	<td></td>	please indicate no. of units used per resource/product accessed (i.e sacks, kilos, heads, basket, bottles, etc.)	<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; economic integration	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>	Units:	<td></td>		<td></td>	palm / rattan	<td></td>	palm / rotan	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; economic integration	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>	sacks	<td></td>		<td></td>	charcoal	<td></td>	arang	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; economic integration	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>	kilos	<td></td>		<td></td>	gaharu tree (fragrant tree)	<td></td>	Pohon gaharu (pohon wangi)	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	head	<td></td>		<td></td>	wood for fuel	<td></td>	kayu untuk bahan bakar	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; economic integration	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>	baskets	<td></td>		<td></td>	wood as a building materials	<td></td>	kayu sebagai bahan bangunan	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	bottles	<td></td>		<td></td>	honey	<td></td>	madu	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; economic integration	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>	other specify	<td></td>		<td></td>	saps/resins	<td></td>	Sap / resin	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; economic integration	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	medicinal plants	<td></td>	tanaman obat	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; economic integration	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	papaya	<td></td>	pepaya	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	banana	<td></td>	pisang	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	other cultivated fruits (specify)	<td></td>	buah dibudidayakan lainnya (sebutkan)	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	corn	<td></td>	jagung	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; vulnerability to economic shock	<td></td>	food supply	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	rice	<td></td>	beras	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; vulnerability to economic shock	<td></td>	food supply	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	sweet potato	<td></td>	ubi jalar	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; vulnerability to economic shock	<td></td>	food supply	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	cassava	<td></td>	singkong	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; vulnerability to economic shock	<td></td>	food supply	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	sweet potato	<td></td>	ubi jalar	<td></td>		<td></td>	PS1		<td></td>	PS7	<td></td>		<td></td>		<td></td>		<td></td>	economic integration	<td></td>	household income	<td></td>	source of income	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	taro	<td></td>	talas	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; vulnerability to economic shock	<td></td>	food supply	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	coconut	<td></td>	kelapa	<td></td>		<td></td>	PS1		<td></td>	PS7	<td></td>		<td></td>		<td></td>		<td></td>	economic integration	<td></td>	household income	<td></td>	source of income	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	other cultivated nuts / vegetables (specify)	<td></td>	lainnya dibudidayakan kacang / sayuran (sebutkan)	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	chicken	<td></td>	ayam pedaging	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; economic integration	<td></td>	livestock	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	native chicken	<td></td>	ayam kampung	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	laying chickens	<td></td>	ayam petelor	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	duck	<td></td>	itik	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	goat	<td></td>	kambing	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; economic integration	<td></td>	livestock	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	sheep	<td></td>	domba	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	pig	<td></td>	babi	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; economic integration	<td></td>	livestock	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	buffalo / carabao	<td></td>	kerbau	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; economic integration	<td></td>	livestock	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	cow/cattle	<td></td>	sapi / sapi	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; economic integration	<td></td>	livestock	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	other cultivated livestock (specify)	<td></td>	ternak dibudidayakan lainnya (sebutkan)	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	wild deer	<td></td>	rusa liar	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; economic integration	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	wild pig	<td></td>	babi hutan	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; economic integration	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	wild chicken/birds	<td></td>	liar ayam / burung	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; economic integration	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	birds	<td></td>	burung	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	bats	<td></td>	kelelawar	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; economic integration	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	medicinal plants	<td></td>	tanaman obat	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; economic integration	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	other forest resource (specify)	<td></td>	sumber daya hutan lainnya (sebutkan)	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	fish	<td></td>	ikan	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	snails	<td></td>	siput	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	eel	<td></td>	belut	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	frogs	<td></td>	katak	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	crabs	<td></td>	kepiting	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	insects	<td></td>	serangga	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	other river resources (specify)	<td></td>	sumber lain sungai (sebutkan)	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	How do you sell the natural resources that you gather, cultivate, or capture?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; economic integration	<td></td>	livestock	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	traders/wholesalers come directly to the village	<td></td>	pedagang / grosir datang langsung ke desa	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; economic integration	<td></td>	livestock	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	bring the products to the nearest market	<td></td>	membawa produk ke pasar terdekat	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; economic integration	<td></td>	livestock	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	both traders/ wholesaler and taking the products to the nearest market	<td></td>	baik pedagang / grosir dan mengambil produk ke pasar terdekat	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; economic integration	<td></td>	livestock	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	others (specify)	<td></td>	lainnya (sebutkan)	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; economic integration	<td></td>	livestock	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	Mode of Acces	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	on foot	<td></td>	berjalan kaki	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	on foot, with hand trolley	<td></td>	berjalan kaki, dengan tangan troli	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	bicycle, self-owned	<td></td>	sepeda, self-milik	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	bicycle, borrowed	<td></td>	sepeda, dipinjam	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	bicycle, hire	<td></td>	sepeda, menyewa	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	motorbike, self-owned	<td></td>	sepeda motor, self-milik	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	motorbike, borrowed	<td></td>	sepeda motor, dipinjam	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	motorbike taxi	<td></td>	ojek	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>	forest products	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	car, self-owned	<td></td>	mobil, self-milik	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	car, hired	<td></td>	mobil, menyewa	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	van, self-owned	<td></td>	van, self-milik	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	van, hired	<td></td>	van, disewa	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	bus, hired	<td></td>	bus, disewa	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	public transportation	<td></td>	transportasi umum	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	others (specify)	<td></td>	lainnya (sebutkan)	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	Travel Time	<td></td>		<td></td>	less than 1 hour	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	1 to 2 hours	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	2 to 5 hours	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	more than 5 hours	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	reliance on transportation resources; distance to point of resource access	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	How much does it cost to get there, if any?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	living conditions	<td></td>	water access and use; vulnerability to economic shock	<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	no cost	<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	(rupiah)	<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	How sufficient has food supply been in your house for EACH of the last 12 months?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>	Assessment:	<td></td>		<td></td>	January	<td></td>	Januari	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>	very sufficient	<td></td>		<td></td>	February	<td></td>	Februari	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>	sufficient	<td></td>		<td></td>	March	<td></td>	Maret	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>	insufficient	<td></td>		<td></td>	April	<td></td>	April	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	May	<td></td>	Mei	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	June	<td></td>	Juni	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	July	<td></td>	Juli	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	August	<td></td>	Agustus	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	September	<td></td>	September	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	October	<td></td>	Oktober	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	November	<td></td>	November	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	December	<td></td>	Desember	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>	reasons for sufficiency	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	bountiful harvest	<td></td>	panen yang melimpah	<td></td>	state reasons by using categories identified below.	<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	other household members have work contributing to household income,	<td></td>	anggota rumah tangga lainnya telah bekerja berkontribusi terhadap pendapatan rumah tangga,	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	crops were not affected by any calamities,	<td></td>	tanaman yang tidak terpengaruh oleh bencana,	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	adequate farm inputs/services	<td></td>	input pertanian yang memadai / jasa	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	additional source of food from neighbors/relatives	<td></td>	sumber tambahan makanan dari tetangga / saudara	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	have enough harvest of root crops as an alternative food or source of income	<td></td>	memiliki cukup panen tanaman akar sebagai makanan alternatif atau sumber penghasilan	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	others (specify)	<td></td>	lainnya (sebutkan)	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>	reasons for insufficiency	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	unemployment	<td></td>	pengangguran	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	limited income,	<td></td>	pendapatan yang terbatas,	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	poor production due to lack of resources,	<td></td>	produksi yang buruk karena kurangnya sumber daya,	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	damage crops due to calamity,	<td></td>	tanaman kerusakan akibat bencana,	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	percentage of income allocated to medicines to sick member of the family, poor soil condition ,	<td></td>	persentase dari pendapatan dialokasikan untuk obat-obatan untuk anggota keluarga yang sakit, kondisi tanah yang buruk,	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	no harvest yet,	<td></td>	tidak ada panen lagi,	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	others (specify)	<td></td>	lainnya (sebutkan)	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>	food supply	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	Do you keep food / crop stocks in case of potential food shortages?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; vulnerability to economic shock	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	yes	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; vulnerability to economic shock	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	no	<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	livelihood constitution	<td></td>	natural resource consumption; agriculture practices; vulnerability to economic shock	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	##	<td></td>	ACCESS TO SOCIAL / ECONOMIC SUPPORT SEVICES	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	access to services	<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	Have you ever got assistance/aid from the government in the last year?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	access to services	<td></td>	access to livlihood support services	<td></td>	availability of food subsidies	<td></td></tr>
+<tr><td>	*	<td></td>	yes	<td></td>		<td></td>	no / none	<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	*	<td></td>	no	<td></td>		<td></td>	type of assistance	<td></td>		<td></td>		<td></td>	PS1		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	access to services	<td></td>	access to livlihood support services	<td></td>	availability of food subsidies	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	rice for poor (RASKIN)	<td></td>		<td></td>		<td></td>	PS1		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	access to services	<td></td>	access to livlihood support services	<td></td>	availability of food subsidies	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	BLT	<td></td>		<td></td>		<td></td>	PS1		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	access to services	<td></td>	access to livlihood support services	<td></td>	availability of food subsidies	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	BOS	<td></td>		<td></td>		<td></td>	PS1		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	access to services	<td></td>	access to livlihood support services	<td></td>	availability of food subsidies	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	PNPM	<td></td>		<td></td>		<td></td>	PS1		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	access to services	<td></td>	access to livlihood support services	<td></td>	availability of food subsidies	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	lainnya_________	<td></td>		<td></td>		<td></td>	PS1		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	access to services	<td></td>	access to livlihood support services	<td></td>	availability of food subsidies	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	other	<td></td>		<td></td>		<td></td>	PS1		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	access to services	<td></td>	access to livlihood support services	<td></td>	availability of food subsidies	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	remark	<td></td>		<td></td>		<td></td>	PS1		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	access to services	<td></td>	access to livlihood support services	<td></td>	availability of food subsidies	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	What is your opinion of that assistance/aid?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	access to services	<td></td>	access to livlihood support services	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	Have you or your family ever got assistance/aid from NGO in the last year?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	access to services	<td></td>	access to livlihood support services	<td></td>	assistance	<td></td></tr>
+<tr><td>	*	<td></td>	Yes	<td></td>		<td></td>	no / none	<td></td>		<td></td>		<td></td>	PS1		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	access to services	<td></td>	access to livlihood support services	<td></td>	assistance	<td></td></tr>
+<tr><td>	*	<td></td>	No	<td></td>		<td></td>	name of institution	<td></td>		<td></td>		<td></td>	PS1		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	access to services	<td></td>	access to livlihood support services	<td></td>	assistance	<td></td></tr>
+<tr><td>	*	<td></td>		<td></td>		<td></td>	remark	<td></td>		<td></td>		<td></td>	PS1		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	access to services	<td></td>	access to livlihood support services	<td></td>	assistance	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	What is your opinion of that assistance/aid?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	access to services	<td></td>	access to livlihood support services	<td></td>	assistance	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	##	<td></td>	PERCEPTION OF THE CURRENT LIVING CONDITION	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	perception of living conditions	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	How do you assess your current socio - economic situation?	<td></td>		<td></td>		<td></td>		<td></td>	Choose the situation you are in and write the number corresponding to your situation in the BOX in next column.	<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	very poor/not able to meet basic needs most of the time	<td></td>	sangat miskin / tidak mampu memenuhi kebutuhan dasar sebagian besar waktu	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	somewhat poor/ not able to meet basic needs some of the time	<td></td>	agak miskin / tidak mampu memenuhi kebutuhan dasar beberapa waktu	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	with adequate income/ able to meet basic needs	<td></td>	dengan penghasilan yang memadai / mampu memenuhi kebutuhan dasar	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	self-perception of poverty	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	reasons for assessment	<td></td>		<td></td>		<td></td>		<td></td>	check those boxes which apply	<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	reasons for poverty	<td></td>	employment	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	no employment	<td></td>	tidak ada pekerjaan	<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	limited harvest/crop damage	<td></td>	panen terbatas / kerusakan tanaman	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	reasons for poverty	<td></td>	crops	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	infertile soil	<td></td>	tanah subur	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	reasons for poverty	<td></td>	crops	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	limited farm inputs used due to lack of financial resources	<td></td>	input pertanian yang terbatas digunakan karena kurangnya sumber daya keuangan	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	reasons for poverty	<td></td>	financial resources	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	many children to feed	<td></td>	banyak anak-anak untuk memberi makan	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	reasons for poverty	<td></td>	access to resources	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	some household members got sick, spent resources on hospital bills and medicines	<td></td>	beberapa anggota rumah tangga jatuh sakit, sumber daya yang dihabiskan untuk tagihan rumah sakit dan obat-obatan	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	reasons for poverty	<td></td>	illness	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	inadequate skills to seek alternative employment	<td></td>	keterampilan memadai untuk mencari pekerjaan alternatif	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	reasons for poverty	<td></td>	employment	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	lack of capital to start a small business	<td></td>	kurangnya modal untuk memulai usaha kecil	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	reasons for poverty	<td></td>	financial resources	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	most household members are employed	<td></td>	sebagian besar anggota rumah tangga dipekerjakan	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	reasons for poverty	<td></td>	employment	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	good harvests for this season	<td></td>	hasil panen yang baik untuk musim ini	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	reasons for poverty	<td></td>	crops	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	access alternative resources for food/ hence generated savings	<td></td>	mengakses sumber daya alternatif untuk makanan / tabungan maka dihasilkan	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	reasons for poverty	<td></td>	access to resources	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	put up small business to augment income	<td></td>	memasang usaha kecil untuk meningkatkan pendapatan	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	reasons for poverty	<td></td>	employment	<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>	others (specify)	<td></td>	lainnya (sebutkan)	<td></td>		<td></td>	PS1		<td></td>	PS5	<td></td>	PS6	<td></td>	PS7	<td></td>		<td></td>	vulnerability	<td></td>	reasons for poverty	<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	Is it easy or difficult to start a new homestead?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	Is it expensive or inexpensive to gather materials to start your home?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	What materials do you use to build your home?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	From where do you source these materials?	<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>	1.	<td></td>	type plants (wood) used by local people in the village to build a house or building?	<td></td>	Jenis tanaman (kayu) yang digunakan oleh masyarakat lokal di desa ini untuk membangun rumah atau gedung?	<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>	Forms of land ownership	<td></td>	Bentuk kepemilikan lahan	<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>	* Can trees / palm groves be ‘owned’? [Includes both wild and planted]	<td></td>	* Dapatkah rumpun pepohonan / palem-paleman ‘dimiliki’? [baik liar maupun budi daya]	<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>	* How is ownership marked / delineated?	<td></td>	* Bagaimana tanda atau simbol kepemilikannya?	<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>	* Is there any specific logic governing how land boundaries are defined? If ‘yes’, please explain.	<td></td>	* Apakah ada tata cara spesifik dalam penentuan batas tanah? Jika ‘ya’, harap dijelaskan.	<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>	* How are claims administered / how are disputes moderated?	<td></td>	* Bagaimana mereka menangani klaim / memediasi sengketa?	<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>	Patterns of land use	<td></td>	Pola penggunaan lahan	<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>	* Do land use practices change by season?	<td></td>	* Apakah praktik penggunaan lahan berubah sesuai musim?	<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>	* Are some areas used for only a short term / periodically?	<td></td>	* Apakah ada sejumlah kawasan yang hanya dimanfaatkan dalam jangka pendek / secara periodik?	<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+<tr><td>		<td></td>	* Is there any specific logic for deciding where / when to change locations? If ‘yes’, please explain.	<td></td>	* Apakah ada cara khusus untuk memutuskan di mana / kapan mereka berpindah lokasi? Jika ‘ya’, harap dijelaskan.	<td></td>		<td></td>		<td></td>		<td></td>			<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td>		<td></td></tr>
+</table>																																													

@@ -66,7 +66,7 @@ An analysis of international law and international formulations of FPIC suggests
 * any policies or programmes that may lead to the removal of their children, or their removal, displacement or relocation from their traditional territories.
  
 
-##Citations:
+## Citations
  
 <a href="#Motoc,Tebtebba">[↑Ref. 1]</a><a id="ref,Motoc,Tebtebba">&nbsp;</a> Quote from a preliminary working paper on the principle of free, prior and informed consent, submitted to the UN Commission on Human Rights, Working Group on Indigenous Populations (twenty-second session). Document ID: E/CN.4/Sub.2/AC.4/2004/4 (08 July 2004).
 Available at: http://www2.ohchr.org/english/issues/indigenous/docs/wgip22/4.pdf

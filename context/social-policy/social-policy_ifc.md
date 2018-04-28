@@ -249,41 +249,46 @@ Guidance Notes (December 1998)
 
 The 2006 Guidance Notes and 2012 Guidance Notes are available on our website.
 
-Safeguard Policies
 
+
+## Safeguard Policies
+
+http://www.ifc.org/safeguards
+
+ 
 The Safeguard Policies provided guidelines for IFC and its clients on how to prevent and mitigate undue harm to people and their environment in the identification, preparation, and implementation of projects. The Safeguard Policies were replaced by the Policy on Social and Environmental Sustainability and the Performance Standards in April 30, 2006.
 
 
 
-Environmental Assessment (OP 4.01, October 1998) [PDF]
+Environmental Assessment (OP 4.01, October 1998) [PDF] <br />
+[English](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006) | Français | Español | Português | русский | عربي | 简体中文
+
+Natural Habitats (OP 4.04, November 1998) [PDF] <br />
+[English](https://www.ifc.org/wps/wcm/connect/6a26908048855643b98cfb6a6515bb18/OP404_NaturalHabitats.pdf?MOD=AJPERES)| Français | Español | Português | русский | عربي | 简体中文
+
+Pest Management (OP 4.09, November 1998) [PDF] <br />
 English | Français | Español | Português | русский | عربي | 简体中文
 
-Natural Habitats (OP 4.04, November 1998) [PDF]
+Forestry (OP 4.36, November 1998) [PDF] <br />
 English | Français | Español | Português | русский | عربي | 简体中文
 
-Pest Management (OP 4.09, November 1998) [PDF]
-English | Français | Español | Português | русский | عربي | 简体中文
-
-Forestry (OP 4.36, November 1998) [PDF]
-English | Français | Español | Português | русский | عربي | 简体中文
-
-Safety of Dams (OP 4.37, September 1996) [PDF]
+Safety of Dams (OP 4.37, September 1996) [PDF] <br />
 English | Français | Español | Português | русский | عربي | 简体中文
 
 
-International Waterways (OP 7.50, November 1998) [PDF]
+International Waterways (OP 7.50, November 1998) [PDF] <br />
 English | Français | Español | Português | русский | عربي | 简体中文
 
-Indigenous Peoples (OD 4.20, September 1991) [PDF]
+Indigenous Peoples (OD 4.20, September 1991) [PDF] <br />
 English | Français | Español | Português | русский | عربي | 简体中文
 
-Involuntary Resettlement (OD 4.30, June 1990) [PDF]
+Involuntary Resettlement (OD 4.30, June 1990) [PDF] <br />
 English | Français | Español | Português | русский | عربي | 简体中文
 
-Cultural Property (OPN 11.03, September 1986) [PDF]
+Cultural Property (OPN 11.03, September 1986) [PDF] <br />
 English | Français | Español | Português | русский | عربي | 简体中文
 
-Child and Forced Labor Policy Statement (March 1998) [PDF]
+Child and Forced Labor Policy Statement (March 1998) [PDF] <br />
 English | Français | Español | Português | русский | 简体中文
 
 
@@ -503,6 +508,16 @@ International Finance Corporation (IFC)<br>
 
 
 
+---
+http://www.ifc.org/safeguards
+
+
+
+
+---
+
+
+
 ## Implementation Resources
 
 ### Impact Assessment
@@ -592,9 +607,6 @@ Interspersed throughout both sections of this manual are case studies which deta
    - [Additional information and document templates](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_Annexes.pdf/$FILE/Influx_Annexes.pdf)
    - [Chad Cameroon Pipeline Project](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_casestudies_chadcameroon/$FILE/Chad+Cameroon+Pipeline+Project.pdf)
    - [Ongoing discussion about project induced in-migration](http://commdev.org/content/blog/detail/2092/)
-
-
----
 
 
 ---

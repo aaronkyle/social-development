@@ -1,26 +1,19 @@
 ## Purpose
 
-This [repository](https://github.com/aaronkyle/social-development) is intended as a resource for people interested in, or working with, [social policy](http://applied-anthro.com/terms/social-policy/).
+[Social policy](http://applied-anthro.com/terms/social-policy/) has varied articulations and manifestations. This repository collates information on how social policy has been articulated by [international financial institutions](http://applied-anthro.com/terms/ifi/) (aka 'development financial institutions') over time and across institutions and analyses how policy articulations manifest in practical application. 
 
-Social policy has varied articulations and manifestations.  Tracking how social policy is defined and realized over time and across institutions is difficult.  Policy formulations change and evolve, and the relationship between seemingly similar terms and concepts is sometimes obtuse and counter-intuitive.
+Tracking how social policy is [defined](http://applied-anthro.com/context/) and [realized](https://github.com/aaronkyle/social-development/tree/master/context/thematic-issues/) is a difficult and endless endeavor: policy formulations change and evolve and the relationship between seemingly similar [terms](http://applied-anthro.com/category/terminology.html) and [concepts](https://github.com/aaronkyle/social-development/tree/master/context) is sometimes obtuse and counter-intuitive. Currently, I am a solo author&mdash;doing my best to keep up with the changes and to identify and analyze inconsistence where I encounter them. [I doubt I will ever finish](./disclaimer.md).
 
-This repository seeks to collate information on social policy and to and establish a means of tracking changes in policy articulations in relationship to one another.
+This repository is [open](./license.md) and [public](https://github.com/aaronkyle/social-development) in the hope that someone (other than myself) may eventually find and it use. Ideally, this repository may one day help others tasked with analyzing social policy and its [phenomenological](https://en.wikipedia.org/wiki/Phenomenology_(philosophy)) manifestations. 
 
-I hope that someone other than myself may eventually find this resource, and that my work might help others to analyse social policy and to better appreciate (and document) the nuanced inter-connectedness of [phenomena](#).  
+If you find your way here, welcome!  If you see spot anything that you'd like to challenge, change, or correct, please send me an email (or better, a submit a pull request). I'd love to hear from you :)
 
-## Caveats and Disclaimers
 
-My work here is on-going.  Attempting to define a organizational framework for the complex, ever-expanding universe of social policy requires considerable time and effort. I contribute to this repository in the hours when I am not [otherwise engaged](http://aaron-kyle.com). Probably I will never finish. 
+## Organization
 
-I consider no page to be complete. Most are still very immature in terms of their content. I make many typos. This will be a life-long project for me. If you see spot anything that you'd like to challenge or correct, please send me an email (or better, a submit a pull request).
+For those reading [via this site's front end](http://applied-anthro.com/), I am slowing building out navigation links and index files to guide your journey through this website.  For now, you'll find that the site is comprised of 'old' and 'new' layouts.  This derives from changes I made in how content is generated an published on line.  Please bear with me; I'll work it out.
 
-Also&mdash;as noted&mdash;my work focuses on social development. As I work on defining [terms](http://applied-anthro.com/category/terminology.html), I do so with respect to their usage relative to the practice of social development&mdash;I don't worry to much about how a term is used in other disciplines.
-
-<!--
-I should also emphasise how much I continue to struggle to account for what constitutes 'social policy'.
--->
-
-## Organization of the [Repository](https://github.com/aaronkyle/social-development/)
+For those reading [via GitHub](https://github.com/aaronkyle/social-development), the repository structure will be apparent.  Here's a few bits of orientation.
 
 ```
 archive/	# record of HTML pages generated for web front end
@@ -39,5 +32,6 @@ site/		# site-level pages
 README		# introduces the repository concept (for viewers on GitHub, it's the repository landing page) 
 
 ```
+
 
 

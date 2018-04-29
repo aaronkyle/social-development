@@ -6,7 +6,7 @@ Tracking how social policy is [defined](http://applied-anthro.com/context/) and 
 
 This repository is [open](./license.md) and [public](https://github.com/aaronkyle/social-development) in the hope that someone (other than myself) may eventually find and it use. Ideally, this repository may one day help others tasked with analyzing social policy and its [phenomenological](https://en.wikipedia.org/wiki/Phenomenology_(philosophy)) manifestations. 
 
-If you find your way here, welcome!  If you see spot anything that you'd like to challenge, change, or correct, please send me an email (or better, a submit a pull request). The I'd love to hear from you :)
+If you find your way here, welcome!  If you see spot anything that you'd like to challenge, change, or correct, please send me an email (or better, a submit a pull request). I'd love to hear from you :)
 
 
 ## Organization

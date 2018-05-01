@@ -4,7 +4,7 @@
 
 Tracking how social policy is [defined](http://applied-anthro.com/context/) and [realized](https://github.com/aaronkyle/social-development/tree/master/context/thematic-issues/) is a difficult and endless endeavor: policy formulations change and evolve and the relationship between seemingly similar [terms](http://applied-anthro.com/category/terminology.html) and [concepts](https://github.com/aaronkyle/social-development/tree/master/context) is sometimes obtuse and counter-intuitive. Currently, I am a solo author&mdash;doing my best to keep up with the changes and to identify and analyze inconsistence where I encounter them. [I doubt I will ever finish](./disclaimer.md).
 
-This repository is [open](./license.md) and [public](https://github.com/aaronkyle/social-development) in the hope that someone (other than myself) may eventually find and it use. Ideally, this repository may one day help others tasked with analyzing social policy and its [phenomenological](https://en.wikipedia.org/wiki/Phenomenology_(philosophy)) manifestations. 
+This repository is [open](./license.md) and [public](https://github.com/aaronkyle/social-development) in the hope that someone (other than myself) may eventually find and use it. Ideally, this repository may one day help others tasked with analyzing social policy and its [phenomenological](https://en.wikipedia.org/wiki/Phenomenology_(philosophy)) manifestations. 
 
 If you find your way here, welcome!  If you see spot anything that you'd like to challenge, change, or correct, please send me an email (or better, a submit a pull request). I'd love to hear from you :)
 

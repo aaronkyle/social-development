@@ -1,3 +1,9 @@
+This document is intended to model what a public consultation and disclosure plan might look like for an international development project.  One would need to adapt in for application to specific context, but the below approach would be considered a 'good practice' model.
+
+<sub>- AKD</sub>
+
+---
+
 
 [Preface](./pcdp_preface.md) <br />
 [Introduction to the PCDP](./pcdp_introduction.md)  <br />
@@ -9,7 +15,7 @@ Project Overview  <br />
         * Grievance Redress Unit (GRU)
         * Communications Department
     -	Community Partners
-        * Perwakilan Desa
+        * Village Head
         * Company Advisory Board
 *	Applicable Legal And Regulatory Framework
     -	International Finance Corporation
@@ -37,7 +43,7 @@ Project Overview  <br />
 *	Guidelines For Disclosure
     -	Public Notification For Community And Stakeholder Engagement
     -	Community Socialisations And Information Meetings
-        * Prior To Construction
+        * Prior To Construction / Site Exploration / Preliminary Development
         * During Construction
         * During Operations
     -	Dissemination Of Project-Relevant Documents

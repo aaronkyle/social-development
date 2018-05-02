@@ -3,7 +3,7 @@
 
 ### Information Exchange
 
-Relative to project-affected communities, consultation activities focus on effective systems for information exchange to ensure that the local communities are kept informed of Project-related activities in their area in a timely manner. Where aspects of Project design and implementation may have a potential positive or negative impact, community members shall be afforded opportunities to voice their concerns and opinions, and client project shall take these community inputs into consideration when planning appropriate risk mitigation and compensatory measures. Community delegations shall be invited to participate in the planning and implementation of Project benefits programmes in order to ensure community buy-in for planned initiatives. 
+Relative to project-affected communities, consultation activities focus on effective systems for information exchange to ensure that the local communities are kept informed of project-related activities in their area in a timely manner. Where aspects of Project design and implementation may have a potential positive or negative impact, community members shall be afforded opportunities to voice their concerns and opinions, and client project shall take these community inputs into consideration when planning appropriate risk mitigation and compensatory measures. Community delegations shall be invited to participate in the planning and implementation of Project benefits programmes in order to ensure community buy-in for planned initiatives. 
 
 ### Partnering with the Government
 

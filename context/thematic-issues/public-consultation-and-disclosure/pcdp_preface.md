@@ -2,7 +2,7 @@
 
 Achieving effective stakeholder engagement means building and maintaining constructive relationships over time. Companies seeking international financing must commit to an ongoing consultation engagement process that extends throughout the life of the project. Consultation and engagemetn efforts encompasses a broad range of activities and approaches—from information sharing and consultation to negotiation, participatory decision-making, and partnerships—to ensure that a project and its operators maintain their social license to operate.
 
-A Public Consultation and Disclosure Plan (PCDP) sets forth the a proejct's strategy and program for ensuring effective and culturally-appropriate stakeholder engagement—especially as concerns project-affected communities. [^1] A PCDP defines company commitments for the provision of relevant and understandable information. It also establishes a framework to enable stakeholders to express their needs, concerns, views and interests about project activities in a manner that will allow project operators to respond appropriately to them.
+A Public Consultation and Disclosure Plan (PCDP) sets forth the a proejct's strategy and program for ensuring effective and [culturally-appropriate stakeholder engagement](#)—especially as concerns [project-affected communities](#).  A PCDP defines company commitments for the provision of relevant and understandable information. It also establishes a framework to enable stakeholders to express their needs, concerns, views and interests about project activities in a manner that will allow project operators to respond appropriately to them.
 
 Key aspects of a public consultation and disclosure are as follows:
 

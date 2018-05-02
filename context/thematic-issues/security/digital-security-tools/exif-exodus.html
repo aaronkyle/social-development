@@ -6,7 +6,7 @@
   <meta name="description" content="ExifExodus removes GPS data from your photos">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
   <meta name="author" content="Dan Motzenbecker">
-  <link href="assets/css/exifexodus.css" rel="stylesheet" type="text/css">
+  <link href="assets/exifexodus.css" rel="stylesheet" type="text/css">
   <link href="assets/images/favicon.png" rel="icon" type="image/png">
   <link href="assets/images/favicon-152.png" rel="apple-touch-icon-precomposed">
   <title>ExifExodus - Remove GPS data from your photos</title>
@@ -34,7 +34,7 @@
     <section id="bookmarklet">
       You can also drag this bookmarklet to your bookmarks bar:
       <br>
-      <a href="javascript:(function(d){d.body.appendChild(d.createElement('script')).src='http://exifexodus.com/assets/js/exifexodus.min.js'})(document)"
+      <a href="javascript:(function(d){d.body.appendChild(d.createElement('script')).src='./assets/exifexodus.js'})(document)"
         id="bookmarklet-btn" title="ExifExodus">ExifExodus</a>
       <br>
       Click it before you upload photos on a site to automatically remove GPS data.
@@ -181,16 +181,7 @@ GPS Position          : 40 deg 41' 21.30" N, 74 deg 2' 40.33" W
     &infin; <a href="http://oxism.com">oxism.com</a>
   </footer>
 
-  <script src="assets/js/site.js"></script>
+  <script src="./assets/site.js"></script>
 
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    ga('create', 'UA-56797993-1', 'auto');
-    ga('send', 'pageview');
-  </script>
-
-</body>
+  </body>
 </html>

@@ -1,4 +1,4 @@
-### Designing Baseline Survey for Optimal Social Performance
+### Proactive Planning
 
 Unless a project has defined in advance how it wishes to evaluate social performance, little can be done&mdash;at least, not without a ton of added legwork.
 

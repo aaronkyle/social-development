@@ -11,9 +11,26 @@ In addition to the Sustainability Framework, IFC provides operational guidance t
 
 ---
 
+<!--
+Policies
+
+The updated 2012 edition of IFC's Sustainability Framework applies to all investment and advisory clients whose projects go through IFC's initial credit review process after January 1, 2012.
+The 2006 edition of IFC's Sustainability Framework applies to investments that go through IFC's initial credit review process from April 30, 2006 to December 31, 2011.
+Investments made prior to April 30, 2006 are subject to the Safeguard Policies.
+
+http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsppah
+
+-->
+
+
 <a name="ifc-policy"></a>
 
-## Current Policy Framework
+## IFC's Social and Environmental Policy Framework
+
+---
+
+### Current Policy Framework
+
 
 * 2012 [Sustainability Framework](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustainability/sustainability+framework/sustainability+framework+-+2012/framework_2012#AIP)
   - [Policy on Social & Environmental Sustainability [PDF]](http://www.ifc.org/wps/wcm/connect/7540778049a792dcb87efaa8c6a8312a/SP_English_2012.pdf?MOD=AJPERES)
@@ -27,67 +44,41 @@ In addition to the Sustainability Framework, IFC provides operational guidance t
 
   * [Policy on Disclosure of Information](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_Disclosure2006/$FILE/Disclosure2006.pdf)
 
-
 ---
 
 ### Sustainability Framework
 
-The [Sustainability Framework](http://www.ifc.org/sustainabilityframework) articulates IFC's strategic commitment to sustainable development. The framework is a risk-management insturment--inteded to promote sound environmental and social practices via accountability and encourage transparency.  Originally adopted in 2006 [^1](# "The 2006 edition of IFC's Sustainability Framework applies to investments that go through IFC's initial credit review process from April 30, 2006 to December 31, 2011. Investments made prior to April 30, 2006 are subject to the Safeguard Policies."), the Sustainability Framework was updated in 2012 [^2](# "The updated 2012 edition of IFC's Sustainability Framework applies to all investment and advisory clients whose projects go through IFC's initial credit review process after January 1, 2012.
-") following an 18-month consultation process with stakeholders around the world.
+The [Sustainability Framework](http://www.ifc.org/sustainabilityframework) articulates IFC's strategic commitment to sustainable development.
+
+The framework is frames sound environmental and social practices in the context of risk-management, accountability and transparency.  
+
+<!--
+> The Sustainability Framework articulates IFC's strategic commitment to sustainable development and is an integral part of our approach to risk management.
+
+> Our Sustainability Framework helps our clients do business in a sustainable way. It promotes sound environmental and social practices, encourages transparency and accountability, and contributes to positive development impacts.
+-->
+
+Originally adopted in 2006 <sup>[[ref1]](# "The 2006 edition of IFC's Sustainability Framework applies to investments that go through IFC's initial credit review process from April 30, 2006 to December 31, 2011. Investments made prior to April 30, 2006 are subject to the Safeguard Policies.")</sup>, the Sustainability Framework was updated in 2012 <sup>[[ref2]](# "The updated 2012 edition of IFC's Sustainability Framework applies to all investment and advisory clients whose projects go through IFC's initial credit review process after January 1, 2012.")</sup> following an 18-month consultation process with stakeholders around the world.
+
+<!--
+Effective on January 1, 2012, our updates reflect the evolution in good practice for sustainability and risk mitigation over the past five years. They incorporate modifications on challenging issues that are increasingly important to sustainable businesses, including supply-chain management, resource efficiency and climate change, and business and human rights.
+-->
 
 The Sustainability Framework consists of:
 
-1. The Policy on Environmental and Social Sustainability, which defines IFC's commitments to environmental and social sustainability.
-1. The Performance Standards, which define clients' responsibilities for managing their environmental and social risks.
-1. The Access to Information Policy, which articulates IFC's commitment to transparency.
-
----
-
-
-### Sustainability Framework
-
-[IFC Sustainability Framework](http://www.ifc.org/sustainabilityframework)
-
-The Sustainability Framework articulates IFC's strategic commitment to sustainable development and is an integral part of our approach to risk management.
-
-Our Sustainability Framework helps our clients do business in a sustainable way. It promotes sound environmental and social practices, encourages transparency and accountability, and contributes to positive development impacts. IFC's Performance Standards, which are part of the Sustainability Framework, have become globally recognized as a benchmark for environmental and social risk management in the private sector.
-
-Originally adopted in 2006, the Sustainability Framework has recently been updated following an 18-month consultation process with stakeholders around the world.
-
-Effective on January 1, 2012, our updates reflect the evolution in good practice for sustainability and risk mitigation over the past five years. They incorporate modifications on challenging issues that are increasingly important to sustainable businesses, including supply-chain management, resource efficiency and climate change, and business and human rights.
-
-The Sustainability Framework consists of
-
-1. The Policy on Environmental and Social Sustainability, which defines IFC's commitments to environmental and social sustainability.
-1. The Performance Standards, which define clients' responsibilities for managing their environmental and social risks.
-1. The Access to Information Policy, which articulates IFC's commitment to transparency.
-
-Policies
-
-The updated 2012 edition of IFC's Sustainability Framework applies to all investment and advisory clients whose projects go through IFC's initial credit review process after January 1, 2012.
-The 2006 edition of IFC's Sustainability Framework applies to investments that go through IFC's initial credit review process from April 30, 2006 to December 31, 2011.
-Investments made prior to April 30, 2006 are subject to the Safeguard Policies.
+1. The [Policy on Social & Environmental Sustainability](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_SocEnvSustainability2006/$FILE/SustainabilityPolicy.pdf), which defines IFC's commitments to environmental and social sustainability.
+2. The Performance Standards, which define clients' responsibilities for managing their environmental and social risks, including requirements for information disclosure.
+3. The Access to Information Policy, which articulates IFC's commitment to transparency.
 
 
 
----
-
-* [Policy on Social & Environmental Sustainability](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_SocEnvSustainability2006/$FILE/SustainabilityPolicy.pdf)
-
-
-### IFC Performance Standards
-
----
+### Performance Standards
 
 IFC's Performance Standards, which are part of the Sustainability Framework, are a globally recognized as a benchmark for environmental and social risk management in the private sector. The Performance Standards define clients' roles and responsibilities for project management—including requirements for information disclosure.
 
 The adoption of the International Finance Corporation’s 2006 Performance Standards on Social & Environmental Sustainability set a new trend for IFI social safeguards. Rather than relying on the multiple, individual operational policies of the World Bank (as was its previous practice), the IFC chose to develop an integrated bundle of social and environmental protections structured to provide a comprehensive policy framework, which IFC felt was more suited to the private sector—its client group.
 
 Effective on January 1, 2012, our updates reflect the evolution in good practice for sustainability and risk mitigation over the past five years. They incorporate modifications on challenging issues that are increasingly important to sustainable businesses, including supply-chain management, resource efficiency and climate change, and business and human rights.
-
----
-
-IFC's Performance Standards on Social and Environmental Sustainability (2006) define clients' roles and responsibilities for project management—including include requirements for information disclosure.
 
 ---
 
@@ -107,13 +98,13 @@ PS 8:	Cultural Heritage
 * [Performance Standards on Social & Environmental Sustainability](http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/pol_PerformanceStandards2006_full/$FILE/IFC+Performance+Standards.pdf) | [русский](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_PerformanceStandards2006_full_Russian/$FILE/IFC+Performance+Standards_Russian.pdf) | [简体中文](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_PerformanceStandards2006_full_Chinese/$FILE/IFC+Performance+Standards_Chinese.pdf)
 
 
----
+<!--
  
-:''see my'' [[IFC Performance Standards|comments on the IFC Performance Standards]]
-:''see my'' [[IFC Guidance Notes to Performance Standards|comments on the IFC Guidance Notes]]
-:''see my'' [[IFC policy analysis - PCDP/community engagement|interpretation of IFC Performance Standards relative to public consultation and disclosure]]
+: ''see my'' [[IFC Performance Standards|comments on the IFC Performance Standards]]
+: ''see my'' [[IFC Guidance Notes to Performance Standards|comments on the IFC Guidance Notes]]
+: ''see my'' [[IFC policy analysis - PCDP/community engagement|interpretation of IFC Performance Standards relative to public consultation and disclosure]]
 
----
+-->
 
 
 #### Guidance Notes to the Performance Standards
@@ -124,7 +115,7 @@ PS 8:	Cultural Heritage
 
 
 
-##### Policy on Disclosure of Information
+### Policy on Disclosure of Information
 
 
 2006 (Updated)
@@ -141,7 +132,10 @@ In addition, the document also defines how routinely provided information can be
 :''see my'' [[IFC Policy on Disclosure of Information| notes on the IFC Policy on Disclosure of Information]]</h4>
 
 
-#### Environmental and Social Review Procedure
+---
+
+
+### Environmental and Social Review Procedure
 
 As part of IFC commitment to socially and environmentally sustainable development, the Environmental and Social Review Procedures (ESRP) [2009, version 4] establish and verify the sustainability of client projects, as well as their conformance with Performance Standards and the Extractive Industry Review (EIR).
 
@@ -178,8 +172,7 @@ The Manual describes how IFC conducts its environmental and social due diligence
 
 ---
 
-
-#### Former Environmental and Social Safeguards and Supporting Materials
+### Past Policy Frameworks [ARCHIVE]
 
 
 
@@ -191,9 +184,6 @@ Earlier versions of IFC's environmental and social policies, procedures, and sta
 * Environmental and Social Review Procedure (April 2006) [PDF]
 * Environmental and Social Review Procedure (December 1998) [PDF]
 
----
-
-http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsppah
 
 ### Former Environmental and Social Safeguards and Supporting Materials
 

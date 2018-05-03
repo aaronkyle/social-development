@@ -126,31 +126,25 @@ how it could be tackled to permit comparison with official statistics and align 
 
 1.       Geographical classification system- adopt the same 10-digit numbering system as Government of Indonesia, whereby:
 
- 
 
-00
-
-00
-
-000
-
-000
-
-Province
-
-Province
-
-Kabupaten
-
-District
-
-Kecamatan
-
-Sub-district
-
-Desa
-
-Village
+<table>
+<tr>
+<td>00</td>
+<td>00</td>
+<td>000</td>
+<td>000</td>
+</tr>
+<tr> 
+<td>Province<br />
+Province</td>
+<td>Kabupaten<br />
+District</td>
+<td>Kecamatan<br />
+Sub-district</td>
+<td>Desa<br />
+Village</td>
+</tr>
+</table>
 
  
 
@@ -179,4 +173,13 @@ Village
 ·         VI Housing: 2. Roof material: 1-Concrete, 2-Tiled, 3- Shingle, 4- Zinc, 5- Asbestos, 6- Thatched, 7- Other
 
 ... Agricultural Census for 2013 for Maluku province is published at: http://st2013.bps.go.id/st2013esya/booklet/at8100.pdf which may be a good secondary data source for us on regional livelihoods.
+
+
+
+---
+
+Data Sources MTBL
+https://mtbkab.bps.go.id/
+https://mtbkab.bps.go.id/publikasi.html
+https://mtbkab.bps.go.id/pencarian.html?searching=dalam+angka&yt1=Cari
 

@@ -14,6 +14,12 @@ The immediate task is to get this information into the PostgreSQL database in a 
 
 NOTE: After our village ‘point’ files have been loaded into the GIS database, we will eventually want to review and improve the accuracy of each marker.
 
+NOTE ON MAPS:
+
+[Indonesia Map](http://bl.ocks.org/junwatu/ac08d962f07d770aba99)
+
+
+
 Step 2: Mapping sub-district (*kecamatan*) and regency (*kabupaten*) boundaries and territorial
 areas
 

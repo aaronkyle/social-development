@@ -1,4 +1,12 @@
 
+
+## Analysis of Social Impacts
+
+> Once the baseline data has been collected through a combination of secondary, qualitative, quantitative, participatory and consultative techniques, a good understanding should exist of the society in the project's area of influence and the general categories of impacts that may result. The next step is to analyze the information with the purpose of predicting and measuring with a greater level of both positive and negative impacts of the specificity project on the population. (IFC GPN pp. 9, 14)
+
+As the IFC indicates, the 'social impact analysis' (also referred to as 'social impact assessment') is a step that begins following the completion of 'baseline studies'. 
+
+
 ## Methods for Impact Analysis
 
 

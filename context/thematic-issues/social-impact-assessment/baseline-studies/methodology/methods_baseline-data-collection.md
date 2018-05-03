@@ -119,3 +119,64 @@ Quantitative Methods
 ## Case Study
 
 * [Badan Pusat Statistik Kabupaten Maluku Barat Daya](https://malukubaratdayakab.bps.go.id/publication.html)
+
+how it could be tackled to permit comparison with official statistics and align it with GoI systems:
+
+ 
+
+1.       Geographical classification system- adopt the same 10-digit numbering system as Government of Indonesia, whereby:
+
+ 
+
+00
+
+00
+
+000
+
+000
+
+Province
+
+Province
+
+Kabupaten
+
+District
+
+Kecamatan
+
+Sub-district
+
+Desa
+
+Village
+
+ 
+
+2.       Village classification
+
+1-      Perkotaan (Urban)
+
+2-      Perdesaan (Rural)
+
+ 
+
+3.       Household sampling method- follow the Susenas sampling method recording the total number of households and buildings in a village recorded in the census and normally , number of household members and household expenditure group. Refer to VSEN2003.L SuSeNas2003.pdf attached.
+
+ 
+
+4.       Question wording and coding- follow the same format as used by GoI as it is familiar to enumerators and respondents and has been tested/ is proven. Refer to VSEN2003.K SuSeNas2003.pdf attached. For example:
+
+·         Relationship to household head codes: 1- household head, 2- Spouse, 3- Child, 4- Daughter-in-law, 5- Grandchild, 6-Parent, 7- Other family, 8- Helper, 9- Other
+
+·         Civil status codes: 1- Not yet married, 2- Marries, 3- Separated, 4- Widowed
+
+·         Relative household wealth questions on income, quality of food, capacity to purchase clothing, health status etc
+
+·         VI. Housing: 1. Tenure status of occupied residential buildings: 1- Owner-occupied, 2- Contracted, 3- Rented, 4- Rent free, 5- Service, 6- Owned by parents, siblings, 7-Other
+
+·         VI Housing: 2. Roof material: 1-Concrete, 2-Tiled, 3- Shingle, 4- Zinc, 5- Asbestos, 6- Thatched, 7- Other
+
+... Agricultural Census for 2013 for Maluku province is published at: http://st2013.bps.go.id/st2013esya/booklet/at8100.pdf which may be a good secondary data source for us on regional livelihoods.
+

@@ -72,5 +72,8 @@ Also random and of interest:
 * [National Service Center for Environmental Publications](https://www.epa.gov/nscep)
 * [Cumulative Impact Assessment (Information paper submitted by ASOC)](https://www.asoc.org/storage/documents/Meetings/ATCM/XXXVIII/ATCM38_ip111_e.pdf)
 
+* [Good Practice Handbook - Cumulative Impact Assessment and Management: Guidance for the Private Sector in Emerging Markets ](https://www.ifc.org/wps/wcm/connect/3aebf50041c11f8383ba8700caa2aa08/IFC_GoodPracticeHandbook_CumulativeImpactAssessment.pdf?MOD=AJPERES)
+* [EXAMPLES OF POSSIBLE CUMULATIVE ENVIRONMENTAL IMPACTS](https://www.nsf.gov/pubs/2002/nsf02201/nsf02201_4.pdf)
+
 To improve this page: Link to broader discussion on impact assessment.  Link to resources on impact assessment.
 -->

@@ -70,6 +70,7 @@ Another early discussion on cumulative impacts: [EXAMPLES OF POSSIBLE CUMULATIVE
 
 Also random and of interest:
 * [National Service Center for Environmental Publications](https://www.epa.gov/nscep)
+* [Cumulative Impact Assessment (Information paper submitted by ASOC)](https://www.asoc.org/storage/documents/Meetings/ATCM/XXXVIII/ATCM38_ip111_e.pdf)
 
 To improve this page: Link to broader discussion on impact assessment.  Link to resources on impact assessment.
 -->

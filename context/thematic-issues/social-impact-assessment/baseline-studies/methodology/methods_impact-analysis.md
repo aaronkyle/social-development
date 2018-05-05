@@ -61,7 +61,15 @@ Access to basic services including water supply, sanitation, education and healt
 
 <!--
 Paper of interest to check out later:
-https://www.tandfonline.com/doi/pdf/10.3152/147154602781766807
+* [gis and environmental assessment](https://www.tandfonline.com/doi/pdf/10.3152/147154602781766807)
+* [cumulative impact assessment](https://link.springer.com/content/pdf/10.1007%2Fs002679900042.pdf)
+
+Early disucssion on cumulative / environmental impacts: [The Environmental Assessment Process: Chapter 1](http://siteresources.worldbank.org/INTTRANSPORT/Resources/336291-1107880869673/chap_1.pdf)
+
+Another early discussion on cumulative impacts: [EXAMPLES OF POSSIBLE CUMULATIVE ENVIRONMENTAL IMPACTS](https://www.nsf.gov/pubs/2002/nsf02201/nsf02201_4.pdf)
+
+Also random and of interest:
+* [National Service Center for Environmental Publications](https://www.epa.gov/nscep)
 
 To improve this page: Link to broader discussion on impact assessment.  Link to resources on impact assessment.
 -->

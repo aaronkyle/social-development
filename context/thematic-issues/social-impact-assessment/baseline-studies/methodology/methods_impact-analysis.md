@@ -58,3 +58,10 @@ Living in satisfactory housing conditions is one of the most important aspects o
 #### Access to Basic Services
 
 Access to basic services including water supply, sanitation, education and health is a determinant of a household’s health and ability to exploit livelihood opportunities.
+
+<!--
+Paper of interest to check out later:
+https://www.tandfonline.com/doi/pdf/10.3152/147154602781766807
+
+To improve this page: Link to broader discussion on impact assessment.  Link to resources on impact assessment.
+-->

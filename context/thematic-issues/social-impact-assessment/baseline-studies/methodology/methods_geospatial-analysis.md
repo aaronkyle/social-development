@@ -1,3 +1,5 @@
+Dropping in table of references from research done a couple of years back.  Note that many links are broken.
+
 <table>
 <tr><th>File Type</th><th>Article Title</th><th>Publication</th><th>Authors</th><th>Institutions</th><th>Year</th><th>Month</th><th>Day</th></tr>
 <tr><td><a href="http://www.gisdevelopment.net/application/lis/rural/srilanka.htm">webpage</a></td><td>Application of Participatory GIS for Rural Community Development and Local Level Spatial Planning System in Sri Lanka</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>

@@ -28,3 +28,7 @@ Landscape Analysis of High
 Conservation Value Forests (Version 1)"</td><td></td><td>"Dr Steve Jennings and Dr James Jarvie 
 with input from Nigel Dudley and Ketut Deddy"</td><td>ProForest (funded by WWF Switzerland)</td><td></td><td></td><td></td></tr>
 </table>
+
+<!--
+https://docs.google.com/spreadsheets/d/1rcH3dnHwwoSA4dN7vyDp-Sbp7nPAx5S9894IyNsMIY4/edit#gid=0
+-->

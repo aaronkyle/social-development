@@ -1,3 +1,5 @@
+Check out materials published on this topic by Forest People's program:
+
 <table>
 <tr><td>Forest Peoples Programme</td><td><a href="https://www.forestpeoples.org/en/work-themes/environmental-governance/participatory-resource-mapping">Participatory resource mapping</a></td></tr>
 <tr><td>Forest Peoples Programme</td><td><a href="http://www.forestpeoples.org/topics/participatory-resource-mapping/news/2013/02/ngoyla-mintom-forest-cameroon-perspective-baka">The Ngoyla-Mintom forest in Cameroon: The perspective of the Baka</a></td></tr>

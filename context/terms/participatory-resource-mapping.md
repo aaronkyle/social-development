@@ -1,4 +1,4 @@
-Check out materials published on this topic by Forest People's program:
+Check out materials published on this topic by Forest People's Programme:
 
 <table>
 <tr><td>Forest Peoples Programme</td><td><a href="https://www.forestpeoples.org/en/work-themes/environmental-governance/participatory-resource-mapping">Participatory resource mapping</a></td></tr>

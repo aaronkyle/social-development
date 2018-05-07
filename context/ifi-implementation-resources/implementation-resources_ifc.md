@@ -43,4 +43,30 @@
 
 * [IFC Guide to Human Rights Impact Assessment and Management (online tool)](http://www.guidetohriam.org/welcome) [(alt link; short PDF intro)](http://www.guidetohriam.org/app/images/documents/Guide%20to%20HRIAM%20booklet%20English.pdf)
 
+---
+
+* [Cumulative Impact Assessment and Management : Guidance for the Private Sector in Emerging Markets](https://openknowledge.worldbank.org/handle/10986/17842) | [PDF](https://openknowledge.worldbank.org/bitstream/handle/10986/17842/864920WP0IFC0G0IC00Department0CESPQ.pdf?sequence=1&isAllowed=y)
+
+
+---
+
+[BRIEF: Community Engagement Strategies](https://openknowledge.worldbank.org/handle/10986/29473) | [PDF](https://openknowledge.worldbank.org/bitstream/handle/10986/29473/124290-BRI-PUBLIC-KN15.pdf?sequence=1&isAllowed=y)
+
+---
+
+* [ESG RESOURCES FOR COMPANIES](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/tools+for+clients)
+
+Environmental and Social Training Courses
+
+* [Sustainability Training and E-Learning Program (STEP)](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/tools+for+clients#STEP)
+* [E-Learning Course on Managing Environmental and Social Performance](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/tools+for+clients#elearning)
+
+Resources for Financial Institutions
+
+* FIRST (Financial Institutions: Resources Solutions and Tools) for Sustainability](http://firstforsustainability.org/)
+
+IFC Sustainability Webinar Series
+
+The [IFC Sustainability Webinar Series](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/ifc_sustainability_webinars) offers IFC expertise and thought leadership on sustainability issues. Recorded sessions and presentation are available on our [website](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/ifc_sustainability_webinars).
+
 

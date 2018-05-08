@@ -18,7 +18,7 @@ To test whether photos you collect and store digitally contain EXIF data, check 
 
 * [Eric Nicolas' Photo Localizer](https://beta.observablehq.com/@ccjmne/photos-viewer)
     - Load geotagged pictures and visualize their position in the globe.
-* [Hiroaki Matoba's PiEXIF](https://github.com/hMatoba/piexifjs/blob/master/docs/about.rst)
+* [Hiroaki Matoba's PiEXIF](http://piexif-demo.appspot.com/demo)
     - Get a read of all EXIF data associated with a photo.
 
 ### Tools for Modifying EXIF Data

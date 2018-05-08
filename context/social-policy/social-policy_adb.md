@@ -7,7 +7,22 @@ Investments of the Asian Development Bank must accord with the [ADB Charter](htt
 
 [Social Policy](#adb-social-policy), in this context, is defined with respect to specific dimensions of ADB work, e.g. governance and anti-corruption. That is to say, ADB does not enumerate social policy as such, but rather seeks to attend to social development concerns fundamental to bank operations&mdash;although it does emphasize the need to pay particular attention to certain concerns, namely via its [safeguard policies](#adb-safeguards-policy).
 
+<!--
+
+Investments of the Asian Development Bank must accord with the [ADB Charter](http://www.adb.org/documents/agreement-establishing-asian-development-bank-adb-charter) . Investment decisions are made in deference to internal strategies for reaching developmental targets, and their implementation is guided by [a series of operational policies](#adb-operational-policy). Client obligations to avoid and mitigate social and environmental risks are specified in the ADB's **[Safeguard Policy Statement](#adb-safeguards-policy)**.
+
+-->
+
+
 This article seeks to identify social policy at the ADB, both in terms of [safeguard policies](#adb-safeguards-policy) and in terms of other [aspirational / developmental policies](#adb-development-policy) with a distinct focus on social development.
+
+<!--
+ADB regards policy as short, focused statements defining borrower client obligations that follow from [ADB's Charter](http://www.adb.org/documents/agreement-establishing-asian-development-bank-adb-charter "*Agreement Establishing the Asian Development Bank*, 1965"), [Asian Development Fund (ADF)](http://www.adb.org/site/adf/main) and [Regulations of Ordinary and Special Operations (OCR regulations)](http://www.adb.org/site/funds/ocr), as well as [other operational policies and strategies](http://www.adb.org/about/other-operational-policies-and-strategies) adopted by the [ADB Board of Directors](http://www.adb.org/about/board-directors).
+
+
+
+-->
+
 
 <a name="adb-operational-policy"></a>
 

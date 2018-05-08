@@ -30,6 +30,13 @@ Indigenous Peoples [[PDF]](http://www.adb.org/Documents/Guidelines/IndigenousPeo
 
 * [Implementation Notes on Public Consultation and Disclosure](# "Public_Consultation_Information_Disclosure.pdf")
 
+
+
+---
+
+* [Impact Evaluation of Development Interventions: A Practical Guide](https://www.adb.org/publications/impact-evaluation-development-interventions-practical-guide) (2017) | [PDF](https://www.adb.org/sites/default/files/publication/392376/impact-evaluation-development-interventions-guide.pdf)
+
+
 <!--
 *NOTE:* These documents are no longer available at the given links
 -->

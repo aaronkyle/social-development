@@ -1,4 +1,12 @@
 
+
+## Analysis of Social Impacts
+
+> Once the baseline data has been collected through a combination of secondary, qualitative, quantitative, participatory and consultative techniques, a good understanding should exist of the society in the project's area of influence and the general categories of impacts that may result. The next step is to analyze the information with the purpose of predicting and measuring with a greater level of both positive and negative impacts of the specificity project on the population. (IFC GPN pp. 9, 14)
+
+As the IFC indicates, the 'social impact analysis' (also referred to as 'social impact assessment') is a step that begins following the completion of 'baseline studies'. 
+
+
 ## Methods for Impact Analysis
 
 
@@ -50,3 +58,22 @@ Living in satisfactory housing conditions is one of the most important aspects o
 #### Access to Basic Services
 
 Access to basic services including water supply, sanitation, education and health is a determinant of a household’s health and ability to exploit livelihood opportunities.
+
+<!--
+Paper of interest to check out later:
+* [gis and environmental assessment](https://www.tandfonline.com/doi/pdf/10.3152/147154602781766807)
+* [cumulative impact assessment](https://link.springer.com/content/pdf/10.1007%2Fs002679900042.pdf)
+
+Early disucssion on cumulative / environmental impacts: [The Environmental Assessment Process: Chapter 1](http://siteresources.worldbank.org/INTTRANSPORT/Resources/336291-1107880869673/chap_1.pdf)
+
+Another early discussion on cumulative impacts: [EXAMPLES OF POSSIBLE CUMULATIVE ENVIRONMENTAL IMPACTS](https://www.nsf.gov/pubs/2002/nsf02201/nsf02201_4.pdf)
+
+Also random and of interest:
+* [National Service Center for Environmental Publications](https://www.epa.gov/nscep)
+* [Cumulative Impact Assessment (Information paper submitted by ASOC)](https://www.asoc.org/storage/documents/Meetings/ATCM/XXXVIII/ATCM38_ip111_e.pdf)
+
+* [Good Practice Handbook - Cumulative Impact Assessment and Management: Guidance for the Private Sector in Emerging Markets ](https://www.ifc.org/wps/wcm/connect/3aebf50041c11f8383ba8700caa2aa08/IFC_GoodPracticeHandbook_CumulativeImpactAssessment.pdf?MOD=AJPERES)
+* [EXAMPLES OF POSSIBLE CUMULATIVE ENVIRONMENTAL IMPACTS](https://www.nsf.gov/pubs/2002/nsf02201/nsf02201_4.pdf)
+
+To improve this page: Link to broader discussion on impact assessment.  Link to resources on impact assessment.
+-->

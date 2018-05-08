@@ -23,6 +23,22 @@
 * [Environmental and Social Management System Toolkit (2015)](http://documents.worldbank.org/curated/en/794121486383424061/Environmental-and-social-management-system-toolkit-general) [PDF](http://documents.worldbank.org/curated/en/794121486383424061/pdf/112174-WP-ESMS-Toolkit-General-PUBLIC.pdf)
 
 
+<!--
+
+
+* [Participation Sourcebook (1996)](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1996/02/01/000009265_3961214175537/Rendered/PDF/multi_page.pdf)
+
+
+* [Involuntary Resettlement Sourcebook: Planning and Implemention in Development Projects](http://publications.worldbank.org/ecommerce/catalog/product?item_id=2444882)
+* [Environmental Assessment Sourcebook and updates](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTSAFEPOL/0,,contentMDK:20509076~hlPK:1287595~menuPK:1286567~pagePK:64168445~piPK:64168309~theSitePK:584435,00.html)
+* [Environmental, Health and Safety Guidelines, April 2007](http://www1.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/IFC+Sustainability/Sustainability+Framework/Environmental,+Health,+and+Safety+Guidelines/)
+* [Getting to Green - A Sourcebook of Pollution Management Policy Tools for Growth and Competitiveness, April 2012](http://web.worldbank.org/WBSITE/DELETEDSITESBACKUP/0,,contentMDK:22856237~pagePK:210058~piPK:210062~theSitePK:244381,00.html)
+* [Physical Cultural Resources Safeguard Policy Guidebook 2009 (English)](http://siteresources.worldbank.org/INTSAFEPOL/Resources/PhysicalCulturalGuidebook.pdf)
+* [Physical Cultural Resources Safeguard Policy Guidebook 2009 (French)](http://siteresources.worldbank.org/INTSAFEPOL/Resources/FrenchCulturalResouces.pdf)
+
+-->
+
+
 <!-- 
 ### Evaluation Resources
 -->

@@ -1,5 +1,4 @@
-data={
-  return{
+{
     "name": "CAO Cases",
     "children": [
       {
@@ -286,4 +285,3 @@ data={
       }
     ]
   }
-}

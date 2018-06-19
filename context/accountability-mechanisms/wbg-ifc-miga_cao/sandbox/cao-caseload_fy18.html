@@ -14,10 +14,36 @@ circle {
 
 </style>
 <body>
-<script src="//d3js.org/d3.v3.min.js"></script>
-
+<script src="https://d3js.org/d3.v5.min.js"></script>
 <script>
-chart = {
+format = d3.format(",d")
+</script>  
+<script>
+width = 932
+</script>  
+<script>
+radius = width / 6
+</script>  
+<script>
+arc = d3.arc()
+    .startAngle(d => d.x0)
+    .endAngle(d => d.x1)
+    .padAngle(d => Math.min((d.x1 - d.x0) / 2, 0.005))
+    .padRadius(radius * 1.5)
+    .innerRadius(d => d.y0 * radius)
+    .outerRadius(d => Math.max(d.y0 * radius, d.y1 * radius - 1))
+</script>
+<script>
+partition = data => {
+  const root = d3.hierarchy(data)
+      .sum(d => d.size)
+      .sort((a, b) => b.value - a.value);
+  return d3.partition()
+      .size([2 * Math.PI, root.height + 1])
+    (root);
+}
+</script>    
+<script>
   const root = partition(data);
 
   root.each(d => d.current = d);
@@ -112,7 +138,6 @@ chart = {
   }
 
   return svg.node();
-}
 </script>
 </body>
 </html>

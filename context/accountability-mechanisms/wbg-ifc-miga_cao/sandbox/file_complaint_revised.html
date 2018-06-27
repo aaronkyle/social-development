@@ -62,7 +62,7 @@
                 <div id="logo" class="pull-left">
                     <h1>
                         <a href="./index.html" class="scrollto">
-                            <img src='.logo.png'/>
+                            <img src='./img/logo.png'/>
                         </a>
                     </h1>
                     <!-- Uncomment below if you prefer to use an image logo -->
@@ -271,12 +271,7 @@
     	<section id="filecompln" class="section-bg" style='padding:0px;'>
         	<div class="container-fluid" style="padding-left: 0px; padding-right: 0px;">
                 <div class="row">
-                	<div class="col-lg-9">
-                		<label class='' style='color:red;'>
-                			* Mandatory Fields <br class='visible-xs'>
-                			<span style='font-size:14px;'>(Only one form of contact information is mandatory: phone, email, and/or address.)</span>
-                		</label>
-                	</div>
+
                     <div class="col-lg-9 content wow Left">
 						<form>
 							<div class='card filecompln_leftcont'>
@@ -294,35 +289,43 @@
   										<input type='text' style='width:100%'>
   									</div>
   									<div class="col-lg-4">
-  										<label>Maintain Complainant Confidentiality&nbsp;<span data-toggle="tooltip" data-placement="bottom" title="CAO will not publish names of complainants unless authorized to do so. If you have any concerns for confidentiality, please select 'No'."><i class="fa fa-info-circle" aria-hidden="true" style='color:#58ac41;font-size:20px;'></i></span></label><br>
+  										<label>Confidentiality Request&nbsp;<span data-toggle="tooltip" data-placement="bottom" title="CAO will keep the identity of complainant confidential if requested."><i class="fa fa-info-circle" aria-hidden="true" style='color:#58ac41;font-size:20px;'></i></span></label><br>
   											<label class="innert_radio">Yes<input type="radio" name='mcc'><span class="checkmark"></span></label>
   												<label class="innert_radio">No<input type="radio" name='mcc' ><span class="checkmark"></span></label>
 
   									</div>
   								</div>
+                  <br />
                   <div class="row">
-                    <div class="col-lg-4">
-                        <label>Address</label>
-                        <input type='text' style='width:100%'>
-                  </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-6">
                       <label>Phone <span style='color:red'>*</span></label>
                       <input type='text' style='width:100%'>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-6">
                       <label>Email <span style='color:red'>*</span> </label><br>
                       <input type='text' style='width:100%'>
                     </div>
                 </div>
+                <br />
+                <div class="row">
+                  <div class="col-lg-12">
+                      <label>Address<span style='color:red'>*</span></label>
+                      <textarea rows="1" cols="60" placeholder='Please enter your address (minimum city and country).' style='width: 100%;'></textarea>
+                  <div class="col-lg-12">
+                    <label class='' style='color:red;'>
+                      <br class='visible-xs'><span style='font-size:12px;'>* Only one form of contact information is mandatory: address, email and/or phone number.</span>
+                    </label>
+                  </div>
 
                   <br/>
-									<label>Summary of Issues & Concerns <span style='color:red'>*</span></label><br>
+
+									<label>Summary of Issues & Concerns </label><br>
 									<textarea rows="6" cols="60" placeholder='Please describe your complaint. If you need more space or wish to supply supporting documentation, please use the file upload tool below.' style='width: 100%;'></textarea><br>
 
 
                   <div class="row">
                     <div class="col-lg-4">
-                      <label>Related Project(s)&nbsp;<span data-toggle="tooltip" data-placement="bottom" title="If you know the name of the project about which you are concerned, please enter it here.  If not, please describe the project in the 'Summary of Complaints' section below."><i class="fa fa-info-circle" aria-hidden="true" style='color:#58ac41;font-size:20px;'></i></span></label>
+                      <label>Project Name&nbsp;<span data-toggle="tooltip" data-placement="bottom" title="If you know the name of the project about which you are concerned, please enter it here.  If not, please describe the project in the 'Summary of Complaints' section below."><i class="fa fa-info-circle" aria-hidden="true" style='color:#58ac41;font-size:20px;'></i></span></label>
                       <input type='text' style='width:100%'>
                     </div>
                     <div class="col-lg-4">
@@ -339,9 +342,11 @@
 
 
 									<br>
-									<a data-toggle="collapse" data-target="#demo" style='color:#44b5f6; cursor:pointer'>+ Add Address</a>
+									<a data-toggle="collapse" data-target="#demo" style='color:#44b5f6; cursor:pointer'>+ Add further information.</a>
+
+
 									  <div id="demo" class="collapse"><br>
-										<label>Address <span style='color:red'>*</span></label>
+										<label>Address</label>
 										<div class="row">
 											<div class="col-lg-8">
 												<label>Street Address</label>
@@ -392,6 +397,8 @@
 									<br>
 								</div>
 							</div>
+            </div>
+
 							<br>
 
 							<div class='card filecompln_leftcont'>
@@ -447,10 +454,11 @@
 								</div>
 								<br>
 								</div>
-
 								</div>
-							</div><br>
-							<div class='card filecompln_leftcont'>
+							</div>
+              <br>
+
+              <div class='card filecompln_leftcont'>
 								<div style="margin: 30px; padding: 10px; background-color: #f5f6f7; display: flex; align-items: center;">
 									<input type='checkbox' style='width: 5%;'>I'm not a robot
 									<img src="../img/file_complaint/Captcha_icon.png" style="margin-left: auto">
@@ -461,6 +469,8 @@
 							<input type='button' value='Cancel' class='file_compln_cancel'>
 						</form>
 					</div>
+          </div>
+
 					<br>
 					<div class="col-lg-3 content wow ">
 						<div class='filecompln_rightcont'>

@@ -1,5 +1,5 @@
 |	Distribution	|	File Name	|	Author	|	Year	|	Date	|	Article Title	|	Publication Title	|	tags	|	URL	|
-|---|---|---|---|---|---|---|---|---|
+|	 ---	|	 ---	|	 ---	|	 ---	|	 ---	|	 ---	|	 ---	|	 ---	|	 ---	|
 |	limited circulation	|	turning the tide.pdf	|	CGPL	|	2014	|		|		|	Turning the Tide: Molding the Lives of Fishermen on the Coastal Belt of Kutch, Gujarat	|	stakeholder engagement	|	www.tatapower.com/cgpl-mundra/pdf/turning-tide.pdf	|
 |	limited circulation	|		|	Tata Power	|		|		|		|		|		|	www.tatapower.com/cgpl-mundra/pdf/dialogue-stakeholders.pdf	|
 |	public	|	ian_report_456.pdf	|	National Centre for Sustainabile Coastal Management; Gujarat Ecology Comission Gandhinagar	|	2014	|		|		|	"Gulf of Kachchh. A Framework for the Cumulative Environmental Impact Assessment.

@@ -1,15 +1,15 @@
 <table>
   <tr>
     <th>Distribution</th>
-    <th>File Name</th>
+    <th>File Name </th>
     <th>Author</th>
     <th>Year</th>
     <th>Date</th>
-    <th> Publication Title </th>
+    <th>Publication Title </th>
   </tr>
   <tr>
     <td>public</td>
-    <td>annual-report-shiiksha-sarthi-2016-17.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/annual-report-shiiksha-sarthi-2016-17.pdf">annual-report-shiiksha-sarthi-2016-17.pdf</a></td>
     <td>Pratham Education Foundation</td>
     <td>2016-2017</td>
     <td>5/31/2017</td>
@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>notice-of-98thagm.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/investor-relations/notice-of-98thagm.pdf">notice-of-98thagm.pdf</a></td>
     <td></td>
     <td>2016-2017</td>
     <td></td>
@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>annual-report-cr-cgpl15-16.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/annual-report-cr-cgpl15-16.pdf">annual-report-cr-cgpl15-16.pdf</a></td>
     <td>CGPL</td>
     <td>2015-2016</td>
     <td></td>
@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>annual-report-shiksha-sarthi15-16.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/annual-report-shiksha-sarthi15-16.pdf">annual-report-shiksha-sarthi15-16.pdf</a></td>
     <td>Pratham Education Foundation</td>
     <td>2015-2016</td>
     <td></td>
@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>air-report-tragadi-bunder-2014-15.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/air-report-tragadi-bunder-2014-15.pdf">air-report-tragadi-bunder-2014-15.pdf</a></td>
     <td>CEG Test House And Research Centre Pvt. Ltd.</td>
     <td>2014-2015</td>
     <td>30-Jan-15</td>
@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>annual-report-cr-cgpl14-15.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/annual-report-cr-cgpl14-15.pdf">annual-report-cr-cgpl14-15.pdf</a></td>
     <td></td>
     <td>2014-2015</td>
     <td>10/20/205</td>
@@ -57,7 +57,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>annual-report-shiiksha-sarthi-2014-15.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/annual-report-shiiksha-sarthi-2014-15.pdf">annual-report-shiiksha-sarthi-2014-15.pdf</a></td>
     <td>Pratham Education Foundation</td>
     <td>2014-2015</td>
     <td></td>
@@ -66,7 +66,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>dustfall-report-oct2014-jun2015.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/dustfall-report-oct2014-jun2015.pdf">dustfall-report-oct2014-jun2015.pdf</a></td>
     <td>CEG Test House And Research Centre Pvt. Ltd.</td>
     <td>2014-2015</td>
     <td></td>
@@ -74,7 +74,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>mm-plan.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/mm-plan.pdf">mm-plan.pdf</a></td>
     <td></td>
     <td>2018</td>
     <td></td>
@@ -82,7 +82,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>rap-status.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/rap-status.pdf">rap-status.pdf</a></td>
     <td></td>
     <td>2018</td>
     <td>Jan-18</td>
@@ -90,7 +90,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>analyst-call-transcript-q3-fy18.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/investor-relations/analyst-call-transcript-q3-fy18.pdf">analyst-call-transcript-q3-fy18.pdf</a></td>
     <td>Tata Power</td>
     <td>2018</td>
     <td>14-Feb-18</td>
@@ -98,7 +98,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>analyst-presentation-feb-18.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/investor-relations/analyst-presentation-feb-18.pdf">analyst-presentation-feb-18.pdf</a></td>
     <td>Tata Power</td>
     <td>2018</td>
     <td>14-Feb-18</td>
@@ -106,7 +106,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>notice-board-meeting.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/investor-relations/notice-board-meeting.pdf">notice-board-meeting.pdf</a></td>
     <td>Tata Power, H. M. Mistry</td>
     <td>2018</td>
     <td>23-Jan-18</td>
@@ -114,7 +114,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>CGPL-CSR-policy.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/CGPL-CSR-policy.pdf">CGPL-CSR-policy.pdf</a></td>
     <td>CGPL</td>
     <td>2017</td>
     <td></td>
@@ -122,7 +122,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>livelihood-improvement-plan.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/livelihood-improvement-plan.pdf">livelihood-improvement-plan.pdf</a></td>
     <td>Swadeep</td>
     <td>2017</td>
     <td></td>
@@ -130,7 +130,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>livelihood-improvement-plan.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/livelihood-improvement-plan.pdf">livelihood-improvement-plan.pdf</a></td>
     <td>Swadeep</td>
     <td>2017</td>
     <td>Apr-17</td>
@@ -138,7 +138,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>livelihood-improvement-plan-gujarati.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/livelihood-improvement-plan-gujarati.pdf">livelihood-improvement-plan-gujarati.pdf</a></td>
     <td>Swadeep</td>
     <td>2017</td>
     <td>Apr-17</td>
@@ -146,7 +146,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>corporate-profile.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/corporate-profile.pdf">corporate-profile.pdf</a></td>
     <td>Tata Power</td>
     <td>2017</td>
     <td></td>
@@ -154,7 +154,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>tata-power-stakeholder-meet.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/investor-relations/tata-power-stakeholder-meet.pdf">tata-power-stakeholder-meet.pdf</a></td>
     <td>"Anil Sardana CEO & Managing Director"</td>
     <td>2017</td>
     <td>7-Aug-17</td>
@@ -162,7 +162,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>Terms-&-conditions-of-IDs-appointment.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/Terms-&-conditions-of-IDs-appointment.pdf">Terms-&-conditions-of-IDs-appointment.pdf</a></td>
     <td></td>
     <td>2017</td>
     <td></td>
@@ -170,7 +170,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>baseline-health-profile-with-respect-to-air-quality-in-airshed-of-cgpl-power-plant.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/baseline-health-profile-with-respect-to-air-quality-in-airshed-of-cgpl-power-plant.pdf">baseline-health-profile-with-respect-to-air-quality-in-airshed-of-cgpl-power-plant.pdf</a></td>
     <td>"TALEEM Research Foundation City Plaza, Bopal, Ahmedabad 380 058, INDIA"</td>
     <td>2016</td>
     <td>24-Nov-16</td>
@@ -180,7 +180,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>cgpl-board-resolution-reconstitution-of-csr-committee.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/cgpl-board-resolution-reconstitution-of-csr-committee.pdf">cgpl-board-resolution-reconstitution-of-csr-committee.pdf</a></td>
     <td>CGPL</td>
     <td>2016</td>
     <td>2-Nov-16</td>
@@ -188,7 +188,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>CGPL-Compliance-to-IFC-E-S-Requirement .pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/CGPL-Compliance-to-IFC-E-S-Requirement%20.pdf">CGPL-Compliance-to-IFC-E-S-Requirement .pdf</a></td>
     <td></td>
     <td>2016</td>
     <td>Feb 01 2016</td>
@@ -196,7 +196,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>NIO-report.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/NIO-report.pdf">NIO-report.pdf</a></td>
     <td>National Institute of Oceanography (NIO)</td>
     <td>2016</td>
     <td>Feb-16</td>
@@ -204,7 +204,7 @@
   </tr>
   <tr>
     <td></td>
-    <td>Model Conformity Study (Worst Season).pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/NIO-report.pdf">Model Conformity Study (Worst Season).pdf</a></td>
     <td>"Soniya Sukumaran Senior Scientist National Institute of Oceanography, Council of Scientific and Industrial Research (CSIR), Regional Centre, Mumbai, India Email: soniya@nio.org"</td>
     <td>2016</td>
     <td>Feb-16</td>
@@ -212,7 +212,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>social-assessment-report-jan-2016.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/social-assessment-report-jan-2016.pdf">social-assessment-report-jan-2016.pdf</a></td>
     <td>ERM</td>
     <td>2016</td>
     <td>2016</td>
@@ -220,7 +220,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>CSR-Annual-Report-FY16.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/CSR-Annual-Report-FY16.pdf">CSR-Annual-Report-FY16.pdf</a></td>
     <td>Tata Power</td>
     <td>2016</td>
     <td></td>
@@ -228,7 +228,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>98Annual-Report-2016-17.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/investor-relations/98Annual-Report-2016-17.pdf">98Annual-Report-2016-17.pdf</a></td>
     <td>Tata Power</td>
     <td>2016</td>
     <td></td>
@@ -236,7 +236,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>csr-strategic-intent.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/csr-strategic-intent.pdf">csr-strategic-intent.pdf</a></td>
     <td></td>
     <td>2015</td>
     <td>16/04/2015</td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>umpp-greener-future121015.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/umpp-greener-future121015.pdf">umpp-greener-future121015.pdf</a></td>
     <td>CGPL</td>
     <td>2015</td>
     <td>2015</td>
@@ -252,7 +252,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>familiarisation-programme-for-directors.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/familiarisation-programme-for-directors.pdf">familiarisation-programme-for-directors.pdf</a></td>
     <td>Tata Power</td>
     <td>2015</td>
     <td></td>
@@ -260,7 +260,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>annual-report-cr-cgpl.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/annual-report-cr-cgpl.pdf">annual-report-cr-cgpl.pdf</a></td>
     <td>CGPL</td>
     <td>2014</td>
     <td></td>
@@ -268,7 +268,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>shiksha-sarthi-annual-report-pratham-1314.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/shiksha-sarthi-annual-report-pratham-1314.pdf">shiksha-sarthi-annual-report-pratham-1314.pdf</a></td>
     <td>Pratham Education Foundation</td>
     <td>2014</td>
     <td></td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>notice-of-candidature-jul-14.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/investor-relations/notice-of-candidature-jul-14.pdf">notice-of-candidature-jul-14.pdf</a></td>
     <td>Tata Power</td>
     <td>2014</td>
     <td>May 28 2014</td>
@@ -284,7 +284,7 @@
   </tr>
   <tr>
     <td>limited circulation</td>
-    <td>turning the tide.pdf</td>
+    <td><a href="www.tatapower.com/cgpl-mundra/pdf/turning-tide.pdf">turning the tide.pdf</a></td>
     <td>CGPL</td>
     <td>2014</td>
     <td></td>
@@ -292,7 +292,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>community-relations.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/community-relations.pdf">community-relations.pdf</a></td>
     <td>CGPL</td>
     <td>2013</td>
     <td></td>
@@ -300,7 +300,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>village-news-paper.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/village-news-paper.pdf">village-news-paper.pdf</a></td>
     <td></td>
     <td>2013</td>
     <td></td>
@@ -308,7 +308,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>important-notice.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/career/important-notice.pdf">important-notice.pdf</a></td>
     <td>Tata Power</td>
     <td>2012</td>
     <td></td>
@@ -316,7 +316,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>BNHS-Report-R1.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/BNHS-Report-R1.pdf">BNHS-Report-R1.pdf</a></td>
     <td>Bombay Natural History Society (BNHS)</td>
     <td>2012</td>
     <td>Mar-12</td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>dialogue-stakeholders.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/dialogue-stakeholders.pdf">dialogue-stakeholders.pdf</a></td>
     <td>CGPL</td>
     <td>2012</td>
     <td>9/13/2012</td>
@@ -332,7 +332,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>CGPL-9-3-2010.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/CGPL-9-3-2010.pdf">CGPL-9-3-2010.pdf</a></td>
     <td>GoI, Ministry of Environment and Forests</td>
     <td>2010</td>
     <td></td>
@@ -340,7 +340,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>NIO-Study-Feb-09.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/cgpl-mundra/NIO-Study-Feb-09.pdf">NIO-Study-Feb-09.pdf</a></td>
     <td></td>
     <td>2009</td>
     <td>Feb-09</td>
@@ -348,7 +348,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>Final+-+General+EHS+Guidelines.pdf</td>
+    <td><a href="https://www.ifc.org/wps/wcm/connect/554e8d80488658e4b76af76a6515bb18/Final+-+General+EHS+Guidelines.pdf?MOD=AJPERES">Final+-+General+EHS+Guidelines.pdf</a></td>
     <td>International Finance Corporation (IFC)</td>
     <td>2007</td>
     <td></td>
@@ -356,7 +356,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>CEC-700-2005-013.PDF</td>
+    <td><a href="www.energy.ca.gov/2005publications/CEC-700-2005-013/CEC-700-2005-013.PDF">CEC-700-2005-013.PDF</a></td>
     <td>Californian Energy Commission</td>
     <td>2005</td>
     <td></td>
@@ -364,7 +364,7 @@
   </tr>
   <tr>
     <td>limited circulation</td>
-    <td>air-report-tragadi-bunder-2014-15.pdf</td>
+    <td><a href="https://www.tatapower.com/cgplmundra/pdf/air-report-tragadi-bunder-2014-15.pdf">air-report-tragadi-bunder-2014-15.pdf</a></td>
     <td>CEG Test House</td>
     <td></td>
     <td></td>
@@ -372,7 +372,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>affirmative-action-policy.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/affirmative-action-policy.pdf">affirmative-action-policy.pdf</a></td>
     <td>Tata Power</td>
     <td></td>
     <td></td>
@@ -380,7 +380,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>Shareholder-Information-Booklet.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/investor-relations/Shareholder-Information-Booklet.pdf">Shareholder-Information-Booklet.pdf</a></td>
     <td>Tata Power</td>
     <td></td>
     <td></td>
@@ -388,7 +388,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>nomination-form-14.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/nomination-form-14.pdf">nomination-form-14.pdf</a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -397,7 +397,7 @@
   </tr>
   <tr>
     <td>public</td>
-    <td>Tata-Power-AGM2017.pdf</td>
+    <td><a href="https://www.tatapower.com/pdf/Tata-Power-AGM2017.pdf">Tata-Power-AGM2017.pdf</a></td>
     <td>Tata Power</td>
     <td></td>
     <td></td>
@@ -405,7 +405,7 @@
   </tr>
   <tr>
     <td>limited circulation</td>
-    <td></td>
+    <td><a href="www.tatapower.com/cgpl-mundra/pdf/dialogue-stakeholders.pdf"></a></td>
     <td>Tata Power</td>
     <td></td>
     <td></td>

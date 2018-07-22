@@ -80,7 +80,9 @@ Mundra Ultra Mega Power Project: [Annual Environmental and Social Monitoring Rep
 Environmental and Social Monitoring Reports	Jul 2016](https://www.adb.org/projects/documents/ind-mundra-umpp-apr-2015-mar-2016-esmr) | [PDF](https://www.adb.org/sites/default/files/project-document/202711/41946-014-esmr-36.pdf)
 
 ---
-41946-014-esmr-en_1.pdf
+[41946-014-esmr-en_1.pdf](https://www.adb.org/sites/default/files/project-documents/41946/41946-014-esmr-en_1.pdf)
+ENVIRONMENT & SOCIAL PERFORMANCE REPORT Quarterly Report (January 2017 to March 2017)
+
 
 APPENDICES
 
@@ -110,4 +112,48 @@ APPENDICES
     - Ambient Noise Monitoring Results at Villages – Graphical Plot from October’16 and December’ 16
 * Appendix 13: Safety Performance Data
     - Safety Performance Monitoring Data from January’17 to March’17
+    
+    
+    --- 
 
+[41946-014-esmr-36.pdf](https://www.adb.org/sites/default/files/project-document/202711/41946-014-esmr-36.pdf)
+
+Annual Environment & Social Monitoring Report
+(April 2015 to March 2016)
+
+    APPENDICES
+
+    * Appendix 1: Persons Interviewed
+        - List of Persons Interviewed
+    * Appendix 2: Quality of Blended Coal Used
+        - Blended Coal Used Quality from April 2015 to March 2016
+    * Appendix 3: Hazardous Waste Returns Records
+        - Sample Copy of Hazardous Waste Returns in Form 4 from April 2015 to March 2016
+    * Appendix 4: Cooling Water Temperature Records - Online
+        - Online Cooling Water Temperature Difference from April 2015 to March 2016
+    * Appendix 5: Cooling Water Temperature Records - Manual
+        - Manual Cooling Water Temperature Difference from April 2015 to March 2016
+    * Appendix 6: Manual Monitoring– Statistical Data Analysis (2015-16)
+        - Manual Stack Emission Records from April 2015 to March 2016
+    * Appendix 7: ETP Effluent Monitoring Details
+        - ETP Effluent Monitoring Records from April 2015 to March 2016
+    * Appendix 8: STP Treated Water Monitoring Results & Analysis (2015-16)
+        - STP at Project Site - Water Monitoring Records from April 2015 to March 2016
+    * Appendix 9: Ash Pond Bore Well Monitoring – Average
+        - Average Ash Pond Bore Well Monitoring Records from April 2015 to March 2016
+    * Appendix 10: Windrose Diagram and AAQ NETWORK
+        - Project Site Wind Rose Diagram for February 2016 and AAQ Network
+    * Appendix 11: AAQ Monitoring Results – PM10
+        - Graphical Representation of AAQ Monitoring Results – PM10 from April 2015 to March 2016
+    * Appendix 12: AAQ Monitoring Results – PM2.5
+        - Graphical Representation of AAQ Monitoring Results – PM2.5 from April 2015 to March 2016
+    * Appendix 13: AAQ Monitoring Results – SO2
+        - Graphical Representation of AAQ Monitoring Results – SO2 from April 2015 to March 2016
+    * Appendix 14: AAQ Monitoring Results – NOX
+        - Graphical Representation of AAQ Monitoring Results – NOX from April 2015 to March 2016
+    * Appendix 15: AMBIENT Noise Monitoring Results at Project Site
+        - Ambient Noise Monitoring Results at Project Site – Graphical Plot from April 2015 to March 2016
+    * Appendix 16: Ambient Noise Monitoring Results at Villages
+        - Ambient Noise Monitoring Results at Villages – Graphical Plot from January 2016 to March 2016
+    * Appendix 17: Safety Performance Data
+        - Safety Performance Monitoring Data from April 2015 to March 2016

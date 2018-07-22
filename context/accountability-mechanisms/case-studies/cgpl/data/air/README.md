@@ -1,34 +1,4 @@
-[Environment & Social Performance Report – Q2 FY 2017-18](https://www.adb.org/sites/default/files/project-documents/41946/41946-014-esmr-en_3.pdf)
 
-APPENDIX 2: QUALITY OF BLENDED COAL USED
-
-Blended Coal Used Quality from July’17 to September’17
-* Sulphur Content in Blended Coal Used
-* Ash Content in Blended Coal Used
-
-APPENDIX 3: COOLING WATER TEMPERATURERECORDS
-
-Manual Cooling Water Temperature Monitoring Records from July’17 to September’17
-
-Average Temperature Difference between Intake & Outfall Channel
-
-
-https://www.adb.org/sites/default/files/project-documents/41946/41946-014-esmr-en_1.pdf
-
-
----
-
-The Tata Power website hosts CEG Test House test results for the period of September 2014 through October 2015. CEG Test House. 2015. [Environmental Monitoring Report for M/S Coastal Gujarat Power Limited (A Tata Power Company) 4150 MW (5X830MW) Thermal Power Plant, Mundra, Gujarat. Location: Tragadi Bunder (2014-15)](https://www.tatapower.com/pdf/cgpl-mundra/air-report-tragadi-bunder-2014-15.pdf). 
-
---- 
-
-41946-014
-https://www.adb.org/projects/41946-014/main#project-documents
-
-Mundra Ultra Mega Power Project: [Annual Environmental and Social Monitoring Report (April 2015-March 2016)
-Environmental and Social Monitoring Reports	Jul 2016](https://www.adb.org/projects/documents/ind-mundra-umpp-apr-2015-mar-2016-esmr) | [PDF](https://www.adb.org/sites/default/files/project-document/202711/41946-014-esmr-36.pdf)
-
----
 
 |	Title	|	Document Date	|
 |	---|---|
@@ -78,4 +48,66 @@ Environmental and Social Monitoring Reports	Jul 2016](https://www.adb.org/projec
 |	Summary of Analysis of Ambient Air Quality and Emissions around Coastal Gujarat Power Limited Power Plant	|	Jan-18	|
 |	Summary of Analysis of Ambient Air Quality and Emissions around Coastal Gujarat Power Limited Power Plant (Gujarati Translation)	|	Jan-18	|
 
+
+[Environment & Social Performance Report – Q2 FY 2017-18](https://www.adb.org/sites/default/files/project-documents/41946/41946-014-esmr-en_3.pdf)
+
+APPENDIX 2: QUALITY OF BLENDED COAL USED
+
+Blended Coal Used Quality from July’17 to September’17
+* Sulphur Content in Blended Coal Used
+* Ash Content in Blended Coal Used
+
+APPENDIX 3: COOLING WATER TEMPERATURERECORDS
+
+Manual Cooling Water Temperature Monitoring Records from July’17 to September’17
+
+Average Temperature Difference between Intake & Outfall Channel
+
+
+https://www.adb.org/sites/default/files/project-documents/41946/41946-014-esmr-en_1.pdf
+
+
+---
+
+The Tata Power website hosts CEG Test House test results for the period of September 2014 through October 2015. CEG Test House. 2015. [Environmental Monitoring Report for M/S Coastal Gujarat Power Limited (A Tata Power Company) 4150 MW (5X830MW) Thermal Power Plant, Mundra, Gujarat. Location: Tragadi Bunder (2014-15)](https://www.tatapower.com/pdf/cgpl-mundra/air-report-tragadi-bunder-2014-15.pdf). 
+
+--- 
+
+41946-014
+https://www.adb.org/projects/41946-014/main#project-documents
+
+Mundra Ultra Mega Power Project: [Annual Environmental and Social Monitoring Report (April 2015-March 2016)
+Environmental and Social Monitoring Reports	Jul 2016](https://www.adb.org/projects/documents/ind-mundra-umpp-apr-2015-mar-2016-esmr) | [PDF](https://www.adb.org/sites/default/files/project-document/202711/41946-014-esmr-36.pdf)
+
+---
+41946-014-esmr-en_1.pdf
+
+APPENDICES
+
+* Appendix 1: Persons Interviewed
+    - List of Key Persons Interviewed
+* Appendix 2: Quality of Blended Coal Used
+    - Blended Coal Used Quality from January’17 to March’17
+* Appendix 3: Cooling Water Temperature Records
+    - Manual Cooling Water Temperature Monitoring Records from January’17 to March’17
+* Appendix 4: Flue Gas Emission Detials
+    - Manual Stack Emission Records from January’17 to March’17
+* Appendix 5: ETP Effluent Monitoring Details
+    - ETP Effluent Monitoring Records from January’17 to March’17
+* Appendix 6: Sewage and STP Treated Water Monitoring Details
+    - STP Water Monitoring Records from January’17 to March’17
+* Appendix 7: AAQ Monitoring Results – PM10
+    - Graphical Representation of AAQ Monitoring Results – PM10 from January’17 to March’17
+* Appendix 8: AAQ Monitoring Results – PM2.5
+    - Graphical Representation of AAQ Monitoring Results – PM2.5 from January’17 to March’17
+* Appendix 9: AAQ Monitoring Results – SO2
+    - Graphical Representation of AAQ Monitoring Results – SO2 from January’17 to March’17
+* Appendix 10: AAQ Monitoring Results – NOX
+    - Graphical Representation of AAQ Monitoring Results – NOX from January’17 to March’17
+* Appendix 11: Ambient Noise Monitoring Results at Project Site
+    - Ambient Noise Monitoring Results at Project Site – Graphical Plot from October’16 and December’ 16
+* Appendix 12: Ambient Noise Monitoring Results at Villages
+    - Ambient Noise Monitoring Results at Villages – Graphical Plot from October’16 and December’ 16
+* Appendix 13: Safety Performance Data
+    - Safety Performance Monitoring Data from January’17 to March’17
 

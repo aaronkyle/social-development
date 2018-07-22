@@ -1,3 +1,5 @@
+[air-report-tragadi-bunder-2014-15.pdf](https://www.tatapower.com/pdf/cgpl-mundra/air-report-tragadi-bunder-2014-15.pdf)
+
 |	Parameter	|	Method of Test 	|	Unit	|	NAAQ No. Standard # 	|
 |	 ---	|	 ---	|	 ---	|	 ---	|
 |	PM10 (Size :51 Oμm)	|	 IS: 5182 (Part- 23)	|	 μg/m3	|	100	|

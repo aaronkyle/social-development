@@ -501,5 +501,38 @@ S.O.248(E), [28/2/2003] - Amendments to S.O.60(E) dated 27/1/1994 [html], [pdf],
 S.O.801(E), [7/7/2004] - Amendments to S.O.60(E) dated 27/1/1994. English - [html], [pdf], and [word] Hindi - [pdf]
 
 
+http://www.envfor.nic.in/legis/bio-diversity.htm
+
+   Legislations 
+
+Biodiversity
+  
+Rule
+G.S.R.261 (E), [15/04/2004] - Biological Diversity Rules, 2004, [html], [pdf] and [word].
+
+
+Act
+
+Biological Diversity Act, 2002 [html]. 
+
+NO. 18 of 2003, [5/2/2003] - The Biological Diversity Act, 2002 [html]. 
+
+
+S.O.753(E), [01/07/2004]- Coming in to force of sextions of the Biodiversity Act, 2002.[html], [pdf] and [word].
+
+
+S.O.497 (E), [15/04/2004]- Appointment of non-official members on NBA from 1st October, 2003.[html], [pdf]and [word].
+
+
+S.O.1147 (E)- Establishment of National Biodiversity Authority from 1st October, 2003.[html], [pdf] and [word].
+
+S.O.1146 (E)- Bringing into force Sections 1 and 2; Sections 8 to 17; Sections 48,54,59,62,63,64 and 65 w.e.f. 1st October, 2003.
+[html], [pdf] and [word].
+
+S.O.2708 (E)- Central Government authorises the officers to file complaints with regards to offences punishable under the Biological Diversity Act, 2002, Notification. [pdf] .
+
+S.O.120 (E)- Central Government authorises the officers to file complaints with regards to offences punishable under the Biological Diversity Act, 2002,Amendment Notification. [pdf] .
+
+Designation of repositories under the Biological Diversity Act, 2002 . [pdf] .
 
 -->

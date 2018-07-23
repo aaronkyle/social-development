@@ -348,14 +348,6 @@
   </tr>
   <tr>
     <td>public</td>
-    <td><a href="https://www.ifc.org/wps/wcm/connect/554e8d80488658e4b76af76a6515bb18/Final+-+General+EHS+Guidelines.pdf?MOD=AJPERES">Final+-+General+EHS+Guidelines.pdf</a></td>
-    <td>International Finance Corporation (IFC)</td>
-    <td>2007</td>
-    <td></td>
-    <td><a href="https://www.ifc.org/wps/wcm/connect/554e8d80488658e4b76af76a6515bb18/Final+-+General+EHS+Guidelines.pdf?MOD=AJPERES">Environmental, Health, and Safety: General Guidelines [30 April 2007]</a></td>
-  </tr>
-  <tr>
-    <td>public</td>
     <td><a href="www.energy.ca.gov/2005publications/CEC-700-2005-013/CEC-700-2005-013.PDF">CEC-700-2005-013.PDF</a></td>
     <td>Californian Energy Commission</td>
     <td>2005</td>

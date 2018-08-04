@@ -178,11 +178,13 @@ The Manual describes how IFC conducts its environmental and social due diligence
 
 Earlier versions of IFC's environmental and social policies, procedures, and standards are provided as reference material only.
 
-* Environmental and Social Review Procedure (April 2013) [PDF]
-* Environmental and Social Review Procedure (February 2009) [PDF]
-* Environmental and Social Review Procedure (July 2007) [PDF]
-* Environmental and Social Review Procedure (April 2006) [PDF]
-* Environmental and Social Review Procedure (December 1998) [PDF]
+[ENVIRONMENTAL AND SOCIAL REVIEW PROCEDURES MANUAL](https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Policies-Standards/ES-Proc-Manual)
+
+* [Environmental and Social Review Procedure (April 2013)](https://www.ifc.org/wps/wcm/connect/d0db8c41-cfb0-45e9-b66a-522c88f270a5/ESRP_Oct2016.pdf?MOD=AJPERES)  [PDF]
+* [Environmental and Social Review Procedure (February 2009)](https://www.ifc.org/wps/wcm/connect/190d25804886582fb47ef66a6515bb18/ESRP2014.pdf?MOD=AJPERES)  [PDF]
+* [Environmental and Social Review Procedure (July 2007)](https://www.ifc.org/wps/wcm/connect/1fcd4880488559908374d36a6515bb18/ESRP2009.pdf?MOD=AJPERES)  [PDF]
+* [Environmental and Social Review Procedure (April 2006)](https://www.ifc.org/wps/wcm/connect/befd3a80488559a683a4d36a6515bb18/ESRP2006.pdf?MOD=AJPERES)  [PDF]
+* [Environmental and Social Review Procedure (December 1998)](https://www.ifc.org/wps/wcm/connect/8b64370048855267ab74fb6a6515bb18/ESRP1998.pdf?MOD=AJPERES) [PDF]
 
 
 ### Former Environmental and Social Safeguards and Supporting Materials

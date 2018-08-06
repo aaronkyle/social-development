@@ -1,0 +1,1 @@
+The Compliance Advisor Ombudsman (CAO) is the independent recourse mechanism for the International Finance Corporation (IFC) and Multilateral Investment Guarantee Agency (MIGA). The CAO responds to complaints from project-affected communities with the goal of enhancing social and environmental outcomes on the ground. 

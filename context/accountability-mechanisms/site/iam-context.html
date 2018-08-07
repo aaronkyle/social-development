@@ -3,28 +3,34 @@
 
 <head>
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="">
 
-    <title>IAMs: A Comparison</title>
+  <title>IAMs</title>
 
-    <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!-- Bootstrap Core CSS -->
+  <!-- <link href="css/bootstrap.min.css" rel="stylesheet"> -->
 
-    <!-- Custom CSS -->
-    <style>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+  <!-- DataTables CSS-->
+
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+
+  <!-- Custom CSS -->
+  <style>
     body {
-        padding-top: 70px;
-        /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+      padding-top: 70px;
+      /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
     }
-    </style>
+  </style>
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
@@ -34,45 +40,37 @@
 <body>
 
   <!-- Navigation -->
-  <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-      <div class="container">
-          <!-- Brand and toggle get grouped for better mobile display -->
-          <div class="navbar-header">
-              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                  <span class="sr-only">Toggle navigation</span>
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-              </button>
-              <a class="navbar-brand" href="index.html">IAM research</a>
+  <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top" role="navigation">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <a class="navbar-brand" href="index.html">IAM research</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+    <!--  </div>-->
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <!--<ul class="nav navbar-nav navbar-right">-->
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item dropdown">
+          <a href="" class="nav-link dropdown-toggle" id="dropdown01" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">IAMnet<span class="caret"></span></a>
+          <!--<ul class="dropdown-menu">-->
+          <div class="dropdown-menu" aria-labelledby="dropdown01">
+            <!--<li>--><a class="dropdown-item active" href="iam-context.html">Context</a>
           </div>
-          <!-- Collect the nav links, forms, and other content for toggling -->
-          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-              <ul class="nav navbar-nav navbar-right">
-                  <li>
-                      <a href="iam-context.html">Context</a>
-                  </li>
+          <!--</ul>-->
+          <li class="nav-item">
+            <a class="nav-link" href="iam-analysis.html">Analysis</a>
+          </li>
+        </li>
 
-                  <li class="dropdown">
-                  <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">IAMnet<span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="#">Structure</a></li>
-                        <li><a href="iam-wg-standards.html">Standards Working Group</a></li>
-                        <li><a href="iam-wg-reprisals.html">Reprisals Working Group</a></li>
-                    </ul>
-                    <li>
-                        <a href="iam-analysis.html">Analysis</a>
-                    </li>
-                  </li>
-
-                  <li>
-                      <a href="#">Contact</a>
-                  </li>
-              </ul>
-          </div>
-          <!-- /.navbar-collapse -->
-      </div>
-      <!-- /.container -->
+        <li class="nav-item">
+          <a class="nav-link" href="#">Contact</a>
+        </li>
+      </ul>
+    </div>
+    <!-- /.navbar-collapse -->
+    <!-- </div> -->
+    <!-- /.container -->
   </nav>
 
     <!-- Page Content -->

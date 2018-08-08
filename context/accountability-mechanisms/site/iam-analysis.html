@@ -41,40 +41,25 @@
 
   <!-- Navigation -->
   <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top" role="navigation">
-    <!-- <div class="container"> -->
     <!-- Brand and toggle get grouped for better mobile display -->
-    <!--<div class="navbar-header">-->
     <a class="navbar-brand" href="index.html">IAM research</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-toggler-icon"></span>
-                    <!--<span class="sr-only">Toggle navigation</span>-->
-                    <!--<span class="icon-bar"></span>-->
-                    <!--<span class="icon-bar"></span>-->
-                    <!--<span class="icon-bar"></span>-->
                 </button>
     <!--  </div>-->
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <!--<ul class="nav navbar-nav navbar-right">-->
       <ul class="navbar-nav ml-auto">
-        <li class="nav-item active">
-          <a class="nav-link" href="iam-context.html">Context</a>
-        </li>
-
         <li class="nav-item dropdown">
           <a href="" class="nav-link dropdown-toggle" id="dropdown01" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">IAMnet<span class="caret"></span></a>
           <!--<ul class="dropdown-menu">-->
           <div class="dropdown-menu" aria-labelledby="dropdown01">
-            <!--<li>--><a class="dropdown-item" href="#">Structure</a>
-            <!--</li>-->
-            <!--<li>--><a class="dropdown-item" href="iam-wg-standards.html">Standards Working Group</a>
-            <!--</li>-->
-            <!--<li>--><a class="dropdown-item" href="iam-wg-reprisals.html">Reprisals Working Group</a>
-            <!--</li>-->
+            <!--<li>--><a class="dropdown-item" href="iam-context.html">Context</a>
           </div>
           <!--</ul>-->
           <li class="nav-item">
-            <a class="nav-link" href="iam-analysis.html">Analysis</a>
+            <a class="nav-link active" href="iam-analysis.html">Analysis</a>
           </li>
         </li>
 
@@ -143,24 +128,27 @@
 
 <hr>
 <!--second navbar-->
+            <!--
     <div class="navbar navbar-inner" role="navigation">
         <div id="exTab1" class="container">
+        -->
             <!-- Collect the nav links, forms, and other content for toggling -->
-                <ul class="nav nav-pills">
-                    <li class="active">
-                        <a  href="#1a" data-toggle="tab">Defining Good Practice</a>
+                <ul class="nav nav-pills" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#one" role="tab" data-toggle="tab">Defining Good Practice</a>
                     </li>
-                    <li>
-                        <a href="#2a" data-toggle="tab">Complaint Handling Comparison</a>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#two" role="tab" data-toggle="tab">Complaint Handling Comparison</a>
                     </li>
-                    <li>
-                        <a href="#3a" data-toggle="tab">Tables</a>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#three" role="tab" data-toggle="tab">Tables</a>
                     </li>
                 </ul>
             <!-- /.navbar-collapse -->
-
+            <!-- Tab panes -->
             <div class="tab-content">
-              <div class="tab-pane active" id="1a">
+
+              <div role="tabpanel" class="tab-pane active" id="one">
                 <h2 id="toward-a-normative-definition-of-good-practice">Toward a Normative Definition of ‘Good Practice’</h2>
 
               <p>In reviewing the practices of IAMs, one can identify ‘established’ and ‘common practices’:</p>
@@ -191,7 +179,7 @@
               </ul>
               <p></p>
             </div>
-             <div class="tab-pane" id="2a">
+             <div role="tabpanel" class="tab-pane" id="two">
                <h2 id="a-review-of-iam-complaint-handling-practices">A Review of IAM Complaint Handling Practices</h2>
                <h3 id="registration">Registration</h3>
                <p>It is an established practice that IAMs have autonomy to register a complaint without Board / Presidential approval.</p>
@@ -236,14 +224,7 @@
                <li>Most IAMs reviewed (5/7) follow this practice.</li>
                </ul>
            </div>
-            <div class="tab-pane" id="3a">
-              <ul>
-                <li><a href="iam-institutional-oversight_table.html">Institutional Oversight of IAM Processes</a></li>
-                <li><a href="iam-action-plan-involvement_table.html">IAM involvement in Institutional Action Plans</a></li>
-                <li><a href="iam-complainant-involvement_table.html">Complainant Involvement in Institutional Action Plans</a></li>
-                <li><a href="iam-compliance-monitoring_table.html">IAM Compliance Monitoring </a></li>
-              </ul>
-
+            <div role="tabpanel" class="tab-pane" id="three">
               <h1>Institutional Oversight of IAM Processes</h1>
               <p>Board / President makes decision on:</p>
 
@@ -544,9 +525,14 @@
 
           </div>
         </div>
+
+<!--
         </div>
+        -->
         <!-- /.container -->
+<!--
     </div>
+    -->
 <!--second navbar-->
 
 <hr>

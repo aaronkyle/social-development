@@ -3,6 +3,8 @@
 
 I just recently started working on international accountability mechanisms.  My work will focus on those mechanisms within the [Independent Accountability Mechanisms Network (IAMnet)](http://independentaccountabilitymechanism.net/)&mdash;a professional membership network.
 
+This page is available as a searchable table [here](http://applied-anthro.com/context/accountability-mechanisms/site/index.html).
+
 Members of IAMnet currently include:<sup>[[ref]](http://independentaccountabilitymechanism.net/)</sup>
 
 * African Development Bank (AfDB) - [Independent Review Mechanism](https://www.afdb.org/en/about-us/organisational-structure/independent-review-mechanism-irm/) (IRM)

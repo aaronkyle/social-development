@@ -1,0 +1,1 @@
+The work in this repository is either original or I link to the original source (or my best approximation).  I represent only my own views, try not to pass immediate judgement on others, and seek to find ways of understanding and managing felt, human impact.  Please don't hack or sue me.

@@ -13,3 +13,31 @@ As of May 2011, the Inspection Panel had received 72 formal requests for inspect
 As the first of the IFI accountability mechanisms, the Inspection Panel remains the only one without a dispute-resolution function at the corporate level. Each of the subsequently created mechanisms has dual, or even tripartite functions where advisory functions have been added. An example of a mechanism with three functions is the IFC and MIGA’s Compliance Advisor/Ombudsman (“CAO”), worthy of review as a final example.
 
 **NOTE:** *IBRD/IDA has alternative structure:* *GRS*
+
+---
+
+http://ewebapps.worldbank.org/apps/ip/Pages/Panel-Mandate.aspx
+
+
+Panel Resolution and Mandate
+
+The Panel was officially created by two resolutions of the International Bank for Reconstruction and Development (IBRD) and the International Development Agency (IDA) on September 22, 1993 (Resolution IBRD 93–10 and Resolution IDA 93–6). It is referred to collectively as “the Resolution” because of their identical content. The Resolution specifies that the Panel has jurisdiction with respect to operations supported by the IBRD and the IDA.
+The Resolution establishes the basic mandate and structure of the Panel. At its core, and in response to requests from affected people, the Panel has the power to carry out independent investigations of Bank-financed projects to determine whether the Bank is in compliance with its operational policies and procedures, and to make related findings of harm. The Panel reports its findings to the Bank’s Board of Executive Directors. Bank Management is required to prepare a response with recommendations and actions to address the Panel’s findings of noncompliance and harm. The Board of Executive Directors considers both the Panel’s findings and Management’s response and decides future actions. In 1996 and 1999 Clarifications were added to the Resolution.
+
+Resolution Establishing the Panel (September 22, 1993)
+Français|Português|Español
+
+1996 Review of the Resolution
+
+1999 Clarification of the Second Review
+
+Joint Statement on Use of Country Systems (June 08, 2004)
+
+Piloting a New Approach to Support Early Solutions in the Inspection Panel
+2014 Updated Operating Procedures
+Retaliation Guidelines
+
+
+
+---
+

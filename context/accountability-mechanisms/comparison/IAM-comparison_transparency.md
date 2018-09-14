@@ -1,0 +1,21 @@
+
+Transparency
+
+All of the mechanisms have websites on which they publish their annual reports, but the level of information from site to site varies dramatically. All of the websites, except OPIC’s, have their policies and procedures available to the public on the website. OPIC does not have a full ‘policies and procedures’ document (as one does not exist), but rather only has the Board resolution creating the mechanism (which is only partially operationalized in practice) and information on various web pages.
+
+Public registries on mechanism websites are a primary way of remaining transparent. All of the mechanisms, except EIB, have a public registry of all requests registered, but only OPIC and AfDB require a public registry for all claims submitted. The EBRD, WBIP, ADB, and IADB require public disclosure of compliance eligibility reports, while EBRD, CAO, and IADB require public disclosure of problem solving eligibility reports. All of the mechanisms require public disclosure of final compliance review reports, final problem solving reports, and the final decisions, except for the EIB, which only discloses summaries of such reports for cases where confidentiality has been waived. All of the mechanisms, except for EIB, require public disclosure of recommendations.
+
+Follow-up/monitoring reports (when applicable) are required to be made public for EBRD, IADB, CAO, and ADB, but not for the others. Only the WB IP requires public disclosure of investigators.
+Professionalism and Effectiveness
+
+Each mechanism, except the WB IP, has both a problem solving function and a compliance review function. Only EIB and CAO have an official advisory function. EIB is the only mechanism with the right to appeal, with a process for unsatisfied claimants to complain to the European Ombudsman. Most of the mechanisms have training procedures, but AfDB, EIB, and OPIC are lacking important provisions for training the institution’s staff about the mechanism. Most of the mechanisms require that information about the mechanism be distributed to project sponsors (except IADB, AfDB, and EIB).
+
+The time limits and efficiency guidelines for the mechanisms and the different steps in the process vary. EBRD and ADB are most efficient with a 2-5 day decision about whether to register the complaint. The CAO and IADB determine eligibility and which function to use quickly (within 2-3 weeks of registration). Only ADB and EIB offer an estimated full process timeline of less than 6 months, but these overall time limits may be unattainable in many cases. All of the mechanisms, except OPIC, have a provision that allows for the extension of time limits that are in place.
+
+For mechanisms that have both problem solving and compliance review functions, their rules of sequencing differ. Simultaneous use of both functions is permitted only at the EBRD, EIB, and OPIC. None of the institutions require the project to be suspended while the claim is brought, although some allow the mechanism to recommend that it be suspended (EBRD, AfDB, ADB, IADB).
+
+Once the claim is accepted, the institutions’ procedures differ. Only the IADB allows the project sponsor to respond to the claim, and only EBRD has a provision that allows the claimants to respond to opposing party responses to the claim.
+
+Other than IADB, which only allows review of records, all of the mechanisms allow site visits for eligibility determinations. All of the mechanisms allow site visits in the investigation phase, however, none of the mechanisms require site visits. Only WB IP has a provision to allow site visits to communicate outcomes to claimants, but the other mechanisms don’t prohibit such a visit.
+
+Only EBRD, AfDB, and WB IP require management to create an action plan to address eligible claims. After the final report, all of the mechanisms allow monitoring at some level. Most of the mechanisms have the independent ability to undertake monitoring, but WB IP and IADB require the Board to request a monitoring process. EBRD and ADB are notable because they require that follow up and monitoring reporting be done in consultation with the claimants. There is a positive trend shown by EBRD, ADB, and IADB to require monitoring reports to be released on a specific time frame (annually by ADB; bi-annually for EBRD and IADB).

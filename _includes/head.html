@@ -4,13 +4,20 @@
   <meta content="width=device-width, initial-scale=1, maximum-scale=2, user-scalable=no" name="viewport" />
   <meta content="#ffffff" name="theme-color" />
   {%- seo -%}
+  <!-- REMOVING BROKEN CSS
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  <!-- adding semantic.ui -->
+-->
+  <!-- REMOVING semantic.ui
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <link href="../../assets/semantic-custom-stylesheets/pandoc-code-highlight.css" rel="stylesheet" type="text/css" />
     <link href="../../assets/semantic-custom-stylesheets/custom.css" rel="stylesheet" type="text/css" />
+ -->
+    <!-- ADDING BOOTSTRAP 4 -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  
+  
   <!-- end: adding semantic.ui -->
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}

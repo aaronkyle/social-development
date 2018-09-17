@@ -1,17 +1,9 @@
-<footer class="section footer-classic context-dark bg-image">
+<footer class="bg-dark text-white">
+
+<!-- commenting out elements of original footer -->
+<!--
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
-  <!-- commenting out original footer
-  <div class="wrapper">
-  -->
-
-<!-- commenting out repeated use of site tite -->
-<!--
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
--->
-
-    <!-- customizing footer -->
-<!--
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
@@ -27,6 +19,7 @@
             {%- endif -%}
         </ul>
       </div>
+   </div>
 
       <div class="footer-col footer-col-2">
         {%- include social.html -%}
@@ -35,8 +28,7 @@
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
       </div>
--->
-    <!-- commenting out original footer
+
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
@@ -53,63 +45,31 @@
             {%- endif -%}
         </ul>
       </div>
-    
-    
     </div>
 
-  </div>
   -->
     
-    <div class="section footer-classic context-dark bg-image">
-    <div class="container">
+<div class="container">
       <div class="row">
-        <div class="col-md-3">
-          <h4 class="ui inverted header">About</h4>
-          <div class="ui inverted link list">
-            <a href="http://applied-anthro.com/site/about/" class="item">Context of Inquiry</a>
-            <a href="#" class="item">Site Map</a>
-            <a href="http://applied-anthro.com/site/bio/" class="item">Authorship & Attribution</a>
-          </div>
+        <div class="col-md-4">
+          <h6 class="">About</h6>
+            <a href="http://applied-anthro.com/site/about/" class="item">Context of Inquiry</a><br />
+            <a href="#" class="item">Site Map</a><br />
+            <a href="http://applied-anthro.com/site/bio/" class="item">Authorship & Attribution</a><br />
         </div>
-        <div class="col-md-3">
-          <h4 class="ui inverted header">Legal</h4>
-          <div class="ui inverted link list">
-            <a href="./license.md" class="item">Licences</a>
-            <a href="#" class="item">Terms and Conditions</a>
+        <div class="col-md-4">
+          <h6 class="">Legal</h6>
+            <a href="./license.md" class="item">Licences</a><br />
+            <a href="#" class="item">Terms and Conditions</a><br />
             <a href="./disclaimer.md" class="item">Caveats & Disclaimers</a>
-          </div>
         </div>
-        <!--
-        <div class="three wide column">
-          <h4 class="ui inverted header">Group 3</h4>
-          <div class="ui inverted link list">
-            <a href="#" class="item">Link One</a>
-            <a href="#" class="item">Link Two</a>
-          </div>
-        </div>
-        -->
-        <div class="col-md-6">
-          <h4 class="ui inverted header">Let's be in touch!</h4>
-          <style media="screen" type="text/css">
-            a { color:inherit; }
-            a:visited { color: rgb(119, 119, 120); }
-            a:hover { color: #fff; }
-          </style>
-          <p><a href="mailto:aaron@categori.se"><i class="envelope link icon"></i></a><a href="https://github.com/aaronkyle/social-development"><i class="github alternate link icon"></a></i><i class="linkedin link icon"><a href="https://www.linkedin.com/in/akdennis/"></i></a></p>
-          <p>Please reach out if there's anything in here that piques your interest!</p>
+
+        <div class="col-md-4">
+          <h6 class="">Let's be in touch!</h6>
+                    <p><a href="mailto:aaron@categori.se"><i class="envelope link icon"></i></a><a href="https://github.com/aaronkyle/social-development"><i class="github alternate link icon"></a></i><i class="linkedin link icon"><a href="https://www.linkedin.com/in/akdennis/"></i></a></p>
+          <p>Please reach out if there's anything in here that piques your interest.</p>
         </div>
       </div>
-      <!--
-      <div class="ui inverted section divider"></div>
-      <img src="assets/images/logo.png" class="ui centered mini image">
-      <div class="ui horizontal inverted small divided link list">
-        <a class="item" href="#">Site Map</a>
-        <a class="item" href="#">Contact Us</a>
-        <a class="item" href="#">Terms and Conditions</a>
-        <a class="item" href="#">Privacy Policy</a>
       </div>
-      -->
-    </div>
-  </div>
   
 </footer>

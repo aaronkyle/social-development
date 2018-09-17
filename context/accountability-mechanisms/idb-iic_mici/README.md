@@ -1,4 +1,5 @@
 
+<!--
 https://idblegacy.iadb.org/en/about-us/administrative-tribunal/frequently-asked-questions,20698.html?isajaxrequest&actionuserstats=close&valcookie=
 
 This document is intended to provide general information to help readers answer some basic questions about how the Administrative Tribunal of the Inter-American Development Bank Group (“IDB Group”).
@@ -85,5 +86,5 @@ Tel. (202) 623 2545
 
 tribunal@iadb.org
 
----
+--->
 

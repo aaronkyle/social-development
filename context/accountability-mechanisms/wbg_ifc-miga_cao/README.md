@@ -97,3 +97,207 @@ In both its Ombudsman and Compliance roles, the CAO has broad investigatory powe
 
 As of the end of 2010, the CAO’s office had received 79 claims, involving 41 different projects. While some of these claims have resulted in long and complex involvement by the CAO, others have involved relatively short interventions.
 
+
+---
+http://www.cao-ombudsman.org/newsroom/documents/CAOOutreachPresentation-GhanaVC-December2017.pdf
+
+Independent Accountability
+Mechanism for IFC & MIGA,
+World Bank Group
+Meeting with Civil Society
+Organizations in Accra, Ghana
+December 14, 2017
+
+## What is CAO?
+
+* Independent accountability mechanism (“grievance mechanism”) for IFC and MIGA – the private sector arms of the World Bank Group
+* CAO addresses complaints from communities affected by IFC and MIGA projects
+* The goal of CAO’s work is to improve environmental and social project outcomes
+
+## Why was CAO Created?
+* “50 Years is Enough”: Pressure on World Bank Group in 1990s due to ‘problem projects’ and perceived lack of accountability
+* CAO was established in 1999 to provide redress for local communities impacted by IFC and MIGA projects
+* Today, all multilateral banks have Independent Accountability Mechanisms (IAMs)
+Channel for project affected people to raise concerns at highest level of decision-making 
+
+## Where CAO Interacts 
+
+## IFC & MIGA: Members of the World Bank Group
+
+Conciliation and arbitration of investment disputes 
+Guarantees of foreign direct investment noncommercial risks
+Interest-free loans and grants to governments of poorest countries
+Loans to middle-income and credit-worthy low-income country governments
+Finance for private sector development
+IBRD
+International Bank for Reconstruction and Development
+IDA
+International Development Association 
+IFC
+International Finance Corporation
+MIGA
+Multilateral Investment Guarantee Agency
+ICSID
+International Centre for Settlement of Investment Disputes
+
+
+1. Anticipate risks, avoid, minimize and compensate for any impacts.
+
+2 Treat workers fairly and provide safe and healthy working conditions.
+
+3 Promote energy efficiency, use resources sustainably, and cut greenhouse emissions.
+
+4 Protect local communities from worksite accidents and other project-related dangers.
+
+5 Avoid involuntary resettlement and minimize the impact on those displaced.
+
+6
+Protect biodiversity and ecosystems.
+
+7
+Protect the rights, dignity, and culture of indigenous populations.
+
+
+RISK MANAGEMENT
+LABOR
+RESOURCE EFFICIENCY
+COMMUNITY LAND
+RESETTLEMENT
+BIODIVERSITY
+INDIGENOUS PEOPLES
+CULTURAL HERITAGE
+Protect cultural heritage and promote equitable sharing of related benefits.
+
+## IFC/MIGA Environmental and Social Commitments
+
+
+* POLICY ON ENVIRONMENTAL AND SOCIAL SUSTAINABILITY
+* POLICY ON ACCESS TO INFORMATION
+
+www.ifc.org/sustainability
+
+## What Complaints Can CAO Accept?
+
+1. IFC or MIGA project
+2. Environmental and social issues
+3. People who believe they are, or may be, impacted by the project
+* Any format and any language
+* CSOs often support communities in filing complaints
+
+## How CAO Works
+
+* Achieving remedy
+* Dialogue
+* Clients and communities
+* Determining IFC/MIGA compliance
+* IFC/MIGA project impacts
+* Independent advice
+* Improving performance
+
+## Who files complaints to CAO?
+
+Profile of Complainants, FY2017
+Percentages do not add up to 100% because three complaints were filed by more than one type of organization. The category for individuals and community members denotes
+complaints filed without the support of another organization.
+
+## Complaints by Region, FY2017
+
+51 cases in 28 countries
+
+## Complaints by Sector, FY2017
+
+## Environmental and
+social issues raised
+by complainants,
+FY2017
+
+## CAO Cases in
+Sub-Saharan Africa
+
+Cameroon & Chad: Chad-Cameroon Oil
+Pipeline
+Guinea: Nedbank/Siguiri gold mine
+Kenya: Bidco (Consumer goods
+manufacturing)
+South Africa: Lonmin/Marikana mine
+Togo: Lomé Port Development
+Uganda: Bujagali Hydropower Project
+Uganda: Agri-Vie/New Forests Company
+(commercial forestry)
+
+## The complaint process in more detail
+
+* Achieving remedy
+* Dialogue
+* Clients and communities
+* Determining IFC/MIGA compliance
+* IFC/MIGA project impacts
+* Independent advice
+* Improving performance
+
+## Complaint Assessment
+
+Objectives:
+* Develop understanding of the issues & engage all stakeholders: community, private sector client, government, IFC/MIGA teams
+* Develop trust with the parties: no judgement on merits of complaint at this stage What it involves:
+* Stakeholder mapping; conflict assessment
+* Explain different CAO processes and ensure informed decision making
+* Allow parties an opportunity to select process they want to initiate (Dispute Resolution or Compliance)
+
+## Dispute
+Resolution
+
+Dispute Resolution can be beneficial in:
+* Empowering parties to determine outcomes
+* Providing a voluntary process
+* Exploring creative solutions
+* Building relationships
+* Achieving remedy
+
+### CAMEROON
+
+Chad-Cameroon Pipeline Project 
+* Construction of 1070 km pipeline to transport crude oil from Chad to floating facility 11-km off the Cameroon coast with IFC support.
+* CAO has convened parallel mediation processes since 2012 on complex set of issues including environmental and health impacts, HIV/AIDS, and loss of livelihood.
+* By 2014, agreements on four individual complaints.
+* By 2017, agreements with communities of fishermen, indigenous peoples, and farmers.
+* CAO will continue monitoring implementation of these three community agreements over the coming months.
+
+## Compliance
+* Focus is on IFC/MIGA performance
+* Appraisal identifies which complaints merit investigation
+- Serious environmental and social concerns?
+- Systemic importance?
+* Drawing on international expertise
+* How IFC/MIGA has implemented its commitments
+* Understand underlying causes to any gaps
+
+### UGANDA
+Bujagali Hydropower Project
+* Bujagali is run-of-the-river power plant on Nile River with 100-kilometer transmission line.
+* $750 million public-private partnership by Bujagali Energy Limited.
+* $130 million IFC loan, $115 million MIGA guarantee, and financing from World Bank, African Development Bank, and European Investment Bank.
+* CAO received 8 complaints from communities and individuals over the past 16 years.
+* Numerous alleged harms including: lack of worker compensation, wages, and benefits; inadequate land displacement compensation; crop loss; and inadequate biodiversity protection.
+* IFC re-financing project and complainants hopeful that resettlement and worker-related compensation will be resolved.
+
+## Advisory Work
+
+www.cao-grm.org
+* Important resource for learning
+* Improving performance of
+IFC/MIGA
+Compliance Advisor Ombudsman (CAO)
+2121 Pennsylvania Avenue NW
+Washington, DC 20433, USA
+Email: CAO@worldbankgroup.org
+Phone: +1 202 458 1973
+Fax: +1 202 522 7400
+www.cao-ombudsman.org
+https://twitter.com/CAOoffice
+https://www.facebook.com/CAOoffice
+
+## CONTACT US
+
+Learn more about our work this year at
+CAO-AR17.org 

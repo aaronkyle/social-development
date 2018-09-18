@@ -11,7 +11,7 @@ Currently, I am a solo author&mdash;doing my best to keep up with the changes an
 
 For those reading [via this site's front end](http://applied-anthro.com/), I am slowing building out navigation links and index files to guide your journey through this website.  For now, you'll find that the site is comprised of '[old](http://applied-anthro.com/terms/social-policy/)' and 'new' layouts.  This derives from changes I made in how content is generated and published on line.  Please bear with me; I'll work it out.
 
-For those reading [via GitHub](https://github.com/aaronkyle/social-development), the repository structure will be apparent.  Here's a few bits of orientation.
+For those reading [via GitHub](https://github.com/aaronkyle/social-development), the repository structure will be apparent.  Here're a few bits of orientation.
 
 ```
 archive/	# record of HTML pages generated for web front end

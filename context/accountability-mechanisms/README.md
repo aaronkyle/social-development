@@ -20,8 +20,7 @@ I would ulitmately like to build a tool that pulls and re-organizes these data i
 
 --
 
-Members of[IAMnet](http://independentaccountabilitymechanism.net/) currently include:<br />
-<sub>[This page is available as a searchable table.](http://applied-anthro.com/context/accountability-mechanisms/site/index.html).</sub>
+Members of [IAMnet](http://independentaccountabilitymechanism.net/) currently include:<br /><sup>[[TABLE VIEW]](http://applied-anthro.com/context/accountability-mechanisms/site/index.html).</sup>
 
 
 * African Development Bank (AfDB) - [Independent Review Mechanism](https://www.afdb.org/en/about-us/organisational-structure/independent-review-mechanism-irm/) (IRM)

@@ -1,0 +1,2 @@
+
+After the final report, all of the mechanisms allow monitoring at some level. Most of the mechanisms have the independent ability to undertake monitoring, but WB IP and IADB require the Board to request a monitoring process. EBRD and ADB are notable because they require that follow up and monitoring reporting be done in consultation with the claimants. There is a positive trend shown by EBRD, ADB, and IADB to require monitoring reports to be released on a specific time frame (annually by ADB; bi-annually for EBRD and IADB).

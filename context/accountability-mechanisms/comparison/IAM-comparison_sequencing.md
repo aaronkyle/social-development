@@ -1,0 +1,3 @@
+For mechanisms that have both problem solving and compliance review functions, their rules of sequencing differ. Simultaneous use of both functions is permitted only at the EBRD, EIB, and OPIC. None of the institutions require the project to be suspended while the claim is brought, although some allow the mechanism to recommend that it be suspended (EBRD, AfDB, ADB, IADB).
+
+Once the claim is accepted, the institutions’ procedures differ. Only the IADB allows the project sponsor to respond to the claim, and only EBRD has a provision that allows the claimants to respond to opposing party responses to the claim.

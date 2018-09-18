@@ -70,3 +70,19 @@ IFC Sustainability Webinar Series
 The [IFC Sustainability Webinar Series](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/ifc_sustainability_webinars) offers IFC expertise and thought leadership on sustainability issues. Recorded sessions and presentation are available on our [website](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/ifc_sustainability_webinars).
 
 
+---
+
+
+[ESMS Implementation Handbook](https://www.ifc.org/wps/wcm/connect/22dc7500483774689335f7299ede9589/ESMS+Handbook+General+v2.1.pdf?MOD=AJPERES)
+
+The [ESMS Implementation Handbook](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_handbook_esms-general) is for firms who wish to implement a management system in line with the requirements of IFC Performance Standard 1. The Handbook provides step-by-step instructions on how to develop and implement a management system addressing common environmental, occupational health and safety (OHS), labor, and community risks and impacts that companies are likely to face.
+
+
+ESMS Self-Assessment and Improvement Guide [Excel]: Download in [English](https://www.surveymonkey.com/r/esms-english) | Español | Français | Türkçe
+The ESMS Self-Assessment and Improvement Guide (excel versions) contain a questionnaire, maturity matrix and improvement tips to help a company measure the maturity of its management system and develop a plan for improvement.
+
+ESMS Self-Assessment and Improvement Guide [PDF]: [English](https://www.ifc.org/wps/wcm/connect/e44e08004a5a44c58a0ecf9c54e94b00/ESMS+Self+Assessment+v2.3+EN.pdf?MOD=AJPERES) | Français | Español | Português | Türkçe | русский | 简体中文 | عربي
+The ESMS Self-Assessment and Improvement Guide contains a questionnaire and improvement tips to help assess your ESMS and develop an improvement plan.
+
+ESMS Toolkit - General [PDF]: [English](https://www.ifc.org/wps/wcm/connect/38089d8048377ccb9384f7299ede9589/ESMS_Toolkit_General.pdf?MOD=AJPERES) | Français | Español | Português | Türkçe | русский | 简体中文 | عربي
+The ESMS Toolkit - General provides tools — checklists, templates, and forms — to help you implement your ESMS improvement plan.

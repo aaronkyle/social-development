@@ -1,0 +1,25 @@
+--2018-08-08 08:37:35--  https://web.archive.org/web/20040821172731/http://www.cao-ombudsman.org:80/html-english/about.htm
+Resolving web.archive.org (web.archive.org)... 207.241.225.186
+Connecting to web.archive.org (web.archive.org)|207.241.225.186|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 16371 (16K) [text/html]
+Saving to: ‘web.archive.org/web/20040821172731/http:/www.cao-ombudsman.org:80/html-english/about.htm’
+
+     0K .......... .....                                      100%  145M=0s
+
+2018-08-08 08:37:35 (145 MB/s) - ‘web.archive.org/web/20040821172731/http:/www.cao-ombudsman.org:80/html-english/about.htm’ saved [16371/16371]
+
+Loading robots.txt; please ignore errors.
+--2018-08-08 08:37:35--  https://web.archive.org/robots.txt
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 101 [text/plain]
+Saving to: ‘web.archive.org/robots.txt’
+
+     0K                                                       100% 17.4M=0s
+
+2018-08-08 08:37:35 (17.4 MB/s) - ‘web.archive.org/robots.txt’ saved [101/101]
+
+FINISHED --2018-08-08 08:37:35--
+Total wall clock time: 0.6s
+Downloaded: 2 files, 16K in 0s (139 MB/s)

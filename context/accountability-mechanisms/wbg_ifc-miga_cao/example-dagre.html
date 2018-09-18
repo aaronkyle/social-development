@@ -90,18 +90,18 @@ var g = new dagreD3.graphlib.Graph()
 
 // Here we"re setting nodeclass, which is used by our custom drawNodes function
 // below.
-  graph.setNode(0, {label: "complaint", class: "type-TOP"});
-  graph.setNode(1, {label: "eligibility determination", class: "type-ED"});
-  graph.setNode(2, {label: "eligible", class: "type-EE"});
-  graph.setNode(3, {label: "ineligible", class: "type-EI"});
-  graph.setNode(4, {label: "assessment", class: "type-A"});
-  graph.setNode(5, {label: "DR process", class: "type-DR"});
-  graph.setNode(6, {label: "DR monitoring", class: "type-DR"});
-  graph.setNode(7, {label: "transfer", class: "type-transfer"});
-  graph.setNode(8, {label: "compliance appraisal", class: "type-C"});
-  graph.setNode(9, {label: "compliance investigation", class: "type-C"});
-  graph.setNode(10, {label: "compliance monitoring", class: "type-C"});
-  graph.setNode(11, {label: "closed", class: "type-closed"});
+  g.setNode(0, {label: "complaint", class: "type-TOP"});
+  g.setNode(1, {label: "eligibility determination", class: "type-ED"});
+  g.setNode(2, {label: "eligible", class: "type-EE"});
+  g.setNode(3, {label: "ineligible", class: "type-EI"});
+  g.setNode(4, {label: "assessment", class: "type-A"});
+  g.setNode(5, {label: "DR process", class: "type-DR"});
+  g.setNode(6, {label: "DR monitoring", class: "type-DR"});
+  g.setNode(7, {label: "transfer", class: "type-transfer"});
+  g.setNode(8, {label: "compliance appraisal", class: "type-C"});
+  g.setNode(9, {label: "compliance investigation", class: "type-C"});
+  g.setNode(10, {label: "compliance monitoring", class: "type-C"});
+  g.setNode(11, {label: "closed", class: "type-closed"});
 
 g.nodes().forEach(function(v) {
   var node = g.node(v);
@@ -110,24 +110,24 @@ g.nodes().forEach(function(v) {
 });
 
 // Set up edges, no special attributes.
-  graph.setEdge(0, 1); // complaint > eligibility
-  graph.setEdge(1, 2); // eligibility > eligibile
-  graph.setEdge(1, 3); // eligibility > ineligibile
-  graph.setEdge(3, 11); // ineligibile > closed
-  graph.setEdge(2, 4); // eligibile > assessment
-  graph.setEdge(4, 5); // assessment > DR
-  graph.setEdge(4, 8); // assessment > compliance appraisal
-  graph.setEdge(5, 6); // DR > DR monitorinng
-  graph.setEdge(5, 7);// DR > transfer
-  graph.setEdge(6, 11);// DR monitoring > closed
-  graph.setEdge(6, 7);// DR monitoring > transfer
-  graph.setEdge(7, 8);// transfer > compliance appraisal
-  graph.setEdge(8, 9); // compliance appraisal > compliance investigation
-  graph.setEdge(8, 10); // compliance appraisal > compliance monitoring
-  graph.setEdge(8, 11);// compliance appraisal > closed
-  graph.setEdge(9, 10);// compliance investigation > compliance monitoring
-  graph.setEdge(9, 11);// compliance investigation > closed
-  graph.setEdge(10, 11);// compliance investigation > compliance monitoring
+  g.setEdge(0, 1); // complaint > eligibility
+  g.setEdge(1, 2); // eligibility > eligibile
+  g.setEdge(1, 3); // eligibility > ineligibile
+  g.setEdge(3, 11); // ineligibile > closed
+  g.setEdge(2, 4); // eligibile > assessment
+  g.setEdge(4, 5); // assessment > DR
+  g.setEdge(4, 8); // assessment > compliance appraisal
+  g.setEdge(5, 6); // DR > DR monitorinng
+  g.setEdge(5, 7);// DR > transfer
+  g.setEdge(6, 11);// DR monitoring > closed
+  g.setEdge(6, 7);// DR monitoring > transfer
+  g.setEdge(7, 8);// transfer > compliance appraisal
+  g.setEdge(8, 9); // compliance appraisal > compliance investigation
+  g.setEdge(8, 10); // compliance appraisal > compliance monitoring
+  g.setEdge(8, 11);// compliance appraisal > closed
+  g.setEdge(9, 10);// compliance investigation > compliance monitoring
+  g.setEdge(9, 11);// compliance investigation > closed
+  g.setEdge(10, 11)// compliance investigation > compliance monitoring
 
 // Create the renderer
 var render = new dagreD3.render();

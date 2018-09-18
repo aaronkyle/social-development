@@ -43,7 +43,7 @@ Please also recognize that this list is not meant to be exhaustive; my focus is 
 <hr />
 
   1 [Asian Development Bank](#adb)<br />
-&nbsp;&nbsp;&nbsp;    1.1 [Policy](#adb-policy)<br />
+&nbsp;&nbsp;&nbsp;    1.1 [Policy](.social-policy_adb/)<br />
 &nbsp;&nbsp;&nbsp;    1.2 [Implementation Resources](#)<br />
   2 [World Bank](#world-bank)<br />
 &nbsp;&nbsp;&nbsp;    2.1 [Policy](#world-bank-policy)<br />

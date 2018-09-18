@@ -7,13 +7,13 @@ My work will focus on those mechanisms within the [Independent Accountability Me
 
 Work on this repository is in very early stages. I started (2017) by culling data from across IAM member pages:
 
-* [`adb`](./adb-am/README.md)
-* [`afdb`](./afdb-irm/README.md)
-* [`ebrd`](./ebrd-pcm/README.md)
-* [`eib`](./eib-cm/README.md)
-* [`idb_idb`](./idb-iic_mici/README.md)
-* [`idb_iic`](./idb-iic_mici/README.md)
-* [`world-bank.md`](./wbg_idb-ida_ip/README.md)
+* [`adb`](./adb-am/)
+* [`afdb`](./afdb-irm/)
+* [`ebrd`](./ebrd-pcm/)
+* [`eib`](./eib-cm/)
+* [`idb_idb`](./idb-iic_mici/)
+* [`idb_iic`](./idb-iic_mici/)
+* [`world-bank.md`](./wbg_idb-ida_ip/)
 
 I would ulitmately like to build a tool that pulls and re-organizes these data into a common framework.
 

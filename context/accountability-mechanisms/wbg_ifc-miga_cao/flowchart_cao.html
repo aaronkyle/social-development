@@ -3,7 +3,7 @@
 <html>
 <head>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  <title>viz.js example #2</title>
+  <title>viz.js</title>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <meta name="robots" content="noindex, nofollow">
   <meta name="googlebot" content="noindex, nofollow">
@@ -13,14 +13,14 @@
   <script
     type="text/javascript"
     src="/js/lib/dummy.js"
-
+    
   ></script>
 
     <link rel="stylesheet" type="text/css" href="/css/result-light.css">
 
       <script type="text/javascript" src="//mdaines.github.io/viz.js/bower_components/viz.js/viz.js"></script>
   <style type="text/css">
-
+    
   </style>
   <!-- TODO: Missing CoffeeScript 2 -->
 
@@ -28,7 +28,7 @@
 
 
     window.onload=function(){
-
+      
 var graphCode = document.getElementById('cluster').innerHTML;
 
 document.getElementById('svg').innerHTML += Viz(graphCode, 'svg');
@@ -48,38 +48,46 @@ document.getElementById('png').appendChild(image);
 <h1>PNG as "data:image/png" URI</h1>
 <div id="png"></div>
 <script type="text/vnd.graphviz" id="cluster">
-# http://www.graphviz.org/content/cluster
-
 digraph G {
-
-	subgraph cluster_0 {
-		style=filled;
-		color=lightgrey;
-		node [style=filled,color=white];
-		a0 -> a1 -> a2 -> a3;
-		label = "process #1";
-	}
-
-	subgraph cluster_1 {
-		node [style=filled];
-		b0 -> b1 -> b2 -> b3;
-		label = "process #2";
-		color=blue
-	}
-	start -> a0;
-	start -> b0;
-	a1 -> b3;
-	b2 -> a3;
-	a3 -> a0;
-	a3 -> end;
-	b3 -> end;
-
-	start [shape=Mdiamond];
-	end [shape=Msquare];
+  subgraph cluster_0 {
+    style=filled;
+    color=lightyellow;
+    node [style=filled,color=white];
+    "eligibility determination" -> eligible -> assessment;
+    label = "eligibility";
+  }
+  subgraph cluster_1 {
+    node [style=filled];
+    "DR process" -> "no agreement";
+    "DR process" -> "agreement";
+    "agreement" -> "DR monitoring";
+    "DR monitoring" -> "satisfactory outcome";
+    "DR monitoring" -> "no resolution reached";
+    "no resolution reached" -> "DR monitoring";
+    label = "dispute resolution";
+    color=green
+  }
+  subgraph cluster_3 {
+    node [style=filled,];
+    "compliance appraisal" -> "compliance investigation" -> "compliance monitoring";
+    label = "compliance";
+    color=blue
+  }
+  complaint -> "eligibility determination";
+  "eligibility determination" -> ineligible;
+  ineligible -> closed;
+  assessment -> "DR process";
+  assessment -> "compliance appraisal";
+  "no agreement" -> "compliance appraisal";
+  "no resolution reached" -> "compliance appraisal";
+  "satisfactory outcome" -> closed;
+  "compliance monitoring" -> closed;
+  complaint [shape=invhouse];
+  closed [shape=Msquare];
 }
 </script>
 
-
+  
   <script>
     // tell the embed parent frame the height of the content
     if (window.parent && window.parent.parent){

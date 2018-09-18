@@ -30,11 +30,11 @@ In recent years, **[safeguards policies](http://applied-anthro.com/terms/safegua
 Adding an additional layer of complexity to any discussion of 'social policy' among international financial institutions (IFIs) are those policies that have an apparent 'social' orientation, but which are operational policies that come to bear only on internal bank operations.
 
 <br />
-<
+
+  <p>
   <a class="btn btn-primary" data-toggle="collapse" href="#disclaimer-toggle" role="button" aria-expanded="false" aria-controls="disclaimer-toggle">
     A short disclaimer
-  </a>
-</p>
+  </a></p>
 <div class="collapse" id="disclaimer-toggle">
   <div class="card card-body">
 
@@ -44,18 +44,20 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
   </div>
 </div>
 
+<br />
+
 
   1 Asian Development Bank<br />
-&nbsp;&nbsp;&nbsp;    1.1 [Policy](.social-policy_adb/) <br />
+&nbsp;&nbsp;&nbsp;    1.1 [Policy](social-policy_adb) <br />
 &nbsp;&nbsp;&nbsp;    1.2 [Implementation Resources](#) <br />
   2 World Bank<br />
-&nbsp;&nbsp;&nbsp;    2.1 [Policy](.social-policy_world-bank/)<br />
+&nbsp;&nbsp;&nbsp;    2.1 [Policy](social-policy_world-bank)<br />
 &nbsp;&nbsp;&nbsp;    2.2 [Implementation Resources](#)<br />
   3 Inter-American Development Bank<br />
-&nbsp;&nbsp;&nbsp;    3.1 [Policy](.social-policy_iadb/)<br />
+&nbsp;&nbsp;&nbsp;    3.1 [Policy](social-policy_iadb)<br />
 &nbsp;&nbsp;&nbsp;    3.2 [Implementation Resources](#)<br />
   4 International Finance Corporation (IFC)<br />
-&nbsp;&nbsp;&nbsp;    4.1 [Policy](.social-policy_ifc/)<br />
+&nbsp;&nbsp;&nbsp;    4.1 [Policy](social-policy_ifc)<br />
 &nbsp;&nbsp;&nbsp;    4.2 [Implementation Resources](#)<br />
   5 European Bank for Reconstruction and Development<br />
 &nbsp;&nbsp;&nbsp;    5.1 [Policy](#ebrd-policy)<br />

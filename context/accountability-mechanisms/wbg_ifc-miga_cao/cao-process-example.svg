@@ -1,0 +1,230 @@
+
+<svg width="609pt" height="882pt" viewBox="0.00 0.00 609.00 882.16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="max-width: 100%; height: auto;">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 878.1644)">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-878.1644 605,-878.1644 605,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>cluster_0</title>
+<polygon fill="#ffffe0" stroke="#ffffe0" points="367,-609.3644 367,-830.1644 593,-830.1644 593,-609.3644 367,-609.3644"/>
+<text text-anchor="middle" x="480" y="-813.5644" font-family="Times,serif" font-size="14.00" fill="#000000">eligibility</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_1</title>
+<polygon fill="none" stroke="#00ff00" points="8,-308.5644 8,-601.3644 412,-601.3644 412,-308.5644 8,-308.5644"/>
+<text text-anchor="middle" x="210" y="-584.7644" font-family="Times,serif" font-size="14.00" fill="#000000">dispute resolution</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_3</title>
+<polygon fill="none" stroke="#0000ff" points="242,-79.7644 242,-300.5644 474,-300.5644 474,-79.7644 242,-79.7644"/>
+<text text-anchor="middle" x="358" y="-283.9644" font-family="Times,serif" font-size="14.00" fill="#000000">compliance</text>
+</g>
+<!-- eligibility determination -->
+<g id="node1" class="node">
+<title>eligibility determination</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="480" cy="-779.3644" rx="104.7885" ry="18"/>
+<text text-anchor="middle" x="480" y="-775.1644" font-family="Times,serif" font-size="14.00" fill="#000000">eligibility determination</text>
+</g>
+<!-- eligible -->
+<g id="node2" class="node">
+<title>eligible</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="455" cy="-707.3644" rx="40.0031" ry="18"/>
+<text text-anchor="middle" x="455" y="-703.1644" font-family="Times,serif" font-size="14.00" fill="#000000">eligible</text>
+</g>
+<!-- eligibility determination&#45;&gt;eligible -->
+<g id="edge1" class="edge">
+<title>eligibility determination-&gt;eligible</title>
+<path fill="none" stroke="#000000" d="M473.6914,-761.1958C470.9169,-753.205 467.5979,-743.6463 464.5317,-734.8158"/>
+<polygon fill="#000000" stroke="#000000" points="467.8065,-733.5765 461.2199,-725.2778 461.1938,-735.8726 467.8065,-733.5765"/>
+</g>
+<!-- ineligible -->
+<g id="node14" class="node">
+<title>ineligible</title>
+<ellipse fill="none" stroke="#000000" cx="530" cy="-105.7644" rx="47.5274" ry="18"/>
+<text text-anchor="middle" x="530" y="-101.5644" font-family="Times,serif" font-size="14.00" fill="#000000">ineligible</text>
+</g>
+<!-- eligibility determination&#45;&gt;ineligible -->
+<g id="edge12" class="edge">
+<title>eligibility determination-&gt;ineligible</title>
+<path fill="none" stroke="#000000" d="M490.6037,-761.4207C505.2808,-734.8394 530,-682.9999 530,-635.3644 530,-635.3644 530,-635.3644 530,-249.7644 530,-209.6404 530,-163.2275 530,-134.1821"/>
+<polygon fill="#000000" stroke="#000000" points="533.5001,-133.9497 530,-123.9498 526.5001,-133.9498 533.5001,-133.9497"/>
+</g>
+<!-- assessment -->
+<g id="node3" class="node">
+<title>assessment</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="448" cy="-635.3644" rx="53.8866" ry="18"/>
+<text text-anchor="middle" x="448" y="-631.1644" font-family="Times,serif" font-size="14.00" fill="#000000">assessment</text>
+</g>
+<!-- eligible&#45;&gt;assessment -->
+<g id="edge2" class="edge">
+<title>eligible-&gt;assessment</title>
+<path fill="none" stroke="#000000" d="M453.2336,-689.1958C452.485,-681.4954 451.5947,-672.3387 450.7627,-663.781"/>
+<polygon fill="#000000" stroke="#000000" points="454.2415,-663.392 449.7902,-653.7777 447.2744,-664.0695 454.2415,-663.392"/>
+</g>
+<!-- DR process -->
+<g id="node4" class="node">
+<title>DR process</title>
+<ellipse fill="#d3d3d3" stroke="#000000" cx="341" cy="-550.5644" rx="55.6379" ry="18"/>
+<text text-anchor="middle" x="341" y="-546.3644" font-family="Times,serif" font-size="14.00" fill="#000000">DR process</text>
+</g>
+<!-- assessment&#45;&gt;DR process -->
+<g id="edge14" class="edge">
+<title>assessment-&gt;DR process</title>
+<path fill="none" stroke="#000000" d="M426.8602,-618.6106C410.593,-605.7185 387.9322,-587.7593 369.9754,-573.5281"/>
+<polygon fill="#000000" stroke="#000000" points="372.107,-570.7515 362.0958,-567.2833 367.7591,-576.2376 372.107,-570.7515"/>
+</g>
+<!-- compliance appraisal -->
+<g id="node10" class="node">
+<title>compliance appraisal</title>
+<ellipse fill="#d3d3d3" stroke="#000000" cx="365" cy="-249.7644" rx="92.635" ry="18"/>
+<text text-anchor="middle" x="365" y="-245.5644" font-family="Times,serif" font-size="14.00" fill="#000000">compliance appraisal</text>
+</g>
+<!-- assessment&#45;&gt;compliance appraisal -->
+<g id="edge15" class="edge">
+<title>assessment-&gt;compliance appraisal</title>
+<path fill="none" stroke="#000000" d="M452.2418,-617.1345C458.6348,-588.0185 470,-529.1439 470,-478.5644 470,-478.5644 470,-478.5644 470,-406.5644 470,-359.3507 456.1237,-347.2094 429,-308.5644 419.985,-295.7201 407.7322,-283.6076 396.3601,-273.752"/>
+<polygon fill="#000000" stroke="#000000" points="398.5893,-271.0535 388.6785,-267.3082 394.0905,-276.4165 398.5893,-271.0535"/>
+</g>
+<!-- no agreement -->
+<g id="node5" class="node">
+<title>no agreement</title>
+<ellipse fill="#d3d3d3" stroke="#000000" cx="341" cy="-478.5644" rx="63.1447" ry="18"/>
+<text text-anchor="middle" x="341" y="-474.3644" font-family="Times,serif" font-size="14.00" fill="#000000">no agreement</text>
+</g>
+<!-- DR process&#45;&gt;no agreement -->
+<g id="edge3" class="edge">
+<title>DR process-&gt;no agreement</title>
+<path fill="none" stroke="#000000" d="M341,-532.3958C341,-524.6954 341,-515.5387 341,-506.981"/>
+<polygon fill="#000000" stroke="#000000" points="344.5001,-506.9776 341,-496.9777 337.5001,-506.9777 344.5001,-506.9776"/>
+</g>
+<!-- agreement -->
+<g id="node6" class="node">
+<title>agreement</title>
+<ellipse fill="#d3d3d3" stroke="#000000" cx="208" cy="-478.5644" rx="51.003" ry="18"/>
+<text text-anchor="middle" x="208" y="-474.3644" font-family="Times,serif" font-size="14.00" fill="#000000">agreement</text>
+</g>
+<!-- DR process&#45;&gt;agreement -->
+<g id="edge4" class="edge">
+<title>DR process-&gt;agreement</title>
+<path fill="none" stroke="#000000" d="M312.141,-534.9415C292.575,-524.3494 266.5269,-510.2481 245.3767,-498.7984"/>
+<polygon fill="#000000" stroke="#000000" points="246.8061,-495.5923 236.3458,-493.9095 243.4736,-501.7482 246.8061,-495.5923"/>
+</g>
+<!-- no agreement&#45;&gt;compliance appraisal -->
+<g id="edge16" class="edge">
+<title>no agreement-&gt;compliance appraisal</title>
+<path fill="none" stroke="#000000" d="M355.2698,-460.703C372.8648,-437.4225 401.8127,-394.6908 413,-352.5644 418.0193,-333.664 419.5641,-326.9854 413,-308.5644 408.6113,-296.2481 400.4142,-284.6462 392.0201,-275.0551"/>
+<polygon fill="#000000" stroke="#000000" points="394.3722,-272.4445 385.002,-267.4998 389.2435,-277.2086 394.3722,-272.4445"/>
+</g>
+<!-- DR monitoring -->
+<g id="node7" class="node">
+<title>DR monitoring</title>
+<ellipse fill="#d3d3d3" stroke="#000000" cx="259" cy="-406.5644" rx="69.5659" ry="18"/>
+<text text-anchor="middle" x="259" y="-402.3644" font-family="Times,serif" font-size="14.00" fill="#000000">DR monitoring</text>
+</g>
+<!-- agreement&#45;&gt;DR monitoring -->
+<g id="edge5" class="edge">
+<title>agreement-&gt;DR monitoring</title>
+<path fill="none" stroke="#000000" d="M220.6067,-460.7666C226.614,-452.2858 233.9168,-441.9759 240.5341,-432.634"/>
+<polygon fill="#000000" stroke="#000000" points="243.4374,-434.5903 246.3615,-424.4069 237.7252,-430.5441 243.4374,-434.5903"/>
+</g>
+<!-- satisfactory outcome -->
+<g id="node8" class="node">
+<title>satisfactory outcome</title>
+<ellipse fill="#d3d3d3" stroke="#000000" cx="107" cy="-334.5644" rx="91.429" ry="18"/>
+<text text-anchor="middle" x="107" y="-330.3644" font-family="Times,serif" font-size="14.00" fill="#000000">satisfactory outcome</text>
+</g>
+<!-- DR monitoring&#45;&gt;satisfactory outcome -->
+<g id="edge6" class="edge">
+<title>DR monitoring-&gt;satisfactory outcome</title>
+<path fill="none" stroke="#000000" d="M225.2663,-390.5853C203.4924,-380.2713 174.9318,-366.7426 151.3323,-355.5639"/>
+<polygon fill="#000000" stroke="#000000" points="152.7597,-352.3673 142.224,-351.2495 149.7631,-358.6935 152.7597,-352.3673"/>
+</g>
+<!-- no resolution reached -->
+<g id="node9" class="node">
+<title>no resolution reached</title>
+<ellipse fill="#d3d3d3" stroke="#000000" cx="310" cy="-334.5644" rx="94.3253" ry="18"/>
+<text text-anchor="middle" x="310" y="-330.3644" font-family="Times,serif" font-size="14.00" fill="#000000">no resolution reached</text>
+</g>
+<!-- DR monitoring&#45;&gt;no resolution reached -->
+<g id="edge7" class="edge">
+<title>DR monitoring-&gt;no resolution reached</title>
+<path fill="none" stroke="#000000" d="M265.9171,-388.3958C271.0609,-379.9754 278.0712,-369.8139 285.0447,-360.5982"/>
+<polygon fill="#000000" stroke="#000000" points="287.9893,-362.5141 291.3841,-352.4778 282.4716,-358.2065 287.9893,-362.5141"/>
+</g>
+<!-- closed -->
+<g id="node15" class="node">
+<title>closed</title>
+<polygon fill="none" stroke="#000000" points="383.7649,-51.6471 332.2351,-51.6471 332.2351,-.1173 383.7649,-.1173 383.7649,-51.6471"/>
+<polyline fill="none" stroke="#000000" points="344.2351,-51.6471 332.2351,-39.6471 "/>
+<polyline fill="none" stroke="#000000" points="332.2351,-12.1173 344.2351,-.1173 "/>
+<polyline fill="none" stroke="#000000" points="371.7649,-.1173 383.7649,-12.1173 "/>
+<polyline fill="none" stroke="#000000" points="383.7649,-39.6471 371.7649,-51.6471 "/>
+<text text-anchor="middle" x="358" y="-21.6822" font-family="Times,serif" font-size="14.00" fill="#000000">closed</text>
+</g>
+<!-- satisfactory outcome&#45;&gt;closed -->
+<g id="edge18" class="edge">
+<title>satisfactory outcome-&gt;closed</title>
+<path fill="none" stroke="#000000" d="M111.8115,-316.2767C124.712,-270.5232 164.1988,-149.7648 238,-79.7644 261.6967,-57.2881 296.3683,-43.1084 322.3568,-34.9702"/>
+<polygon fill="#000000" stroke="#000000" points="323.6133,-38.2481 332.2012,-32.0434 321.6184,-31.5384 323.6133,-38.2481"/>
+</g>
+<!-- no resolution reached&#45;&gt;DR monitoring -->
+<g id="edge8" class="edge">
+<title>no resolution reached-&gt;DR monitoring</title>
+<path fill="none" stroke="#000000" d="M303.1733,-352.585C297.8994,-361.2342 290.6346,-371.7463 283.4569,-381.1876"/>
+<polygon fill="#000000" stroke="#000000" points="280.641,-379.1065 277.2239,-389.1352 286.1492,-383.4264 280.641,-379.1065"/>
+</g>
+<!-- no resolution reached&#45;&gt;compliance appraisal -->
+<g id="edge17" class="edge">
+<title>no resolution reached-&gt;compliance appraisal</title>
+<path fill="none" stroke="#000000" d="M321.6641,-316.5805C329.2477,-304.8879 339.2686,-289.4375 347.7639,-276.3394"/>
+<polygon fill="#000000" stroke="#000000" points="350.8476,-278.0168 353.3527,-267.7224 344.9747,-274.2077 350.8476,-278.0168"/>
+</g>
+<!-- compliance investigation -->
+<g id="node11" class="node">
+<title>compliance investigation</title>
+<ellipse fill="#d3d3d3" stroke="#000000" cx="358" cy="-177.7644" rx="107.7046" ry="18"/>
+<text text-anchor="middle" x="358" y="-173.5644" font-family="Times,serif" font-size="14.00" fill="#000000">compliance investigation</text>
+</g>
+<!-- compliance appraisal&#45;&gt;compliance investigation -->
+<g id="edge9" class="edge">
+<title>compliance appraisal-&gt;compliance investigation</title>
+<path fill="none" stroke="#000000" d="M363.2336,-231.5958C362.485,-223.8954 361.5947,-214.7387 360.7627,-206.181"/>
+<polygon fill="#000000" stroke="#000000" points="364.2415,-205.792 359.7902,-196.1777 357.2744,-206.4695 364.2415,-205.792"/>
+</g>
+<!-- compliance monitoring -->
+<g id="node12" class="node">
+<title>compliance monitoring</title>
+<ellipse fill="#d3d3d3" stroke="#000000" cx="358" cy="-105.7644" rx="100.7657" ry="18"/>
+<text text-anchor="middle" x="358" y="-101.5644" font-family="Times,serif" font-size="14.00" fill="#000000">compliance monitoring</text>
+</g>
+<!-- compliance investigation&#45;&gt;compliance monitoring -->
+<g id="edge10" class="edge">
+<title>compliance investigation-&gt;compliance monitoring</title>
+<path fill="none" stroke="#000000" d="M358,-159.5958C358,-151.8954 358,-142.7387 358,-134.181"/>
+<polygon fill="#000000" stroke="#000000" points="361.5001,-134.1776 358,-124.1777 354.5001,-134.1777 361.5001,-134.1776"/>
+</g>
+<!-- compliance monitoring&#45;&gt;closed -->
+<g id="edge19" class="edge">
+<title>compliance monitoring-&gt;closed</title>
+<path fill="none" stroke="#000000" d="M358,-87.6379C358,-80.0282 358,-70.8945 358,-62.0142"/>
+<polygon fill="#000000" stroke="#000000" points="361.5001,-61.8125 358,-51.8125 354.5001,-61.8125 361.5001,-61.8125"/>
+</g>
+<!-- complaint -->
+<g id="node13" class="node">
+<title>complaint</title>
+<polygon fill="none" stroke="#000000" points="418.7372,-850.6021 480,-838.1644 541.2628,-850.6021 541.2056,-870.7267 418.7944,-870.7267 418.7372,-850.6021"/>
+<text text-anchor="middle" x="480" y="-851.9644" font-family="Times,serif" font-size="14.00" fill="#000000">complaint</text>
+</g>
+<!-- complaint&#45;&gt;eligibility determination -->
+<g id="edge11" class="edge">
+<title>complaint-&gt;eligibility determination</title>
+<path fill="none" stroke="#000000" d="M480,-837.9639C480,-828.8776 480,-817.682 480,-807.5193"/>
+<polygon fill="#000000" stroke="#000000" points="483.5001,-807.4342 480,-797.4343 476.5001,-807.4343 483.5001,-807.4342"/>
+</g>
+<!-- ineligible&#45;&gt;closed -->
+<g id="edge13" class="edge">
+<title>ineligible-&gt;closed</title>
+<path fill="none" stroke="#000000" d="M501.4961,-91.2454C493.8925,-87.4457 485.6606,-83.3975 478,-79.7644 449.7086,-66.347 417.3,-51.8458 393.2999,-41.2705"/>
+<polygon fill="#000000" stroke="#000000" points="394.4545,-37.9549 383.8914,-37.136 391.6383,-44.3634 394.4545,-37.9549"/>
+</g>
+</g>
+</svg>

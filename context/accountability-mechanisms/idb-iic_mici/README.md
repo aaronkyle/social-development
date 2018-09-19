@@ -1,3 +1,4 @@
+Independent Consultation and Investigation Mechanism (MICI): the accountability mechanism for the Inter-American Development Bank (IDB) and Inter-American Investment Corporation, (IIC), together the “IDB Group”.
 
 <!--
 https://idblegacy.iadb.org/en/about-us/administrative-tribunal/frequently-asked-questions,20698.html?isajaxrequest&actionuserstats=close&valcookie=

@@ -1,0 +1,101 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <title>viz.js</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="googlebot" content="noindex, nofollow">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <script
+    type="text/javascript"
+    src="/js/lib/dummy.js"
+    
+  ></script>
+
+    <link rel="stylesheet" type="text/css" href="/css/result-light.css">
+
+      <script type="text/javascript" src="//mdaines.github.io/viz.js/bower_components/viz.js/viz.js"></script>
+  <style type="text/css">
+    
+  </style>
+  <!-- TODO: Missing CoffeeScript 2 -->
+
+  <script type="text/javascript">
+
+
+    window.onload=function(){
+      
+var graphCode = document.getElementById('cluster').innerHTML;
+
+document.getElementById('svg').innerHTML += Viz(graphCode, 'svg');
+
+image = Viz(graphCode, { format: 'png-image-element' });
+document.getElementById('png').appendChild(image);
+
+    }
+
+</script>
+
+</head>
+<body>
+  <h1>Inline SVG</h1>
+<div id="svg"></div>
+<hr/>
+<h1>PNG as "data:image/png" URI</h1>
+<div id="png"></div>
+<script type="text/vnd.graphviz" id="cluster">
+digraph G {
+  subgraph cluster_0 {
+    style=filled;
+    color=lightyellow;
+    node [style=filled,color=white];
+    "eligibility determination" -> eligible -> assessment;
+    label = "eligibility";
+  }
+  subgraph cluster_1 {
+    node [style=filled];
+    "DR process" -> "no agreement";
+    "DR process" -> "agreement";
+    "agreement" -> "DR monitoring";
+    "DR monitoring" -> "satisfactory outcome";
+    "DR monitoring" -> "no resolution reached";
+    "no resolution reached" -> "DR monitoring";
+    label = "dispute resolution";
+    color=green
+  }
+  subgraph cluster_3 {
+    node [style=filled,];
+    "compliance appraisal" -> "compliance investigation" -> "compliance monitoring";
+    label = "compliance";
+    color=blue
+  }
+  complaint -> "eligibility determination";
+  "eligibility determination" -> ineligible;
+  ineligible -> closed;
+  assessment -> "DR process";
+  assessment -> "compliance appraisal";
+  "no agreement" -> "compliance appraisal";
+  "no resolution reached" -> "compliance appraisal";
+  "satisfactory outcome" -> closed;
+  "compliance monitoring" -> closed;
+  complaint [shape=invhouse];
+  closed [shape=Msquare];
+}
+</script>
+
+  
+  <script>
+    // tell the embed parent frame the height of the content
+    if (window.parent && window.parent.parent){
+      window.parent.parent.postMessage(["resultsFrame", {
+        height: document.body.getBoundingClientRect().height,
+        slug: "s22yzbLu"
+      }], "*")
+    }
+  </script>
+</body>
+</html>

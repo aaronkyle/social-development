@@ -1,11 +1,27 @@
 
 ## international accountability mechanisms
 
-I just recently started working on international accountability mechanisms.  My work will focus on those mechanisms within the [Independent Accountability Mechanisms Network (IAMnet)](http://independentaccountabilitymechanism.net/)&mdash;a professional membership network.
+I just recently started working on international accountability mechanisms.
 
-This page is available as a searchable table [here](http://applied-anthro.com/context/accountability-mechanisms/site/index.html).
+My work will focus on those mechanisms within the [Independent Accountability Mechanisms Network (IAMnet)](http://independentaccountabilitymechanism.net/)&mdash;a professional membership network.<sup>[principles](http://independentaccountabilitymechanism.net/ocrp002p.nsf/0/CABCCCEB3370236948257F4700200EEE/%24file/Principles%20for%20Cooperation%20among%20IAMs%20-%20Final.pdf), [criteria](http://independentaccountabilitymechanism.net/ocrp002p.nsf/0/A706B9DAD41DF79E48257F4700293F6F/%24file/Criteria%20for%20participation%20in%20IAM%20network%20Final.pdf)</sup>
 
-Members of IAMnet currently include:<sup>[[ref]](http://independentaccountabilitymechanism.net/)</sup>
+Work on this repository is in its very early stages. I started (2017) by culling data from across IAM member pages:
+
+* [`adb`](./adb_am/)
+* [`afdb`](./afdb_irm/)
+* [`ebrd`](./ebrd_pcm/)
+* [`eib`](./eib_cm/)
+* [`idb_idb`](./idb-iic_mici/)
+* [`idb_iic`](./idb-iic_mici/)
+* [`world-bank.md`](./wbg_idb-ida_ip/)
+
+I would ulitmately like to build a tool that pulls and re-organizes these data into a common framework.
+
+
+--
+
+Members of [IAMnet](http://independentaccountabilitymechanism.net/) currently include:<br /><sup>[[TABLE VIEW]](http://applied-anthro.com/context/accountability-mechanisms/site/index.html).</sup>
+
 
 * African Development Bank (AfDB) - [Independent Review Mechanism](https://www.afdb.org/en/about-us/organisational-structure/independent-review-mechanism-irm/) (IRM)
     - [Operating Rules and Procedures (2015)](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Revised_IRM_Operating_Rules_and_Procedures_2015.pdf)
@@ -47,22 +63,6 @@ Members of IAMnet currently include:<sup>[[ref]](http://independentaccountabilit
 * World Bank - [Inspection Panel](http://ewebapps.worldbank.org/apps/ip/Pages/Home.aspx)
     -[Operating Procedures (2014)](http://ewebapps.worldbank.org/apps/ip/PanelMandateDocuments/2014%20Updated%20Operating%20Procedures.pdf)
 
-
----
-
-Work on this repository is in very early stages. I started (2017) by culling data from across IAM member pages:
-
-* [`adb.md`](./adb)
-* [`afdb.md`](./afdb)
-* [`ebrd.md`](./ebrd)
-* [`eib.md`](./eib)
-* [`idb_idb.md`](./idb_idb)
-* [`idb_iic.md`](./idb_iic)
-* [`world-bank.md`](./world-bank)
-
-I would ulitmately like to build a tool that pulls and re-organizes these data into a common framework.
-
----
 
 ## references:
 * Independent Accountability Mechanisms Network (IAMnet): http://independentaccountabilitymechanism.net/

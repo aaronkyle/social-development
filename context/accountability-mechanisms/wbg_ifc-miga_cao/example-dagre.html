@@ -140,9 +140,14 @@ var svg = d3.select("svg"),
 render(d3.select("svg g"), g);
 
 // Center the graph
-var xCenterOffset = (svg.attr("width") - g.graph().width) / 2;
-svgGroup.attr("transform", "translate(" + xCenterOffset + ", 20)");
-svg.attr("height", g.graph().height + 40);
+//var xCenterOffset = (svg.attr("width") - g.graph().width) / 2;
+//svgGroup.attr("transform", "translate(" + xCenterOffset + ", 20)");
+//svg.attr("height", g.graph().height + 40);
+  
+ svg.append("g")
+      .call(new dagred3.render(), graph)
+      .attr("transform", `scale(${(width > 1000) ? 1 : width/1000}) translate(${(width - graph.graph().width) / 2},20)`);
+  
 </script>
 
 <script src="https://dagrejs.github.io/project/dagre-d3/latest/demo/demo.js"></script>

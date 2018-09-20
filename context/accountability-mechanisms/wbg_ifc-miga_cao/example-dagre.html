@@ -135,16 +135,21 @@ var render = new dagreD3.render();
 // Set up an SVG group so that we can translate the final graph.
 var svg = d3.select("svg"),
     svgGroup = svg.append("g");
-      .call(new dagred3.render(), graph)
-      .attr("transform", `scale(${(width > 1000) ? 1 : width/1000}) translate(${(width - graph.graph().width) / 2},20)`);
   
 // Run the renderer. This is what draws the final graph.
 render(d3.select("svg g"), g);
 
-// Center the graph
-//var xCenterOffset = (svg.attr("width") - g.graph().width) / 2;
-//svgGroup.attr("transform", "translate(" + xCenterOffset + ", 20)");
-//svg.attr("height", g.graph().height + 40);
+  // With the graph drawn, the next challenge will be to make it responsive.
+  // Solution from [Observable](https://talk.observablehq.com/t/is-it-possible-for-dagre-to-be-responsive/1231) will affect the apparent viewport, but does not seem to affect the underlying graph.
+
+//  svg.append("g")
+     // .call(new dagred3.render(), graph)
+     // .attr("transform", `translate(${(width - graph.graph().width) / 2},20)`);
+  
+ Center the graph
+var xCenterOffset = (svg.attr("width") - g.graph().width) / 2;
+svgGroup.attr("transform", "translate(" + xCenterOffset + ", 20)");
+svg.attr("height", g.graph().height + 40);
   
 </script>
 

@@ -135,7 +135,9 @@ var render = new dagreD3.render();
 // Set up an SVG group so that we can translate the final graph.
 var svg = d3.select("svg"),
     svgGroup = svg.append("g");
-
+      .call(new dagred3.render(), graph)
+      .attr("transform", `scale(${(width > 1000) ? 1 : width/1000}) translate(${(width - graph.graph().width) / 2},20)`);
+  
 // Run the renderer. This is what draws the final graph.
 render(d3.select("svg g"), g);
 
@@ -143,10 +145,6 @@ render(d3.select("svg g"), g);
 //var xCenterOffset = (svg.attr("width") - g.graph().width) / 2;
 //svgGroup.attr("transform", "translate(" + xCenterOffset + ", 20)");
 //svg.attr("height", g.graph().height + 40);
-  
- svg.append("g")
-      .call(new dagred3.render(), graph)
-      .attr("transform", `scale(${(width > 1000) ? 1 : width/1000}) translate(${(width - graph.graph().width) / 2},20)`);
   
 </script>
 

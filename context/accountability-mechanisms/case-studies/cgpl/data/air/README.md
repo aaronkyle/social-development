@@ -177,50 +177,50 @@ The Tata Power website hosts CEG Test House test results for the period of Septe
 ---
 
 <table>
-<tr>	<th>	Author	</th>	<th>	Year	</th>	<th>	Date	</th>	<th>				Publication Title		</th>	</tr>
+<tr>	<th>Author	</th>	<th>Year	</th>	<th>Date	</th>	<th>			Publication Title		</th>	</tr>
 <tr>	<td>"Anil Sardana
-CEO & Managing Director"	</td>	<td>2017	</td>	<td>7-Aug-17	</td>	<td><a href=“https://www.tatapower.com/pdf/investor-relations/tata-power-stakeholder-meet.pdf”>	Stakeholders” Feedback Meet on FY17 Performance	</a>	</td>	</tr>
-<tr>	<td>CEG Test House	</td>	<td></td>	<td></td>	<td><a href=“https://www.tatapower.com/cgplmundra/pdf/air-report-tragadi-bunder-2014-15.pdf”>	Environmental Monitoring Report for CGPL, Location: Tragadi Bunder (Year 2014-15)	</a>	</td>	</tr>
-<tr>	<td>CEG Test House And Research Centre Pvt. Ltd.	</td>	<td>2014-2015	</td>	<td>30-Jan-15	</td>	<td><a href=“https://www.tatapower.com/pdf/cgpl-mundra/air-report-tragadi-bunder-2014-15.pdf”>	Environmental Monitoring Report For M/S Coastal Gujarat Power Limited (A Tata Power Company) 4150 MW (5x830mw) Thermal Power Plant, Mundra, Gujarat. Location: Tragadi Bunder (Year 2014-15)	</a>	</td>	</tr>
-<tr>	<td>CEG Test House And Research Centre Pvt. Ltd.	</td>	<td>2014-2015	</td>	<td></td>	<td><a href=“https://www.tatapower.com/pdf/cgpl-mundra/dustfall-report-oct2014-jun2015.pdf”>	COMPREHENSIVE REPORT OF DUST FALL MEASUREMENT FOR M/s COASTAL GUJARAT POWER LIMITED (A TATA POWER COMPANY) 4150 MW (5X830MW) THERMAL POWER PLANT, MUNDRA, GUJARAT (NOVEMBER 214 – JUNE 2015)	</a>	</td>	</tr>
-<tr>	<td>CGPL	</td>	<td>2015-2016	</td>	<td></td>	<td><a href=“https://www.tatapower.com/pdf/cgpl-mundra/annual-report-cr-cgpl15-16.pdf”>	Investing in Multi-Stakeholer Partnerships for Sustainable Impact	</a>	</td>	</tr>
-<tr>	<td>CGPL	</td>	<td>2017	</td>	<td></td>	<td><a href=“https://www.tatapower.com/pdf/cgpl-mundra/CGPL-CSR-policy.pdf”>	Policy for Corporate Social Responsibility in Coastal Gujarat Power Limited	</a>	</td>	</tr>
-<tr>	<td>CGPL	</td>	<td>2016	</td>	<td>2-Nov-16	</td>	<td><a href=“https://www.tatapower.com/pdf/cgpl-mundra/cgpl-board-resolution-reconstitution-of-csr-committee.pdf”>	Certified True Copy of the Resolution Passed by the Board of Directors at the Board Meeting held on 2bd November 2016	</a>	</td>	</tr>
-<tr>	<td>CGPL	</td>	<td>2015	</td>	<td>2015	</td>	<td><a href=“https://www.tatapower.com/pdf/cgpl-mundra/umpp-greener-future121015.pdf”>	Tata Power: Mundra Ultra Mega Power Project: Towards a cleaner and greener future	</a>	</td>	</tr>
-<tr>	<td>CGPL	</td>	<td>2014	</td>	<td></td>	<td><a href=“http://www.tatapower.com/sustainability/pdf/CGPL-6-mthly-EC-compliance-H2FY14.pdf”>	Half Yearly Compliance Report (April 2014)	</a>	</td>	</tr>
-<tr>	<td>CGPL	</td>	<td>2014	</td>	<td></td>	<td><a href=“https://www.tatapower.com/pdf/cgpl-mundra/annual-report-cr-cgpl.pdf”>	Reflections: Annual Review 2014	</a>	</td>	</tr>
-<tr>	<td>CGPL	</td>	<td>2014	</td>	<td></td>	<td><a href=“www.tatapower.com/cgpl-mundra/pdf/turning-tide.pdf”>	Turning the Tide: Molding the Lives of Fishermen on the Coastal Belt of Kutch, Gujarat	</a>	</td>	</tr>
-<tr>	<td>CGPL	</td>	<td>2013	</td>	<td></td>	<td><a href=“https://www.tatapower.com/pdf/cgpl-mundra/community-relations.pdf”>	Community Relations	</a>	</td>	</tr>
-<tr>	<td>CGPL	</td>	<td>2012	</td>	<td>9/13/2012	</td>	<td><a href=“https://www.tatapower.com/pdf/cgpl-mundra/dialogue-stakeholders.pdf”>		</a>	</td>	</tr>
-<tr>	<td>CGPL	</td>	<td></td>	<td></td>	<td><a href=“http://www.tatapower.com/cgpl-mundra/myths-realities.aspx”>	Mundra UMPP: Myths versus Realities	</a>	</td>	</tr>
-<tr>	<td>ERM	</td>	<td>2016	</td>	<td>2016	</td>	<td><a href=“https://www.tatapower.com/pdf/cgpl-mundra/social-assessment-report-jan-2016.pdf”>	Socio-Economic Assessment	</a>	</td>	</tr>
-<tr>	<td>Swadeep	</td>	<td>2017	</td>	<td>Apr-17	</td>	<td><a href=“https://www.tatapower.com/pdf/cgpl-mundra/livelihood-improvement-plan.pdf”>	Livelihood Improvement Plan for Identified Pagadiya Fishermen	</a>	</td>	</tr>
-<tr>	<td>Swadeep	</td>	<td>2017	</td>	<td>Apr-17	</td>	<td><a href=“https://www.tatapower.com/pdf/cgpl-mundra/livelihood-improvement-plan-gujarati.pdf”>	Livelihood Improvement Plan for Identified Pagadiya Fishermen	</a>	</td>	</tr>
+CEO & Managing Director"</td>	<td>2017	</td>	<td>7-Aug-17	</td>	<td><a href="https://www.tatapower.com/pdf/investor-relations/tata-power-stakeholder-meet.pdf">	Stakeholders’ Feedback Meet on FY17 Performance</a>	</td>	</tr>
+<tr>	<td>CEG Test House	</td>	<td>	</td>	<td>	</td>	<td><a href="https://www.tatapower.com/cgplmundra/pdf/air-report-tragadi-bunder-2014-15.pdf">	Environmental Monitoring Report for CGPL, Location: Tragadi Bunder (Year 2014-15)</a>	</td>	</tr>
+<tr>	<td>CEG Test House And Research Centre Pvt. Ltd.	</td>	<td>2014-2015	</td>	<td>30-Jan-15	</td>	<td><a href="https://www.tatapower.com/pdf/cgpl-mundra/air-report-tragadi-bunder-2014-15.pdf">	Environmental Monitoring Report For M/S Coastal Gujarat Power Limited (A Tata Power Company) 4150 MW (5x830mw) Thermal Power Plant, Mundra, Gujarat. Location: Tragadi Bunder (Year 2014-15)</a>	</td>	</tr>
+<tr>	<td>CEG Test House And Research Centre Pvt. Ltd.	</td>	<td>2014-2015	</td>	<td>	</td>	<td><a href="https://www.tatapower.com/pdf/cgpl-mundra/dustfall-report-oct2014-jun2015.pdf">	COMPREHENSIVE REPORT OF DUST FALL MEASUREMENT FOR M/s COASTAL GUJARAT POWER LIMITED (A TATA POWER COMPANY) 4150 MW (5X830MW) THERMAL POWER PLANT, MUNDRA, GUJARAT (NOVEMBER 214 – JUNE 2015)</a>	</td>	</tr>
+<tr>	<td>CGPL	</td>	<td>2015-2016	</td>	<td>	</td>	<td><a href="https://www.tatapower.com/pdf/cgpl-mundra/annual-report-cr-cgpl15-16.pdf">	Investing in Multi-Stakeholer Partnerships for Sustainable Impact</a>	</td>	</tr>
+<tr>	<td>CGPL	</td>	<td>2017	</td>	<td>	</td>	<td><a href="https://www.tatapower.com/pdf/cgpl-mundra/CGPL-CSR-policy.pdf">	Policy for Corporate Social Responsibility in Coastal Gujarat Power Limited</a>	</td>	</tr>
+<tr>	<td>CGPL	</td>	<td>2016	</td>	<td>2-Nov-16	</td>	<td><a href="https://www.tatapower.com/pdf/cgpl-mundra/cgpl-board-resolution-reconstitution-of-csr-committee.pdf">	Certified True Copy of the Resolution Passed by the Board of Directors at the Board Meeting held on 2bd November 2016</a>	</td>	</tr>
+<tr>	<td>CGPL	</td>	<td>2015	</td>	<td>2015	</td>	<td><a href="https://www.tatapower.com/pdf/cgpl-mundra/umpp-greener-future121015.pdf">	Tata Power: Mundra Ultra Mega Power Project: Towards a cleaner and greener future</a>	</td>	</tr>
+<tr>	<td>CGPL	</td>	<td>2014	</td>	<td>	</td>	<td><a href="http://www.tatapower.com/sustainability/pdf/CGPL-6-mthly-EC-compliance-H2FY14.pdf">	Half Yearly Compliance Report (April 2014)</a>	</td>	</tr>
+<tr>	<td>CGPL	</td>	<td>2014	</td>	<td>	</td>	<td><a href="https://www.tatapower.com/pdf/cgpl-mundra/annual-report-cr-cgpl.pdf">	Reflections: Annual Review 2014</a>	</td>	</tr>
+<tr>	<td>CGPL	</td>	<td>2014	</td>	<td>	</td>	<td><a href="www.tatapower.com/cgpl-mundra/pdf/turning-tide.pdf">	Turning the Tide: Molding the Lives of Fishermen on the Coastal Belt of Kutch, Gujarat</a>	</td>	</tr>
+<tr>	<td>CGPL	</td>	<td>2013	</td>	<td>	</td>	<td><a href="https://www.tatapower.com/pdf/cgpl-mundra/community-relations.pdf">	Community Relations</a>	</td>	</tr>
+<tr>	<td>CGPL	</td>	<td>2012	</td>	<td>9/13/2012	</td>	<td><a href="https://www.tatapower.com/pdf/cgpl-mundra/dialogue-stakeholders.pdf">	</a>	</td>	</tr>
+<tr>	<td>CGPL	</td>	<td>	</td>	<td>	</td>	<td><a href="http://www.tatapower.com/cgpl-mundra/myths-realities.aspx">	Mundra UMPP: Myths versus Realities</a>	</td>	</tr>
+<tr>	<td>ERM	</td>	<td>2016	</td>	<td>2016	</td>	<td><a href="https://www.tatapower.com/pdf/cgpl-mundra/social-assessment-report-jan-2016.pdf">	Socio-Economic Assessment</a>	</td>	</tr>
+<tr>	<td>Swadeep	</td>	<td>2017	</td>	<td>Apr-17	</td>	<td><a href="https://www.tatapower.com/pdf/cgpl-mundra/livelihood-improvement-plan.pdf">	Livelihood Improvement Plan for Identified Pagadiya Fishermen</a>	</td>	</tr>
+<tr>	<td>Swadeep	</td>	<td>2017	</td>	<td>Apr-17	</td>	<td><a href="https://www.tatapower.com/pdf/cgpl-mundra/livelihood-improvement-plan-gujarati.pdf">	Livelihood Improvement Plan for Identified Pagadiya Fishermen</a>	</td>	</tr>
 <tr>	<td>"TALEEM Research Foundation
-City Plaza, Bopal, Ahmedabad 380 058, INDIA"	</td>	<td>2016	</td>	<td>24-Nov-16	</td>	<td><a href=“https://www.tatapower.com/pdf/cgpl-mundra/baseline-health-profile-with-respect-to-air-quality-in-airshed-of-cgpl-power-plant.pdf”>	"A Baseline Health Profile with Respect to Air Quality in
+City Plaza, Bopal, Ahmedabad 380 058, INDIA"</td>	<td>2016	</td>	<td>24-Nov-16	</td>	<td><a href="https://www.tatapower.com/pdf/cgpl-mundra/baseline-health-profile-with-respect-to-air-quality-in-airshed-of-cgpl-power-plant.pdf">	"A Baseline Health Profile with Respect to Air Quality in
 Airshed of CGPL Power Plant Submitted to Coastal Gujarat Power Limited (CGPL)
-"	</a>	</td>	</tr>
-<tr>	<td>Tata Power	</td>	<td>2017	</td>	<td></td>	<td><a href=“https://www.tatapower.com/pdf/corporate-profile.pdf”>	Corporate Profile 2017	</a>	</td>	</tr>
-<tr>	<td>Tata Power	</td>	<td>2016	</td>	<td></td>	<td><a href=“https://www.tatapower.com/pdf/CSR-Annual-Report-FY16.pdf”>	COLOURS OF INVISIBLE GOODNESS: CSR Annual Report 2016	</a>	</td>	</tr>
-<tr>	<td>Tata Power	</td>	<td>2016	</td>	<td></td>	<td><a href=“https://www.tatapower.com/pdf/investor-relations/98Annual-Report-2016-17.pdf”>	Renewing Growth through Renewables [Annual Report 2016-2017]	</a>	</td>	</tr>
-<tr>	<td>Tata Power	</td>	<td>2015	</td>	<td></td>	<td><a href=“https://www.tatapower.com/pdf/familiarisation-programme-for-directors.pdf”>		</a>	</td>	</tr>
-<tr>	<td>Tata Power	</td>	<td>2014	</td>	<td>May 28 2014	</td>	<td><a href=“https://www.tatapower.com/pdf/investor-relations/notice-of-candidature-jul-14.pdf”>		</a>	</td>	</tr>
-<tr>	<td>Tata Power	</td>	<td>2012	</td>	<td></td>	<td><a href=“http://tatapower.com/sustainability/pdf/CGPL-18-04-2012.pdf”>	CGPL Half Yearly Compliance Report (18 April 2012)	</a>	</td>	</tr>
-<tr>	<td>Tata Power	</td>	<td>2012	</td>	<td></td>	<td><a href=“http://tatapower.com/sustainability/statutory-clearances.aspx”>	Tata Power Website - Statutory Clearances: Compliance	</a>	</td>	</tr>
-<tr>	<td>Tata Power	</td>	<td>2012	</td>	<td></td>	<td><a href=“https://www.tatapower.com/pdf/career/important-notice.pdf”>		</a>	</td>	</tr>
-<tr>	<td>Tata Power	</td>	<td></td>	<td></td>	<td><a href=“http://www.tatapower.com/cgpl-mundra/pdf/CGPL-25-4-2007.pdf”>		</a>	</td>	</tr>
-<tr>	<td>Tata Power	</td>	<td></td>	<td></td>	<td><a href=“https://www.tatapower.com/pdf/investor-relations/Shareholder-Information-Booklet.pdf”>	Shareholder Information Booklet	</a>	</td>	</tr>
-<tr>	<td>Tata Power	</td>	<td></td>	<td></td>	<td><a href=“https://www.tatapower.com/pdf/Tata-Power-AGM2017.pdf”>	Welcome to 98th Annual General Meeting: Renewing Growth through Renewables	</a>	</td>	</tr>
-<tr>	<td>Tata Power, H. M. Mistry	</td>	<td>2018	</td>	<td>23-Jan-18	</td>	<td><a href=“https://www.tatapower.com/pdf/investor-relations/notice-board-meeting.pdf”>		</a>	</td>	</tr>
-<tr>	<td></td>	<td>2014-2015	</td>	<td>10/20/205	</td>	<td><a href=“https://www.tatapower.com/pdf/cgpl-mundra/annual-report-cr-cgpl14-15.pdf”>	Reflections: Annual Review 2014-2015	</a>	</td>	</tr>
-<tr>	<td></td>	<td>2016	</td>	<td>Feb 01 2016	</td>	<td><a href=“https://www.tatapower.com/pdf/cgpl-mundra/CGPL-Compliance-to-IFC-E-S-Requirement%20.pdf”>	Status of CGPL”s Compliance to IFC”s Environment and Social Requirement during Pre-Operation Phase & Operation Phase	</a>	</td>	</tr>
-<tr>	<td></td>	<td>2015	</td>	<td>16/04/2015	</td>	<td><a href=“https://www.tatapower.com/pdf/cgpl-mundra/csr-strategic-intent.pdf”>	Strategic Intent for CGPL”s Sustainability Programmes	</a>	</td>	</tr>
-<tr>	<td></td>	<td>2018	</td>	<td></td>	<td><a href=“https://www.tatapower.com/pdf/cgpl-mundra/mm-plan.pdf”>	Management and Monitoring Plan Update Tata Ultra Mega Project (IFC # 25797) Coastal Gujarat Power Limited: Status and Timelines	</a>	</td>	</tr>
-<tr>	<td></td>	<td>2018	</td>	<td>Jan-18	</td>	<td><a href=“https://www.tatapower.com/pdf/cgpl-mundra/rap-status.pdf”>	Status of Implementation of Remedial Action Plan of CGPL and ADB	</a>	</td>	</tr>
-<tr>	<td></td>	<td>2013	</td>	<td></td>	<td><a href=“https://www.tatapower.com/pdf/cgpl-mundra/village-news-paper.pdf”>		</a>	</td>	</tr>
-<tr>	<td></td>	<td>2016-2017	</td>	<td></td>	<td><a href=“https://www.tatapower.com/pdf/investor-relations/notice-of-98thagm.pdf”>	Notice: UMPP, CGPL - Mundra, Gujarat	</a>	</td>	</tr>
-<tr>	<td></td>	<td></td>	<td></td>	<td><a href=“https://www.tatapower.com/pdf/nomination-form-14.pdf”>	Form No. SH-13 Nomination Form</a>	</td>	</tr>
-<tr>	<td></td>	<td>2017	</td>	<td></td>	<td><a href=“https://www.tatapower.com/pdf/Terms-&-conditions-of-IDs-appointment.pdf”>	Terms and conditions of appointment of Independent Directors	</a>	</td>	</tr>
-
+"</a>	</td>	</tr>
+<tr>	<td>Tata Power	</td>	<td>2017	</td>	<td>	</td>	<td><a href="https://www.tatapower.com/pdf/corporate-profile.pdf">	Corporate Profile 2017</a>	</td>	</tr>
+<tr>	<td>Tata Power	</td>	<td>2016	</td>	<td>	</td>	<td><a href="https://www.tatapower.com/pdf/CSR-Annual-Report-FY16.pdf">	COLOURS OF INVISIBLE GOODNESS: CSR Annual Report 2016</a>	</td>	</tr>
+<tr>	<td>Tata Power	</td>	<td>2016	</td>	<td>	</td>	<td><a href="https://www.tatapower.com/pdf/investor-relations/98Annual-Report-2016-17.pdf">	Renewing Growth through Renewables [Annual Report 2016-2017]</a>	</td>	</tr>
+<tr>	<td>Tata Power	</td>	<td>2015	</td>	<td>	</td>	<td><a href="https://www.tatapower.com/pdf/familiarisation-programme-for-directors.pdf">	</a>	</td>	</tr>
+<tr>	<td>Tata Power	</td>	<td>2014	</td>	<td>May 28 2014	</td>	<td><a href="https://www.tatapower.com/pdf/investor-relations/notice-of-candidature-jul-14.pdf">	</a>	</td>	</tr>
+<tr>	<td>Tata Power	</td>	<td>2012	</td>	<td>	</td>	<td><a href="http://tatapower.com/sustainability/pdf/CGPL-18-04-2012.pdf">	CGPL Half Yearly Compliance Report (18 April 2012)</a>	</td>	</tr>
+<tr>	<td>Tata Power	</td>	<td>2012	</td>	<td>	</td>	<td><a href="http://tatapower.com/sustainability/statutory-clearances.aspx">	Tata Power Website - Statutory Clearances: Compliance</a>	</td>	</tr>
+<tr>	<td>Tata Power	</td>	<td>2012	</td>	<td>	</td>	<td><a href="https://www.tatapower.com/pdf/career/important-notice.pdf">	</a>	</td>	</tr>
+<tr>	<td>Tata Power	</td>	<td>	</td>	<td>	</td>	<td><a href="http://www.tatapower.com/cgpl-mundra/pdf/CGPL-25-4-2007.pdf">	</a>	</td>	</tr>
+<tr>	<td>Tata Power	</td>	<td>	</td>	<td>	</td>	<td><a href="https://www.tatapower.com/pdf/investor-relations/Shareholder-Information-Booklet.pdf">	Shareholder Information Booklet</a>	</td>	</tr>
+<tr>	<td>Tata Power	</td>	<td>	</td>	<td>	</td>	<td><a href="https://www.tatapower.com/pdf/Tata-Power-AGM2017.pdf">	Welcome to 98th Annual General Meeting: Renewing Growth through Renewables</a>	</td>	</tr>
+<tr>	<td>Tata Power, H. M. Mistry	</td>	<td>2018	</td>	<td>23-Jan-18	</td>	<td><a href="https://www.tatapower.com/pdf/investor-relations/notice-board-meeting.pdf">	</a>	</td>	</tr>
+<tr>	<td>	</td>	<td>2014-2015	</td>	<td>10/20/205	</td>	<td><a href="https://www.tatapower.com/pdf/cgpl-mundra/annual-report-cr-cgpl14-15.pdf">	Reflections: Annual Review 2014-2015</a>	</td>	</tr>
+<tr>	<td>	</td>	<td>2016	</td>	<td>Feb 01 2016	</td>	<td><a href="https://www.tatapower.com/pdf/cgpl-mundra/CGPL-Compliance-to-IFC-E-S-Requirement%20.pdf">	Status of CGPL’s Compliance to IFC’s Environment and Social Requirement during Pre-Operation Phase & Operation Phase</a>	</td>	</tr>
+<tr>	<td>	</td>	<td>2015	</td>	<td>16/04/2015	</td>	<td><a href="https://www.tatapower.com/pdf/cgpl-mundra/csr-strategic-intent.pdf">	Strategic Intent for CGPL's Sustainability Programmes</a>	</td>	</tr>
+<tr>	<td>	</td>	<td>2018	</td>	<td>	</td>	<td><a href="https://www.tatapower.com/pdf/cgpl-mundra/mm-plan.pdf">	Management and Monitoring Plan Update Tata Ultra Mega Project (IFC # 25797) Coastal Gujarat Power Limited: Status and Timelines</a>	</td>	</tr>
+<tr>	<td>	</td>	<td>2018	</td>	<td>Jan-18	</td>	<td><a href="https://www.tatapower.com/pdf/cgpl-mundra/rap-status.pdf">	Status of Implementation of Remedial Action Plan of CGPL and ADB</a>	</td>	</tr>
+<tr>	<td>	</td>	<td>2013	</td>	<td>	</td>	<td><a href="https://www.tatapower.com/pdf/cgpl-mundra/village-news-paper.pdf">	</a>	</td>	</tr>
+<tr>	<td>	</td>	<td>2016-2017	</td>	<td>	</td>	<td><a href="https://www.tatapower.com/pdf/investor-relations/notice-of-98thagm.pdf">	Notice: UMPP, CGPL - Mundra, Gujarat</a>	</td>	</tr>
+<tr>	<td>	</td>	<td>	</td>	<td>	</td>	<td><a href="https://www.tatapower.com/pdf/nomination-form-14.pdf">	"Form No. SH-13 Nomination Form
+"</a>	</td>	</tr>
+<tr>	<td>	</td>	<td>2017	</td>	<td>	</td>	<td><a href="https://www.tatapower.com/pdf/Terms-&-conditions-of-IDs-appointment.pdf">	Terms and conditions of appointment of Independent Directors</a>	</td>	</tr>
 </table>
 

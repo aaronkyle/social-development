@@ -1,4 +1,12 @@
+Data on CGPL air quality comes from several data sources:
 
+1. Asian Development Bank
+2. Mundra Ultra Mega Power Plant / CGPL
+3. IFC
+4. Other Sources
+
+
+### Asian Development Bank
 
 |	Title	|	Document Date	|
 |	---|---|
@@ -11,7 +19,7 @@
 |	Annual Environmental and Social Monitoring Report (April 2012-March 2013)	|	Sep-13	|
 |	Annual Environmental and Social Monitoring Report (April 2013-March 2014)	|	Sep-14	|
 |	Annual Environmental and Social Monitoring Report (April 2014-March 2015)	|	Oct-15	|
-|	Annual Environmental and Social Monitoring Report (April 2015-March 2016)	|	Jul-16	|
+|	[Annual Environmental and Social Monitoring Report (April 2015-March 2016](https://www.adb.org/projects/documents/ind-mundra-umpp-apr-2015-mar-2016-esmr) | [PDF](https://www.adb.org/sites/default/files/project-document/202711/41946-014-esmr-36.pdf) Jul-16	|
 |	Annual Environmental and Social Monitoring Report (April 2016-March 2017)	|	Aug-17	|
 |	 Quarterly Environment & Social Monitoring Report (July-September 2011)	|	Dec-11	|
 |	 Quarterly Environment and Social Monitoring Report (April-June 2009)	|	Aug-09	|
@@ -32,11 +40,11 @@
 |	 Quarterly Environmental and Social Monitoring Report (January-March 2014)	|	Sep-14	|
 |	 Quarterly Environmental and Social Monitoring Report (January-March 2015)	|	Oct-15	|
 |	 Quarterly Environmental and Social Monitoring Report (January-March 2016)	|	Jul-16	|
-|	 Quarterly Environmental and Social Monitoring Report (January-March 2017)	|	Aug-17	|
+|	 [Quarterly Environmental and Social Monitoring Report (January-March 2017)](https://www.adb.org/sites/default/files/project-documents/41946/41946-014-esmr-en_1.pdf)	|	Aug-17	|
 |	 Quarterly Environmental and Social Monitoring Report (July-September 2013)	|	Mar-14	|
 |	 Quarterly Environmental and Social Monitoring Report (July-September 2014)	|	Jun-15	|
 |	 Quarterly Environmental and Social Monitoring Report (July-September 2016)	|	Dec-16	|
-|	 Quarterly Environmental and Social Monitoring Report (July-September 2017)	|	Feb-18	|
+|	 [Quarterly Environmental and Social Monitoring Report (July-September 2017 -  Q2)](https://www.adb.org/sites/default/files/project-documents/41946/41946-014-esmr-en_3.pdf)	|	Feb-18	|
 |	 Quarterly Environmental and Social Monitoring Report (October-December 2013)	|	Mar-14	|
 |	 Quarterly Environmental and Social Monitoring Report (October-December 2014)	|	Jun-15	|
 |	 Quarterly Environmental and Social Monitoring Report (October-December 2016)	|	Mar-17	|
@@ -48,6 +56,14 @@
 |	Summary of Analysis of Ambient Air Quality and Emissions around Coastal Gujarat Power Limited Power Plant	|	Jan-18	|
 |	Summary of Analysis of Ambient Air Quality and Emissions around Coastal Gujarat Power Limited Power Plant (Gujarati Translation)	|	Jan-18	|
 
+---
+
+https://www.adb.org/projects/41946-014/main#project-documents
+
+
+[Environment & Social Performance Report – Q2 FY 2017-18](https://www.adb.org/sites/default/files/project-documents/41946/41946-014-esmr-en_3.pdf)
+
+---
 
 [Environment & Social Performance Report – Q2 FY 2017-18](https://www.adb.org/sites/default/files/project-documents/41946/41946-014-esmr-en_3.pdf)
 
@@ -62,14 +78,6 @@ APPENDIX 3: COOLING WATER TEMPERATURERECORDS
 Manual Cooling Water Temperature Monitoring Records from July’17 to September’17
 
 Average Temperature Difference between Intake & Outfall Channel
-
-
-https://www.adb.org/sites/default/files/project-documents/41946/41946-014-esmr-en_1.pdf
-
-
----
-
-The Tata Power website hosts CEG Test House test results for the period of September 2014 through October 2015. CEG Test House. 2015. [Environmental Monitoring Report for M/S Coastal Gujarat Power Limited (A Tata Power Company) 4150 MW (5X830MW) Thermal Power Plant, Mundra, Gujarat. Location: Tragadi Bunder (2014-15)](https://www.tatapower.com/pdf/cgpl-mundra/air-report-tragadi-bunder-2014-15.pdf). 
 
 --- 
 
@@ -113,8 +121,7 @@ APPENDICES
 * Appendix 13: Safety Performance Data
     - Safety Performance Monitoring Data from January’17 to March’17
     
-    
-    --- 
+--- 
 
 [41946-014-esmr-36.pdf](https://www.adb.org/sites/default/files/project-document/202711/41946-014-esmr-36.pdf)
 
@@ -157,3 +164,12 @@ Annual Environment & Social Monitoring Report
         - Ambient Noise Monitoring Results at Villages – Graphical Plot from January 2016 to March 2016
     * Appendix 17: Safety Performance Data
         - Safety Performance Monitoring Data from April 2015 to March 2016
+
+
+https://www.adb.org/sites/default/files/project-documents/41946/41946-014-esmr-en_1.pdf
+
+
+### Mundra Ultra Mega Power Plant / CGPL
+
+The Tata Power website hosts CEG Test House test results for the period of September 2014 through October 2015. CEG Test House. 2015. [Environmental Monitoring Report for M/S Coastal Gujarat Power Limited (A Tata Power Company) 4150 MW (5X830MW) Thermal Power Plant, Mundra, Gujarat. Location: Tragadi Bunder (2014-15)](https://www.tatapower.com/pdf/cgpl-mundra/air-report-tragadi-bunder-2014-15.pdf). 
+

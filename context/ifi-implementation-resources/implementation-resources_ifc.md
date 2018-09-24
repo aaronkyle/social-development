@@ -86,3 +86,122 @@ The ESMS Self-Assessment and Improvement Guide contains a questionnaire and impr
 
 ESMS Toolkit - General [PDF]: [English](https://www.ifc.org/wps/wcm/connect/38089d8048377ccb9384f7299ede9589/ESMS_Toolkit_General.pdf?MOD=AJPERES) | Français | Español | Português | Türkçe | русский | 简体中文 | عربي
 The ESMS Toolkit - General provides tools — checklists, templates, and forms — to help you implement your ESMS improvement plan.
+
+
+<!--
+
+
+MAR 12, 2018
+
+Good Practice Note: Environmental, Health, and Safety Approaches for Hydropower Projects
+This Good Practice Note is intended to be used in conjunction with other EHS Guidelines and IFC's Performance Standards to identify, avoid, mitigate, and manage EHS risks and impacts in hydropower projects.
+
+74 pages | © March 2018 IFC | Complimentary
+
+MAR 2, 2018
+
+Good Practice Handbook on Environmental Flows for Hydropower Projects
+This Good Practice Handbook provides guidance to practitioners on taking rigorous and consistent approaches to assess and manage hydropower project impacts on downstream river ecosystems and people, through the assessment and provision of environmental flows (EFlows).
+
+154 pages | © March 2018 | Complimentary
+
+FEB 26, 2018
+
+Sustainable Banking Network (SBN) Global Progress Report
+The IFC-supported Sustainable Banking Network (SBN)’s first comprehensive Global Progress Report evaluates sustainable finance principles and policies in 34 member countries.
+
+74 pages | © February 2018 IFC | Complimentary
+
+JAN 31, 2018
+
+Addressing Gender and Gender-Based Violence in IFC Projects (flyer)
+This tip sheet outlines how IFC's Environmental and Social Performance Standards support gender equality and help combat gender-based violence.
+
+2 pages | © January 2018 | Complimentary
+
+
+
+
+OCT 20, 2017
+
+Good Practice Note: Managing Contractors' Environmental and Social Performance
+This Good Practice Note (GPN) is aimed at helping clients implement sound, consistent, and effective approaches, in compliance with IFC requirements, to manage the environmental and social (E&S) performance of their contractors, subcontractors, and other third parties working for the project.
+
+48 pages | © October 2017 IFC | Complimentary
+
+
+JUL 31, 2017
+
+Good Practice Note: IFC Life and Fire Safety: Hospitals
+The Life and Fire Safety Good Practice Note on Hospitals is a guideline for investment projects in both new and existing occupancies.
+
+48 pages | © July 2017 IFC | Complimentary
+
+JUL 31, 2017
+
+Good Practice Note: IFC Life and Fire Safety: Hotels
+The Life and Fire Safety Good Practice Note on Hotels is a guideline for investment projects in both new and existing occupancies.
+
+46 pages | © July 2017 IFC | Complimentary
+
+
+APR 11, 2017
+
+Environmental, Health, and Safety Guidelines for Liquefied Natural Gas Facilities
+The EHS Guidelines for Liquefied Natural Gas (LNG) Facilities include information relevant to LNG base load liquefaction plants, transport (by sea and land), storage, regasification (including floating storage regasification units), peak shaving terminals, and LNG fueling facilities.
+
+24 pages | © April 2017 World Bank Group | Complimentary
+
+MAR 1, 2017
+
+Good Practice Handbook: Use of Security Forces: Assessing and Managing Risks and Impacts
+This Good Practice Handbook on the Use of Security Forces: Assessing and Managing Risks and Impacts has been developed for IFC clients and other private sector companies and their consultants. The handbook provides practical, project-level guidance for companies to better understand and implement the requirements outlined in Performance Standard 4. Chapters focus on risk assessment, managing private security, managing the relationship with public security, preparing a security management plan, and assessing allegations or incidents related to security personnel.
+
+142 pages | © February 2017 IFC | Complimentary
+
+FEB 15, 2017
+
+Tafila Region Wind Power Projects - Cumulative Effects Assessment
+The Tafila Region Wind Power Project Cumulative Effects Assessment (CEA) is the first of its kind in the Eastern Europe, Middle East, and North Africa region. It aims to promote more sustainable wind energy investments in Jordan while assessing and managing potential adverse environmental and social effects of renewables. The overall management and technical direction of the CEA was undertaken by IFC, supported by a team of multidisciplinary international and Jordanian experts and advisors.
+
+184 pages | © February 2017 IFC | Complimentary
+
+FEB 2, 2017
+
+Environmental, Health, and Safety Guidelines for Ports, Harbors, and Terminals
+The EHS Guidelines for Ports, Harbors, and Terminals are applicable to marine and freshwater ports, harbors, and terminals for cargo and passengers.
+
+35 pages | © February 2017 World Bank Group | Complimentary
+
+NOV 17, 2016
+
+Environmental, Health, and Safety Guidelines for Petroleum Refining
+The EHS Guidelines for Petroleum Refining cover processing operations from raw crude oil to finished products, for example refinery fuel gas, liquefied petroleum gas, motor gasoline, kerosene, diesel oil, heating oil, fuel oil, bitumen, asphalt, lubricant oils, waxes, sulfur, pet-coke, and intermediate products for the petrochemical industry.
+
+35 pages | © November 2016 World Bank Group | Complimentary
+
+OCT 16, 2016
+
+Environmental & Social Review Procedures Manual
+The Environmental & Social Review Procedures Manual defines management-approved tasks to achieve client compliance with the Policy and Performance Standards on Environmental and Social Sustainability, Access to Information Policy, and Environmental, Health and Safety (EHS) Guidelines.
+
+88 pages | © October 2016 IFC | Complimentary
+
+
+
+
+MAR 31, 2016
+
+Environmental, Health and Safety Guidelines for Annual Crop Production
+The EHS Guidelines for Annual Crop Production include information relevant to large-scale production, harvesting, post harvesting processing and storage of major annual crops, including cereals, pulses, roots and tubers, oil-bearing crops, fiber crops, vegetables, and fodder crops, located in both temperate and tropical regions. It does not include the processing of raw materials into semi-finished and finished products.
+
+35 pages | © March 2016 World Bank Group | Complimentary
+
+NOV 23, 2015
+
+Environmental, Health and Safety Guidelines for Perennial Crop Production
+The EHS Guidelines for Perennial Crop Production include information relevant to large-scale plantation crops and outgrower systems and focuses on the primary production and harvesting through farming and plantation forestry of major multi-year food, fiber, energy, ornamental, and pharmaceutical crops, located in both temperate and tropical regions.
+
+35 pages | © November 2015 World Bank Group | Complimentary
+
+-->

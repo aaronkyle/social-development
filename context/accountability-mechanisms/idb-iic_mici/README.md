@@ -1,3 +1,101 @@
+[REFERENCE](http://siteresources.worldbank.org/EXTINSPECTIONPANEL/Resources/Rio20_IAMs_Contribution.pdf "Citizen-driven Accountability for Sustainable Development")
+
+
+Independent Consultation and Investigation Mechanism
+of the Inter-American Development Bank
+
+The IDB Board of Executive Directors established ICIM, which became effective on September 9, 2010. More details at: www.iadb.org/icim
+
+Mission, Roles, Responsibility and Areas of Focus
+
+Mission: The ICIM‟s core mission is to respond to Requests of
+individuals , organizations and/or communities that have been or
+believe they will be impacted because IDB has departed from its
+Operational Policies, thus contributing to more sustainable
+development results in the LCR Region.
+
+Roles, Responsibility and Areas of Focus The ICIM is led and
+manage by the three Principals: Executive Secretary, Project
+Ombudsperson and Panel Chairperson. They report directly to
+the Board of Executive Directors of the Bank. The Project
+Ombudsperson and the Panel have functional independence and
+act on their own initiative and according to their best judgment, in
+a manner consistent with the ICIM Policy.
+* Consultation Phase: The main objective of this phase is to provide
+individuals and communities with an opportunity to voice and address
+their concerns through a solution seeking dialogue sponsored by the
+Project Ombudsperson. The approaches and tools used in the
+Consultation Phase are flexible and collaborative, giving the parties the
+opportunity to find agreeable remedial options and adequate mitigating
+measures. In addition, as a result of the Consultation Phase, the Project
+Ombudsperson would identify systemic issues that might have
+contributed to the specific situation; gather lessons learned and extract
+good practices targeted to improve the social and environmental
+sustainability of IDB‟s operations.
+* Compliance Review Phase: Enables individuals and communities to
+request an investigation of a Bank-Financed Operation by a Compliance
+Review Panel when they reasonably assert that their rights or interests
+have been, or could be expected to be directly, materially adversely
+affected by the failure of the IDB to follow its relevant Operational
+Policies. The objective of a Compliance Review investigation shall be to
+establish whether (and if so, how and why) any Bank action or omission,
+in respect of a Bank-Financed Operation, has resulted in non compliance
+with a Relevant Operational Policy and direct, material and adverse
+effects (potential or actual) exist.
+*  Principles: The ICIM follows, among others, the principles of
+independence, integrity, impartiality, collaboration, responsibility and
+predictability, Promotes transparency in Bank operations through its
+Public Registry, and pursues a positive impact on Bank-finance
+operations. 
+
+
+Key Outputs, Practices & Engagement with Internal & External Stakeholders
+
+Key outputs and practices: ICIM‟s products (effective Consultations and effective Compliance
+Reviews) contribute to improvements in the adherence to and the implementation of Operational
+Policies, and thus to better and more sustainable projects and their results.
+*  Consultation Phase
+*  Eligibility Determinations: Being the entry point for the Mechanism, during the Consultation Phase the
+first analysis of requests is carried out to ensure that the eligibility criteria set forth in the ICIM Policy is met
+and no exclusion applies. During this initial prima facie analysis, the merits of the request are not assessed.
+*  Assessment Reports: These allow a close-up aimed at gathering relevant information and performing an
+in-depth analysis of the requests and their alleged impacts, potential or actual.
+*  Dialogue or Solution-Seeking Process: These are collaborative exercises that help the parties in the
+clarification/prioritization of issues. Dialogue processes constitute an early warning tool to prevent and/or
+manage escalation risks, among other.
+*  Consultation Reports: Are also the closing reports of the Consultation Phase in which the process since
+inception is recorded; the main results and outcomes of the effort are made public and systemic lessons
+are identified and collected.
+*  Compliance Review Phase
+*  Eligibility reports: If requesters decline to participate in a consultation or if consultations do not lead to
+agreements, then the Panel conducts another eligibility determination to take account of evolving
+circumstances.
+*  Investigation reports and findings: Independent investigation and fact-finding assesses project-level
+policy compliance, and leads to remedies for harm to people and environment. Findings reported directly to
+the Board.
+*  Bank Management Responses and Action Plan: In response to Panel findings on compliance and harm,
+Bank Management prepares Response and Action Plan (with Government) to address findings. Reports
+and findings are made available to requesters, affected people and the public.
+*  Systemic Observations, Corporate Learning: Reports and Management Responses include systemic
+observations and lessons learned which promote corporate learning and transparency through their
+publication.
+*  Public Awareness: Produces publications to inform public of its activities and for outreach (Annual Report,
+press releases, etc).
+*  Case Studies : Based on lessons learned, the ICIM produces case studies in support of institutional
+strengthening and development effectiveness of IDB operations.
+
+ICIM engages with the following internal and external stakeholders:
+
+*  IDB Board (reports directly to the Board) and MIF Donors Committee;
+*  Management: The Mechanism interacts with project teams, the safeguards Unit, country offices, technical
+experts and Management across the institution. This interaction is mainly through independent problemsolving
+exercises; fact-finding assessments, lessons-learned reporting and advisory services.
+*  External Stakeholders: ICIM gives voice to project affected people and builds awareness through
+outreach. It routinely engages and interacts with communities, civil society organizations, NGOs, public
+agencies, private sector and others. The ICIM also partners with other IAMS when necessary. 
+
+
+
 
 <!--
 https://idblegacy.iadb.org/en/about-us/administrative-tribunal/frequently-asked-questions,20698.html?isajaxrequest&actionuserstats=close&valcookie=

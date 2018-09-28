@@ -1,4 +1,48 @@
-## EBRD [Project Complaint Mechanism](http://www.ebrd.com/work-with-us/project-finance/project-complaint-mechanism.html)
+## EBRD [Project Complaint Mechanism](http://www.ebrd.com/work-with-us/project-finance/project-complaint-mechanism.html "Citizen-driven Accountability for Sustainable Development")
+
+[REFERENCE]( "http://siteresources.worldbank.org/EXTINSPECTIONPANEL/Resources/Rio20_IAMs_Contribution.pdf")
+
+Project Complaint Mechanism of the European Bank of
+Reconstruction and Development 
+
+ The European Bank for Reconstruction and Development (EBRD) has established the Project Complaint Mechanism (PCM) as part of its
+commitment to the transparency and accountability of its operations. The PCM gives individuals, organisation and local groups that
+might be adversely affected by a Bank-funded project a means of raising complaints with the Bank, independently from banking
+operations. The PCM was launched in March 2010. The PCM website can be accessed at: http://www.ebrd.com/pages/project/pcm.shtml 
+
+Mission and Structure
+
+### Key Features: 
+The EBRD‟s new accountability mechanism, the Project Complaint Mechanism (PCM), operational since March 2010, has replaced the Independent Recourse Mechanism (IRM) that has been in place since July 2004.
+
+The PCM has been established to assess and review complaints about bankfinanced projects, independently from banking operations. The Rules of Procedure of the PCM were approved by the EBRD Board of Directors in May 2009.
+
+The new mechanism is expected to enhance the Bank‟s accountability. It includes features that make it more accessible, strengthened the Bank‟s ability to monitor clients‟ commitment to relevant EBRD policies. The Mechanism now also provides more opportunities for consultations with all relevant parties and publication of monitoring reports.
+
+### Structure: 
+
+The PCM is independent from the EBRD‟s banking operations and the Bank‟s Environment Department. The Project Complaint Mechanism Officer (PCM Officer) coordinates all PCM processes and, together with an independent expert, makes an eligibility assessment of complaints, once registered. If a Compliance Review is warranted, a member of the panel of PCM Experts will carry it out. If a Problem-solving Initiative is needed, then subject to the prior approval of the Bank‟s President, the PCM Officer and/or a PCM Expert will serve as facilitator.
+
+Four independent Experts have, to date, been appointed by the EBRD to a panel of PCM Experts. Their functions include the assessment, in conjunction with the PCM Officer of the eligibility of complaints, the undertaking of Compliance Reviews or Problem-solving Initiatives and follow up monitoring. These international experts specialise in areas such as the environment, social development and law reform and operate externally to the Bank. After initial terms of three, four or five years, the Experts‟ appointments can be extended for renewable terms of three years.
+
+### Functions:
+As its predecessor IRM, the PCM has two functions:
+
+- a Compliance Review function: to assess whether a Bank approved project complies with relevant Bank policies, specifically relevant environmental policies and project-specific provisions of the Public Information Policy, and - a Problem-solving function: to restore dialogue between the parties, where possible, to try to resolve the underlying issues giving rise to the complaint or grievance. A Problem-solving Initiative might include: independent fact-finding, mediation, conciliation, dialogue facilitation, investigation or reporting.
+
+In assessing a complaint, there may be a recommendation for a Compliance Review or Problem-solving Initiative, or both or neither.
+
+### Changes from the previous mechanism: 
+
+Compared to the IRM, the new mechanism benefits from an improved and user-friendly registration system and wider scope for potential complainants. In particular, the group of potential complainants has been expanded to include NGOs and other civil society organisations (CSOs). Also, an individual alone may raise a complaint under the new mechanism without the necessity to be part of an affected group, which was the case under the IRM. It is important to mention, however, that complaints by CSOs will be eligible only for Compliance Reviews under the
+PCM.
+
+The PCM also considerably enhances transparency by providing more opportunities for consultations with all relevant parties, including the complainant, the Bank, and the sponsors or financiers of the project in question. Importantly, it also provides for the publication of monitoring reports, such as reports on how well the Bank or client, as the case maybe, is implementing the recommendations or agreements arising from Compliance
+Reviews or Problem-solving Initiatives
+
+
+
+---
 
 The Project Complaint Mechanism (PCM) is the EBRD's accountability mechanism that has been established to assess and review complaints about Bank-financed projects. It provides individual(s) and local groups that may be directly or adversely affected by an EBRD project, as well as civil society organisations, a means of raising complaints or grievances with the Bank, independently from banking operations.
 

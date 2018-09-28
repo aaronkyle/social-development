@@ -98,6 +98,9 @@ In both its Ombudsman and Compliance roles, the CAO has broad investigatory powe
 As of the end of 2010, the CAO’s office had received 79 claims, involving 41 different projects. While some of these claims have resulted in long and complex involvement by the CAO, others have involved relatively short interventions.
 
 
+
+<img src="http://applied-anthro.com/context/accountability-mechanisms/wbg_ifc-miga_cao/cao-process-example.svg"></img>
+
 ---
 http://www.cao-ombudsman.org/newsroom/documents/CAOOutreachPresentation-GhanaVC-December2017.pdf
 

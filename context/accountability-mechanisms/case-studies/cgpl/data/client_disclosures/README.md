@@ -404,3 +404,112 @@
     <td><a href="www.tatapower.com/cgpl-mundra/pdf/dialogue-stakeholders.pdf"></a></td>
   </tr>
 </table>
+
+
+---
+
+Updated project documentation [note, links aren't yet connected] from:
+
+https://www.tatapower.com/sustainability/compliance.aspx
+
+<div class="policiesAndCodeOfConduct" style="display: block;">
+<ul>
+	<li><a href="https://www.tatapower.com/pdf/sustainability/Mundra-BMW-Monthly-sep-18.pdf" class="pdf" target="_blank">CGPL - BMW Monthly Report - September 2018</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/Mundra-Ash-Monthly-sep-18.pdf" class="pdf" target="_blank">CGPL - Ash Monthly Report - September 2018</a></li>	
+	<li><a href="https://www.tatapower.com/pdf/sustainability/mundra-half-yearly-compliance-report.pdf" class="pdf" target="_blank">CGPL - Six monthly EC compliance report - October 2017 to March 2018</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/mundra-half-yearly-crz-compliance-report.pdf" class="pdf" target="_blank">CGPL - Six monthly CRZ Clearance Report - October 2017 to March 2018</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/CGPL-Env-Statement-2017-18.pdf" class="pdf" target="_blank">CGPL - Environmental Statement for the Financial Year Ending 31st March 2018</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/Mundra-BMW-annual-report-2017.pdf" class="pdf" target="_blank">CGPL - BMW Annual Report - 2017 </a></li>
+	<!--<li><a href="https://www.tatapower.com/pdf/sustainability/CGPL-Env-Statement-2016-17.pdf" class="pdf" target="_blank">CGPL - Environmental Statement for the Financial Year Ending 31st March 2017</a></li>-->
+     
+    <li><a href="https://www.tatapower.com/pdf/sustainability/forest-clearance-cgpl-8-june-09.pdf" class="pdf" target="_blank">CGPL - Forest Clearance (8th June 2009)</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/forest-clearance-cgpl-9june-08.pdf" class="pdf" target="_blank">CGPL - Forest Clearance (9th January 2008)</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/CGPL-mundra-coastal-biodiversity.pdf" class="pdf" target="_blank">CGPL - Mundra Coastal biodiversity report</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/CGPL26apr11.pdf" class="pdf" target="_blank">CGPL - Environmental Clearance &amp; second Amendment (26th April, 2011)</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/CGPL-9-3-2010.pdf" class="pdf" target="_blank">CGPL - Amendment to CRZ Clearance (9th March, 2010)</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/CGPL-25-4-2007.pdf" class="pdf" target="_blank">CGPL - CRZ Clearance (25th April, 2007)</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/CGPL-2-3-07-and-5-4-07.pdf" class="pdf" target="_blank">CGPL - Environmental Clearance &amp; Amendment (2nd March, 2007 &amp; 5th April, 2007)</a></li>
+<h3 class="padding-top25">Comprehensive (CEIA) EIA by TCE</h3>
+<h3 class="padding-none">Annexures</h3>
+<li><a href="https://www.tatapower.com/pdf/sustainability/Appendix-1.pdf" class="pdf" target="_blank">Sea Water Analysis from Gulf of Kutch</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/Appendix-3.pdf" class="pdf" target="_blank">Metrological Station Established in Tundawand</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/Appendix-4.pdf" class="pdf" target="_blank">Ambient Air Quality Monitoring Report for Summer-2006</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/Appendix-5-6.pdf" class="pdf" target="_blank">National Ambient Air Quality Standards (NAAQS)</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/Appendix-7.pdf" class="pdf" target="_blank">Ground Water Sampling at Village Desalpar</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/Appendix-7-a.pdf" class="pdf" target="_blank">Ground Water Quality In The Study Area During March 2006</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/Appendix-8-a-c.pdf" class="pdf" target="_blank">Soil Quality In The Study Area During Summer 2006</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/Appendix-9.pdf" class="pdf" target="_blank">List Of Survey No. In The Main Plant Area</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/Appendix-10.pdf" class="pdf" target="_blank">Population Distribution within the Study Area (within 10 kms)- 2001</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/Appendix-11.pdf" class="pdf" target="_blank">Workers Distribution Pattern in the Study Area</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/Appendix-13.pdf" class="pdf" target="_blank">Literacy Pattern of the Study Area</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/Appendix-15.pdf" class="pdf" target="_blank">Amenities in the Villages of the Study Area</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/APPENDIX_16.pdf" class="pdf" target="_blank">Satellite Data Analysis and Interpretation - Areas in the neighbourhood of the proposed Mega power Plant, Kutchch District, Gujarat State</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/APPENDIX_20.pdf" class="pdf" target="_blank">Topographic Feature Of The Area Covered For Marine Ecological Study</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/APPENDIX_21-22-23-24.pdf" class="pdf" target="_blank">The Boats Used for Marine Sampling</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/21-Appendix_28-MSDS_Chlorine.pdf" class="pdf" target="_blank">Material Safety Data Sheet</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/Appendix-29.pdf" class="pdf" target="_blank">ASH Utilization Plan</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/Appendix-30.pdf" class="pdf" target="_blank">Prospects of bulk use of Fly Ash in Agriculture &amp; Wasteland management - Initiatives of Fly Ash mission</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/Appendix-31.pdf" class="pdf" target="_blank">Questionnaire for Fly Ash Management</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/25-Appendix_33-Socioeconomics.pdf" class="pdf" target="_blank">4000000 MW Iimported Coall Fiired Mundra Ulltra Mega Thermall Power Projject</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/26-Appendix_34-EcologyMGR.pdf" class="pdf" target="_blank">Ecological Study Report for MGR System of 4000 MW Imported COAL Fired Mundra Ultra Mega Thermal Power Project</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/APPENDIX_2HTL%20LTL-145.pdf" class="pdf" target="_blank">Coastal Zone Information System Gujarat</a></li>
+    <li><a href="https://www.tatapower.com/pdf/sustainability/COI.pdf" class="pdf" target="_blank">Certificate of Incorporation</a></li>
+<h3 class="padding-top25">CEIA by TCE</h3>
+<li><a href="https://www.tatapower.com/pdf/sustainability/Cover-page.pdf" class="pdf" target="_blank">Comprehensive Environmental Impact Assessment Study Report</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/Chapter-seperator.pdf" class="pdf" target="_blank">Chapter Seperator</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/Chapter-I.pdf" class="pdf" target="_blank">Executive Summary</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/Chapter-II.pdf" class="pdf" target="_blank">Introduction</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/Chapter-III.pdf" class="pdf" target="_blank">Project Description</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/Chapter-IV.pdf" class="pdf" target="_blank">Baseline Environmental Condition</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/Chapter-V.pdf" class="pdf" target="_blank">Environmental Impact Assessment</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/Chapter-VI.pdf" class="pdf" target="_blank">Risk and Consequences Analysis</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/Chapter-VII.pdf" class="pdf" target="_blank">Disaster Management Plan</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/Chapter-VIII.pdf" class="pdf" target="_blank">Environmental Management Plan</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/Chapter-IX.pdf" class="pdf" target="_blank">Policy, Indian Legal and Administative Framework</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/Table-of-contents.pdf" class="pdf" target="_blank">Abbreviations</a></li>
+<h3 class="padding-top25">Marine EIA by National Institute of Oceanography (NIO, Mumbai)</h3>
+<h3 class="padding-none">Mundra CEIA Appendices</h3>
+<li><a href="https://www.tatapower.com/pdf/sustainability/mundra-11-APPENDIX_12-LANDUSE.pdf" class="pdf" target="_blank">Landuse Pattern of The Study Area (In Hectare)</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/mundra-13-APPENDIX_14_COAL-PRODUCTION.pdf" class="pdf" target="_blank">Coal Production by Villagers From Wood Near Tragadi Village</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/mundra-16-APPENDIX_17-18-19.pdf" class="pdf" target="_blank">View of Barren Project Site Area Without Tree And Habitatiion</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/mundra-19-APPENDIX_25-mixing-height.pdf" class="pdf" target="_blank">Stability Class and Mixing Height for Summer 2006</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/mundra-20-APPENDIX_26-27ENVT-STNDS.pdf" class="pdf" target="_blank">Environmental Standards for Power Plants</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/mundra-25-Appendix_33-Socioeconomics.pdf" class="pdf" target="_blank">44000000 MW Iimported Coall Fiired Mundra Ulltra Mega Thermall Power Projject</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/mundra-26-Appendix_34-EcologyMGR.pdf" class="pdf" target="_blank">Ecological Study Report for MGR System</a></li>
+<h3 class="padding-top25">NIO marine EIA</h3>
+<li><a href="https://www.tatapower.com/pdf/sustainability/CONTENT-1.pdf" class="pdf" target="_blank">Contents</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/COVERPAGE.pdf" class="pdf" target="_blank">Cover Page</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/FINAL.pdf" class="pdf" target="_blank">Introduction</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/LIST.pdf" class="pdf" target="_blank">Project Team</a></li>
+<h3 class="padding-top25">Figures</h3>
+<li><a href="https://www.tatapower.com/pdf/sustainability/1.4.1.pdf" class="pdf" target="_blank">Gulf and the surrounding region</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/1.4.2.pdf" class="pdf" target="_blank">Sampling Locations</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/2.0.1.pdf" class="pdf" target="_blank">Satellite imagery of the gulf segment off Mundra vandh</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/2.2.1.pdf" class="pdf" target="_blank">Photograph showing the proposed site for effluent channel</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/2.4.1.pdf" class="pdf" target="_blank">Layout of the proposed development</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/4.2.1.pdf" class="pdf" target="_blank">Tide collected at Kotdi Creek during 4 to 12 January 2006</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/4.2.2.pdf" class="pdf" target="_blank">Observed tide at Kotdi Creek during 1 to 30 April 2006</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/4.2.3.pdf" class="pdf" target="_blank">Current speed and components at station 2 during January 2006</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/4.2.4.pdf" class="pdf" target="_blank">Current speed and components at station 2 during April 2006</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/4.2.5.pdf" class="pdf" target="_blank">Current speed and direction at station 2 during December 2008</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/4.2.6.pdf" class="pdf" target="_blank">Drogue trajectory at station 2 (Ebb-Flood-Ebb) during January 2006</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/4.2.7.pdf" class="pdf" target="_blank">Drogue trajectory at station 2 (Flood-Ebb-Flood) during January 2006</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/4.2.8.pdf" class="pdf" target="_blank">Drogue trajectory at station 2 (Flood-Ebb) during December 2008</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/4.2.9.pdf" class="pdf" target="_blank">Drogue trajectory at station 2 (Ebb-Flood) during December 2008</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/4.3.1.pdf" class="pdf" target="_blank">Water quality at Station 2 during December 2008</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/4.5.2.pdf" class="pdf" target="_blank">Temporal variation at Station 2 during December 2008</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/5.1.1.pdf" class="pdf" target="_blank">Comparison of simulation and observed currents at Station 2 (Spring)</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/5.1.2.pdf" class="pdf" target="_blank">Comparison of simulation and observed currents at Station 2 (Neap)</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/5.1.3.pdf" class="pdf" target="_blank">Modelled temperature distribution during peak flood tide (Spring)</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/5.1.4.pdf" class="pdf" target="_blank">Modelled temperature distribution during peak ebb tide (Neap)</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/5.1.5.pdf" class="pdf" target="_blank">Modelled temperature distribution during peak lowest low water tide (Spring)</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/5.1.6.pdf" class="pdf" target="_blank">Time series of temperature variations in intake channel</a></li>
+<h3 class="padding-top25">Tables</h3>
+<li><a href="https://www.tatapower.com/pdf/sustainability/Gulf-Tab-3.3.1-10.pdf" class="pdf" target="_blank">Water quality of the Gulf during premonsoon (1993-2004)</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/table-3.2.1.pdf" class="pdf" target="_blank">Details of cyclonic storms along North Gujarat coast (1893-1999)</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/Table-4.4.1.pdf" class="pdf" target="_blank">Sediment quality off Vandh during December 2008</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/table-4.31-4.3.6.pdf" class="pdf" target="_blank">Water quality at station 1 off Vandh during December 2008</a></li>
+<li><a href="https://www.tatapower.com/pdf/sustainability/tables4.5.1-4.5.23.pdf" class="pdf" target="_blank">Mangrove areas and status of occurrence of major species off Gujarat</a></li>
+</ul>
+ <div class="clear"></div>  
+</div>

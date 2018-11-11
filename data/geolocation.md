@@ -1,3 +1,8 @@
+
+## Country List
+
+
+
 <table>
 <tr>	<td>	Short-form name	</td>	<td>	Long-form name	</td>	<td>	GENC 2A Code (see Note 2)	</td>	<td>	Fips Cntry	</td>	<td>	GENC 3A Code (see Note 2)	</td>	<td>	ISO 3166-1 alpha-3	</td>	</tr>
 <tr>	<td>	Afghanistan	</td>	<td>	Islamic Republic of Afghanistan	</td>	<td>	AF	</td>	<td>	AF	</td>	<td>	AFG	</td>	<td>	AFG	</td>	</tr>
@@ -267,3 +272,17 @@
 <tr>	<td>	Zambia	</td>	<td>	Republic of Zambia	</td>	<td>	ZM	</td>	<td>	ZA	</td>	<td>	ZMB	</td>	<td>	ZMB	</td>	</tr>
 <tr>	<td>	Zimbabweernment / Zimbabwe	</td>	<td>	Republic of Zimbabwe	</td>	<td>	ZW	</td>	<td>	ZI	</td>	<td>	ZWE	</td>	<td>	ZWE	</td>	</tr>
 </table>
+
+
+
+## Data Codes
+
+**ISO** - https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3	
+
+**FIPS** - https://en.wikipedia.org/wiki/List_of_FIPS_country_codes				
+
+**GENC** - Geopolitical Entities, Names, and Codes (GENC) Standard two-letter and three-letter codes. GENC is the replacement standard for FIPS 10-4 and is the U.S. Government profile of the ISO 3166 international country code standard.
+
+For more information on GENC please see https://nsgreg.nga.mil/genc/discovery	 Also refer to the US Department of State list of Independent Countires: https://www.state.gov/s/inr/rls/4250.htm		
+
+

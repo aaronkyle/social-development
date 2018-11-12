@@ -1,6 +1,12 @@
 
 ## Country List
 
+Country names change, as do state boundaries.  Keeping up can be a real challenge.  Fortunately, several groups help to keep on top of this issues for us.
+
+The following list is my own small list of country names, used primarily for me to track development project locations and historical records about where specific developmental activities took places (referred to at varying places throughout this repository).
+
+I'd like to eventually see a group help to compile time-sequenced changes in state naming and coding classifications liked to chaning boundary information.
+
 
 
 <table>

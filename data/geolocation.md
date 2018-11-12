@@ -285,4 +285,66 @@
 
 For more information on GENC please see https://nsgreg.nga.mil/genc/discovery	 Also refer to the US Department of State list of Independent Countires: https://www.state.gov/s/inr/rls/4250.htm		
 
+---
 
+
+NSG Standards Registry.	["Geopolitical Entities, Names, and Codes Standard"](https://nsgreg.nga.mil/genc/discovery).  
+
+The Geopolitical Entities, Names, and Codes (GENC) Standard is the U.S. Government profile of ISO 3166 Codes for the representation of names of countries and their subdivisions. It specifies an authoritative set of country codes and names for use by the Federal Government for information exchange, using ISO 3166 (Parts 1 and 2) names and code elements wherever possible, with modifications only where necessary to comply with U.S. law and U.S. Government recognition policy. Information regarding events leading to the development of the GENC Standard is documented here. Frequently asked questions regarding the content and use of the GENC Standard are answered here.
+
+The GENC Standard is specified by the combination of a stable information design document and information content consisting of dynamically-managed entries in this registry. In accordance with OMB Circular A-119, federal agencies are directed to use voluntary consensus standards in lieu of government-unique standards except where inconsistent with law or otherwise impractical. ISO 3166 is the base standard for the profile that is the GENC Standard. The GENC Standard asserts both restrictions to, and extensions of, the ISO 3166 base standard; it is a Class 2 profile in accordance with the provisions of ISO 19106.
+
+The information content of the GENC Standard is specified with respect to ISO 3166 (Parts 1 and 2). Entries of the GENC Standard are either based on direct reuse of ISO 3166 code elements, or are a type of variation from that standard (Exclusion, Exception, Extension, or Exigent) based on U.S. government requirements. Note that in the case of Exceptions, the codes do not differ from ISO 3166. Exceptions are based on differences in naming (some politically significant, others simply stylistic) as approved by the United States Board on Geographic Names, and/or differences in how the territorial extent of an entity is understood. GENC Extensions introduce entities not included in ISO 3166. Entries from ISO 3166 that are excluded from the GENC Standard may be browsed in the GENC Registry.
+
+Infrequently, ISO 3166-1 code elements for a given country name are revised for reasons that are not related to a change in the country name itself. In consequence, a given country name may be assigned differing code element values over time. To enable information systems to easily recognize these occasions, a file specifying country code element correspondences is maintained here.
+
+For those occasions when it may be necessary to reference the names of countries that are not included in the content of the GENC Standard due to the disestablishment of those countries prior to the initial publication of the GENC, the Codes for Historical Country Names information guidance document specifies applicable codes and their corresponding names for use in "country coding" such data.
+
+---
+
+Country listing with the given two letter code (ISO alpha-2) and the three letter code (ISO alpha-3), the UN numeric code (ISO 3166-1 numeric-3), as well as the Geopolitical Entities and Codes (formerly FIPS PUB 10-4 code) for countries, dependencies, and other areas. 
+
+ISO 3166 a standard developed for the current names of countries, dependencies, and other areas of particular geopolitical interest, on the basis of lists of country names obtained from the United Nations and maintained by the ISO 3166 Maintenance Agency established by the ISO Council, the International Organization for Standardization (ISO). 
+
+The international two letter country code (ISO alpha-2) is used in the Internet as the country code Top Level Domain identifiers (ccTLDs). The code is based on the ISO 3166-1 "Country Codes". 
+
+ISO 3166-1 numeric-3 is a set of 3-digit codes, independent of a writing system, developed and maintained by the United Nations Statistics Division to represent the names of countries and dependent areas. 
+
+Geopolitical Entities and Codes (formerly FIPS PUB 10-4) are intended for general use throughout the US Government, especially in activities associated with the mission of the US Department of State and US defense programs. 
+
+Refer to:  The Nations Online Project. "[International Country Codes]https://www.nationsonline.org/oneworld/countrycodes.htm)".
+
+
+---
+
+Also refer to:
+
+The Nations Online Project. "[Country Codes List: ISO Alpha-2, Alpha-3, and Numeric Country Codes](https://www.nationsonline.org/oneworld/country_code_list.htm)".
+
+Wikipedia. "[ISO 3166-1 alpha-3](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3)."
+
+---
+
+National Geospatial Intelligence Agency. "[NGA GEOnet Names Server (GNS)](http://geonames.nga.mil/gns/html/)".
+
+
+---
+
+http://geonames.nga.mil/gns/html/countrycodes.html
+
+Codes for geopolitical entities used in the GNS are based on the U.S. Federal Information Processing Standards Publication 10-4 "Countries, Dependencies, Areas of Special Sovereignty, and Their Principal Administrative Divisions" (FIPS PUB 10-4).
+
+On September 2, 2008, the U.S. Department of Commerce withdrew FIPS PUB 10-4. The specifics of this action were announced in the U.S. Federal Register / Vol. 73, No. 170. The withdrawal of FIPS 10-4 was based on the Office of Management and Budget (OMB) Circular A-119 Federal Participation in the Development and Use of Voluntary Consensus Standards and in Conformity Assessment Activities. Circular A-119 directs federal agencies to use voluntary consensus standards in lieu of government-unique standards except where inconsistent with law or otherwise impractical.
+
+Following the withdrawal, the National Geospatial-Intelligence Agency (NGA), as the maintenance agency for FIPS PUB 10-4, maintained and provided regular content updates in an informal document known as Geopolitical Entities and Codes (GEC) (formerly FIPS PUB 10-4). GEC maintenance was discontinued on 31 December 2014. A compilation of the complete GEC content as of 31 December 2014 may be found here ([GEC_31DEC2014.xlsx](http://geonames.nga.mil/gns/html/docs/GEC_31DEC2014.xlsx)). The original GEC recompilation and the 18 GEC Updates may be found here ([GEC Updates](http://geonames.nga.mil/gns/html/gec_updates.html))
+
+The Geopolitical Entities, Names, and Codes (GENC) Standard, the US Government profile of ISO 3166, has been designated as the replacement standard for FIPS PUB 10-4. GENC provides a list of the basic geopolitical entities in the world, together with the administrative subdivisions that comprise each entity. The names of the geopolitical entities are derived from official meeting records of the Foreign Names Committee of the U.S. Board on Geographic Names (BGN). Further information and the GENC content may be found in the GENC Registry online at: https://nsgreg.nga.mil/genc/discovery.
+
+The GNS will continue to use geopolitical codes based on GEC (formerly FIPS PUB 10-4) for the foreseeable future. Once implementation of GENC codes begins, there will likely be a transition period during which both GEC and GENC codes are available to the GNS user. As more information becomes available it will be posted here.
+
+A crosswalk workbook of GENC and GEC codes is available here ([GENC_ED3U7_GEC_XWALK.xlsx](http://geonames.nga.mil/gns/html/docs/GENC_ED3U7_GEC_XWALK.xlsx)). This document will be updated quarterly.
+
+
+----
+
+Wikipedia."[Federal Information Processing Standards](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards)".

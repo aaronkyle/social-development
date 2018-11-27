@@ -1,5 +1,4 @@
-# [Environmental, Health and Safety Guidelines for Mining
-](https://www.ifc.org/wps/wcm/connect/1f4dc28048855af4879cd76a6515bb18/Final++Mining.pdf?MOD=AJPERES)
+# [Environmental, Health and Safety Guidelines for Mining](https://www.ifc.org/wps/wcm/connect/1f4dc28048855af4879cd76a6515bb18/Final++Mining.pdf?MOD=AJPERES)
 
 
 ## Introduction

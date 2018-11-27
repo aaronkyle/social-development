@@ -1,404 +1,13 @@
-OHS standards for Open pit mining - e.g. 1988, 1992 (draft), 1995 and 2007.
+# [Environmental, Health and Safety Guidelines for Mining
+](https://www.ifc.org/wps/wcm/connect/1f4dc28048855af4879cd76a6515bb18/Final++Mining.pdf?MOD=AJPERES)
 
 
-OHS standards for Open pit mining - e.g. 1988, 1992 (draft), 1995 and 2007.
+## Introduction
 
-
-
----
-
-Environmental, Health, and Safety Guidelines
-https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/ehs-guidelines
-
-
-Mining
-https://www.ifc.org/wps/wcm/connect/1f4dc28048855af4879cd76a6515bb18/Final%2B-%2BMining.pdf?MOD=AJPERES&id=1323153264157
-
-Environmental, Health and Safety Guidelines
-for Mining [DECEMBER 10, 2007]
-
-
----
-
-
-
-
-
-https://www.ifc.org/wps/wcm/connect/eaeeed8048855a84865cd66a6515bb18/mining_openpit.pdf?MOD=AJPERES
-
-WORLD BANK ENVIRONMENT, HEALTH AND SAFETY GUIDELINES
-MINING AND MILLING - OPEN PIT
-
-Source: The World Bank policies and guidelines, supplemented with information from OECD sources and the
-proposed revisions to the World Bank guidelines.
-L:\wpeu\guidelns\current\word6\min_pit.doc
-August 11, 1995 
-
-
----
-
-
-
-
-1988-OHS-Guidelines.pdf
-2007_Final++Mining.pdf
-Draft 1992 OHS - page 134.pdf
-mining_openpit-1995.pdf
-
-
-
----
-
-1984-OHS-Guidelines.pdf
-
-http://documents.worldbank.org/curated/en/966921468765606279/Occupational-health-and-safety-guidelines
-http://documents.worldbank.org/curated/en/966921468765606279/pdf/multi0page.pdf
-
----
-
-1988-OHS-Guidelines.pdf
-http://documents.worldbank.org/curated/en/308631492969180329/Occupational-health-and-safety-guidelines
-http://documents.worldbank.org/curated/en/308631492969180329/pdf/multi0page.pdf
-
-
-
-
-
-Draft 1992 OHS - page 134.pdf
-
-
-Source: Draft· Occuuational Health and Safetv Guidelines. The World Bank, 1992.
-
-
----
-
-
-
-
-
-mining_openpit-1995.pdf
-https://www.ifc.org/wps/wcm/connect/eaeeed8048855a84865cd66a6515bb18/mining_openpit.pdf?MOD=AJPERES
-
-
-
-
-1998-pollution-prevention.pdf
-http://documents.worldbank.org/curated/en/758631468314701365/pdf/multi0page.pdf
-
-
-
-2007_Final++Mining.pdf
-https://www.ifc.org/wps/wcm/connect/1f4dc28048855af4879cd76a6515bb18/Final++Mining.pdf?MOD=AJPERES
-
-
-
-
----
-
-Final - General EHS Guidelines_APRIL 29.doc
-https://www.ifc.org/wps/wcm/connect/9aef2880488559a983acd36a6515bb18/2%2BOccupational%2BHealth%2Band%2BSafety.pdf?MOD=AJPERES
-
----
-
-
-
-
-1988-OHS-Guidelines.pdf
-http://documents.worldbank.org/curated/en/308631492969180329/Occupational-health-and-safety-guidelines
-http://documents.worldbank.org/curated/en/308631492969180329/pdf/multi0page.pdf
-
-ALSO
-http://documents.worldbank.org/curated/en/813211468331794803/pdf/multi0page.pdf
-
-
-...
-
-starting from:
-http://documents.worldbank.org/curated/en/813211468331794803/pdf/multi0page.pdf
-
-page 56 / 470
-
-
-
-Occupational Guidelines
-
-13. Occupational guidelines given in the following table are extracted
-fram Occupational Safety and Health Administration (US Department of
-Labor) and fran the booklet "'TLV" published by the American Conference on
-Governmental Industrial Hygienists (1977). As discussed earlier, entries
-in this table are TLV values for 8-hours exposure. Actually, any facility
-should be designed and cperated to give levels well below these values (no
-more than one-half the TLV is recommrended).
-
-14. When figures are presented in millions of particles per cubic
-foot (mIppf) they were determined by measurements on impinger samples
-counted by light field techniques.
-
-...
-
-Gaseous Effluents
-
-...
-
-9. Quarrying and mining operations can discharge dust or particulate
-matter into the atmosphere, as can plants producing steel, cement, and fertilizers.
-While dusts may create environmental problems, it is important
-to note that they may also create serious occupational hazards if the work
-place has been poorly designed or is not properly operated. The human
-health problem is of primary importance in these situations.
-
-
-...
-
-
-
-----
-
-mining_openpit-1995.pdf
-https://www.ifc.org/wps/wcm/connect/eaeeed8048855a84865cd66a6515bb18/mining_openpit.pdf?MOD=AJPERES
-
-
-WORLD BANK ENVIRONMENT, HEALTH AND SAFETY GUIDELINES
-MINING AND MILLING - OPEN PIT
-
-TAILINGS DISPOSAL
-
-Tailings must be disposed of in a manner that optimizes protection of human safety and the environment. On-land
-tailings impoundment systems must be designed and constructed in accordance with internationally recognized
-engineering practices, local seismic conditions, and precipitation conditions. On-land disposal systems should be
-designed to isolate acid leachate-generating material from oxidation or percolating water. Marine discharges of
-tailings must not have a significant adverse effect on coastal resources. Riverine discharges are not acceptable
-unless the project sponsor provides thorough documentation regarding: 1) environmental analysis of alternatives,
-and 2) effects on aquatic resources and downstream users of riverine resources.
-
-If the mining operation involves a series of open pit operations, project sponsors must evaluate the feasibility of
-using abandoned open pits for tailings disposal.
-
-LIQUID EFFLUENTS
-
-The following are guidelines for effluent discharged to receiving waters from tailings impoundments, mine
-drainage, sedimentation basins, sewage systems, and stormwater drainage. They do not apply to direct discharge of
-tailings to the marine environment.
-
-pH 6 to 9
-BOD5 50 mg/l
-Oil and Grease 20 mg/l
-Total Suspended Solids 50 mg/l
-Temperature - at the edge of Max 5° C above ambient temperature
-a designated mixing zone of receiving waters - max 3° C if
- receiving waters >28° C
- 
-Residual Heavy Metals
-
-The following are recommended target guidelines below which there is expected to be no risk for significant
-adverse impact on aquatic biota or human use. In cases where natural background concentrations exceed these
-levels, the discharge may contain concentrations up to natural background levels. Concentrations up to 110% of
-natural background can be accepted if no significant adverse impact can be demonstrated.
-
-Arsenic 1.0 mg/l
-Cadmium 0.1 mg/l
-Chromium, Hexavalent 0.05 mg/l
-Chromium, Total 1.0 mg/l
-Copper 0.3 mg/l
-Iron, Total 2 mg/l
-Lead 0.6 mg/l
-Mercury 0.002 mg/l
-Nickel 0.5 mg/l
-Zinc 1.0 mg/l
-Cyanide 
-
-Source: The World Bank policies and guidelines, supplemented with information from OECD sources and the
-proposed revisions to the World Bank guidelines.
-
-The following are recommended target guidelines for discharges below which there is expected to be no risk for
-significant adverse impact on aquatic biota or human use. In no case should the concentration in the receiving
-water outside of a designated mixing zone exceed 0.022 mg/l.
-
-Free Cyanide 0.1 mg/l
-Total Cyanide 1.0 mg/l
-Weak Acid Dissociable 0.5 mg/l
-
-Measures to prevent access by wildlife and livestock are required for all open waters (examples tailings
-impoundments and pregnant leach ponds) where WAD cyanide is in excess of 50 mg/l.
-
-AMBIENT AIR
-
-Concentrations of contaminants, measured outside the project property boundary, should not exceed the following
-limits:
-
-Particulate Matter (<10 µm)
-Annual Arithmetic Mean 100 µg/m3
-Maximum 24-hour Average 500 µg/m3
-Nitrogen Oxides, as NO2
-Annual Arithmetic Mean 100 µg/m3
-Maximum 24-hour Average 200 µg/m3
-Sulfur Dioxide
-Annual Arithmetic Mean 100 µg/m3
-Maximum 24-hour Average 500 µg/m3
-
-OTHER GENERAL ENVIRONMENTAL REQUIREMENTS
-
-Erosion and Sediment Control Plan
-
-Project sponsors are required to prepare and implement an erosion and sediment control plan. The plan should
-include measures appropriate to the situation to intercept, divert, or otherwise reduce the stormwater runoff from
-exposed soil surfaces, tailings dams, and waste rock dumps. Project sponsors are encouraged to integrate vegetative
-and non-vegetative soil stabilization measures in the erosion control plan. Sediment control structures (e.g.,
-detention/retention basins) should be installed to treat surface runoff prior to discharge to surface water bodies. All
-erosion control and sediment containment facilities must receive proper maintenance during their design life.
-
-Mine Reclamation Plan
-
-Project sponsors are required to prepare and implement a mine reclamation plan. The plan should include
-reclamation of tailings deposits, any open pit areas, sedimentation basins, and abandoned mine, mill, and camp sites.
-
- The main objectives of the mine reclamation plan are:
- 
-a) return the land to conditions capable of supporting prior land use or uses that are equal to or better than prior
-land use, to the extent practical and feasible
-b) eliminate significant adverse effects on adjacent water resources.
-
-Mine reclamation plans should incorporate the following components:
-
-a) conserve, stockpile, and use topsoil for reclamation
-b) slopes of more than 30% should be recontoured to minimize erosion and runoff
-c) native vegetation should be planted to prevent erosion and encourage self-sustaining development of a
-productive ecosystem on the reclaimed land 
-
-d) budget and schedule for pre- and post-abandonment reclamation activities
-e) plan views that show areas cleared, mined, refilled, and revegetated during each of the next 5 years and
-estimated activities at subsequent 5 year intervals
-
-Sewage Sludge Disposal
-
-Sewage sludge must be disposed of in an environmentally acceptable way in compliance with local laws and
-regulations. Project sponsors are encouraged to evaluate the environmental and health implications of using sewage
-sludge in reclaiming tailings deposits, waste rock dumps, and mined out areas.
-
-Solid Wastes Disposal
-
-Project sponsors are encouraged to recycle or reclaim materials where possible. If recycling or reclaim is not
-practical, these wastes must be disposed of in an environmentally acceptable way in compliance with local laws and
-regulations. Solvents and similar hazardous materials must not be disposed of in a manner likely to result in soil or
-groundwater contamination if groundwater is potentially useable for potable water or irrigation purposes. Waste
-rock dumps should be designed and engineered so that materials with high potential to generate acid leachate are
-isolated from oxidation or percolating water.
-
-WORKPLACE AIR QUALITY
-
-a) Periodic monitoring of workplace air quality should be conducted for air contaminants relevant to employee
-tasks and the plant's operations.
-b) Ventilation, air contaminant control equipment, protective respiratory equipment and air quality monitoring
-equipment should be well maintained.
-c) Protective respiratory equipment must be used by employees when the exposure levels for welding fumes,
-solvents and other materials present in the workplace exceed local or internationally accepted standards, or the
-following threshold limit values (TLVs):
-
-Arsenic 0.5 mg/m3
-Carbon Monoxide 29 mg/m3
-Copper 1 mg/m3
-Free Silica 5.0 mg/m3
-Hydrogen Cyanide 11 mg/m3
-Hydrogen Sulfide 14 mg/m3
-Lead, Dusts & Fumes, as Pb 0.15 mg/m3
-Nitrogen Dioxide 6 mg/m3
-Particulate (Inert or Nuisance Dusts) 10 mg/m3
-Sulfur Dioxide 5 mg/m3
-
-WORKPLACE NOISE
-
-a) Feasible administrative and engineering controls, including sound-insulated equipment and control rooms
-should be employed to reduce the average noise level in normal work areas.
-b) Plant equipment should be well maintained to minimize noise levels.
-c) Personnel must use hearing protection when exposed to noise levels above 85 dBA.
-
-WORK IN CONFINED SPACES
-
-a) Prior to entry and occupancy, all confined spaces (e.g., tanks, sumps, vessels, sewers, excavations) must be
-tested for the presence of toxic, flammable and explosive gases or vapors, and for the lack of oxygen.
-b) Adequate ventilation must be provided before entry and during occupancy of these spaces.
-c) Personnel must use air-supplied respirators when working in confined spaces which may become contaminated
-or deficient in oxygen during the period of occupancy.
-d) Observers/assistants must be stationed outside of confined spaces to provide emergency assistance, if
-necessary, to personnel working inside these areas. 
-
-HAZARDOUS MATERIAL HANDLING AND STORAGE
-
-a) All hazardous (reactive, flammable, radioactive, corrosive and toxic) materials must be stored in clearly
-labeled containers or vessels.
-b) Storage and handling of hazardous materials must be in accordance with local regulations, and appropriate to
-their hazard characteristics.
-c) Fire prevention systems and secondary containment should be provided for storage facilities, where necessary
-or required by regulation, to prevent fires or the release of hazardous materials to the environment.
-
-HEALTH - GENERAL
-
-a) Sanitary facilities should be well equipped with supplies (e.g., protective creams) and employees should be
-encouraged to wash frequently, particularly those exposed to dust, chemicals or pathogens.
-b) Ventilation systems should be provided to control work area temperatures and humidity.
-c) Personnel required to work in areas of high temperature and/or high humidity should be allowed to take
-frequent breaks away from these areas.
-d) Pre-employment and periodic medical examinations should be conducted for all personnel, and specific
-surveillance programs instituted for personnel potentially exposed to toxic or radioactive substances.
-
-SAFETY - GENERAL
-
-a) Conveyors and similar machinery should be provided with a means for stopping them at any point.
-b) Shield guards or guard railings should be installed at all belts, pulleys, gears and other moving parts.
-c) Elevated platforms and walkways, and stairways and ramps should be equipped with handrails, toeboards and
-non-slip surfaces.
-d) Electrical equipment should be grounded, well insulated and conform with applicable codes.
-e) Employees should be provided with hard hats, safety boots, eye and ear protection, and snug fitting gloves as
-appropriate.
-f) Masks and dust-proof clothing should be provided to personnel working in areas with high dust levels.
-g) Procedures must be strictly enforced for the storage, handling, and transport of explosives.
-h) All blasting operations must be carried out only by qualified and certified personnel.
-
-TRAINING
-
-a) Employees should be trained on the hazards, precautions and procedures for the safe storage, handling and use
-of all potentially harmful materials relevant to each employee's task and work area.
-b) Training should incorporate information from the Material Safety Data Sheets (MSDSs) for potentially
-harmful materials.
-c) Personnel should be trained in environmental, health and safety matters including accident prevention, safe
-lifting practices, the use of MSDSs, safe chemical handling practices, and proper control and maintenance of
-equipment and facilities.
-d) Training also should include emergency response, including the location and proper use of emergency
-equipment, use of personal protective equipment, procedures for raising the alarm and notifying emergency
-response teams, and proper response actions for each foreseeable emergency situation.
-
-RECORD KEEPING AND REPORTING
-
-a) The sponsor should maintain records of significant environmental matters, including monitoring data,
-accidents and occupational illnesses, and spills, fires and other emergencies.
-b) This information should be reviewed and evaluated to improve the effectiveness of the environmental, health
-and safety program.
-c) An annual summary of the above information should be provided to IFC. 
-
-
-
-----
-
-
-
-2007_Final++Mining.pdf
-https://www.ifc.org/wps/wcm/connect/1f4dc28048855af4879cd76a6515bb18/Final++Mining.pdf?MOD=AJPERES
-
-Environmental, Health, and Safety Guidelines
-MINING 
-
-Environmental, Health and Safety Guidelines
-for Mining
-
-
-
-Introduction
-The Environmental, Health, and Safety (EHS) Guidelines
-*
- are
+The Environmental, Health, and Safety (EHS) Guidelines are
 technical reference documents with general and industryspecific
 examples of Good International Industry Practice
-(GIIP)1. When one or more members of the World Bank Group
+(GIIP)<sup>1</sup>. When one or more members of the World Bank Group
 are involved in a project, these EHS Guidelines are applied as
 required by their respective policies and standards. These
 industry sector EHS guidelines are designed to be used
@@ -408,16 +17,17 @@ applicable to all industry sectors. For complex projects, use of
 multiple industry-sector guidelines may be necessary. A
 complete list of industry-sector guidelines can be found at:
 www.ifc.org/ifcext/enviro.nsf/Content/EnvironmentalGuidelines
+
 The EHS Guidelines contain the performance levels and
 measures that are generally considered to be achievable in new
 facilities by existing technology at reasonable costs. Application
 of the EHS Guidelines to existing facilities may involve the
 establishment of site-specific targets, with an appropriate
 timetable for achieving them.
+
 The applicability of the EHS Guidelines should be tailored to the
 hazards and risks established for each project on the basis of
 the results of an environmental assessment in which site-
-
 specific variables, such as host country context, assimilative
 capacity of the environment, and other project factors, are taken
 into account. The applicability of specific technical
@@ -432,13 +42,17 @@ any proposed alternatives is needed as part of the site-specific
 environmental assessment. This justification should
 demonstrate that the choice for any alternate performance
 levels is protective of human health and the environment.
-Applicability
+
+## Applicability
+
 The EHS Guidelines for Mining are applicable to underground
 and open-pit mining, alluvial mining, solution mining, and marine
 dredging. Extraction of raw materials for construction products
 are addressed in the EHS Guidelines for Construction Materials
 Extraction.
+
 This document is organized according to the following sections:
+
 Section 1.0 — Industry-Specific Impacts and Management
 Section 2.0 — Performance Indicators and Monitoring
 Section 3.0 — References and Additional Sources
@@ -455,8 +69,8 @@ capacity as well as varying levels of financial and technical feasibility.
 
 
 
-1.0 Industry-Specific Impacts
-and Management
+## 1.0 Industry-Specific Impacts and Management
+
 The following section provides a summary of EHS issues
 associated with mining activities (and including ore processing
 facilities) which may occur during the exploration, development
@@ -465,7 +79,9 @@ post-closure phases, along with recommendations for their
 management. Recommendations for the management of EHS
 issues common to most large industrial activities are provided in
 the General EHS Guidelines.
-1.1 Environmental
+
+### 1.1 Environmental
+
 Potential environmental issues associated with mining activities
 may include management of the following:
 · Water use and quality
@@ -476,7 +92,9 @@ may include management of the following:
 · Noise and vibrations
 · Energy Use
 · Visual Impacts
-Water Use and Quality
+
+#### Water Use and Quality
+
 Management of water use and quality , in and around mine sites,
 can be a significant issue. Potential contamination of water
 sources may occur early in the mine cycle during the exploration
@@ -490,7 +108,9 @@ agricultural potential. Mining activities should therefore include
 adequate monitoring and managementof water use, in addition
 to treatment of effluent streams including stormwater run-off
 from the mine property.
-Water Use
+
+##### Water Use
+
 Mines can use large quantities of water, mostly in processing
 plants and related activities, but also in dust suppression among
 other uses. Water is lost through evaporation in the final product
@@ -520,7 +140,8 @@ communities’ dependency on water resources and/or
 conservation requirements that may exist in the area. 
 
 
-Water Quality
+##### Water Quality
+
 Recommended practices to manage impacts to water quality
 include:
 · The quality and quantity of mine effluent streams
@@ -552,7 +173,8 @@ guideline values in Section 2.0,
 routing into septic or surface treatment as described in the
 General EHS Guidelines. 
 
-Stormwater
+##### Stormwater
+
 Key issues associated with management of stormwater include
 separation of clean and dirty water, minimizing run-off, avoiding
 erosion of exposed ground surfaces, avoiding sedimentation of
@@ -621,7 +243,8 @@ be performed immediately following application of the
 growth medium to avoid erosion.
 
 
-Acid Rock Drainage and Metals Leaching
+##### Acid Rock Drainage and Metals Leaching
+
 Acid Rock Drainage (ARD) refers to acid formation that occurs
 when Potentially Acid Generating (PAG) materials with acid
 generating sulfide minerals in excess of acid neutralizing
@@ -638,7 +261,9 @@ including where necessary, into the decommissioning, closure,
 and post-closure phases of the mine.
 The ARD and ML issues apply to waste rock, tailing materials
 and any exposed rock surfaces such as road cuts and pit walls.
-Groundwater Resource Protection
+
+##### Groundwater Resource Protection
+
 In addition to the prevention and control of effluents, wastes,
 and potential releases of hazardous materials, additional
 recommendations for the management of potential sources of
@@ -678,7 +303,9 @@ extraction area and off-site aquifers are protected;
 · Sufficient monitoring wells should be installed around
 cavities to enable monitoring of pressure levels, as well as
 water quantity and quality.
-Wastes
+
+#### Wastes
+
 Mines generate large volumes of waste. Structures such as
 waste dumps, tailing impoundments / dams, and containment
 facilities should be planned, designed, and operated such that
@@ -694,7 +321,9 @@ the type of mining undertaken, may include leach pad waste,
 workshop scrap, household and non-process-related industrial
 waste, as wells as waste oils, chemicals, and other potentially
 hazardous wastes.
-Waste Rock Dumps
+
+##### Waste Rock Dumps
+
 Depending on the stripping ratio (in open pit mines), large
 quantities of overburden or waste rock often need to be
 removed to expose the mineral to be mined. The overburden
@@ -726,7 +355,9 @@ deterioration of geotechnical properties with higher factors
 
 of safety. Stability / safety assessments of existing facilities
 should take these potential changes into account.
-Tailings
+
+##### Tailings
+
 Tailings management strategies vary according to site
 constraints and the nature / type of the tailings. Potential
 environmental impacts may include groundwater and surface

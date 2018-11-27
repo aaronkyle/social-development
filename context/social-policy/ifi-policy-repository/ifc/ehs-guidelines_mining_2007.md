@@ -866,7 +866,8 @@ practiced, consideration should be given to beneficial utilization
 of the gas. 
 
 
-Noise and Vibration
+#### Noise and Vibration
+
 Sources of noise emissions associated with mining may include
 noise from vehicle engines, loading and unloading of rock into
 steel dumpers, chutes, power generation, and other sources
@@ -918,7 +919,9 @@ recalculations;
 control with appropriate drilling grids;
 * Adequately designing the foundations of primary crushers
 and other significant sources of vibrations.
-Energy Use
+
+#### Energy Use
+
 Among the most significant energy consuming activities in
 mining are transport, exploration activities, drilling, excavation,
 extraction, grinding, crushing, milling, pumping, and ventilation
@@ -932,7 +935,8 @@ ore moving, ore crushing, and ore handling process, as
 well as using adjustable speed drives (ASDs) in
 applications with highly varying load requirements.
 
-Visual Impact
+#### Visual Impact
+
 Mining operations, and in particular surface mining activities,
 may result in negative visual impacts to resources associated
 with other landscape uses such as recreation or tourism.
@@ -953,7 +957,9 @@ placement of screening materials including trees and use of
 appropriate plant species in the reclamation phase as well as
 modification in the placement of ancillary facilities and access
 roads.
-1.2 Occupational Health and Safety
+
+### 1.2 Occupational Health and Safety
+
 Mining activities should seek to provide an operation where
 people are able to work without being injured and where the
 health of the workforce is promoted. Facility -specific
@@ -990,7 +996,8 @@ Bureau of Land Management’s Visual Resource Contrast Rating system
 (http://www.blm.gov/nstc/VRM/8431.html)
 
 
-General Workplace Health and Safety
+#### General Workplace Health and Safety
+
 Recommended strategies to manage general workplace safety
 hazards include the following:
 * Mining exploration and development activities should
@@ -1056,7 +1063,8 @@ ignition.
 15 As a general rule, mobile equipment should produce an illumination level of
 50 Lux across the passage at a distance of 1.5 times the stopping distance.
 
-Hazardous Substances
+#### Hazardous Substances
+
 Working areas should be provided with adequate ventilation and
 dust/ fume extraction systems to ensure that inhalation
 exposure levels for potentially corrosive, oxidizing, reactive or
@@ -1067,7 +1075,9 @@ in areas where there exists the possibility of chemical
 contamination of workers and the need for rapid treatment.
 Materials Safety Data Sheets (MSDSs) should be available for
 all hazardous materials held on site.
-Use of Explosives
+
+#### Use of Explosives
+
 Blasting activities that may result in safety impacts are typically
 related to accidental explosion and poor coordination and
 communication of blasting activities. Recommended explosives
@@ -1104,7 +1114,9 @@ explosives) in accordance with relevant national or
 internationally recognized fire and safety codes;
 * Qualified security personnel should be used to control
 transport, storage, and use of explosives on site.
-Electrical Safety and Isolation
+
+#### Electrical Safety and Isolation
+
 Electrical safety and isolation of all sources of hazardous energy
 and hazardous substances should be undertaken in accordance 
 with the General EHS Guidelines. Recommended
@@ -1120,7 +1132,9 @@ such safety systems;
 substances should have written procedures for
 isolation, identifying how the system, plant or
 equipment can be made and kept safe.
-Physical hazards
+
+#### Physical hazards
+
 Physical hazards in mining activities may include: the threat of
 landslides, rockfalls, face slumping, or land collapse in
 aboveground or underground mining environments; hazards
@@ -1129,7 +1143,9 @@ railways), hazards related to height and falling, and use of fixed
 and mobile equipment, lifting and hoisting devices, and moving
 machinery.. Recommended prevention and control strategies
 include:
+
 Geotechnical Safety
+
 * Planning, designing, and operating all structures such as
 open pits, waste dumps, tailing dams, containment facilities
 and underground excavations such that geotechnical risks
@@ -1174,6 +1190,7 @@ evaluation software should be the standard method for
 stability monitoring.
 
 Machine and Equipment Safety
+
 To prevent and control hazards related to machine and
 equipment use, measures for the enhancement of visibility
 should be applied throughout the mine. Specific visibility
@@ -1206,6 +1223,7 @@ http://www.cdc.gov/niosh/mining/mining/illum/.
 
 
 Ionizing Radiation
+
 Where natural radiation hazards exist, the recommended
 mitigation measures include the following:
 * Implementing a radiation dosimetry monitoring program for
@@ -1216,7 +1234,9 @@ month period (see Effective Dose Limits for Occupational
 Ionizing Radiation presented in Section 2.0). The program
 should include workplace assessments as well as personal
 monitoring.
+
 Fitness for work
+
 Mining operations often have a number of activities where
 fatigue or other causes of impaired fitness for work could
 produce potential for serious injury, equipment damage or
@@ -1247,13 +1267,17 @@ altitude;
 * Where food is prepared at a mining operation, food
 preparation, storage and disposal should be reviewed
 regularly and monitored to minimize risk of illness.
+
 Thermal stress
+
 Mining operations can require exposure of workers to extreme
 weather conditions. High temperature conditions generated by
 industrial processes can also result in thermal stress and should
 be considered. Thermal stress related to underground
 operations is discussed later in the document.
+
 Noise and Vibration
+
 Noise and vibration sources should be managed as described
 above in Section 1.1. Additional recommendations for the
 management of occupational exposures to noise and vibrations
@@ -1271,13 +1295,16 @@ or whole-body vibration from surfaces on which the worker
 stands or sits should be adequately controlled through the
 selection and maintenance of equipment which meets
 occupational vibration exposure standards.
+
 Specific Hazards in Underground Mining
+
 The following occupational health and safety hazards are
 specific to underground mining. As a general safety rule, a
 tagging system should be implemented to account for all
 persons traveling underground.
 
 Ventilation
+
 * Ventilation and air cooling systems should be appropriate
 for the workplace activities and be able to maintain work
 area temperatures and concentrations of contaminants at
@@ -1317,7 +1344,9 @@ levels reasonable and appropriate for the activities
 undertaken. Other practices should include heat tolerance
 screening, acclimatization, water breaks, and adoption of
 suitable work-rest regimens.
+
 Dust
+
 * Over and above the risks associated with dust identified
 earlier in this document and in the General EHS
 Guidelines, dust control should be fully integrated into
@@ -1326,7 +1355,9 @@ with blasting, drilling, and material transport and dumping.
 Minimization of dust is key to improved visual clarity in an
 underground setting, and also to the improvement of
 worker health.
+
 Fires and Explosions
+
 Underground mines should prepare and implement plans to
 prevent, detect, and combat the outbreak and spread of fires.
 Fire and explosion prevention and control strategies include:
@@ -1433,7 +1464,9 @@ machinery, and should be tested on a regular basis;
 in their possession at all times while underground. The
 peak luminance should be at least 1500 lux at 1.2 m from
 the light source throughout the shift.
+
 1.3 Community Health and Safety
+
 Community health and safety issues that may be associated
 with mining activities include transport safety along access
 corridors, transport and handling of dangerous goods, impacts
@@ -1462,14 +1495,18 @@ described in the General EHS Guidelines. Additional concerns
 specific to mining activities, with community health and safety
 implications, and also broader EHS implications are considered
 under the following headings:
+
 Tailings Dam Safety
+
 Dams, wet tailing impoundments, and other major wet
 containment facilities represent a potential risk depending on
 their location with regards to human settlements and other
 community resources. Tailings dam health, safety and
 environment considerations are covered earlier in this
 document.
+
 Water Storage Dams
+
 Water storage dams can potentially create and change the
 existing pattern of vector breeding sites. In areas where malaria
 is common, the shorelines of the WSD may create a mosquito
@@ -1479,7 +1516,9 @@ vegetated shoreline. In addition, the WSD may also create a
 new breeding site for the snail host of schistosomiasis, an
 important parasitic disease that is common in many tropical
 climates.
+
 Land Subsidence
+
 Land subsidence may occur as a result of underground or
 solution mining activities. Land subsidence may leave land
 prone to flooding and may otherwise damage property if it
@@ -1503,7 +1542,9 @@ areas.;
 drainage and re-established to previous land use or other
 use acceptable to the community. Roads in such areas
 should be adequately sign-posted.
+
 Emergency Preparedness and Response
+
 Emergency preparedness and response arrangements should
 be commensurate to the potential for emergency situations,
 reflecting the measures described in the General EHS
@@ -1512,7 +1553,9 @@ in accordance with the guidance of the UNEP APPEL for
 
 Mining: Awareness and Preparedness for Emergencies at the
 Local Level19 process.
+
 Communicable Diseases
+
 The nature of mining projects (e.g. location in remote areas with
 long material / product supply chains) requires proactive and
 sustained interventions to minimize the incidence and
@@ -1525,6 +1568,7 @@ industry practice for solid waste management, surface water
 drainage, and sanitary wastewater management are usually
 effective in reducing vector borne and water related
 communicable diseases.
+
 Project housing and catering facilities and services should be
 designed and maintained according to internationally accepted
 standards. Worker living quarters that are designed and
@@ -1611,7 +1655,9 @@ available insecticides;
 * Development of an effective short and long-term monitoring
 and evaluation program for both workers and potentially
 affected communities.
+
 1.4 Mine Closure and Post-Closure
+
 Closure and post-closure activities should be considered as
 early in the planning and design stages as possible. Mine
 sponsors should prepare a Mine Reclamation and Closure Plan
@@ -1629,6 +1675,7 @@ that:
 affected communities in the long term;
 * Adverse socio-economic impacts are minimized and socioeconomic
 benefits are maximized.
+
 The MRCP should address beneficial future land use (this
 should be determined using a multi-stakeholder process that
 includes regulatory agencies, local communities, traditional land
@@ -1639,15 +1686,16 @@ local communities and their government representatives.
 The closure plan should be regularly updated and refined to
 reflect changes in mine development and operational planning,
 as well as the environmental and social conditions and 
-
 circumstances. Records of the mine works should also be
 maintained as part of the post-closure plan.
+
 Closure and post closure plans should include appropriate
 aftercare and continued monitoring of the site, pollutant
 emissions, and related potential impacts. The duration of postclosure
 monitoring should be defined on a risk basis; however,
 site conditions typically require a minimum period of five years
 after closure or longer.
+
 The timing for finalization of the MRCP is site specific and
 depends on many factors, such as potential mine life, however
 all sites need to engage in some form of progressive restoration
@@ -1656,7 +1704,9 @@ during the construction and operational phases, plans should
 include contingencies for temporary suspension of activities and
 permanent early closure and meet the following objectives for
 financial feasibility and physical / chemical / ecological integrity.
+
 Financial Feasibility
+
 The costs associated with mine closure and post-closure
 activities, including post-closure care, should be included in
 business feasibility analyses during the planning and design
@@ -1673,6 +1723,7 @@ requirements should be reviewed on an annual basis and the
 closure funding arrangements adjusted to reflect any changes. 
 
 Physical Integrity
+
 All structures (e.g. tailings impoundments) should remain stable
 such that they do not impose a hazard to public health and
 safety as a result of physical failure or physical deterioration.
@@ -1686,6 +1737,7 @@ easily become choked after storm events. Structures should not
 erode or move from their intended location under extreme
 events or perpetual disruptive forces. Consideration should be
 given to backfilling of mine workings.
+
 Physical hazards such as unguarded roads, shafts, and other
 openings should be effectively and permanently blocked from all
 access to the public until such time that the site can be
@@ -1695,7 +1747,9 @@ communities or other industries for roads, buildings and other
 structures. Where there is a risk of methane emanating from
 disused shafts and other workings, passive venting systems
 should be considered.
+
 Chemical Integrity
+
 Surface water and groundwater should be protected against
 adverse environmental impacts resulting from mining and
 processing activities. Leaching of chemicals into the
@@ -1838,6 +1892,7 @@ Single year exposure
 
 
 Accident and Fatality Rates
+
 Projects should try to reduce the number of accidents among
 project workers (whether directly employed or subcontracted) to
 a rate of zero, especially accidents that could result in lost work
@@ -1848,6 +1903,7 @@ published sources (e.g. US Bureau of Labor Statistics and UK
 Health and Safety Executive)27.
 
 Occupational Health and Safety Monitoring
+
 The working environment should be monitored for occupational
 hazards relevant to the specific project. Monitoring should be
 designed and implemented by accredited profe ssionals 28 as part

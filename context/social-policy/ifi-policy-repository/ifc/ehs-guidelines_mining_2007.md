@@ -1,5 +1,18 @@
 # [Environmental, Health and Safety Guidelines for Mining](https://www.ifc.org/wps/wcm/connect/1f4dc28048855af4879cd76a6515bb18/Final++Mining.pdf?MOD=AJPERES)
 
+**DECEMBER 10, 2007**
+
+
+---
+
+**NOTE:** _This file reproduces IFC's 2007 [Environmental, Health and Safety Guidelines for Mining](https://www.ifc.org/wps/wcm/connect/1f4dc28048855af4879cd76a6515bb18/Final++Mining.pdf?MOD=AJPERES). I encourage you to visit [IFC's Environmental, Health, and Safety Guidelines webpage](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/ehs-guidelines) for regularly upated versions of the World Bank Group Environmental, Health, and Safety Guidelines (known as the "EHS Guidelines")._
+
+_I reproduce IFC's Performance Standards as plain text file to facilitate the work of those (such as myself) who find themselves constantly quoting the policy and irked by having to remove line breaks when copying from PDF files._
+
+<sub>-AKD</sub>
+
+---
+
 
 ## Introduction
 

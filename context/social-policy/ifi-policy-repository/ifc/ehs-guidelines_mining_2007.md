@@ -84,14 +84,14 @@ the General EHS Guidelines.
 
 Potential environmental issues associated with mining activities
 may include management of the following:
-· Water use and quality
-· Wastes
-· Hazardous materials
-· Land use and biodiversity
-· Air quality
-· Noise and vibrations
-· Energy Use
-· Visual Impacts
+* Water use and quality
+* Wastes
+* Hazardous materials
+* Land use and biodiversity
+* Air quality
+* Noise and vibrations
+* Energy Use
+* Visual Impacts
 
 #### Water Use and Quality
 
@@ -120,20 +120,20 @@ balance. Mines with issues of excess water supply, such as in
 moist tropical environments or areas with snow and ice melt,
 can experience peak flows which require careful management.
 Recommended practices for water management include:
-· Establishing a water balance (including probable climatic
+* Establishing a water balance (including probable climatic
 events) for the mine and related process plant circuit and
 use this to inform infrastructure design;
-· Developing a Sustainable Water Supply Management Plan
+* Developing a Sustainable Water Supply Management Plan
 to minimize impact to natural systems by managing water
 use, avoiding depletion of aquifers, and minimizing
 impacts to water users;
-· Minimizing the amount of make-up water;
-· Consider reuse, recycling, and treatment of process water
+* Minimizing the amount of make-up water;
+* Consider reuse, recycling, and treatment of process water
 where feasible (e.g. return of supernatant from tailings
 pond to process plant);
-· Consider the potential impact to the water balance prior to
+* Consider the potential impact to the water balance prior to
 commencing any dewatering activities;
-· Consultation with key stakeholders (e.g. government, civil
+* Consultation with key stakeholders (e.g. government, civil
 society, and potentially affected communities) to
 understand any conflicting water use demands and the
 communities’ dependency on water resources and/or
@@ -144,13 +144,13 @@ conservation requirements that may exist in the area.
 
 Recommended practices to manage impacts to water quality
 include:
-· The quality and quantity of mine effluent streams
+* The quality and quantity of mine effluent streams
 discharged to the environment, including stormwater, leach
 pad drainage, process effluents, and overall mine works
 drainage should be managed and treated to meet the
 applicable effluent discharge guideline values in Section
 2.0;
-· In addition, discharges to surface water should not result in
+* In addition, discharges to surface water should not result in
 contaminant concentrations in excess of local ambient
 water quality criteria outside a scientifically established
 mixing zone. Receiving water-body use and assimilative
@@ -159,17 +159,17 @@ discharges to the receiving water, should be considered
 with respect to acceptable contaminant loadings and
 effluent discharge quality as described in the General EHS
 Guidelines;
-· Efficient oil and grease traps or sumps should be installed
+* Efficient oil and grease traps or sumps should be installed
 and maintained at refueling facilities, workshops, fuel
 storage depots, and containment areas, and spill kits
 should be available with emergency response plans;
-· Water quality in open storage systems (e.g. leachate
+* Water quality in open storage systems (e.g. leachate
 areas, solution ponds, and tailings ponds or
 impoundments) should be based on the results of a sitespecific
 risk assessment with appropriate control measures
 put in place to mitigate the risk or meet the effluent
 guideline values in Section 2.0,
-· Sanitary wastewater should be managed via reuse or
+* Sanitary wastewater should be managed via reuse or
 routing into septic or surface treatment as described in the
 General EHS Guidelines. 
 
@@ -184,15 +184,15 @@ have been broadly categorized into phases of operation
 (although several measures span more than one phase
 including the decommissioning and closure phase). As such;
 From exploration onwards, management strategies include:
-· Reducing exposure of sediment-generating materials to
+* Reducing exposure of sediment-generating materials to
 wind or water (e.g. proper placement of soil and rock piles);
-· Divert run-off from undisturbed areas around disturbed
+* Divert run-off from undisturbed areas around disturbed
 areas including areas that have been graded, seeded, or
 planted. Such drainage should be treated for sediment
 removal;
-· Reducing or preventing off-site sediment transport (e.g.
+* Reducing or preventing off-site sediment transport (e.g.
 use of settlement ponds, silt fences);
-· Stormwater drains, ditches, and stream channels should be
+* Stormwater drains, ditches, and stream channels should be
 protected against erosion through a combination of
 adequate dimensions, slope limitation techniques, and use
 of rip-rap and lining. Temporary drainage installations
@@ -208,19 +208,19 @@ From construction onwards, recommended management
 strategies include:
 
 
-· Establishing riparian zones;
-· Timely implementation of an appropriate combination of
+* Establishing riparian zones;
+* Timely implementation of an appropriate combination of
 contouring techniques, terracing, slope reduction /
 minimization, runoff velocity limitation and appropriate
 drainage installations to reduce erosion in both active and
 inactive areas;
-· Access and haul roads should have gradients or surface
+* Access and haul roads should have gradients or surface
 treatment to limit erosion, and road drainage systems
 should be provided;
-· Facilities should be designed for the full hydraulic load,
+* Facilities should be designed for the full hydraulic load,
 including contributions from upstream catchments and nonmined
 areas;
-· Stormwater settling facilities should be designed and
+* Stormwater settling facilities should be designed and
 maintained according to internationally accepted good
 engineering practices, including provisions for capturing of
 debris and floating matter. Sediment control facilities
@@ -234,11 +234,11 @@ Guidelines. Discharge water quality should also be
 consistent with the receiving water body use.
 From operations onwards, recommended management
 strategies include:
-· Final grading of disturbed areas, including preparation of
+* Final grading of disturbed areas, including preparation of
 overburden before application of the final layers of growth
 medium, should be along the contour as far as can be
 achieved in a safe and practical manner;
-· Revegetation of disturbed areas including seeding should
+* Revegetation of disturbed areas including seeding should
 be performed immediately following application of the
 growth medium to avoid erosion.
 
@@ -279,28 +279,28 @@ http://www.uic.com.au/nip40.htm; and http://www.saltinstitute.org/12.html.
 
 Leaching: Operators should design and operate surface heap
 leach processes with:
-· Infiltration of toxic leach solutions should be prevented
+* Infiltration of toxic leach solutions should be prevented
 through the provision of appropriate liners and sub-
 
 drainage systems to collect or recycle solution for
 treatment, and minimize ground infiltration;
-· Pipeline systems carrying pregnant solutions should be
+* Pipeline systems carrying pregnant solutions should be
 designed with secondary bunded containment;
-· Leak detection equipment should be installed for pipeline
+* Leak detection equipment should be installed for pipeline
 and plant systems with appropriate leak response systems
 in place;
-· Process solution storage ponds and other impoundments
+* Process solution storage ponds and other impoundments
 designed to hold non-fresh water or non-treated leach
 process effluents should be lined, and be equipped with
 sufficient wells to enable monitoring of water levels and
 quality.
 Solution Mining: Operators should design and operate solution
 mining projects with consideration of the following:
-· Proper location and operating practices based on the
+* Proper location and operating practices based on the
 characteristics of the confining strata, to ensure the
 movement of leaching solution is minimized beyond the
 extraction area and off-site aquifers are protected;
-· Sufficient monitoring wells should be installed around
+* Sufficient monitoring wells should be installed around
 cavities to enable monitoring of pressure levels, as well as
 water quantity and quality.
 
@@ -333,13 +333,13 @@ is important to protect human health, safety and the
 environment.
 Recommendations for management of waste rock dumps
 include the following:
-· Dumps should be planned with appropriate terrace and lift
+* Dumps should be planned with appropriate terrace and lift
 height specifications based on the nature of the material
 and local geotechnical considerations to minimize erosion
 and reduce safety risks;
-· Management of Potentially Acid Generating (PAG) wastes
+* Management of Potentially Acid Generating (PAG) wastes
 should be undertaken as described in the guidance below;
-· Potential change of geotechnical properties in dumps due
+* Potential change of geotechnical properties in dumps due
 to chemical or biologically catalyzed weathering should be
 considered. This can reduce the dumped spoils
 significantly in grain size and mineralogy, resulting in high
@@ -373,21 +373,21 @@ topography, downstream receptors and the physical nature of
 tailings (e.g. projected volume, grain size distribution, density,
 water content, among other issues). 3
 Recommended tailings management strategies include:
-· Design, operation, and maintenance of structures
+* Design, operation, and maintenance of structures
 according to specifications of ICOLD3 and ANCOLD4, or
 other internationally recognized standards based on a risk
 assessment strategy. Appropriate independent review
 should be undertaken at design and construction stages
 with ongoing monitoring of both the physical structure and
 water quality, during operation and decommissioning; 4
-· Where structures are located in areas where there is a risk
+* Where structures are located in areas where there is a risk
 of high seismic loadings, the independent review should
 include a check on the maximum design earthquake 
 
 assumptions and the stability of the structure to ensure
 that the design is such that during seismic events there will
 be no uncontrolled release of tailings;
-· Design of tailings storage facilities should take into account
+* Design of tailings storage facilities should take into account
 the specific risks / hazards associated with geotechnical
 stability or hydraulic failure and the associated risks to
 downstream economic assets, ecosystems and human
@@ -395,39 +395,39 @@ health and safety. Environmental considerations should
 thus also consider emergency preparedness and response
 planning and containment / mitigation measures in case of
 catastrophic release of tailings or supernatant waters;
-· Any diversion drains, ditches, and stream channels to
+* Any diversion drains, ditches, and stream channels to
 divert water from surrounding catchment areas away from
 the tailings structure should be built to the flood event
 recurrence interval standards outlined elsewhere in this
 Section;
-· Seepage management and related stability analysis should
+* Seepage management and related stability analysis should
 be a key consideration in design and operation of tailings
 storage facilities. This is likely to require a specific
 piezometer based monitoring system for seepage water
 levels within the structure wall and downstream of it, which
 should be maintained throughout its life cycle;
-· Consideration of zero discharge tailings facilities and
+* Consideration of zero discharge tailings facilities and
 completion of a full water balance and risk assessment for
 the mine process circuit including storage reservoirs and
 tailings dams. Consideration of use of natural or synthetic
 liners to minimize risks;
-· Design specification should take into consideration the
+* Design specification should take into consideration the
 probable maximum flood eventand the required freeboard
 to safely contain it (depending on site specific risks) across
 the planned life of the tailings dam, including its
 decommissioned phase;
-· Where potential liquefaction risks exist, including risks
+* Where potential liquefaction risks exist, including risks
 associated with seismic behavior, the design specification 
 should take into consideration the maximum design
 earthquake;
-· On-land disposal in a system that can isolate acid
+* On-land disposal in a system that can isolate acid
 leachate-generating material from oxidation or percolating
 water, such as a tailings impoundment with dam and
 subsequent dewatering and capping. On-land disposal
 alternatives should be designed, constructed and operated
 according to internationally recognized geotechnical safety
 standards;
-· Thickening or formation of paste for backfilling of pits and
+* Thickening or formation of paste for backfilling of pits and
 underground workings during mine progression.
 Riverine (e.g. rivers, lakes, and lagoons) or shallow marine
 tailings disposal is not considered good international industry
@@ -444,33 +444,37 @@ all tailings management alternatives, and only if the impact
 assessment demonstrates that the discharge is not likely to
 have significant adverse effects on marine and coastal
 resources, or on local communities.
-Leach-pad Waste
+
+##### Leach-pad Waste
+
 Recommended practices for the management of leach-pad
 waste include the following:
-· Leachate collection and treatment should continue until the
+* Leachate collection and treatment should continue until the
 final effluent criteria are consistentwith guideline values in
 Section 2.0;
 
-· Decommissioned leach pads should utilize a combination
+* Decommissioned leach pads should utilize a combination
 of surface management systems, seepage collection, and
 active or passive treatment systems to ensure post closure
 water resource quality is maintained;
-Waste Geochemical Characterization
+
+##### Waste Geochemical Characterization
+
 Mining operations should prepare and implement ore and waste
 geochemical characterization methods for proper routing of
 Potentially-Acid-Generating (PAG) ma terials and ARD
 management programs that include the following elements:
-· Conducting a comprehensive series of accelerated
+* Conducting a comprehensive series of accelerated
 leaching tests from feasibility study stage onwards, to
 evaluate the potential for ARD in all formations foreseen to
 be disturbed or otherwise exposed by the mine according
 to internationally recognized methodologies;
 5
-· Conducting comprehensive ARD / metals leaching (ML)
+* Conducting comprehensive ARD / metals leaching (ML)
 testing / mapping on an ongoing basis with decreasing
 block size as formations are transferred from long- to
 medium- and short-term mining plans;
-· Implementation of ARD and ML preventive actions to
+* Implementation of ARD and ML preventive actions to
 minimize ARD including:
 o Limiting exposure of PAG materials by phasing of
 development and construction, together with covering,
@@ -491,7 +495,7 @@ www.em.gov.bc.ca/Mining/MinePer/ardpolicy.htm
 
 
 
-· Controlled placement of PAG materials (including wastes)
+* Controlled placement of PAG materials (including wastes)
 to provide permanent conditions that avoid contact with
 oxygen or water including6:
 o Submerging and/or flooding of PAG materials by
@@ -511,13 +515,15 @@ materials, the ratio of alkaline materials to acid
 generating materials, the case histories of failed
 operations, and the need for static and long-term
 kinetic tests.
-General Non-Hazardous Waste
+
+##### General Non-Hazardous Waste
+
 Recommended practices for the management of household and
 non-process related industrial waste include the following:
-· Non-hazardous solid wastes should be managed according
+* Non-hazardous solid wastes should be managed according
 to the recommendations presented in the General EHS
 Guidelines;
-· Non-hazardous solid waste should be collected for
+* Non-hazardous solid waste should be collected for
 recycling or disposal at an approved sanitary landfill.
 External landfills should be audited by the mine to ensure
 appropriate waste management practices. When such a
@@ -528,29 +534,33 @@ regulatory permits and scientifically defensible studies that
 can demonstrate that the disposal of the hazardous waste
 will not impact human health and the environment;
 7
-· Non-hazardous solid waste should not be disposed of
+* Non-hazardous solid waste should not be disposed of
 together with waste rock or overburden except under
 exceptional circumstances to be fully documented in the
 environmental and social assessment of the project.
-Hazardous Waste
+
+##### Hazardous Waste
+
 Recommended practices for the management of hazardous
 waste include the following:
-· Hazardous waste, including waste oils and chemicals,
+* Hazardous waste, including waste oils and chemicals,
 spent packaging materials and containers, should be
 managed as described in the General EHS Guidelines;
-· Hazardous waste should be handled by specialized
+* Hazardous waste should be handled by specialized
 providers (in accordance with regulatory permi ts) of
 hazardous waste management facilities specifically
 designed and operated for this purpose. When such
 services are unavailable within a feasible distance of the
 mine, the mine should establish and operate its own waste
 facility with the necessary permits;
-· Combustion of waste oils should preferably be undertaken
+* Combustion of waste oils should preferably be undertaken
 as a supplementary fuel in power generation facilities and
 in accordance with emissions guidelines applicable to
 combustion sources (see the General EHS Guidelines
 and the EHS Guidelines for Thermal Power).
-Hazardous Materials
+
+#### Hazardous Materials
+
 Hazardous materials should be handled, stored, and transported
 so as to avoid leaks, spills or other types of accidental releases
 into soils, surface water, and groundwater resources. In order to
@@ -558,7 +568,7 @@ minimize the risk associated with accidental spills from storage
 
 tanks and pipelines (e.g. tailings pipelines) the recommended
 mitigation measures include:
-· Providing secondary containment to restrict movement into
+* Providing secondary containment to restrict movement into
 receiving water bodies (e.g. sumps, holding areas,
 impermeable liners), for example:
 o Constructing pipelines with double-walled or thickwalled
@@ -570,7 +580,9 @@ Additional detailed guidance for hazardous materials
 management including spill prevention and control planning for
 the handling, storage, and transport of such materials as fuels
 and chemicals is provided in the General EHS Guidelines. .
-Cyanide
+
+##### Cyanide
+
 Cyanide use should be consistent with the principles and
 standards of practice of the International Cyanide Management
 Code.8 The Cyanide Code includes principles and standards
@@ -582,7 +594,9 @@ industry program developed through a multi-stakeholder
 dialogue under the auspices of the United Nations Environment
 Programme and administered by the International Cyanide
 Management Institute.
-Land Use and Biodiversity
+
+#### Land Use and Biodiversity
+
 Habitat alteration is one of the most significant potential threats
 to biodiversity associated with mining. Habitat alteration may
 occur during any stage of the mine cycle with the greatest 
@@ -604,15 +618,15 @@ to sustainable development. Integrating conservation needs and
 development priorities in a way that meets the land use needs of
 local communities is often a critical issue for mining projects.
 Recommended strategies include consideration of the following:
-· Whether any critical natural habitats 9 will be adversely
+* Whether any critical natural habitats 9 will be adversely
 impacted or critically endangered or endangered species
 reduced;
-· Whether the project is likely to impact any protected areas;
-· The potential for biodiversity offset projects (e.g. proactive
+* Whether the project is likely to impact any protected areas;
+* The potential for biodiversity offset projects (e.g. proactive
 management of alternative high biodiversity areas in cases
 where losses have occurred on the main site due to the
 mining development) or other mitigative measures;
-· Whether the project or its associated infrastructure will
+* Whether the project or its associated infrastructure will
 encourage in-migration, which could adversely impact
 biodiversity and local communities;
 
@@ -626,62 +640,63 @@ the definition and requirements applicable to Critical Habitat in the
 PS. 
 
 
-· Consideration of partnerships with internationally
+* Consideration of partnerships with internationally
 accredited scientific organizations to, for example,
 undertake biodiversity assessments, conduct ongoing
 monitoring, and manage biodiversity programs;
-· Consultation with key stakeholders (e.g. government, civil
+* Consultation with key stakeholders (e.g. government, civil
 society, and potentially affected communities) to
 understand any conflicting land use demands and the
 communities dependency on natural resources and / or
 conservation requirements that may exist in the area. 
 
 
-Terrestrial Habitats
+##### Terrestrial Habitats
+
 Temporary and permanent terrestrial habitat alteration should
 be minimized to the extent feasible and be consistent with the
 requirement to protect and preserve critical habitat.
 Recommended management strategies include10:
-· Siting access routes and facilities in locations that avoid
+* Siting access routes and facilities in locations that avoid
 impacts to critical terrestrial habitat, and planning
 exploration and construction activities to avoid sensitive
 times of the year;
-· Minimizing disturbance to vegetation and soils;
-· Implementation of mitigation measures appropriate for the
+* Minimizing disturbance to vegetation and soils;
+* Implementation of mitigation measures appropriate for the
 type of habitat and potential impacts including, for example,
 post-operation restoration (which may include baseline
 inventories, evaluations, and eventual rescue of species),
 offset of losses, or compensation of direct users;
-· Avoiding or minimizing the creation of barriers to wildlife
+* Avoiding or minimizing the creation of barriers to wildlife
 movement, or threats to migratory species (such as birds)
 and providing alternative migration routes when the
 creation of barriers cannot be avoided;
-· Planning and avoiding sensitive areas and implementing
+* Planning and avoiding sensitive areas and implementing
 buffer zones;
 
-· Conducting activities such that the risk of landslides, debris
+* Conducting activities such that the risk of landslides, debris
 or mud flows, and bank or alluvial fan destabilization is
 minimized;
-· Implementing soil conservation measures (e.g.
+* Implementing soil conservation measures (e.g.
 segregation, proper placement and stockpiling of clean
 soils and overburden material for existing site remediation);
 key factors such as placement, location, design, duration,
 coverage, reuse, and single handling should be
 considered;
-· Where topsoil is pre-stripped, it should be stored for future
+* Where topsoil is pre-stripped, it should be stored for future
 site rehabilitation activities. Topsoil management should
 include maintenance of soil integrity in readiness for future
 use. Storage areas should be temporarily protected or
 vegetated to prevent erosion;
-· Conserving the quality and composition of growth medium
+* Conserving the quality and composition of growth medium
 for use (e.g. for capping) during site reclamation and
 closure activities;
-· Ensuring that the growth medium is sufficient to support
+* Ensuring that the growth medium is sufficient to support
 native plant species appropriate for the local climate and
 consistent with proposed future land uses. Overall
 thickness of the growth medium should be consistent with
 surrounding undisturbed areas and future land use;
-· Manage vegetation growth along access roads and at
+* Manage vegetation growth along access roads and at
 permanent above-ground facilities. Remove invasive plant
 species and replant native species. Vegetation control
 should employ biological, mechanical and thermal
@@ -711,36 +726,39 @@ Biodiversity” (ICMM 2006).
 
 
 
-Aquatic Habitats
+##### Aquatic Habitats
+
 Aquatic habitats may be altered through changes in surface
 water and groundwater regimes, and resulting increased
 pressures on fish and wildlife communities. Earth-moving
 operations may mobilize sediment which can enter
 watercourses and disrupt water quality and quantity.
 Recommended management strategies include the following:
-· Minimizing the creation and extent of new access corridors;
-· Decommissioning and re-vegetating exploration access
+* Minimizing the creation and extent of new access corridors;
+* Decommissioning and re-vegetating exploration access
 routes, and installing barricades to limit access;
-· Maintaining, to the extent possible, natural drainage paths
+* Maintaining, to the extent possible, natural drainage paths
 and restoring them if they are disrupted;
-· Maintaining water body catchment areas equal or
+* Maintaining water body catchment areas equal or
 comparable to pre-development conditions;
-· Protecting stream channel stability by limiting in-stream
+* Protecting stream channel stability by limiting in-stream
 and bank disturbance, and employing appropriate setbacks
 from riparian zones;
-· Attenuating surface runoff from high precipitation events
+* Attenuating surface runoff from high precipitation events
 using on-site storage and water management infrastructure
 (e.g. storage ponds, sumps, low gradient ditches, clean
 water diversions);
-· Designing temporary and permanent bridges and culverts
+* Designing temporary and permanent bridges and culverts
 to manage peak flows depending on the associated
 potential risk;
 
-· Constructing, maintaining, and reclaiming watercourse
+* Constructing, maintaining, and reclaiming watercourse
 crossings that are stable, safe for the intended use, and
 that minimize erosion, mass wasting and degradation of
 the channel or lake bed.
-Marine Habitats
+
+##### Marine Habitats
+
 Aquatic habitats in marine environments may be altered by
 marine dredge mining, deep sea mining, off- shore loading
 activities, port construction, and tailings disposal. Rivers and
@@ -767,7 +785,8 @@ text of the convention is available at: http://www.un.org/Depts/los/index.htm
 
 
 
-Air Quality
+#### Air Quality
+
 Management of ambient air quality at mine sites is important at
 all stages of the mine cycle. Airborne emissions may occur
 during each stage of the mine cycle, although in particular
@@ -780,30 +799,33 @@ equipment. Guidance on ambient air quality considerations is
 provided in the General EHS Guidelines. 
 
 
-Dust
+##### Dust
+
 Fugitive dust emissions from the dry surfaces of tailings
 facilities, waste dumps, stockpiles and other exposed areas
 should be minimized. Recommended dust management
 strategies include:
-· Dust suppression techniques (e.g. wetting down, use of allweather
+* Dust suppression techniques (e.g. wetting down, use of allweather
 surfaces, use of agglomeration additives) for roads
 and work areas, optimization of traffic patterns, and
 reduction of travel speeds;
-· Exposed soils and other erodible materials should be
+* Exposed soils and other erodible materials should be
 revegetated or covered promptly;
-· New areas should be cleared and opened-up only when
+* New areas should be cleared and opened-up only when
 absolutely necessary;
-· Surfaces should be re-vegetated or otherwise rendered
+* Surfaces should be re-vegetated or otherwise rendered
 non-dust forming when inactive;
-· Storage for dusty materials should be enclosed or operated
+* Storage for dusty materials should be enclosed or operated
 with effi cient dust suppressing measures;
-· Loading, transfer, and discharge of materials should take
+* Loading, transfer, and discharge of materials should take
 place with a minimum height of fall, and be shielded
 against the wind, and consider use of dust suppression
 spray systems ;
-· Conveyor systems for dusty materials should be covered
+* Conveyor systems for dusty materials should be covered
 and equipped with measures for cleaning return belts.
-Gaseous Emissions
+
+##### Gaseous Emissions
+
 The main sources of gaseous emissions are from combustion of
 fuels in power generation installations, mobile emissions,
 methane emissions and from drying, roasting, and smelting
@@ -815,7 +837,9 @@ thermal (MWth) and from mobile sources are addressed in the
 General EHS Guidelines. Power sources with a capacity
 greater than 50MWth are addressed in the EHS Guidelines for
 Thermal Power.
-Smelting and Roasting
+
+##### Smelting and Roasting
+
 General recommendations related to smelting and refining may
 be found in the EHS Guidelines for Base Metal Smelting and
 Refining. However, there are a few issues which are specific to
@@ -831,10 +855,10 @@ Operations that employ roasting of concentrates are often
 associated with elevated levels of mercury, arsenic and other
 metals as well as SO2 emissions. Recommended management
 strategies include:
-· Operations at controlled temperature (higher
+* Operations at controlled temperature (higher
 temperature roasters generally cause more problems
 of contaminant control)
-· Inclusion of an appropriate gas scrubbing system
+* Inclusion of an appropriate gas scrubbing system
 Smelting of Platinum Group Metals (PGM) is similar to nickel
 and aluminumsmelting. Care should be taken to avoid
 formation of nickel carbonyl and chromium VI during the
@@ -855,9 +879,9 @@ practice in the prevention and control of noise sources should
 be established based on the prevailing land use and the
 proximity of noise receptors such as communities or community
 use areas. Recommended management strategies include:
-· Noise levels at the nearest sensitive receptor should meet
+* Noise levels at the nearest sensitive receptor should meet
 the noise guidelines in the General EHS Guidelines;
-· Where necessary, noise emissions should be minimized
+* Where necessary, noise emissions should be minimized
 and controlled through the application of techniques which
 may include:
 o Implementation of enclosure and cladding of
@@ -880,20 +904,20 @@ crusher foundations. For blasting-related emissions (e.g.
 
 vibration, airblast, overpressure, or fly rock), the following
 management practices are recommended:
-· Mechanical ripping should be used, where possible, to
+* Mechanical ripping should be used, where possible, to
 avoid or minimize the use of explosives;
-· Use of specific blasting plans, correct charging procedures
+* Use of specific blasting plans, correct charging procedures
 and blasting ratios, delayed / microdelayed or electronic
 detonators, and specific in-situ blasting tests (the use of
 downhole initiation with short-delay detonators improves
 fragmentation and reduces ground vibrations);
-· Development of blast design, including a blasting-surfaces
+* Development of blast design, including a blasting-surfaces
 survey, to avoid overconfined charges, and a drill-hole
 survey to check for deviation and consequent blasting
 recalculations;
-· Implementation of ground vibration and overpressure
+* Implementation of ground vibration and overpressure
 control with appropriate drilling grids;
-· Adequately designing the foundations of primary crushers
+* Adequately designing the foundations of primary crushers
 and other significant sources of vibrations.
 Energy Use
 Among the most significant energy consuming activities in
@@ -901,10 +925,10 @@ mining are transport, exploration activities, drilling, excavation,
 extraction, grinding, crushing, milling, pumping, and ventilation
 processes. Recommended energy conservation measures
 include the following:
-· Use of non-invasive technologies such as remote sensing
+* Use of non-invasive technologies such as remote sensing
 and ground-based technologies to minimize exploratory
 digging and drilling;
-· Correctly sizing motors and pumps used in the excavation,
+* Correctly sizing motors and pumps used in the excavation,
 ore moving, ore crushing, and ore handling process, as
 well as using adjustable speed drives (ASDs) in
 applications with highly varying load requirements.
@@ -948,17 +972,17 @@ EHS Guidelines.
 Occupational health and safety issues occur during all phases of
 the mine cycle and can be classified according to the following
 categories:
-· General workplace health and safety
-· Hazardous substances
-· Use of explosives
-· Electrical safety and isolation
-· Physical hazards
-· Ionizing radiation
-· Fitness for work
-· Travel and remote site health
-· Thermal stress
-· Noise and vibration
-· Specific hazards in underground mining (Fires, explosions,
+* General workplace health and safety
+* Hazardous substances
+* Use of explosives
+* Electrical safety and isolation
+* Physical hazards
+* Ionizing radiation
+* Fitness for work
+* Travel and remote site health
+* Thermal stress
+* Noise and vibration
+* Specific hazards in underground mining (Fires, explosions,
 confined spaces and oxygen deficient atmospheres)
 
 13 An example of a visual impact assessment methodology that can be used to
@@ -970,7 +994,7 @@ Bureau of Land Management’s Visual Resource Contrast Rating system
 General Workplace Health and Safety
 Recommended strategies to manage general workplace safety
 hazards include the following:
-· Mining exploration and development activities should
+* Mining exploration and development activities should
 manage occupational health and safety hazards as part of
 a comprehensive health and safety management plan
 incorporating the following aspects:
@@ -999,7 +1023,7 @@ applicable to work in remote areas such as safety with
 respect to wildlife; protection against the elements;
 thermal stress; acclimatization; disease exposure; and
 navigational aids to avoid becoming lost;
-· Illumination systems should be adequate and safe 14 for the
+* Illumination systems should be adequate and safe 14 for the
 planned working conditions in travel paths, mine working
 areas, and within and around surface facilities and
 dumpsites of mines (see the illumination guideline values
@@ -1007,7 +1031,7 @@ presented in Section 2.0). Additional illumination guidance
 includes adherence to local standard requirements for
 illumination for mobile equipment operating above ground
 and on public roads;15
-· Signage in hazardous and risky areas, installations,
+* Signage in hazardous and risky areas, installations,
 materials, safety measures, emergency exits, and other
 such areas should be in accordance with international
 standards (including standards of cleanliness, visibility and 
@@ -1016,7 +1040,7 @@ reflectance in areas of potentially poor illumination or
 sources of dust and pollution), be known and easily
 understood by workers, visitors, and as appropriate the
 general public;
-· To the extent that alternative technologies, work plans or
+* To the extent that alternative technologies, work plans or
 procedures cannot eliminate or sufficiently reduce a hazard
 or exposure, the mine operators should provide workers
 and visitors with the necessary personal protective
@@ -1024,7 +1048,7 @@ equipment (PPE), and provide instruction and monitoring in
 their appropriate maintenance and use. Applicable PPE
 include, at a minimum, safety helmets and footwear, in
 addition to ear, eye, and hand protection devices.
-· Occupational health assessments should be conducted for
+* Occupational health assessments should be conducted for
 employees on a regular basis, based on exposure to risk.
 Medical records should be retained for at least 20 years. 
 
@@ -1050,50 +1074,50 @@ related to accidental explosion and poor coordination and
 communication of blasting activities. Recommended explosives
 management practices include:
 
-· Using, handling, and transporting explosives in accordance
+* Using, handling, and transporting explosives in accordance
 with local and / or national explosives safety regulations;
-· Assigning certified blasters or explosives experts to
+* Assigning certified blasters or explosives experts to
 conduct blasts;
-· Actively managing blasting activities in terms of loading,
+* Actively managing blasting activities in terms of loading,
 priming, and firing explosives, drilling near explosives,
 misfired shots and disposal;
-· Adoption of consistent blasting schedules, minimizing
+* Adoption of consistent blasting schedules, minimizing
 blast-time changes;
-· Specific warning devices (e.g. horn signals, flashing lights)
+* Specific warning devices (e.g. horn signals, flashing lights)
 and procedures should be implemented before each
 blasting activity to alert all workers and third parties in the
 surrounding areas (e.g. the resident population). Warning
 procedures may need to include traffic limitation along local
 roadways and railways;
-· Specific personnel training on explosives handling and
+* Specific personnel training on explosives handling and
 safety management should be conducted;
-· Blasting-permit procedures should be implemented for all
+* Blasting-permit procedures should be implemented for all
 personnel involved with explosives (handling, transport,
 storage, charging, blasting, and destruction of unused or
 surplus explosives);
-· Blasting sites should be checked post-blast by qualified
+* Blasting sites should be checked post-blast by qualified
 personnel for malfunctions and unexploded blasting
 agents, prior to resumption of work;
-· Specific audited procedures should be implemented for all
+* Specific audited procedures should be implemented for all
 activities related to explosives (handling, transport, storage,
 charging, blasting, and destruction of unused or surplus
 explosives) in accordance with relevant national or
 internationally recognized fire and safety codes;
-· Qualified security personnel should be used to control
+* Qualified security personnel should be used to control
 transport, storage, and use of explosives on site.
 Electrical Safety and Isolation
 Electrical safety and isolation of all sources of hazardous energy
 and hazardous substances should be undertaken in accordance 
 with the General EHS Guidelines. Recommended
 management practices for mining operations include:
-· Development of electrical competency standards and
+* Development of electrical competency standards and
 safe work procedures for all electrical work, including
 construction, decommissioning and demolition of
 electrical equipment;
-· Use of electrical safety devices on all final distribution
+* Use of electrical safety devices on all final distribution
 circuits, and appropriate testing schedules applied to
 such safety systems;
-· All sources of hazardous energy or hazardous
+* All sources of hazardous energy or hazardous
 substances should have written procedures for
 isolation, identifying how the system, plant or
 equipment can be made and kept safe.
@@ -1107,7 +1131,7 @@ and mobile equipment, lifting and hoisting devices, and moving
 machinery.. Recommended prevention and control strategies
 include:
 Geotechnical Safety
-· Planning, designing, and operating all structures such as
+* Planning, designing, and operating all structures such as
 open pits, waste dumps, tailing dams, containment facilities
 and underground excavations such that geotechnical risks
 are appropriately managed throughout the entire mine
@@ -1118,25 +1142,25 @@ of geotechnical stability data should be carried out Long
 
 term stability of worked-out sites should be adequately
 addressed for both surface and underground mines;
-· For waste dumps, fills and other containment structures,
+* For waste dumps, fills and other containment structures,
 static safety factors should be established based on the
 level of hazard for the operational phase of a facility and at
 closure;
-· Potential change of geotechnical properties in dumps due
+* Potential change of geotechnical properties in dumps due
 to chemical or biologically catalyzed weathering should be
 considered. Design of new facilities has to provide for such
 potential deterioration of geotechnical properties with
 higher factors of safety. Stability / safety assessments of
 existing facilities should take these potential changes into
 account;
-· Accurate assessment of worksite safety from rockfall
+* Accurate assessment of worksite safety from rockfall
 and/or landslide should be conducted. Particular attention
 should be given after heavy rainfall, seismic events and
 after blasting activities. Risks should be minimized by
 appropriate bench and pit slope design, blast pattern
 design, rock scaling, protective berms and minimizing
 traffic.
-· Assessment of the natural topography around the mine
+* Assessment of the natural topography around the mine
 site, as well as mine related infrastructure such as cut
 slopes, road alignments should be included in geotechnical
 stability analyses. Especially in tropical climates or seismic
@@ -1155,20 +1179,20 @@ To prevent and control hazards related to machine and
 equipment use, measures for the enhancement of visibility
 should be applied throughout the mine. Specific visibility
 management practices may include the following:
-· Use of contrast coloring on equipment / machinery,
+* Use of contrast coloring on equipment / machinery,
 including the provision of reflective markings to enhance
 visibility;
-· Use of moving equipment / machinery equipped with
+* Use of moving equipment / machinery equipped with
 improved operator sight lines;16
-· Issuing workers high visibility clothing;
-· Use of reflective markings on structures, traffic junctions,
+* Issuing workers high visibility clothing;
+* Use of reflective markings on structures, traffic junctions,
 and other areas with a potential for accidents (e.g. walls in
 static locations should be whitewashed for improved
 reflectance);
-· Use of appropriate illumination for the immediate operating
+* Use of appropriate illumination for the immediate operating
 areas of frequently turning and reversing equipment /
 machinery;
-· Installing safety barriers in high-risk locations of internal
+* Installing safety barriers in high-risk locations of internal
 roads / transport corridors. Barriers may be constructed
 with refuse or other materials capable to stopping vehicles.
 
@@ -1185,7 +1209,7 @@ http://www.cdc.gov/niosh/mining/mining/illum/.
 Ionizing Radiation
 Where natural radiation hazards exist, the recommended
 mitigation measures include the following:
-· Implementing a radiation dosimetry monitoring program for
+* Implementing a radiation dosimetry monitoring program for
 any areas where workers may be expected to receive
 
 whole body doses of greater than 6 millisieverts in a 12-
@@ -1202,12 +1226,12 @@ to identify roles where “fitness for work” (including personal
 fitness) is required to ensure that the activity is completed with
 minimized risk. The recommended mitigation measures could
 include:
-· Review of shift management systems to minimize risk
+* Review of shift management systems to minimize risk
 of fatigue among employees;
-· Tailoring of pre-placement medical exams to the
+* Tailoring of pre-placement medical exams to the
 requirements expected of an employee (i.e. good
 eyesight for a driver);
-· Development of an alcohol and other drugs policy for
+* Development of an alcohol and other drugs policy for
 the operation.
 Travel and remote site health
 Mining operations are often located in very remote regions, with
@@ -1215,13 +1239,13 @@ limited access to high quality emergency or general medical
 services. To minimize risk from health impacts associated with
 frequent travel (as seen in exploration teams) and remote sites,
 the following mitigation measures can be recommended:
-· Development of programs to prevent both chronic and
+* Development of programs to prevent both chronic and
 acute illnesses through appropriate sanitation and
 vector control systems;
-· Identification of risks associated with operating at
+* Identification of risks associated with operating at
 altitude;
 
-· Where food is prepared at a mining operation, food
+* Where food is prepared at a mining operation, food
 preparation, storage and disposal should be reviewed
 regularly and monitored to minimize risk of illness.
 Thermal stress
@@ -1235,15 +1259,15 @@ Noise and vibration sources should be managed as described
 above in Section 1.1. Additional recommendations for the
 management of occupational exposures to noise and vibrations
 include:
-· Reduction of noise to acceptable occupational exposure
+* Reduction of noise to acceptable occupational exposure
 levels as described in the General EHS Guidelines;
-· Ensuring that large equipment (e.g. excavators, dumpers,
+* Ensuring that large equipment (e.g. excavators, dumpers,
 dozers, wagon-drills, and other automated equipment that
 requires an operator) is equipped with a soundproof cab;
-· After all other options have been explored and
+* After all other options have been explored and
 implemented, use of personal hearing protection, as
 described in the General EHS Guidelines;
-· Exposure to hand-arm vibration from hand and power tools
+* Exposure to hand-arm vibration from hand and power tools
 or whole-body vibration from surfaces on which the worker
 stands or sits should be adequately controlled through the
 selection and maintenance of equipment which meets
@@ -1255,7 +1279,7 @@ tagging system should be implemented to account for all
 persons traveling underground.
 
 Ventilation
-· Ventilation and air cooling systems should be appropriate
+* Ventilation and air cooling systems should be appropriate
 for the workplace activities and be able to maintain work
 area temperatures and concentrations of contaminants at
 safe levels. Ventilation is considered an integral and
@@ -1265,7 +1289,7 @@ personnel should undergo adequate training with respect to
 issues such as explosive atmospheres, products of
 combustion, dust (particularly if silica is present) and diesel
 fumes;
-· Underground mines should ensure a safe and clean source
+* Underground mines should ensure a safe and clean source
 of air for all areas expected to be occupied by workers.
 Recommended management strategies include:
 o Ensuring surface ventilation units and associated
@@ -1285,7 +1309,7 @@ posting warning signs to prevent inadvertent entry.
 o All transformers, compressors, fuel bays and other
 high hazard areas should be ventilated direct to return
 airways;
-· As appropriate, thermal conditions should be monitored to
+* As appropriate, thermal conditions should be monitored to
 identify when persons could be adversely affected by heat
 and cold stress, and protective measures should be 
 
@@ -1295,7 +1319,7 @@ undertaken. Other practices should include heat tolerance
 screening, acclimatization, water breaks, and adoption of
 suitable work-rest regimens.
 Dust
-· Over and above the risks associated with dust identified
+* Over and above the risks associated with dust identified
 earlier in this document and in the General EHS
 Guidelines, dust control should be fully integrated into
 underground operating procedures, particularly associated
@@ -1307,17 +1331,17 @@ Fires and Explosions
 Underground mines should prepare and implement plans to
 prevent, detect, and combat the outbreak and spread of fires.
 Fire and explosion prevention and control strategies include:
-· Conducting fire hazard assessments on a recurrent basis
+* Conducting fire hazard assessments on a recurrent basis
 for early identification and minimization of areas where
 risks of “rapidly escalating fires” occur (e.g. areas using
 trackless diesel powered machinery);
-· Identifying fire hazard areas using warning signs, and
+* Identifying fire hazard areas using warning signs, and
 prohibiting all persons from smoking, using open flame
 lamps, matches or other types of ignition sources in the
 designated fire hazard areas, unless under strict protocols
 (e.g. welding protocol);
-· Avoiding use of oil filled transformers underground;
-· Inflammable materials should be stored in fireproofed
+* Avoiding use of oil filled transformers underground;
+* Inflammable materials should be stored in fireproofed
 facilities equipped for containment of leaks and spills. An
 appropriate fire detection and extinguishing system should
 be installed at each such storage location; 
@@ -1328,23 +1352,23 @@ and operated in accordance with relevant national or
 internationally recognized fire and safety codes. Explosives
 stores should be placed on surface except where local
 conditions justify (e.g. security or extreme cold);
-· Avoid and control conveyor belt fires by ensuring fire hoses
+* Avoid and control conveyor belt fires by ensuring fire hoses
 are operational and readily available along conveyor lines.
 In underground mines classified as ‘gassy’ (which include most
 coal mines) additional precautions should include:
-· Preventing ignitions by installing automatic gas detectors
+* Preventing ignitions by installing automatic gas detectors
 where electrically powered equipment is used, and other
 gas detectors throughout the underground working areas
 (e.g. at coal faces);
-· Preventing ignition by restricting items made of, or
+* Preventing ignition by restricting items made of, or
 containing, aluminum, magnesium, titanium, or light metal
 alloy unless there is no possibility of friction or impact, or
 they are adequately coated with non-sparking material;
-· Hand-held tools should be placed in a non-sparking
+* Hand-held tools should be placed in a non-sparking
 storage and appropriate permits obtained before use;
-· Use of fire resistant hydraulic fluids in all underground
+* Use of fire resistant hydraulic fluids in all underground
 equipment;
-· Management of inflammable and explosive gasses in
+* Management of inflammable and explosive gasses in
 active and worked-out parts of underground mines unless
 such sections have been completely sealed and possible
 sources of ignition removed. When = 1 percent of methane
@@ -1359,7 +1383,7 @@ as appropriate;
 
 Installing and using fire doors.
 Refuge Bays and Self Rescuers
-· Underground mines should be designed and developed
+* Underground mines should be designed and developed
 with secondary or auxiliary exits and with mine refuge
 chambers that are:
 o Clearly identified
@@ -1374,7 +1398,7 @@ the local vicinity
 o Equipped with independent connections to the surface
 for supply of air, communication (e.g. telephone),
 water, and first aid facilities
-· Based on an assessment of potential risk of encountering
+* Based on an assessment of potential risk of encountering
 oxygen deficient atmospheres (e.g. mines operating
 trackless diesel powered equipment), underground mining
 workers should be equipped and trained in the use of selfcontained
@@ -1390,23 +1414,23 @@ areas (see the illumination guideline values presented in Section
 
 2.0). Additional illumination guidance specific to underground
 mining includes:
-· Underground illumination should be adequate for the safe
+* Underground illumination should be adequate for the safe
 performance of all work functions and the safe movement
 of workers and equipment;
 18
-· Permanent lighting that provides adequate illumination in
+* Permanent lighting that provides adequate illumination in
 the following locations: all workshops, service garages, and
 other places with moving machinery or where equipment
 could be a hazard; underground main shaft stations and
 active shaft landings; first aid stations; and conveyor
 galleries, drives, and transfer stations;
-· Separate and independent emergency light sources should
+* Separate and independent emergency light sources should
 be provided at all places where a hazard could be caused
 by a failure of the normal lighting system. The system
 should turn on automatically, should be adequate to allow
 the workers to conduct an emergency shutdown of
 machinery, and should be tested on a regular basis;
-· Underground workers should have an approved cap lamp
+* Underground workers should have an approved cap lamp
 in their possession at all times while underground. The
 peak luminance should be at least 1500 lux at 1.2 m from
 the light source throughout the shift.
@@ -1463,20 +1487,20 @@ prone to flooding and may otherwise damage property if it
 leaves farmland unsuitable for further use. To minimize and / or
 control changes in terrain due to land subsidence,
 recommended management measures include the following:
-· Developing the mine with consideration of the location /
+* Developing the mine with consideration of the location /
 size of the ore body, overlying strata, and required well
 depths for extraction (e.g. there is generally less potential
 for subsidence associated with increased extraction
 depth s);
-· Monitoring the size and shape of mined caverns using well
+* Monitoring the size and shape of mined caverns using well
 logging devices and operating techniques (e.g. solution
 pressures and pumping rates over time, flow volumes,
 temperatures, and specific gravities);
-· Filling shafts, raises, stope openings, adits, and drifts
+* Filling shafts, raises, stope openings, adits, and drifts
 opening to the surface with reinforced concrete or with
 other material to prevent or reduce subsidence in high risk
 areas.;
-· Subsidence areas should be managed to ensure adequate
+* Subsidence areas should be managed to ensure adequate
 drainage and re-established to previous land use or other
 use acceptable to the community. Roads in such areas
 should be adequately sign-posted.
@@ -1524,11 +1548,11 @@ burdens of all STIs including HIV, however, the potential of
 triggering a new upsurge in these trends should be considered
 when developing a mining project. The hallmark of this situation
 is the “Four M’s”:
-· Men – labor influx;
-· Money – surge in disposable cash;
-· Movement – development of new transport routes
+* Men – labor influx;
+* Money – surge in disposable cash;
+* Movement – development of new transport routes
 facilitating access to rural communities;
-· Mixing – interface of high prevalence rate groups (i.e.
+* Mixing – interface of high prevalence rate groups (i.e.
 police, security, truckers and sex workers) with local low
 prevalence rate men and women.
 Over time, the spread of HIV / AIDS is not only the cause of
@@ -1539,16 +1563,16 @@ contracts and procurement opportunities. Mining operations
 should define and understand the potential effect of HIV / AIDS,
 and design an appropriate management response, including use
 of: 20
-· Strategies to manage the impact of diseases through
+* Strategies to manage the impact of diseases through
 assessment, surveillance, actions plans, and monitoring;
-· A workplace program to prevent new HIV infections and
+* A workplace program to prevent new HIV infections and
 provide care and support for infected and affected
 employees;
-· Outreach activities within the community, sector and / or
+* Outreach activities within the community, sector and / or
 broader society.
 Typical measures undertaken to reduce communicable disease
 incidence involve:
-· Preventing illness among workers and their families and in
+* Preventing illness among workers and their families and in
 local communities by: 
 
 o Undertaking health awareness and education
@@ -1567,25 +1591,25 @@ engineering and medical staffs. Project sponsors, in close
 collaboration with community health authorities, should
 implement an integrated control strategy for mosquito and other
 arthropod-borne diseases that should generally involve:
-· Implementation of an integrated vector control program;
-· Engineering design reviews including careful scrutiny of
+* Implementation of an integrated vector control program;
+* Engineering design reviews including careful scrutiny of
 roads, water storage and control facilities and surface
 water management strategies;
-· Collaboration and exchange of in-kind services with other
+* Collaboration and exchange of in-kind services with other
 control programs in the project area to maximize beneficial
 effects, particularly distribution of treated bed nets;
-· Development of the “A-B-C-D” program for all project
+* Development of the “A-B-C-D” program for all project
 workers where A= awareness, B=bite control,
 C=chemoprophylaxis for non-immune personnel and D=
 diagnosis and treatment;
-· Selective use of residual indoor spraying (IRS) for project
+* Selective use of residual indoor spraying (IRS) for project
 housing. IRS programs are complex and involve careful
 design review, particularly a clear understanding of the
 local mosquito vectors and their pre-existing resistance to
 available insecticides; 
 
 
-· Development of an effective short and long-term monitoring
+* Development of an effective short and long-term monitoring
 and evaluation program for both workers and potentially
 affected communities.
 1.4 Mine Closure and Post-Closure
@@ -1601,10 +1625,10 @@ operations. A mine closure plan that incorporates both physical
 rehabilitation and socio-economic considerations should be an
 integral part of the project life cycle and should be designed so
 that:
-· Future public health and safety are not compromised;
-· The after-use of the site is beneficial and sustainable to the
+* Future public health and safety are not compromised;
+* The after-use of the site is beneficial and sustainable to the
 affected communities in the long term;
-· Adverse socio-economic impacts are minimized and socioeconomic
+* Adverse socio-economic impacts are minimized and socioeconomic
 benefits are maximized.
 The MRCP should address beneficial future land use (this
 should be determined using a multi-stakeholder process that
@@ -1691,10 +1715,13 @@ comprehensive measures for concurrent reclamation during the
 operating life of the mine according to a plan approved with the
 environmental and mineral authorities and with the engagement
 of local government and communities.
-2.0 Performance Indicators and
-Monitoring
-2.1 Environment
+
+## 2.0 Performance Indicators and Monitoring
+
+### 2.1 Environment
+
 Emissions and Effluent Guidelines
+
 Table 1 presents effluent guideline values for this sector.
 Guideline values for process effluents in this sector are
 indicative of good international industry practice as reflected in
@@ -1835,7 +1862,8 @@ Guidelines.
 
 
 
-3.0 References and Additional Sources
+## 3.0 References and Additional Sources
+
 Association of Societies for Occupational Safety and Health (ASOSH), South
 Africa. Gateway to worldwide web information of Safety Health and Environment
 for mines. http://www.asosh.org/WorldLinks/Sectors/mining.htm

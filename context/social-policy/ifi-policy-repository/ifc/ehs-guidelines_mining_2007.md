@@ -23,7 +23,7 @@ examples of Good International Industry Practice
 are involved in a project, these EHS Guidelines are applied as
 required by their respective policies and standards. These
 industry sector EHS guidelines are designed to be used
-together with the General EHS Guidelines document, which
+together with the [General EHS Guidelines](https://www.ifc.org/wps/wcm/connect/554e8d80488658e4b76af76a6515bb18/Final+-+General+EHS+Guidelines.pdf?MOD=AJPERES) document, which
 provides guidance to users on common EHS issues potentially
 applicable to all industry sectors. For complex projects, use of
 multiple industry-sector guidelines may be necessary. A
@@ -90,7 +90,7 @@ and construction, operation, closure and decommissioning, and
 post-closure phases, along with recommendations for their
 management. Recommendations for the management of EHS
 issues common to most large industrial activities are provided in
-the General EHS Guidelines.
+the [General EHS Guidelines](https://www.ifc.org/wps/wcm/connect/554e8d80488658e4b76af76a6515bb18/Final+-+General+EHS+Guidelines.pdf?MOD=AJPERES)s.
 
 ### 1.1 Environmental
 
@@ -172,8 +172,7 @@ mixing zone. Receiving water-body use and assimilative
 capacity, including the impact of other sources of
 discharges to the receiving water, should be considered
 with respect to acceptable contaminant loadings and
-effluent discharge quality as described in the General EHS
-Guidelines;
+effluent discharge quality as described in the [General EHS Guidelines](https://www.ifc.org/wps/wcm/connect/554e8d80488658e4b76af76a6515bb18/Final+-+General+EHS+Guidelines.pdf?MOD=AJPERES);
 * Efficient oil and grease traps or sumps should be installed
 and maintained at refueling facilities, workshops, fuel
 storage depots, and containment areas, and spill kits
@@ -186,7 +185,7 @@ put in place to mitigate the risk or meet the effluent
 guideline values in Section 2.0,
 * Sanitary wastewater should be managed via reuse or
 routing into septic or surface treatment as described in the
-General EHS Guidelines. 
+[General EHS Guidelines](https://www.ifc.org/wps/wcm/connect/554e8d80488658e4b76af76a6515bb18/Final+-+General+EHS+Guidelines.pdf?MOD=AJPERES). 
 
 ##### Stormwater
 
@@ -246,8 +245,7 @@ Suspended Solids (TSS) discharge of 50 mg/l and other
 applicable parameters and guideline values in Section 2.0,
 taking into consideration background conditions and
 opportunities for overall improvement of the receiving water
-body quality, as discussed in the General EHS
-Guidelines. Discharge water quality should also be
+body quality, as discussed in the [General EHS Guidelines](https://www.ifc.org/wps/wcm/connect/554e8d80488658e4b76af76a6515bb18/Final+-+General+EHS+Guidelines.pdf?MOD=AJPERES). Discharge water quality should also be
 consistent with the receiving water body use.
 
 From operations onwards, recommended management
@@ -545,8 +543,7 @@ Recommended practices for the management of household and
 non-process related industrial waste include the following:
 
 * Non-hazardous solid wastes should be managed according
-to the recommendations presented in the General EHS
-Guidelines;
+to the recommendations presented in the [General EHS Guidelines](https://www.ifc.org/wps/wcm/connect/554e8d80488658e4b76af76a6515bb18/Final+-+General+EHS+Guidelines.pdf?MOD=AJPERES);
 * Non-hazardous solid waste should be collected for
 recycling or disposal at an approved sanitary landfill.
 External landfills should be audited by the mine to ensure
@@ -581,7 +578,7 @@ facility with the necessary permits;
 * Combustion of waste oils should preferably be undertaken
 as a supplementary fuel in power generation facilities and
 in accordance with emissions guidelines applicable to
-combustion sources (see the General EHS Guidelines
+combustion sources (see the [General EHS Guidelines](https://www.ifc.org/wps/wcm/connect/554e8d80488658e4b76af76a6515bb18/Final+-+General+EHS+Guidelines.pdf?MOD=AJPERES)
 and the EHS Guidelines for Thermal Power).
 
 #### Hazardous Materials
@@ -605,7 +602,7 @@ to isolate flow in critical areas
 Additional detailed guidance for hazardous materials
 management including spill prevention and control planning for
 the handling, storage, and transport of such materials as fuels
-and chemicals is provided in the General EHS Guidelines. .
+and chemicals is provided in the [General EHS Guidelines](https://www.ifc.org/wps/wcm/connect/554e8d80488658e4b76af76a6515bb18/Final+-+General+EHS+Guidelines.pdf?MOD=AJPERES).
 
 ##### Cyanide
 

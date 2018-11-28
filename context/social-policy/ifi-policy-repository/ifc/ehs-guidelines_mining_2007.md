@@ -28,7 +28,7 @@ provides guidance to users on common EHS issues potentially
 applicable to all industry sectors. For complex projects, use of
 multiple industry-sector guidelines may be necessary. A
 complete list of industry-sector guidelines can be found at:
-www.ifc.org/ifcext/enviro.nsf/Content/EnvironmentalGuidelines
+[www.ifc.org/ifcext/enviro.nsf/Content/EnvironmentalGuidelines](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/ehs-guidelines)<sup>[re-direct]</sup>
 
 The EHS Guidelines contain the performance levels and
 measures that are generally considered to be achievable in new

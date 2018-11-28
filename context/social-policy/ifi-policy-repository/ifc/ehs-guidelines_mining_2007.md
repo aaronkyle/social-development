@@ -1497,7 +1497,7 @@ in their possession at all times while underground. The
 peak luminance should be at least 1500 lux at 1.2 m from
 the light source throughout the shift.
 
-1.3 Community Health and Safety
+### 1.3 Community Health and Safety
 
 Community health and safety issues that may be associated
 with mining activities include transport safety along access
@@ -1528,7 +1528,7 @@ specific to mining activities, with community health and safety
 implications, and also broader EHS implications are considered
 under the following headings:
 
-Tailings Dam Safety
+##### Tailings Dam Safety
 
 Dams, wet tailing impoundments, and other major wet
 containment facilities represent a potential risk depending on
@@ -1537,7 +1537,7 @@ community resources. Tailings dam health, safety and
 environment considerations are covered earlier in this
 document.
 
-Water Storage Dams
+##### Water Storage Dams
 
 Water storage dams can potentially create and change the
 existing pattern of vector breeding sites. In areas where malaria
@@ -1549,7 +1549,7 @@ new breeding site for the snail host of schistosomiasis, an
 important parasitic disease that is common in many tropical
 climates.
 
-Land Subsidence
+##### Land Subsidence
 
 Land subsidence may occur as a result of underground or
 solution mining activities. Land subsidence may leave land
@@ -1575,7 +1575,7 @@ drainage and re-established to previous land use or other
 use acceptable to the community. Roads in such areas
 should be adequately sign-posted.
 
-Emergency Preparedness and Response
+##### Emergency Preparedness and Response
 
 Emergency preparedness and response arrangements should
 be commensurate to the potential for emergency situations,
@@ -1586,7 +1586,7 @@ in accordance with the guidance of the UNEP APPEL for
 Mining: Awareness and Preparedness for Emergencies at the
 Local Level19 process.
 
-Communicable Diseases
+##### Communicable Diseases
 
 The nature of mining projects (e.g. location in remote areas with
 long material / product supply chains) requires proactive and
@@ -1656,7 +1656,9 @@ o Training health workers in disease treatment
 o Providing treatment through standard case
 management in on-site or community health care
 facilities (e.g. immunization programs)
-Specific Vector Control and Prevention Strategies
+
+##### Specific Vector Control and Prevention Strategies
+
 Reducing the impact of vector-borne disease (e.g. malaria) on
 the long-term health of workers and in local communities is best
 accomplished through implementation of an integrated set of
@@ -1688,7 +1690,7 @@ available insecticides;
 and evaluation program for both workers and potentially
 affected communities.
 
-1.4 Mine Closure and Post-Closure
+### 1.4 Mine Closure and Post-Closure
 
 Closure and post-closure activities should be considered as
 early in the planning and design stages as possible. Mine
@@ -1737,7 +1739,7 @@ include contingencies for temporary suspension of activities and
 permanent early closure and meet the following objectives for
 financial feasibility and physical / chemical / ecological integrity.
 
-Financial Feasibility
+##### Financial Feasibility
 
 The costs associated with mine closure and post-closure
 activities, including post-closure care, should be included in
@@ -1754,7 +1756,7 @@ be provided by a reputable financial institution. Mine closure
 requirements should be reviewed on an annual basis and the
 closure funding arrangements adjusted to reflect any changes. 
 
-Physical Integrity
+##### Physical Integrity
 
 All structures (e.g. tailings impoundments) should remain stable
 such that they do not impose a hazard to public health and
@@ -1780,7 +1782,7 @@ structures. Where there is a risk of methane emanating from
 disused shafts and other workings, passive venting systems
 should be considered.
 
-Chemical Integrity
+##### Chemical Integrity
 
 Surface water and groundwater should be protected against
 adverse environmental impacts resulting from mining and
@@ -1788,7 +1790,9 @@ processing activities. Leaching of chemicals into the
 environment should be prevented, so as to avoid endangering
 public health or safety or exceed water quality objectives in
 downstream surface water and groundwater systems.
-Ecological Habitat Integrity
+
+##### Ecological Habitat Integrity
+
 While ecological habitat integrity is partially determined by the
 above factors (e.g. physical issues such as slope stability) and 
 
@@ -1805,7 +1809,7 @@ of local government and communities.
 
 ### 2.1 Environment
 
-Emissions and Effluent Guidelines
+#### Emissions and Effluent Guidelines
 
 Table 1 presents effluent guideline values for this sector.
 Guideline values for process effluents in this sector are
@@ -1816,6 +1820,7 @@ normal operating conditions in appropriately designed and
 operated facilities through the application of pollution prevention
 and control techniques discussed in the preceding sections of
 this document.
+
 Effluent guidelines should be applicable for site runoff and
 treated effluents to surface waters for general use. Site-specific
 discharge levels may be established based on the availability
@@ -1861,7 +1866,9 @@ General EHS Guidelines with larger power source emi ssions
 addressed in the EHS Guidelines for Thermal Power. Guidance
 on ambient considerations based on the total load of emi ssions
 is provided in the General EHS Guidelines.
-Environmental Monitoring
+
+#### Environmental Monitoring
+
 Environmental monitoring programs for this sector should be
 implemented to address all activities that have been identified to
 have potentially significant impacts on the environment, during
@@ -1881,9 +1888,12 @@ the operating standards so that any necessary corrective
 actions can be taken. Additional guidance on applicable
 sampling and analytical methods for emissions and effluents is
 provided in the General EHS Guidelines.
-2.2 Occupational Health and Safety
+
+### 2.2 Occupational Health and Safety
 Performance
-Occupational Health and Safety Guidelines
+
+#### Occupational Health and Safety Guidelines
+
 Occupational health and safety performance should be
 evaluated against internationally published exposure guidelines,
 of which examples include the Threshold Limit Value (TLV®)
@@ -1923,7 +1933,7 @@ Single year exposure
 – effective dose 50 mSv/year
 
 
-Accident and Fatality Rates
+#### Accident and Fatality Rates
 
 Projects should try to reduce the number of accidents among
 project workers (whether directly employed or subcontracted) to
@@ -1934,7 +1944,7 @@ sector in developed countries through consultation with
 published sources (e.g. US Bureau of Labor Statistics and UK
 Health and Safety Executive)27.
 
-Occupational Health and Safety Monitoring
+#### Occupational Health and Safety Monitoring
 
 The working environment should be monitored for occupational
 hazards relevant to the specific project. Monitoring should be
@@ -1954,42 +1964,54 @@ Guidelines.
 Association of Societies for Occupational Safety and Health (ASOSH), South
 Africa. Gateway to worldwide web information of Safety Health and Environment
 for mines. http://www.asosh.org/WorldLinks/Sectors/mining.htm
+
 Australian National Committee on Large Dams (ANCOLD) available at:
 http://www.ancold.org.au/
+
 International Institute for Environment and Development (IIED), 2000. Breaking
 New Ground: Mining, Minerals and Sustainable Development (MMSD). London,
 UK.
+
 British Columbia Ministry of Energy and Mines, (1998). Policy for Metal Leaching
 and Acid Rock Drainage at Mine Sites in British Columbia available at:
 www.em.gov.bc.ca/Mining/MinePer/ardpolicy.htm
+
 Department of the Environment Australia
 http://www.ea.gov.au/industry/sustainable/mining/booklets/index.html
 Edgar, T.F. 1983. Coal Processing and Pollution Control. Houston: Gulf
 Publishing Company.
+
 European Bank for Reconstruction and Development (EBRD). Sub-sectoral
 Environmental Guidelines: Coal Processing. London: EBRD. Available at
 http://www.ebrd.com
+
 European Commission. 2003. European Integrated Pollution Prevention and
 Control Bureau (EIPPCB). Best Available Techniques (BAT) Reference
 Document for Mineral Oil and Gas Refineries. February 2003. EIPPCB: Seville,
 Spain. Available at http://eippcb.jrc.es/pages/FActivities.htm
+
 European Commission. 2006. European Integrated Pollution Prevention and
 Control Bureau (EIPPCB). Best Available Techniques (BAT) Reference
 Document for Large Combustion Plants. July 2006. EIPPCB: Seville, Spain.
 Available at http://eippcb.jrc.es/pages/FActivities .htm
+
 Intergovernmental Panel on Climate Change (IPCC). 2006. Special Report,
 Carbon Dioxide Capture and Storage, March 2006. Geneva: IPCC.
 International Cyanide Management Institute. http://www.cyanidecode.org
+
 International Labor Office, 1991. Safety and Health in Open Cast Mines.
 Geneva, Switzerland.
+
 International Union for the Conservation of Nature (IUCN) and International
 Council for Mining and Metals (ICMM), 2004. Integrating mining and biodiversity
 conservation: Case studies from around the world. London, UK. Available at:
 http://www.icmm.com/publications/767BiodiversityReport.pdf
+
 International Commission on Large Dams (ICOLD) available at: http://www.icoldcigb.net
 International Council for Mining and Metals (ICMM), 2006. Good Practice
 Guidance for Mining and Biodiversity . London, UK. Available at:
 http://www.icmm.com/uploads/1295GPG.pdf
+
 Kirk-Othmer, R.E. 2006. Encyclopedia of Chemical Technology. 5th Edition.
 New York: John Wiley and Sons Ltd.
 Lighting Handbook, Illumination Engineering Society of North America, 1993.
@@ -1999,39 +2021,53 @@ Lockhart, N. 2002. Advances in Coal Preparation. London: World Energy
 Council. Available at http://www.worldenergy.org/wecgeis/publications/default/tech_papers/17th_congress/1_2_02.asp
 Management and Prevention of Heat Stress, Department of Minerals and
 Energy, Western Australia, December 1997.
+
 Mineral Resources, Mine Safety and Health Administration, 30CFR Part 48, 56,
 57, 58, and 715; U.S. Department of Labor.
+
 Mining Association of Canada (MAC), 1998. A Guide to the Management of
 Tailings Facilities.
+
 MAC, 2003. Developing an Operations, Maintenance and Surveillance Manual
 for Tailings and Water Management Facilities.
+
 National Fire Protection Association (NFPA). 2004. Standard 120: Standard for
 Fire Prevention and Control in Coal Mines. 2004 Edition. NFPA: Quincy, MA.
+
 NFPA. 2000. Standard 850: Recommended Practice for Fire Protection for
 Electric Generating Plants and High Voltage Direct Current Converter Stations.
 2000 Edition. NFPA: Quincy, MA.
+
 Northeast States for Coordinated Air Use Management (NESCAUM). 2003.
 Mercury Emissions from Coal -Fired Power Plants: The Case for Regulatory
 Action. October 2003. NESCAUM: Boston, MA.
+
 Occupational Radiation Protection, Safety Guide No. RS-G-1.1, International
 Atomic Energy Agency, Vienna, 1999.
+
 Risk Management AS/NZS 4360:1999 Standards Australia, 1999.
+
 Tailings Dams Risk of Dangerous Occurrences, ICOLD Committee on Tailings
 Dams And Waste Lagoons, UNEP 2001.
+
 The Role of Illumination in Reducing Risks to Health and Safety in South African
 Gold and Platinum Mines, GAP 804, 2001
 Threshold Limit Values for Chemical Substances and Physical Agents &
 Biological Exposure; The American Conference of Governmental Industrial
 Hygienists (ACGIH), 2001.
+
 United Nations Environment Programme (UNEP) Mineral Resources Forum
 http://www.uneptie.org/pc/mining/mrfvision.htm
 UNEP, 2001. APELL for Mining, Awareness and Preparedness for Emergencies
 at Local Level, Technical Report No. 41.
+
 United Nations Convention on the Law of the Sea (1982) Available at:
 http://www.un.org/Depts/los/index.htm
+
 U.S. Department of the Interior, Office of Surface Mining. Acid Mine Drainage
 Prevention and Mitigation (2007) available at:
 http://www.osmre.gov/amdpvm.htm
+
 United States (US) Environmental Protection Agency (EPA). 2005. 40 CFR Part
 60, Standards of Performance for New and Existing Stationary Sources: Electric
 Utility Steam Generating Units, Clean Air Mercury Rule. Washington, DC: US
@@ -2045,9 +2081,11 @@ Limitations and New Source Performance Standards. Washington, DC: US EPA.
 US EPA. 40 CFR Part 60. Standards of Performance for New Stationary
 Sources. Subpart Y—Standards of Performance for Coal Preparation Plants.
 Washington, DC: US EPA.
+
 United States National Institute of Occupational Safety and Health (NIOSH)
 Visibility Analysis Software available at:
 http://www.cdc.gov/niosh/mining/mining/illum/.
+
 The Role of illumination in Reducing Risk to Health and Safety in South African
 Gold and Platinum Mines, GAP 804, 2001 provides detailed recommendations
 for a variety of underground places of work.

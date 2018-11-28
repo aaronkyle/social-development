@@ -85,7 +85,9 @@ and ear protection, snug fitting gloves, safety toe shoes or boots, and
 dust respirator.
 
 Health
+
 Dust
+
 13. Rock dust is constantly released into the air in mining
 operations such as drilling, blasting, shovelling, tipping and so on. Fine
 particles in the respirable range of 0.5 to 5 jm are particularly dangerous
@@ -107,7 +109,9 @@ may help. It may be necessary to wet the dust during certain operations,
 such as drilling. Provisions ust be made for excess water or flooding.
 Dust prevention and suppression must be adopted if excess dust levels are a
 problem.
+
 Noise
+
 14. Excessive noise can cause permanent hearing loss. Loud background
 noise (90 dBA) dulls senses including visual acuity, and increases
 accident rates. If the noise level around moving machinery and other
@@ -115,15 +119,21 @@ equipment is higher than 90 decibels, those working on or near the equipment
 should be supplied with ear protection. Equipment, including drills,
 should be designed to have law noise levels in order to reduce the problem.
 Good maintenance of machinery and equipment will also help.
+
 Sanitary Facilities and Requirements
+
 15. Very good sanitary and washing facilities, including shcwer
 accomTodations, should be provided. The worker should change from his work
 clothes daily.
+
 Medical Examinations
+
 16. Pre-errployment and periodic medical examinations of all workers
 are required. It is recommended that chest X-rays and pulmonary function
 tests be included in these examinations.
+
 Training and Education
+
 17. The education and training of enplayees in good safety practice
 is the responsibility of management. All enployees should have training
 and instruction in: first aid, prcper use of all personal safety equipment
@@ -131,6 +141,7 @@ including the use of fire extinguishers; safe lifting practices; proper use
 of all tools and equipment; and what to do in the case of serious accidents.
 These training programs should be given on a regular basis.
 Record Keeping
+
 18. Management is required to keep records of all accidents and illnesses
 which involved enployees in the mines. This information should be
 made available to the World Bank. An evaluation of injury and health data
@@ -138,6 +149,7 @@ will assist the Bank to evaluate the effectiveness of its occupational
 safety and health programs.
 
 BIBLIOGRAPHY
+
 1. Code of Federal Regulations, 30 Mineral Sources, Revised as of July 1,
 1976, U.S. Department of the Interior, Mining Enforcement and Safety
 Administration.

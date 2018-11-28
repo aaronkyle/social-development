@@ -65,9 +65,9 @@ Extraction.
 
 This document is organized according to the following sections:
 
-Section 1.0 — Industry-Specific Impacts and Management
-Section 2.0 — Performance Indicators and Monitoring
-Section 3.0 — References and Additional Sources
+Section 1.0 — Industry-Specific Impacts and Management <br/>
+Section 2.0 — Performance Indicators and Monitoring <br/>
+Section 3.0 — References and Additional Sources <br/>
 Annex A — General Description of Industry Activities
 
 1 Defined as the exercise of professional skill, diligence, prudence and foresight
@@ -96,6 +96,7 @@ the General EHS Guidelines.
 
 Potential environmental issues associated with mining activities
 may include management of the following:
+
 * Water use and quality
 * Wastes
 * Hazardous materials
@@ -132,6 +133,7 @@ balance. Mines with issues of excess water supply, such as in
 moist tropical environments or areas with snow and ice melt,
 can experience peak flows which require careful management.
 Recommended practices for water management include:
+
 * Establishing a water balance (including probable climatic
 events) for the mine and related process plant circuit and
 use this to inform infrastructure design;
@@ -156,6 +158,7 @@ conservation requirements that may exist in the area.
 
 Recommended practices to manage impacts to water quality
 include:
+
 * The quality and quantity of mine effluent streams
 discharged to the environment, including stormwater, leach
 pad drainage, process effluents, and overall mine works
@@ -195,7 +198,9 @@ stormwater. Recommended stormwater management strategies
 have been broadly categorized into phases of operation
 (although several measures span more than one phase
 including the decommissioning and closure phase). As such;
+
 From exploration onwards, management strategies include:
+
 * Reducing exposure of sediment-generating materials to
 wind or water (e.g. proper placement of soil and rock piles);
 * Divert run-off from undisturbed areas around disturbed
@@ -216,9 +221,9 @@ requirements for temporary drainage structures should
 additionally be defined on a risk basis considering the
 intended life of diversion structures, as well as the
 recurrence interval of any structures that drain into them.
+
 From construction onwards, recommended management
 strategies include:
-
 
 * Establishing riparian zones;
 * Timely implementation of an appropriate combination of
@@ -244,8 +249,10 @@ opportunities for overall improvement of the receiving water
 body quality, as discussed in the General EHS
 Guidelines. Discharge water quality should also be
 consistent with the receiving water body use.
+
 From operations onwards, recommended management
 strategies include:
+
 * Final grading of disturbed areas, including preparation of
 overburden before application of the final layers of growth
 medium, should be along the contour as far as can be
@@ -271,6 +278,7 @@ should extend for as long as there is a need to maintain effluent
 quality to the levels required to protect the local environment,
 including where necessary, into the decommissioning, closure,
 and post-closure phases of the mine.
+
 The ARD and ML issues apply to waste rock, tailing materials
 and any exposed rock surfaces such as road cuts and pit walls.
 
@@ -291,9 +299,9 @@ http://www.uic.com.au/nip40.htm; and http://www.saltinstitute.org/12.html.
 
 Leaching: Operators should design and operate surface heap
 leach processes with:
+
 * Infiltration of toxic leach solutions should be prevented
 through the provision of appropriate liners and sub-
-
 drainage systems to collect or recycle solution for
 treatment, and minimize ground infiltration;
 * Pipeline systems carrying pregnant solutions should be
@@ -343,8 +351,10 @@ and waste rock is often disposed of in constructed waste rock
 dumps. Management of these dumps during the mine life cycle
 is important to protect human health, safety and the
 environment.
+
 Recommendations for management of waste rock dumps
 include the following:
+
 * Dumps should be planned with appropriate terrace and lift
 height specifications based on the nature of the material
 and local geotechnical considerations to minimize erosion
@@ -362,9 +372,7 @@ friction) apply especially to facilities which are not
 decommissioned with a proper cover system, which would
 prevent precipitation from percolating into the dump’s body.
 Design of new facilities has to provide for such potential
-deterioration of geotechnical properties with higher factors 
-
-
+deterioration of geotechnical properties with higher factors
 of safety. Stability / safety assessments of existing facilities
 should take these potential changes into account.
 
@@ -384,7 +392,9 @@ decommissioning. Strategies should consider the site
 topography, downstream receptors and the physical nature of
 tailings (e.g. projected volume, grain size distribution, density,
 water content, among other issues). 3
+
 Recommended tailings management strategies include:
+
 * Design, operation, and maintenance of structures
 according to specifications of ICOLD3 and ANCOLD4, or
 other internationally recognized standards based on a risk
@@ -395,7 +405,6 @@ water quality, during operation and decommissioning; 4
 * Where structures are located in areas where there is a risk
 of high seismic loadings, the independent review should
 include a check on the maximum design earthquake 
-
 assumptions and the stability of the structure to ensure
 that the design is such that during seismic events there will
 be no uncontrolled release of tailings;
@@ -441,11 +450,13 @@ according to internationally recognized geotechnical safety
 standards;
 * Thickening or formation of paste for backfilling of pits and
 underground workings during mine progression.
+
 Riverine (e.g. rivers, lakes, and lagoons) or shallow marine
 tailings disposal is not considered good international industry
 practice. By extension, riverine dredging which requires riverine
 tailings disposal is also not considered good international
 practice.
+
 Deep sea tailings placement (DSTP) may be considered as an
 alternative only in the absence of an environmentally and
 socially sound land-based alternative and based on an
@@ -476,6 +487,7 @@ Mining operations should prepare and implement ore and waste
 geochemical characterization methods for proper routing of
 Potentially-Acid-Generating (PAG) ma terials and ARD
 management programs that include the following elements:
+
 * Conducting a comprehensive series of accelerated
 leaching tests from feasibility study stage onwards, to
 evaluate the potential for ARD in all formations foreseen to
@@ -488,38 +500,29 @@ block size as formations are transferred from long- to
 medium- and short-term mining plans;
 * Implementation of ARD and ML preventive actions to
 minimize ARD including:
-o Limiting exposure of PAG materials by phasing of
+    - Limiting exposure of PAG materials by phasing of
 development and construction, together with covering,
 and/or segregating runoff for treatment
-o Implementation of water management techniques
+    - Implementation of water management techniques
 such as diverting clean runoff away from PAG
 materials, and segregating “dirty” runoff from PAG
 materials for subsequent treatment; grading PAG
 material piles to avoid ponding and infiltration; and
 removing pit water promptly to minimize acid
 generation
-
-5 See U.S. Department of the Interior, Office of Surface Mining, Acid Mine
-Drainage Prevention and Mitigation, available at:
-http://www.osmre.gov/amdpvm.htm and Policy for Metal Leaching and Acid
-Rock Drainage at Mine Sites in British Columbia (BC MEM 1998) available at:
-www.em.gov.bc.ca/Mining/MinePer/ardpolicy.htm
-
-
-
 * Controlled placement of PAG materials (including wastes)
 to provide permanent conditions that avoid contact with
 oxygen or water including6:
-o Submerging and/or flooding of PAG materials by
+    - Submerging and/or flooding of PAG materials by
 placing PAG materials in an anoxic (oxygen free)
 environment, typically below a water cover
-o Isolating PAG materials above the water table with an
+    - Isolating PAG materials above the water table with an
 impermeable cover to limit infiltration and exposure to
 air. Covers are typically less of a concern in arid
 climates where there is limited precipitation, and
 should be appropriate for local climate and vegetation
 (if any)
-o Blending of PAG materials with non-PAG or alkaline
+    - Blending of PAG materials with non-PAG or alkaline
 materials can also be employed to neutralize acid
 generation, as appropriate. Blending should be based
 on full characterization of each of the blended
@@ -528,10 +531,19 @@ generating materials, the case histories of failed
 operations, and the need for static and long-term
 kinetic tests.
 
+
+5 See U.S. Department of the Interior, Office of Surface Mining, Acid Mine
+Drainage Prevention and Mitigation, available at:
+http://www.osmre.gov/amdpvm.htm and Policy for Metal Leaching and Acid
+Rock Drainage at Mine Sites in British Columbia (BC MEM 1998) available at:
+www.em.gov.bc.ca/Mining/MinePer/ardpolicy.htm
+
+
 ##### General Non-Hazardous Waste
 
 Recommended practices for the management of household and
 non-process related industrial waste include the following:
+
 * Non-hazardous solid wastes should be managed according
 to the recommendations presented in the General EHS
 Guidelines;
@@ -555,6 +567,7 @@ environmental and social assessment of the project.
 
 Recommended practices for the management of hazardous
 waste include the following:
+
 * Hazardous waste, including waste oils and chemicals,
 spent packaging materials and containers, should be
 managed as described in the General EHS Guidelines;
@@ -577,9 +590,9 @@ Hazardous materials should be handled, stored, and transported
 so as to avoid leaks, spills or other types of accidental releases
 into soils, surface water, and groundwater resources. In order to
 minimize the risk associated with accidental spills from storage 
-
 tanks and pipelines (e.g. tailings pipelines) the recommended
 mitigation measures include:
+
 * Providing secondary containment to restrict movement into
 receiving water bodies (e.g. sumps, holding areas,
 impermeable liners), for example:
@@ -588,6 +601,7 @@ sections at critical locations (e.g. large stream
 crossings)
 o Installing shutoff valves to minimize spill volumes and
 to isolate flow in critical areas
+
 Additional detailed guidance for hazardous materials
 management including spill prevention and control planning for
 the handling, storage, and transport of such materials as fuels
@@ -607,29 +621,34 @@ dialogue under the auspices of the United Nations Environment
 Programme and administered by the International Cyanide
 Management Institute.
 
+8 International Cyanide Management Code available at:
+http://www.cyanidecode.org/
+
 #### Land Use and Biodiversity
 
 Habitat alteration is one of the most significant potential threats
 to biodiversity associated with mining. Habitat alteration may
 occur during any stage of the mine cycle with the greatest 
-
 potential for temporary or permanent alteration of terrestrial and
 aquatic habitats occurring during construction and operational
 activities. Additionally, exploration activities often require the
 development of access routes, transportation corridors, and
 temporary camps to house workers which may all result in
 varying degrees of land-clearing and population in-migration.
+
 Depending on the type of mining, development and construction
 activities often require land clearing for the mine as well as for
 the process plant, tailings facility, waste and stockpile areas,
 and infrastructure such as buildings, roads, construction camps,
 town sites, water management structures, power plant,
 transmission lines and access corridors to the mine site.
+
 The protection and conservation of biodiversity is fundamental
 to sustainable development. Integrating conservation needs and
 development priorities in a way that meets the land use needs of
 local communities is often a critical issue for mining projects.
 Recommended strategies include consideration of the following:
+
 * Whether any critical natural habitats 9 will be adversely
 impacted or critically endangered or endangered species
 reduced;
@@ -641,17 +660,6 @@ mining development) or other mitigative measures;
 * Whether the project or its associated infrastructure will
 encourage in-migration, which could adversely impact
 biodiversity and local communities;
-
-
-8 International Cyanide Management Code available at:
-http://www.cyanidecode.org/
-
-9 As defined in IFC’s Performance Standard (PS ) 6 – Biodiversity Conservation
-and Sustainable Natural Resource Management. Readers should consult
-the definition and requirements applicable to Critical Habitat in the
-PS. 
-
-
 * Consideration of partnerships with internationally
 accredited scientific organizations to, for example,
 undertake biodiversity assessments, conduct ongoing
@@ -663,12 +671,20 @@ communities dependency on natural resources and / or
 conservation requirements that may exist in the area. 
 
 
+9 As defined in IFC’s Performance Standard (PS ) 6 – Biodiversity Conservation
+and Sustainable Natural Resource Management. Readers should consult
+the definition and requirements applicable to Critical Habitat in the
+PS. 
+
+
 ##### Terrestrial Habitats
 
 Temporary and permanent terrestrial habitat alteration should
 be minimized to the extent feasible and be consistent with the
 requirement to protect and preserve critical habitat.
+
 Recommended management strategies include10:
+
 * Siting access routes and facilities in locations that avoid
 impacts to critical terrestrial habitat, and planning
 exploration and construction activities to avoid sensitive
@@ -685,7 +701,6 @@ and providing alternative migration routes when the
 creation of barriers cannot be avoided;
 * Planning and avoiding sensitive areas and implementing
 buffer zones;
-
 * Conducting activities such that the risk of landslides, debris
 or mud flows, and bank or alluvial fan destabilization is
 minimized;
@@ -714,6 +729,7 @@ species and replant native species. Vegetation control
 should employ biological, mechanical and thermal
 vegetation control measures and avoid the use of chemical
 herbicides as much as possible.
+
 If it is demonstrated that the use of herbicides is required to
 control vegetation growth along access roads or at facilities,
 then personnel should be trained in their use. Herbicides that
@@ -730,7 +746,6 @@ Annexes A and B of the Stockholm Convention, except under
 the conditions noted in the convention. 11
 
 
-
 10 Additional information on biodiversity conversation strategies can be found at
 “Integrating Mining and Biodiversity Conservation – Case Studies from around
 the world” (IUCN and ICMM, 2004) and “Good Practice Guidance for Mining and
@@ -745,7 +760,9 @@ water and groundwater regimes, and resulting increased
 pressures on fish and wildlife communities. Earth-moving
 operations may mobilize sediment which can enter
 watercourses and disrupt water quality and quantity.
+
 Recommended management strategies include the following:
+
 * Minimizing the creation and extent of new access corridors;
 * Decommissioning and re-vegetating exploration access
 routes, and installing barricades to limit access;
@@ -763,7 +780,6 @@ water diversions);
 * Designing temporary and permanent bridges and culverts
 to manage peak flows depending on the associated
 potential risk;
-
 * Constructing, maintaining, and reclaiming watercourse
 crossings that are stable, safe for the intended use, and
 that minimize erosion, mass wasting and degradation of
@@ -795,8 +811,6 @@ protection in the territorial sea and contiguous zone of signatory states. The f
 text of the convention is available at: http://www.un.org/Depts/los/index.htm
 
 
-
-
 #### Air Quality
 
 Management of ambient air quality at mine sites is important at
@@ -817,6 +831,7 @@ Fugitive dust emissions from the dry surfaces of tailings
 facilities, waste dumps, stockpiles and other exposed areas
 should be minimized. Recommended dust management
 strategies include:
+
 * Dust suppression techniques (e.g. wetting down, use of allweather
 surfaces, use of agglomeration additives) for roads
 and work areas, optimization of traffic patterns, and
@@ -856,6 +871,7 @@ General recommendations related to smelting and refining may
 be found in the EHS Guidelines for Base Metal Smelting and
 Refining. However, there are a few issues which are specific to
 the roasting and smelting of precious metals.
+
 Many producers of precious metals smelt metal on site prior to
 shipping to off site refineries. Typically gold and silver is
 produced in small melting / fluxing furnaces which produce
@@ -863,14 +879,17 @@ limited emissions but have the potential for mercury emissions
 from certain ores. Testing should be undertaken prior to melting
 to determine whether a mercury retort is required for mercury
 collection.
+
 Operations that employ roasting of concentrates are often
 associated with elevated levels of mercury, arsenic and other
 metals as well as SO2 emissions. Recommended management
 strategies include:
+
 * Operations at controlled temperature (higher
 temperature roasters generally cause more problems
 of contaminant control)
 * Inclusion of an appropriate gas scrubbing system
+
 Smelting of Platinum Group Metals (PGM) is similar to nickel
 and aluminumsmelting. Care should be taken to avoid
 formation of nickel carbonyl and chromium VI during the
@@ -892,31 +911,33 @@ practice in the prevention and control of noise sources should
 be established based on the prevailing land use and the
 proximity of noise receptors such as communities or community
 use areas. Recommended management strategies include:
+
 * Noise levels at the nearest sensitive receptor should meet
 the noise guidelines in the General EHS Guidelines;
 * Where necessary, noise emissions should be minimized
 and controlled through the application of techniques which
 may include:
-o Implementation of enclosure and cladding of
+    - Implementation of enclosure and cladding of
 processing plants
-o Installation of proper sound barriers and / or noise
+    - Installation of proper sound barriers and / or noise
 containments, with enclosures and curtains at or near
 the source equipment (e.g. crushers, grinders, and
 screens)
-o Installation of natural barriers at facility boundaries,
+    - Installation of natural barriers at facility boundaries,
 such as vegetation curtains or soil berms
-o Optimization of internal-traffic routing, particularly to
+    - Optimization of internal-traffic routing, particularly to
 minimize vehicle reversing needs (reducing noise from
 reversing alarm) and to maximize distances to the
 closest sensitive receptors
+
 The most significant vibrations are usually associated with
 blasting activities; however vibrations may also be generated by
 many types of equipment. Mines should minimize significant
 sources of vibration, such as through adequate design of
 crusher foundations. For blasting-related emissions (e.g. 
-
 vibration, airblast, overpressure, or fly rock), the following
 management practices are recommended:
+
 * Mechanical ripping should be used, where possible, to
 avoid or minimize the use of explosives;
 * Use of specific blasting plans, correct charging procedures
@@ -940,6 +961,7 @@ mining are transport, exploration activities, drilling, excavation,
 extraction, grinding, crushing, milling, pumping, and ventilation
 processes. Recommended energy conservation measures
 include the following:
+
 * Use of non-invasive technologies such as remote sensing
 and ground-based technologies to minimize exploratory
 digging and drilling;

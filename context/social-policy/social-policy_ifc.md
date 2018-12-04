@@ -29,20 +29,35 @@ http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_sit
 
 ---
 
-### Current Policy Framework
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Current Policy Framework</h5>
+    <p class="card-text">
+    <ul>
+<li>
+<p>2012 <a href="http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustainability/sustainability+framework/sustainability+framework+-+2012/framework_2012#AIP">Sustainability Framework</a></p>
+<ul>
+<li><a href="http://www.ifc.org/wps/wcm/connect/7540778049a792dcb87efaa8c6a8312a/SP_English_2012.pdf?MOD=AJPERES">Policy on Social &amp; Environmental Sustainability [PDF]</a></li>
+<li><a href="http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustainability/sustainability+framework/sustainability+framework+-+2012/performance+standards+and+guidance+notes+2012/performance+standards+-+2012">Performance Standards and Guidance Notes - 2012 Edition [website]</a>
+<ul>
+<li><a href="http://www.ifc.org/wps/wcm/connect/7540778049a792dcb87efaa8c6a8312a/SP_English_2012.pdf?MOD=AJPERES">Performance Standards on Social &amp; Environmental Sustainability [PDF]</a> | <a href="http://www.ifc.org/wps/wcm/connect/cd44c6004b8bbc068dbccfbbd578891b/PS_Russian_2012_Full-Document.pdf?MOD=AJPERES">русский</a> | <a href="http://www.ifc.org/wps/wcm/connect/5fd142004a585f48ba3ebf8969adcc27/PS_Chinese_2012_Full-Document.pdf?MOD=AJPERES">简体中文</a></li>
+<li><a href="http://www.ifc.org/wps/wcm/connect/e280ef804a0256609709ffd1a5d13d27/GN_English_2012_Full-Document.pdf?MOD=AJPERES">Guidance Notes: Performance Standards on Social &amp; Environmental Sustainability</a></li>
+</ul>
+</li>
+<li><a href="http://www.ifc.org/wps/wcm/connect/CORP_EXT_Content/IFC_External_Corporate_Site/IFC+Projects+Database/Projects/">Access to Information Policy [website]</a> <a href="http://www.ifc.org/wps/wcm/connect/89c0398049a79222b865faa8c6a8312a/AIP_English_2012.pdf?MOD=AJPERES">[PDF]</a></li>
+</ul>
+<li>
+<p><a href="http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_ESRP2009/$FILE/ESRP2009.pdf">Environmental and Social Review Procedure</a></p>
+</li>
+<li>
+<p><a href="http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_Disclosure2006/$FILE/Disclosure2006.pdf">Policy on Disclosure of Information</a></p>
+</li>
+</ul>
+    </p>
 
+  </div>
+</div>
 
-* 2012 [Sustainability Framework](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustainability/sustainability+framework/sustainability+framework+-+2012/framework_2012#AIP)
-  - [Policy on Social & Environmental Sustainability [PDF]](http://www.ifc.org/wps/wcm/connect/7540778049a792dcb87efaa8c6a8312a/SP_English_2012.pdf?MOD=AJPERES)
-  - [Performance Standards and Guidance Notes - 2012 Edition [website]](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustainability/sustainability+framework/sustainability+framework+-+2012/performance+standards+and+guidance+notes+2012/performance+standards+-+2012)
-      * [Performance Standards on Social & Environmental Sustainability [PDF]](http://www.ifc.org/wps/wcm/connect/7540778049a792dcb87efaa8c6a8312a/SP_English_2012.pdf?MOD=AJPERES) | [русский](http://www.ifc.org/wps/wcm/connect/cd44c6004b8bbc068dbccfbbd578891b/PS_Russian_2012_Full-Document.pdf?MOD=AJPERES) | [简体中文](http://www.ifc.org/wps/wcm/connect/5fd142004a585f48ba3ebf8969adcc27/PS_Chinese_2012_Full-Document.pdf?MOD=AJPERES)
-      * [Guidance Notes: Performance Standards on Social & Environmental Sustainability](http://www.ifc.org/wps/wcm/connect/e280ef804a0256609709ffd1a5d13d27/GN_English_2012_Full-Document.pdf?MOD=AJPERES)  
-  - [Access to Information Policy [website]](http://www.ifc.org/wps/wcm/connect/CORP_EXT_Content/IFC_External_Corporate_Site/IFC+Projects+Database/Projects/) [[PDF]](http://www.ifc.org/wps/wcm/connect/89c0398049a79222b865faa8c6a8312a/AIP_English_2012.pdf?MOD=AJPERES)
-
-
-  * [Environmental and Social Review Procedure](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_ESRP2009/$FILE/ESRP2009.pdf)
-
-  * [Policy on Disclosure of Information](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_Disclosure2006/$FILE/Disclosure2006.pdf)
 
 ---
 

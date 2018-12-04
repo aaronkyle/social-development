@@ -162,8 +162,7 @@ Child and Forced Labor Policy Statement (March 1998) [PDF] <br />
 
 ### Guidance Notes
 
-IFC's [Guidance Notes](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#guidance) accompanied the December 1998 ESRP&mdash;containing additional information to assist IFC staff and project sponsors in applying the ESRP. The original guidance notes are replaced by the revised Guidance Notes in April 30, 2006, which are still in use for investments that underwent IFC's initial credit review process from April 30, 2006 to December 31, 2011.
-
+IFC's [Guidance Notes](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#guidance) were created to accompany the December [1998 ESRP](https://www.ifc.org/wps/wcm/connect/8b64370048855267ab74fb6a6515bb18/ESRP1998.pdf?MOD=AJPERES)&mdash;containing additional information to assist IFC staff and project sponsors in applying the ESRP. 
 
 <div class="card">
   <div class="card-body">
@@ -181,13 +180,7 @@ IFC's [Guidance Notes](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc
   </div>
 </div>
 
-
-
-The [2006 and 2012 Guidance Notes](https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Policies-Standards/Performance-Standards) are available on online.
-
-
-
-#### Guidance Notes to the Performance Standards
+The original guidance notes were replaced by the [revised Guidance Notes, which accompany the Performance Stancards](https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Policies-Standards/Performance-Standards), which are still in use for investments that underwent IFC's initial credit review process after April 30, 2006
 
 * [2006 Guidance Notes: Performance Standards on Social & Environmental Sustainability](http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/pol_GuidanceNote2007_full/$FILE/2007+Updated+Guidance+Notes_full.pdf)
 * [2012 Guidance Notes: Performance Standards on Social & Environmental Sustainability](http://www.ifc.org/wps/wcm/connect/e280ef804a0256609709ffd1a5d13d27/GN_English_2012_Full-Document.pdf?MOD=AJPERES).
@@ -196,20 +189,50 @@ The [2006 and 2012 Guidance Notes](https://www.ifc.org/wps/wcm/connect/Topics_Ex
 
 ### Interpretation Notes
 
-[Interpretation Note on Environmental and Social Categorization](https://www.ifc.org/wps/wcm/connect/18993fe1-0c0f-4b83-9959-8e021f313e6f/Interpretation+Note+on+E+and+S+Categorization.pdf?MOD=AJPERES)
-[Interpretation Note on Financial Intermediaries](https://www.ifc.org/wps/wcm/connect/38d1a68049ddf966af3cbfda80c2ddf3/FI+Interpretation+Note+November+2018.pdf?MOD=AJPERES)
+[Interpretation Note on Environmental and Social Categorization](https://www.ifc.org/wps/wcm/connect/18993fe1-0c0f-4b83-9959-8e021f313e6f/Interpretation+Note+on+E+and+S+Categorization.pdf?MOD=AJPERES)<br />
+[Interpretation Note on Financial Intermediaries](https://www.ifc.org/wps/wcm/connect/38d1a68049ddf966af3cbfda80c2ddf3/FI+Interpretation+Note+November+2018.pdf?MOD=AJPERES)<br />
 [Interpretation Note on Small and Medium Enterprises and Environmental and Social Risk Management](https://www.ifc.org/wps/wcm/connect/de7d92804a29ffe9ae04af8969adcc27/InterpretationNote_SME_2012.pdf?MOD=AJPERES)
 
 
 ### Environmental and Social Review Procedure
 
-As part of IFC commitment to socially and environmentally sustainable development, the Environmental and Social Review Procedures (ESRP) [2009, version 4] establish and verify the sustainability of client projects, as well as their conformance with Performance Standards and the Extractive Industry Review (EIR).
+
+Introduced in December 1998, the [Environmental and Social Review Procedures (ESRP)](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#esrp) is part of IFC commitment to socially and environmentally sustainable development, the ESRP was prepared for IFC staff and project sponsors to evaluate establish and verify the sustainability of client projects, focusing on economic, financial, technical, legal, environmental and social issues, as well as their conformance with Performance Standards and other measures of good international and industry practice (such as the Extractive Industry Review ).  The Environmental and Social Review Procedures (ESRP) Manual also define IFC management-approved tasks to achieve client compliance with the Policy and Performance Standards on Environmental and Social Sustainability, Access to Information Policy, and Environmental, Health and Safety (EHS) Guidelines.
+
+<!--
+The ESRP detail IFC’s process for environmental and social review from project desgin through the signing of legal documents. These processes involves series of steps leading to an IFC approved Environmental and Social Review Summary (ESRS) and Action Plan. The ESRP also outline IFC’s procedures for direct investment supervision, the disclosure and supervision procedures concerning IFC’s financial intermediary investments, and the social and environmental requirements for IFC managed advisory services. The Manual describes how IFC conducts its environmental and social due diligence for the business activities involving direct investments, investments through financial intermediaries, and Advisory projects.
+
+...confirms the shift to more inclusive a continuous process of engagement between companies and stakeholders, particularly project affected persons encompasses a range of approaches for the entire life of the project.
+...
+
+-->
+
+The ESRP are [periodically updated](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/es-proc-manual/esrp-manual).
+
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title"><a href="https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Policies-Standards/ES-Proc-Manual">Environmental and Social Review Procedures Manual</a></h5>
+    <p class="card-text">
+<ul>
+<li><a href="https://www.ifc.org/wps/wcm/connect/d0db8c41-cfb0-45e9-b66a-522c88f270a5/ESRP_Oct2016.pdf?MOD=AJPERES" rel="nofollow">Environmental and Social Review Procedure (April 2013)</a>  [PDF]</li>
+<li><a href="https://www.ifc.org/wps/wcm/connect/190d25804886582fb47ef66a6515bb18/ESRP2014.pdf?MOD=AJPERES" rel="nofollow">Environmental and Social Review Procedure (February 2009)</a>  [PDF]</li>
+<li><a href="https://www.ifc.org/wps/wcm/connect/1fcd4880488559908374d36a6515bb18/ESRP2009.pdf?MOD=AJPERES" rel="nofollow">Environmental and Social Review Procedure (July 2007)</a>  [PDF]</li>
+<li><a href="https://www.ifc.org/wps/wcm/connect/befd3a80488559a683a4d36a6515bb18/ESRP2006.pdf?MOD=AJPERES" rel="nofollow">Environmental and Social Review Procedure (April 2006)</a>  [PDF]</li>
+<li><a href="https://www.ifc.org/wps/wcm/connect/8b64370048855267ab74fb6a6515bb18/ESRP1998.pdf?MOD=AJPERES" rel="nofollow">Environmental and Social Review Procedure (December 1998)</a> [PDF]</li>
+</ul>
+    </p>
+  </div>
+</div>
+
+
+
+<!--
 
 Included within the ESRP is IFC’s explanation of the terms “Free Prior and Informed Consultation (FPIC)” and “Broad Community Support (BCS)” as part of the requirements for community consultation and Performance Standards and EIR. The ESRP also details which projects require FPIC and BCS and the methodology used by IFC to determine client fulfilment of these requirements.
 
 As noted in the ESRP, both the PS and EIR requirements for FPIC and BCS are applicable to:
 
-* Any proposed project with significant adverse impacts on affected  communities (i.e., in any project categorized ‘A’ by virtue of its predicted social impacts)
+* Any proposed project with significant adverse impacts on affected communities (i.e., in any project categorized ‘A’ by virtue of its predicted social impacts)
 * Any proposed project where Indigenous People are directly affected. In such cases, there is an additional obligation for clients to enter into good faith negotiation with IPs as outlined in PS 7.1.
 
 In order to verify the client’s fulfilment of the Performance Standards and EIR requirements for FPIC and BCS, the IFC has developed a documenting matrix. Essentially the matrix is designed to answer these two questions:
@@ -218,125 +241,21 @@ In order to verify the client’s fulfilment of the Performance Standards and EI
 * What  is the level of support and dissent related to the project among the affected communities for the investment project?
 
 Based upon the answers to these questions, IFC classifies the quality of its client’s consultation efforts and the projects conformance with the Performance Standards, the Extractive Industry Review, and IFC’s overall commitment to socially and environmentally sustainable development.
-
-The ESRP also details IFC’s environmental and social appraisal process for direct investment projects and the environmental and social review process from public disclosure through the signing of legal documents. These processes involve s series of steps leading to an IFC approved Environmental and Social Review Summary (ESRS) and Action Plan.
-
-Finally, the ESRP outlines IFC’s procedures for direct investment supervision, the disclosure and supervision procedures concerning IFC’s financial intermediary investments, and the social and environmental requirements for IFC managed advisory services.&nbsp;
+-->
 
 
----
-
-* [Environmental and Social Review Procedure](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_ESRP2009/$FILE/ESRP2009.pdf)
-
-The Environmental and Social Review Procedures (ESRP) Manual defines IFC management-approved tasks to achieve client compliance with the Policy and Performance Standards on Environmental and Social Sustainability, Access to Information Policy, and Environmental, Health and Safety (EHS) Guidelines.
-
-2009, version 4<br>
-
-* [Environmental and Social Review Procedure Manual](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustainability/our+approach/risk+management/environmental+and+social+review+procedure+manual)
-
-The Manual describes how IFC conducts its environmental and social due diligence for the business activities involving direct investments, investments through financial intermediaries, and Advisory projects.
-
----
-
-
-### Environmental and Social Review Procedure
-
-Introduced in December 1998, the Environmental and Social Review Procedure (ESRP) was prepared for IFC staff and project sponsors to evaluate prospective projects prior to investment, focusing on economic, financial, technical, legal, environmental and social issues during the project appraisal process. This policy is [periodically updated](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/es-proc-manual/esrp-manual), with versions available since April 2006.
-
-
-
-Earlier versions of IFC's environmental and social policies, procedures, and standards are provided as reference material only.
-
-[ENVIRONMENTAL AND SOCIAL REVIEW PROCEDURES MANUAL](https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Policies-Standards/ES-Proc-Manual)
-
-* [Environmental and Social Review Procedure (April 2013)](https://www.ifc.org/wps/wcm/connect/d0db8c41-cfb0-45e9-b66a-522c88f270a5/ESRP_Oct2016.pdf?MOD=AJPERES)  [PDF]
-* [Environmental and Social Review Procedure (February 2009)](https://www.ifc.org/wps/wcm/connect/190d25804886582fb47ef66a6515bb18/ESRP2014.pdf?MOD=AJPERES)  [PDF]
-* [Environmental and Social Review Procedure (July 2007)](https://www.ifc.org/wps/wcm/connect/1fcd4880488559908374d36a6515bb18/ESRP2009.pdf?MOD=AJPERES)  [PDF]
-* [Environmental and Social Review Procedure (April 2006)](https://www.ifc.org/wps/wcm/connect/befd3a80488559a683a4d36a6515bb18/ESRP2006.pdf?MOD=AJPERES)  [PDF]
-* [Environmental and Social Review Procedure (December 1998)](https://www.ifc.org/wps/wcm/connect/8b64370048855267ab74fb6a6515bb18/ESRP1998.pdf?MOD=AJPERES) [PDF]
-
----
-
-
-#### Environmental and Social Review Procedure
-
-* [Environmental and Social Review Procedure](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_ESRP2009/$FILE/ESRP2009.pdf)
-:''see our'' [[IFC Environmental and Social Review Procedure|internal notes on the IFC Environmental and Social Review Procedure]]</h4>
-
-
-* [Environmental and Social Review Procedure](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_ESRP2009/$FILE/ESRP2009.pdf)
-
-
-* [Environmental and Social Review Procedure Manual](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustainability/our+approach/risk+management/environmental+and+social+review+procedure+manual)
-
-The Environmental and Social Review Procedures (ESRP) Manual defines IFC management-approved tasks to achieve client compliance with the Policy and Performance Standards on Environmental and Social Sustainability, Access to Information Policy, and Environmental, Health and Safety (EHS) Guidelines.
-
-The Manual describes how IFC conducts its environmental and social due diligence for the business activities involving direct investments, investments through financial intermediaries, and Advisory projects.
-
-Earlier versions of IFC's environmental and social policies, procedures, and standards are provided as reference material only.
-
-* Environmental and Social Review Procedure (April 2013) [PDF]
-* Environmental and Social Review Procedure (February 2009) [PDF]
-
-
-International Finance Corporation (IFC)<br>
-2009, version 4<br>
-
-As part of IFC commitment to socially and environmentally sustainable development, the Environmental and Social Review Procedures (ESRP) [2009, version 4] establish and verify the sustainability of client projects, as well as their conformance with Performance Standards and the Extractive Industry Review (EIR). 
-
-Included within the ESRP is IFC’s explanation of the terms “Free Prior and Informed Consultation (FPIC)” and “Broad Community Support (BCS)” as part of the requirements for community consultation and Performance Standards and EIR. The ESRP also details which projects require FPIC and BCS and the methodology used by IFC to determine client fulfilment of these requirements.
-
-As noted in the ESRP, both the PS and EIR requirements for FPIC and BCS are applicable to: 
-* Any proposed project with significant adverse impacts on affected  communities (i.e., in any project categorized ‘A’ by virtue of its predicted social impacts)<br>
-* Any proposed project where Indigenous People are directly affected. In such cases, there is an additional obligation for clients to enter into good faith negotiation with IPs as outlined in PS 7.1.
-
-In order to verify the client’s fulfilment of the Performance Standards and EIR requirements for FPIC and BCS, the IFC has developed a documenting matrix. Essentially the matrix is designed to answer these two questions:
-* Has the client conducted free, prior and informed consultation regarding the investment project, and enabled the informed participation of affected communities?<br>
-* What  is the level of support and dissent related to the project among the affected communities for the investment project?
-
-Based upon the answers to these questions, IFC classifies the quality of its client’s consultation efforts and the projects conformance with the Performance Standards, the Extractive Industry Review, and IFC’s overall commitment to socially and environmentally sustainable development.
-
-The ESRP also details IFC’s environmental and social appraisal process for direct investment projects and the environmental and social review process from public disclosure through the signing of legal documents. These processes involve s series of steps leading to an IFC approved Environmental and Social Review Summary (ESRS) and Action Plan. 
-
-Finally, the ESRP outlines IFC’s procedures for direct investment supervision, the disclosure and supervision procedures concerning IFC’s financial intermediary investments, and the social and environmental requirements for IFC managed advisory services.&nbsp;
-
-
-* Environmental and Social Review Procedure (July 2007) [PDF]
-
-
-
-International Finance Corporation (IFC)<br>
-2007<br>
-
-...confirms the shift to more inclusive a continuous process of engagement between companies and stakeholders, particularly project affected persons encompasses a range of approaches for the entire life of the project.
-...
-
-
-* Environmental and Social Review Procedure (April 2006) [PDF]
-* Environmental and Social Review Procedure (December 1998) [PDF]
-
-
-* [Environmental and Social Review Procedure](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#esrp)
 
 ### Supporting Materials
 
-* [IFC Exclusion List](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#exclusion) of projects that IFC does not finance, relating to IFC's investments prior to July 30, 2007
-* [Environmental, Health, and Safety (EHS) Guidelines and Pollution Prevention and Abatement Handbook (PPAH)](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsppah) followed prior to 2007 and 2008
-* [Decommissioned EHS Guidelines](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsdecommissioned) that have been updated following the review process beginning in 2013
+* [IFC Exclusion List](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#exclusion) of projects that IFC does not finance, relating to IFC's investments prior to July 30, 2007. The IFC Exclusion List defines the types of projects that IFC does not finance. The below Exclusion List relates to IFC's investments prior to the introduction of the Environmental and Social Review Procedure version 2 dated July 30, 2007.
+    * IFC Exclusion List (Pre-2007) [PDF]
 
 
+* [Environmental, Health, and Safety (EHS) Guidelines and Pollution Prevention and Abatement Handbook (PPAH)](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsppah) followed prior to 2007 and 2008. The World Bank Group Environmental, Health, and Safety Guidelines (known as the "EHS Guidelines") are living documents and are occasionally updated. The current version of the EHS Guidelines are available at www.ifc.org/ehsguidelines. Earlier versions of the EHS Guidelines (including documents that were previously published in Part III of the Pollution Prevention and Abatement Handbook (PPAH) and on the IFC website), that are no longer in use, can be found below and are provided for reference only.
 
-IFC Exclusion List
 
-The IFC Exclusion List defines the types of projects that IFC does not finance. The below Exclusion List relates to IFC's investments prior to the introduction of the Environmental and Social Review Procedure version 2 dated July 30, 2007.
+---
 
-* IFC Exclusion List (Pre-2007) [PDF]
-
-The most recent version of the IFC Exclusion List is available on our website.
-
-WBG Environmental, Health, and Safety Guidelines/Pollution Prevention and Abatement Handbook
-
-The World Bank Group Environmental, Health, and Safety Guidelines (known as the "EHS Guidelines") are living documents and are occasionally updated. The current version of the EHS Guidelines are available at www.ifc.org/ehsguidelines. Earlier versions of the EHS Guidelines (including documents that were previously published in Part III of the Pollution Prevention and Abatement Handbook (PPAH) and on the IFC website), that are no longer in use, can be found below and are provided for reference only.
 
 PPAH Part III: Project Guidelines [PDF]
 * [Principles of Industrial Pollution Management](http://www.ifc.org/wps/wcm/connect/98463a8048855c188b04db6a6515bb18/HandbookPrinciplesOfIndustrialPollutionManagement.pdf?MOD=AJPERES)
@@ -362,7 +281,19 @@ Pollutant Control Technologies [PDF]
 * [Ozone-Depleting Substances: Alternatives](http://www.ifc.org/wps/wcm/connect/4e730100488559478284d26a6515bb18/HandbookOzoneDepletingSubstancesAlternatives.pdf?MOD=AJPERES)
 * [Sulfur Oxides: Pollution Prevention and Control](http://www.ifc.org/wps/wcm/connect/c92d6d80488658c5b6faf66a6515bb18/HandbookSulfurOxidesPollutionPreventionAndControl.pdf?MOD=AJPERES)
 
+ ---
  
+
+* [Decommissioned EHS Guidelines](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsdecommissioned) that have been updated following the review process beginning in 2013
+
+
+<!--
+WBG Environmental, Health, and Safety Guidelines/Pollution Prevention and Abatement Handbook
+-->
+ 
+ 
+ 
+ ----
 
 IFC Guidelines [PDF]
 * [Airports](http://www.ifc.org/wps/wcm/connect/e0c3f38048855a72860cd66a6515bb18/airports.pdf?MOD=AJPERES)

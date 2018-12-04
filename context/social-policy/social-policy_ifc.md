@@ -34,7 +34,7 @@ http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_sit
 
 * 2012 [Sustainability Framework](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustainability/sustainability+framework/sustainability+framework+-+2012/framework_2012#AIP)
   - [Policy on Social & Environmental Sustainability [PDF]](http://www.ifc.org/wps/wcm/connect/7540778049a792dcb87efaa8c6a8312a/SP_English_2012.pdf?MOD=AJPERES)
-  - Performance Standards and Guidance Notes - 2012 Edition [website]](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustainability/sustainability+framework/sustainability+framework+-+2012/performance+standards+and+guidance+notes+2012/performance+standards+-+2012)
+  - [Performance Standards and Guidance Notes - 2012 Edition [website]](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustainability/sustainability+framework/sustainability+framework+-+2012/performance+standards+and+guidance+notes+2012/performance+standards+-+2012)
       * [Performance Standards on Social & Environmental Sustainability [PDF]](http://www.ifc.org/wps/wcm/connect/7540778049a792dcb87efaa8c6a8312a/SP_English_2012.pdf?MOD=AJPERES) | [русский](http://www.ifc.org/wps/wcm/connect/cd44c6004b8bbc068dbccfbbd578891b/PS_Russian_2012_Full-Document.pdf?MOD=AJPERES) | [简体中文](http://www.ifc.org/wps/wcm/connect/5fd142004a585f48ba3ebf8969adcc27/PS_Chinese_2012_Full-Document.pdf?MOD=AJPERES)
       * [Guidance Notes: Performance Standards on Social & Environmental Sustainability](http://www.ifc.org/wps/wcm/connect/e280ef804a0256609709ffd1a5d13d27/GN_English_2012_Full-Document.pdf?MOD=AJPERES)  
   - [Access to Information Policy [website]](http://www.ifc.org/wps/wcm/connect/CORP_EXT_Content/IFC_External_Corporate_Site/IFC+Projects+Database/Projects/) [[PDF]](http://www.ifc.org/wps/wcm/connect/89c0398049a79222b865faa8c6a8312a/AIP_English_2012.pdf?MOD=AJPERES)
@@ -50,7 +50,7 @@ http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_sit
 
 The [Sustainability Framework](http://www.ifc.org/sustainabilityframework) articulates IFC's strategic commitment to sustainable development.
 
-The framework is frames sound environmental and social practices in the context of risk-management, accountability and transparency.  
+The framework frames sound environmental and social practices in the context of risk-management, accountability and transparency.  
 
 <!--
 > The Sustainability Framework articulates IFC's strategic commitment to sustainable development and is an integral part of our approach to risk management.

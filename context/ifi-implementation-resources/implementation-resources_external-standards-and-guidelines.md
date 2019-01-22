@@ -20,3 +20,14 @@ WHO's work on environmental health provides the basis for global standards in en
 * [NIOSH Pocket Guide to Chemical Hazards](https://www.cdc.gov/niosh/npg/default.html)
 
 * [2005 TLVs® and BEIs® Threshold Limit Values for Chemical Substances and Biological Exposure Indices © 2005 ACGIH®](http://www.stps.gob.mx/DGIFT_STPS/PDF/2005TLVsBEIsofACGIHHandbook.pdf)
+
+---
+
+* [Safety and health in opencast mines](https://www.ilo.org/wcmsp5/groups/public/---ed_dialogue/---sector/documents/normativeinstrument/wcms_617123.pdf)
+* [Draft code of practice on safety and health in opencast mines](https://www.ilo.org/wcmsp5/groups/public/---ed_dialogue/---sector/documents/meetingdocument/wcms_575302.pdf)
+
+<!--
+
+https://www.researchgate.net/publication/317168872_Overcoming_the_OHS_risks_of_a_mining_project_case_of_an_new_open-pit_mine_in_Quebec
+https://www.researchgate.net/publication/277378201_Integration_of_OHS_into_Risk_Management_in_an_Open-Pit_Mining_Project_in_Quebec_Canada
+-->

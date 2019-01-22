@@ -354,3 +354,30 @@ A crosswalk workbook of GENC and GEC codes is available here ([GENC_ED3U7_GEC_XW
 ----
 
 Wikipedia."[Federal Information Processing Standards](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards)".
+Wikipedia."[FIPS county code](https://en.wikipedia.org/wiki/FIPS_county_code)".
+Wikipedia."[List of FIPS country codes](https://en.wikipedia.org/wiki/List_of_FIPS_country_codes)".
+
+<!--
+
+
+
+
+Withdrawn FIPS Replacement Standard0F
+1
+
+[FIPSCodesReplacementChart2015](https://www.nist.gov/sites/default/files/documents/itl/FIPSCodesReplacementChart2015.pdf)
+
+https://www.nist.gov/fusion-search?s=FIPS+country&commit=Search
+
+
+
+https://www.nist.gov/itl
+National Institute of Standards and Technology (NIST); Information Technology Laboratory (ITL)
+
+https://www.itl.nist.gov/fipspubs/fip10-4.htm
+
+[National Geospatial-Intelligence Agency](https://en.wikipedia.org/wiki/National_Geospatial-Intelligence_Agency)
+
+* [NGA GEOnet Names Server (GNS)](http://geonames.nga.mil/gns/html/)
+
+-->

@@ -88,6 +88,8 @@ ESMS Toolkit - General [PDF]: [English](https://www.ifc.org/wps/wcm/connect/3808
 The ESMS Toolkit - General provides tools — checklists, templates, and forms — to help you implement your ESMS improvement plan.
 
 
+* [Series - International Finance Corporation (IFC) chronological and subject files](https://archivesholdings.worldbank.org/international-finance-corporation-ifc-chronological-and-subject-files)
+
 <!--
 
 
@@ -204,4 +206,11 @@ The EHS Guidelines for Perennial Crop Production include information relevant to
 
 35 pages | © November 2015 World Bank Group | Complimentary
 
+
+
 -->
+<!--
+
+* [IFC’s Sustainability Framework: From Policy Update to Implementation](https://www.ciel.org/wp-content/uploads/2018/12/Indigenous-Peoples-and-Traditional-Knowledge-in-the-Context-of-the-UNFCCC.pdf)
+-->
+

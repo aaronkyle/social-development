@@ -748,4 +748,9 @@ Clicking by instrument type will display the relevant policies, OPs, directives,
 
 Questions on these statements can be addressed to OperationsHelpDesk@worldbank.org.
 
+
+---
+
+[World Bank Group Directive: Occupational Health and Safety](https://policies.worldbank.org/sites/ppf3/PPFDocuments/8f3a1433afb7413d906bf6dedbc7fc54.pdf)
+
 -->

@@ -212,5 +212,8 @@ The EHS Guidelines for Perennial Crop Production include information relevant to
 <!--
 
 * [IFC’s Sustainability Framework: From Policy Update to Implementation](https://www.ciel.org/wp-content/uploads/2018/12/Indigenous-Peoples-and-Traditional-Knowledge-in-the-Context-of-the-UNFCCC.pdf)
+
+World Bank. 2018. Good practice note : environmental, health, and safety approaches for hydropower projects (English). IFC Good practice note. Washington, D.C. : World Bank Group. http://documents.worldbank.org/curated/en/780291523529231720/Good-practice-note-environmental-health-and-safety-approaches-for-hydropower-projects | [PDF](http://documents.worldbank.org/curated/en/780291523529231720/pdf/WP-IFC-PUBLIC-SERIES-Good-practice-note-GPN-EHSHydropower.pdf)
+
 -->
 

@@ -712,3 +712,11 @@ Performance Standard 8 states that where a project may affect cultural heritage,
 
 
 <hr />
+
+
+<!--
+
+
+* [WORLD BANK ENVIRONMENT, HEALTH AND SAFETY GUIDELINES MINING AND MILLING - OPEN PIT](https://www.ifc.org/wps/wcm/connect/eaeeed8048855a84865cd66a6515bb18/mining_openpit.pdf?MOD=AJPERES)
+
+-->

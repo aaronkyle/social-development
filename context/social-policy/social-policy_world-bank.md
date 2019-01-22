@@ -730,3 +730,22 @@ OLD WIKICODE:
 [[Category:Social Development]]
 [[Category: Policy]]
 -->
+
+
+
+<!--
+
+Office of Environmental Affairs. 1984. Occupational health and safety guidelines (English). Washington, DC: World Bank. http://documents.worldbank.org/curated/en/966921468765606279/Occupational-health-and-safety-guidelines | [PDF](http://documents.worldbank.org/curated/en/966921468765606279/pdf/multi0page.pdf)
+
+
+https://policies.worldbank.org/sites/ppf3/Pages/Manuals/Operational%20Manual.aspx
+
+​​​​OPERATIONS MANUAL
+
+This Operations Manual contains the operational policies, directives, procedures and other instructions to staff that apply to Bank operations. The Manual is organized according to instrument – country engagement, development policy financing, investment project financing, program-for-results financing, and advisory services and analytics (including reimbursable advisory services).
+
+Clicking by instrument type will display the relevant policies, OPs, directives, and BPs for that instrument. Other relevant policies and directives are grouped under that heading for each instrument.
+
+Questions on these statements can be addressed to OperationsHelpDesk@worldbank.org.
+
+-->

@@ -8,11 +8,12 @@ Coastal Gujarat Power Limited  <br />
 Status and Timelines
 
 <table>
-<tr><th>Sr No.</th><th>|Proposed Action</th><th>Remarks</th></tr>
+<tr><th>Sr No.</th><th>Proposed Action</th><th>Remarks</th></tr>
 <tr><td> 1.</td><td>Third party to undertake household level socioeconomic survey of 21 villages/hamlets including seasonal settlements in CGPL’s influence area. </td><td> Status: Concluded
 <ul>
-    <li>Socio-Economic Survey has been conducted in all 21 villages by an expert agency M/s Environmental Resources Management (ERM) India. * The final report of ERM has been shared with IFC and is also available on CGPL micro site.
-* Three recommended themes, namely 1) Livelihood linked ecosystem; 2) Basic needs of community; and 3) Building social capital and infrastructure; have been made integral to the strategic intent of CSR programme of CGPL.</li></ul></td></tr>
+    <li>Socio-Economic Survey has been conducted in all 21 villages by an expert agency M/s Environmental Resources Management (ERM) India. </li>
+    <li>The final report of ERM has been shared with IFC and is also available on CGPL micro site.</li>
+<li>Three recommended themes, namely 1) Livelihood linked ecosystem; 2) Basic needs of community; and 3) Building social capital and infrastructure; have been made integral to the strategic intent of CSR programme of CGPL.</li></ul></td></tr>
 <tr><td> 2. </td><td> National Institute of Oceanography (“NIO”, an expert government organization) to undertake model confirmation studies including collecting experimental fishing data as part of the model confirmation study. </td><td> Status: Concluded
 <ul>
     <li>Model confirmation study including collection of the experimental fish catch data at outfall channel has been completed. NIO the final report has been shared with IFC.</li>

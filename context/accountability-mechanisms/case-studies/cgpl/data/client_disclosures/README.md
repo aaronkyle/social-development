@@ -1,3 +1,9 @@
+The new project landing page:
+
+https://www.tatapower.com/plants-projects/thermal-generation-projects/cgpl-4150mw.aspx
+
+NOTE: In the past couple of years (writing in Feb 2019), the CGPL website has gone through one major web update and some minor adjustments.  The links below appear to still be working.  I am not sure how long that will continue to be the case.
+
 <table>
   <tr>
     <th>Distribution</th>

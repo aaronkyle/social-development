@@ -3,15 +3,17 @@
 
 This work focuses on mechanisms within the [Independent Accountability Mechanisms Network (IAMnet)](http://independentaccountabilitymechanism.net/)&mdash;a professional membership network.<sup>[principles](http://independentaccountabilitymechanism.net/ocrp002p.nsf/0/CABCCCEB3370236948257F4700200EEE/%24file/Principles%20for%20Cooperation%20among%20IAMs%20-%20Final.pdf), [criteria](http://independentaccountabilitymechanism.net/ocrp002p.nsf/0/A706B9DAD41DF79E48257F4700293F6F/%24file/Criteria%20for%20participation%20in%20IAM%20network%20Final.pdf)</sup>
 
-Work on this repository is in its very early stages. I started (2017) by culling data from across IAM member pages:
+Work on this repository is in its very early stages. I am currently still culling data from across IAM member pages:
 
-* [`adb`](./adb_am/)
-* [`afdb`](./afdb_irm/)
-* [`ebrd`](./ebrd_pcm/)
-* [`eib`](./eib_cm/)
-* [`idb_idb`](./idb-iic_mici/)
-* [`idb_iic`](./idb-iic_mici/)
-* [`world-bank.md`](./wbg_idb-ida_ip/)
+* [`adb`](./adb_am/) <!-- included in Susan Park's database -->
+* [`afdb`](./afdb_irm/) <!-- included in Susan Park's database -->
+* [`ebrd`](./ebrd_pcm/) <!-- included in Susan Park's database -->
+* [`eib`](./eib_cm/) <!-- NOT included in Susan Park's database -->
+* [`idb_idb`](./idb-iic_mici/) <!-- included in Susan Park's database -->
+* [`idb_iic`](./idb-iic_mici/) <!-- included in Susan Park's database -->
+* [`world-bank.md`](./wbg_idb-ida_ip/) <!-- included in Susan Park's database -->
+
+**NOTE:** Just a bit after I began this project, [Susan Park](https://susanmpark.com/) [published a database of claims submitted to MDB accountability mechanisms between 1994 and 2016](https://susanmpark.com/database-multilateral-development-banks-accountability-mechanisms).  I'll eventually cross-reference this resource).
 
 I would ulitmately like to build a tool that pulls and re-organizes these data into a common framework.
 
@@ -19,7 +21,6 @@ I would ulitmately like to build a tool that pulls and re-organizes these data i
 --
 
 Members of [IAMnet](http://independentaccountabilitymechanism.net/) currently include:<br /><sup>[[TABLE VIEW]](http://applied-anthro.com/context/accountability-mechanisms/site/index.html).</sup>
-
 
 * African Development Bank (AfDB) - [Independent Review Mechanism](https://www.afdb.org/en/about-us/organisational-structure/independent-review-mechanism-irm/) (IRM)
     - [Operating Rules and Procedures (2015)](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Revised_IRM_Operating_Rules_and_Procedures_2015.pdf)

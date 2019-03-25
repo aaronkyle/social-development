@@ -1,9 +1,7 @@
 
 ## international accountability mechanisms
 
-I just recently started working on international accountability mechanisms.
-
-My work will focus on those mechanisms within the [Independent Accountability Mechanisms Network (IAMnet)](http://independentaccountabilitymechanism.net/)&mdash;a professional membership network.<sup>[principles](http://independentaccountabilitymechanism.net/ocrp002p.nsf/0/CABCCCEB3370236948257F4700200EEE/%24file/Principles%20for%20Cooperation%20among%20IAMs%20-%20Final.pdf), [criteria](http://independentaccountabilitymechanism.net/ocrp002p.nsf/0/A706B9DAD41DF79E48257F4700293F6F/%24file/Criteria%20for%20participation%20in%20IAM%20network%20Final.pdf)</sup>
+This work focuses on mechanisms within the [Independent Accountability Mechanisms Network (IAMnet)](http://independentaccountabilitymechanism.net/)&mdash;a professional membership network.<sup>[principles](http://independentaccountabilitymechanism.net/ocrp002p.nsf/0/CABCCCEB3370236948257F4700200EEE/%24file/Principles%20for%20Cooperation%20among%20IAMs%20-%20Final.pdf), [criteria](http://independentaccountabilitymechanism.net/ocrp002p.nsf/0/A706B9DAD41DF79E48257F4700293F6F/%24file/Criteria%20for%20participation%20in%20IAM%20network%20Final.pdf)</sup>
 
 Work on this repository is in its very early stages. I started (2017) by culling data from across IAM member pages:
 

@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+<title>Au sujet de ce document • Boîte À Outils Du Mécanisme De Règlement Des Plaintes</title>
+
+<link rel="stylesheet" href="../assets/main.css" type="text/css" media="screen">
+<link rel="stylesheet" href="../assets/print.css" type="text/css" media="print">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+<link rel="canonical" href="http://cao-grm.org">
+<meta name="description" content="Guide pratique pour la mise en œuvre des mécanismes de règlement des plaintes dans divers secteurs.">
+
+<meta property="og:url" content="http://cao-grm.org">
+<meta property="og:title" content="Boîte À Outils Du Mécanisme De Règlement Des Plaintes">
+<meta property="og:description" content="Guide pratique pour la mise en œuvre des mécanismes de règlement des plaintes dans divers secteurs.">
+<meta property="og:image" content="http://cao-grm.org/og-img.png">
+<meta property="og:type" content="website">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="apple-mobile-web-app-title" content="Boîte À Outils Du Mécanisme De Règlement Des Plaintes">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="icon" sizes="196x196" href="/apple-touch-icon.png">
+
+  </head>
+  <body>
+
+<div class="Main-wrap">
+    <img class="Hero-print" src="/assets/logo-dark-2x.png" alt="CAO Logo">
+<div class="Header no-print">
+  <a href="/fr/"><img class="Header-logo" src="/assets/fr/logo-white.svg" alt="CAO Boîte À Outils Du Mécanisme De Règlement Des Plaintes"></a>
+  <div class="Header-control-wrap">
+    <div class="Header-menu">
+      <a class="Header-link" id="menu-toggle">
+        <h3 class="Header-link-text">Menu</h3>
+        <svg class="Header-icon-menu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="41" height="32" viewBox="0 0 41 32">
+          <defs>
+            <style>
+              .cls-1 {
+                fill: #fff;
+                fill-rule: evenodd;
+              }
+            </style>
+          </defs>
+          <path d="M39.500,18.000 L1.500,18.000 C0.672,18.000 -0.000,17.328 -0.000,16.500 C-0.000,15.672 0.672,15.000 1.500,15.000 L39.500,15.000 C40.328,15.000 41.000,15.672 41.000,16.500 C41.000,17.328 40.328,18.000 39.500,18.000 ZM39.500,3.000 L1.500,3.000 C0.672,3.000 -0.000,2.328 -0.000,1.500 C-0.000,0.672 0.672,0.000 1.500,0.000 L39.500,0.000 C40.328,0.000 41.000,0.672 41.000,1.500 C41.000,2.328 40.328,3.000 39.500,3.000 ZM1.500,29.000 L39.500,29.000 C40.328,29.000 41.000,29.672 41.000,30.500 C41.000,31.328 40.328,32.000 39.500,32.000 L1.500,32.000 C0.672,32.000 -0.000,31.328 -0.000,30.500 C-0.000,29.672 0.672,29.000 1.500,29.000 Z" class="cls-1"/>
+        </svg>
+
+        <svg class="Header-icon-close" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="40" height="40" viewBox="0 0 40 40">
+          <defs>
+            <style>
+              .cls-1 {
+                fill: #fff;
+                fill-rule: evenodd;
+              }
+            </style>
+          </defs>
+          <path d="M39.996,38.435 L38.418,40.014 L20.000,21.589 L1.582,40.014 L0.003,38.435 L18.421,20.009 L0.003,1.584 L1.582,0.004 L20.000,18.430 L38.418,0.004 L39.996,1.584 L21.578,20.009 L39.996,38.435 Z" class="cls-1"/>
+        </svg>
+      </a>
+    </div>
+    <div class="Header-top">
+      <a class="Header-link" href="#top">
+        <h3 class="Header-link-text">Haut de page</h3>
+        <svg class="Header-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="42" height="42" viewBox="0 0 42 42">
+          <defs>
+            <style>
+              .cls-1 {
+                fill: #fff;
+                fill-rule: evenodd;
+              }
+            </style>
+          </defs>
+          <path d="M41.601,21.626 C41.084,22.130 40.246,22.130 39.729,21.626 L22.087,4.198 L22.087,40.977 C22.087,41.538 21.633,41.993 21.073,41.993 L20.477,41.993 C19.916,41.993 19.462,41.538 19.462,40.977 L19.462,4.627 L2.254,21.626 C1.737,22.130 0.899,22.130 0.382,21.626 C-0.135,21.122 -0.135,20.304 0.382,19.800 L20.055,0.365 C20.572,-0.139 21.411,-0.139 21.928,0.365 L41.601,19.800 C42.118,20.304 42.118,21.122 41.601,21.626 ZM20.946,3.161 L21.037,3.161 L20.992,3.116 L20.946,3.161 Z" class="cls-1"/>
+        </svg>
+      </a>
+    </div>
+    <div class="Header-print">
+      <a class="Header-link" href="javascript:window.print()">
+        <h3 class="Header-link-text">Imprimer</h3>
+        <img class="Header-icon" src="/assets/print.png" alt="print icon">
+      </a>
+    </div>
+  </div>
+</div>
+
+    <div class="Nav" id="Nav" role="navigation" data-sticky>
+  <div class="Nav-wrap">
+  <ol class="Nav-primary" role="navigation" aria-label="Primary Navigation">
+    <li class="Nav-primary-item"><a class="Nav-primary-link" href="/fr">Accueil</a></li><!-- end Nav-item -->
+    <li class="Nav-primary-item" id="business-case"><a class="Nav-primary-link" href="/fr/business-case-for-grievance-mechanisms">Argumentaire En Faveur Des Mécanismes De Règlement Des Plaintes</a></li><!-- end Nav-item -->
+    <li class="Nav-primary-item" id="purpose">
+      <a class="Nav-primary-link dropdown-toggle dropdown-arrow">
+        Objectif, Conception Et Mise En Œuvre
+        <svg class="Nav-primary-toggle" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="12" height="7" viewBox="0 0 12 7"><path d="M-0.004,-0.000 L12.004,-0.000 L6.000,7.005 L-0.004,-0.000 Z"/></svg>
+      </a>
+        <div class="Expandable-content">
+          <ol class="Nav-sublist">
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/fr/purpose-design-and-implementation#top">Raison d’être et objectifs de cette boîte à outils</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/fr/purpose-design-and-implementation#section-2">Pourquoi investir dans un mécanisme de recours est-il un bon placement pour une entreprise ?</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/fr/purpose-design-and-implementation#section-3">Les problématiques à prendre en compte lors de l’établissement d’un mécanisme de recours</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/fr/purpose-design-and-implementation#section-4">Élaborer un bon mécanisme de recours</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/fr/purpose-design-and-implementation#section-5">Faire fonctionner un mécanisme de recours</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/fr/purpose-design-and-implementation#section-6">Boucler la boucle : utiliser le retour d’informations sur le mécanisme de recours afin d’améliorer les pratiques professionnelles</a></li>
+          </ol>
+        </div>
+    </li><!-- end Nav-item -->
+
+    <li class="Nav-primary-item" id="tools-and-resources"><a class="Nav-primary-link" href="/fr/tools-and-resources">Outils Et Ressources</a></li><!-- end Nav-item -->
+  </ol><!-- end Nav-primary -->
+
+  <ol class="Nav-secondary" role="navigation" aria-label="Secondary Navigation">
+    <li class="Nav-secondary-item">
+      <a class="Nav-secondary-item-link" href="/fr/about-toolkit" id="about-toolkit">Au sujet de ce document</a>
+    </li>
+    <li class="Nav-secondary-item">
+      <a class="Nav-secondary-item-link" href="/fr/definitions-and-references" id="definitions-and-references">Définitions et références</a>
+    </li>
+    <li class="Nav-secondary-item">
+      <a class="Nav-secondary-item-link" href="/fr/about-cao" id="about-cao">À propos du CAO</a>
+    </li>
+  </ol><!-- end Nav-secondary -->
+
+  <!-- Language menu -->
+  <div class="Nav-language">
+    <p>Veuillez choisir la langue:</p>
+    <ul class="Nav-language-list">
+      <li class="Nav-language-item"><a href="/">English</a></li>
+      <li class="Nav-language-item"><a href="/es/">Español</a></li>
+      <li class="Nav-language-item"><a href="/fr/">Français</a></li>
+    </ul>
+  </div>
+
+  <div class="Feedback-wrap">
+    <p class="Feedback-text">Souhaitez-vous réagir à cette boîte à outils et en savoir plus sur d’autres matériels similaires ?</p>
+    <a class="Feedback-button"  href="https://www.surveymonkey.com/r/CAO-grm-feedback">Répondez à notre enquête</a>
+  </div>
+</div>
+
+</div>
+
+
+    <div class="Main" id="top">
+      <div class="Text-wrap">
+        <h1 class="Article-title-main">Au sujet de ce document</h1>
+        <h2 class="Article-subheading">Remerciements</h2>
+          <p class="Article-text"><strong>Auteur principal:</strong> David Atkins, spécialiste de l’environnement expert en hydrologie</p>
+          <p class="Article-text"><strong>Auteur-collaboratrice:</strong>  Elizabeth Mensah (Spécialiste conseil, CAO)</p>
+          <p class="Article-text"><strong>Collège de révision:</strong>  Scott Adams (Spécialiste de la résolution des conflits, CAO), Shaza Ahmed (Spécialiste senior du développement social, SFI), Diana Baird (Spécialiste principale du développement social, SFI), Sofie Fleischer Michaelsen (Spécialiste senior du développement social, SFI), Reidar Kvam (Spécialiste en chef du développement social, BIRD), Deborah Sequeira (Spécialiste principale du développement social, SFI), Justin Pooley (Spécialiste principal de l’environnement, SFI), Susan Wildau (Membre de CDR Associates)</p>
+          <p class="Article-text"><strong>Collaborateurs/collaboratrices du CAO:</strong> Osvaldo Gratacós, Gina Barbieri, Julia Gallu, Emily Horgan, Monika Noniewitz, Andrea Repetto-Vargas, Susana Rodriguez, Carissa Western</p>
+          <p class="Article-text"><strong>Rédactrice:</strong> Amy Sweeting</p>
+          <p class="Article-text"><strong>Conception:</strong> Threespot Media, Washington, D.C.</p>
+
+        <h2 class="Article-subheading">Droits et autorisations</h2>
+          <p class="Article-text">Le contenu de cette publication fait l’objet d’un dépôt légal. La reproduction et/ou la transmission sans autorisation de tout ou partie de cette publication peut constituer une violation de la loi en vigueur. Le CAO encourage la diffusion de ses travaux et donne généralement sans retard son autorisation d’en reproduire des extraits.</p>
+          <p class="Article-text">Pour obtenir l’autorisation de photocopier ou reproduire une quelconque partie de ce document, prière d’adresser une demande assortie de toutes les informations requises au Bureau du CAO, 2121 Pennsylvania Avenue NW, Washington, DC, 20433, USA ; tél. : + 1 202 458-1973 ; télécopie : + 1 202 522-7400 ; courriel : <a href="mailto:cao@worldbankgroup.org">cao@worldbankgroup.org</a>.</p>
+          <p class="Article-text">Toute autre demande de renseignement sur les droits et licences, y compris les droits dérivés, doit également être adressée au Bureau du CAO à l’adresse ci-dessus indiquée.</p>
+      </div><!-- end Text-wrap -->
+    </div><!-- end Main -->
+  </div>
+
+    <div class="Footer">
+  <div class="Footer-top">
+    <div class="Footer-content">
+      <img class="Footer-logo" src="/assets/logo-2x.png" alt="CAO Logo">
+      <p class="Footer-text">Le CAO aide à gérer les préoccupations des communautés qui s’estiment affectées par des projets SFI/AMGI aux fins d’améliorer les performances sociales et environnementales sur le terrain.</p>
+      <a class="Footer-cta" href="/fr/about-cao">En Savoir Plus Sur Nous</a>
+    </div>
+    <div class="Footer-logos">
+      <img class="Footer-logos-logo" src="/assets/fr/logo-wbg.png" alt="World Bank Logo">
+      <img class="Footer-logos-logo" src="/assets/fr/logo-ifc.png" alt="International Finance Corporation Logo">
+      <img class="Footer-logos-logo" src="/assets/fr/logo-miga.png" alt="Multilateral Investment Guarantee Agency">
+    </div>
+  </div>
+  <div class="Footer-bottom">
+    <p class="Footer-legaltext">Les informations contenues dans cette boîte à outils sont fournies exclusivement à titre de référence et de guide à destination d’utilisateurs désireux de développer un mécanisme de règlement des plaintes. Le CAO, en consultation avec des spécialistes en la matière, a élaboré cette boîte à outils de manière à ce qu’elle serve d’assise à la création de mécanismes de règlement des plaintes répondant à des conditions et capacités locales spécifiques. Comme pour tout guide, la mise en pratique réussie des outils de cette boîte dépend de nombreux facteurs allant outre le contenu du présent document et le CAO n’assume aucune responsabilité quant à l’application de ce guide à un contexte particulier, non plus qu’il n’avalise un quelconque mécanisme de règlement des plaintes instauré à l’aide de ce guide.</p>
+    <p class="Footer-legaltext">Les constations, interprétations et conclusions exprimées ici sont celles des auteurs et ne reflètent pas nécessairement les vues des Administrateurs du Groupe de la Banque mondiale ou des gouvernements qu’ils représentent. Le CAO ne garantit pas l’exactitude des données contenues dans le présent document. Les frontières, couleurs, dénominations et autres informations mentionnées sur les cartes insérées dans le présent ouvrage n’impliquent aucun jugement de la part du CAO sur le statut juridique d’un quelconque territoire ni aucune validation ou acceptation de ces frontières.</p>
+    <p class="Footer-legaltext">&copy; 2016 Bureau du Conseiller-médiateur pour l’application des directives</p>
+    <p class="Footer-legaltext">Tous droits réservés.</p>
+  </div>
+</div>
+
+
+    <script type="text/javascript" src="/assets/main.js"></script>
+
+  </body>
+</html>

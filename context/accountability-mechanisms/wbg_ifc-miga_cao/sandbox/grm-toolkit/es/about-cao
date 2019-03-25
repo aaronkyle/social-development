@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+<title>About CAO • Grievance Mechanism ToolKit</title>
+
+<link rel="stylesheet" href="../assets/main.css" type="text/css" media="screen">
+<link rel="stylesheet" href="../assets/print.css" type="text/css" media="print">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+<link rel="canonical" href="http://cao-grm.org">
+<meta name="description" content="A practical toolkit for implementing grievance mechanisms in different sectors.">
+
+<meta property="og:url" content="http://cao-grm.org">
+<meta property="og:title" content="CAO Grievance Mechanism Toolkit">
+<meta property="og:description" content="A practical toolkit for implementing grievance mechanisms in different sectors.">
+<meta property="og:image" content="http://cao-grm.org/og-img.png">
+<meta property="og:type" content="website">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="apple-mobile-web-app-title" content="CAO Grievance Mechanism Toolkit">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="icon" sizes="196x196" href="/apple-touch-icon.png">
+
+  </head>
+  <body>
+
+<div class="Main-wrap">
+    <img class="Hero-print" src="/assets/logo-dark-2x.png" alt="CAO Logo">
+<div class="Header no-print">
+  <a href="/es/"><img class="Header-logo" src="/assets/es/logo-white.svg" alt="CAO Grievance Mechanism Toolkit"></a>
+  <div class="Header-control-wrap">
+    <div class="Header-menu">
+      <a class="Header-link" id="menu-toggle">
+        <h3 class="Header-link-text">Menú</h3>
+        <svg class="Header-icon-menu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="41" height="32" viewBox="0 0 41 32">
+          <defs>
+            <style>
+              .cls-1 {
+                fill: #fff;
+                fill-rule: evenodd;
+              }
+            </style>
+          </defs>
+          <path d="M39.500,18.000 L1.500,18.000 C0.672,18.000 -0.000,17.328 -0.000,16.500 C-0.000,15.672 0.672,15.000 1.500,15.000 L39.500,15.000 C40.328,15.000 41.000,15.672 41.000,16.500 C41.000,17.328 40.328,18.000 39.500,18.000 ZM39.500,3.000 L1.500,3.000 C0.672,3.000 -0.000,2.328 -0.000,1.500 C-0.000,0.672 0.672,0.000 1.500,0.000 L39.500,0.000 C40.328,0.000 41.000,0.672 41.000,1.500 C41.000,2.328 40.328,3.000 39.500,3.000 ZM1.500,29.000 L39.500,29.000 C40.328,29.000 41.000,29.672 41.000,30.500 C41.000,31.328 40.328,32.000 39.500,32.000 L1.500,32.000 C0.672,32.000 -0.000,31.328 -0.000,30.500 C-0.000,29.672 0.672,29.000 1.500,29.000 Z" class="cls-1"/>
+        </svg>
+
+        <svg class="Header-icon-close" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="40" height="40" viewBox="0 0 40 40">
+          <defs>
+            <style>
+              .cls-1 {
+                fill: #fff;
+                fill-rule: evenodd;
+              }
+            </style>
+          </defs>
+          <path d="M39.996,38.435 L38.418,40.014 L20.000,21.589 L1.582,40.014 L0.003,38.435 L18.421,20.009 L0.003,1.584 L1.582,0.004 L20.000,18.430 L38.418,0.004 L39.996,1.584 L21.578,20.009 L39.996,38.435 Z" class="cls-1"/>
+        </svg>
+      </a>
+    </div>
+    <div class="Header-top">
+      <a class="Header-link" href="#top">
+        <h3 class="Header-link-text">Inicio de página</h3>
+        <svg class="Header-icon Header-icon--top" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="42" height="42" viewBox="0 0 42 42">
+          <defs>
+            <style>
+              .cls-1 {
+                fill: #fff;
+                fill-rule: evenodd;
+              }
+            </style>
+          </defs>
+          <path d="M41.601,21.626 C41.084,22.130 40.246,22.130 39.729,21.626 L22.087,4.198 L22.087,40.977 C22.087,41.538 21.633,41.993 21.073,41.993 L20.477,41.993 C19.916,41.993 19.462,41.538 19.462,40.977 L19.462,4.627 L2.254,21.626 C1.737,22.130 0.899,22.130 0.382,21.626 C-0.135,21.122 -0.135,20.304 0.382,19.800 L20.055,0.365 C20.572,-0.139 21.411,-0.139 21.928,0.365 L41.601,19.800 C42.118,20.304 42.118,21.122 41.601,21.626 ZM20.946,3.161 L21.037,3.161 L20.992,3.116 L20.946,3.161 Z" class="cls-1"/>
+        </svg>
+      </a>
+    </div>
+    <div class="Header-print">
+      <a class="Header-link" href="javascript:window.print()">
+        <h3 class="Header-link-text">Imprimir</h3>
+        <img class="Header-icon" src="/assets/print.png" alt="print icon">
+      </a>
+    </div>
+  </div>
+</div>
+
+    <div class="Nav" id="Nav" role="navigation" data-sticky>
+  <div class="Nav-wrap">
+  <ol class="Nav-primary" role="navigation" aria-label="Primary Navigation">
+    <li class="Nav-primary-item"><a class="Nav-primary-link" href="/es/">Inicio</a></li><!-- end Nav-item -->
+    <li class="Nav-primary-item" id="business-case"><a class="Nav-primary-link" href="/es/business-case-for-grievance-mechanisms">Caso de negocios para mecanismos de reclamación</a></li><!-- end Nav-item -->
+    <li class="Nav-primary-item" id="purpose">
+      <a class="Nav-primary-link dropdown-toggle dropdown-arrow">
+        Propósito, Diseño e Implementación
+        <svg class="Nav-primary-toggle" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="12" height="7" viewBox="0 0 12 7"><path d="M-0.004,-0.000 L12.004,-0.000 L6.000,7.005 L-0.004,-0.000 Z"/></svg>
+      </a>
+        <div class="Expandable-content">
+          <ol class="Nav-sublist">
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/es/purpose-design-and-implementation#top">Propósito y objetivos de esta caja de herramientas</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/es/purpose-design-and-implementation#section-2">¿Por qué son una buena inversión los mecanismos de reclamaciones para las empresas?</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/es/purpose-design-and-implementation#section-3">Cuestiones a considerar al establecer un mecanismo de reclamaciones</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/es/purpose-design-and-implementation#section-4">Desarrollo de un buen mecanismo de reclamaciones</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/es/purpose-design-and-implementation#section-5">Hacer que un mecanismo de reclamaciones funcione</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/es/purpose-design-and-implementation#section-6">Cerrar el círculo: Utilizando la retroalimentación del mecanismo de reclamaciones para mejorar las prácticas de las empresas</a></li>
+          </ol>
+        </div>
+    </li><!-- end Nav-item -->
+
+    <li class="Nav-primary-item" id="tools-and-resources"><a class="Nav-primary-link" href="/es/tools-and-resources">Herramientas y recursos</a></li><!-- end Nav-item -->
+  </ol><!-- end Nav-primary -->
+
+  <ol class="Nav-secondary" role="navigation" aria-label="Secondary Navigation">
+    <li class="Nav-secondary-item">
+      <a class="Nav-secondary-item-link" href="/es/about-toolkit" id="about-toolkit">Acerca de este documento</a>
+    </li>
+    <li class="Nav-secondary-item">
+      <a class="Nav-secondary-item-link" href="/es/definitions-and-references" id="definitions-and-references">Definiciones y referencias</a>
+    </li>
+    <li class="Nav-secondary-item">
+      <a class="Nav-secondary-item-link" href="/es/about-cao" id="about-cao">Acerca de la CAO</a>
+    </li>
+  </ol><!-- end Nav-secondary -->
+
+  <!-- Language menu -->
+  <div class="Nav-language">
+    <p>Elige su idioma:</p>
+    <ul class="Nav-language-list">
+      <li class="Nav-language-item"><a href="/">English</a></li>
+      <li class="Nav-language-item"><a href="/es/">Español</a></li>
+      <li class="Nav-language-item"><a href="/fr">Français</a></li>
+    </ul>
+  </div>
+
+  <div class="Feedback-wrap">
+    <p class="Feedback-text">¿Le interesa dar su opinión sobre esta caja de herramientas y conseguir más información sobre otros productos como este?</p>
+    <a class="Feedback-button"  href="https://www.surveymonkey.com/r/WGV67D9">Participe en nuestra encuesta</a>
+  </div>
+</div>
+
+</div>
+
+
+    <div class="Main" id="top">
+      <div class="Text-wrap--about-cao">
+        <h1 class="Article-title-main">Acerca de la CAO</h1>
+        <p class="Article-text">La Oficina del Asesor Cumplimiento Ombudsman (CAO) es el mecanismo independiente de responsabilidad/rendición de cuentas de la Corporación Financiera Internacional (IFC) y del Organismo Multilateral de Garantía de Inversiones (MIGA), organismos del Grupo del Banco Mundial para el sector privado. La CAO reporta directamente al Presidente del Grupo del Banco Mundial. Su mandato es  abordar las reclamaciones de las personas afectadas por los proyectos apoyados por la IFC y el MIGA de manera justa, objetiva y constructiva, y mejorar los resultados sociales y ambientales de dichos  proyectos. Para más información, visite <a href="http://www.cao-ombudsman.org">www.cao-ombudsman.org</a>.</p>
+
+        <h3 class="Article-subheading">Contáctenos</h3>
+        <div class="Article-text">
+          <p>Oficina del Asesor Cumplimiento Ombudsman (CAO)</p>
+          <p>2121 Pennsylvania Avenue NW</p>
+          <p>Washington, DC 20433 EE. UU.</p>
+          <p>Teléfono: + 1 202 458-1973</p>
+          <p>Fax: +1 202 522-7400</p>
+          <p>Sitio web: <a href="http://www.cao-ombudsman.org">www.cao-ombudsman.org</a></p>
+          <p>Correo electrónico: <a href="mailto:cao@worldbankgroup.org" target="_top">cao@worldbankgroup.org</a></p>
+        </div>
+      </div>
+
+    </div><!-- end Main -->
+  </div><!-- end Main-wrap -->
+
+    <div class="Footer">
+  <div class="Footer-top">
+    <div class="Footer-content">
+      <img class="Footer-logo" src="/assets/logo-2x.png" alt="CAO Logo">
+      <p class="Footer-text">La CAO ayuda a abordar las inquietudes de las comunidades que consideran que han sido afectadas por proyectos de IFC/MIGA, con el fin de mejorar los resultados sociales y ambientales en el lugar.</p>
+      <a class="Footer-cta" href="/es/about-cao">Más acerca de nosotros</a>
+    </div>
+  <div class="Footer-logos">
+    <img class="Footer-logos-logo" src="/assets/es/logo-wb-2x.png" alt="World Bank Logo">
+    <img class="Footer-logos-logo" src="/assets/es/logo-if-2x.png" alt="International Finance Corporation Logo">
+    <img class="Footer-logos-logo" src="/assets/logo-mi-2x.png" alt="Multilateral Investment Guarantee Agency">
+  </div>
+</div>
+  <div class="Footer-bottom">
+    <p class="Footer-legaltext">La información contenida en esta caja de herramientas sirve únicamente como referencia y tiene como objetivo servir como guía para los usuarios que quieran desarrollar un mecanismo de reclamaciones. La CAO, consultando con expertos en el campo, elaboró esta caja de herramientas para que sirva como punto de partida para que los usuarios desarrollen un mecanismo de reclamaciones que aborde las condiciones y capacidades locales. Tal como ocurre con cualquier otra guía, su implementación exitosa depende de muchos factores que van más allá de lo que se puede leer en un documento, y la CAO no asume responsabilidad por el éxito de la implementación de esta guía en un contexto particular, ni responde por ningún mecanismo de reclamaciones que se haya establecido mediante el uso de esta guía.</p>
+    <p class="Footer-legaltext">Los resultados, interpretaciones y conclusiones expresados en el presente trabajo son los de sus autores, y no necesariamente reflejan los puntos de vista de los Directores Ejecutivos del Grupo del Banco Mundial o de los gobiernos que ellos representan. La CAO no garantiza la precisión de los datos contenidos en el presente trabajo. Las fronteras, colores, denominaciones y otra información que aparezca en cualquier mapa de la presente obra, no implica opinión alguna de la CAO con respecto al estado legal de territorio alguno ni constituye un aval o aceptación de dichas fronteras.</p>
+    <p class="Footer-legaltext">© Oficina del Asesor Cumplimiento Ombudsman</p>
+    <p class="Footer-legaltext">Todos los derechos están reservados.</p>
+  </div>
+</div>
+
+
+    <script type="text/javascript" src="/assets/main.js"></script>
+
+  </body>
+</html>

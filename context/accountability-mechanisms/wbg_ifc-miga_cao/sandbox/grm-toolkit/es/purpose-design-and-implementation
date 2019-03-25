@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+<title>Propósito, Diseño e Implementación • Grievance Mechanism ToolKit</title>
+
+<link rel="stylesheet" href="../assets/main.css" type="text/css" media="screen">
+<link rel="stylesheet" href="../assets/print.css" type="text/css" media="print">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+<link rel="canonical" href="http://cao-grm.org">
+<meta name="description" content="A practical toolkit for implementing grievance mechanisms in different sectors.">
+
+<meta property="og:url" content="http://cao-grm.org">
+<meta property="og:title" content="CAO Grievance Mechanism Toolkit">
+<meta property="og:description" content="A practical toolkit for implementing grievance mechanisms in different sectors.">
+<meta property="og:image" content="http://cao-grm.org/og-img.png">
+<meta property="og:type" content="website">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="apple-mobile-web-app-title" content="CAO Grievance Mechanism Toolkit">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="icon" sizes="196x196" href="/apple-touch-icon.png">
+
+</head>
+<body>
+  <div class="Main-wrap">
+    <img class="Hero-print" src="/assets/logo-dark-2x.png" alt="CAO Logo">
+<div class="Header no-print">
+  <a href="/es/"><img class="Header-logo" src="/assets/es/logo-white.svg" alt="CAO Grievance Mechanism Toolkit"></a>
+  <div class="Header-control-wrap">
+    <div class="Header-menu">
+      <a class="Header-link" id="menu-toggle">
+        <h3 class="Header-link-text">Menú</h3>
+        <svg class="Header-icon-menu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="41" height="32" viewBox="0 0 41 32">
+          <defs>
+            <style>
+              .cls-1 {
+                fill: #fff;
+                fill-rule: evenodd;
+              }
+            </style>
+          </defs>
+          <path d="M39.500,18.000 L1.500,18.000 C0.672,18.000 -0.000,17.328 -0.000,16.500 C-0.000,15.672 0.672,15.000 1.500,15.000 L39.500,15.000 C40.328,15.000 41.000,15.672 41.000,16.500 C41.000,17.328 40.328,18.000 39.500,18.000 ZM39.500,3.000 L1.500,3.000 C0.672,3.000 -0.000,2.328 -0.000,1.500 C-0.000,0.672 0.672,0.000 1.500,0.000 L39.500,0.000 C40.328,0.000 41.000,0.672 41.000,1.500 C41.000,2.328 40.328,3.000 39.500,3.000 ZM1.500,29.000 L39.500,29.000 C40.328,29.000 41.000,29.672 41.000,30.500 C41.000,31.328 40.328,32.000 39.500,32.000 L1.500,32.000 C0.672,32.000 -0.000,31.328 -0.000,30.500 C-0.000,29.672 0.672,29.000 1.500,29.000 Z" class="cls-1"/>
+        </svg>
+
+        <svg class="Header-icon-close" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="40" height="40" viewBox="0 0 40 40">
+          <defs>
+            <style>
+              .cls-1 {
+                fill: #fff;
+                fill-rule: evenodd;
+              }
+            </style>
+          </defs>
+          <path d="M39.996,38.435 L38.418,40.014 L20.000,21.589 L1.582,40.014 L0.003,38.435 L18.421,20.009 L0.003,1.584 L1.582,0.004 L20.000,18.430 L38.418,0.004 L39.996,1.584 L21.578,20.009 L39.996,38.435 Z" class="cls-1"/>
+        </svg>
+      </a>
+    </div>
+    <div class="Header-top">
+      <a class="Header-link" href="#top">
+        <h3 class="Header-link-text">Inicio de página</h3>
+        <svg class="Header-icon Header-icon--top" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="42" height="42" viewBox="0 0 42 42">
+          <defs>
+            <style>
+              .cls-1 {
+                fill: #fff;
+                fill-rule: evenodd;
+              }
+            </style>
+          </defs>
+          <path d="M41.601,21.626 C41.084,22.130 40.246,22.130 39.729,21.626 L22.087,4.198 L22.087,40.977 C22.087,41.538 21.633,41.993 21.073,41.993 L20.477,41.993 C19.916,41.993 19.462,41.538 19.462,40.977 L19.462,4.627 L2.254,21.626 C1.737,22.130 0.899,22.130 0.382,21.626 C-0.135,21.122 -0.135,20.304 0.382,19.800 L20.055,0.365 C20.572,-0.139 21.411,-0.139 21.928,0.365 L41.601,19.800 C42.118,20.304 42.118,21.122 41.601,21.626 ZM20.946,3.161 L21.037,3.161 L20.992,3.116 L20.946,3.161 Z" class="cls-1"/>
+        </svg>
+      </a>
+    </div>
+    <div class="Header-print">
+      <a class="Header-link" href="javascript:window.print()">
+        <h3 class="Header-link-text">Imprimir</h3>
+        <img class="Header-icon" src="/assets/print.png" alt="print icon">
+      </a>
+    </div>
+  </div>
+</div>
+
+    <div class="Nav" id="Nav" role="navigation" data-sticky>
+  <div class="Nav-wrap">
+  <ol class="Nav-primary" role="navigation" aria-label="Primary Navigation">
+    <li class="Nav-primary-item"><a class="Nav-primary-link" href="/es/">Inicio</a></li><!-- end Nav-item -->
+    <li class="Nav-primary-item" id="business-case"><a class="Nav-primary-link" href="/es/business-case-for-grievance-mechanisms">Caso de negocios para mecanismos de reclamación</a></li><!-- end Nav-item -->
+    <li class="Nav-primary-item" id="purpose">
+      <a class="Nav-primary-link dropdown-toggle dropdown-arrow">
+        Propósito, Diseño e Implementación
+        <svg class="Nav-primary-toggle" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="12" height="7" viewBox="0 0 12 7"><path d="M-0.004,-0.000 L12.004,-0.000 L6.000,7.005 L-0.004,-0.000 Z"/></svg>
+      </a>
+        <div class="Expandable-content">
+          <ol class="Nav-sublist">
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/es/purpose-design-and-implementation#top">Propósito y objetivos de esta caja de herramientas</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/es/purpose-design-and-implementation#section-2">¿Por qué son una buena inversión los mecanismos de reclamaciones para las empresas?</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/es/purpose-design-and-implementation#section-3">Cuestiones a considerar al establecer un mecanismo de reclamaciones</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/es/purpose-design-and-implementation#section-4">Desarrollo de un buen mecanismo de reclamaciones</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/es/purpose-design-and-implementation#section-5">Hacer que un mecanismo de reclamaciones funcione</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/es/purpose-design-and-implementation#section-6">Cerrar el círculo: Utilizando la retroalimentación del mecanismo de reclamaciones para mejorar las prácticas de las empresas</a></li>
+          </ol>
+        </div>
+    </li><!-- end Nav-item -->
+
+    <li class="Nav-primary-item" id="tools-and-resources"><a class="Nav-primary-link" href="/es/tools-and-resources">Herramientas y recursos</a></li><!-- end Nav-item -->
+  </ol><!-- end Nav-primary -->
+
+  <ol class="Nav-secondary" role="navigation" aria-label="Secondary Navigation">
+    <li class="Nav-secondary-item">
+      <a class="Nav-secondary-item-link" href="/es/about-toolkit" id="about-toolkit">Acerca de este documento</a>
+    </li>
+    <li class="Nav-secondary-item">
+      <a class="Nav-secondary-item-link" href="/es/definitions-and-references" id="definitions-and-references">Definiciones y referencias</a>
+    </li>
+    <li class="Nav-secondary-item">
+      <a class="Nav-secondary-item-link" href="/es/about-cao" id="about-cao">Acerca de la CAO</a>
+    </li>
+  </ol><!-- end Nav-secondary -->
+
+  <!-- Language menu -->
+  <div class="Nav-language">
+    <p>Elige su idioma:</p>
+    <ul class="Nav-language-list">
+      <li class="Nav-language-item"><a href="/">English</a></li>
+      <li class="Nav-language-item"><a href="/es/">Español</a></li>
+      <li class="Nav-language-item"><a href="/fr">Français</a></li>
+    </ul>
+  </div>
+
+  <div class="Feedback-wrap">
+    <p class="Feedback-text">¿Le interesa dar su opinión sobre esta caja de herramientas y conseguir más información sobre otros productos como este?</p>
+    <a class="Feedback-button"  href="https://www.surveymonkey.com/r/WGV67D9">Participe en nuestra encuesta</a>
+  </div>
+</div>
+
+</div>
+
+    <div class="Main" id="top">
+      <div class="Text-wrap">
+        <div class="Article-subtitle-wrap" id="section-1">
+          <p class="Article-subtitle-number">1</p>
+          <h1 class="Article-subtitle"><span class="Article-title">Propósito, diseño e implementación</span><br>
+          Propósito y objetivos de esta caja de herramientas</h1>
+        </div>
+        <p class="Article-text-popup"><span class="Pop-up-text tooltip" title="Mecanismos de reclamaciones fuertes y confiables pueden ayudar a resolver problemas en forma proactiva a medida que surgen, antes de que erosionen la confianza de la comunidad local o lleguen a ser inabordables.">Los mecanismos de reclamaciones</span> a nivel operativo proporcionan un medio a través del cual las personas o comunidades afectadas por las operaciones de una empresa pueden plantear preguntas, inquietudes y problemas ante la empresa y conseguir que se aborden de manera rápida y uniforme. No reemplazan a los mecanismos judiciales o extrajudiciales de solución. Sin embargo, cuando se implementan con eficacia, los mecanismos de reclamaciones ofrecen la perspectiva de una resolución eficaz, inmediata y de bajo costo para empresas y comunidades. Un mecanismo de reclamaciones bien estructurado y confiable puede ayudar a resolver problemas en forma proactiva a medida que surgen, antes de que erosionen la confianza de la comunidad local o lleguen a ser inabordables. También puede ser una manera eficaz que ayude a las empresas a identificar potenciales problemas y a ofrecer información valiosa sobre cómo mejorar sus operaciones.</p>
+        <p class="Pullquote-left">Un mecanismo de reclamaciones bien estructurado y confiable puede ayudar a resolver problemas en forma proactiva a medida que surgen, antes de que se erosione la confianza de la comunidad local o lleguen a ser inabordables.</p>
+        <p class="Article-text">Existe una conciencia cada vez mayor sobre la utilidad de los mecanismos de reclamaciones para ayudar a abordar conflictos entre empresas y comunidades. <a class="Article-source-link" href="/es/definitions-and-references"> Los Principios Rectores sobre Empresas y Derechos Humanos de Naciones Unidas (ONU)  han sido un importante catalizador para el desarrollo de mecanismos de reclamaciones a nivel operativo en el marco de las Naciones Unidas para "proteger, respetar y remediar"</a><span class="Article-source-superscript">1</span>, mientras que los mecanismos de reclamaciones han jugado, a su vez, un papel fundamental en la aplicación práctica de los Principios Rectores de Naciones Unidas.</p>
+        <p class="Article-text"><a class="Article-source-link" href="/es/definitions-and-references">Las Políticas y Normas de Desempeño de la Corporación Internacional Financiera (IFC) sobre Sostenibilidad Ambiental y Social (Marco de Sostenibilidad de la IFC) reconocen que los mecanismos de reclamaciones son necesarios para que las empresas aborden responsablemente cuestiones relacionadas con los derechos humanos. </a><span class="Article-source-superscript">2</span> <a class="Article-source-link" href="/es/definitions-and-references">Las Normas de Desempeño exigen que los clientes establezcan un mecanismo de reclamaciones para las comunidades afectadas que se ajuste a los riesgos e impactos adversos del proyecto.</a><span class="Article-source-superscript">3</span> Las Normas además requieren que los clientes ofrezcan un mecanismo de reclamaciones eficaz para facilitar la identificación temprana de las reclamaciones y un remedio rápido para las personas que creen que han sido afectadas por las acciones de un cliente.</p>
+        <p class="Article-text">El trabajo social de la CAO ha demostrado que aunque las políticas relacionadas con los mecanismos de reclamaciones estén bien desarrolladas, todavía hay desafíos en su aplicación, lo que genera una falta de uniformidad en el diseño e implementación de los mecanismos de reclamaciones a nivel operativo. Además, los costos percibidos y reales asociados con el establecimiento, la implementación y el mantenimiento  de un mecanismo de reclamaciones presentan otro desafío. Para las empresas con márgenes pequeños, invertir en un mecanismo de reclamaciones cuando la necesidad y los resultados potenciales no se han demostrado puede parecer un gasto demasiado grande cuando se compara con otras prioridades de la empresa.</p>
+        <p class="Article-text-popup">Esta caja de herramientas está diseñada para abordar estas barreras vinculadas con la implementación. <a class="Article-source-link" href="/es/definitions-and-references">Se basa en las guías anteriores de la CAO sobre mecanismos de reclamaciones comunitarias</a><span class="Article-source-superscript">4</span>, y tiene dos objetivos primordiales. En primer lugar, ofrecer una guía práctica para diseñar e implementar mecanismos de reclamaciones eficaces, particularmente para proyectos con limitaciones en cuanto a personal, tiempo y presupuesto. En segundo lugar, proporcionar un conjunto de herramientas y técnicas de las mejores prácticas de la labor de la CAO, así como del trabajo de otros profesionales. En este documento, la mayoría de los ejemplos utilizados para ilustrar los tipos de reclamaciones que recibe un mecanismo de reclamaciones provienen de las industrias extractivas (petróleo, gas y minería). Las industrias extractivas tienen más experiencia en cuanto a mecanismos de reclamaciones con respecto a otros sectores debido a la naturaleza de sus actividades que pueden tener un gran impacto sobre la tierra y los recursos hídricos, así como el grado de escrutinio que recibe el sector. Esta experiencia se plasma en el lenguaje que se utiliza en los informes de sostenibilidad de las empresas de la industria extractiva, que comúnmente se centran mucho en asuntos de la comunidad, incluidos los mecanismos de reclamaciones. Por el contrario, los informes de sostenibilidad para muchas empresas agrícolas históricamente han prestado menos atención a estos temas. Como los mecanismos de reclamaciones siguen siendo un campo de práctica emergente en otros sectores, además de los extractivos, esta guía compensa la falta de datos cuantificables mediante el uso de una cantidad de casos ficcionales a partir de ejemplos de la vida real de empresas de menor escala en una variedad de sectores.</p>
+        <p class="Article-text">El diseño y la implementación específica de cada mecanismo de reclamaciones varían y presentan sus propios retos y oportunidades. Esta caja de herramientas brinda orientación sobre la evaluación del contexto local y determina qué puede funcionar en una situación específica y las resoluciones de los problemas que surgen.</p>
+        <p><a class="Feedback-button" href="/es/tools-and-resources">Encuentre herramientas y recursos</a></p>
+
+        <div class="Article-subtitle-wrap" id="section-2">
+          <p class="Article-subtitle-number">2</p>
+          <h3 class="Article-subtitle"><span class="Article-title">Propósito, diseño e implementación</span><br>
+          ¿Por qué los mecanismos de reclamaciones son una buena inversión para las empresas?</h3>
+        </div>
+        <p class="Article-text">A veces las empresas evitan establecer e implementar un mecanismo de reclamaciones debido a ciertos "mitos" o ideas equivocadas en relación con su valor y posibilidades de éxito. Sin embargo, como se ilustra en esta sección, la realidad es que un mecanismo de reclamaciones eficaz puede tener enormes beneficios tanto para las empresas como para las comunidades locales.</p>
+        <h3 class="Article-text-emphasized">Mito 1. Tener un mecanismo de reclamaciones no agrega valor a las empresas, especialmente a las empresas pequeñas.</h3>
+        <p class="Article-text">Un mecanismo de reclamaciones que se integra en todas las operaciones de una empresa es una buena manera de prevenir conflictos futuros, potencialmente muy costosos. Así como una gran cantidad de gotas forma un océano, una cantidad de reclamaciones desatendidas puede crecer y llegar a resultar más difícil y también más costosa.</p>
+        <p class="Article-text">Por ejemplo, es fundamental abordar las preocupaciones de los pequeños agricultores en cuanto al uso agrícola del agua a gran escala y sus posibles impactos sobre la disponibilidad del agua antes de que se sequen los pozos de agua subterránea. Para temas como este, un mecanismo de reclamaciones puede ser una herramienta de evaluación de riesgos ambientales y sociales, y ayuda a asegurar que las comunidades directamente impactadas por los proyectos puedan ser las primeras en informar sobre cuestiones que, en última instancia, podrían resultar costosas y problemáticas en el futuro. Un mecanismo de reclamaciones que funciona bien también proporciona una oportunidad de reparación, así como una oportunidad para que la empresa y la comunidad trabajen juntas para encontrar soluciones a los problemas y desarrollen mejores relaciones. Por último, las empresas aportan recursos sustanciales para comprender y eliminar ineficiencias en su administración, técnicas y procesos operativos. Los mecanismos de reclamaciones pueden identificar una insuficiencia en el de desempeño al resaltar sus impactos en la comunidad (así como en la empresa) y ayudar a la empresa a evitar o a abordar los resultados negativos y costosos del proyecto.</p>
+        <h3 class="Article-text-emphasized">Mito 2. Es una mala idea hacer publicidad de los mecanismos de reclamaciones porque se recibirán muchas reclamaciones, y muchas reclamaciones indican un mal desempeño de la administración, los accionistas y terceros.</h3>
+        <p class="Article-text">Idealmente, las empresas y las comunidades existirían juntas de una manera positiva para todos. Sin embargo, incluso en las mejores operaciones, se producen situaciones difíciles a lo largo de la vida del proyecto debido a las actividades intensivas en el inicio o construcción del proyecto hasta la fase operativa e incluso durante el cierre y abandono del sitio. En muchos casos, las reclamaciones indican confianza por parte de la comunidad sobre la capacidad de la empresa para resolver problemas. También ofrecen una oportunidad para abordar cuestiones mientras todavía están dentro del control de la empresa y antes de que lleguen a convertirse en conflictos más grandes y más difíciles. De hecho, que haya más reclamaciones pueden indicar un mejor desempeño y confianza en el mecanismo de reclamaciones.</p>
+        <p class="Article-text">Por ejemplo, una empresa minera importante señaló en su informe de sostenibilidad del año 2013 que recibió 2.804 reclamaciones en todo el grupo, y que este número representaba un aumento de 69 por ciento desde 2012. La empresa señaló que este aumento es "lo que esperaríamos ver como resultado de la mejora en la presentación de informes". <a class="Article-source-link" href="/es/definitions-and-references">El cuarenta por ciento de las reclamaciones recibidas se referían a impactos en las comunidades.</a><span class="Article-source-superscript">5</span> En este caso, la empresa creía que más reclamaciones indicaban un mejor funcionamiento de los mecanismos de reclamaciones y una mejor atención a los problemas de la comunidad. Si bien una mayor cantidad de reclamaciones no siempre es un indicador cierto de que la participación de la comunidad marcha bien, pueden ser un buen indicio de que su mecanismo de reclamaciones está haciendo lo que se supone que debe hacer en respuesta a los impactos del proyecto planteados por las comunidades.</p>
+        <h3 class="Article-text-emphasized">Mito 3. Las resoluciones de las reclamaciones son costosas porque siempre son complicadas.</h3>
+        <p class="Article-text">A veces las reclamaciones involucran a muchas personas y pueden ser difíciles y excesivamente largas. Esto es particularmente cierto cuando ya existe un conflicto, precisamente las situaciones en donde es clave una importante participación de las partes. Sin embargo, debido a que los mecanismos de reclamaciones confiables y eficaces pueden detectar problemas antes de que se agraven y requieran más recursos para su resolución, en realidad pueden reducir los posibles costos imprevistos de un proyecto. Esto es importante en especial en el caso de empresas con pequeños márgenes de rentabilidad.</p>
+        <p class="Article-text">Los mecanismos de reclamaciones también pueden ayudar a las empresas a saber dónde y cómo asignar recursos. Por ejemplo, si se plantean inquietudes continuamente porque los camiones no obedecen los límites de velocidad en las rutas, los datos del mecanismo de reclamaciones pueden ayudar a una empresa a determinar si el problema del exceso de velocidad está relacionado con un contratista en particular que deba que ser sancionado, o si se trata de un problema sistémico con los vehículos de la empresa y del contratista, y que, en consecuencia, se requiera un programa de educación y cumplimiento más completo de seguridad vial.</p>
+        <h3 class="Article-text-emphasized">Mito 4. Los mecanismos de reclamaciones no pueden funcionar en comunidades divididas.</h3>
+        <p class="Article-text">Un mecanismo de reclamaciones no puede resolver todos los problemas que enfrenta una comunidad, pero establecer un proceso estructurado, transparente y confiable puede ayudar a subsanar las divisiones en las comunidades que están fracturadas o surgen de un conflicto. Si el mecanismo de reclamaciones puede servir como agente de confianza en la comunidad, es un paso importante para la reconstrucción del capital social.</p>
+        <p class="Article-text">A veces se puede establecer un mecanismo de reclamaciones para solucionar un problema específico que no se ha tratado en forma adecuada en el pasado. Por ejemplo, la tenencia de tierras y los reasentamientos son cuestiones fundamentales en muchos proyectos y pueden requerir un mecanismo de reclamaciones especial y específico para abordar lo que a menudo es un historial de incertidumbre. En un país de África Central luego de un conflicto, un tema grave vinculado con reasentamientos originó la mitad de las reclamaciones recibidas a nivel de grupo en todas las operaciones de una empresa minera multinacional. El problema relacionado con la tenencia de tierras y reasentamientos requirió el desarrollo de un mecanismo de reclamaciones específico. La empresa también estableció un Comité de Mediación Independiente (CMI) para resolver las reclamaciones que no podían resolverse a través del proceso básico. <a class="Article-source-link" href="/es/definitions-and-references">El establecimiento del mecanismo de reclamaciones y CMI fue un paso importante hacia la resolución del conflicto y de las divisiones de la comunidad.</a><span class="Article-source-superscript">6</span></p>
+        <h3 class="Article-text-emphasized">Mito 5. Los mecanismos de reclamaciones siempre recibirán una enorme cantidad de reclamaciones y consumirán recursos sustanciales de la empresa para siempre.</h3>
+        <p class="Article-text">La experiencia de la empresa rusa Sakhalin Energy Investment Ltd., uno de los primeros proyectos de energía que implementó un mecanismo de reclamaciones, es ilustrativa. El mecanismo de reclamaciones de la empresa comenzó a funcionar en 2003, a partir de la transición del proyecto del diseño a la construcción. En el punto más importante de la construcción, el proyecto recibió alrededor de 150 reclamaciones en un año. <a class="Article-source-link" href="/es/definitions-and-references">A medida que disminuyó la actividad de construcción, la cantidad de reclamaciones recibidas por año disminuyó a cerca de 15 (véase la figura 1).</a><span class="Article-source-superscript">7</span> Este ejemplo muestra un fenómeno común: la cantidad de reclamaciones recibidas se relaciona con la actividad en el lugar y el correspondiente impacto sobre la comunidad.</p><img alt="Reclamaciones relacionadas con el patron de construcción" class="Article-figure" src="/assets/es/Figure-section2a.svg"> <img alt="Patrón de reclamaciones esperado por tipo de proyecto" class="Article-figure" src="/assets/es/Figure-section2b.svg">
+        <h3 class="Article-text-emphasized">Mito 6. Un mecanismo de reclamaciones a nivel operativo administrado por una empresa no tiene legitimidad y no se puede confiar en los resultados.</h3>
+        <p class="Article-text">Algunos miembros de la comunidad y grupos que trabajan con ellos tienen dificultad en creer o comprender cómo puede generar resultados equitativos un mecanismo desarrollado y administrado por la empresa que causa los impactos sociales, económicos o ambientales en cuestión. Esta impresión puede generar su profunda desconfianza en una compañía en particular, el sector privado en general, o una experiencia previa con mecanismos de reclamaciones mal diseñados o implementados. Estas preocupaciones son legítimas, ya que hay muchos ejemplos de empresas que no han trabajado con buena fe junto a las comunidades afectadas por sus proyectos. Sin embargo, la experiencia con mecanismos de reclamaciones implementados en proyectos de recursos naturales muestra que la mayoría de los problemas planteados por los miembros de una comunidad se refieren a impactos operacionales de la empresa (por ejemplo, problemas cotidianos relacionados con las operaciones industriales, tales como ruido, polvo y tráfico) y los beneficios que proporcionan las empresas (incluso empleo, contratos e inversión social). Estos tipos de problemas se pueden abordar de manera rápida, eficiente y rentable a través de un mecanismo de reclamaciones bien estructurado. Este mecanismo de reclamaciones puede servir como un eficaz primer acercamiento a las preocupaciones de la comunidad que surgen de las operaciones diarias. Los mecanismos de reclamaciones no impiden que un reclamante busque otras opciones, como puede ser otro mecanismo de reclamaciones o un proceso legal o regulatorio, si el mecanismo de reclamaciones no proporciona un proceso o resultado satisfactorio. Si las comunidades afectadas son consultadas durante el desarrollo del mecanismo de reclamaciones, la empresa mantiene sus promesas y los reclamantes experimentan un proceso justo y de compensación, se puede lograr credibilidad y legitimidad del mecanismo (véase sección 4 para más información sobre la generación de confianza en un mecanismo de reclamaciones).</p>
+      </div><!-- end Text wrap -->
+      <div class="ResourceTile-wrap">
+        <h3 class="ResourceTile-wrap-heading">Herramientas y recursos relacionados</h3>
+        <div class="ResourceTile">
+          <div class="ResourceTile-header-casestudy">
+            <a class="ResourcesTile-link" href="../Tools/es/Un-productor-agrícola.docx">
+            <p class="ResourceTile-header-label">Estudio de caso</p>
+            <p class="ResourceTile-header-title">Un productor agrícola en una zona rural donde es norma la agricultura a pequeña escala</p><svg aria-hidden="true" class="ResourceTile-arrow" height="20.031" preserveaspectratio="xMidYMid" viewbox="0 0 20 20.031" width="20" xmlns="http://www.w3.org/2000/svg" fill="#fff">
+            <path d="M20.000,18.484 C20.000,19.313 19.328,19.984 18.500,19.984 C17.672,19.984 17.000,19.313 17.000,18.484 L17.000,5.117 L2.550,19.556 C1.964,20.141 1.015,20.141 0.429,19.556 C-0.157,18.970 -0.157,18.021 0.429,17.436 L14.879,2.998 L1.499,2.998 C0.671,2.998 0.000,2.327 0.000,1.499 C0.000,0.671 0.671,-0.000 1.499,-0.000 L18.501,-0.000 C19.329,-0.000 20.000,0.671 20.000,1.499 C20.000,1.499 20.000,1.499 20.000,1.499 C20.000,1.500 20.000,1.500 20.000,1.500 L20.000,18.484 Z"></path></svg></a>
+          </div>
+          <div class="ResourceTile-content">
+            <p class="ResourceTile-content-text">Este caso es particularmente útil para proyectos y operaciones con una extensión territorial grande, operaciones que pueden estar en competencia con los medios locales de generación de ingresos o subsistencia, y productores agrícolas.</p>
+          </div>
+        </div>
+      </div>
+      <div class="Text-wrap">
+        <div class="Article-subtitle-wrap" id="section-3">
+          <p class="Article-subtitle-number">3</p>
+          <h3 class="Article-subtitle"><span class="Article-title">Propósito, diseño e implementación</span><br>
+          Cuestiones a considerar al establecer un mecanismo de reclamaciones</h3>
+        </div>
+        <div class="Article-navigation">
+          <h6 class="Article-navigation-title">Saltar a la sección</h6>
+          <ol class="Article-navigation-list">
+            <li class="Article-navigation-item">
+              <a class="Article-navigation-item-link" href="#overview-3">Resumen</a>
+            </li>
+            <li class="Article-navigation-item">
+              <a class="Article-navigation-item-link" href="#costs-associated">Costos asociados con los mecanismos de reclamaciones</a>
+            </li>
+            <li class="Article-navigation-item">
+              <a class="Article-navigation-item-link" href="#maximizing-resources">Maximización de recursos y capacidad</a>
+            </li>
+          </ol>
+          <div class="Article-navigation-tear"></div>
+        </div>
+        <p class="Article-text-popup anchor" id="overview-3">Hay varias cuestiones a tener en cuenta cuando se toma la decisión de si se debe establecer y cómo establecer un</p><span class="Pop-up-text tooltip" title="Si bien el costo inicial puede parecer alto, si el mecanismo de reclamaciones es “adecuado para sus fines,” los beneficios superan los costos.">mecanismo de reclamaciones a nivel operativo</span>.
+        <p class="Article-text-popup">Hay varias cuestiones que se debe tener en cuenta cuando se toma la decisión de establecer un mecanismo de reclamaciones a nivel operativo y cómo hacerlo. Esto incluye los costos asociados con la creación de un mecanismo de reclamaciones, así como maneras de asegurar que la empresa y la comunidad obtengan los máximos beneficios.</p>
+        <p class="Pullquote-left">Si bien el costo inicial puede parecer alto, si el mecanismo de reclamaciones es "adecuado para sus fines", los beneficios superan los costos.</p>
+        <h2 class="Article-subheading anchor" id="costs-associated">Costos asociados con los mecanismos de reclamaciones</h2>
+        <p class="Article-text">Hay varios costos asociados con el establecimiento, implementación y mantenimiento de un mecanismo de reclamaciones. Si bien el costo inicial puede parecer alto, si el mecanismo de reclamaciones es "adecuado para sus fines" (es decir, se ajusta a los riesgos y posibles impactos adversos del proyecto), los beneficios superarán los costos. Esto ocurre especialmente en el caso de las empresas que no podrían costear la respuesta necesaria si el conflicto surge o se prolonga porque las reclamaciones de la comunidad no se han abordado de manera eficaz. Un estudio reciente de la Universidad de Queensland en Australia demostró que, en el sector extractivo, los costos de los conflictos y trastornos comunitarios pueden oscilar entre los US$10.000 y US$50.000 por día durante la fase de exploración, y hasta US$20 millones por semana durante las operaciones. <a class="Article-source-link" href="/es/definitions-and-references">Aunque el estudio se centró en las industrias extractivas, un sector con una larga historia de seguimiento de los costos relacionados con los conflictos, la lección general es aplicable a cualquier sector.</a><span class="Article-source-superscript">8</span></p>
+        <h2 class="Article-subheading anchor" id="maximizing-resources">Maximización de recursos y capacidad: El contexto local es importante</h2>
+        <p class="Article-text">Cuando una empresa invierte en un mecanismo de reclamaciones, debe asegurar que tanto la empresa como la comunidad obtienen el máximo provecho. Es fundamental abordar el contexto local para que los recursos se puedan aplicar donde probablemente más se necesitan. Aunque es imposible anticipar todos los problemas, hay algunas preguntas clave a considerar cuando se piensa en la mejor manera de escalar los recursos y la capacidad necesaria para establecer un mecanismo de reclamaciones.</p>
+        <h3 class="Article-text-emphasized">¿El mecanismo de reclamaciones abordará problemas específicos?</h3>
+        <p class="Article-text">En algunos casos, los mecanismos de reclamaciones estarán dirigidos hacia problemas específicos y repetidos que ocurren en un tipo particular de proyecto. Por ejemplo, para muchos proyectos agrícolas, los daños relacionados con los cultivos pueden ser un problema frecuente. En este caso, un mecanismo de reclamaciones podría tener un enfoque particular sobre ese problema e incluir procesos específicos, tales como inspecciones agrícolas.</p>
+        <p class="Pullquote-right">Con el mejor de los escenarios posibles, un mecanismo de reclamaciones y el personal asociado tendrán suficiente confianza con los miembros de la comunidad, lo que serviría como el primer contacto frente a cualquier problema, independientemente del ámbito de aplicación.</p>
+        <h3 class="Article-text-emphasized">¿El mecanismo de reclamaciones tratará múltiples problemas desde múltiples perspectivas?</h3>
+        <p class="Article-text">En otros casos, un mecanismo de reclamaciones podría ser la puerta de entrada para muchos problemas, desde inversión social hasta empleo o manejo de los impactos en la infraestructura. Por ejemplo, los proyectos que requieren la construcción de instalaciones tienen impactos a corto plazo e intensivos relacionados con tráfico, ruido, polvo, disponibilidad de servicios, y oferta y demanda de mano de obra calificada y no calificada. En este caso, sería importante que el mecanismo de reclamaciones tuviera pocas restricciones en cuanto a su alcance y admisibilidad para que pueda servir como la primera puerta de ingreso frente a cualquier inquietud de la comunidad. En muchos casos, las reclamaciones de la comunidad serían abordadas dentro del mecanismo de reclamaciones, pero en algunos casos una reclamación puede ser asignada a otro departamento con su propio proceso (por ejemplo, recursos humanos, en el caso de una reclamación relacionada con empleo). Con el mejor escenario posible, un mecanismo de reclamaciones y el personal asociado tendrá suficiente confianza en los miembros de la comunidad y ello serviría como el primer contacto al cual recurrir en caso de cualquier problema, independientemente del ámbito de aplicación.</p>
+        <h3 class="Article-text-emphasized">¿Cómo funcionará el mecanismo de reclamaciones con grupos indígenas o personas vulnerables?</h3>
+        <p class="Article-text">En los casos que involucren grupos indígenas o de personas vulnerables, será necesario establecer procesos específicos para asegurar que el mecanismo funciona igualmente bien con ellos. Por ejemplo, puede ser necesario contar con  un oficial de reclamaciones para un grupo indígena local o asegurar que haya mujeres representantes para discutir y recibir reclamaciones en los lugares en donde las mujeres no suelen expresar preocupaciones de manera pública. Además, es imperativo que las comunicaciones se realicen en el idioma local o indígena para facilitar su acceso y comprensión.</p>
+        <p class="Pullquote-left">Se debe asegurar que el mecanismo de reclamaciones tenga en cuenta el contexto local para garantizar que es adecuado para los fines y riesgos específicos.</p>
+        <h3 class="Article-text-emphasized">¿Los contratistas desempeñan un papel en la implementación y en el funcionamiento de un mecanismo de reclamaciones?</h3>
+        <p class="Article-text">En muchos proyectos, los contratistas realizan la mayor parte de las actividades. Por ejemplo, cuando un proyecto requiere obras civiles a gran escala, la construcción es normalmente realizada por contratistas. Aunque los contratistas pueden participar en actividades que generen reclamaciones, el dueño u operador suele ser la "cara" (el punto de contacto público) del proyecto y cualquier reclamación relacionada con un contratista también impactará negativamente sobre el operador. En algunos casos, los contratistas tienen implementados sus propios mecanismos de reclamaciones. En otros casos, los dueños/operadores optan por implementar un mecanismo de reclamaciones administrado por su propio personal, pero involucran a los contratistas y al público según el caso.</p>
+        <h3 class="Article-text-emphasized">¿El mecanismo de reclamaciones es "adecuado para los fines" y ajustado a los problemas y riesgos previstos?</h3>
+        <p class="Article-text">En todos los casos, un mecanismo de reclamaciones bueno incorpora las circunstancias locales mientras sigue un proceso coherente y estructurado. Asegurarse de que el mecanismo de reclamaciones tenga en cuenta el contexto local garantizará que es adecuado para sus fines y riesgos específicos. También significará que los recursos se asignen para un uso correcto al centrarse en los problemas reales relacionados con el proyecto, en lugar de crear un mecanismo que sea bueno en teoría, pero que no ayude a identificar y a abordar los problemas planteados por la comunidad.</p>
+      </div><!-- end Text wrap -->
+      <div class="ResourceTile-wrap">
+        <h3 class="ResourceTile-wrap-heading">Herramientas y recursos relacionados</h3>
+        <div class="ResourceTile">
+          <div class="ResourceTile-header-casestudy">
+            <a class="ResourcesTile-link" href="../Tools/es/Una-planta-química-existente.docx">
+            <p class="ResourceTile-header-label">Estudio de caso</p>
+            <p class="ResourceTile-header-title">Una planta de productos químicos en una zona industrial densamente poblada</p><svg aria-hidden="true" class="ResourceTile-arrow" height="20.031" preserveaspectratio="xMidYMid" viewbox="0 0 20 20.031" width="20" xmlns="http://www.w3.org/2000/svg" fill="#fff">
+            <path d="M20.000,18.484 C20.000,19.313 19.328,19.984 18.500,19.984 C17.672,19.984 17.000,19.313 17.000,18.484 L17.000,5.117 L2.550,19.556 C1.964,20.141 1.015,20.141 0.429,19.556 C-0.157,18.970 -0.157,18.021 0.429,17.436 L14.879,2.998 L1.499,2.998 C0.671,2.998 0.000,2.327 0.000,1.499 C0.000,0.671 0.671,-0.000 1.499,-0.000 L18.501,-0.000 C19.329,-0.000 20.000,0.671 20.000,1.499 C20.000,1.499 20.000,1.499 20.000,1.499 C20.000,1.500 20.000,1.500 20.000,1.500 L20.000,18.484 Z"></path></svg></a>
+          </div>
+          <div class="ResourceTile-content">
+            <p class="ResourceTile-content-text">Este estudio de caso es especialmente útil para proyectos con una operación/instalación existente situados en una zona urbana o densamente poblada/con una operación/instalación que podría generar impactos acumulativos, o con una operación/instalación que tenga impactos que puedan requerir más investigación.</p>
+          </div>
+        </div>
+      </div>
+      <div class="Text-wrap">
+        <div class="Article-subtitle-wrap--short" id="section-4">
+          <p class="Article-subtitle-number">4</p>
+          <h3 class="Article-subtitle"><span class="Article-title">Propósito, diseño e implementación</span><br>
+          Desarrollo de un buen mecanismo de reclamaciones</h3>
+        </div>
+        <div class="Article-navigation">
+          <h6 class="Article-navigation-title">Saltar a la sección</h6>
+          <ol class="Article-navigation-list">
+            <li class="Article-navigation-item">
+              <a class="Article-navigation-item-link" href="#overview-4">Resumen</a>
+            </li>
+            <li class="Article-navigation-item">
+              <a class="Article-navigation-item-link" href="#getting-started">Iniciación</a>
+            </li>
+            <li class="Article-navigation-item">
+              <a class="Article-navigation-item-link" href="#building-trust">Generación de confianza en un mecanismo de reclamaciones</a>
+            </li>
+          </ol>
+          <div class="Article-navigation-tear"></div>
+        </div>
+        <p class="Article-text anchor" id="overview-4">Es importante considerar la manera en que un mecanismo de reclamaciones se ajusta a la estrategia global del compromiso de la empresa. Como objetivo general y medida de eficacia, el mecanismo de reclamaciones debe ser parte de un enfoque más amplio en cuanto a la participación de las partes que proporcione una forma para que los miembros de la comunidad participen constantemente con la empresa, mejoren las relaciones, se reduzca el riesgo social y se permita una gestión más receptiva y responsable.</p>
+        <p class="Article-text">Los objetivos específicos de un mecanismo de reclamaciones deben incluir:</p>
+        <ol class="Article-list">
+          <li class="Article-list-item"><span class="Article-list-item-number">1</span>establecer un procedimiento oportuno, uniforme, estructurado y confiable para recibir y abordar las preocupaciones y reclamaciones de la comunidad;</li>
+          <li class="Article-list-item"><span class="Article-list-item-number">2</span>asegurar que los reclamantes sean tratados con respeto;</li>
+          <li class="Article-list-item"><span class="Article-list-item-number">3</span>garantizar la documentación adecuada y divulgación de las reclamaciones y cualquier acción correctiva resultante, y</li>
+          <li class="Article-list-item"><span class="Article-list-item-number">4</span>contribuir a la mejora continua del desempeño de la empresa a través del análisis de las tendencias y lecciones aprendidas en las reclamaciones recibidas.</li>
+        </ol>
+        <h2 class="Article-subheading anchor" id="getting-started">Inicio: Pasos iniciales para desarrollar un mecanismo de reclamaciones</h2>
+        <p class="Article-text">Los cuatro pasos principales para el desarrollo inicial de un mecanismo de reclamaciones presentado en esta sección deben funcionar para la mayoría de los contextos y situaciones. Estos pasos incluyen: identificar e involucrar a las partes relevantes en la empresa y la comunidad, comprender el entorno actual, definir el alcance de las reclamaciones y determinar el propósito y los objetivos de un mecanismo de reclamaciones.</p><img alt="Desarrollo de un mecanismo de reclamaciones: Paso 1, Identificar e involucrar actores clave en la compañía y comunidad; Paso 2, Entender el entorno actual; Paso 3, Definir el alcance de las reclamaciones; Paso 4, Determinar el propósito y los objetivos del mecanismo de reclamaciones" class="Article-figure" src="/assets/es/Figure-section4a.svg">
+        <h2 class="Article-subheading-steps">Paso 1: Identificar e involucrar a las partes clave en la empresa y la comunidad</h2>
+        <p class="Article-text">Como un primer paso en el proceso para establecer un mecanismo de reclamaciones, el personal de la empresa a cargo de esta responsabilidad debe identificar las partes del mecanismo dentro de la empresa y la comunidad, y cultivar su liderazgo. Al identificar a los líderes dentro de la empresa, es importante encontrar personas con autoridad para la toma de decisiones. Si es difícil encontrar a alguien que se ajuste a estas características y que además esté interesado en el mecanismo de reclamaciones, posiblemente resulte útil identificar un operador clave respetado en la empresa y presentar los argumentos a favor de los mecanismos de reclamaciones. También es útil demostrar constantemente el éxito del mecanismo de reclamaciones a medida que comienza a funcionar.</p>
+        <p class="Article-text">Es necesaria la participación efectiva de las partes interesadas para identificar líderes dentro de la comunidad que cuenten con la confianza de la comunidad. En este momento inicial, también es importante asegurar que los diferentes grupos comunitarios (mujeres o pueblos indígenas) estén representados. Ellos ayudarán a que se comience a comprender qué constituye un mecanismo de reclamaciones eficaz y, eventualmente, ayudarán con la comunicación del mecanismo de reclamaciones e instruirán a otros sobre el mecanismo.</p>
+        <p class="Article-text">Este paso es importante porque ayuda a asegurar que las diferentes perspectivas sean consideradas en el proceso de diseño, que quienes toman las decisiones clave estén comprometidos con el proceso y que se responda rápidamente a las reclamaciones. La identificación de las partes clave también ayuda a desarrollar confianza entre la empresa y en la comunidad, y permite que el personal de la empresa responsable del mecanismo de reclamaciones y la comunidad puedan participar de manera constructiva.</p>
+        <p class="Pullquote-right">La retroalimentación de la comunidad será muy valiosa para determinar más adelante el ámbito de aplicación de las reclamaciones.</p>
+        <h2 class="Article-subheading-steps">Paso 2: Entender el entorno actual</h2>
+        <p class="Article-text">Una vez que se ha identificado e involucrado a los actores clave, el personal de la empresa y sus socios de la comunidad deben realizar una evaluación de los tipos de reclamaciones que pueden surgir y los métodos, procedimientos o capacidad local que existen para su manejo. Además, si el proyecto ya está en funcionamiento, el equipo debe determinar la naturaleza de toda reclamación de la comunidad que se haya presentado hasta el momento. Para entender el entorno presente será necesario visitar la comunidad las veces y con la frecuencia que sea posible para determinar qué tipos de inquietudes tienen los miembros de la comunidad con relación al proyecto y de qué manera resuelven generalmente los conflictos. El personal de la empresa también puede comunicar sus propias ideas acerca de cómo se podría establecer un mecanismo de reclamaciones en la zona. La devolución de la comunidad será muy valiosa para determinar más adelante el alcance de las reclamaciones. Este paso ayuda a determinar qué tipo de mecanismo de reclamaciones será adecuado a los fines del proyecto, a través del diseño de herramientas que ya están disponibles en la comunidad y los tipos de reclamaciones que posiblemente abordará el mecanismo.</p>
+        <h2 class="Article-subheading-steps">Paso 3: Definir el alcance de las reclamaciones</h2>
+        <p class="Article-text">Al trabajar con los miembros de la comunidad y la gerencia de la empresa, los miembros del personal que estén desarrollando el mecanismo de reclamaciones deben determinar el alcance de las reclamaciones que puedan surgir. <a class="Article-source-link" href="/es/definitions-and-references">Esto implicará identificar los puntos en donde las actividades cotidianas de la comunidad y de la empresa entran en contacto y determinar si las personas presentan reclamaciones de manera individual o grupal.</a><span class="Article-source-superscript">9</span>.</p>
+        <p class="Article-text">Al igual que para entender el entorno vigente, este paso implica visitar la comunidad con frecuencia y también hablar con las personas involucradas en la realización de las operaciones diarias dentro de la empresa con el fin de identificar cuándo y en qué circunstancias interactúan con los miembros de la comunidad. Esto brindará una base para el siguiente paso del proceso: determinar el propósito y los objetivos del mecanismo de reclamaciones. Si se comprende el alcance de las reclamaciones, es más fácil decidir si el mecanismo de reclamaciones puede manejar estos asuntos y de qué manera. Este paso también ayuda a evaluar el nivel de recursos que se necesitarán para el mecanismo de reclamaciones.</p>
+        <h2 class="Article-subheading-steps">Paso 4: Determinar el propósito y los objetivos del mecanismo de reclamaciones</h2>
+        <p class="Article-text">Como paso final del proceso inicial de la implementación, el personal de la empresa debe trabajar en colaboración con los miembros de la comunidad para responder a las siguientes preguntas: "¿Por qué se establece un mecanismo de reclamaciones?, y ¿qué queremos lograr en el corto y largo plazo?". Debería considerarse si cuestiones tales como las reclamaciones por actividad delictiva, reclamaciones laborales, conflictos comerciales o cuestiones relativas a políticas del gobierno se ubican dentro o fuera del alcance del mecanismo de reclamaciones de la comunidad.</p>
+        <p class="Article-text">Este paso es importante para establecer un entendimiento entre la comunidad y la empresa sobre los problemas que el mecanismo de reclamaciones abordará y los que no abordará. Para eso, son fundamentales las reuniones de la comunidad y entre la empresa y la comunidad. Si no se puede lograr un consenso con relación al mecanismo de reclamaciones, entonces una parte o la otra parte no considerará que el mecanismo de reclamaciones es legítimo, e incluso el mecanismo de reclamaciones mejor diseñado no brindará la información necesaria para que la empresa solucione las inquietudes de la comunidad y maneje los riesgos.</p>
+        <h2 class="Article-subheading anchor" id="building-trust">Generar confianza en un mecanismo de reclamaciones</h2>
+        <p class="Article-text-popup">La confianza es esencial para los mecanismos de reclamaciones. Las personas necesitan saber que es un lugar seguro al que apelar, que su confidencialidad estará protegida y que no recibirán represalias por parte de la empresa o de otros miembros de la comunidad cuando expresen sus inquietudes y participen en el proceso de resolución de reclamaciones. Además, la participación en un mecanismo de reclamaciones a nivel operativo es siempre voluntaria y los miembros de la comunidad necesitan saber que pueden optar libremente por no participar o dejar de participar sin recibir represalias. En algunas circunstancias particularmente difíciles, puede ser necesario identificar a un defensor en la comunidad que pueda escuchar y responder frente a cualquier denuncia de represalia, ya sean críticas del proyecto, la presentación de una reclamación o si alguna parte estuviera insatisfecha.</p>
+        <p class="Article-text">La comunicación también es clave para generar confianza. Es especialmente importante decir a las personas lo que pueden esperar una vez que han decidido presentar una reclamación y qué puede esperar el reclamante del proceso, además de las incertidumbres. Se debe detallar claramente los pasos del proceso al reclamante, con indicación de los puntos claros, frecuentes y oportunos en donde se comunica la información sobre el proceso.</p>
+        <p class="Pullquote-left">Un mecanismo de reclamaciones eficaz se basa en la confianza entre los miembros de la comunidad y la empresa, y la garantía de que la presentación de una reclamación no implicará repercusiones negativas para el reclamante.</p>
+        <p class="Article-text">La falta de claridad en el proceso puede crear confusión e ineficacia en el mecanismo de reclamaciones. Por ejemplo, una compañía de petróleo y gas de Medio Oriente estableció un mecanismo de reclamaciones para resolver los problemas de la comunidad relacionados con los impactos del proyecto, incluso polvo, ruido y tráfico. También creó un Consejo de Desarrollo Local integrado por autoridades y personal de contratación y adquisiciones de la empresa para abordar las oportunidades de empleo. Sin embargo, los miembros de la comunidad que buscaban oportunidades en el proyecto vieron el mecanismo de reclamaciones como un espacio para recibir atención especial por parte del personal de relaciones comunitarias, que se sintió obligado a responder en lugar de referir a los miembros de la comunidad al Consejo de Desarrollo Local. Este malentendido generó confusión y falta de efectividad del mecanismo de reclamaciones y del Consejo de Desarrollo Local.</p>
+        <p class="Article-text">El manejo de las expectativas es necesario también para generar y mantener la confianza. Las actividades más importantes para la gestión de las expectativas incluyen la discusión de diferentes escenarios con relación a lo que el reclamante puede esperar y la información a las personas, en forma periódica y en una etapa temprana,  sobre las limitaciones del proceso.</p>
+        <p class="Article-text">Un mecanismo de reclamaciones eficaz se basa en la confianza entre los miembros de la comunidad y la empresa y la garantía de que la presentación de una reclamación no implicará repercusiones negativas para el reclamante.</p>
+      </div><!-- end Text wrap -->
+      <div class="ResourceTile-wrap">
+        <h3 class="ResourceTile-wrap-heading">Herramientas y recursos relacionados</h3>
+        <div class="ResourceTile">
+          <div class="ResourceTile-header-tool">
+            <a class="ResourcesTile-link" href="../Tools/es/Roles-y-responsabilidades-del-mecanismo-de-reclamaciones.docx">
+            <p class="ResourceTile-header-label">Herramienta</p>
+            <p class="ResourceTile-header-title">Roles y responsabilidades del mecanismo de reclamaciones para el personal y los contratistas de la empresa</p><svg class="ResourceTile-arrow" height="20.031" preserveaspectratio="xMidYMid" viewbox="0 0 20 20.031" width="20" xmlns="http://www.w3.org/2000/svg" fill="#fff">
+            <path d="M20.000,18.484 C20.000,19.313 19.328,19.984 18.500,19.984 C17.672,19.984 17.000,19.313 17.000,18.484 L17.000,5.117 L2.550,19.556 C1.964,20.141 1.015,20.141 0.429,19.556 C-0.157,18.970 -0.157,18.021 0.429,17.436 L14.879,2.998 L1.499,2.998 C0.671,2.998 0.000,2.327 0.000,1.499 C0.000,0.671 0.671,-0.000 1.499,-0.000 L18.501,-0.000 C19.329,-0.000 20.000,0.671 20.000,1.499 C20.000,1.499 20.000,1.499 20.000,1.499 C20.000,1.500 20.000,1.500 20.000,1.500 L20.000,18.484 Z"></path></svg></a>
+          </div>
+          <div class="ResourceTile-content">
+            <p class="ResourceTile-content-text">Identificar quién es responsable de los diferentes elementos para la implementación y operación del mecanismo de reclamaciones</p>
+            <p class="ResourceTile-content-useful">Útil para: <strong>gerentes de la empresa</strong>, <strong>personal de operaciones</strong>, <strong>ejecutores del mecanismo de reclamaciones</strong></p>
+          </div>
+        </div>
+        <div class="ResourceTile">
+          <div class="ResourceTile-header-casestudy">
+            <a class="ResourcesTile-link" href="../Tools/es/Petróleo-y-gas.docx">
+            <p class="ResourceTile-header-label">Estudio de caso</p>
+            <p class="ResourceTile-header-title">Un proyecto de exploración de petróleo y gas en una zona rural agrícola densamente poblada</p><svg aria-hidden="true" class="ResourceTile-arrow" height="20.031" preserveaspectratio="xMidYMid" viewbox="0 0 20 20.031" width="20" xmlns="http://www.w3.org/2000/svg" fill="#fff">
+            <path d="M20.000,18.484 C20.000,19.313 19.328,19.984 18.500,19.984 C17.672,19.984 17.000,19.313 17.000,18.484 L17.000,5.117 L2.550,19.556 C1.964,20.141 1.015,20.141 0.429,19.556 C-0.157,18.970 -0.157,18.021 0.429,17.436 L14.879,2.998 L1.499,2.998 C0.671,2.998 0.000,2.327 0.000,1.499 C0.000,0.671 0.671,-0.000 1.499,-0.000 L18.501,-0.000 C19.329,-0.000 20.000,0.671 20.000,1.499 C20.000,1.499 20.000,1.499 20.000,1.499 C20.000,1.500 20.000,1.500 20.000,1.500 L20.000,18.484 Z"></path></svg></a>
+          </div>
+          <div class="ResourceTile-content">
+            <p class="ResourceTile-content-text">Este estudio de caso es especialmente útil para proyectos y operaciones: en etapa de exploración o desarrollo de un proyecto; en una zona donde los ingresos de la comunidad local dependen de la tierra (por ejemplo, la agricultura), en una situación que requiere el uso intenso de subcontratistas.</p>
+          </div>
+        </div>
+        <div class="ResourceTile">
+          <div class="ResourceTile-header-tool">
+            <a class="ResourcesTile-link" href="../Tools/es/Terminos-de-referencia.docx">
+            <p class="ResourceTile-header-label">Herramienta</p>
+            <p class="ResourceTile-header-title">Términos de referencia para un Oficial de Reclamaciones y Oficial de Enlace en la Comunidad</p><svg aria-hidden="true" class="ResourceTile-arrow" height="20.031" preserveaspectratio="xMidYMid" viewbox="0 0 20 20.031" width="20" xmlns="http://www.w3.org/2000/svg" fill="#fff">
+            <path d="M20.000,18.484 C20.000,19.313 19.328,19.984 18.500,19.984 C17.672,19.984 17.000,19.313 17.000,18.484 L17.000,5.117 L2.550,19.556 C1.964,20.141 1.015,20.141 0.429,19.556 C-0.157,18.970 -0.157,18.021 0.429,17.436 L14.879,2.998 L1.499,2.998 C0.671,2.998 0.000,2.327 0.000,1.499 C0.000,0.671 0.671,-0.000 1.499,-0.000 L18.501,-0.000 C19.329,-0.000 20.000,0.671 20.000,1.499 C20.000,1.499 20.000,1.499 20.000,1.499 C20.000,1.500 20.000,1.500 20.000,1.500 L20.000,18.484 Z"></path></svg></a>
+          </div>
+          <div class="ResourceTile-content">
+            <p class="ResourceTile-content-text">Identificar las mejores cualidades y calificaciones para personal dedicado al mecanismo de reclamaciones o identificar personal en otras funciones de la empresa que podría ser la persona de contacto más eficaz para el mecanismo de reclamaciones</p>
+            <p class="ResourceTile-content-useful">Útil para: <strong>gerentes de la empresa</strong>, <strong>profesionales en mecanismos de reclamaciones</strong></p>
+          </div>
+        </div>
+      </div>
+      <div class="Text-wrap">
+        <div class="Article-subtitle-wrap--short" id="section-5">
+          <p class="Article-subtitle-number">5</p>
+          <h3 class="Article-subtitle"><span class="Article-title">Propósito, diseño e implementación</span><br>
+          Hacer que un mecanismo de reclamaciones funcione</h3>
+        </div>
+        <div class="Article-navigation">
+          <h6 class="Article-navigation-title">Saltar a la sección</h6>
+          <ol class="Article-navigation-list">
+            <li class="Article-navigation-item">
+              <a class="Article-navigation-item-link" href="#overview-5">Resumen</a>
+            </li>
+            <li class="Article-navigation-item">
+              <a class="Article-navigation-item-link" href="#appeals">Comité de Apelaciones</a>
+            </li>
+            <li class="Article-navigation-item">
+              <a class="Article-navigation-item-link" href="#incentives">Incentivos</a>
+            </li>
+          </ol>
+          <div class="Article-navigation-tear"></div>
+        </div>
+        <p class="Article-text anchor" id="overview-5">Luego de  las etapas iniciales de desarrollo del concepto de un mecanismo de reclamaciones, la generación de confianza y la identificación de los puntos clave de la empresa y la comunidad, es momento de centrarse en la estructura. El alcance y los objetivos del mecanismo de reclamaciones estarán determinados por el alcance y el tamaño del proyecto. Si bien algunos mecanismos de reclamaciones deberán ser grandes y complejos porque están asociados con proyectos grandes y complejos, otros no lo serán.</p><img alt="Pasos en el proceso del mecanismo de reclamaciones" class="Article-figure" src="/assets/es/Figure-section5a.svg">
+        <p class="Article-text-popup">Hay seis pasos básicos en un mecanismo de reclamaciones (véase figura 4). Estos seis pasos son lo mínimo indispensable para un mecanismo funcional. En algunos casos, las reclamaciones serán manejadas íntegramente por el Oficial de Reclamaciones (en el lado izquierdo del diagrama de flujo en la figura 3) y no deberá asignarse otro titular de la reclamación o remitirlas a un Comité de Apelaciones. Incluso en sitios complejos, solo una parte de las reclamaciones normalmente requiere ser elevada a una apelación, negociación o mediación. Los pasos del flujo de trabajo básico de un mecanismo de reclamaciones incluyen:</p>
+        <ol class="Article-list">
+          <li class="Article-list-item"><span class="Article-list-item-number">1</span><strong>Recibir:</strong> El Oficial de Reclamaciones de la empresa recibe una pregunta o reclamación de un miembro o miembros de la comunidad.</li>
+          <li class="Article-list-item"><span class="Article-list-item-number">2</span><strong>Dar acuse de recibo:</strong> El Oficial de Reclamaciones da acuse de recibo a la reclamación en un período de tiempo determinado (por lo general 3 a 5 días hábiles).</li>
+          <li class="Article-list-item">
+            <p><span class="Article-list-item-number">3</span><strong>Evaluar e investigar:</strong> El Oficial de Reclamaciones realiza una evaluación oportuna sobre la reclamación para determinar si el problema puede resolverse sin la participación de otro personal de la empresa.</p>
+            <ul class="Article-sublist">
+              <li class="Article-sublist-item"><span class="Article-sublist-item-text">Si es así, el Oficial de Reclamaciones es el titular de la reclamación.</span></li>
+              <li class="Article-sublist-item"><span class="Article-sublist-item-text">Si no es así, el Oficial de Reclamaciones asigna otro titular de la reclamación (por lo general una persona en la zona de operaciones relacionada con la reclamación).</span></li>
+            </ul>
+            <p>Consultando con el reclamante y cualquier experto técnico necesario, el titular de la reclamación investiga la reclamación para determinar qué ocurrió, quién fue responsable y qué se puede hacer. Esta investigación constituye la base de la propuesta de resolución de la reclamación.</p>
+          </li>
+          <li class="Article-list-item">
+            <span class="Article-list-item-number">4</span><strong>Resolución colaborativa:</strong> Consultando con el reclamante y con cualquier otro miembro relevante del personal de la empresa, el titular de la reclamación propone una solución y la presenta al reclamante.
+            <ul class="Article-sublist">
+              <li class="Article-sublist-item"><span class="Article-sublist-item-text">Si la solución no es aceptada, el Oficial de Reclamaciones o el reclamante puede presentar un recurso ante el Comité de Apelaciones o el reclamante puede recurrir a través de otro mecanismo (por ejemplo, un proceso legal).</span></li>
+            </ul>
+          </li>
+          <li class="Article-list-item"><span class="Article-list-item-number">5</span><strong>Implementar la resolución:</strong> Si la solución es aceptada, se implementa.</li>
+          <li class="Article-list-item"><span class="Article-list-item-number">6</span><strong>Monitorear y cerrar:</strong> Una vez que se resuelve la reclamación, o si el reclamante no acepta la resolución y decide participar en otro proceso, la reclamación es monitoreada durante un período razonable para asegurar que el reclamante no tenga otras preocupaciones, y posteriormente se cierra. El proceso y los resultados de la reclamación son evaluados por la gerencia como parte continua del compromiso entre la empresa y la comunidad, la evaluación de riesgos y el análisis estratégico.</li>
+        </ol>
+        <h2 class="Article-subheading anchor" id="appeals">Comité de Apelaciones</h2>
+        <p class="Article-text">Los mecanismos de reclamaciones a menudo incorporan procedimientos de apelación para permitir que los reclamantes busquen otro recurso si no están satisfechos con la resolución ofrecida por la empresa. El proceso de apelación ofrece una oportunidad para resolver reclamaciones complejas.</p>
+        <p class="Article-text">La primera línea de recurso suele ser interna de la empresa. En dichos casos, para evitar un conflicto de interés, la parte que escucha e investiga una apelación no debe ser la parte que inicialmente investigó la reclamación y trabajó con el reclamante para definir una resolución y enfoque. En muchos casos, la apelación del reclamante será manejada por la alta gerencia asignada dentro de la empresa para abordar las reclamaciones no resueltas y que no estuvieron involucrados previamente en el asunto.</p>
+        <p class="Article-text">Si el proceso de apelación interna no satisface al reclamante, el mecanismo de reclamaciones puede incorporar también un abordaje de apelación externa como siguiente opción de resolución. La inclusión de esta opción podría alentar a los reclamantes a seguir buscando la resolución a través del mecanismo de reclamaciones, incluso en el caso de cuestiones complejas. Esto puede ayudar a evitar la preocupación de que la compañía que crea el problema actúe como juez y jurado, con vías adicionales limitadas para buscar remediación. Los enfoques vinculados con apelaciones externas varían ampliamente y pueden incluir la participación de terceros en una mediación o arbitraje no vinculante. Dependiendo de la cultura y las costumbres locales, una apelación externa podría involucrar a un jefe de tribu, defensor del pueblo, oficial de confianza, una figura religiosa u otros.</p>
+        <p class="Article-text">La empresa y el reclamante deben acordar los criterios de selección y el proceso para involucrar a un tercero. Su participación temprana ayudará a generar confianza para ambos lados de que el proceso de apelaciones será justo e imparcial.</p>
+        <p class="Article-text">Si no es posible el recurso ante terceros, o si no funciona, el reclamante todavía tiene acceso a los procedimientos judiciales disponibles sin temor a represalias.</p>
+        <p class="Pullquote-right">Como parte de la gerencia de una empresa, usted juega un papel crítico en ayudar a demostrar que la función del mecanismo de reclamaciones es una parte valorada del desempeño y del éxito de la empresa.</p>
+        <h2 class="Article-subheading anchor" id="incentives">Incentivos</h2>
+        <p class="Article-text">En este documento, enfatizamos la necesidad de que todo el personal de la compañía comprenda la importancia de los mecanismos de reclamaciones y participe en la resolución de reclamaciones. Esto no es simplemente el papel de la persona encargada de recibir y coordinar el proceso del mecanismo de reclamaciones, incluso si hay una persona dedicada a esa tarea. Después de todo, la mayoría de las reclamaciones se superponen con elementos técnicos de las operaciones de la empresa, lo que significa que el personal de la empresa deberá aportar posibles resoluciones a las reclamaciones recibidas. La gerencia juega un papel importante en asegurar que esta participación sea significativa, proporcionando los incentivos adecuados a todo el personal. Por ejemplo, cuando un personal de operaciones ha excedido el plazo acordado para la resolución de una reclamación, esto podría plantearse como parte de las reuniones regulares del departamento. Para el personal que frecuentemente excede los plazos acordados, esto podría constituir una referencia en su informe de desempeño con implicaciones sobre las recompensas. Por otro lado, el personal que participa constantemente en la resolución oportuna de las reclamaciones y recibe una buena retroalimentación de los reclamantes puede recibir un bono o un premio de la empresa por sus esfuerzos por ser parte de las relaciones positivas con los miembros de la comunidad. Cada empresa tiene métodos para premiar el buen comportamiento y castigar el mal comportamiento, y esto ayuda a establecer la cultura de lo que es importante en una organización. Aunque podemos delinear buenas prácticas en este documento, si no van acompañadas de incentivos tangibles para el personal, quizás nunca tengan éxito. Como parte de la gerencia, usted juega un papel clave en ayudar a demostrar que la función del mecanismo de reclamaciones es una parte valorada del desempeño y éxito de la empresa.</p>
+      </div><!-- end Text wrap -->
+      <div class="ResourceTile-wrap">
+        <h3 class="ResourceTile-wrap-heading">Herramientas y recursos relacionados</h3>
+        <div class="ResourceTile">
+          <div class="ResourceTile-header-tool">
+            <a class="ResourcesTile-link" href="../Tools/es/Evaluación-del-mecanismo-de-reclamaciones.docx">
+            <p class="ResourceTile-header-label">Herramienta</p>
+            <p class="ResourceTile-header-title">Evaluación del mecanismo de reclamaciones</p><svg aria-hidden="true" class="ResourceTile-arrow" height="20.031" preserveaspectratio="xMidYMid" viewbox="0 0 20 20.031" width="20" xmlns="http://www.w3.org/2000/svg" fill="#fff">
+            <path d="M20.000,18.484 C20.000,19.313 19.328,19.984 18.500,19.984 C17.672,19.984 17.000,19.313 17.000,18.484 L17.000,5.117 L2.550,19.556 C1.964,20.141 1.015,20.141 0.429,19.556 C-0.157,18.970 -0.157,18.021 0.429,17.436 L14.879,2.998 L1.499,2.998 C0.671,2.998 0.000,2.327 0.000,1.499 C0.000,0.671 0.671,-0.000 1.499,-0.000 L18.501,-0.000 C19.329,-0.000 20.000,0.671 20.000,1.499 C20.000,1.499 20.000,1.499 20.000,1.499 C20.000,1.500 20.000,1.500 20.000,1.500 L20.000,18.484 Z"></path></svg></a>
+          </div>
+          <div class="ResourceTile-content">
+            <p class="ResourceTile-content-text">Evaluar rápidamente las áreas potenciales de desafío de los mecanismos de reclamaciones</p>
+            <p class="ResourceTile-content-useful">Útil para: <strong>expertos en mecanismos de reclamaciones</strong></p>
+          </div>
+        </div>
+        <div class="ResourceTile">
+          <div class="ResourceTile-header-casestudy">
+            <a class="ResourcesTile-link" href="../Tools/es/Un-proyecto-de-exploración-minera.docx">
+            <p class="ResourceTile-header-label">Estudio de caso</p>
+            <p class="ResourceTile-header-title">Un proyecto de exploración minera en una zona rural moderadamente poblada con un historial complejo propiedad de un nuevo propietario</p><svg aria-hidden="true" class="ResourceTile-arrow" height="20.031" preserveaspectratio="xMidYMid" viewbox="0 0 20 20.031" width="20" xmlns="http://www.w3.org/2000/svg" fill="#fff">
+            <path d="M20.000,18.484 C20.000,19.313 19.328,19.984 18.500,19.984 C17.672,19.984 17.000,19.313 17.000,18.484 L17.000,5.117 L2.550,19.556 C1.964,20.141 1.015,20.141 0.429,19.556 C-0.157,18.970 -0.157,18.021 0.429,17.436 L14.879,2.998 L1.499,2.998 C0.671,2.998 0.000,2.327 0.000,1.499 C0.000,0.671 0.671,-0.000 1.499,-0.000 L18.501,-0.000 C19.329,-0.000 20.000,0.671 20.000,1.499 C20.000,1.499 20.000,1.499 20.000,1.499 C20.000,1.500 20.000,1.500 20.000,1.500 L20.000,18.484 Z"></path></svg></a>
+          </div>
+          <div class="ResourceTile-content">
+            <p class="ResourceTile-content-text">Este estudio de caso es especialmente útil para proyectos y operaciones con problemas heredados de un operador anterior, cuestiones de compensación, gran extensión territorial, o en fase de exploración o desarrollo de un proyecto.</p>
+          </div>
+        </div>
+        <div class="ResourceTile">
+          <div class="ResourceTile-header-tool">
+            <a class="ResourcesTile-link" href="../Tools/es/Manejo-de-barreras-comunes.docx">
+            <p class="ResourceTile-header-label">Herramienta</p>
+            <p class="ResourceTile-header-title">Manejo de barreras comunes para implementar un mecanismo de reclamaciones eficaz</p><svg aria-hidden="true" class="ResourceTile-arrow" height="20.031" preserveaspectratio="xMidYMid" viewbox="0 0 20 20.031" width="20" xmlns="http://www.w3.org/2000/svg" fill="#fff">
+            <path d="M20.000,18.484 C20.000,19.313 19.328,19.984 18.500,19.984 C17.672,19.984 17.000,19.313 17.000,18.484 L17.000,5.117 L2.550,19.556 C1.964,20.141 1.015,20.141 0.429,19.556 C-0.157,18.970 -0.157,18.021 0.429,17.436 L14.879,2.998 L1.499,2.998 C0.671,2.998 0.000,2.327 0.000,1.499 C0.000,0.671 0.671,-0.000 1.499,-0.000 L18.501,-0.000 C19.329,-0.000 20.000,0.671 20.000,1.499 C20.000,1.499 20.000,1.499 20.000,1.499 C20.000,1.500 20.000,1.500 20.000,1.500 L20.000,18.484 Z"></path></svg></a>
+          </div>
+          <div class="ResourceTile-content">
+            <p class="ResourceTile-content-text">Evaluar las barreras que pueden determinar que un mecanismo de reclamaciones sea ineficaz e identificar posibles soluciones</p>
+            <p class="ResourceTile-content-useful">Útil para: <strong>gerentes</strong>, <strong>personal de operaciones</strong>, <strong>ejecutores del mecanismo de reclamaciones</strong></p>
+          </div>
+        </div>
+      </div>
+      <div class="Text-wrap">
+        <div class="Article-subtitle-wrap" id="section-6">
+          <p class="Article-subtitle-number">6</p>
+          <h3 class="Article-subtitle"><span class="Article-title">Propósito, diseño e implementación</span><br>
+          Cerrar el círculo: Utilizando la retroalimentación del mecanismo de reclamaciones para mejorar las prácticas de las empresas</h3>
+        </div>
+        <div class="Article-navigation">
+          <h6 class="Article-navigation-title">Saltar a la sección</h6>
+          <ol class="Article-navigation-list">
+            <li class="Article-navigation-item">
+              <a class="Article-navigation-item-link" href="#overview-7">Resumen</a>
+            </li>
+            <li class="Article-navigation-item">
+              <a class="Article-navigation-item-link" href="#closing-thoughts">Conclusiones finales</a>
+            </li>
+          </ol>
+          <div class="Article-navigation-tear"></div>
+        </div>
+        <p class="Article-text anchor" id="overview-7">Una vez que concluye el trabajo de diseñar y establecer un mecanismo de reclamaciones, es importante que no se termine allí. Como parte de la gerencia, una manera de obtener el valor máximo de la inversión es asegurar que la información de las reclamaciones sea utilizada para corregir el curso de los problemas actuales o potenciales en las operaciones. Por ejemplo, si en el lapso de unos meses se han presentado varias reclamaciones vinculadas con la expansión de la compañía en tierras que la empresa considera que le pertenecen, pero que son reclamadas también por miembros de la comunidad, es probable que haya un conflicto. Se pueden utilizar los datos del mecanismo de reclamaciones para determinar si la preocupación se relaciona con un lugar en particular o un grupo de personas que necesiten ser atendidas por la empresa, o si se trata de un problema más amplio relacionado con los títulos de propiedad que involucra múltiples lugares y grupos de personas y que podría requerir un esfuerzo mayor, como la formación de un comité de compensación de tierras con múltiples partes.</p>
+        <p class="Article-text">Algunos parámetros que pueden ayudar a informar la política y la respuesta de la empresa, así como proporcionar pruebas para la efectividad del mecanismo de reclamaciones, incluyen:</p>
+        <ol class="Article-list">
+          <li class="Article-list-item"><span class="Article-list-item-number">1</span>Tiempo promedio en la respuesta a una reclamación (¿Es coherente con el objetivo de la respuesta?),</li>
+          <li class="Article-list-item"><span class="Article-list-item-number">2</span>Tiempo promedio para resolver una reclamación (¿Es coherente con la complejidad de la reclamación?),</li>
+          <li class="Article-list-item"><span class="Article-list-item-number">3</span>Satisfacción o insatisfacción general del reclamante con la resolución de la reclamación,</li>
+          <li class="Article-list-item"><span class="Article-list-item-number">4</span>Comparación del costo de los paros asociados con el proyecto antes y después de que se ha implementado el mecanismo de reclamaciones (Es una buena manera de demostrar la efectividad del mecanismo de reclamaciones.),</li>
+          <li class="Article-list-item"><span class="Article-list-item-number">5</span>Reclamaciones por ubicación (por ejemplo, campo, ciudad, pueblo, municipio),</li>
+          <li class="Article-list-item"><span class="Article-list-item-number">6</span>Reclamaciones por unidad (por ejemplo, construcción, contratistas, trabajadores agrícolas, tubería), y</li>
+          <li class="Article-list-item"><span class="Article-list-item-number">7</span>Reclamaciones por tema (por ejemplo, tierras, agua, ruido, compensación, contaminación).</li>
+        </ol>
+        <p class="Article-text">Preguntas adicionales:</p>
+        <ol class="Article-list">
+          <li class="Article-list-item"><span class="Article-list-item-number">1</span>¿Hay alguna tendencia según la ubicación, unidad o temas?</li>
+          <li class="Article-list-item"><span class="Article-list-item-number">2</span> Si hay tendencias, ¿el problema en cuestión está muy enfocado (por ejemplo, un conductor de camión que maneja muy rápido), o se requiere una solución más sistémica (por ejemplo, un mal olor proveniente de las operaciones agrícolas cuando se aplicó fertilizante)?</li>
+          <li class="Article-list-item"><span class="Article-list-item-number">3</span>Si las reclamaciones se agrupan en torno a temas particulares, ¿se debe involucrar a más de un departamento ajeno a las relaciones con la comunidad en el manejo de reclamaciones? Por ejemplo, si hay numerosas reclamaciones vinculadas con el empleo de más trabajadores locales y otorgar más contratos a empresas de servicios locales, sería difícil avanzar a menos que participe el personal de contrataciones y adquisiciones.</li>
+          <li class="Article-list-item"><span class="Article-list-item-number">4</span>¿Con qué frecuencia se debe reunir la gerencia para discutir las reclamaciones? ¿Se debe compilar y considerar un informe durante la próxima ronda de algún proceso de cambio en la gerencia? ¿Se deben contratar consultores externos para que ayuden a desarrollar los resultados en una reorganización del sistema administrativo?</li>
+          <li class="Article-list-item"><span class="Article-list-item-number">5</span>¿Hay cambios a nivel del lugar que la gerencia deba instituir para abordar un alto volumen de reclamaciones? Por ejemplo, si las reclamaciones se relacionan con el ruido nocturno de las operaciones, ¿sería posible y eficaz implementar métodos para reducir el ruido o cambiar el patrón de trabajo para que las actividades ruidosas ocurran solamente durante el día?</li>
+          <li class="Article-list-item"><span class="Article-list-item-number">6</span>¿Hay lecciones que puedan aprender las empresas con operaciones múltiples a partir de las reclamaciones recibidas en un lugar en particular que se puedan aplicar en otros lugares? Por ejemplo, si los ciudadanos expresan inquietud acerca de la equidad de las contrataciones en una operación determinada, ¿se podría utilizar esta información para desarrollar prácticas más participativas y transparentes de contratación en operaciones que estén comenzando?</li>
+        </ol>
+        <p class="Article-text">Las respuestas a estas preguntas se pueden utilizar para desarrollar cambios en las operaciones o en la estructura administrativa que pueden disminuir la frecuencia de las reclamaciones.</p>
+        <p class="Article-text">Una vez que se ha establecido un método para que la gerencia reciba y responda a los datos del mecanismo de reclamaciones, es importante mantener informada a la comunidad y a otras partes interesadas del proceso. Esta transparencia ayuda a mantener la confianza. También ayuda a asegurar que cuando surgen problemas sistémicos, la administración responde, recoge cualquier dato e investigación e incorpora las opiniones de los miembros de la comunidad en una resolución efectiva y justa de los problemas.</p>
+        <h2 class="Article-subheading anchor" id="closing-thoughts">Conclusiones finales</h2>
+        <p class="Article-text">Los mecanismos de reclamaciones son fundamentales y, en muchos casos, son un componente obligatorio de las prácticas empresariales responsables. Ofrecen valor a las empresas y comunidades en cualquier industria. Aunque puede ser difícil establecer un mecanismo de reclamaciones, el proceso y el mecanismo de reclamaciones en sí no tienen por qué ser complicados. Ajustar un mecanismo de reclamaciones al contexto local de manera que sea manejable y confiable para todas las partes es una de las maneras más importantes para lograr el éxito.</p>
+        <p class="Article-text">Las herramientas de esta caja de herramientas pretenden actuar como una guía para establecer e implementar mecanismos de reclamaciones a través de los ejemplos de otros y mostrando algunas maneras prácticas de implementar principios más amplios. Se deben utilizar como punto de partida, comprendiendo que deberán modificarse según cada contexto. Sobre todo, lo importante es comenzar.</p>
+      </div><!-- end Text wrap -->
+      <div class="ResourceTile-wrap-last">
+        <h3 class="ResourceTile-wrap-heading">Herramientas y recursos relacionados</h3>
+        <div class="ResourceTile-two">
+          <div class="ResourceTile-header-tool">
+            <a class="ResourcesTile-link" href="../Tools/es/Diagnostico-de-problemas-para-mecanismo-de-quejas.docx">
+            <p class="ResourceTile-header-label">Herramienta</p>
+            <p class="ResourceTile-header-title">Resolución de problemas para mecanismos de reclamaciones</p><svg aria-hidden="true" class="ResourceTile-arrow" height="20.031" preserveaspectratio="xMidYMid" viewbox="0 0 20 20.031" width="20" xmlns="http://www.w3.org/2000/svg" fill="#fff">
+            <path d="M20.000,18.484 C20.000,19.313 19.328,19.984 18.500,19.984 C17.672,19.984 17.000,19.313 17.000,18.484 L17.000,5.117 L2.550,19.556 C1.964,20.141 1.015,20.141 0.429,19.556 C-0.157,18.970 -0.157,18.021 0.429,17.436 L14.879,2.998 L1.499,2.998 C0.671,2.998 0.000,2.327 0.000,1.499 C0.000,0.671 0.671,-0.000 1.499,-0.000 L18.501,-0.000 C19.329,-0.000 20.000,0.671 20.000,1.499 C20.000,1.499 20.000,1.499 20.000,1.499 C20.000,1.500 20.000,1.500 20.000,1.500 L20.000,18.484 Z"></path></svg></a>
+          </div>
+          <div class="ResourceTile-content">
+            <p class="ResourceTile-content-text">Encontrar recursos y definiciones para los diferentes elementos de un mecanismo de reclamaciones y respuestas a preguntas frecuentes</p>
+            <p class="ResourceTile-content-useful">Útil para: <strong>gerentes de la compañía</strong>, <strong>personal de operaciones</strong>, <strong>ejecutores de mecanismos de reclamaciones</strong></p>
+          </div>
+        </div>
+        <div class="ResourceTile-two">
+          <div class="ResourceTile-header-casestudy">
+            <a class="ResourcesTile-link" href="../Tools/es/Un-puerto-nuevo.docx">
+            <p class="ResourceTile-header-label">Estudio de caso</p>
+            <p class="ResourceTile-header-title">Una instalación portuaria en una zona rural remota con una gran población indígena</p><svg aria-hidden="true" class="ResourceTile-arrow" height="20.031" preserveaspectratio="xMidYMid" viewbox="0 0 20 20.031" width="20" xmlns="http://www.w3.org/2000/svg" fill="#fff">
+            <path d="M20.000,18.484 C20.000,19.313 19.328,19.984 18.500,19.984 C17.672,19.984 17.000,19.313 17.000,18.484 L17.000,5.117 L2.550,19.556 C1.964,20.141 1.015,20.141 0.429,19.556 C-0.157,18.970 -0.157,18.021 0.429,17.436 L14.879,2.998 L1.499,2.998 C0.671,2.998 0.000,2.327 0.000,1.499 C0.000,0.671 0.671,-0.000 1.499,-0.000 L18.501,-0.000 C19.329,-0.000 20.000,0.671 20.000,1.499 C20.000,1.499 20.000,1.499 20.000,1.499 C20.000,1.500 20.000,1.500 20.000,1.500 L20.000,18.484 Z"></path></svg></a>
+          </div>
+          <div class="ResourceTile-content">
+            <p class="ResourceTile-content-text">Este caso es particularmente útil para proyectos y operaciones: en una zona en donde las perspectivas de la comunidad sobre las operaciones están divididas, en una comunidad con una gran población indígena, en una zona remota.</p>
+          </div>
+        </div>
+      </div>
+    </div><!-- end Main -->
+  </div><!-- end Main-wrap -->
+  <div class="Footer">
+  <div class="Footer-top">
+    <div class="Footer-content">
+      <img class="Footer-logo" src="/assets/logo-2x.png" alt="CAO Logo">
+      <p class="Footer-text">La CAO ayuda a abordar las inquietudes de las comunidades que consideran que han sido afectadas por proyectos de IFC/MIGA, con el fin de mejorar los resultados sociales y ambientales en el lugar.</p>
+      <a class="Footer-cta" href="/es/about-cao">Más acerca de nosotros</a>
+    </div>
+  <div class="Footer-logos">
+    <img class="Footer-logos-logo" src="/assets/es/logo-wb-2x.png" alt="World Bank Logo">
+    <img class="Footer-logos-logo" src="/assets/es/logo-if-2x.png" alt="International Finance Corporation Logo">
+    <img class="Footer-logos-logo" src="/assets/logo-mi-2x.png" alt="Multilateral Investment Guarantee Agency">
+  </div>
+</div>
+  <div class="Footer-bottom">
+    <p class="Footer-legaltext">La información contenida en esta caja de herramientas sirve únicamente como referencia y tiene como objetivo servir como guía para los usuarios que quieran desarrollar un mecanismo de reclamaciones. La CAO, consultando con expertos en el campo, elaboró esta caja de herramientas para que sirva como punto de partida para que los usuarios desarrollen un mecanismo de reclamaciones que aborde las condiciones y capacidades locales. Tal como ocurre con cualquier otra guía, su implementación exitosa depende de muchos factores que van más allá de lo que se puede leer en un documento, y la CAO no asume responsabilidad por el éxito de la implementación de esta guía en un contexto particular, ni responde por ningún mecanismo de reclamaciones que se haya establecido mediante el uso de esta guía.</p>
+    <p class="Footer-legaltext">Los resultados, interpretaciones y conclusiones expresados en el presente trabajo son los de sus autores, y no necesariamente reflejan los puntos de vista de los Directores Ejecutivos del Grupo del Banco Mundial o de los gobiernos que ellos representan. La CAO no garantiza la precisión de los datos contenidos en el presente trabajo. Las fronteras, colores, denominaciones y otra información que aparezca en cualquier mapa de la presente obra, no implica opinión alguna de la CAO con respecto al estado legal de territorio alguno ni constituye un aval o aceptación de dichas fronteras.</p>
+    <p class="Footer-legaltext">© Oficina del Asesor Cumplimiento Ombudsman</p>
+    <p class="Footer-legaltext">Todos los derechos están reservados.</p>
+  </div>
+</div>
+
+  <script src="/assets/main.js" type="text/javascript">
+  </script>
+</body>
+</html>

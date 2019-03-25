@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+<title>Definitions &amp; References • Grievance Mechanism ToolKit</title>
+
+<link rel="stylesheet" href="../assets/main.css" type="text/css" media="screen">
+<link rel="stylesheet" href="../assets/print.css" type="text/css" media="print">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+<link rel="canonical" href="http://cao-grm.org">
+<meta name="description" content="A practical toolkit for implementing grievance mechanisms in different sectors.">
+
+<meta property="og:url" content="http://cao-grm.org">
+<meta property="og:title" content="CAO Grievance Mechanism Toolkit">
+<meta property="og:description" content="A practical toolkit for implementing grievance mechanisms in different sectors.">
+<meta property="og:image" content="http://cao-grm.org/og-img.png">
+<meta property="og:type" content="website">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="apple-mobile-web-app-title" content="CAO Grievance Mechanism Toolkit">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="icon" sizes="196x196" href="/apple-touch-icon.png">
+
+  </head>
+  <body>
+
+<div class="Main-wrap">
+    <img class="Hero-print" src="/assets/logo-dark-2x.png" alt="CAO Logo">
+<div class="Header no-print">
+  <a href="/"><img class="Header-logo" src="/assets/logo-nav-2x.png" alt="CAO Grievance Mechanism Toolkit"></a>
+  <div class="Header-control-wrap">
+    <div class="Header-menu">
+      <a class="Header-link" id="menu-toggle">
+        <h3 class="Header-link-text">Menu</h3>
+        <svg class="Header-icon-menu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="41" height="32" viewBox="0 0 41 32">
+          <defs>
+            <style>
+              .cls-1 {
+                fill: #fff;
+                fill-rule: evenodd;
+              }
+            </style>
+          </defs>
+          <path d="M39.500,18.000 L1.500,18.000 C0.672,18.000 -0.000,17.328 -0.000,16.500 C-0.000,15.672 0.672,15.000 1.500,15.000 L39.500,15.000 C40.328,15.000 41.000,15.672 41.000,16.500 C41.000,17.328 40.328,18.000 39.500,18.000 ZM39.500,3.000 L1.500,3.000 C0.672,3.000 -0.000,2.328 -0.000,1.500 C-0.000,0.672 0.672,0.000 1.500,0.000 L39.500,0.000 C40.328,0.000 41.000,0.672 41.000,1.500 C41.000,2.328 40.328,3.000 39.500,3.000 ZM1.500,29.000 L39.500,29.000 C40.328,29.000 41.000,29.672 41.000,30.500 C41.000,31.328 40.328,32.000 39.500,32.000 L1.500,32.000 C0.672,32.000 -0.000,31.328 -0.000,30.500 C-0.000,29.672 0.672,29.000 1.500,29.000 Z" class="cls-1"/>
+        </svg>
+
+        <svg class="Header-icon-close" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="40" height="40" viewBox="0 0 40 40">
+          <defs>
+            <style>
+              .cls-1 {
+                fill: #fff;
+                fill-rule: evenodd;
+              }
+            </style>
+          </defs>
+          <path d="M39.996,38.435 L38.418,40.014 L20.000,21.589 L1.582,40.014 L0.003,38.435 L18.421,20.009 L0.003,1.584 L1.582,0.004 L20.000,18.430 L38.418,0.004 L39.996,1.584 L21.578,20.009 L39.996,38.435 Z" class="cls-1"/>
+        </svg>
+      </a>
+    </div>
+    <div class="Header-top">
+      <a class="Header-link" href="#top">
+        <h3 class="Header-link-text">Back to Top</h3>
+        <svg class="Header-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="42" height="42" viewBox="0 0 42 42">
+          <defs>
+            <style>
+              .cls-1 {
+                fill: #fff;
+                fill-rule: evenodd;
+              }
+            </style>
+          </defs>
+          <path d="M41.601,21.626 C41.084,22.130 40.246,22.130 39.729,21.626 L22.087,4.198 L22.087,40.977 C22.087,41.538 21.633,41.993 21.073,41.993 L20.477,41.993 C19.916,41.993 19.462,41.538 19.462,40.977 L19.462,4.627 L2.254,21.626 C1.737,22.130 0.899,22.130 0.382,21.626 C-0.135,21.122 -0.135,20.304 0.382,19.800 L20.055,0.365 C20.572,-0.139 21.411,-0.139 21.928,0.365 L41.601,19.800 C42.118,20.304 42.118,21.122 41.601,21.626 ZM20.946,3.161 L21.037,3.161 L20.992,3.116 L20.946,3.161 Z" class="cls-1"/>
+        </svg>
+      </a>
+    </div>
+    <div class="Header-print">
+      <a class="Header-link" href="javascript:window.print()">
+        <h3 class="Header-link-text">Print Page</h3>
+        <img class="Header-icon" src="/assets/print.png" alt="print icon">
+      </a>
+    </div>
+  </div>
+</div>
+
+    <div class="Nav" id="Nav" role="navigation" data-sticky>
+  <div class="Nav-wrap">
+  <ol class="Nav-primary" role="navigation" aria-label="Primary Navigation">
+    <li class="Nav-primary-item"><a class="Nav-primary-link" href="/">Home</a></li><!-- end Nav-item -->
+    <li class="Nav-primary-item" id="business-case"><a class="Nav-primary-link" href="/business-case-for-grievance-mechanisms">Business Case for Grievance Mechanisms</a></li><!-- end Nav-item -->
+    <li class="Nav-primary-item" id="purpose">
+      <a class="Nav-primary-link dropdown-toggle dropdown-arrow">
+        Purpose, design &amp; implementation
+        <svg class="Nav-primary-toggle" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="12" height="7" viewBox="0 0 12 7"><path d="M-0.004,-0.000 L12.004,-0.000 L6.000,7.005 L-0.004,-0.000 Z"/></svg>
+      </a>
+        <div class="Expandable-content">
+          <ol class="Nav-sublist">
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/purpose-design-and-implementation#top">The Purpose and Goals of this Toolkit</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/purpose-design-and-implementation#section-2">Why are Grievance Mechanisms a Good Company Investment?</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/purpose-design-and-implementation#section-3">Issues to Consider when Establishing a Grievance Mechanism</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/purpose-design-and-implementation#section-4">Building a Good Grievance Mechanism</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/purpose-design-and-implementation#section-5">Making a Grievance Mechanism Work</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/purpose-design-and-implementation#section-6">Closing the Loop: Using Grievance Mechanism Feedback to Improve Business Practices</a></li>
+          </ol>
+        </div>
+    </li><!-- end Nav-item -->
+
+    <li class="Nav-primary-item" id="tools-and-resources"><a class="Nav-primary-link" href="/tools-and-resources">Tools and Resources</a></li><!-- end Nav-item -->
+  </ol><!-- end Nav-primary -->
+
+  <ol class="Nav-secondary" role="navigation" aria-label="Secondary Navigation">
+    <li class="Nav-secondary-item">
+      <a class="Nav-secondary-item-link" href="/about-toolkit" id="about-toolkit">About this Document
+      </a>
+    </li>
+    <li class="Nav-secondary-item">
+      <a class="Nav-secondary-item-link" href="/definitions-and-references" id="definitions-and-references">Definitions &amp; References
+      </a>
+    </li>
+    <li class="Nav-secondary-item">
+      <a class="Nav-secondary-item-link" href="/about-cao" id="about-cao">About CAO
+      </a>
+    </li>
+  </ol><!-- end Nav-secondary -->
+
+  <!-- Language menu -->
+  <div class="Nav-language">
+    <p>Select your language:</p>
+    <ul class="Nav-language-list">
+      <li class="Nav-language-item"><a href="/">English</a></li>
+      <li class="Nav-language-item"><a href="/es/">Español</a></li>
+      <li class="Nav-language-item"><a href="/fr">Français</a></li>
+    </ul>
+  </div>
+
+  <div class="Feedback-wrap">
+    <p class="Feedback-text">Interested in providing feedback about this toolkit and getting more information about other products like it?</p>
+    <a class="Feedback-button"  href="https://www.surveymonkey.com/r/CAO-grm-feedback">Take our survey</a>
+  </div>
+</div>
+
+</div>
+
+
+    <div class="Main" id="top">
+      <div class="Text-wrap">
+        <h1 class="Article-title-main">Definitions &amp; References</h1>
+          <div class="Article-navigation">
+            <h6 class="Article-navigation-title">Jump to Section</h6>
+            <ol class="Article-navigation-list">
+              <li class="Article-navigation-item"><a class="Article-navigation-item-link" href="#definitions">Definitions</a></li>
+              <li class="Article-navigation-item"><a class="Article-navigation-item-link" href="#references">References</a></li>
+            </ol>
+            <div class="Article-navigation-tear"></div>
+          </div>
+        <h2 class="Article-subheading anchor" id="definitions">Definitions</h2>
+          <h3 class="Definition-term">Complainant</h3>
+            <p class="Definition-term-text">An individual, group, or organization that submits a verbal or written complaint. </p>
+          <h3 class="Definition-term">Complaint owner</h3>
+            <p class="Definition-term-text">An employee or contractor of the company assigned the specific responsibility for investigating a complaint or implementing a resolution. This person may be tasked with managing a grievance mechanism (Grievance Officer in this document) or could be an individual with specific technical expertise assigned to manage resolution of a complaint.</p>
+          <h3 class="Definition-term">Grievance/complaint </h3>
+            <p class="Definition-term-text">An expression of dissatisfaction that stems from real or perceived issues, typically referring to a specific source of concern and/or seeking a specific solution. For the purposes of a grievance mechanism, real and perceived impacts are treated equally and given the same due process. The terms grievance and complaint are used interchangeably in this document.</p>
+          <h3 class="Definition-term">Project</h3>
+            <p class="Definition-term-text">Project is used generically in this document to mean new projects under consideration or construction, mature operations, and operations that are expanding or closing.</p>
+          <h3 class="Definition-term">Operational-level grievance mechanism</h3>
+            <p class="Definition-term-text">A process for receiving, investigating, and responding to questions or complaints from community stakeholders pertaining to a particular project. It is usually developed, implemented, and managed by the company operating the project. Also known as a "project-level grievance mechanism.”</p>
+
+        <h2 class="Article-subheading anchor" id="references">References</h2>
+        <div class="Article-text">
+          <ol>
+            <li>United Nations, Human Rights, Office of the High Commissioner, 2011. UN Guiding Principles on Business and Human Rights. New York and Geneva. <a class="Article-link" href="http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf">http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf</a></li>
+            <li>International Finance Corporation, 2012.  Sustainability Framework. Washington, DC. <a class="Article-link" href="http://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/IFC+Sustainability/Our+Approach/Risk+Management/IFCSustainabilityFramework_2012">http://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/IFC+Sustainability/Our+Approach/Risk+Management/IFCSustainabilityFramework_2012</a></li>
+            <li>International Finance Corporation, 2012. Performance Standards on Environmental and Social Sustainability, Washington, DC. <a class="Article-link" href="http://www.ifc.org/wps/wcm/connect/c8f524004a73daeca09afdf998895a12/IFC_Performance_Standards.pdf?MOD=AJPERES">http://www.ifc.org/wps/wcm/connect/c8f524004a73daeca09afdf998895a12/IFC_Performance_Sta ndards.pdf?MOD=AJPERES</a></li>
+            <li>Office of the Compliance Advisor/Ombudsman (CAO), 2008. A Guide to Designing and Implementing Grievance Mechanisms for Development Projects, Washington, DC. <a class="Article-link" href="http://www.cao-ombudsman.org/howwework/advisor/documents/implemgrieveng.pdf">http://www.cao-ombudsman.org/howwework/advisor/documents/implemgrieveng.pdf</a></li>
+            <li>AngloAmerican, 2013. Sustainable Development Report: Focused on Delivery, London. <a class="Article-link" href="http://www.angloamerican.com/~/media/Files/A/Anglo-American-Plc/reports/annual-report-2013/AA-SDR-2803.pdf">http://www.angloamerican.com/~/media/Files/A/Anglo-American-Plc/reports/annual-report-2013/AA-SDR-2803.pdf</a></li>
+            <li>Freeport McMoRan, 2013. Strength in Resources: 2013 Working Toward Sustainable Development Report, Phoenix, Arizona. <a class="Article-link" href="http://www.fcx.com/sd/pdf/WTSD_Bk_2013.pdf">http://www.fcx.com/sd/pdf/WTSD_Bk_2013.pdf</a></li>
+            <li>Sakhalin Energy Investment Company, Ltd., 2013. Sustainable Development Report, Sakhalin Island, Russia. <a class="Article-link" href="http://www.sakhalinenergy.com/media/user/otchety/GRI_2013_Eng.pdf">http://www.sakhalinenergy.com/media/user/otchety/GRI_2013_Eng.pdf</a></li>
+            <li>Davis, Rachel and Daniel Franks, 2014. “Costs of Company-Community Conflict in the Extractive Sector,” Harvard Kennedy School, Corporate Social Responsibility Initiative Report No. 66, Cambridge, MA. <a class="Article-link" href="http://www.hks.harvard.edu/m-rcbg/CSRI/research/Costs%20of%20Conflict_Davis%20%20Franks.pdf">http://www.hks.harvard.edu/m-rcbg/CSRI/research/Costs%20of%20Conflict_Davis%20%20Franks.pdf</a></li>
+            <li>Some helpful questions to ask when determining the potential breadth and types of complaints the project may experience can be found in IPIECA’s Grievance Mechanism Scope Assessment tool (IPIECA, 2014. Community Grievance Mechanisms toolbox. <a class="Article-link" href="http://www.ipieca.org/publication/community-grievance-mechanisms-toolbox">http://www.ipieca.org/publication/community-grievance-mechanisms-toolbox</a>)</li>
+          </ol>
+        </div>
+
+      </div>
+    </div>
+  </div><!--end Main-->
+
+    <div class="Footer">
+  <div class="Footer-top">
+    <div class="Footer-content">
+      <img class="Footer-logo" src="/assets/logo-2x.png" alt="CAO Logo">
+      <p class="Footer-text">CAO helps address the concerns of communities who believe they are affected by IFC/MIGA projects with the aim of improving social and environmental outcomes on the ground.</p>
+      <a class="Footer-cta" href="/about-cao">More about us</a>
+    </div>
+  <div class="Footer-logos">
+    <img class="Footer-logos-logo" src="/assets/logo-wb-2x.png" alt="World Bank Logo">
+    <img class="Footer-logos-logo" src="/assets/logo-if-2x.png" alt="International Finance Corporation Logo">
+    <img class="Footer-logos-logo" src="/assets/logo-mi-2x.png" alt="Multilateral Investment Guarantee Agency">
+  </div>
+</div>
+  <div class="Footer-bottom">
+    <p class="Footer-legaltext">The information in this toolkit is for reference purposes only and is meant to serve as a guide for users that want to develop a grievance mechanism. CAO, in consultation with experts in this field, prepared this toolkit to serve as a starting point for users to develop a grievance mechanism that addresses local conditions and capacity. As with any guide, successful implementation depends on many factors beyond what can be read in a document, and CAO takes no responsibility for the success of implementation of this guide in a particular context, nor does it endorse any grievance mechanism that has been established through the use of this guide. </p>
+    <p class="Footer-legaltext">The findings, interpretations, and conclusions expressed herein are those of the author(s) and do not necessarily reflect the views of the Executive Directors of the World Bank Group or the governments they represent. CAO does not guarantee the accuracy of the data included in this work. The boundaries, colors, denominations, and other information shown on any map in this work do not imply any judgment on the part of CAO concerning the legal status of any territory or the endorsement or acceptance of such boundaries.</p>
+    <p class="Footer-legaltext">&copy; 2016 The Office of the Compliance Advisor/Ombudsman</p>
+    <p class="Footer-legaltext">All rights reserved.</p>
+  </div>
+</div>
+
+
+    <script type="text/javascript" src="/assets/main.js"></script>
+
+  </body>
+</html>

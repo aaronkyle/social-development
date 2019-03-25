@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+<title>Objectif, conception et mise en œuvre • Boîte À Outils Du Mécanisme De Règlement Des Plaintes</title>
+
+<link rel="stylesheet" href="../assets/main.css" type="text/css" media="screen">
+<link rel="stylesheet" href="../assets/print.css" type="text/css" media="print">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+<link rel="canonical" href="http://cao-grm.org">
+<meta name="description" content="Guide pratique pour la mise en œuvre des mécanismes de règlement des plaintes dans divers secteurs.">
+
+<meta property="og:url" content="http://cao-grm.org">
+<meta property="og:title" content="Boîte À Outils Du Mécanisme De Règlement Des Plaintes">
+<meta property="og:description" content="Guide pratique pour la mise en œuvre des mécanismes de règlement des plaintes dans divers secteurs.">
+<meta property="og:image" content="http://cao-grm.org/og-img.png">
+<meta property="og:type" content="website">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="apple-mobile-web-app-title" content="Boîte À Outils Du Mécanisme De Règlement Des Plaintes">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="icon" sizes="196x196" href="/apple-touch-icon.png">
+
+  </head>
+  <body>
+
+<div class="Main-wrap">
+    <img class="Hero-print" src="/assets/logo-dark-2x.png" alt="CAO Logo">
+<div class="Header no-print">
+  <a href="/fr/"><img class="Header-logo" src="/assets/fr/logo-white.svg" alt="CAO Boîte À Outils Du Mécanisme De Règlement Des Plaintes"></a>
+  <div class="Header-control-wrap">
+    <div class="Header-menu">
+      <a class="Header-link" id="menu-toggle">
+        <h3 class="Header-link-text">Menu</h3>
+        <svg class="Header-icon-menu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="41" height="32" viewBox="0 0 41 32">
+          <defs>
+            <style>
+              .cls-1 {
+                fill: #fff;
+                fill-rule: evenodd;
+              }
+            </style>
+          </defs>
+          <path d="M39.500,18.000 L1.500,18.000 C0.672,18.000 -0.000,17.328 -0.000,16.500 C-0.000,15.672 0.672,15.000 1.500,15.000 L39.500,15.000 C40.328,15.000 41.000,15.672 41.000,16.500 C41.000,17.328 40.328,18.000 39.500,18.000 ZM39.500,3.000 L1.500,3.000 C0.672,3.000 -0.000,2.328 -0.000,1.500 C-0.000,0.672 0.672,0.000 1.500,0.000 L39.500,0.000 C40.328,0.000 41.000,0.672 41.000,1.500 C41.000,2.328 40.328,3.000 39.500,3.000 ZM1.500,29.000 L39.500,29.000 C40.328,29.000 41.000,29.672 41.000,30.500 C41.000,31.328 40.328,32.000 39.500,32.000 L1.500,32.000 C0.672,32.000 -0.000,31.328 -0.000,30.500 C-0.000,29.672 0.672,29.000 1.500,29.000 Z" class="cls-1"/>
+        </svg>
+
+        <svg class="Header-icon-close" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="40" height="40" viewBox="0 0 40 40">
+          <defs>
+            <style>
+              .cls-1 {
+                fill: #fff;
+                fill-rule: evenodd;
+              }
+            </style>
+          </defs>
+          <path d="M39.996,38.435 L38.418,40.014 L20.000,21.589 L1.582,40.014 L0.003,38.435 L18.421,20.009 L0.003,1.584 L1.582,0.004 L20.000,18.430 L38.418,0.004 L39.996,1.584 L21.578,20.009 L39.996,38.435 Z" class="cls-1"/>
+        </svg>
+      </a>
+    </div>
+    <div class="Header-top">
+      <a class="Header-link" href="#top">
+        <h3 class="Header-link-text">Haut de page</h3>
+        <svg class="Header-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="42" height="42" viewBox="0 0 42 42">
+          <defs>
+            <style>
+              .cls-1 {
+                fill: #fff;
+                fill-rule: evenodd;
+              }
+            </style>
+          </defs>
+          <path d="M41.601,21.626 C41.084,22.130 40.246,22.130 39.729,21.626 L22.087,4.198 L22.087,40.977 C22.087,41.538 21.633,41.993 21.073,41.993 L20.477,41.993 C19.916,41.993 19.462,41.538 19.462,40.977 L19.462,4.627 L2.254,21.626 C1.737,22.130 0.899,22.130 0.382,21.626 C-0.135,21.122 -0.135,20.304 0.382,19.800 L20.055,0.365 C20.572,-0.139 21.411,-0.139 21.928,0.365 L41.601,19.800 C42.118,20.304 42.118,21.122 41.601,21.626 ZM20.946,3.161 L21.037,3.161 L20.992,3.116 L20.946,3.161 Z" class="cls-1"/>
+        </svg>
+      </a>
+    </div>
+    <div class="Header-print">
+      <a class="Header-link" href="javascript:window.print()">
+        <h3 class="Header-link-text">Imprimer</h3>
+        <img class="Header-icon" src="/assets/print.png" alt="print icon">
+      </a>
+    </div>
+  </div>
+</div>
+
+    <div class="Nav" id="Nav" role="navigation" data-sticky>
+  <div class="Nav-wrap">
+  <ol class="Nav-primary" role="navigation" aria-label="Primary Navigation">
+    <li class="Nav-primary-item"><a class="Nav-primary-link" href="/fr">Accueil</a></li><!-- end Nav-item -->
+    <li class="Nav-primary-item" id="business-case"><a class="Nav-primary-link" href="/fr/business-case-for-grievance-mechanisms">Argumentaire En Faveur Des Mécanismes De Règlement Des Plaintes</a></li><!-- end Nav-item -->
+    <li class="Nav-primary-item" id="purpose">
+      <a class="Nav-primary-link dropdown-toggle dropdown-arrow">
+        Objectif, Conception Et Mise En Œuvre
+        <svg class="Nav-primary-toggle" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="12" height="7" viewBox="0 0 12 7"><path d="M-0.004,-0.000 L12.004,-0.000 L6.000,7.005 L-0.004,-0.000 Z"/></svg>
+      </a>
+        <div class="Expandable-content">
+          <ol class="Nav-sublist">
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/fr/purpose-design-and-implementation#top">Raison d’être et objectifs de cette boîte à outils</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/fr/purpose-design-and-implementation#section-2">Pourquoi investir dans un mécanisme de recours est-il un bon placement pour une entreprise ?</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/fr/purpose-design-and-implementation#section-3">Les problématiques à prendre en compte lors de l’établissement d’un mécanisme de recours</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/fr/purpose-design-and-implementation#section-4">Élaborer un bon mécanisme de recours</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/fr/purpose-design-and-implementation#section-5">Faire fonctionner un mécanisme de recours</a></li>
+            <li class="Nav-sublist-item"><a class="Nav-sublist-item-link" href="/fr/purpose-design-and-implementation#section-6">Boucler la boucle : utiliser le retour d’informations sur le mécanisme de recours afin d’améliorer les pratiques professionnelles</a></li>
+          </ol>
+        </div>
+    </li><!-- end Nav-item -->
+
+    <li class="Nav-primary-item" id="tools-and-resources"><a class="Nav-primary-link" href="/fr/tools-and-resources">Outils Et Ressources</a></li><!-- end Nav-item -->
+  </ol><!-- end Nav-primary -->
+
+  <ol class="Nav-secondary" role="navigation" aria-label="Secondary Navigation">
+    <li class="Nav-secondary-item">
+      <a class="Nav-secondary-item-link" href="/fr/about-toolkit" id="about-toolkit">Au sujet de ce document</a>
+    </li>
+    <li class="Nav-secondary-item">
+      <a class="Nav-secondary-item-link" href="/fr/definitions-and-references" id="definitions-and-references">Définitions et références</a>
+    </li>
+    <li class="Nav-secondary-item">
+      <a class="Nav-secondary-item-link" href="/fr/about-cao" id="about-cao">À propos du CAO</a>
+    </li>
+  </ol><!-- end Nav-secondary -->
+
+  <!-- Language menu -->
+  <div class="Nav-language">
+    <p>Veuillez choisir la langue:</p>
+    <ul class="Nav-language-list">
+      <li class="Nav-language-item"><a href="/">English</a></li>
+      <li class="Nav-language-item"><a href="/es/">Español</a></li>
+      <li class="Nav-language-item"><a href="/fr/">Français</a></li>
+    </ul>
+  </div>
+
+  <div class="Feedback-wrap">
+    <p class="Feedback-text">Souhaitez-vous réagir à cette boîte à outils et en savoir plus sur d’autres matériels similaires ?</p>
+    <a class="Feedback-button"  href="https://www.surveymonkey.com/r/CAO-grm-feedback">Répondez à notre enquête</a>
+  </div>
+</div>
+
+</div>
+
+
+    <div class="Main" id="top">
+      <div class="Text-wrap">
+        <div class="Article-subtitle-wrap" id="section-1">
+          <p class="Article-subtitle-number">1</p>
+          <h1 class="Article-subtitle"><span class="Article-title">Objectif, conception et mise en œuvre</span><br>Raison d’être et objectifs de cette boîte à outils</h1>
+        </div>
+          <p class="Article-text">Au plan opérationnel, <span class="Pop-up-text tooltip" title="Processus de réception, d’examen et de réponse relatif aux questions ou plaintes émanant de collectivités parties prenantes au sujet d’un projet particulier. Il est généralement élaboré, mis en œuvre et géré par l’entreprise exploitant le projet. Également connu sous le nom de « mécanisme de règlement des différends au niveau du projet ».">les mécanismes de règlement des plaintes</span> sont un moyen donné à des personnes et des communautés affectées par les opérations d’une entreprise de communiquer leurs questions, préoccupations et difficultés eu égard à cette entreprise et d’en obtenir un examen rapide et cohérent. Ils ne remplacent pas les autres voies de recours, dont le recours notamment juridique. Toutefois, mis en œuvre efficacement, les mécanismes de règlement des plaintes offrent aux entreprises et aux communautés une perspective de résoudre les problèmes et d’y remédier efficacement, dans l’immédiat et à peu de frais. Des mécanismes de règlement des plaintes solides et fiables permettent de traiter les problèmes de manière proactive dès leur apparition, avant qu’ils n’érodent la confiance de la communauté locale ou ne deviennent insolubles. Ils peuvent aussi être un moyen efficace aux mains des entreprises pour identifier des problèmes potentiels et donner des éléments d’information propres à améliorer les opérations de celles-ci.</p>
+
+          <p class="Pullquote-left">Des mécanismes de règlement des plaintes solides et fiables permettent de traiter les problèmes de manière proactive dès leur apparition, avant qu’ils n’érodent la confiance de la communauté locale ou ne deviennent insolubles.</p>
+
+          <p class="Article-text">La prise de conscience de l’utilité des mécanismes de règlement des plaintes dans la résolution des conflits entre entreprises et communautés va croissante. <a class="Article-source-link" href="/fr/definitions-and-references"> Les Principes directeurs des Nations Unies (ONU) sur les entreprises et les droits de l’homme ont été un catalyseur important du développement des mécanismes de règlement des plaintes opérationnels dans le cadre du « Protéger, respecter et réparer », </a><span class="Article-source-superscript">1</span> tandis que les mécanismes de règlement des plaintes ont, réciproquement, joué un rôle prépondérant dans la mise en pratique de ces Principes directeurs de l’ONU.</p>
+          <p class="Article-text"><a class="Article-source-link" href="/fr/definitions-and-references">Il est admis dans les Normes de politique et de performance en matière environnementale et sociale de la Société financière internationale (Cadre de durabilité de la SFI) que des mécanismes de règlement des plaintes sont nécessaires aux entreprises pour qu’elles gèrent les questions des droits l’homme de manière responsable.</a><span class="Article-source-superscript">2</span><a class="Article-source-link" href="/fr/definitions-and-references"> Les Normes de performance réclament des entreprises clientes qu’elles instaurent, à destination des communautés affectées, un mécanisme de règlement des plaintes qui soit à la hauteur des risques et des impacts négatifs du projet.</a><span class="Article-source-superscript">3</span> De plus, les mêmes Normes requièrent que les entreprises clientes proposent un mécanisme de règlement des plaintes dont l’efficience favorise l’identification précoce des réclamations ainsi qu’une solution rapide pour les personnes s’estimant lésées par les activités d’une entreprise cliente.</p>
+          <p class="Article-text">La pile de dossiers sous le coude du CAO montre que les politiques relatives aux mécanismes de règlement des plaintes sont bien développées ; il reste encore, toutefois, des défis à relever dans leur application, lacunes entraînant un manque de cohérence tant au niveau de leur conception et de leur mise en œuvre qu’au niveau de leur fonctionnement. En outre, les coûts pressentis et réels associés à l’instauration, à la mise en œuvre et au fonctionnement d’un mécanisme de règlement des plaintes constituent une autre pierre d’achoppement : pour des entreprises aux marges bénéficiaires modestes, investir dans un mécanisme de règlement des plaintes, alors que les bénéfices nécessaires et potentiels à en retirer restent à démontrer, peut être considéré comme une dépense trop lourde comparé aux autres priorités entrepreneuriales.</p>
+          <p class="Article-text">Cette boîte à outils vise à faire tomber les obstacles de la mise en œuvre. <a class="Article-source-link" href="/fr/definitions-and-references">Elle s’inspire de la directive antérieure du CAO sur les mécanismes de règlement des plaintes communautaires,</a><span class="Article-source-superscript">4</span> et a deux objectifs principaux. En premier lieu, elle propose un guide pratique de la conception et de la mise en œuvre de mécanismes efficients de règlement des plaintes, particulièrement pour les
+            <span class="Pop-up-text tooltip" title="Le terme projet est employé de façon générique dans le présent document pour désigner de nouveaux projets à l’état d’idée ou en construction, des opérations abouties ou en phase d’extension ou encore de fermeture.">projets
+            </span>
+            dont le personnel, le temps disponible et le budget sont restreints. Ensuite, elle donne un répertoire des outils et techniques de bonnes pratiques issus du travail du CAO ainsi que d’autres praticiens. Les exemples utilisés tout au long de ce document pour illustrer les types de
+            <span class="Pop-up-text tooltip" title="Expression d’une insatisfaction résultant de problèmes réels ou perçus, faisant généralement référence à une source précise d’inquiétude et/ou réclamant une solution spécifique. Aux fins du mécanisme de règlement des plaintes, les impacts réels ou ressentis sont traités de manière similaire et sont soumis à la même procédure établie. Les termes « différend » et « plainte » sont indifféremment utilisés dans ce document.">plaintes
+            </span>
+          reçues par un mécanisme de règlement des plaintes trouvent leur origine dans le secteur des industries extractives (pétrole, gaz et mines). Ces industries ont une expérience plus large que d’autres secteurs des mécanismes de règlement des plaintes en raison non seulement de la nature de leurs activités pouvant avoir un gros impact sur les sols et les ressources en eau, mais aussi de la surveillance étroite dont le secteur fait l’objet. Cette expérience se manifeste par la teneur des propos rencontrés dans les rapports sur la durabilité des entreprises de l’industrie extractive, lesquels mettent généralement un fort accent sur les questions communautaires, y compris les mécanismes de règlement des plaintes. À l’opposé, de nombreuses entreprises agricoles font peu de place à ces questions dans leurs rapports sur la durabilité. Les mécanismes de règlement des plaintes étant encore un nouveau domaine d’application dans les secteurs autres que celui de l’extraction, ce guide compense le manque de données quantifiables en utilisant des cas fictifs, toutefois fondés sur des exemples réels d’entreprises de plus petite envergure de divers secteurs d’activité.</p>
+          <p class="Article-text">La conception et la mise en œuvre propres à chaque mécanisme de règlement des plaintes afficheront des variations apportant chacune leur lot de défis à relever et d’opportunités. Cette boîte à outils donne des conseils sur la façon d’évaluer le contexte local, de déterminer ce qui peut fonctionner dans une situation donnée et de rectifier le tir quand les problèmes surgissent.</p>
+          <a class="Feedback-button"  href="/fr/tools-and-resources">Trouver les outils et ressources</a>
+        <div class="Article-subtitle-wrap" id="section-2">
+          <p class="Article-subtitle-number">2</p>
+          <h3 class="Article-subtitle"><span class="Article-title">Objectif, conception et mise en œuvre</span><br>Pourquoi investir dans un mécanisme de règlement des plaintes est-il un bon placement pour une entreprise ?</h3>
+        </div>
+          <p class="Article-text">Les entreprises hésitent parfois à instaurer et mettre en œuvre un mécanisme de règlement des plaintes à cause de certains « mythes » ou idées fausses sur leur valeur et leur potentiel de succès. Cependant, comme l’illustre cette section, la réalité veut qu’un mécanisme de règlement des plaintes efficient puisse être extrêmement bénéfique à la fois aux entreprises et aux communautés locales.</p>
+          <h3 class="Article-text-emphasized">Mythe 1. Un mécanisme de règlement des plaintes n’apporte aucune valeur ajoutée aux entreprises, particulièrement à celles de petite taille.</h3>
+            <p class="Article-text">Un mécanisme de règlement des plaintes intégré dans les opérations d’une entreprise est un bon moyen de prévenir des conflits futurs et potentiellement très coûteux. Tout comme de nombreuses gouttelettes sont nécessaires pour former un océan, des différends accumulés et laissés pour compte risquent de devenir une marée plus périlleuse et onéreuse à gérer.</p>
+            <p class="Article-text">Pour exemple, il est essentiel d’apaiser les inquiétudes de petits fermiers face à l’utilisation agricole massive de la ressource en eau et à ses impacts potentiels sur la disponibilité de la ressource avant que les puits ne s’assèchent. Pour ce type de problématique, un outil tel qu’une évaluation environnementale et sociale comme mécanisme de règlement des plaintes peut permettre de faire en sorte que les communautés directement affectées par des projets soient les premières à signaler des problèmes susceptibles de devenir cruciaux et de coûter cher dans le futur. Un mécanisme de règlement des plaintes fonctionnant convenablement donne également l’opportunité non seulement de redresser la situation, mais aussi de faire travailler ensemble entreprises et communautés aux fins de trouver des solutions aux problèmes et de développer de meilleures relations. Enfin, les entreprises consacrent des ressources substantielles à la compréhension et à l’élimination des inefficiences de leurs techniques et processus de gestion et d’exploitation ; les mécanismes de règlement des plaintes donnent la capacité d’identifier les écarts de performance en mettant en lumière leurs impacts sur la communauté (aussi bien que sur l’entreprise) et en aidant l’entreprise, si ce n’est à éviter des résultats de projet négatifs et coûteux, du moins à y réagir.</p>
+          <h3 class="Article-text-emphasized">Mythe 2. Faire de la publicité sur vos mécanismes de règlement des plaintes est une mauvaise idée car vous seriez assailli de plaintes, — et qui dit trop de plaintes, dit sonnette d’alarme pour la direction, les actionnaires et les parties prenantes extérieures, voyant là une contre-performance.</h3>
+            <p class="Article-text">Dans l’idéal, entreprises et communautés devraient vivre côte à côte dans une cohabitation considérée bénéfique pour chacun. Toutefois, même dans les opérations les mieux conduites, des situations difficiles surgiront tout au long de la durée de vie d’un projet, depuis les activités intensives des phases de lancement et de construction jusqu’à la mise en exploitation, voire même pendant la fermeture et le déclassement du site. Dans de nombreux cas, les plaintes reflètent le degré de confiance de la communauté dans l’aptitude de l’entreprise à résoudre les problèmes. Elles offrent aussi une opportunité de traiter les problèmes quand ils sont encore du ressort de l’entreprise, avant qu’ils ne se transforment en conflits plus vastes et plus épineux. En fait, des plaintes plus nombreuses peuvent signifier que le mécanisme de règlement des plaintes a une meilleure performance et qu’une plus grande confiance lui est accordée.</p>
+            <p class="Article-text">Par exemple, une grande entreprise minière mentionnait dans son rapport 2013 sur la durabilité avoir reçu 2 804 plaintes pour l’ensemble du groupe, soit une augmentation de 69 % par rapport à 2012. L’entreprise notait, de plus, qu’une telle augmentation est « ce que l’on pourrait attendre d’une meilleure gestion de l’information ». <a class="Article-source-link" href="/fr/definitions-and-references"> Quarante pour cent des plaintes reçues avaient trait à des impacts sur les communautés.</a><span class="Article-source-superscript">5</span> Dans ce cas précis, l’entreprise pensait que le nombre accru de plaintes traduisait un meilleur fonctionnement des mécanismes de règlement des plaintes et une attention plus soutenue portée aux inquiétudes des communautés. Un nombre accru de plaintes n’est pas toujours un proxy sûr d’une implication étroite des communautés ; il peut, toutefois, laisser sous-entendre que votre mécanisme de règlement des plaintes remplit ses fonctions en étant à l’écoute des impacts d’un projet montrés du doigt par les communautés.</p>
+          <h3 class="Article-text-emphasized">Mythe 3. Les différends coûtent cher à résoudre car toujours compliqués.</h3>
+            <p class="Article-text">Les différends mettent parfois en scène de nombreuses personnes ; ils peuvent être porteurs de défis et durer dans le temps. Ceci est particulièrement vrai d’un conflit installé — précisément le type de situations où une implication forte des parties prenantes est indispensable. Cependant, des mécanismes de règlement des plaintes crédibles et efficaces capables d’appréhender les problèmes avant qu’ils ne soient exacerbés et exigent davantage de ressources pour leur résolution, peuvent, de fait, réduire le risque de coûts non anticipés du projet. Un élément essentiel pour les entreprises à faibles marges bénéficiaires !</p>
+            <p class="Article-text">Les mécanismes de règlement des plaintes peuvent également aider les entreprises à déterminer où et comment affecter les ressources. Par exemple, si des inquiétudes sont continuellement formulées à propos de camions ne respectant pas les limites de vitesse sur la voie publique, les données dont dispose le mécanisme de règlement des plaintes peuvent aider une entreprise à déterminer si cette affaire de vitesse concerne un sous-traitant donné, lequel doit alors être sanctionné, ou s’il s’agit d’un  problème systémique concernant tous les véhicules de l’entreprise et de son sous-traitant, auquel cas il serait nécessaire d’engager un programme d’éducation à la sécurité routière et à sa mise en application.</p>
+          <h3 class="Article-text-emphasized">Mythe 4. Les mécanismes de règlement des plaintes ne peuvent pas fonctionner dans des communautés divisées.</h3>
+            <p class="Article-text">Un mécanisme de règlement des plaintes ne peut résoudre tous les problèmes qu’est susceptible de rencontrer une communauté. Toutefois, la mise en place d’une procédure structurée, transparente et fiable peut participer à apaiser les divisions dans des communautés fracturées ou sortant d’un conflit. Si le mécanisme de règlement des plaintes peut faire office d’intermédiaire de confiance dans la communauté, il permettra un grand pas vers la reconstruction du capital social.</p>
+            <p class="Article-text">Parfois, un mécanisme de règlement des plaintes peut être mis en place pour régler un problème spécifique qui n’a pas été traité convenablement dans le passé. Par exemple, la question foncière et la réinstallation de populations constituent des problématiques fondamentales, inhérentes à maints projets, et risquent de nécessiter un mécanisme de règlement des plaintes spécifiquement dédié au traitement de problèmes souvent nés d’un flou relatif dans la question foncière. Lors d’une opération située dans un pays sortant d’un conflit en Afrique centrale, une réinstallation de grande ampleur a été à la base de la moitié des plaintes reçues à l’échelle du groupe pour l’ensemble des opérations d’une société multinationale minière. Les problèmes liés au foncier et à la réinstallation ont nécessité l’élaboration d’un mécanisme de règlement des plaintes spécifique. La multinationale a également mis en place un Comité de médiation indépendant (CMI) pour résoudre les différends ne pouvant être réglés dans le cadre du processus de base <a class="Article-source-link" href="/fr/definitions-and-references">La mise en place du mécanisme de règlement des plaintes et du CMI a été une étape majeure de la résolution du conflit et de l’amenuisement des divisions au sein de la communauté.</a><span class="Article-source-superscript">6</span></p>
+          <h3 class="Article-text-emphasized">Mythe 5. Les mécanismes de règlement des plaintes crouleront constamment sous le poids des plaintes et absorberont, ad vitam aeternam, une part importante des ressources de l’entreprise.</h3>
+            <p class="Article-text">L’expérience de Sakhalin Energy Investment Company Ltd. en Russie, société porteuse de l’un des premiers projets énergétiques ayant mis en place un mécanisme de règlement des plaintes, est instructive. Le mécanisme de règlement des plaintes de cette entreprise est entré en fonctionnement en 2003 alors que le projet passait de sa phase de conception à celle de la construction. Au plus fort de la construction, le projet a reçu quelque 150 plaintes en une seule année. <a class="Article-source-link" href="/fr/definitions-and-references">Les travaux de construction touchant à leur fin, le nombre de plaintes reçues annuellement diminua pour se situer aux alentours de 15 (voir la Figure 1).</a><span class="Article-source-superscript">7</span> Cet exemple met en évidence un phénomène simple : le nombre de plaintes reçues est corrélé au volume d’activité sur le terrain et à l’impact correspondant sur la communauté.</p>
+
+          <img class="Article-figure" src="/assets/fr/Figure-section2a.svg" alt="Plaintes en fonction des phases de contruction">
+          <img class="Article-figure" src="/assets/fr/Figure-section2b.svg" alt="Rythme prévisible des plaintes, par type de projets">
+
+          <p class="Article-text-popup--emphasized">Mythe 6. Un </p>
+          <span class="Pop-up-text tooltip" title="Processus de réception, d’examen et de réponse relatif aux questions ou plaintes émanant de collectivités parties prenantes au sujet d’un projet particulier. Il est généralement élaboré, mis en œuvre et géré par l’entreprise exploitant le projet. Également connu sous le nom de « mécanisme de règlement des différends au niveau du projet ».">mécanisme de règlement des plaintes opérationnel
+          </span>
+          <p class="Article-text-popup--emphasized">géré par une entreprise n’a aucune légitimité et ses résultats ne sont pas crédibles.</p>
+          <div class="Article-text-popup--space"></div>
+          <p class="Article-text-popup">Certains membres de la communauté et les groupes travaillant avec eux ont du mal à accepter ou à comprendre la façon dont un mécanisme élaboré et géré par l’entreprise responsable des impacts sociaux, économiques ou environnementaux négatifs en question peut amener des solutions équitables. Ce sentiment peut provenir d’une méfiance très installée à l’égard d’une entreprise donnée, du secteur privé en général, ou encore d’une expérience antérieure de mécanismes de règlement des plaintes piètrement conçus et mis en œuvre. Ces préoccupations sont légitimes attendu les nombreux exemples d’entreprises n’ayant pas travaillé en toute bonne foi avec les communautés affectées par leurs projets. Cependant, l’expérience de mécanismes de règlement des plaintes implantés dans le cadre de projets portant sur des ressources naturelles montre que la majorité des problèmes soulevés par les membres de la communauté ont trait aux impacts opérationnels provoqués par l’activité (par ex., les problèmes quotidiens liés aux opérations industrielles tels que le bruit, la poussière et la circulation) et aux bénéfices que l’entreprise procure (y compris les emplois, les contrats et l’investissement social). Ce type de problématiques peut être traité rapidement, efficacement et de manière rentable par le biais d’un mécanisme de règlement des plaintes bien structuré. Un tel mécanisme de règlement des plaintes peut servir de premier interlocuteur efficace pour entendre les inquiétudes d’une communauté vis à vis de l’activité courante. Par ailleurs, les mécanismes de règlement des plaintes n’interdisent pas à un requérant, insatisfait de la procédure ou du résultat du mécanisme en place, de s’orienter vers des alternatives telles qu’un autre dispositif de réclamation ou une procédure juridique ou réglementaire. Si les communautés affectées sont consultées lors de l’élaboration du mécanisme de règlement des plaintes, si l’entreprise tient ses promesses et si les requérants ont à faire à une procédure juste et obtiennent réparation, alors le mécanisme deviendra crédible et légitime (voir Section 4 pour plus de détails sur l’établissement de la confiance dans un mécanisme de règlement des plaintes).</p>
+      </div><!-- end Text wrap -->
+        <div class="ResourceTile-wrap">
+          <h3 class="ResourceTile-wrap-heading">Outils Et Ressources Connexes</h3>
+
+          <div class="ResourceTile">
+            <div class="ResourceTile-header-casestudy">
+            <a class="ResourcesTile-link" href="/Tools/fr/Agripro.docx">
+              <p class="ResourceTile-header-label">Étude De Cas</p>
+              <p class="ResourceTile-header-title">Un producteur agricole dans une zone rurale où l’agriculture familiale est la norme.</p>
+              <svg class="ResourceTile-arrow" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="20" height="20.031" viewBox="0 0 20 20.031" fill="#fff" focusable="false" aria-hidden="true">
+                <path d="M20.000,18.484 C20.000,19.313 19.328,19.984 18.500,19.984 C17.672,19.984 17.000,19.313 17.000,18.484 L17.000,5.117 L2.550,19.556 C1.964,20.141 1.015,20.141 0.429,19.556 C-0.157,18.970 -0.157,18.021 0.429,17.436 L14.879,2.998 L1.499,2.998 C0.671,2.998 0.000,2.327 0.000,1.499 C0.000,0.671 0.671,-0.000 1.499,-0.000 L18.501,-0.000 C19.329,-0.000 20.000,0.671 20.000,1.499 C20.000,1.499 20.000,1.499 20.000,1.499 C20.000,1.500 20.000,1.500 20.000,1.500 L20.000,18.484 Z"/>
+              </svg>
+            </a>
+            </div>
+            <div class="ResourceTile-content">
+              <p class="ResourceTile-content-text">Ce cas est particulièrement pertinent pour les projets/opérations ayant une forte empreinte foncière ; pour les opérations susceptibles d’entrer en collision avec des activités locales vivrières ou génératrices de revenu ; et pour les producteurs agricoles.</p>
+            </div>
+          </div>
+        </div>
+      <div class="Text-wrap">
+        <div class="Article-subtitle-wrap" id="section-3">
+          <p class="Article-subtitle-number">3</p>
+          <h3 class="Article-subtitle"><span class="Article-title">Objectif, conception et mise en œuvre</span><br> Les problématiques à prendre en compte lors de l’instauration d’un mécanisme de règlement des plaintes</h3>
+        </div>
+        <div class="Article-navigation">
+          <h6 class="Article-navigation-title">Aller À La Section</h6>
+          <ol class="Article-navigation-list">
+            <li class="Article-navigation-item"><a class="Article-navigation-item-link" href="#overview-3">Aperçu général</a></li>
+            <li class="Article-navigation-item"><a class="Article-navigation-item-link" href="#costs-associated">Coûts associés aux mécanismes de règlement des plaintes</a></li>
+            <li class="Article-navigation-item"><a class="Article-navigation-item-link" href="#maximizing-resources">Maximiser les ressources et les capacités</a></li>
+          </ol>
+          <div class="Article-navigation-tear"></div>
+        </div>
+          <p class="Article-text-popup anchor" id="overview-3">Plusieurs questions sont à prendre en compte lors de la prise de décision quant à l’instauration d’un mécanisme de règlement des plaintes opérationnel et à la méthodologie à adopter. Cela inclut les coûts associés à la création du</p>
+            <span class="Pop-up-text tooltip" title="Processus de réception, d’examen et de réponse relatif aux questions ou plaintes émanant de collectivités parties prenantes au sujet d’un projet particulier. Il est généralement élaboré, mis en œuvre et géré par l’entreprise exploitant le projet. Également connu sous le nom de « mécanisme de règlement des différends au niveau du projet ».”">mécanisme de recours opérationnel
+            </span>
+          <p class="Article-text-popup"> ainsi que les moyens garantissant qu’à la fois l’entreprise et la communauté en sortent bénéficiaires.</p>
+
+            <p class="Pullquote-left">Les coûts initiaux peuvent sembler élevés, mais si le mécanisme de règlement des plaintes est « taillé sur mesure », les avantages l’emporteront de loin sur les coûts.</p>
+
+            <h2 class="Article-subheading anchor" id="costs-associated">Coûts associés aux mécanismes de règlement des plaintes</h2>
+              <p class="Article-text">Divers coûts sont associés à la création, à la mise en œuvre et à la maintenance d’un mécanisme de règlement des plaintes. Les coûts initiaux peuvent sembler élevés, mais si le mécanisme de règlement des plaintes est « taillé sur mesure » (c.-à-d. s’il est à l’échelle des risques et des impacts négatifs potentiels du projet), les avantages l’emporteront de loin sur les coûts. Ceci est particulièrement vrai des entreprises qui seraient dans l’incapacité d’apporter la réponse nécessaire en cas de conflit naissant ou s’enracinant parce qu’il n’a pas été remédié efficacement aux réclamations de la communauté. Une récente étude conduite par l’Université du Queensland en Australie a montré que, dans le secteur des industries extractives, les coûts associés aux perturbations de l’activité et aux conflits avec la communauté peuvent varier de 10 000 à 50 000 dollars par jour pendant l’exploration pour aller jusqu’à 20 millions de dollars par semaine en phase d’exploitation. <a class="Article-source-link" href="/fr/definitions-and-references">Bien que l’étude soit centrée sur les industries extractives, un secteur assurant depuis très longtemps un suivi des coûts liés aux conflits, la leçon d’ensemble est valable pour n’importe quel secteur.</a><span class="Article-source-superscript">8</span></p>
+
+            <h2 class="Article-subheading anchor" id="maximizing-resources">Maximiser les ressources et les capacités : questions liées au contexte local</h2>
+              <p class="Article-text">Lorsqu’une entreprise investit dans un mécanisme de règlement des plaintes, elle doit s’assurer qu’elle-même et la communauté en retireront le plus grand profit. Il est indispensable de prendre en compte le contexte local de manière à ce que les ressources soient affectées là où elles sont le plus probablement nécessaires. Il est certes impossible d’anticiper la totalité des éventualités ; toutefois, s’agissant de réfléchir à la meilleure façon de mesurer les ressources et capacités nécessaires à la mise en place d’un mécanisme de règlement des plaintes, certaines questions clés doivent être posées.</p>
+
+            <h3 class="Article-text-emphasized">Le mécanisme de règlement des plaintes sera-t-il aux prises avec des problèmes spécifiques ?</h3>
+              <p class="Article-text">Bien souvent, les mécanismes de règlement des plaintes ont pour cible des problèmes spécifiques et récurrents qui surviennent dans un type particulier de projets. Par exemple, dans le cadre de nombreux projets agricoles, l’endommagement de cultures limitrophes est un problème fréquent. Dans ce cas, un mécanisme de règlement des plaintes pourrait être doté d’un axe particulier orienté sur cette question et, par là-même, comporter des procédures spécifiques telles que des inspections agricoles.</p>
+
+              <p class="Pullquote-right">Dans le meilleur des cas, un mécanisme de règlement des plaintes et le personnel qui lui est dédié auront établi une relation de confiance suffisante avec les membres de la communauté pour servir d’avant-poste où se rendre pour exprimer tout problème, quelle qu’en soit la teneur.</p>
+
+            <h3 class="Article-text-emphasized">Le mécanisme de règlement des plaintes sera-t-il confronté à de nombreux problèmes perçus selon de multiples perspectives&nbsp;?</h3>
+              <p class="Article-text">Dans certains cas, un mécanisme de règlement des plaintes pourra constituer le point d’entrée de nombreuses problématiques allant de l’investissement social à la gestion des impacts sur l’infrastructure, en passant par l’emploi. Par exemple, les projets nécessitant la construction d’installations ont des impacts forts de courte durée en matière de circulation, de bruit, de poussière, de disponibilité des services ainsi que de fourniture et de demande de main-d’œuvre qualifiée et non qualifiée. Là, il sera important que les restrictions apposées au champ d’intervention et aux critères de recevabilité du mécanisme de règlement des plaintes soient minimes de manière à ce que celui-ci constitue le premier point d’entrée pour toute réclamation émanant de la communauté. Bien souvent, les plaintes des communautés sont traitées au sein même du mécanisme de règlement des plaintes, mais il peut arriver qu’une plainte soit remise à un autre département disposant de sa propre procédure (aux ressources humaines, par exemple, si la plainte a trait à l’emploi). Dans le meilleur des cas, un mécanisme de règlement des plaintes et le personnel qui lui est dédié auront établi une relation de confiance suffisante avec les membres de la communauté pour servir d’avant-poste où s’adresser pour exprimer problème de tout genre, quelle qu’en soit l’ampleur.</p>
+
+            <h3 class="Article-text-emphasized">Comment le mécanisme de règlement des plaintes travaillera-t-il avec les populations autochtones et les personnes vulnérables ?</h3>
+              <p class="Article-text">En présence de populations autochtones ou de personnes vulnérables, des procédures spécifiques devront être mises en place aux fins de garantir que le mécanisme a un fonctionnement aussi efficace pour ces groupes. Par exemple, il peut être nécessaire d’avoir un responsable des réclamations issu d’un groupe autochtone local ou, dans des endroits où les femmes n’ont pas coutume d’exprimer en public leurs préoccupations, de faire en sorte d’avoir des représentantes de la gente féminine disponibles pour recevoir les plaintes et en discuter. Il est impératif, de surcroît, que la communication se fasse dans la langue locale ou dans le langage vernaculaire pour faciliter l’accessibilité et la compréhension.</p>
+
+              <p class="Pullquote-left">S’assurer que le mécanisme de règlement des plaintes prend en compte la réalité locale garantira sa capacité à répondre de manière appropriée à des objectifs et risques spécifiques.</p>
+
+            <h3 class="Article-text-emphasized">Les sous-traitants ont-ils un rôle à jouer dans la mise en œuvre et le fonctionnement d’un mécanisme de règlement des plaintes ?</h3>
+              <p class="Article-text">Dans nombre de projets, les sous-traitants conduisent l’essentiel des activités. Par exemple, quand un projet requiert des travaux publics à grande échelle, les travaux de construction sont généralement réalisés par des sous-traitants. Même si des sous-traitants sont impliqués dans des activités donnant lieu à des plaintes, en règle générale, la « face visible » (le point de contact public) du projet demeurera le propriétaire ou l’opérateur ; ainsi, toute plainte liée à un sous-traitant ternira aussi l’image de l’opérateur. Il est des cas où les sous-traitants ont mis en place leurs propres mécanismes de règlement des plaintes. Dans d’autres, les propriétaires/opérateurs ont choisi de mettre en œuvre un mécanisme de règlement des plaintes géré par leur propre personnel, mais en impliquant des sous-traitants et le public, le cas échéant.</p>
+
+            <h3 class="Article-text-emphasized">Le mécanisme de règlement des plaintes est-il « taillé sur mesure » et à l’échelle des problèmes et risques anticipés ?</h3>
+              <p class="Article-text">Dans tous les cas, un bon mécanisme de règlement des plaintes intègre les conditions locales tout en suivant un processus cohérent et structuré. S’assurer que le mécanisme de règlement des plaintes prend en compte la réalité locale garantira son adéquation aux buts et risques spécifiques qui sont les vôtres. Ce qui signifie également que les ressources sont injectées à bon escient si l’on s’attache aux problématiques réelles associées au projet plutôt que de créer un mécanisme qui semble bon sur le papier mais n’aide pas véritablement à identifier et traiter les problèmes soulevés par la communauté.</p>
+      </div><!-- end Text wrap -->
+        <div class="ResourceTile-wrap">
+          <h3 class="ResourceTile-wrap-heading">Outils Et Ressources Connexes</h3>
+
+          <div class="ResourceTile">
+            <div class="ResourceTile-header-casestudy">
+            <a class="ResourcesTile-link" href="/Tools/fr/NextOil.docx">
+              <p class="ResourceTile-header-label">Étude De Cas</p>
+              <p class="ResourceTile-header-title">Une usine chimique existante dans une zone industrielle densément peuplée</p>
+              <svg class="ResourceTile-arrow" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="20" height="20.031" viewBox="0 0 20 20.031" fill="#fff" focusable="false" aria-hidden="true">
+                <path d="M20.000,18.484 C20.000,19.313 19.328,19.984 18.500,19.984 C17.672,19.984 17.000,19.313 17.000,18.484 L17.000,5.117 L2.550,19.556 C1.964,20.141 1.015,20.141 0.429,19.556 C-0.157,18.970 -0.157,18.021 0.429,17.436 L14.879,2.998 L1.499,2.998 C0.671,2.998 0.000,2.327 0.000,1.499 C0.000,0.671 0.671,-0.000 1.499,-0.000 L18.501,-0.000 C19.329,-0.000 20.000,0.671 20.000,1.499 C20.000,1.499 20.000,1.499 20.000,1.499 C20.000,1.500 20.000,1.500 20.000,1.500 L20.000,18.484 Z"/>
+              </svg>
+            </a>
+            </div>
+            <div class="ResourceTile-content">
+              <p class="ResourceTile-content-text">Cette étude de cas est particulièrement utile pour des projets ayant une activité/installation existante ; situés dans une zone urbaine ou densément peuplée ; dont une opération/installation pourrait contribuer aux impacts cumulés ; dont une opération/installation a des impacts pouvant nécessiter une enquête plus poussée.</p>
+            </div>
+          </div>
+        </div>
+      <div class="Text-wrap">
+        <div class="Article-subtitle-wrap--short" id="section-4">
+          <p class="Article-subtitle-number">4</p>
+          <h3 class="Article-subtitle"><span class="Article-title">Objectif, conception et mise en œuvre</span><br>Élaborer un bon mécanisme de règlement des plaintes</h3>
+        </div>
+        <div class="Article-navigation">
+          <h6 class="Article-navigation-title">Aller À La Section</h6>
+          <ol class="Article-navigation-list">
+            <li class="Article-navigation-item"><a class="Article-navigation-item-link" href="#overview-4">Aperçu général</a></li>
+            <li class="Article-navigation-item"><a class="Article-navigation-item-link" href="#getting-started">Commencer</a></li>
+            <li class="Article-navigation-item"><a class="Article-navigation-item-link" href="#building-trust">Créer la confiance dans un mécanisme de règlement des plaintes</a></li>
+          </ol>
+          <div class="Article-navigation-tear"></div>
+        </div>
+          <p class="Article-text anchor" id="overview-4">Il est important de réfléchir à la façon dont un mécanisme de règlement des plaintes s’inscrit dans la stratégie globale d’engagement de l’entreprise. En tant qu’objectif général et mesure d’efficacité, le mécanisme de règlement des plaintes doit être partie intégrante d’une approche plus large orientée sur l’implication des parties prenantes qui ouvre aux membres de la communauté la porte d’un dialogue régulier avec l’entreprise, qui améliore les relations, qui atténue le risque social et qui donne lieu à une gestion plus réactive et plus responsable.</p>
+          <p class="Article-text">Les objectifs spécifiques d’un mécanisme de règlement des plaintes doivent inclure de :</p>
+            <ol class="Article-list">
+              <li class="Article-list-item"><span class="Article-list-item-number">1</span>mettre en place une procédure diligente, cohérente, structurée et crédible de réception et de traitement des inquiétudes et plaintes émanant de la communauté ;</li>
+              <li class="Article-list-item"><p class="Article-text-popup"><span class="Article-list-item-number">2</span>veiller à ce que les </p>
+                <span class="Pop-up-text tooltip" title="Personne, groupe ou organisation soumettant une plainte verbale ou manuscrite.">requérants
+                </span>
+                <p class="Article-text-popup">soient traités avec respect ;</p></li>
+              <li class="Article-list-item"><span class="Article-list-item-number">3</span>assurer une documentation et une divulgation adéquates des plaintes ainsi que de toute mesure corrective qui en découle ; et</li>
+              <li class="Article-list-item"><span class="Article-list-item-number">4</span>contribuer à la constante amélioration de la performance de l’entreprise par l’analyse des tendances et des leçons tirées des plaintes reçues.</li>
+            </ol>
+
+            <h2 class="Article-subheading anchor" id="getting-started">Pour commencer : Premières étapes de l’élaboration d’un mécanisme de règlement des plaintes</h2>
+              <p class="Article-text">Les quatre étapes principales de la phase initiale de lancement d’un mécanisme de règlement des plaintes présentées dans cette section devraient valoir pour la plupart des contextes et situations. Elles comportent : identifier et impliquer les acteurs clés tant de l’entreprise que de la communauté ; comprendre la réalité locale ; définir le champ des réclamations ; et déterminer la raison d’être et les objectifs du mécanisme de règlement des plaintes.</p>
+
+          <img class="Article-figure" src="/assets/fr/Figure-section4a.svg" alt="Élaborer un mécanisme de règlement des plaintes">
+
+            <h2 class="Article-subheading-steps">Étape 1 : Identifier et impliquer les acteurs clés de l’entreprise et de la communauté</h2>
+              <p class="Article-text">Il revient au personnel de l’entreprise en charge de la mise en place du mécanisme de règlement des plaintes de gravir la première marche du processus, laquelle consiste à identifier les partisans du mécanisme, tant au sein de l’entreprise que de la communauté, et à asseoir leur leadership. Pour cette identification des chefs de file au sein de l’entreprise, il est important de repérer des personnes dotées d’un pouvoir décisionnel. S’il est trop difficile de trouver une personne correspondant à un tel profil et de surcroît intéressée par le mécanisme de règlement des plaintes, il sera alors souhaitable de s’orienter sur un membre clé du personnel d’exploitation, très respecté dans l’entreprise ; lui présenter l’argumentaire en faveur des mécanismes de règlement des plaintes peut constituer un atout non négligeable. Il est également utile de témoigner sans relâche de la réussite du mécanisme de règlement des plaintes lorsqu’il commence à être opérationnel.</p>
+              <p class="Article-text">Une évaluation efficace des parties prenantes est nécessaire pour identifier les leaders communautaires auxquels la population fait confiance. À ce stade initial, il est également important que les différents groupes de la communauté (les femmes ou les populations autochtones, entre autres) soient représentés. Ces représentants aideront à mieux comprendre les éléments constitutifs de l’efficience d’un mécanisme de règlement des plaintes, participeront éventuellement à la communication sur celui-ci et y éduqueront d’autres personnes.</p>
+              <p class="Article-text">Cette étape est importante car elle participe à garantir que différentes perspectives ont été prises en compte dans l’étape de conception, que les principaux décideurs sont engagés dans le processus et répondront aux plaintes avec diligence. L’identification d’acteurs clés aide également à tisser des relations de confiance entre l’entreprise et la communauté, et permet au personnel de l’entreprise responsable du mécanisme de règlement des plaintes ainsi qu’à la communauté de s’impliquer mutuellement dans un dialogue constructif.</p>
+
+              <p class="Pullquote-right">Le retour d’information de la communauté sera d’une valeur sans égal quand il s’agira, par la suite, de déterminer le champ potentiel des réclamations.</p>
+
+              <h2 class="Article-subheading-steps">Étape 2 : Comprendre la réalité locale</h2>
+                <p class="Article-text">Une fois les parties prenantes clés identifiées et impliquées, le personnel de l’entreprise et ses partenaires au sein de la communauté ont à conduire une évaluation non seulement des types de réclamations susceptibles d’émerger, mais aussi de toute méthode, procédure ou capacité existant localement pour les gérer. En outre, si le projet est déjà en activité, l’équipe aura à déterminer la nature de toutes les réclamations formulées par la communauté jusque-là. Pour comprendre la réalité locale, force sera de visiter la communauté aussi souvent et longtemps que possible pour cerner le genre d’inquiétudes soulevées par le projet préoccupant les membres de la communauté et avoir un aperçu des modalités traditionnelles de résolution des conflits. Le personnel de l’entreprise peut également faire part de ses propres idées sur la forme que pourrait revêtir un mécanisme de règlement des plaintes dans la région. Le retour d’information de la communauté sera d’une valeur sans égal quand il s’agira, par la suite, de déterminer le champ potentiel des réclamations. Grâce à l’état des lieux ainsi dressé des outils à disposition au sein de la communauté ainsi que des spécificités des plaintes que le mécanisme aura probablement à gérer, cette étape aide à définir le type de mécanisme de règlement des plaintes convenant le mieux à l’usage que veut en faire le projet.</p>
+
+              <h2 class="Article-subheading-steps">Étape 3 : Définir le champ des réclamations</h2>
+                <p class="Article-text">En concertation avec les membres de la communauté et la direction de l’entreprise, les responsables de l’implantation du mécanisme de règlement des plaintes ont à déterminer l’ampleur des plaintes pouvant surgir. <a class="Article-source-link" href="/fr/definitions-and-references">Il faudra, pour ce faire, identifier les points d’interaction entre les activités quotidiennes de la communauté et celles de l’entreprise et discerner si les réclamations seront déposées plutôt à titre individuel ou à celui de groupe.</a><span class="Article-source-superscript">9</span></p>
+                <p class="Article-text">Dans le cadre de cette étape comme lors de celle de la compréhension de la réalité locale, il s’agira de rendre fréquemment visite à la communauté. Il faudra, également, dialoguer avec le personnel de l’entreprise procédant aux opérations quotidiennes aux fins d’identifier les moments et les circonstances dans lesquels ces activités interagissent avec les membres de la communauté. Ceci fournira une assise à l’étape suivante du processus consistant à déterminer la raison d’être et les objectifs du mécanisme de règlement des plaintes. Une bonne compréhension du champ des réclamations rendra plus aisé de savoir si et de quelle manière le mécanisme de règlement des plaintes sera à même de les gérer. Cette étape 3 permet également d’évaluer le volume de ressources requis par le mécanisme de règlement des plaintes.</p>
+
+              <h2 class="Article-subheading-steps">Étape 4 : Définir la raison d’être et les objectifs du mécanisme de règlement des plaintes</h2>
+                <p class="Article-text">Dernière étape du processus initial de mise en œuvre, le personnel de l’entreprise travaillera de concert avec les membres de la communauté à apporter une réponse aux questions suivantes : « Pourquoi mettre en place un mécanisme de règlement des plaintes, et qu’espérons-nous réaliser à court et long termes ? » Ensemble, ils devront déterminer si des problèmes tels que des plaintes concernant des actes criminels, les conditions de travail, des litiges commerciaux ou des questions de politique gouvernementale relèvent ou non du champ d’application du mécanisme de règlement des plaintes communautaires.</p>
+                <p class="Article-text">Cette étape est importante pour forger une compréhension partagée entre la communauté et l’entreprise des problèmes que le mécanisme de règlement des plaintes traitera ou ne traitera pas. À cette fin, les rencontres au sein de la communauté et entre la communauté et l’entreprise sont essentielles. Si un consensus sur le mécanisme de règlement des plaintes ne peut être trouvé, alors l’une ou l’autre partie remettra la légitimité de cette procédure en cause et même le mécanisme de règlement des plaintes le mieux conçu ne fournira pas le retour d’information nécessaire à l’entreprise pour remédier aux inquiétudes de la communauté et parallèlement gérer les risques.</p>
+
+            <h2 class="Article-subheading anchor" id="building-trust">Créer la confiance dans un mécanisme de règlement des plaintes</h2>
+              <p class="Article-text-popup">S’agissant d’un mécanisme de règlement des plaintes, la confiance est une clé essentielle. Les gens ont besoin de savoir qu’il s’agit d’un lieu sûr où trouver réparation, que la confidentialité sera respectée et qu’ils ne feront l’objet d’aucune mesure de rétorsion de la part de l’entreprise ou des autres membres de la communauté pour avoir exprimé leurs préoccupations et participé au processus de règlement des différends. Par ailleurs, la participation à un </p>
+                <span class="Pop-up-text tooltip" title="Processus de réception, d’examen et de réponse relatif aux questions ou plaintes émanant de collectivités parties prenantes au sujet d’un projet particulier. Il est généralement élaboré, mis en œuvre et géré par l’entreprise exploitant le projet. Également connu sous le nom de « mécanisme de règlement des différends au niveau du projet ».">mécanisme de règlement des plaintes opérationnel
+                </span>
+              <p class="Article-text-popup">est toujours un acte volontaire ; les membres de la communauté doivent savoir qu’ils peuvent librement choisir de ne pas participer ou de cesser de participer sans crainte de représailles. Dans certaines circonstances particulièrement épineuses, il risque d’être nécessaire d’identifier, au sein de la communauté, un médiateur susceptible d’entendre la moindre allégation et d’y répondre, qu’il s’agisse de reproches proférés à l’égard du projet, de la présentation d’une plainte ou d’une insatisfaction.</p>
+              <p class="Article-text">La communication est également un élément clé de l’établissement de la confiance. Il est extrêmement important d’expliquer aux personnes, sans jamais masquer les aléas, ce à quoi elles peuvent s’attendre une fois qu’elles ont décidé de soumettre une plainte et ce que le requérant peut espérer du processus. Les étapes de la procédure seront clairement explicitées au requérant, en lui donnant des échéances précises, fréquentes et opportunes pour la communication des renseignements.</p>
+
+              <p class="Pullquote-left">Un mécanisme de règlement des plaintes efficace repose sur la confiance mutuelle établie entre les membres de la communauté et l’entreprise, et sur l’assurance que le dépôt d’une plainte n’aura pas de répercussions négatives sur le requérant.</p>
+
+              <p class="Article-text">Un manque de clarté sur la procédure risque de créer la confusion et de rendre le mécanisme de règlement des plaintes inefficace. Par exemple, une entreprise d’exploitation pétrolière et gazière au Moyen-Orient a mis en place un mécanisme de règlement des plaintes pour gérer les inquiétudes de la communauté sur les impacts du projet, dont le bruit, la circulation et la poussière. Elle a aussi créé un Conseil de développement local, composé d’autorités locales et de personnels de l’entreprise chargés des contrats et de la passation des marchés, aux fins de gérer les opportunités d’emploi. Mais, des membres de la communauté à la recherche d’opportunités dans le cadre du projet ont vu dans le mécanisme de règlement des plaintes un endroit où recevoir une attention particulière de la part du personnel chargé des relations avec la communauté ; ce dernier s’est senti obligé d’intervenir quand il aurait dû les orienter vers le Conseil de développement local. Ce malentendu a créé la confusion et a entaché l’efficacité tant du mécanisme de règlement des plaintes que du Conseil de développement local.</p>
+              <p class="Article-text">La gestion des attentes est tout aussi nécessaire à l’établissement et au maintien des relations de confiance. Les activités clés liées à la gestion des attentes incluent de discuter les divers scénarios de ce qu’un requérant peut escompter et d’exposer aux personnes, en amont et fréquemment, les limitations de la procédure.</p>
+              <p class="Article-text">Un mécanisme de règlement des plaintes efficace repose sur la confiance mutuelle établie entre les membres de la communauté et l’entreprise ainsi que sur l’assurance que le dépôt d’une plainte n’aura pas de répercussions négatives sur le requérant.</p>
+    </div><!-- end Text wrap -->
+      <div class="ResourceTile-wrap">
+        <h3 class="ResourceTile-wrap-heading">Outils Et Ressources Connexes</h3>
+            <div class="ResourceTile">
+              <div class="ResourceTile-header-tool">
+              <a class="ResourcesTile-link" href="/Tools/fr/Rìles-Responsabilites.docx">
+                <p class="ResourceTile-header-label">Outil</p>
+                <p class="ResourceTile-header-title">Rôles et responsabilités du personnel et des sous-traitants de l’entreprise dans le cadre du mécanisme de règlement des plaintes</p>
+              <svg class="ResourceTile-arrow" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="20" height="20.031" viewBox="0 0 20 20.031" fill="#fff" focusable="false" aria-hidden="true">
+                <path d="M20.000,18.484 C20.000,19.313 19.328,19.984 18.500,19.984 C17.672,19.984 17.000,19.313 17.000,18.484 L17.000,5.117 L2.550,19.556 C1.964,20.141 1.015,20.141 0.429,19.556 C-0.157,18.970 -0.157,18.021 0.429,17.436 L14.879,2.998 L1.499,2.998 C0.671,2.998 0.000,2.327 0.000,1.499 C0.000,0.671 0.671,-0.000 1.499,-0.000 L18.501,-0.000 C19.329,-0.000 20.000,0.671 20.000,1.499 C20.000,1.499 20.000,1.499 20.000,1.499 C20.000,1.500 20.000,1.500 20.000,1.500 L20.000,18.484 Z"/>
+              </svg>
+              </a>
+              </div>
+              <div class="ResourceTile-content">
+                <p class="ResourceTile-content-text">Déterminer qui est chargé des divers éléments de la mise en œuvre et du fonctionnement du mécanisme de règlement des plaintes</p>
+                <p class="ResourceTile-content-useful">Utile pour: <span class="ResourceTile-content-useful-item">les gestionnaires de l’entreprise</span>, <span class="ResourceTile-content-useful-item">le personnel d’exploitation</span>, <span class="ResourceTile-content-useful-item">le personnel exécutif d’un mécanisme de règlement des plaintes</span></p>
+              </div>
+            </div>
+
+          <div class="ResourceTile">
+            <div class="ResourceTile-header-casestudy">
+            <a class="ResourcesTile-link" href="/Tools/fr/NextOil.docx">
+              <p class="ResourceTile-header-label">Étude De Cas</p>
+              <p class="ResourceTile-header-title">Un projet d’exploration pétrolière et gazière dans une zone rurale agricole densément peuplée</p>
+              <svg class="ResourceTile-arrow" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="20" height="20.031" viewBox="0 0 20 20.031" fill="#fff" focusable="false" aria-hidden="true">
+                <path d="M20.000,18.484 C20.000,19.313 19.328,19.984 18.500,19.984 C17.672,19.984 17.000,19.313 17.000,18.484 L17.000,5.117 L2.550,19.556 C1.964,20.141 1.015,20.141 0.429,19.556 C-0.157,18.970 -0.157,18.021 0.429,17.436 L14.879,2.998 L1.499,2.998 C0.671,2.998 0.000,2.327 0.000,1.499 C0.000,0.671 0.671,-0.000 1.499,-0.000 L18.501,-0.000 C19.329,-0.000 20.000,0.671 20.000,1.499 C20.000,1.499 20.000,1.499 20.000,1.499 C20.000,1.500 20.000,1.500 20.000,1.500 L20.000,18.484 Z"/>
+              </svg>
+            </a>
+            </div>
+            <div class="ResourceTile-content">
+              <p class="ResourceTile-content-text">Cette étude de cas est particulièrement pertinente pour les projets/opérations dans leur phase d’exploration ou de développement ; situés dans une zone où la communauté locale tire ses revenus de de la terre (par ex., agriculture) ; devant faire massivement appel à des sous-traitants.</p>
+            </div>
+          </div>
+
+            <div class="ResourceTile">
+              <div class="ResourceTile-header-tool">
+              <a class="ResourcesTile-link" href="/Tools/fr/Termes-de-Reference.docx">
+                <p class="ResourceTile-header-label">Outil</p>
+                <p class="ResourceTile-header-title">Termes de référence d’un agent des griefs et d’un agent de liaison communautaire</p>
+              <svg class="ResourceTile-arrow" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="20" height="20.031" viewBox="0 0 20 20.031" fill="#fff" focusable="false" aria-hidden="true">
+                <path d="M20.000,18.484 C20.000,19.313 19.328,19.984 18.500,19.984 C17.672,19.984 17.000,19.313 17.000,18.484 L17.000,5.117 L2.550,19.556 C1.964,20.141 1.015,20.141 0.429,19.556 C-0.157,18.970 -0.157,18.021 0.429,17.436 L14.879,2.998 L1.499,2.998 C0.671,2.998 0.000,2.327 0.000,1.499 C0.000,0.671 0.671,-0.000 1.499,-0.000 L18.501,-0.000 C19.329,-0.000 20.000,0.671 20.000,1.499 C20.000,1.499 20.000,1.499 20.000,1.499 C20.000,1.500 20.000,1.500 20.000,1.500 L20.000,18.484 Z"/>
+              </svg>
+              </a>
+              </div>
+              <div class="ResourceTile-content">
+                <p class="ResourceTile-content-text">Déterminer les qualités et qualifications les mieux adaptées dont doit être doté le personnel dédié au mécanisme de règlement des plaintes ou identifier des membres du personnel tenant d’autres fonctions dans l’entreprise qui seraient les personnes contact les plus efficaces pour le mécanisme de règlement des plaintes</p>
+                <p class="ResourceTile-content-useful">Utile pour : <span class="ResourceTile-content-useful-item">les gestionnaires de l’entreprise</span>, <span class="ResourceTile-content-useful-item">les praticiens de mécanisme de règlement des plaintes</span></p>
+              </div>
+            </div>
+      </div>
+    <div class="Text-wrap">
+        <div class="Article-subtitle-wrap--short" id="section-5">
+          <p class="Article-subtitle-number">5</p>
+          <h3 class="Article-subtitle"><span class="Article-title">Objectif, conception et mise en œuvre</span><br>Faire du mécanisme de règlement des plaintes un instrument fonctionnel</h3>
+        </div>
+        <div class="Article-navigation">
+          <h6 class="Article-navigation-title">Aller À La Section</h6>
+          <ol class="Article-navigation-list">
+            <li class="Article-navigation-item"><a class="Article-navigation-item-link" href="#overview-5">Aperçu général</a></li>
+            <li class="Article-navigation-item"><a class="Article-navigation-item-link" href="#appeals">Le Comité d’appel</a></li>
+            <li class="Article-navigation-item"><a class="Article-navigation-item-link" href="#incentives">Incitations</a></li>
+          </ol>
+          <div class="Article-navigation-tear"></div>
+        </div>
+          <p class="Article-text anchor" id="overview-5">Après les étapes initiales d’élaboration conceptuelle d’un mécanisme de règlement des plaintes, d’établissement de relations de confiance et d’identification des points focaux clés au sein de l’entreprise et de la communauté, il est temps de se concentrer sur la structure. Le champ d’application et les buts du mécanisme de règlement des plaintes seront déterminés par la portée et la taille du projet. Si certains mécanismes de règlement des plaintes méritent d’être conséquents et complexes, car associés à de vastes projets compliqués, d’autres ne connaîtront pas cette nécessité.</p>
+
+          <img class="Article-figure" src="/assets/fr/Figure-section5a.svg" alt="Étapes du process du mécanisme de règlement des plaintes">
+
+          <p class="Article-text-popup">Un mécanisme de règlement des plaintes comporte six étapes de base (voir la Figure 4). Ces six étapes sont un nombre minimum pour un mécanisme fonctionnel. Dans certains cas, les plaintes seront gérées d’un bout à l’autre par l’agent des griefs (à gauche, sur l’organigramme de la Figure 3), sans nécessité de les transmettre à un autre </p>
+            <span class="Pop-up-text tooltip" title="Employé ou sous-traitant de l’entreprise à qui est confiée la responsabilité spécifique d’enquêter sur une plainte ou de mettre en œuvre des solutions. Il peut s’agir d’une personne en charge de la gestion d’un mécanisme de règlement des plaintes (Agent des griefs, dans ce document), ou d’une personne dotée, à titre personnel, d’une expertise particulière et affectée à la gestion d’une plainte.">propriétaire de plainte
+            </span>
+          <p class="Article-text-popup"> dans l’entreprise ni de les soumettre à un comité d’appel. Même sur des sites complexes, généralement seule une fraction des plaintes nécessite d’être soumise à appel, négociation ou médiation. Les différents stades du flux de travail normal d’un mécanisme de règlement des plaintes sont :</p>
+          <ol class="Article-list">
+            <li class="Article-list-item"><span class="Article-list-item-number">1</span><strong>Réception :</strong> une question ou une plainte émanant d’un ou plusieurs membre(s) de la communauté est reçue par l’Agent des griefs de l’entreprise.</li>
+            <li class="Article-list-item"><span class="Article-list-item-number">2</span><strong>Accusé de réception :</strong> l’Agent des griefs accuse réception de la plainte dans un délai spécifié (habituellement 3-5 jours ouvrés).</li>
+            <li class="Article-list-item"><span class="Article-list-item-number">3</span><strong>Évaluation et enquête :</strong> l’Agent des griefs procède à une évaluation de la plainte en temps opportun pour déterminer si le problème peut être résolu sans l’intervention d’autres membres du personnel de l’entreprise.
+              <ul class="Article-sublist">
+                <li class="Article-sublist-item"><span class="Article-sublist-item-text">Si tel est le cas, l’Agent des griefs est le propriétaire de la plainte.</span></li>
+                <li class="Article-sublist-item"><span class="Article-sublist-item-text">Dans le cas contraire, l’Agent des griefs confie la plainte à un autre membre du personnel qui en devient le propriétaire (habituellement quelqu’un du domaine d’activité dont relève la plainte).</span></li>
+              </ul>
+            En consultation avec le plaignant et tout spécialiste technique requis, le propriétaire de la plainte examine alors la requête pour déterminer les faits, qui en est responsable et ce qui peut être entrepris. Cette enquête constitue les éléments de base de la proposition de solution qui sera apportée à la plainte
+            </li>
+            <li class="Article-list-item"><span class="Article-list-item-number">4</span><strong>Règlement conjoint :</strong> en concertation avec le requérant et tout autre membre du personnel compétent de l’entreprise, le propriétaire de la plainte propose une solution qu’il présente au plaignant.
+              <ul class="Article-sublist">
+                <li class="Article-sublist-item"><span class="Article-sublist-item-text">Si la solution est rejetée, l’Agent des griefs ou le plaignant peut la présenter à un comité d’appel ; le plaignant peut aussi demander un recours par le biais d’un autre mécanisme (par ex., une procédure juridique).</span></li>
+              </ul>
+            </li>
+            <li class="Article-list-item"><span class="Article-list-item-number">5</span><strong>Mise en œuvre de la solution :</strong> si la solution est acceptée, elle est mise en œuvre.</li>
+            <li class="Article-list-item"><span class="Article-list-item-number">6</span><strong>Suivi et clôture:</strong> une fois un règlement trouvé, ou si le plaignant refuse la solution proposée et choisit d’engager une autre procédure, la plainte fait l’objet d’un suivi pendant une période raisonnable pour s’assurer que le requérant n’exprime pas d’autres préoccupations, puis, est close. Le processus de règlement de la plainte et ses résultats sont évalués par la direction ; cette évaluation fait partie intégrante non seulement de l’engagement liant l’entreprise et la communauté, mais aussi de l’appréciation des risques et de l’analyse stratégique.</li>
+          </ol>
+          <h2 class="Article-subheading anchor" id="appeals">Le Comité d’appel</h2>
+            <p class="Article-text">Les mécanismes de règlement des plaintes intègrent souvent des procédures d’appel permettant aux plaignants de solliciter d’autres voies de recours si la solution proposée par l’entreprise ne les satisfait pas. La procédure d’appel offre une chance de résoudre les plaintes complexes.</p>
+            <p class="Article-text">La première instance d’appel est souvent interne à l’entreprise. Là, pour éviter un conflit d’intérêts, la partie chargée d’entendre et d’examiner l’appel ne devra pas être celle qui a instruit la plainte en première instance et qui a travaillé à la recherche d’une méthode et d’une solution avec le requérant. Dans nombre de cas, la demande d’appel interjetée par le requérant sera traitée par des cadres supérieurs désignés au sein de l’entreprise pour régler des plaintes non résolues, mais n’ayant pas été impliqués antérieurement dans le problème en question.</p>
+            <p class="Article-text">Pour pallier le non-aboutissement de la procédure d’appel en interne, un mécanisme de règlement des plaintes peut aussi intégrer une voie d’appel externe comme option suivante de règlement. Intégrer cette option a des chances d’encourager les requérants à continuer leur quête d’une solution dans le cadre du mécanisme de règlement des plaintes, même dans les situations complexes ; c’est là un moyen d’éviter l’écueil de voir l’entreprise à l’origine du problème être de facto juge et partie avec peu de marge de manœuvre pour remédier au différend. Les voies de recours externes sont très variables et peuvent inclure l’intervention d’une tierce partie pour une médiation ou un arbitrage non exécutoire. Selon la culture et les coutumes locales, un recours externe pourra impliquer un chef tribal, un médiateur, un fonctionnaire digne de confiance, une personnalité religieuse ou autre.</p>
+            <p class="Article-text">L’entreprise et le requérant devront convenir des critères de sélection et des processus d’intervention de la tierce partie. Une intervention en amont générera une confiance de part et d’autre dans l’équité et l’impartialité de la procédure d’appel.</p>
+            <p class="Article-text">Si le recours à une tierce partie s’avère impossible ou ne fonctionne pas, le plaignant a encore à sa disposition les procédures judiciaires disponibles sans crainte de rétorsion ou de représailles.</p>
+
+            <p class="Pullquote-right">En tant que direction, vous jouez un rôle capital en participant à démontrer que la fonction du mécanisme de règlement des plaintes fait partie intégrante de la performance et de la réussite de votre entreprise.</p>
+
+          <h2 class="Article-subheading anchor" id="incentives">Incitations</h2>
+            <p class="Article-text">Dans le présent document, nous soulignons la nécessité que l’ensemble du personnel de l’entreprise soit conscient de l’importance des mécanismes de règlement des plaintes et soit impliqué dans le règlement des différends. Il n’en va pas de la seule personne chargée de la réception des plaintes et de la coordination du processus de mécanisme de règlement des plaintes, si tant est que quelqu’un soit dédié à cette fonction. Au bout du compte, l’objet de la majorité des plaintes recoupe des éléments techniques de l’activité d’une entreprise, signifiant par là qu’il sera demandé au personnel d’apporter une contribution au règlement des plaintes reçues. La direction joue un rôle important en veillant à ce que cette implication soit ressentie comme constructive grâce à des incitations judicieuses données à l’ensemble du personnel. Par exemple, lorsque des agents d’exploitation dépassent les délais convenus pour le règlement d’une plainte, leur attitude pourra être mentionnée lors des réunions régulières de département. Pour le personnel dépassant systématiquement les délais prescrits, ce comportement pourra constituer un point de référence lors de l’examen de leur performance, avec des conséquences sur l’octroi de récompenses. En revanche, le personnel qui participe régulièrement, dans le temps imparti, au règlement des plaintes en recevant de bons échos de la part des requérants peuvent se voir accorder une prime ou une récompense au titre de leurs efforts pour entretenir de bonnes relations partenariales avec les membres de la communauté. Toute entreprise a ses méthodes pour récompenser la bonne conduite et sanctionner les mauvais comportements, établissant ainsi une culture respectant les valeurs qu’elle juge importantes. Dans ce document, nous présentons les bonnes pratiques, mais, si elles ne sont pas accompagnées d’incitations tangibles données au personnel, elles ont de fortes chances de ne pas porter leurs fruits. En tant que direction, vous jouez un rôle capital en participant à démontrer que la fonction du mécanisme de règlement des plaintes fait partie intégrante de la performance et de la réussite de l’entreprise.</p>
+      </div><!-- end Text wrap -->
+        <div class="ResourceTile-wrap">
+          <h3 class="ResourceTile-wrap-heading">Outils et Ressources Connexes</h3>
+            <div class="ResourceTile">
+              <div class="ResourceTile-header-tool">
+              <a class="ResourcesTile-link" href="/Tools/fr/Evaluation.docx">
+                <p class="ResourceTile-header-label">Outil</p>
+                <p class="ResourceTile-header-title">Évaluation du mécanisme de règlement des plaintes</p>
+              <svg class="ResourceTile-arrow" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="20" height="20.031" viewBox="0 0 20 20.031" fill="#fff" focusable="false" aria-hidden="true">
+                <path d="M20.000,18.484 C20.000,19.313 19.328,19.984 18.500,19.984 C17.672,19.984 17.000,19.313 17.000,18.484 L17.000,5.117 L2.550,19.556 C1.964,20.141 1.015,20.141 0.429,19.556 C-0.157,18.970 -0.157,18.021 0.429,17.436 L14.879,2.998 L1.499,2.998 C0.671,2.998 0.000,2.327 0.000,1.499 C0.000,0.671 0.671,-0.000 1.499,-0.000 L18.501,-0.000 C19.329,-0.000 20.000,0.671 20.000,1.499 C20.000,1.499 20.000,1.499 20.000,1.499 C20.000,1.500 20.000,1.500 20.000,1.500 L20.000,18.484 Z"/>
+              </svg>
+              </a>
+              </div>
+              <div class="ResourceTile-content">
+                <p class="ResourceTile-content-text">Évaluer rapidement les points d’achoppement possibles des mécanismes de règlement des plaintes existants</p>
+                <p class="ResourceTile-content-useful">Utile pour : <span class="ResourceTile-content-useful-item">les spécialistes en mécanismes de règlement des plaintes</span></p>
+              </div>
+            </div>
+
+          <div class="ResourceTile">
+            <div class="ResourceTile-header-casestudy">
+            <a class="ResourcesTile-link" href="/Tools/fr/Omnicorp.docx">
+              <p class="ResourceTile-header-label">Étude De Cas</p>
+              <p class="ResourceTile-header-title">Un projet d’exploration minière au passé compliqué conduit par un nouveau propriétaire dans une zone rurale modérément peuplée</p>
+              <svg class="ResourceTile-arrow" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="20" height="20.031" viewBox="0 0 20 20.031" fill="#fff" focusable="false" aria-hidden="true">
+                <path d="M20.000,18.484 C20.000,19.313 19.328,19.984 18.500,19.984 C17.672,19.984 17.000,19.313 17.000,18.484 L17.000,5.117 L2.550,19.556 C1.964,20.141 1.015,20.141 0.429,19.556 C-0.157,18.970 -0.157,18.021 0.429,17.436 L14.879,2.998 L1.499,2.998 C0.671,2.998 0.000,2.327 0.000,1.499 C0.000,0.671 0.671,-0.000 1.499,-0.000 L18.501,-0.000 C19.329,-0.000 20.000,0.671 20.000,1.499 C20.000,1.499 20.000,1.499 20.000,1.499 C20.000,1.500 20.000,1.500 20.000,1.500 L20.000,18.484 Z"/>
+              </svg>
+            </a>
+            </div>
+            <div class="ResourceTile-content">
+              <p class="ResourceTile-content-text">Cette étude de cas est particulièrement intéressante pour les projets/opérations : confrontés à des problèmes hérités d’un opérateur antérieur ; à des questions de compensation ; caractérisés par une vaste empreinte foncière ; ou en phase d’exploration ou de développement.</p>
+            </div>
+          </div>
+
+            <div class="ResourceTile">
+              <div class="ResourceTile-header-tool">
+              <a class="ResourcesTile-link" href="/Tools/fr/Dejouer-obstacles.docx">
+                <p class="ResourceTile-header-label">Outil</p>
+                <p class="ResourceTile-header-title">Déjouer les obstacles courants contrariant la mise en œuvre d’un mécanisme de règlement des plaintes efficace</p>
+              <svg class="ResourceTile-arrow" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="20" height="20.031" viewBox="0 0 20 20.031" fill="#fff" focusable="false" aria-hidden="true">
+                <path d="M20.000,18.484 C20.000,19.313 19.328,19.984 18.500,19.984 C17.672,19.984 17.000,19.313 17.000,18.484 L17.000,5.117 L2.550,19.556 C1.964,20.141 1.015,20.141 0.429,19.556 C-0.157,18.970 -0.157,18.021 0.429,17.436 L14.879,2.998 L1.499,2.998 C0.671,2.998 0.000,2.327 0.000,1.499 C0.000,0.671 0.671,-0.000 1.499,-0.000 L18.501,-0.000 C19.329,-0.000 20.000,0.671 20.000,1.499 C20.000,1.499 20.000,1.499 20.000,1.499 C20.000,1.500 20.000,1.500 20.000,1.500 L20.000,18.484 Z"/>
+              </svg>
+              </a>
+              </div>
+              <div class="ResourceTile-content">
+                <p class="ResourceTile-content-text">Évaluer les obstacles susceptibles de rendre un mécanisme de règlement des plaintes inefficace et identifier les solutions possibles</p>
+                <p class="ResourceTile-content-useful">Utile pour: <span class="ResourceTile-content-useful-item">les gestionnaires</span>, <span class="ResourceTile-content-useful-item">le personnel d’exploitation</span>, <span class="ResourceTile-content-useful-item">le personnel exécutif d’un mécanisme de règlement des plaintes</span></p>
+              </div>
+            </div>
+        </div>
+      <div class="Text-wrap">
+        <div class="Article-subtitle-wrap" id="section-6">
+          <p class="Article-subtitle-number">6</p>
+          <h3 class="Article-subtitle"><span class="Article-title">Objectif, conception et mise en œuvre</span><br>Boucler la boucle : utiliser le retour d’informations généré par le mécanisme de règlement des plaintes pour améliorer les pratiques de l’entreprise</h3>
+        </div>
+        <div class="Article-navigation">
+          <h6 class="Article-navigation-title">Aller À La Section</h6>
+          <ol class="Article-navigation-list">
+            <li class="Article-navigation-item"><a class="Article-navigation-item-link" href="#overview-7">Aperçu général</a></li>
+            <li class="Article-navigation-item"><a class="Article-navigation-item-link" href="#closing-thoughts">Quelques réflexions en matière de conclusion</a></li>
+          </ol>
+          <div class="Article-navigation-tear"></div>
+        </div>
+          <p class="Article-text anchor" id="overview-7">Une fois réalisées la conception et la mise en place du mécanisme de règlement des plaintes, il est important de ne pas en rester là. En tant que direction, une façon de tirer le meilleur profit de l’investissement réalisé consiste à s’assurer que les informations associées aux plaintes sont utilisées à apporter les corrections aux problèmes effectifs ou potentiels rencontrés au fil des opérations. Par exemple, si en l’espace de quelques mois, plusieurs plaintes ont été déposées au sujet de l’extension de l’entreprise sur des terres dont elle pense lui appartenir, mais qui sont également revendiquées par des membres de la communauté, un conflit est probable. Les données du mécanisme de règlement des plaintes peuvent servir à déterminer si la préoccupation est liée à un endroit ou à un groupe particulier qui réclame l’attention de l’entreprise, ou s’il s’agit d’une problématique plus vaste concernant des titres fonciers relatifs à de multiples endroits et groupes de personnes et obligeant à un effort plus important, comme la constitution d’un comité multi-parties prenantes de compensation foncière.</p>
+
+          <p class="Article-text">Certains paramètres pouvant non seulement éclairer la politique et la réponse de l’entreprise, mais aussi mettre en évidence l’efficience du mécanisme de règlement des plaintes, incluent :</p>
+            <ol class="Article-list">
+              <li class="Article-list-item"><span class="Article-list-item-number">1</span>le délai moyen de réponse à un requérant (est-ce cohérent avec le délai de réponse visé ?) ;</li>
+              <li class="Article-list-item"><span class="Article-list-item-number">2</span>le délai moyen de règlement d’une plainte (est-ce cohérent avec la complexité de la plainte ?) ;</li>
+              <li class="Article-list-item"><span class="Article-list-item-number">3</span>la satisfaction globale ou l’insatisfaction du requérant sur le règlement apporté à sa plainte ;</li>
+              <li class="Article-list-item"><span class="Article-list-item-number">4</span>les coûts comparatifs des interruptions associées au projet avant et après la mise en œuvre du mécanisme de règlement des plaintes (ceci est un bon moyen de démontrer l’efficacité du mécanisme de règlement des plaintes) ;</li>
+              <li class="Article-list-item"><span class="Article-list-item-number">5</span>les plaintes selon leur lieu (par ex., un champ, une ville, un village, une municipalité) ;</li>
+              <li class="Article-list-item"><span class="Article-list-item-number">6</span>les plaintes selon l’unité (par ex., construction, sous-traitants, travailleurs agricoles, pipeline) ; et</li>
+              <li class="Article-list-item"><span class="Article-list-item-number">7</span>les plaintes selon leur objet (par ex., foncier, eau, bruit, compensation, pollution).</li>
+            </ol>
+          <p class="Article-text">D’autres questions à se poser incluent :</p>
+            <ol class="Article-list">
+              <li class="Article-list-item"><span class="Article-list-item-number">1</span>Dénote-t-on des tendances selon le lieu, l’unité ou l’objet des plaintes ?</li>
+              <li class="Article-list-item"><span class="Article-list-item-number">2</span>Si des tendances se profilent, le problème est-il très ciblé (par ex., la conduite trop rapide d’un chauffeur de camion) ou nécessitera-t-il une solution plus systémique (par ex., une odeur nauséabonde émanant d’installations agricoles lors de l’épandage d’engrais) ?</li>
+              <li class="Article-list-item"><span class="Article-list-item-number">3</span>Si les plaintes se concentrent autour de problématiques particulières, un département autre que celui des relations avec la communauté devrait-il s’investir davantage dans le règlement du différend ? Par exemple, si de nombreuses réclamations appellent à l’emploi d’un plus grand nombre de travailleurs locaux et à l’octroi de davantage de contrats aux sociétés de service locales, il sera difficile de progresser sans la participation du personnel chargé des contrats et de la passation des marchés.</li>
+              <li class="Article-list-item"><span class="Article-list-item-number">4</span>Quelle doit être la fréquence des réunions de la direction consacrées à l’examen des plaintes ? Faut-il rédiger un rapport et l’examiner lors de l’étape suivante d’un processus de gestion du changement ? Faut-il engager des consultants extérieurs pour aider à intégrer les conclusions dans une réorganisation du système de gestion ?</li>
+              <li class="Article-list-item"><span class="Article-list-item-number">5</span>Y a-t-il des changements opérationnels à apporter par la direction au niveau des sites pour répondre au fort volume de plaintes ? Par exemple, si les plaintes se concentrent surtout sur le bruit nocturne créé par l’activité, serait-il possible et efficace d’installer des dispositifs anti-bruit ou de modifier les horaires de travail de sorte que les activités bruyantes aient lieu uniquement pendant la journée ?</li>
+              <li class="Article-list-item"><span class="Article-list-item-number">6</span>Pour les entreprises à opérations multiples, y a-t-il des leçons à tirer des plaintes reçues sur un site particulier pouvant s’appliquer à d’autres sites ? Par exemple, si les citoyens expriment des inquiétudes sur l’équité du recrutement dans une activité particulière, ces informations pourraient-elles servir à élaborer des méthodes de recrutement plus participatives et transparentes dans les activités qui démarrent tout juste ?</li>
+            </ol>
+          <p class="Article-text">Les réponses à ces questions peuvent servir à apporter des modifications dans les opérations et la structure de gestion propres à faire diminuer la fréquence des plaintes.</p>
+
+          <p class="Article-text">Dès lors qu’une méthode est instaurée pour permettre à la direction de recevoir les informations générées par le mécanisme de règlement des plaintes et d’y réagir, il est important que la communauté et les autres parties prenantes concernées soient tenues informées du procédé mis en œuvre. Cette transparence permet de préserver la confiance. Elle aide aussi à garantir que, dès l’apparition de problèmes systémiques, la direction réagira, collectera l’ensemble des données et travaux de recherche y afférents et intégrera la contribution des membres de la communauté pour parvenir à une résolution efficace et juste des problèmes en cause.</p>
+
+          <h2 class="Article-subheading anchor" id="closing-thoughts">Quelques réflexions en matière de conclusion</h2>
+            <p class="Article-text">Les mécanismes de règlement des plaintes sont désormais une composante indispensable et souvent exigée dans les bonnes pratiques de responsabilité sociale des entreprises. Ils sont avantageux pour les entreprises et les communautés, quel que soit le secteur industriel concerné. Si des difficultés peuvent entravées la mise en place d’un mécanisme de règlement des plaintes, le processus et le mécanisme en tant que tels n’ont pas à être compliqués. Ajuster un mécanisme de règlement des plaintes à la réalité locale de sorte qu’il soit gérable et crédible aux yeux de l’ensemble des parties est l’un des meilleurs moyens d’en assurer la réussite.</p>
+            <p class="Article-text">En donnant des exemples de la façon dont d’autres s’y sont pris et en montrant quelques voies pratiques de mise en œuvre de principes plus larges, les outils de la présente boîte visent à servir de guide pour l’établissement et la mise en œuvre d’un mécanisme de règlement des plaintes. Ils sont configurés pour mettre le pied à l’étrier, étant entendu qu’ils doivent être modifiés en fonction de chaque contexte. Le tout est d’appuyer sur l’embrayage !</p>
+      </div><!-- end Text wrap -->
+        <div class="ResourceTile-wrap-last">
+          <h3 class="ResourceTile-wrap-heading">Outils Et Ressources Connexes</h3>
+           <div class="ResourceTile-two">
+              <div class="ResourceTile-header-tool">
+              <a class="ResourcesTile-link" href="/Tools/fr/Appui-au-pilotage.docx">
+                <p class="ResourceTile-header-label">Outil</p>
+                <p class="ResourceTile-header-title">Appui au pilotage des mécanismes de règlement des plaintes</p>
+              <svg class="ResourceTile-arrow" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="20" height="20.031" viewBox="0 0 20 20.031" fill="#fff" focusable="false" aria-hidden="true">
+                <path d="M20.000,18.484 C20.000,19.313 19.328,19.984 18.500,19.984 C17.672,19.984 17.000,19.313 17.000,18.484 L17.000,5.117 L2.550,19.556 C1.964,20.141 1.015,20.141 0.429,19.556 C-0.157,18.970 -0.157,18.021 0.429,17.436 L14.879,2.998 L1.499,2.998 C0.671,2.998 0.000,2.327 0.000,1.499 C0.000,0.671 0.671,-0.000 1.499,-0.000 L18.501,-0.000 C19.329,-0.000 20.000,0.671 20.000,1.499 C20.000,1.499 20.000,1.499 20.000,1.499 C20.000,1.500 20.000,1.500 20.000,1.500 L20.000,18.484 Z"/>
+              </svg>
+              </a>
+              </div>
+              <div class="ResourceTile-content">
+                <p class="ResourceTile-content-text">Trouver des ressources et des définitions pour les différents éléments constitutifs d’un mécanisme de règlement des plaintes ainsi que des réponses aux questions les plus fréquentes</p>
+                <p class="ResourceTile-content-useful">Utile pour : <span class="ResourceTile-content-useful-item">les gestionnaires de l’entreprise</span>, <span class="ResourceTile-content-useful-item"> le personnel d’exploitation</span>, <span class="ResourceTile-content-useful-item">le personnel exécutif d’un mécanisme de règlement des plaintes</span></p>
+              </div>
+            </div>
+
+          <div class="ResourceTile-two">
+            <div class="ResourceTile-header-casestudy">
+              <a class="ResourcesTile-link" href="/Tools/fr/WorldPorts.docx">
+                <p class="ResourceTile-header-label">Étude De Cas</p>
+                <p class="ResourceTile-header-title">Une installation portuaire dans une région rurale reculée où vit une importante population autochtone</p>
+                <svg class="ResourceTile-arrow" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="20" height="20.031" viewBox="0 0 20 20.031" fill="#fff" focusable="false" aria-hidden="true">
+                <path d="M20.000,18.484 C20.000,19.313 19.328,19.984 18.500,19.984 C17.672,19.984 17.000,19.313 17.000,18.484 L17.000,5.117 L2.550,19.556 C1.964,20.141 1.015,20.141 0.429,19.556 C-0.157,18.970 -0.157,18.021 0.429,17.436 L14.879,2.998 L1.499,2.998 C0.671,2.998 0.000,2.327 0.000,1.499 C0.000,0.671 0.671,-0.000 1.499,-0.000 L18.501,-0.000 C19.329,-0.000 20.000,0.671 20.000,1.499 C20.000,1.499 20.000,1.499 20.000,1.499 C20.000,1.500 20.000,1.500 20.000,1.500 L20.000,18.484 Z"/>
+              </svg>
+            </a>
+            </div>
+            <div class="ResourceTile-content">
+              <p class="ResourceTile-content-text">Ce cas est particulièrement utile pour les projets/opérations situés dans une zone où les points de vue de la communauté sur les activités sont divisés ; dans une communauté où la population autochtone est importante ; dans une zone reculée.</p>
+            </div>
+          </div>
+        </div>
+      </div><!-- end Main -->
+  </div><!-- end Main-wrap -->
+
+  <div class="Footer">
+  <div class="Footer-top">
+    <div class="Footer-content">
+      <img class="Footer-logo" src="/assets/logo-2x.png" alt="CAO Logo">
+      <p class="Footer-text">Le CAO aide à gérer les préoccupations des communautés qui s’estiment affectées par des projets SFI/AMGI aux fins d’améliorer les performances sociales et environnementales sur le terrain.</p>
+      <a class="Footer-cta" href="/fr/about-cao">En Savoir Plus Sur Nous</a>
+    </div>
+    <div class="Footer-logos">
+      <img class="Footer-logos-logo" src="/assets/fr/logo-wbg.png" alt="World Bank Logo">
+      <img class="Footer-logos-logo" src="/assets/fr/logo-ifc.png" alt="International Finance Corporation Logo">
+      <img class="Footer-logos-logo" src="/assets/fr/logo-miga.png" alt="Multilateral Investment Guarantee Agency">
+    </div>
+  </div>
+  <div class="Footer-bottom">
+    <p class="Footer-legaltext">Les informations contenues dans cette boîte à outils sont fournies exclusivement à titre de référence et de guide à destination d’utilisateurs désireux de développer un mécanisme de règlement des plaintes. Le CAO, en consultation avec des spécialistes en la matière, a élaboré cette boîte à outils de manière à ce qu’elle serve d’assise à la création de mécanismes de règlement des plaintes répondant à des conditions et capacités locales spécifiques. Comme pour tout guide, la mise en pratique réussie des outils de cette boîte dépend de nombreux facteurs allant outre le contenu du présent document et le CAO n’assume aucune responsabilité quant à l’application de ce guide à un contexte particulier, non plus qu’il n’avalise un quelconque mécanisme de règlement des plaintes instauré à l’aide de ce guide.</p>
+    <p class="Footer-legaltext">Les constations, interprétations et conclusions exprimées ici sont celles des auteurs et ne reflètent pas nécessairement les vues des Administrateurs du Groupe de la Banque mondiale ou des gouvernements qu’ils représentent. Le CAO ne garantit pas l’exactitude des données contenues dans le présent document. Les frontières, couleurs, dénominations et autres informations mentionnées sur les cartes insérées dans le présent ouvrage n’impliquent aucun jugement de la part du CAO sur le statut juridique d’un quelconque territoire ni aucune validation ou acceptation de ces frontières.</p>
+    <p class="Footer-legaltext">&copy; 2016 Bureau du Conseiller-médiateur pour l’application des directives</p>
+    <p class="Footer-legaltext">Tous droits réservés.</p>
+  </div>
+</div>
+
+
+  <script type="text/javascript" src="/assets/main.js"></script>
+
+  </body>
+</html>

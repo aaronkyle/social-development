@@ -6,13 +6,13 @@ This work focuses on mechanisms within the [Independent Accountability Mechanism
 
 
 <p>
-  <a class="btn btn-primary" data-toggle="collapse" href="#terminology-toggle" role="button" aria-expanded="false" aria-controls="iam-member-toggle">
-    A brief aside about terminology
+  <a class="btn btn-primary" data-toggle="collapse" href="#iam-member-toggle" role="button" aria-expanded="false" aria-controls="iam-member-toggle">
+    IAM Membership
   </a>
 </p>
 <div class="collapse" id="iam-member-toggle">
   <div class="card card-body">
-<p>Members of <a href="http://independentaccountabilitymechanism.net/">IAMnet</a> currently include:<br /><sup><a href="http://applied-anthro.com/context/accountability-mechanisms/site/index.html">[TABLE VIEW]</a>.</sup></p>
+<p>Members of <a href="http://independentaccountabilitymechanism.net/">IAMnet</a> currently include:<br /><sup><a href="http://applied-anthro.com/context/accountability-mechanisms/site/index.html">[ALT. TABLE VIEW]</a>.</sup></p>
 
 <ul>
   <li>African Development Bank (AfDB) - <a href="https://www.afdb.org/en/about-us/organisational-structure/independent-review-mechanism-irm/">Independent Review Mechanism</a> (IRM)
@@ -59,7 +59,7 @@ This work focuses on mechanisms within the [Independent Accountability Mechanism
 </div>
 
 
-Work on this repository is in its very early stages. I am currently still culling data from across IAM member pages:
+Please note that work on this repository is in its very early stages. I am currently still culling data from across IAM member pages:
 
 * [`adb`](./adb_am/) <!-- included in Susan Park's database -->
 * [`afdb`](./afdb_irm/) <!-- included in Susan Park's database -->
@@ -69,9 +69,9 @@ Work on this repository is in its very early stages. I am currently still cullin
 * [`idb_iic`](./idb-iic_mici/) <!-- included in Susan Park's database -->
 * [`world-bank.md`](./wbg_idb-ida_ip/) <!-- included in Susan Park's database -->
 
-**NOTE:** Just a bit after I began this project, [Susan Park](https://susanmpark.com/) [published a database of claims submitted to MDB accountability mechanisms between 1994 and 2016](https://susanmpark.com/database-multilateral-development-banks-accountability-mechanisms).  I'll eventually cross-reference this resource).
+**NOTE:** Just a bit after I began this project, [Susan Park](https://susanmpark.com/) [published a database of claims submitted to MDB accountability mechanisms between 1994 and 2016](https://susanmpark.com/database-multilateral-development-banks-accountability-mechanisms).  I'll eventually cross-reference my work against this resource&mdash;thank you, Dr. Park.  It might also be interesting to re-create [Glass Half Full](https://www.ciel.org/reports/glass-half-full-the-state-of-accountability-in-development-finance-jan-2016/).
 
-I would ulitmately like to build a tool that pulls and re-organizes these data into a common framework.
+I would ulitmately like to build a tool that pulls and re-organizes these data into a common framework. [I am working toward this end on Observable](https://observablehq.com/collection/@aaronkyle/independent-accountability-mechanisms-iam).
 
 
 --

@@ -57,3 +57,8 @@ Indigenous Peoples [[PDF]](http://www.adb.org/Documents/Guidelines/IndigenousPeo
 -->
 
 
+
+---
+
+
+* [Guidelines for Preparing a Design and Monitoing Framework](https://www.adb.org/sites/default/files/institutional-document/32509/guidelines-preparing-dmf.pdf)

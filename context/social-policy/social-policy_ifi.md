@@ -880,6 +880,7 @@ Earlier versions of IFC's environmental and social policies, procedures, and sta
 
 * [Global Reporting Initiative Guidelines](http://www.globalreporting.org/)
 
+<!--
 
 <hr />
 
@@ -904,6 +905,22 @@ Earlier versions of IFC's environmental and social policies, procedures, and sta
 <a name="opic-policy"></a>
 ### Policy
 
+-->
+
+<!-- 
 * [Environmental and Social Policy Revision: Letter from the President](http://www.opic.gov/doing-business/investment/environment/policy_revision#final_policy_statement)
 
 * [Final Environmental and Social Policy Statement](http://www.opic.gov/sites/default/files/docs/final_environmental_social_policy_statement.pdf)
+
+* [Environmental, Health, and Safety Guidelines for Wind Energy ](https://www.ifc.org/wps/wcm/connect/efbb318047609b26b7e4b72fbd86d19b/EHS_WindEnergy_English_2015Update-clean.pdf?MOD=AJPERES)
+
+* [ENVIRONMENTAL, HEALTH, AND SAFETY GUIDELINES FOR
+PERENNIAL CROP PRODUCTION
+](https://www.ifc.org/wps/wcm/connect/ef0d4b804c3c5ad9bcb9bed8bd2c3114/English_2016_Perennial+Crop+Production_EHS.pdf?MOD=AJPERES)
+
+* [World Bank Group Environmental, Health & Safety Guidelines101](https://www.ifc.org/wps/wcm/connect/a99ab8804365b27aa60fb6d3e9bda932/EHS-Guidelines+101-Webinar.pdf?MOD=AJPERES)
+
+* [Environmental, Health, and Safety (EHS) Guidelines: GENERAL EHS GUIDELINES: OCCUPATIONAL HEALTH AND SAFETY](https://www.ifc.org/wps/wcm/connect/9aef2880488559a983acd36a6515bb18/2%2BOccupational%2BHealth%2Band%2BSafety.pdf?MOD=AJPERES)
+
+* 1984. [Occupational Health & Safety Guidelines](http://documents.worldbank.org/curated/en/966921468765606279/pdf/multi0page.pdf)
+-->

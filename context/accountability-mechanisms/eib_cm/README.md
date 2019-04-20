@@ -10,6 +10,84 @@ EIB [rules governing complaints](http://www.eib.org/infocentre/publications/all/
 
  ----
 
+[REFERENCE](http://siteresources.worldbank.org/EXTINSPECTIONPANEL/Resources/Rio20_IAMs_Contribution.pdf "Citizen-driven Accountability for Sustainable Development")
+
+Complaints Mechanism of the European Investment Bank 
+
+The EIB Complaints Mechanism is a vital tool of horizontal accountability of the EIB Group vis-à-vis its stakeholders for the handling of complaints concerning its activities. It aims at providing the public with procedures enabling the alternative and pre-emptive resolution of disputes between the latter and the EIB Group, including adequate engagement with stakeholders. It provides recourse for people affected by EIB decisions, actions or omissions. Individuals, organisations or corporations that have concerns about the EIB Group’s activities can use the EIB Complaints Mechanism for help. When exercising the right to lodge a complaint against the EIB, any member of the public has access to a two-tier procedure:
+Internal - a complaint against the EIB is at first handled internally by the Complaints Mechanism Division (EIB-CM), which will seek a solution to the case and may advise the EIB on remedial and/or corrective action, if necessary.
+External – in case of failure of the EIB-CM to find a solution and/or to provide an appropriate response, escalation of the complaint is possible to a separate, fully independent European Union institution, the European Ombudsman.
+In order to strengthen the EIB’s Complaints Mechanism, the EIB and the EO signed a Memorandum of Understanding (MoU) in 2008 which achieves a common understanding of purpose and consistency of application across the internal and the external parts of the complaints mechanism.
+
+
+The European Ombudsman
+
+The European Ombudsman (EO) was created by the Maastricht Treaty of 1992 as an EU institution with power to investigate maladministration by any EU institution (including the EIB). Maladministration includes failure to comply with human rights, with the applicable law, or with the principles of good administration. Good administration includes, for example, acting fairly and in accordance with announced policies, providing information on request, and avoiding unnecessary delay. An investigation may be opened on the basis of a complaint or the EO‟s own initiative. 
+
+The EO is one of the key instruments of public or “horizontal” accountability of the Union‟s institutions. The Amsterdam treaty in 1997 and the Nice Treaty in 2001 further strengthened the accountability of the institutional framework of the EU. With the entry into force of the Lisbon Treaty in December 2009, the Charter of Fundamental Rights of the European Union became legally binding.
+
+When maladministration is found, the EO tries to find a friendly solution. If not possible, the EO may make public criticisms and recommendations, including special reports to the directlyelected
+European Parliament.
+
+
+EIB-CM
+
+In February 2010, the EIB Board of Directors approved the revised “EIB Complaints Mechanism Principles, Terms of Reference and Rules of Procedure” (CMPTR), which were based on the MoU between the EIB and the EO and were subject to extensive public consultation.
+
+The EIB-CM internal Operating Procedures have been submitted for consultation to the European Ombudsman and approved by the EIB Management Committee in November 2011. The procedures fully implement the CMPTR and aim (i) at clarifying, improving and formalising current processes, (ii) to facilitate, streamline and better ensure handling of complaints, and (iii) facilitate a better cooperation among the relevant internal and external stakeholders.
+
+The mission of the EIB-CM is to centrally and objectively deal with all complaints from the public concerning alleged maladministration by the EIB, to ensure that stakeholders dispose of appropriate means with a view to voicing their concerns in case of disputes with the EIB and to provide the adequate forum for problem-solving
+in relation to the issues raised.
+
+The EIB-CM is independent from operational activities and ensures that each complaint is dealt with by the highest standards of objectiveness. It reviews the admissibility of each complaint and decides which procedures to follow. Its findings, conclusions and recommendations are submitted to the EIB Management Committee or to the EIF Chief Executive for EIF related complaints. Its annual Activity Report is submitted to the EIB Board of Directors.
+
+
+
+Guiding Principles 
+* Subject to any applicable legal constraints, the EIB Complaints Mechanism shall be transparent in its operations and outputs.
+* The EIB Complaints Mechanism shall be independent of the services, which are responsible for the activities challenged by the complainant.
+* The EIB Complaints Mechanism shall be effective in responding in a timely manner to concerns expressed by people being or feeling affected by EIB decisions.
+* The EIB Complaints Mechanism shall be part of the institutional context of the European Union.
+* The EIB Complaints Mechanism shall be accessible to affected people, their representatives and/or interested organisations or individuals.
+* In the light of these principles, the development of the EIB Complaints Mechanism shall be the result of an open consultative process with EIB‟s various stakeholders. 
+
+
+
+Roles
+
+* Mediation – If agreed by all parties involved, the EIB-CM can facilitate different forms of collaborative resolution processes between the Complainants/Requestors and the Bank‟s Management/Services and/or Project Promoter and/or national authorities as appropriate.
+* Investigation – The EIB-CM may perform investigations / compliance reviews to determine the EIB‟s compliance with applicable rules, regulations and other provisions, such as polices and standards and, if applicable, to evaluate the adequacy of the relevant provisions.
+* Monitoring – The EIB-CM follows-up on further developments and implementation of
+proposed corrective actions and recommendations, accepted by the EIB.
+* Advisory – Within the scope of its responsibilities, the EIB-CM provides advice to the EIB Governing Bodies on broader and systemic issues related to policies, standards, procedures, guidelines, resources, and systems, on the basis of lessons learned from the complaints handling.
+Complainants may specifically ask for mediation or investigation or a combination of the two. The EIB-CM decides on the procedures to follow, taking into account the specific requests, the opportunities for mediation and the need to assess compliance.
+
+
+Outcomes
+
+The EIB-CM is committed to conducting assessments, followed by investigations and or consultative resolution processes if deemed necessary, into all admissible complaints and to engaging with all stakeholders as necessary in order to arrive at an informed and reasoned opinion and, if possible, to a solution of the problem. The results of the EIB-CM process may be any combination of:
+* No problem(s) found / No further action required
+* Problem solved during the complaint handling process
+* The recommendation of corrective action(s)
+* The recommendation of improvements to EIB existing policies or
+procedures.
+Other outcomes are: the systemic observations in terms of corporate learning; the follow-up in terms of implementation of recommendations; public awareness in terms of publication and outreach and awareness sessions.
+
+
+Processing and Output
+
+The process for handling complaints will be modulated according to (i) the complexity of the complaint, (ii) the existence of “red flags” indicating that the complaint could be grounded and (iii) facts revealed during the assessment / investigation process.
+The first step is an Initial Assessment phase to determine the seriousness of the concerns raise. If justified, an investigation, including a compliance review, will take place. If deemed necessary and useful, this investigation / compliance review may be supplemented by other problem solving and mediation techniques, with a view to properly address the issues raised. At the end of the complaint handling process the EIB-CM produces its final Conclusions Report.
+For complaints regarding EIB lending operations a more extensive and formal process applies, with an Initial Assessment Report produced with a decision whether or not to proceed and a clear outline of the course of action proposed.
+Both the Initial Assessment Report and the Conclusions Report are submitted in draft form for comments to the relevant stakeholders. During the handling of the complaint, the EIB-CM may produce an internal interim report for the attention of the Management Committee, with specific recommendations if applicable.
+
+
+
+
+
+
+---- 
+
  ## [Complaints mechanism cases](http://www.eib.org/about/accountability/complaints/cases/index.htm)
 
 <table>

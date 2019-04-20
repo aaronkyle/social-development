@@ -6,6 +6,104 @@
 
 
 ---
+[ReFERENCE](http://siteresources.worldbank.org/EXTINSPECTIONPANEL/Resources/Rio20_IAMs_Contribution.pdf "Citizen-driven Accountability for Sustainable Development")
+
+
+In 2003, the Asian Development Bank (ADB) created the Accountability Mechanism (AM) to replace the Inspection Function and to provide an independent
+forum where people adversely affected by ADB-assisted projects can voice and resolve their problems and can report alleged noncompliance of ADB with its
+operational policies and procedures. The AM is part of ADB’s efforts to enhance development effectiveness and improve project quality by being responsive
+to the concerns of people affected by projects, and by being fair and transparent to all stakeholders. The Mechanism has two separate phases: the
+Consultation and the Compliance Review phases. The ADB Accountability Mechanism is currently under review. More information at: www.compliance.adb.org
+
+
+The Office of the Special Project Facilitator – the Consultation Phase 
+
+ Mandate:
+
+Promotes consensus-based problem solving, seeking
+agreement among all parties in identifying the matters in dispute, ways to
+resolve the problems, and the time frame required. People who believe that
+they have been adversely affected by an ADB-assisted project can use the
+consultation process regardless of whether ADB‟s operational policies and
+procedures have been violated. However, complainants must first attempt to
+resolve their problems in good faith with the assistance of the concerned
+ADB operations department.
+
+### Problem-Solving Activities:
+
+ OSPF seeks consensus among stakeholders – including ADB, the
+complainant, the executing agency, and the developing member country
+government or the private project sponsor regarding the complaint, the
+acceptable method for resolution, and the time frame for resolution.
+
+ It uses flexible problem-solving approaches, including convening meetings
+with various stakeholders, organizing consultation processes, and engaging
+in a fact-finding review of the situation.
+
+ It suggests actions to deal with the complaint directly.
+
+### Problem-Prevention Activities:
+
+In addition to its prominent role in handling complaints from project-affected
+people, OSPF is also mandated to carry out proactive activities intended to
+strengthen the internal problem-solving capacity of ADB‟s operations
+departments. These activities include:
+
+ Collating and integrating internal and external problem-solving experiences
+to be fed back into ADB operations, including the formulation, processing,
+and implementation of projects;
+
+ Providing generic problem-solving support and advice to the operations
+departments, but not for specific cases under review by those departments;
+and
+
+ Conducting outreach programs to the public.
+OSPF is headed by the Special Project Facilitator, who is independent of the
+operations departments and reports directly to the ADB President. 
+
+Compliance Review Phase and the Compliance Review Panel
+
+### Mandate:
+Provides a mechanism through which project-affected people (and in
+special circumstances, any Board member) can file filing requests for compliance
+review if they believe that ADB has not followed its policies and procedures.
+
+### Functions:
+
+• Compliance reviews focus on whether ADB has or has not complied with its
+operational policies and procedures in connection with the particular project under
+compliance review. They do not investigate the borrowing country, the executing
+agency, the borrower, or the private project sponsor.
+•The Compliance Review Panel (CRP) investigates alleged violations by ADB of its
+operational policies and procedures in any ADB-assisted project that directly,
+materially, and adversely affect local people in the course of the formulation,
+processing, or implementation of the project.
+
+### Activities of the CRP:
+
+  * Receiving and determining the eligibility of a request for compliance review
+  * Engaging with all project stakeholders to thoroughly understand relevant issues
+  * Conducting thorough and objective reviews of policy and procedural compliance
+  * Coordinating with co-financing institution compliance review mechanisms
+  * Issuing draft compliance reports and seeking comments from ADB Management
+and requesters
+  * Issuing final reports to the Board with its findings and recommendations
+  * Informing requesters of the Board‟s decision
+  * Monitoring the implementation of the Board approved recommendations and
+providing requesters with monitoring reports
+  * Issuing annual reports
+  * Developing a roster of independent technical experts for carrying out its work
+  * Liaising with accountability mechanisms at other institutions
+
+### Secretariat
+
+The Office of the Compliance Review Panel (OCRP) provides secretariat support to
+the CRP and is responsible for conducting outreach and inreach on compliance
+review.
+
+
+
+---
 
 ## [Compliance Review Function](https://www.adb.org/site/accountability-mechanism/compliance-review-function)
 

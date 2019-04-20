@@ -1,4 +1,39 @@
 
+[REFERENCE](http://siteresources.worldbank.org/EXTINSPECTIONPANEL/Resources/Rio20_IAMs_Contribution.pdf "Citizen-driven Accountability for Sustainable Development")
+
+
+The Inspection Panel was established by identical Resolutions of the Boards of Executive Directors of IBRD and IDA in 1993. In response to
+complaints from project-affected communities, IPN is an independent, “bottom-up” accountability and recourse mechanism that investigates
+IBRD/IDA financed projects to determine whether the Bank has complied with its operational policies and procedures (including social and
+environmental safeguards), and to address related issues of harm. Find out more at: www.inspectionpanel.org
+
+
+Mission, Roles, Responsibility and Areas of Focus 
+
+ Mission: Serve as independent forum to provide accountability and recourse for communities affected by IBRD/IDA-financed projects, to address harms resulting from policy non-compliance, and to help improve development effectiveness of WBG operations. Promote more inclusive and sustainable development by giving project-affected people, including those who are often poor and most vulnerable, greater voice in Bank-financed projects that affect them.
+
+* Roles, Responsibility and Areas of Focus (for details see “The Inspection Panel at 15 Years”, 2009):
+  -  Independent fact-finding, accountability and recourse: In response to complaints from project-affected communities, independently investigates whether Bank Management has complied with its operational policies and procedures in projects financed by IBRD/IDA, and whether harm has resulted from non-compliance.
+  -  Problem-solving for affected people: In addition to its well known role in assessing compliance, the Panel process plays a critical role in helping to resolve problems facing project-affected people. Problemsolving occurs at various stages: pre-registration (affected people must approach Management first); eligibility; investigation; and follow-up. The process places responsibility and creates opportunities for Management to take effective responsive actions to address problems. The Panel is considering additional options to enhance opportunities for problem solving under its process.
+  -  Check and balance for Board: Provides an independent, technically based check and balance for Board on situation(s) relating to compliance and harm in project operations.
+  -  Transparency and participation: Promotes transparency in Bank operations through publication of reports and findings, and by serving as independent venue for affected people to raise concerns to highest decision-making levels of Bank. 
+
+
+* Key outputs and practices:
+  - Eligibility reports: Assesses eligibility of Requests for Inspection through Eligibility Reports, which contain a recommendation on whether to investigate the matters alleged in Request. The “eligibility” stage also yields an initial Management Response to the Request, and important opportunities for early problem-solving.
+  - Investigation reports and findings: Independent investigation and fact-finding assesses project-level policy compliance, and leads to remedies for harm to people and environment. Findings reported directly to the Board.
+  - Bank Management Responses and Action Plan: In response to Panel findings on compliance and harm, Bank Management prepares Response and Action Plan (with Government) to address findings. Reports and findings are made available to requesters, affected people and the public
+  - Systemic Observations, Corporate Learning: Investigation Reports and Management Responses include systemic observations and lessons learned which promote corporate learning and transparency through their publication.
+  - Public Awareness: Produces publications to inform public of its activities and for outreach (Annual Report, press releases, etc).
+  - Institution-wide incentives/impacts: Creates ongoing incentives for institution to comply with policies and procedures, including social and environmental safeguards; supports overall Bank mission to fight poverty and helps Bank avoid actions causing reputational risk.
+
+* The Inspection Panel engages with the following internal and external stakeholders:   - Board (reports directly to the Board);
+  - Management (independent, investigates compliance, interactive approach to problemsolving, fact-finding and lessons-learned);
+  - External Stakeholders (the Inspection Panel gives voice to project affected people and builds awareness through outreach).
+
+
+
+---
 
 
 <table>													

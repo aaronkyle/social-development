@@ -13,7 +13,7 @@ This repository compiles (and attempts to establish some manner of categorising)
 <div class="collapse" id="terminology-toggle">
   <div class="card card-body">
 
-<p>In policy, terminology is important. Comparative analysis of social policy is a particularly challenging topic for maintaining terminological clarity and consistency. Over the years, I have worked to develop my own definitions for terms used in social policy (refer to the original <a href="http://applied-anthro.com/">applied-anthro</a> website) to ensure clarity and continuity in my writing. This lexicon is influenced by the IFI definitions, but it is adapted to accommodate discussion of broad phenomenological concerns.</p>
+<p>In policy, terminology is important. Comparative analysis of social policy is a particularly challenging topic for maintaining terminological clarity and consistency. Over the years, I have worked to develop my own definitions for terms used in social policy to ensure clarity and continuity in my writing. This lexicon is influenced by the IFI definitions, but it is adapted to accommodate discussion of broad phenomenological concerns.</p>
 
 <p>Toward defining 'social policy', most IFIs maintain some form of <a href="">operations manual</a>&mdash;policies for effecting the mandates of their institutional charters. In addition to board-approved policies and regulations, some IFI operations manuals also include notes of guidance staff and clients that elaborate on the intended meaning of policy provisions and to inform better implementation.</p>
 

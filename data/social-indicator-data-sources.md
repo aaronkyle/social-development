@@ -210,3 +210,13 @@ Site provides access to several hundred indicators for over 200 countries and 18
 
 Contains health and health-related epidemiological and statistical information.
 
+---
+
+[Canadian Occupational Projection System (COPS) - 2017 to 2026 projections](https://open.canada.ca/data/en/dataset/e80851b8-de68-43bd-a85c-c72e1b3a3890)
+
+Employment and Social Development Canada (ESDC) uses the models of the Canadian Occupational Projection System (COPS) and the National Occupational Classification (NOC, 2016 version) to develop projections of future trends in the numbers of job openings and job seekers by occupation at the national level. The projections allow for identifying those occupations that may face labour shortage or labour surplus conditions over the medium term. The latest projections cover the 2017 to 2026 period.
+
+Publisher: Employment and Social Development Canada
+Licence: [Open Government Licence - Canada](http://open.canada.ca/en/open-government-licence-canada)
+
+

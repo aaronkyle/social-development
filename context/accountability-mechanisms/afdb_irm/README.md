@@ -15,6 +15,45 @@ B.kargougou@afdb.org copie à S.toure@afdb.org  <br/>
 Tel: +225 20 26 20 56
 
 
+---
+
+[REFERENCE](http://siteresources.worldbank.org/EXTINSPECTIONPANEL/Resources/Rio20_IAMs_Contribution.pdf "")
+
+The Independent Review Mechanism (IRM) was established by the Boards of Directors of the African Development Bank Group
+(AfDB) in 2004. The Boards of Directors approved the IRM Operating Rules and Procedures in 2006 and their amendments in 2010.
+The IRM became operational in 2006 upon the appointment of the Director of the Compliance Review and Mediation Unit (CRMU) who
+administers the IRM. The IRM website is accessible at: www.afdb.org/irm
+
+
+Mission and Structure
+
+
+ Mandate: The IRM was established to provide people with the opportunity to lodge their complaints to the AfDB in case they suffer harm from any of the Bank financed projects and as a result of non compliance with the Bank‟s Groups policies and procedures.
+
+ Functions: The IRM handles the complaints through problem solving and/or compliance review. The objective of the problem solving is to restore an effective dialogue between the complainants, the AfDB and other interested parties in the project to reach an agreeable solution to the problems complained about. The objective of the compliance review is to verify whether or not the complained about harm is inflicted due to non compliance with the AfDB‟s policies and procedures. The CRMU is also mandated to conduct outreach activities to raises awareness of the IRM‟s mandate and procedures among project affected people, governments, Civil Society Organizations and project promoters and the Bank staff.
+
+ Structure: The IRM is administered by the Director of CRMU. The Director is appointed by the President of AfDB in concurrence with the Boards of Directors for a five years term renewable once. The Director reports administratively to the President and functionally to the Boards of Directors. The CRMU assesses and registers the received complaints. The Director facilitates the problem solving and monitors the implementation of the resulting agreed upon action plans. The Director also coordinates the CRMU outreach activities. The IRM Roster of Experts consists of three members appointed by the Boards for five-years term non renewable. The Experts together with the Director of CRMU conduct the eligibility review of the complaints, and form the panels that prepare and submit the compliance review reports to the Boards of Directors and/or the President. The experts also take part in monitoring the implementation of the recommendations of the compliance review reports, and provide technical support to CRMU when requested by the Director. The Director is assisted by both professional and administrative staff.
+
+ Key Features: The IRM is independent from the Bank‟s management and operations. It reports to the highest decision making level at the AfDB. It handles complaints in a transparent way since it posts all its reports on its website. It is accessible as it permits the complainants to use any means at their disposal to submit their complaints. It is also mandated to monitor the implementation of its recommendations of its approved compliance review and problem-solving reports. Finally, the Boards of Directors oversee its performance and approves its triennial performance review.
+
+
+Interactions and Contributions
+
+
+ Interactions: The IRM primary beneficiaries are the project affected people. It interacts with them through complaint handling and outreach. At the complaint handling level, the CRMU and/or IRM experts as the case may be, conduct site visits and meet with the complainants to assess their grievances. It also interacts with other project interested parties such as the government, project promoters and civil society organizations to consolidate their views in preparation of the IRM reports . In the course of this process, the IRM compiles information and examines the management responses to the complained about issues and to the findings and recommendations of the compliance review reports. At the higher decision making level, the IRM may provide interim progress reports of its handling of complaints to the Boards of Directors and the President; and submits its final reports to them for consideration. An the outreach level, CRMU communicates with different project stakeholders including Bank‟s staff, civil society organizations, governments, project promoters and the media to raise their awareness of the IRM role and procedures. Finally, when its performance is under review, the IRM conducts wide consultations inside and outside the Bank to assess the effectiveness of its activities which may result in amendment of the IRM Operating rules and procedures
+
+ Contributions: In conducting its operations, the IRM makes contribution in three
+ways:
+
+1. The IRM requests the Bank to undertake remedial actions to redress the aforesaid inflicted harm and ensures that by these actions, the affected people can instead receive their benefits from the Bank financed projects. In that way, the IRM contributes to the optimization of development results of Bank-financed operations 2. The IRM, either through its problem solving or compliance review reports, recommends the Bank to address any identified problematic systemic issues to enhance its institutional performance. By this action, the IRM contributes to enhance the effectiveness of operations of the Bank in its respective regional member
+countries.
+3. The IRM „s annual reports provides identifiable trends related to the activities of the Bank Group that have emerged during IRM‟s problem-solving exercises and compliance reviews, and lessons that IRM has learned about the challenges for the Bank in implementing its policies and procedures.
+
+
+
+
+---
+
 
 Mandate
 

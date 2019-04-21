@@ -6,12 +6,18 @@ This work focuses on mechanisms within the [Independent Accountability Mechanism
 
 
 <p>
+<<<<<<< HEAD
   <a class="btn btn-primary" data-toggle="collapse" href="#terminology-toggle" role="button" aria-expanded="false" aria-controls="iam-member-toggle">
     A brief aside about terminology
+=======
+  <a class="btn btn-primary" data-toggle="collapse" href="#iam-member-toggle" role="button" aria-expanded="false" aria-controls="iam-member-toggle">
+    IAM Membership
+>>>>>>> 6fb9a2f9736891baa90de91d38ef43c56d8a15dd
   </a>
 </p>
 <div class="collapse" id="iam-member-toggle">
   <div class="card card-body">
+<<<<<<< HEAD
 <p>Members of <a href="http://independentaccountabilitymechanism.net/">IAMnet</a> currently include:<br /><sup><a href="http://applied-anthro.com/context/accountability-mechanisms/site/index.html">[TABLE VIEW]</a>.</sup></p>
 
 <ul>
@@ -55,11 +61,161 @@ This work focuses on mechanisms within the [Independent Accountability Mechanism
   <li>World Bank - <a href="http://ewebapps.worldbank.org/apps/ip/Pages/Home.aspx">Inspection Panel</a>
   -<a href="http://ewebapps.worldbank.org/apps/ip/PanelMandateDocuments/2014%20Updated%20Operating%20Procedures.pdf">Operating Procedures (2014)</a></li>
 </ul>
+=======
+<p>Members of <a href="http://independentaccountabilitymechanism.net/">IAMnet</a> currently include:<br /><sup><a href="http://applied-anthro.com/context/accountability-mechanisms/site/index.html">[ALT. TABLE VIEW]</a>.</sup></p>
+
+<div class="col-lg-12">
+        <table id="example" class="table table-bordered table-hover" style="width:100%">
+          <thead>
+            <tr>
+              <th> IAM</th>
+              <th>IAM Acronym</th>
+              <th>Institution</th>
+              <th>Institutional Acronym</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><a href="https://www.adb.org/site/accountability-mechanism/main">Accountability Mechanism</a></td>
+              <td>AM-ADB</td>
+              <td>Asian Development Bank</td>
+              <td>ADB</td>
+            </tr>
+            <tr>
+              <td><a href="http://compliance.adb.org/">ADB-AM Compliance Review Panel</a></td>
+              <td>CRP</td>
+              <td>Asian Development Bank</td>
+              <td>ADB</td>
+            </tr>
+            <tr>
+              <td><a href="https://www.adb.org/site/accountability-mechanism/problem-solving-function/office-special-facilitator">ADB-AM Special Project Facilitator</a></td>
+              <td>SPF</td>
+              <td>Asian Development Bank</td>
+              <td>ADB</td>
+            </tr>
+            <tr>
+              <td><a href="http://www.caribank.org/about-cdb/contact-us">Complaints</a></td>
+              <td>.</td>
+              <td>Caribbean Development Bank</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td><a href="http://www.nib.int/contact_us/report_misconduct_corruption_and_non-compliance">Complaints</a></td>
+              <td>.</td>
+              <td>Nordic Investment Bank</td>
+              <td>NIB</td>
+            </tr>
+            <tr>
+              <td><a href="http://www.eib.org/about/accountability/complaints/">Complaints Mechanism</a></td>
+              <td>CM-EIB</td>
+              <td>European Investment Bank</td>
+              <td>EIB</td>
+            </tr>
+            <tr>
+              <td><a href="http://www.cao-ombudsman.org/">Compliance Advisor Ombudsman</a></td>
+              <td>CAO-IFC/MIGA</td>
+              <td>International Finance Corporation / Multilateral Investment Guarantee Agency</td>
+              <td>IFC / MIGA</td>
+            </tr>
+            <tr>
+              <td><a href="https://www.fmo.nl/project-related-complaints">Independent Complaints Mechanism</a></td>
+              <td>ICM</td>
+              <td>Netherlands Development Finance Company</td>
+              <td>FMO</td>
+            </tr>
+            <tr>
+              <td><a href="https://www.deginvest.de/International-financing/DEG/Die-DEG/Verantwortung/Beschwerdemanagement/">Independent Complaints Mechanism </a></td>
+              <td>ICM</td>
+              <td>Deutsche Investitions- und Entwicklungsgesellschaft</td>
+              <td>DEG</td>
+            </tr>
+            <tr>
+              <td><a href="http://www.iadb.org/en/mici/mici,1752.html">Independent Consultation and Investigation Mechanism</a></td>
+              <td>MICI-IDB</td>
+              <td>Inter-American Development Bank</td>
+              <td>IDB</td>
+            </tr>
+            <tr>
+              <td><a href="http://www.iadb.org/en/mici/mici,1752.html">Independent Consultation and Investigation Mechanism</a></td>
+              <td>MICI-IIC</td>
+              <td>Inter-American Development Bank</td>
+              <td>IIC</td>
+            </tr>
+            <tr>
+              <td><a href="https://www.greenclimate.fund/home">Independent Redress Mechanism</a></td>
+              <td>IRM</td>
+              <td>Green Climate Fund</td>
+              <td>GCF</td>
+            </tr>
+            <tr>
+              <td><a href="https://www.afdb.org/en/about-us/organisational-structure/independent-review-mechanism-irm/">Independent Review Mechanism </a></td>
+              <td>IRM-AfDB</td>
+              <td>African Development Bank</td>
+              <td>AfDB</td>
+            </tr>
+            <tr>
+              <td><a href="http://ewebapps.worldbank.org/apps/ip/Pages/Home.aspx">Inspection Panel</a></td>
+              <td>IP-WB</td>
+              <td>World Bank (public sector) [International Bank for Reconstruction and Development (IBRD) & International Development Association (IDA) ]</td>
+              <td>WB</td>
+            </tr>
+            <tr>
+              <td><a href="http://www.bstdb.org/contacts/complaints">Internal Audit Department</a></td>
+              <td>IAD-BSTDB</td>
+              <td>Black Sea Trade and Development Bank</td>
+              <td>BSTDB</td>
+            </tr>
+            <tr>
+              <td><a href="http://nexi.go.jp/en/environment/objection.html">Objection Procedures on Environmental Guidelines</a></td>
+              <td>.</td>
+              <td>Nippon Export and Investment Insurance</td>
+              <td>NEXI</td>
+            </tr>
+            <tr>
+              <td><a href="http://www.opic.gov/who-we-are/office-of-accountability">Office of Accountability (OA)</a></td>
+              <td>OA</td>
+              <td>Overseas Private Investment Corporation</td>
+              <td>OPIC</td>
+            </tr>
+            <tr>
+              <td><a href="https://www.jbic.go.jp/en/efforts/environment/disagree/procedure">Office of Examiner for Environmental Guidelines (OEEG)</a></td>
+              <td>OEEG</td>
+              <td>Japan Bank for International Cooperation</td>
+              <td>JBIC</td>
+            </tr>
+            <tr>
+              <td><a href="http://www.ebrd.com/work-with-us/project-finance/project-complaint-mechanism.html">Project Complaint Mechanism</a></td>
+              <td>PCM-EBRD</td>
+              <td>European Bank for Reconstruction and Development</td>
+              <td>EBRD</td>
+            </tr>
+            <tr>
+              <td><a href="http://www.undp.org/content/undp/en/home/operations/accountability/secu-srm/">Social and Environmental Compliance Review and Stakeholder Response Mechanism</a></td>
+              <td>SECU/SRM-UNDP</td>
+              <td>United Nations Development Programme</td>
+              <td>UNDP</td>
+            </tr>
+            <tr>
+              <td><a href="http://www.undp.org/content/undp/en/home/operations/accountability/secu-srm/social-and-environmental-compliance-unit.html">Social and Environmental Compliance Unit</a></td>
+              <td>SECU-UNDP</td>
+              <td>United Nations Development Programme</td>
+              <td>UNDP</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+
+>>>>>>> 6fb9a2f9736891baa90de91d38ef43c56d8a15dd
   </div>
 </div>
 
 
+<<<<<<< HEAD
 Work on this repository is in its very early stages. I am currently still culling data from across IAM member pages:
+=======
+Please note that work on this repository is in its very early stages. I am currently still culling data from across IAM member pages:
+>>>>>>> 6fb9a2f9736891baa90de91d38ef43c56d8a15dd
 
 * [`adb`](./adb_am/) <!-- included in Susan Park's database -->
 * [`afdb`](./afdb_irm/) <!-- included in Susan Park's database -->
@@ -69,40 +225,13 @@ Work on this repository is in its very early stages. I am currently still cullin
 * [`idb_iic`](./idb-iic_mici/) <!-- included in Susan Park's database -->
 * [`world-bank.md`](./wbg_idb-ida_ip/) <!-- included in Susan Park's database -->
 
-**NOTE:** Just a bit after I began this project, [Susan Park](https://susanmpark.com/) [published a database of claims submitted to MDB accountability mechanisms between 1994 and 2016](https://susanmpark.com/database-multilateral-development-banks-accountability-mechanisms).  I'll eventually cross-reference this resource).
+**NOTE:** Just a bit after I began this project, [Susan Park](https://susanmpark.com/) [published a database of claims submitted to MDB accountability mechanisms between 1994 and 2016](https://susanmpark.com/database-multilateral-development-banks-accountability-mechanisms).  I'll eventually cross-reference my work against this resource&mdash;thank you, Dr. Park.  It might also be interesting to re-create [Glass Half Full](https://www.ciel.org/reports/glass-half-full-the-state-of-accountability-in-development-finance-jan-2016/).
 
-I would ulitmately like to build a tool that pulls and re-organizes these data into a common framework. I started working on this in [Observable](https://observablehq.com/collection/@aaronkyle/independent-accountability-mechanisms-iam).
+I would ulitmately like to build a tool that pulls and re-organizes these data into a common framework. [I am working toward this end on Observable](https://observablehq.com/collection/@aaronkyle/independent-accountability-mechanisms-iam).
+
 
 --
 
-Members of [IAMnet](http://independentaccountabilitymechanism.net/) currently include:<br /><sup>[[TABLE VIEW]](http://applied-anthro.com/context/accountability-mechanisms/site/index.html).</sup>
-
-* African Development Bank (AfDB) - [Independent Review Mechanism](https://www.afdb.org/en/about-us/organisational-structure/independent-review-mechanism-irm/) (IRM)
-    - [Operating Rules and Procedures (2015)](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Revised_IRM_Operating_Rules_and_Procedures_2015.pdf)
-* Asian Development Bank (ADB) - [Accountability Mechanism](https://www.adb.org/site/accountability-mechanism/main)
-    - [Compliance Review Panel](http://compliance.adb.org/dir0035p.nsf/alldocs/BDAO-7XG526?OpenDocument) (CRP)
-* Black Sea Trade and Development - [Internal Audit Department](http://www.bstdb.org/contacts/complaints)
-* Caribbean Development Bank - [Complaints](http://www.caribank.org/about-cdb/contact-us)
-* Deutsche Investitions- und Entwicklungsgesellschaft (DEG) - [Independent Complaints Mechanism](https://www.deginvest.de/International-financing/DEG/Die-DEG/Verantwortung/Beschwerdemanagement/)
-* European Bank for Reconstruction and Development (EBRD) - [Project Complaint Mechanism](http://www.ebrd.com/work-with-us/project-finance/project-complaint-mechanism.html) (PCM)
-    - [PCM Rules of Procedure (2014)](http://www.ebrd.com/downloads/integrity/pcmrules.pdf)
-* European Investment Bank (EIB) – [Complaints Mechanism](http://www.eib.org/about/accountability/complaints/)
-    - [Complaints Mechanism Policy](http://www.eib.org/infocentre/publications/all/complaints-mechanism-policy)
-    - [Operating Procedures (2013)](http://www.eib.org/attachments/strategies/complaints_mechanism_operating_procedures_en.pdf)
-* Inter-American Development Bank (IDB) [sometimes also: IADB] - [Independent Consultation and Investigation Mechanism](http://www.iadb.org/en/mici/mici,1752.html) ([MICI](# "Mecanismo Independiente de Consulta e Investigación"))
-    - [MICI-IDB Policy](http://www.iadb.org/document.cfm?id=40792853) [[IDB](http://www.iadb.org/en/inter-american-development-bank,2837.html), [MIF](http://www.fomin.org/en-us/)]
-    - [MICI-IIC Policy](http://www.iadb.org/document.cfm?id=40151002) [[IIC](http://www.iic.org/en)]
-* International Finance Corporation and Multilateral Investment Guarantee Agency - [Compliance Advisor Ombudsman](http://www.cao-ombudsman.org/)
-* Japan Bank for International Cooperation (JBIC) - [Office of Examiner for Environmental Guidelines (OEEG)](https://www.jbic.go.jp/en/efforts/environment/disagree/procedure)
-* Netherlands Development Finance Company (FMO) - [Independent Complaints Mechanism](https://www.fmo.nl/project-related-complaints)
-* Nippon Export and Investment Insurance (NEXI) - [Objection Procedures on Environmental Guidelines](http://nexi.go.jp/en/environment/objection.html)
-* Nordic Investment Bank (NIB) - [Complaints](http://www.nib.int/contact_us/report_misconduct_corruption_and_non-compliance)
-* Overseas Private Investment Corporation (OPIC) - [Office of Accountability (OA)](http://www.opic.gov/who-we-are/office-of-accountability)
-* United Nations Development Programme (UNDP) - [Social and Environmental Compliance Review and Stakeholder Response Mechanism](http://www.undp.org/content/undp/en/home/operations/accountability/secu-srm/)
-* World Bank - [Inspection Panel](http://ewebapps.worldbank.org/apps/ip/Pages/Home.aspx)
-    -[Operating Procedures (2014)](http://ewebapps.worldbank.org/apps/ip/PanelMandateDocuments/2014%20Updated%20Operating%20Procedures.pdf)
-
 
 ## references:
-
-* Independent Accountability Mechanisms Network ([IAMnet](http://independentaccountabilitymechanism.net/)): http://independentaccountabilitymechanism.net/
+* Independent Accountability Mechanisms Network (IAMnet): http://independentaccountabilitymechanism.net/

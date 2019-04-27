@@ -6,18 +6,18 @@ This work focuses on mechanisms within the [Independent Accountability Mechanism
 
 
 <p>
-<<<<<<< HEAD
   <a class="btn btn-primary" data-toggle="collapse" href="#terminology-toggle" role="button" aria-expanded="false" aria-controls="iam-member-toggle">
     A brief aside about terminology
 =======
   <a class="btn btn-primary" data-toggle="collapse" href="#iam-member-toggle" role="button" aria-expanded="false" aria-controls="iam-member-toggle">
     IAM Membership
->>>>>>> 6fb9a2f9736891baa90de91d38ef43c56d8a15dd
   </a>
 </p>
+  
+  
 <div class="collapse" id="iam-member-toggle">
   <div class="card card-body">
-<<<<<<< HEAD
+
 <p>Members of <a href="http://independentaccountabilitymechanism.net/">IAMnet</a> currently include:<br /><sup><a href="http://applied-anthro.com/context/accountability-mechanisms/site/index.html">[TABLE VIEW]</a>.</sup></p>
 
 <ul>
@@ -61,7 +61,8 @@ This work focuses on mechanisms within the [Independent Accountability Mechanism
   <li>World Bank - <a href="http://ewebapps.worldbank.org/apps/ip/Pages/Home.aspx">Inspection Panel</a>
   -<a href="http://ewebapps.worldbank.org/apps/ip/PanelMandateDocuments/2014%20Updated%20Operating%20Procedures.pdf">Operating Procedures (2014)</a></li>
 </ul>
-=======
+
+
 <p>Members of <a href="http://independentaccountabilitymechanism.net/">IAMnet</a> currently include:<br /><sup><a href="http://applied-anthro.com/context/accountability-mechanisms/site/index.html">[ALT. TABLE VIEW]</a>.</sup></p>
 
 <div class="col-lg-12">

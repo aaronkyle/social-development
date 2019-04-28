@@ -7,7 +7,7 @@ This work focuses on mechanisms within the [Independent Accountability Mechanism
 
 
   <a class="btn btn-primary" data-toggle="collapse" href="#iam-member-toggle" role="button" aria-expanded="false" aria-controls="iam-member-toggle">
-    IAM Membership
+    <h4>IAM Membership</h4>
   </a>
 </p>
   

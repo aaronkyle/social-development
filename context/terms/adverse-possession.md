@@ -1,10 +1,11 @@
+---
 title: adverse possession
 date: 2008-05-27 06:34
 category: terminology
 tags: land tenure, IFC, IFC PS5
 slug: adverse-possession
 summary: : a method of acquiring title to real property by possession for a statutory period under certain conditions
-
+---
 
 The term **adverse possession** refers to a method of acquiring title to real property by possession for a statutory period under certain conditions.
 

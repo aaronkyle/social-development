@@ -8,7 +8,7 @@ Main sections currently include:
 <tr><td>[`terms`](https://github.com/aaronkyle/social-development/tree/master/context/terms) </td><td>Although I find it difficult to maintain, I have been trying to formulate definitions for terms while accounting for their varied usage internationally. [Have a look at this page on the site's front end](http://applied-anthro.com/category/terminology.html).</td></tr>
 <tr><td>[`international-law_good-practice`](https://github.com/aaronkyle/social-development/tree/master/context/international-law_good-practice)</td><td></td></tr>
 <tr><td>[`social-policy`](https://github.com/aaronkyle/social-development/tree/master/context/social-policy)</td><td></td></tr>
-    - [`ifi-implementation-resources`](https://github.com/aaronkyle/social-development/tree/master/context/ifi-implementation-resources)
+<tr><td>[`ifi-implementation-resources`](https://github.com/aaronkyle/social-development/tree/master/context/ifi-implementation-resources)
 <tr><td>[`country-safeguard-systems`]()</td><td></td></tr>
 <tr><td>[`accountability-mechanisms`](https://github.com/aaronkyle/social-development/tree/master/context/accountability-mechanisms)</td><td></td></tr>
 <tr><td>[`thematic-issues`](https://github.com/aaronkyle/social-development/tree/master/context/thematic-issues)</td><td></td></tr>

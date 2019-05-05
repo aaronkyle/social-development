@@ -2,16 +2,6 @@
 
 <table class="table table-striped">
 <tbody>
-<tr class="odd">
-<td align="left" style="vertical-align:top"><strong><a href="/terms/community-history">community history</a></strong></td>
-<td align="left"><i class="icon-bookmark"></i></td>
-<td align="left">: detailed account of the community’s past, detailing how things have changed, with a particular focus on relationships with external actors and the trends these relations have followed, as well as internal dynamics within the community
-<!--
-<i class="icon-tags muted"></i>
-<a href="/tag/engagement.html">engagement</a> <i class="icon-tags muted"></i>
-<a href="/tag/impact-assessment.html">impact assessment</a>
--->
-</td>
 </tr>
 <tr class="even">
 <td align="left" style="vertical-align:top"><strong><a href="/terms/action-plan">action plan</a></strong></td>
@@ -49,76 +39,86 @@
 <td align="left">: a network of actors, associations, agencies and institutions operating between the state and the market</td>
 </tr>
 <tr class="odd">
-<td align="left" style="vertical-align:top"><strong><a href="/terms/compensation-in-kind">compensation in kind</a></strong></td>
+<td align="left" style="vertical-align:top"><strong><a href="/terms/community-history">community history</a></strong></td>
+<td align="left"><i class="icon-bookmark"></i></td>
+<td align="left">: detailed account of the community’s past, detailing how things have changed, with a particular focus on relationships with external actors and the trends these relations have followed, as well as internal dynamics within the community
+<!--
+<i class="icon-tags muted"></i>
+<a href="/tag/engagement.html">engagement</a> <i class="icon-tags muted"></i>
+<a href="/tag/impact-assessment.html">impact assessment</a>
+-->
+</td>
+<tr class="even">
+<td align="left" style="vertical-align:top"><strong><a href="/terms/compensation_in-kind">compensation in kind</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: compensation for losses that cannot be easily valued or compensated for in monetary terms</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left" style="vertical-align:top"><strong><a href="/terms/consultation">consultation</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: a process of two-way communication between project developers and stakeholders in which views, preferences, and information are exchanged in a culturally appropriate manner, within locally-appropriate time frames, and using locally-understood languages and communication formats</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left" style="vertical-align:top"><strong><a href="/terms/country-safeguard-systems">Country Safeguard Systems (CSS)</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: national, subnational, or sectoral implementing institutions and relevant laws, regulations, rules, and procedures that pertain to the policy areas of environmental and social safeguards</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left" style="vertical-align:top"><strong><a href="/terms/cultural-heritage">cultural heritage</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: any non-renewable resource possessing cultural, scientific, spiritual or religious value</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left" style="vertical-align:top"><strong><a href="/terms/development">development</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: the act or process of growing (or causing something to grow), or become larger, more advanced, or more complex over a over a period of time</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left" style="vertical-align:top"><strong><a href="/terms/development-paradigm">development paradigm</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: actions, activities, and programmes based on, and extending from, salient theories and beliefs about what consitutes 'development'</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left" style="vertical-align:top"><strong><a href="/terms/grievance">grievance</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: a concern or complaint raised by an individual or a group within communities affected by company operations</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left" style="vertical-align:top"><strong><a href="/terms/ifi">international financial institution</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: financial institutions that have been established (or chartered) by more than one country</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left" style="vertical-align:top"><strong><a href="/terms/involuntary-resettlement">involuntary resettlement</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: physical and/or economic displacement resulting from project-related land acquisition where affected individuals or communities do not have the right to contest their loss of land use and access</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left" style="vertical-align:top"><strong><a href="/terms/meta-phenomenon">meta-phenomenon</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: a high-level categorisation and grouping of facts, acts, ideas or locution realized as phenomena</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left" style="vertical-align:top"><strong><a href="/terms/performance-standards">Performance Standards</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: policy guidlines for how to identify, avoid, mitigate, and manage environmental and social risks and impacts; initially, only IFC had Performance Standards</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left" style="vertical-align:top"><strong><a href="/terms/replacement-cost">replacement cost</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: market value of assets plus transaction costs</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left" style="vertical-align:top"><strong><a href="/terms/replacement-cost-public-structure">replacement cost of public structures</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: the cost of purchasing or building a new structure, with an area and quality similar to or better than those of the affected structure, or of repairing a partially affected structure, including labor and contractors’ fees and transaction costs such as registration and transfer taxes</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left" style="vertical-align:top"><strong><a href="/terms/replacement-cost-urban-land">replacement cost of urban land</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: the market value of land of equivalent area and use, with similar or improved infrastructure and services preferably located in the vicinity of the affected land, plus transaction costs such as registration and transfer taxes</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left" style="vertical-align:top"><strong><a href="/terms/resettlement">resettlement</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: the transportation of a people to a new area for settlement</td>

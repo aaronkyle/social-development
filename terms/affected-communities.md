@@ -1,13 +1,18 @@
+---
 title: affected communities
 date: 2006-02-08 15:34
 category: terminology
 tags: IFC
 slug: affected-communities
 summary: : communities that are subject to risks or impacts from project operations
+---
+<<<<<<< HEAD:context/terms/affected-communities.md
 
 <!--
-summary: 
+summary:
 -->
+=======
+>>>>>>> master:terms/affected-communities.md
 
 The ter **affected communities** refers to groups of people who are subject to risk from, or impacted directly by, project operations.
 

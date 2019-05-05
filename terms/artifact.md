@@ -1,13 +1,14 @@
+---
 title: artifact
 date: 2006-09-29 06:56
 category: terminology
 tags: cultural heritage, IFC, IFC PS8
 slug: artifact
 summary: : a portable object that is created by past human activity
-
+---
 
 <!--
-summary: 
+summary:
 -->
 
 The term **artifact** refers to a portable object that is created by past human activity and becomes part of an archaeological site or isolated archaeological find. Most archaeological artifacts lose substantial cultural and scientific value when removed from their ‘context’ in the ground.

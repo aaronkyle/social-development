@@ -1,8 +1,9 @@
-<div class="container">
-
 <table class="table table-striped">
 <tbody>
+<<<<<<< HEAD:context/terms/terminology.md
 </tr>
+=======
+>>>>>>> master:terms/terminology.md
 <tr class="even">
 <td align="left" style="vertical-align:top"><strong><a href="/terms/action-plan">action plan</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
@@ -27,6 +28,17 @@
 <td align="left" style="vertical-align:top"><strong><a href="/terms/biodiversity">biodiversity</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: variety of life in all its forms, including genetic, species and ecosystem diversity</td>
+</tr>
+  <tr class="odd">
+<td align="left" style="vertical-align:top"><strong><a href="/terms/community-history/">community history</a></strong></td>
+<td align="left"><i class="icon-bookmark"></i></td>
+<td align="left">: detailed account of the community’s past, detailing how things have changed, with a particular focus on relationships with external actors and the trends these relations have followed, as well as internal dynamics within the community
+<!--
+<i class="icon-tags muted"></i>
+<a href="/tag/engagement.html">engagement</a> <i class="icon-tags muted"></i>
+<a href="/tag/impact-assessment.html">impact assessment</a>
+-->
+</td>
 </tr>
 <tr class="odd">
 <td align="left" style="vertical-align:top"><strong><a href="/terms/census">census</a></strong></td>
@@ -187,4 +199,3 @@
 
 </table>
 
-</div>

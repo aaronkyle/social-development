@@ -13,7 +13,7 @@ icon: file-code-o
 ---
 ## Toward a 'Business Case' for 'Social Development'
 
-Among the first research topics assigned to me as [social development practitioner](/terms/social-development-practitioner/) was to write a 'business case for social development'. I was in my early twenties, new to my job and to the profession, and I had no idea where to start. Clearly, I was given a loaded question. Ten year later (as I continue to make updates on this article), I still don't really have any good answers, though my understanding of how to approach the question has matured with time. 
+Among the first research topics assigned to me as [social development practitioner](/terms/social-development-practitioner) was to write a 'business case for social development'. I was in my early twenties, new to my job and to the profession, and I had no idea where to start. Clearly, I was given a loaded question. Ten year later (as I continue to make updates on this article), I still don't really have any good answers, though my understanding of how to approach the question has matured with time. 
 
 Here's where I'm at:
 
@@ -29,11 +29,11 @@ A business case is an argument for undertaking some form of action or activity b
 
 ### What is development?
 
-[Development](/terms/development/) is an imagined concept of how the future can or ought to be shaped from the basis of existing context and human knowledge. A person's understanding of the concept of development is shaped and influenced culturally, experientially, and intellectually.
+[Development](/terms/development) is an imagined concept of how the future can or ought to be shaped from the basis of existing context and human knowledge. A person's understanding of the concept of development is shaped and influenced culturally, experientially, and intellectually.
 
 ### What is 'social development'?
 
-[Social development](/terms/social-development/) refers to fields of knowledge and practice at the intersection of development interventions and human societies (which I recognize is a nearly boundless definition). 
+[Social development](/terms/social-development) refers to fields of knowledge and practice at the intersection of development interventions and human societies (which I recognize is a nearly boundless definition). 
 
 ### What is a 'business case for social development'?
 

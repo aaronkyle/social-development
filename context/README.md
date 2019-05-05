@@ -10,7 +10,7 @@ Main sections currently include:
 * [`thematic-issues`](https://github.com/aaronkyle/social-development/tree/master/context/thematic-issues)
 * [`international-law_good-practice`](https://github.com/aaronkyle/social-development/tree/master/context/international-law_good-practice)
  * [`ifi-implementation-resources`](https://github.com/aaronkyle/social-development/tree/master/context/ifi-implementation-resources)
-* [`country-safeguard-systems`]()</td><td></td></tr>
+* [`country-safeguard-systems`]()
  * [`accountability-mechanisms`](https://github.com/aaronkyle/social-development/tree/master/context/accountability-mechanisms)
 
 Also check out the [references folder](./ref/) for spreadsheet-formatted bibliographics for topical issues.

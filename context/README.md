@@ -5,7 +5,7 @@ This [repository](https://github.com/aaronkyle/social-development/tree/master/co
 Main sections currently include:
 
 * [`terms`](https://github.com/aaronkyle/social-development/tree/master/context/terms)
-   - Although I find it difficult to maintain, I have been trying to formulate definitions for terms while accounting for their varied usage internationally. [For legacy reasons this page is built differently on the site's front end](http://applied-anthro.com/category/terminology.html).
+   - Although I find it difficult to maintain, I have been trying to formulate definitions for terms while accounting for their varied usage internationally. [For legacy reasons this page is built differently on the site's front end](http://applied-anthro.com/context/terms/terminology.html).
 * [`social-policy`](https://github.com/aaronkyle/social-development/tree/master/context/social-policy)
 * [`thematic-issues`](https://github.com/aaronkyle/social-development/tree/master/context/thematic-issues)
 * [`international-law_good-practice`](https://github.com/aaronkyle/social-development/tree/master/context/international-law_good-practice)

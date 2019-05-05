@@ -1,9 +1,11 @@
+---
 title: customary use
 date: 2006-03-14 22:33
 category: terminology
 tags: land tenure, land use, IFC
 slug: customary-use
 summary: : patterns of long-standing community land and resource use
+---
 
 The term **customary use** refers to patterns of long-standing community land and resource use, including seasonal or cyclical use. The concept of customary use is often used in reference to land claims of Indigenous Peoples, as understood through their customary laws, values customs, and traditions (rather than formal legal title to land and resources issued by the state).
 

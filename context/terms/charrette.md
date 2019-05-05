@@ -1,10 +1,11 @@
+---
 title: charrette
 date: 2013-11-20 01:00
 category: terminology
 tags: methods, tools
 slug: charrette
 summary: : an intense period of design or planning.
-
+---
 
 A **charrette** (Fr: “little cart”) is an intensive planning process involving a dynamic and rapid interchange of ideas.
 

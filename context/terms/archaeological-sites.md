@@ -1,9 +1,10 @@
+---
 title: archaeological sites
 date: 2006-03-18 09:30
 category: terminology
 tags: cultural heritage, cultural resources management, IFC, World Bank, ADB,
 slug: archaeological-sites
-
+---
 
 summary: : concentrated and patterned physical remains of past human activity, especially human settlement.
 

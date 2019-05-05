@@ -1,11 +1,13 @@
+---
 title: economic displacement
 date: 2006-10-28 10:05
 category: terminology
 tags: ADB, IFC, EBRD
 slug: economic-displacement
 summary: : loss of assets or access to assets that leads to loss of income sources or means of livelihood.
+---
 
-Loss of land, assets, access to assets, income sources, or means of livelihoods as a result of (i) involuntary acquisition of land, or (ii) involuntary restrictions on land use or on access to legally designated parks and protected areas. 
+Loss of land, assets, access to assets, income sources, or means of livelihoods as a result of (i) involuntary acquisition of land, or (ii) involuntary restrictions on land use or on access to legally designated parks and protected areas.
 
 ### References
 

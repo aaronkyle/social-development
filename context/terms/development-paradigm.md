@@ -1,10 +1,11 @@
+---
 title: development paradigm
 date: 2006-02-12 15:22
 category: terminology
 tags: meta-phenomenon
 slug: development-paradigm
 summary: : actions, activities, and programmes based on, and extending from, salient theories and beliefs about what consitutes '[development](/development/)'
-
+---
 
 <!--
 icon: file-code-o
@@ -22,7 +23,7 @@ published: true
 comments: true
 -->
 
-The term **'development paradigm'** refers to a [meta-phenomenon](): an amalgamated concept that is something fundamentally distinct from the assembly of its constituent parts (i.e. the inter-related fields of development theory, policy, and practice). 
+The term **'development paradigm'** refers to a [meta-phenomenon](): an amalgamated concept that is something fundamentally distinct from the assembly of its constituent parts (i.e. the inter-related fields of development theory, policy, and practice).
 
 <hr />
 
@@ -60,4 +61,3 @@ Within the international community, too, are a variety of different (and sometim
 [^7]: ["Growth and Development Strategy"](http://livingeconomiesforum.org/sites/files/pdfs/Korten,%20Defining%20the%20New%20Development%20Paradigm%20January%2025,%202013.pdf)
 [^8]: 31 May 2013. http://natcapsolutions.org/2013/05/31/toward-a-new-development-paradigm/#.VNAxBN8ad5E
 [^9]: http://www.newdevelopmentparadigm.bt/
-

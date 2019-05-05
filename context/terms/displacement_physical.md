@@ -1,9 +1,11 @@
+---
 title: physical displacement
 date: 2006-10-28 13:04
 category: terminology
 tags: safeguards, IFC
 slug: physical-displacement
 summary: : relocation or loss of shelter.
+---
 
 The term **physical displacement** refers to relocation or loss of shelter.
 

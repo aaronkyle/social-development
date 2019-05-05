@@ -1,9 +1,11 @@
+---
 title: cut-off date
 date: 2006-10-28 13:08
 category: terminology
 tags: IFC
 slug: cut-off-date
 summary: : date of completion of the census and assets inventory of persons affected by a project
+---
 
 Date of completion of the census and assets inventory of persons affected by the project. Persons occupying the project area after the cut-off date are not eligible for compensation and/or resettlement assistance. Similarly, fixed assets (such as built structures, crops, fruit trees, and woodlots) established after the date of completion of the assets inventory, or an alternative mutually agreed on date, will not be compensated.
 

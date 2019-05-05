@@ -1,9 +1,11 @@
+---
 title: Consent of Affected Indigenous Peoples Communities
 date: 2010-07-31 16:28
 category: terminology
 tags: ADB
 slug: consent-of-affected-indigenous-peoples-communities
 summary: : a collective expression by the affected Indigenous Peoples communities, through individuals and/or their recognized representatives, of broad community support for the project activities.
+---
 
 **Consent of Affected Indigenous Peoples Communities** refers to a collective expression by the affected Indigenous Peoples communities, through individuals and/or their recognized representatives, of broad community support for a development project.
 

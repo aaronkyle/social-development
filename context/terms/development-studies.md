@@ -1,3 +1,4 @@
+---
 title: development studies
 date: 2005-11-14 20:33
 category: terminology
@@ -5,6 +6,7 @@ tags: development studies, humanities, Geisteswissenschaft
 slug: development-studies
 summary: :
 status: draft
+---
 
 <!--
 summary:
@@ -94,7 +96,3 @@ More recently, the emergence of human security – a new, people-oriented approa
 * Post Graduate Diploma in Management in Development Studies at Entrepreneurship Development Institute of India
 * Institute of Development Studies
 * Women In Development Network (WIDNET) - Gender and Development Resources
-
-
-
-

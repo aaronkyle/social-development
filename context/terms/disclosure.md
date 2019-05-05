@@ -1,9 +1,11 @@
+---
 title: disclosure
 date: 2005-10-23 21:20
 category: terminology
 tags: disclosure, ADB, IFC, IFC PS1, World Bank
 slug: disclosure
 summary: : the act of disseminating information.
+---
 
 <!--
 summary:

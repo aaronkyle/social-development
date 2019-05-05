@@ -6,96 +6,116 @@
 
 
 ---
-[ReFERENCE](http://siteresources.worldbank.org/EXTINSPECTIONPANEL/Resources/Rio20_IAMs_Contribution.pdf "Citizen-driven Accountability for Sustainable Development")
+
+[Reference: Citizen-driven Accountability for Sustainable Development](http://siteresources.worldbank.org/EXTINSPECTIONPANEL/Resources/Rio20_IAMs_Contribution.pdf "Citizen-driven Accountability for Sustainable Development")
+
+---
+
+## Context
+
+In 2003, the Asian Development Bank (ADB) created the Accountability Mechanism (AM) to replace the Inspection Function and to provide an independent forum where people adversely affected by ADB-assisted projects can voice and resolve their problems and can report alleged noncompliance of ADB with its operational policies and procedures. The AM is part of ADB’s efforts to enhance development effectiveness and improve project quality by being responsive to the concerns of people affected by projects, and by being fair and transparent to all stakeholders. The Mechanism has two separate phases: the Consultation and the Compliance Review phases. The ADB Accountability Mechanism is currently under review. More information at: www.compliance.adb.org
 
 
-In 2003, the Asian Development Bank (ADB) created the Accountability Mechanism (AM) to replace the Inspection Function and to provide an independent
-forum where people adversely affected by ADB-assisted projects can voice and resolve their problems and can report alleged noncompliance of ADB with its
-operational policies and procedures. The AM is part of ADB’s efforts to enhance development effectiveness and improve project quality by being responsive
-to the concerns of people affected by projects, and by being fair and transparent to all stakeholders. The Mechanism has two separate phases: the
-Consultation and the Compliance Review phases. The ADB Accountability Mechanism is currently under review. More information at: www.compliance.adb.org
+## [Special Project Facilitator	(SPF)](https://www.adb.org/site/accountability-mechanism/problem-solving-function/office-special-facilitator)
+
+The Office of the Special Project Facilitator (OSPF) is responsible for the problem solving function of the ADB’s Accountability Mechanism.
+
+People who believe they have been adversely affected by an ADB-assisted project can use the problem solving function regardless of whether ADB operational policies and procedures have been violated. However, complainants must first make a good faith effort to resolve their problems by working with the concerned ADB operations department.
+
+Project-affected people are at the core of the problem solving function, however, the Office of the Special Project Facilitator does not assume that ADB operations departments, the government, or private project sponsors are less sensitive to project-affected people’s concerns. In seeking solutions to problems, the Office of the Special Project Facilitator aims to win the confidence of all parties.
+
+The second mandate:
+
+The Special Project Facilitator problem solving function also aims to strengthen the internal problem solving processes of ADB's operations departments.  The Special Project Facilitator will carry out activities designed to improve the overall internal problem solving functions of ADB
+
+Guiding principles:
+
+OSPF is guided by the principles of:
+* Enhancing ADB development effectiveness and project quality;
+* Being responsive to the concerns of project-affected people, and treating all stakeholders fairly;
+* Reflecting the highest professional and technical standards in its staffing and operations;
+* Being independent and transparent; and
+* Being cost-effective, efficient, and complementary to the other supervision, audit, quality control, and evaluation systems at ADB.
+
+What we do:
+* Help solve problems caused by ADB-assisted projects through a number of informal, consensus-based methods with the consent and participation of the concerned parties.
+* Initiate and guide the consultation process and facilitate development of solutions to the issues identified by different stakeholders.
+* Provide opportunities for all parties to meet and discuss their concerns—individually on a strictly confidential basis, when requested, or in meetings among themselves, or in joint deliberations with other parties.
+* Provide independent facilitators for dialogues and meetings.
 
 
-The Office of the Special Project Facilitator – the Consultation Phase 
+---
 
- Mandate:
+## [The Problem Solving Function](https://www.adb.org/site/accountability-mechanism/problem-solving-function)
 
-Promotes consensus-based problem solving, seeking
-agreement among all parties in identifying the matters in dispute, ways to
-resolve the problems, and the time frame required. People who believe that
-they have been adversely affected by an ADB-assisted project can use the
-consultation process regardless of whether ADB‟s operational policies and
-procedures have been violated. However, complainants must first attempt to
-resolve their problems in good faith with the assistance of the concerned
-ADB operations department.
 
-### Problem-Solving Activities:
+The problem solving function assists people who are directly, materially, and adversely affected by ADB-assisted projects to find solutions to their problems. It is led by ADB’s Special Project Facilitator (SPF).
 
- OSPF seeks consensus among stakeholders – including ADB, the
-complainant, the executing agency, and the developing member country
-government or the private project sponsor regarding the complaint, the
-acceptable method for resolution, and the time frame for resolution.
+The problem solving function starts with consideration of the eligibility of the complaint. If accepted, the focus will be on seeking agreement among all the parties involved such as the complainant, project implementer, developing member country government or private sector sponsor, and ADB. The Special Project Facilitator will, however, not interfere in the internal matters of a developing member country.
 
- It uses flexible problem-solving approaches, including convening meetings
-with various stakeholders, organizing consultation processes, and engaging
-in a fact-finding review of the situation.
+The general approaches in the problem solving function include (i) consultative dialogue, (ii) information sharing, (iii) joint fact-finding, and (iv) mediation. The SPF may also suggest various specific approaches to resolve problems, such as convening meetings, organizing and facilitating problem solving processes, or engaging in a fact-finding review of the situation.
 
- It suggests actions to deal with the complaint directly.
+The problem solving function is outcome driven. It will not focus on the identification and allocation of blame, but on finding ways to address the problems of the project-affected people.
 
-### Problem-Prevention Activities:
+The Special Project Facilitator offers an additional avenue for problem solving but does not supplant the project administration and problem solving functions of ADB’s operations departments. He/ she reports directly to the President of ADB and recommends actions to deal with the complaint. He/she will also monitor implementation of agreements resulting from the problem solving process.
 
-In addition to its prominent role in handling complaints from project-affected
-people, OSPF is also mandated to carry out proactive activities intended to
-strengthen the internal problem-solving capacity of ADB‟s operations
-departments. These activities include:
+![The Problem Solving Process](https://www.adb.org/sites/default/files/page/42381/images/problem-solving-process.jpg)
 
- Collating and integrating internal and external problem-solving experiences
-to be fed back into ADB operations, including the formulation, processing,
-and implementation of projects;
 
- Providing generic problem-solving support and advice to the operations
-departments, but not for specific cases under review by those departments;
-and
 
- Conducting outreach programs to the public.
-OSPF is headed by the Special Project Facilitator, who is independent of the
-operations departments and reports directly to the ADB President. 
+### The Office of the Special Project Facilitator 
 
-Compliance Review Phase and the Compliance Review Panel
+The mandate of the Office of the Special Project Facilitator is to promotes consensus-based problem solving: seeking agreement among all parties in identifying the matters in dispute, ways to resolve the problems, and the time frame required. 
 
-### Mandate:
-Provides a mechanism through which project-affected people (and in
-special circumstances, any Board member) can file filing requests for compliance
-review if they believe that ADB has not followed its policies and procedures.
+**Consultation Phase** 
 
-### Functions:
+People who believe that they have been adversely affected by an ADB-assisted project can use OSPF's consultation process regardless of whether ADB‟s operational policies and procedures have been violated. However, complainants must first attempt to resolve their problems in good faith with the assistance of the concerned ADB operations department.
 
-• Compliance reviews focus on whether ADB has or has not complied with its
-operational policies and procedures in connection with the particular project under
-compliance review. They do not investigate the borrowing country, the executing
-agency, the borrower, or the private project sponsor.
-•The Compliance Review Panel (CRP) investigates alleged violations by ADB of its
-operational policies and procedures in any ADB-assisted project that directly,
-materially, and adversely affect local people in the course of the formulation,
-processing, or implementation of the project.
+#### Problem-Solving Activities
 
-### Activities of the CRP:
+OSPF seeks consensus among stakeholders – including ADB, the complainant, the executing agency, and the developing member country government or the private project sponsor regarding the complaint, the acceptable method for resolution, and the time frame for resolution.  It uses flexible problem-solving approaches, including convening meetings with various stakeholders, organizing consultation processes, and engaging in a fact-finding review of the situation. It suggests actions to deal with the complaint directly.
+
+#### Problem-Prevention Activities:
+
+In addition to its prominent role in handling complaints from project-affected people, OSPF is also mandated to carry out proactive activities intended to strengthen the internal problem-solving capacity of ADB‟s operations departments. These activities include:
+
+* Collating and integrating internal and external problem-solving experiences to be fed back into ADB operations, including the formulation, processing, and implementation of projects;
+* Providing generic problem-solving support and advice to the operations departments, but not for specific cases under review by those departments; and
+* Conducting outreach programs to the public. OSPF is headed by the Special Project Facilitator, who is independent of the operations departments and reports directly to the ADB President. 
+
+
+
+
+
+
+
+### Compliance Review Phase and the Compliance Review Panel
+
+#### Mandate
+
+Provides a mechanism through which project-affected people (and in special circumstances, any Board member) can file filing requests for compliance review if they believe that ADB has not followed its policies and procedures.
+
+#### Functions
+
+• Compliance reviews focus on whether ADB has or has not complied with its operational policies and procedures in connection with the particular project under compliance review. They do not investigate the borrowing country, the executing agency, the borrower, or the private project sponsor.
+
+•The Compliance Review Panel (CRP) investigates alleged violations by ADB of its operational policies and procedures in any ADB-assisted project that directly, materially, and adversely affect local people in the course of the formulation, processing, or implementation of the project.
+
+#### Activities of the CRP
 
   * Receiving and determining the eligibility of a request for compliance review
   * Engaging with all project stakeholders to thoroughly understand relevant issues
   * Conducting thorough and objective reviews of policy and procedural compliance
   * Coordinating with co-financing institution compliance review mechanisms
-  * Issuing draft compliance reports and seeking comments from ADB Management
-and requesters
+  * Issuing draft compliance reports and seeking comments from ADB Management and requesters
   * Issuing final reports to the Board with its findings and recommendations
   * Informing requesters of the Board‟s decision
-  * Monitoring the implementation of the Board approved recommendations and
-providing requesters with monitoring reports
+  * Monitoring the implementation of the Board approved recommendations and providing requesters with monitoring reports
   * Issuing annual reports
   * Developing a roster of independent technical experts for carrying out its work
   * Liaising with accountability mechanisms at other institutions
 
-### Secretariat
+#### Secretariat
 
 The Office of the Compliance Review Panel (OCRP) provides secretariat support to
 the CRP and is responsible for conducting outreach and inreach on compliance
@@ -160,10 +180,7 @@ The CRP chair:[2](http://compliance.adb.org/)
 
 ---
 
-
-
 The Compliance Review Panel undertakes the following activities:[1](https://www.adb.org/site/accountability-mechanism/compliance-review-function)
-
 
 * determining the eligibility of a request for compliance review
 * engaging all project stakeholders in understanding the issues during compliance review
@@ -181,48 +198,3 @@ The Compliance Review Panel undertakes the following activities:[1](https://www.
 
 
 ---
-
-## [Special Project Facilitator	(SPF)](https://www.adb.org/site/accountability-mechanism/problem-solving-function/office-special-facilitator)
-
-The Office of the Special Project Facilitator (OSPF) is responsible for the problem solving function of the ADB’s Accountability Mechanism.
-
-People who believe they have been adversely affected by an ADB-assisted project can use the problem solving function regardless of whether ADB operational policies and procedures have been violated. However, complainants must first make a good faith effort to resolve their problems by working with the concerned ADB operations department.
-
-Project-affected people are at the core of the problem solving function, however, the Office of the Special Project Facilitator does not assume that ADB operations departments, the government, or private project sponsors are less sensitive to project-affected people’s concerns. In seeking solutions to problems, the Office of the Special Project Facilitator aims to win the confidence of all parties.
-
-The second mandate:
-
-The Special Project Facilitator problem solving function also aims to strengthen the internal problem solving processes of ADB's operations departments.  The Special Project Facilitator will carry out activities designed to improve the overall internal problem solving functions of ADB
-
-Guiding principles:
-
-OSPF is guided by the principles of:
-* Enhancing ADB development effectiveness and project quality;
-* Being responsive to the concerns of project-affected people, and treating all stakeholders fairly;
-* Reflecting the highest professional and technical standards in its staffing and operations;
-* Being independent and transparent; and
-* Being cost-effective, efficient, and complementary to the other supervision, audit, quality control, and evaluation systems at ADB.
-
-What we do:
-* Help solve problems caused by ADB-assisted projects through a number of informal, consensus-based methods with the consent and participation of the concerned parties.
-* Initiate and guide the consultation process and facilitate development of solutions to the issues identified by different stakeholders.
-* Provide opportunities for all parties to meet and discuss their concerns—individually on a strictly confidential basis, when requested, or in meetings among themselves, or in joint deliberations with other parties.
-* Provide independent facilitators for dialogues and meetings.
-
-
----
-## [The Problem Solving Function](https://www.adb.org/site/accountability-mechanism/problem-solving-function)
-
-
-The problem solving function assists people who are directly, materially, and adversely affected by ADB-assisted projects to find solutions to their problems. It is led by ADB’s Special Project Facilitator (SPF).
-
-The problem solving function starts with consideration of the eligibility of the complaint. If accepted, the focus will be on seeking agreement among all the parties involved such as the complainant, project implementer, developing member country government or private sector sponsor, and ADB. The Special Project Facilitator will, however, not interfere in the internal matters of a developing member country.
-
-The general approaches in the problem solving function include (i) consultative dialogue, (ii) information sharing, (iii) joint fact-finding, and (iv) mediation. The SPF may also suggest various specific approaches to resolve problems, such as convening meetings, organizing and facilitating problem solving processes, or engaging in a fact-finding review of the situation.
-
-The problem solving function is outcome driven. It will not focus on the identification and allocation of blame, but on finding ways to address the problems of the project-affected people.
-
-The Special Project Facilitator offers an additional avenue for problem solving but does not supplant the project administration and problem solving functions of ADB’s operations departments. He/ she reports directly to the President of ADB and recommends actions to deal with the complaint. He/she will also monitor implementation of agreements resulting from the problem solving process.
-
-![The Problem Solving Process](https://www.adb.org/sites/default/files/page/42381/images/problem-solving-process.jpg)
-

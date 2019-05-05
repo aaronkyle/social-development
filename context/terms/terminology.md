@@ -1,3 +1,4 @@
+<!--
 <!DOCTYPE html>
 <html lang="en" itemscope="itemscope" itemtype="http://schema.org/WebPage">
 <head>
@@ -13,11 +14,13 @@
 
     <meta name="copyright" content="Copyright (c) 2004-2016 Aaron Kyle Dennis" />
     <meta name="author" content="Aaron Kyle Dennis" />
-
+-->
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
     <!--[if lt IE 9]> <script src="../theme/js/html5.js"></script> <![endif]-->
     <!-- Le styles -->
+
+    <!--
     <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
     <link rel="stylesheet" media="all" href="http://applied-anthro.com/theme/webassets-external/2770284cc4182b6243b058cde94fe662_fontello.css">
     <link rel="stylesheet" media="all" href="http://applied-anthro.com/theme/webassets-external/291ed9335f52e1e99e9a197976628260_main.css">
@@ -27,30 +30,37 @@
 </head>
 
 <body>
+-->
+
+<!--
     <header class="blog-header hidden-print">
         <div class="container">
             <div class="row-fluid">
                 <div class="span8"><a href=".." class="brand">Social Development: Policy & Practice.</a></div>
                 <div class="span4" id="blog-nav">
                     <ul class="nav nav-pills">
+
+-->                    
                       <!--
                     <li><a href="/site/about/">about</a></li>
                   -->
+<!--                  
                         <li  class="active" >
                         <a href="../category/terminology.html ">terminology</a>
                     <li><a href="/context/social-policy/">policy</a></li>
+<!--
                     <!--
                     <li><a href="/site/bio/">biography</a></li>
 -->
+
 <!--
-                            <li><a href="../site/about">about</a></li>
-                            <li><a href="../site/bio">biography</a></li>
--->
                     </ul>
                 </div>
             </div>         </div>     </header>
 
 <div>
+
+-->
 <div class="container">
 
 <table class="table table-striped">
@@ -246,6 +256,8 @@
 
 
     <!--footer-->
+
+    <!--
     <footer class="blog-footer hidden-print">
         <div class="container">
             <div class="row-fluid">
@@ -254,7 +266,13 @@
                     <h4 class="nav-header">Site</h4>
                     <ul class="nav nav-list" id="site-links">
                         <li><a href=".."><i class="icon-home"></i>Home</a></li>
+
+                        -->
+
                         <!--<li><a href="../blog/"><i class="icon-list"></i>Archives</a></li>-->
+
+                            <!--
+
                         <li><a href="../tags.html"><i class="icon-tags"></i>Tags</a></li>
                     </ul>
                 </div>
@@ -275,7 +293,11 @@
                 </div>
 
 
-            </div> <!--end of fluid row-->
+            </div>
+            -->
+            <!--end of fluid row-->
+
+                        <!--
             <hr />
             <p>
                 <small>
@@ -286,9 +308,15 @@
                     Icons via <a href="http://fontello.com/">Fontello</a>.
                 </small>
             </p>
-        </div> <!--end of blog-footer-->
-    </footer> <!--end of container -->
+        </div>
+-->
+         <!--end of blog-footer-->
+                          <!--  </footer> <!--end of container -->
+
+
     <!--/footer-->
+
+                              <!--
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
     <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
 
@@ -297,3 +325,4 @@
 
 
 </html>
+-->

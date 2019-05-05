@@ -1,10 +1,11 @@
+---
 title: artifact
 date: 2006-09-29 06:56
 category: terminology
 tags: cultural heritage, IFC, IFC PS8
 slug: artifact
 summary: : a portable object that is created by past human activity
-
+---
 
 <!--
 summary: 

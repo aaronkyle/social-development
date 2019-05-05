@@ -1,9 +1,11 @@
+---
 title: action plan
 date: 2005-10-11 12:48
 category: terminology
 tags: ADB, IFC, World Bank,
 slug: action-plan
 summary: : a document defining actions for ensuring compliance with applicable laws, regulations, and policy mandates
+---
 
 An **action plan** prescribes actions necessary for a project to comply with applicable laws, regulations, and policy madates. Action plans may range from a brief description mitigation measures to a series of specific operational programmes and stratgies. 
 

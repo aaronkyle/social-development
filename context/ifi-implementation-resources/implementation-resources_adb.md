@@ -62,3 +62,38 @@ Indigenous Peoples [[PDF]](http://www.adb.org/Documents/Guidelines/IndigenousPeo
 
 
 * [Guidelines for Preparing a Design and Monitoing Framework](https://www.adb.org/sites/default/files/institutional-document/32509/guidelines-preparing-dmf.pdf)
+
+
+<!---
+
+<h2 id="adb-implementation-resources">ADB Implementation Resources</h2>
+<p>&nbsp;</p>
+<h3 id="project-categorization-forms">Project categorization forms</h3>
+<ul>
+<li>environment <a href="http://www.adb.org/Documents/Guidelines/Environmental_Assessment/Environmental-Categorization-Form.pdf">[PDF]</a> <a href="http://www.adb.org/Documents/Guidelines/Environmental_Assessment/Environmental-Categorization-Form.doc">[Doc]</a></li>
+<li>involuntary resettlement <a href="http://www.adb.org/Documents/Guidelines/Resettlement/IR-Categorization-Form.pdf">[PDF]</a> <a href="http://www.adb.org/Documents/Guidelines/Resettlement/IR-Categorization-Form.doc">[Doc]</a></li>
+<li>Indigenous Peoples <a href="http://www.adb.org/Documents/Guidelines/IndigenousPeoples/IP-Categorization-Form-Jun2010.pdf">[PDF]</a> <a href="http://www.adb.org/Documents/Guidelines/IndigenousPeoples/IP-Categorization-Form-Jun2010.doc">[Doc]</a></li>
+</ul>
+<h3 id="handbooks">Handbooks</h3>
+<ul>
+<li><a href="http://www.adb.org/Documents/Handbooks/Resettlement/">Handbook_on_Resettlement.pdf Handbook on Resettlement: A Guide to Good Practice</a> (1998)</li>
+<li><a href="http://www.adb.org/Documents/Handbooks/Social-Analysis/social-analysis-handbook.pdf">Handbook on Social Analysis, A Working Document</a> (Nov 2007)</li>
+</ul>
+<!--
+* [Public_Consultation_Information_Disclosure.pdf Implementation Notes on Public Consultation and Disclosure](http://www.adb.org/documents/guidelines/environmental_assessment/)
+-->
+
+<h3 id="evaluation-tools">Evaluation Tools</h3>
+<ul>
+<li>Rapid Environment Assessment checklists for many different sectors are available <a href="http://www.adb.org/documents/Guidelines/Environmental_Assessment/eaguidelines002.asp">here</a>.</li>
+</ul>
+<h3 id="case-studies">Case Studies</h3>
+<ul>
+<li><a href="http://www.adb.org/Documents/Books/Fostering-Public-Participation/fostering-public-participation.pdf">Fostering Public Participation in Budget-making: Case studies from Indonesia, Marshall Islands and Pakistan</a> (2006)</li>
+</ul>
+<h3 id="training-tools">Training Tools</h3>
+<ul>
+<li><a href="http://www.adb.org/documents/books/for-life-with-love/for-life-with-love.pdf">For Life, With Love: Training Tool for HIV Prevention and Safe Migration in Road Construction Settings and Affected Communities</a> (2009)</li>
+</ul>
+
+--->

@@ -1,24 +1,24 @@
 
 
-## [`business-case`](./business-case/)
+*  [`business-case`](./business-case/)
 
-## [`country-profiles`](./country-profiles/)
+*  [`country-profiles`](./country-profiles/)
 
-##  [`cultural-heritage`](./cultural-heritage/)
+*  [`cultural-heritage`](./cultural-heritage/)
 
-##  [`cumulative-impacts`](./cumulative-impacts/)
+*  [`cumulative-impacts`](./cumulative-impacts/)
 
-##  [`fpic`](./fpic/)	
+*  [`fpic`](./fpic/)	
 
-##  [`involuntary-resettlement`](./involuntary-resettlement/)	
+*  [`involuntary-resettlement`](./involuntary-resettlement/)	
 
-##  [`literature-reviews`](./literature-reviews/)
+*  [`literature-reviews`](./literature-reviews/)
 
-##  [`migration`](./migration/)
+*  [`migration`](./migration/)
 
-##  [`public-consultation-and-disclosure`](.context/thematic-issues/public-consultation-and-disclosure/)
+*  [`public-consultation-and-disclosure`](.context/thematic-issues/public-consultation-and-disclosure/)
 
-##  [`security`](./business-case/)
+*  [`security`](./business-case/)
 
-##  [`social-impact-assessment`](./business-case/social-impact-assessment)
+*  [`social-impact-assessment`](./business-case/social-impact-assessment)
 

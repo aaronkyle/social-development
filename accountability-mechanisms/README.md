@@ -7,7 +7,7 @@ This work focuses on mechanisms within the [Independent Accountability Mechanism
 
 <p>
   <a class="btn btn-primary" data-toggle="collapse" href="#terminology-toggle" role="button" aria-expanded="false" aria-controls="iam-member-toggle">
-    A brief aside about terminology
+   IAMnet Membership
   </a>
 </p>
 <div class="collapse" id="iam-member-toggle">

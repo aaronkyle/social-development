@@ -34,20 +34,6 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
 <hr>
 
 
-  <p>
-  <a class="btn btn-primary" data-toggle="collapse" href="#disclaimer-toggle" role="button" aria-expanded="false" aria-controls="disclaimer-toggle">
-    A short disclaimer
-  </a></p>
-<div class="collapse" id="disclaimer-toggle">
-  <div class="card card-body">
-
-  <p>Please accept my work as on-going. I continue to struggle to account for what constitutes ‘social policy’ for a given lending institution.</p>
-
-  <p>Please also recognize that this list is not meant to be exhaustive; my focus is specific to social development concerns.</p>
-  </div>
-</div>
-
-<hr>
 
 
   1 Asian Development Bank<br />
@@ -68,6 +54,9 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
   6 Overseas Private Investment Corporation (OPIC)<br />
 &nbsp;&nbsp;&nbsp;    6.1 [Policy](#opic-policy)<br />
 
+
+
+<hr>
 
   <p>
   <a class="btn btn-primary" data-toggle="collapse" href="#disclaimer-toggle" role="button" aria-expanded="false" aria-controls="disclaimer-toggle">

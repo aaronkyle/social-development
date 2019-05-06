@@ -55,6 +55,7 @@
 <a href="/tag/impact-assessment.html">impact assessment</a>
 -->
 </td>
+</tr>
 <tr class="even">
 <td align="left" style="vertical-align:top"><strong><a href="/terms/compensation_in-kind">compensation in kind</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>

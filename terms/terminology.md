@@ -1,9 +1,5 @@
 <table class="table table-striped">
 <tbody>
-<<<<<<< HEAD:context/terms/terminology.md
-</tr>
-=======
->>>>>>> master:terms/terminology.md
 <tr class="even">
 <td align="left" style="vertical-align:top"><strong><a href="/terms/action-plan">action plan</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
@@ -198,4 +194,3 @@
 </tbody>
 
 </table>
-

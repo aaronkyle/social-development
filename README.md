@@ -9,7 +9,7 @@ This repository is [open](./license.md) and [public](https://github.com/aaronkyl
 
 ## Organization
 
-For those reading [via this site's front end](http://applied-anthro.com/), I am slowing building out navigation links and index files to guide your journey through this website.  For now, you'll find that the site is comprised of '[old](http://applied-anthro.com/terms/social-policy/)' and 'new' layouts.  This derives from changes I made in how content is generated and published online.  Please bear with me; I'll work it out.  Here's a few bits of orientation.
+For those reading [via this site's front end](http://applied-anthro.com/), I am slowing building out navigation links and index files to guide your journey through this website. Please bear with me; I'll work it out.  Here are a few bits of orientation:
 
 [`terms/`](terms) `#` definitional terminology<br/>
 [`social-policy/`](social-policy) `#` clarifications of the organization of social policy among development financial institutions<br/>

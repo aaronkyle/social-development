@@ -4,7 +4,7 @@ This [repository](https://github.com/aaronkyle/social-development/) collects con
 
 Main sections currently include:
 
-* [`terms`](https://github.com/aaronkyle/terms)
+* [`terms`](https://github.com/aaronkyle/social-development/terms/)
    - Although I find it difficult to maintain, I have been trying to formulate definitions for terms while accounting for their varied usage internationally. [For legacy reasons this page is built differently on the site's front end](http://applied-anthro.com/terms/terminology.html).
 * [`social-policy`](http://applied-anthro.com/social-policy)
 * [`thematic-issues`](http://applied-anthro.com/thematic-issues)

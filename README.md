@@ -14,7 +14,7 @@ For those reading [via this site's front end](http://applied-anthro.com/), I am 
 For those reading [via GitHub](https://github.com/aaronkyle/social-development), the repository structure will be apparent.  Here's a few bits of orientation.
 
 [`archive/`](archive)	`#` record of HTML pages generated for web front end<br/>
-[`context/`](context)	`#` efforts to conceptually organize social policy`<br/>
+[`context/`](context)	`#` efforts to conceptually organize social policy<br/>
 `|__`[`accountability-mechanisms/`](accountability-mechanisms`) `#`<br/>
 `|__`[`country-safeguard-systems/`](country-safeguard-systems) `#` work on state-level social policy, including compilation of law and analysis of topical issues<br/>
 `|__`[`ifi-implementation-resources`](ifi-implementation-resources) `#`<br/>

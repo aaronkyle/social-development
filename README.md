@@ -21,7 +21,7 @@ For those reading [via GitHub](https://github.com/aaronkyle/social-development),
 [`international-law_good-practice/`](international-law_good-practice) `#`<br/>
 [`ref/`](ref/) `#` references and literature indices<br/>
 [`social-policy/`](social-policy) `#` clarifications of the organization of social policy among development financial institutions<br/>
-[`terms/terminology.html`](terms/) `#` definitional terminology<br/>
+[`terms/`](https://github.com/aaronkyle/social-development/terms) `#` definitional terminology<br/>
 [`thematic-issues/`](thematic-issues) `#`<br/>
 [`data`](data) `#` data sets that relate to social development issues<br/>
 

@@ -2,13 +2,7 @@
 
 *The concept of '[climate change](http://en.wikipedia.org/wiki/Climate_change)' is [a prevalent topic in popular discourses concerning the environmental impacts of international development processes](http://topics.nytimes.com/top/news/science/topics/globalwarming/index.html?ref=topics).  Yet to address 'climate change' (or even to demonstrate definitively that humans are inducing changes to climatic patterns) is practically impossible, and [often wrought with political controversy (especially in the United States)](http://en.wikipedia.org/wiki/Global_warming_controversy). By contrast, the 'cumulative impacts' (or 'cumulative effects') of development projects on the environment, ecology, and socio-economic context of communities are consequences that can be quantified and addressed. Work on assessing the cumulative impacts of development projects is becoming increasingly important to related processes of adequate and informed decision-making and risk management. This article provides a brief account of issues and challenges for performing 'cumulative impact assessments'.*
 
-by Marcus Björkqvist <br />
-with editorial contributions from [Portia Hunt](https://www.linkedin.com/in/portiahunt) and Aaron Dennis<br />
-2014-June-01<br />
-<span style="font-size:small;">&copy;Cross-Cultural Consulting Services, PLCC. 2014.</span><br />
-<span style="font-size:small;">[Attribution; Share Alike](http://creativecommons.org/licenses/by-sa/3.0/us/)</span>
-<p>&nbsp;</p>
-
+<hr/>
 
 Development projects and policies invariably entail environmental, social and economic impacts. Typically, the impacts of development initiatives are assessed and addressed individually&mdash;as the result or consequence of a single project or policy. Yet the ramifications that any given project or policy may have rarely occur in isolation. That is, when combined with the impacts of other proximate activities and multiplied over time, project operations may be of greater significance than they are assessed to be in isolation or at a specific moment in time.
 
@@ -51,8 +45,6 @@ For development practitioners in emerging markets, where the necessary data to s
 ## Concluding remarks
 
 The challenge of assessing and managing cumulative impacts will grow in importance as awareness increases of the inter-connection between economic development and environmental and social well-being. The 'good practice' recommendations available to development practitioners are numerous (far more are available than those referenced here!), and they provide us with useful tools to at least begin understanding, identifying and addressing cumulative impacts. As noted, however, the tremendous variation in governmental capacity to facilitate cross-sectoral CIAs is one of the most difficult barriers to effective work in this field. CCCS encourages our clients and colleagues to learn from the experiences of leading nations, such as Canada and the United States, to developing CIA frameworks and to work with project partners and governments to improve and extend operational frameworks for cooperatively assessing cumulative impacts. We feel this is possible through ongoing dialogue on issues of incentives and accountability and to demonstrate how structured regulatory environment can positively benefit all project stakeholders. The challenges may be many, but so too are the opportunities for cross-sector collaborations and meaningful investment in social performance, sustainability, and benefits-sharing.
-
-*Do you, as a development practitioner, have experience in assessing and managing cumulative impacts that can help illustrate the challenges discussed (or not discussed) above? Please feel free to share by commenting below or by emailing [Marcus Björkqvist, CCCS Executive Coordinator](mailto:marcus.bjoerkqvist@crossculturalconsult.com). We welcome your feedback and contributions!*
 
 
 ## Sources cited

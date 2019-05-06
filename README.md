@@ -17,7 +17,7 @@ For those reading [via this site's front end](http://applied-anthro.com/), I am 
 [`terms/`](terms) `#` definitional terminology<br/>
 [`social-policy/`](social-policy) `#` clarifications of the organization of social policy among development financial institutions<br/>
 [`thematic-issues/`](thematic-issues) `#`<br/>
-bility-mechanisms/`](accountability-mechanisms) `#`<br/>
+[`accountability-mechanisms/`](accountability-mechanisms) `#`<br/>
 [`country-safeguard-systems/`](country-safeguard-systems) `#` work on state-level social policy, including compilation of law and analysis of topical issues<br/>
 [`ifi-implementation-resources/`](ifi-implementation-resources) `#`<br/>
 [`international-law_good-practice/`](international-law_good-practice) `#`<br/>

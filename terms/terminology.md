@@ -1,5 +1,4 @@
 <table class="table table-striped">
-<tbody>
 <tr class="even">
 <td align="left" style="vertical-align:top"><strong><a href="/terms/action-plan">action plan</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
@@ -191,6 +190,4 @@
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: the technique of integrating multiple lines of investigation and analysis of a topic of inquiry to ensure the integrity of data sources, to enhance the insights of analytical inquiry, as well as to enhance confidence in the ensuing findings</td>
 </tr>
-</tbody>
-
 </table>

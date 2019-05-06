@@ -74,8 +74,6 @@ Work on this repository is in its very early stages. I am currently still cullin
 I would ulitmately like to build a tool that pulls and re-organizes these data into a common framework.
 
 
---
-
 
 ## references:
 * Independent Accountability Mechanisms Network (IAMnet): http://independentaccountabilitymechanism.net/

@@ -21,9 +21,9 @@ For those reading [via this site's front end](http://applied-anthro.com/), I am 
 
 [`accountability-mechanisms/`](accountability-mechanisms) `#`<br/>
 [`country-safeguard-systems/`](country-safeguard-systems) `#` work on state-level social policy, including compilation of law and analysis of topical issues<br/>
-[`ifi-implementation-resources`](ifi-implementation-resources) `#`<br/>
+[`ifi-implementation-resources/`](ifi-implementation-resources) `#`<br/>
 [`international-law_good-practice/`](international-law_good-practice) `#`<br/>
-[`data`](data) `#` data sets that relate to social development issues<br/>
+[`data/`](data) `#` data sets that relate to social development issues<br/>
 [`ref/`](ref/) `#` references and literature<br/>
 
 For those reading [via GitHub](https://github.com/aaronkyle/social-development), the repository structure will be apparent. 

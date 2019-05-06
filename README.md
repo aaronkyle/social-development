@@ -27,6 +27,6 @@ For those reading [via GitHub](https://github.com/aaronkyle/social-development),
 [`data`](data) `#` data sets that relate to social development issues<br/>
 [`site`](site) `#` site-level pages<br/>
 [`.gitignore`](.gitignore) `#` controls the files managed by the Git file-sharing platform<br/>
-[`README`](README`) `#` introduces the repository concept (for viewers on GitHub, it's the repository landing page)`
+[`README`](README`) `#` introduces the repository concept (for viewers on GitHub, it's the repository landing page)
 
 

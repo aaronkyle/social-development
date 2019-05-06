@@ -10,7 +10,7 @@ Main sections currently include:
 * [`thematic-issues`](http://applied-anthro.com/social-development/thematic-issues)
 * [`international-law_good-practice`](http://applied-anthro.com/social-development/international-law_good-practice)
  * [`ifi-implementation-resources`](http://applied-anthro.com/social-development/ifi-implementation-resources)
-* [`country-safeguard-systems`]((http://applied-anthro.com/social-development/country-safeguard-systems)
+* [`country-safeguard-systems`](http://applied-anthro.com/social-development/country-safeguard-systems)
  * [`accountability-mechanisms`](hhttp://applied-anthro.com/social-development/accountability-mechanisms)
 
 Also check out the [references folder](./ref/) for spreadsheet-formatted bibliographics for topical issues.

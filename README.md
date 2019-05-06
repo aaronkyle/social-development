@@ -13,23 +13,20 @@ For those reading [via this site's front end](http://applied-anthro.com/), I am 
 
 For those reading [via GitHub](https://github.com/aaronkyle/social-development), the repository structure will be apparent.  Here's a few bits of orientation.
 
-```
-archive/	# record of HTML pages generated for web front end
-context/	# efforts to conceptually organize social policy
-|__accountability-mechanisms/	# 
-|__country-safeguard-systems/	# work on state-level social policy, including compilation of law and analysis of topical issues
-|__ifi-implementation-resources/	# 
-|__international-law_good-practice/	# 
-|__ref/	# references and literature indices
-|__social-policy/	# clarifications of the organization of social policy among development financial institutions
-|__terms/	# definitional terminology
-|__thematic-issues/
-data/		# data sets that relate to social development issues
-site/		# site-level pages
-.gitignore	# controls the files managed by the Git file-sharing platform
-README		# introduces the repository concept (for viewers on GitHub, it's the repository landing page) 
-
-```
-
+[`archive/`](archive)	`# record of HTML pages generated for web front end`<br/>
+[`context/`](context)	`# efforts to conceptually organize social policy`<br/>
+`|__`[`accountability-mechanisms/`](accountability-mechanisms`) `#`<br/>
+`|__`[`country-safeguard-systems/`](country-safeguard-systems) `# work on state-level social policy, including compilation of law and analysis of topical issues`<br/>
+`|__`[`ifi-implementation-resources`](ifi-implementation-resources) `#`<br/>
+  
+`|__`[`international-law_good-practice/`](international-law_good-practice) `#`<br/>
+`|__`[`ref/`](ref/) `# references and literature indices`<br/>
+`|__`[`social-policy/`](social-policy) `#<code> clarifications of the organization of social policy among development financial institutions`<br/>
+`|__`[`terms/`](terms/) `# definitional terminology`<br/>
+`|__`[`thematic-issues/`](thematic-issues) `#`<br/>
+[`data`](data) `# data sets that relate to social development issues`<br/>
+[`site`](site) `# site-level pages`<br/>
+[`.gitignore`](.gitignore) `# controls the files managed by the Git file-sharing platform`<br/>
+[`README`](README`) `# introduces the repository concept (for viewers on GitHub, it's the repository landing page)`
 
 

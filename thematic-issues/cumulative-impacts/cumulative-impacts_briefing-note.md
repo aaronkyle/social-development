@@ -2,13 +2,6 @@
 
 *The concept of '[climate change](http://en.wikipedia.org/wiki/Climate_change)' is [a prevalent topic in popular discourses concerning the environmental impacts of international development processes](http://topics.nytimes.com/top/news/science/topics/globalwarming/index.html?ref=topics).  Yet to address 'climate change' (or even to demonstrate definitively that humans are inducing changes to climatic patterns) is practically impossible, and [often wrought with political controversy (especially in the United States)](http://en.wikipedia.org/wiki/Global_warming_controversy). By contrast, the 'cumulative impacts' (or 'cumulative effects') of development projects on the environment, ecology, and socio-economic context of communities are consequences that can be quantified and addressed. Work on assessing the cumulative impacts of development projects is becoming increasingly important to related processes of adequate and informed decision-making and risk management. This article provides a brief account of issues and challenges for performing 'cumulative impact assessments'.*
 
-by Marcus Björkqvist <br />
-with editorial contributions from [Portia Hunt](https://www.linkedin.com/in/portiahunt) and Aaron Dennis<br />
-2014-June-01<br />
-<span style="font-size:small;">&copy;Cross-Cultural Consulting Services, PLCC. 2014.</span><br />
-<span style="font-size:small;">[Attribution; Share Alike](http://creativecommons.org/licenses/by-sa/3.0/us/)</span>
-<p>&nbsp;</p>
-
 
 Development projects and policies invariably entail environmental, social and economic impacts. Typically, the impacts of development initiatives are assessed and addressed individually&mdash;as the result or consequence of a single project or policy. Yet the ramifications that any given project or policy may have rarely occur in isolation. That is, when combined with the impacts of other proximate activities and multiplied over time, project operations may be of greater significance than they are assessed to be in isolation or at a specific moment in time.
 

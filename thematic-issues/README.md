@@ -6,7 +6,7 @@ Thematic issues include:
     - [`baseline data capture`](./social-impact-assessment/baseline-surveys)
     - [`migration`](./migration)
     - [`security`](./security)
-    - [`field implementation protocols`](./)
+    - [`methods / field implementation protocols`](./social-impact-assessment/methodology)
 
 *  [`fpic`](./fpic)	
 

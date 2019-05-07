@@ -16,9 +16,9 @@ Thematic issues include:
 
 *  [`cumulative impacts`](./cumulative-impacts)
 
-  *  [`analysis of project performance`](./)
+*  [`analysis of project performance`](./)
     - [`business case`](./business-case)
 
-
 *  [`country profiles`](./country-profiles/)
+
 *  [`literature reviews`](./literature-reviews/)

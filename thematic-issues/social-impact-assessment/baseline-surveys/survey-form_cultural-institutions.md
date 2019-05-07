@@ -1,7 +1,11 @@
-		QUESTIONS -English	QUESTIONS -Bahasa Indonesia	PROMPT / OPTIONS -Englsih	PROMPT / OPTIONS -Bahasa Indonesia	NOTES
+
+##		STRUCTURES OF AUTHORITY		
+
+|	No.	|	QUESTIONS -English	|	QUESTIONS -Bahasa Indonesia	|	PROMPT / OPTIONS -Englsih	|	PROMPT / OPTIONS -Bahasa Indonesia	|	NOTES	|
+|---|---|---|---|---|---|	
+|	##	|	STRUCTURES OF AUTHORITY	|		|		|		|		|			
 						
-						
-##		STRUCTURES OF AUTHORITY				
+		
 						
 446		Can you describe the structure of political authority within your community?	Apa saja struktur politik dalam komunitas Anda?			
 						
@@ -31,7 +35,15 @@
 						
 						
 						
-##		SYSTEMS OF CONFLICT RESOLUTION				
+##		SYSTEMS OF CONFLICT RESOLUTION		
+
+
+|	No.	|	QUESTIONS -English	|	QUESTIONS -Bahasa Indonesia	|	PROMPT / OPTIONS -Englsih	|	PROMPT / OPTIONS -Bahasa Indonesia	|	NOTES	|
+|---|---|---|---|---|---|	
+|	##	|	SYSTEMS OF CONFLICT RESOLUTION	|		|		|		|		|			
+						
+
+
 						
 459		How do you solve problems / conflicts within your community?	Bagaimana masyarakat lokal memecahkan permasalahan/konflik ini?			
 						
@@ -54,10 +66,17 @@
 464		Are there any "hot issues" that have the potential to cause conflict in your community?	Apa isu hangat/konflik terkini yang terjadi di desa ini?			
 						
 465		Are there many people could you turn to for help during a serious personal crisis?				
+
+
+
 						
 						
-						
-##		COMMUNITY LEADERSHIP AND DECISION MAKING				
+##		COMMUNITY LEADERSHIP AND DECISION MAKING	
+
+
+|	No.	|	QUESTIONS -English	|	QUESTIONS -Bahasa Indonesia	|	PROMPT / OPTIONS -Englsih	|	PROMPT / OPTIONS -Bahasa Indonesia	|	NOTES	|
+|---|---|---|---|---|---|	
+|	##	|	COMMUNITY LEADERSHIP AND DECISION MAKING	|		|		|		|		|			
 						
 466		Is there any particular person in your community who you recognize as a trusted public authority?				If more than one person, specify starting from the person you believe to be the most prominent public figure.
 *				(name of figure)		
@@ -70,7 +89,7 @@
 						
 469		How do you envision a ‘representative’ decision-making process?	Bagaimana Anda  membayangkan proses pengambilan keputusan melalui ‘perwakilan’?			
 						
-470		Do you think such a ‘representative’ decision-making process is possible for, and appropriate to, broad community decision-making with regard to your interactions with the Abadi Project?	Apakah Anda pikir  'perwakilan' tersebut mungkin dan layak diterapkan pada proses pengambilan keputusan dalam komunitas yang lebih luas sehubungan dengan interaksi Anda dengan Proyek Abadi?			
+470		Do you think such a ‘representative’ decision-making process is possible for, and appropriate to, broad community decision-making with regard to your interactions with the project?	Apakah Anda pikir  'perwakilan' tersebut mungkin dan layak diterapkan pada proses pengambilan keputusan dalam komunitas yang lebih luas sehubungan dengan interaksi Anda dengan Proyek?			
 						
 471		What mechanisms do communities prefer for continuing consultations?	Mekanisme apa yang lebih disukai orang-orang untuk konsultasi bersinambung?			
 						

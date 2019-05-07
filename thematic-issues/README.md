@@ -8,17 +8,14 @@ Thematic issues include:
     - [`security`](./security)
     - [`methods / field implementation protocols`](./social-impact-assessment/methodology)
 
-*  [`fpic`](./fpic)
+*  [`fpic`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/fpic)
 
-*  [`involuntary resettlement`](./involuntary-resettlement)
+*  [`involuntary resettlement`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/involuntary-resettlement)
 
 *  [`cultural heritage`](./cultural-heritage)
 
-*  [`cumulative impacts`](./cumulative-impacts)
-
-  *  [`analysis of project performance`](./)
-    - [`business case`](./business-case)
-
+*  [`cumulative impacts`](./cumulative-impacts/cumulative-impacts_briefing-note)
 
 *  [`country profiles`](./country-profiles/)
-*  [`literature reviews`](./literature-reviews/)
+
+*  [`literature reviews`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/literature-reviews)

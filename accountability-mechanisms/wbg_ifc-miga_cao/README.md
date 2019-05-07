@@ -308,3 +308,17 @@ https://www.facebook.com/CAOoffice
 
 Learn more about our work this year at
 CAO-AR17.org 
+
+
+
+----
+
+
+
+#### WEligibility - Compliance
+
+1. The complaint pertains to a project that IFC/MIGA is participating in, or is actively considering.
+2. The issues raised in the complaint pertain to CAO’s mandate to address environmental and social impacts of IFC/MIGA projects.
+3. The complainant is, or may be, affected by the environmental and/or social impacts raised in the complaint.
+
+Complaints deemed by CAO to be malicious, or generated to gain competitive advantage, are ineligible for assessment.

@@ -1,0 +1,93 @@
+
+<!-- commenting out default theme information -->
+  <!--
+  <div class="wrapper">
+
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+    {%- if page_paths -%}
+
+      <nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger">
+          {%- for path in page_paths -%}
+            {%- assign my_page = site.pages | where: "path", path | first -%}
+            {%- if my_page.title -%}
+            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            {%- endif -%}
+          {% endfor -%}
+        </div>
+
+      </nav>
+
+    {%- endif -%}
+
+</div>
+  -->
+
+
+  <!-- adding semantic ui nav bar -->
+
+    <!--Sidebar Menu
+    <div class="ui vertical inverted sidebar menu">
+      <a href="/index.html" class="header item">Social Development<br />Policy & Practice</a>
+      <a class="item" href="http://applied-anthro.com/context/">On Policy</a>
+      <a class="item" href="https://github.com/aaronkyle/social-development/tree/master/context/thematic-issues/">On Practice</a>
+      <a class="item" href="https://github.com/aaronkyle/social-development/tree/">Git Repository</a>
+    </div>
+-->
+    <!--Top
+    <div class="pusher">
+      <div class="ui top fixed inverted vertical masthead center aligned segment">
+        <div class="ui container">
+          <div class="ui secondary inverted pointing menu">
+            <a class="toc item"><i class="sidebar icon"></i></a>
+            <a href="/index.html" class="header item">Social Development | Policy & Practice</a>
+              <div class="right menu">
+                <a class="item" href="http://applied-anthro.com/context/">On Policy</a>
+                <a class="item" href="http://applied-anthro.com/context/context/thematic-issues/">On Practice</a>
+                <a class="item" href="http://applied-anthro.com/context/terms/terminology.html">Terminology</a>
+              </div>
+           </div>
+        </div>
+      </div>
+-->
+
+  <!-- Navigation -->
+   <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top" role="navigation">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <a class="navbar-brand py-0" href="/index.html">Social Development<br />Policy & Practice</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                  </button>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item"><a class="nav-link" href="http://applied-anthro.com/terms/terminology.html">Terminology</a></li>
+        <li class="nav-item"><a class="nav-link" href="http://applied-anthro.com/social-policy">On Policy</a></li>
+        <li class="nav-item dropdown">
+          <a href="context.html" class="nav-link dropdown-toggle" id="context" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" >On Practice<span class="caret"></span></a>
+          <!--<ul class="dropdown-menu">-->
+          <div class="dropdown-menu" aria-labelledby="context">
+            <!--<li>--><a class="dropdown-item" href="http://applied-anthro.com/thematic-issues/">Thematic Issues</a>
+            <!--<li>--><a class="dropdown-item" href="http://applied-anthro.com/accountability-mechanisms/">Accountability</a>
+          </div>
+        </li>
+        <li class="nav-item"><a class="nav-link" href="https://github.com/aaronkyle/social-development/"><i class="fab fa-github-square github"></i></a></li>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+<!-- </header> -->

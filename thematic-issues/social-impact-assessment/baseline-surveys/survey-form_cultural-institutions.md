@@ -54,12 +54,12 @@
 462		What community facilities are there in this area?				
 						
 463		What religious facilities are there in this area?				
-*				mosque	mesjid	
-*				prayer house	mushola	
-*				protestant church	gereja protestan	
-*				catholic church	gereja katolik	
-*				temple	pura	
-*				monastery	vihara	
+* mosque	mesjid	
+* prayer house	mushola	
+* protestant church	gereja protestan	
+* catholic church	gereja katolik	
+* temple	pura	
+* monastery	vihara	
 						
 463		Are there any community institutions, other than government, which can help to resolve problems / conflicts in the village?	Apakah ada institusi lembaga masyarakat yang ditunjuk oleh masyarakat lokal untuk memecahkan permasalahan/konflik yang terjadi di desa ini?			
 						
@@ -79,9 +79,9 @@
 |	##	|	COMMUNITY LEADERSHIP AND DECISION MAKING	|		|		|		|		|			
 						
 466		Is there any particular person in your community who you recognize as a trusted public authority?				If more than one person, specify starting from the person you believe to be the most prominent public figure.
-*				(name of figure)		
-*				(social status / type public figure)		
-*				(notes)		
+* (name of figure)		
+* (social status / type public figure)		
+* (notes)		
 						
 467		Do you feel that you are well informed about local affairs and that you can influence decisions that affect your neighborhood?				
 						

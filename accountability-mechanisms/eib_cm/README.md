@@ -83,7 +83,15 @@ Both the Initial Assessment Report and the Conclusions Report are submitted in d
 
 
 
+#### Eligibility - Compliance Investigation
 
+
+For those projects that raise substantial concerns regarding social or environmental outcomes and or
+seriously question governance of objects or vehicles of EIB financing:
+
+* Understand how EIB operational services have ensured (i) compliance with applicable frameworks (Laws, rules and regulation, EIB policies and standards) and (ii) appropriate project performance;
+* Assess potential indications that EIB policies, standards and guidelines could have failed to provide an adequate level of protection and safeguard;
+* Identify, if any, reasonable indications of non-compliance with applicable frameworks (Laws, rules and regulation, EIB policies and standards);
 
 
 ---- 

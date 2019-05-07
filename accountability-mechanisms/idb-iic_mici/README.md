@@ -186,3 +186,18 @@ tribunal@iadb.org
 
 --->
 
+
+
+
+#### Eligibility - Compliance 
+
+
+
+MICI-IDB Policy
+
+a. The Request is filed by two or more persons who believe that they have been or may be affected and who reside in the country where the Bank-Financed Operation is implemented. If the Request is filed by a representative, the identity of the Requesters on whose behalf the Request is filed will be indicated and written proof of representation will be attached.
+b. The Request clearly identifies a Bank-Financed Operation that has been approved by the Board, the President, or the Donors Committee.
+c. The Request describes the Harm that could result from potential noncompliance with one or more Relevant Operational Policies.
+d. The Request describes the efforts that the Requesters have made to address the issues in the Request with Management and includes a description of the results of those efforts, or an explanation of why contacting Management was not possible.
+e. None of the exclusions set forth in paragraph 19 of this Policy apply.
+

@@ -1,10 +1,10 @@
 The work in this repository is either original or I link to the original source (or my best approximation).  I represent only my own views, try not to pass immediate judgement on others, and seek to find ways of understanding and managing felt, human impact.  Please don't hack or sue me.
 
----
+<hr />
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
----
+<hr />
 
 ### Creative Commons Attribution-ShareAlike 4.0 International Public License
 

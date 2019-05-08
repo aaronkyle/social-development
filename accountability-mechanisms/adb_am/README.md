@@ -198,3 +198,21 @@ The Compliance Review Panel undertakes the following activities:[1](https://www.
 
 
 ---
+
+#### Eligibility - Compliance
+
+
+142. Complaints will be excluded if they are
+
+(i) about actions that are not related to ADB’s action or omission in the course of formulating, processing, or implementing ADB-assisted projects; <br />
+(ii) about matters that complainants have not made good faith efforts to address with the operations department concerned; <br />
+(iii) about matters already considered by the SPF, unless the complainants have new evidence previously not available to them and unless the subsequent complaint can be readily consolidated with the earlier complaint; <br />
+(iv) about an ADB-assisted project for which 2 or more years have passed since the loan or grant closing date;41 <br />
+(v) frivolous, malicious, trivial, or generated to gain competitive advantage; <br />
+(vi) about decisions made by ADB, the borrower or executing agency, or the private sector client on the procurement of goods and services, including consulting services; <br />
+(vii) about allegations of fraud or corruption in ADB-assisted projects or by ADB staff; <br />
+(viii) about the adequacy or suitability of ADB’s existing policies and procedures; <br />
+(ix) within the jurisdiction of ADB’s Appeals Committee or ADB’s Administrative Tribunal, or relate to ADB personnel matters; and/or <br />
+(x) about ADB’s non-operational housekeeping matters, such as finance and administration.
+
+

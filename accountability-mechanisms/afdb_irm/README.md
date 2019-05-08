@@ -336,6 +336,54 @@ Once this determination is made, the Director shall promptly notify the Requesto
 
 ---
 
+### Eligibility - Compliance Review
+
+
+
+a. Scope
+
+1. CRMU is authorized to accept requests for review (‘Request(s)’) from two or more persons
+with a common interest (‘Requestors’) who allege that an actual or threatened material adverse
+effect on the affected persons’ rights or interests arises directly from an act or omission of a
+member institution of the Bank Group as a result of the failure by the said institution to follow
+any of its own operational policies and procedures during the design, appraisal and/or
+implementation of a Bank Group-financed project.
+
+b. Limitations
+
+2. CRMU is not authorized to receive Requests relating to:
+
+(a) Any procurement by the Bank Group or its borrowers from suppliers of goods and
+services financed by or expected to be financed by the Bank Group under a loan or
+grant agreement, or from losing tenders for the supply of such goods and services
+which shall continue to be addressed under other existing procedures. These are
+handled by another unit within the Bank Group;
+(b) Fraud or corruption since they are handled by another unit within the Bank Group;
+(c) Matters before the Administrative Tribunal of the Bank;
+(d) Matters before other judicial review or similar bodies;
+(e) Frivolous, malicious, or anonymous complaints;
+(f) Complaints motivated by an intention to gain competitive advantage;
+(g) Matters over which the CRMU, a Panel, the President or the Boards has/have already
+made a recommendation or reached a decision after having received and reviewed a
+Request, unless justified by clear and compelling new evidence or circumstances not
+known at the time of the prior request;
+(h) Actions that are the sole responsibility of other parties, including the borrower or
+potential borrower, and which do not involve any action or omission on the part of the
+Bank Group;
+(i) The adequacy or unsuitability of Bank Group policies or procedures; and
+(j) Alleged Human Rights violations, other than those involving social and economic
+rights alleging any action or omission on the part of the Bank Group.
+
+c. Statute of Limitation
+
+3. CRMU shall not handle complaints filed more than 24 months after the physical completion of
+the project concerned or more than 24 months after the final disbursement under the loan or
+grant agreement or the date of cancellation of the disbursement amount, whichever comes first.
+
+
+
+---
+
 * [Registered Requests](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/)
     * [RQ2016/3 (Guinea)](https://www.afdb.org/en/independent-review-mechanism/management-of-complaints/registered-requests/rq20163-guinea/)
         * [Register of Request](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Compliance-Review/Register_of_Request.pdf)

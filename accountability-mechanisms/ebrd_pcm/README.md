@@ -48,6 +48,67 @@ The Project Complaint Mechanism (PCM) is the EBRD's accountability mechanism tha
 
 ---
 
+## Eligibility - Compliance 
+
+
+
+
+PCM-EBRD
+
+
+b) To be held eligible for a Compliance Review,
+the Complaint must be filed within 24 months
+after the date on which the Bank ceased to
+participate in the Project and must relate to a
+Relevant EBRD Policy. - 
+
+...
+
+Where the Complaint raises issues appropriate
+for a Compliance Review, the Eligibility Assessors
+will, in their determination of eligibility, also
+consider whether the Complaint relates to:
+
+a) actions or inactions that are the responsibility of the Bank
+b) more than a minor technical violation of a Relevant EBRD Policy unless such technical violation is alleged to have caused harm
+c) a failure of the Bank to monitor Client commitments pursuant to a Relevant EBRD Policy.
+
+
+
+28. A Complaint will not be eligible for either a
+Problem-solving Initiative or a Compliance
+Review if:
+a) it was filed fraudulently or for a frivolous or
+malicious purpose
+b) its primary purpose is to seek competitive
+advantage through the disclosure of
+information or through delaying the Project
+c) in the case of a request for a Problem-solving
+Initiative, the subject matter of the Complaint
+has been dealt with by the accountability
+mechanism of any co-financing institution
+and the PCM Officer is satisfied that the
+complaint was adequately considered by
+such accountability mechanism, unless
+there is new evidence or circumstances not
+known at the time of the previous complaint.
+In the event that a Complaint is seeking a
+Compliance Review, a review by another
+accountability mechanism will not disqualify
+the Complaint from being processed under
+these rules
+d) it relates to the obligations of a third party,
+such as an environmental authority and the
+adequacy of their implementation of national
+requirements, or relating to the obligations of
+the country under international law or treaty,
+rather than to issues that are under the
+control of the Client or the Bank.
+
+
+
+---
+
 ### [PCM Register](http://www.ebrd.com/work-with-us/project-finance/project-complaint-mechanism/pcm-register.html)
 
 2017

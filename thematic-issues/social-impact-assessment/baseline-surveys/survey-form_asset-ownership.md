@@ -9,7 +9,7 @@
 
 273		Which types of marine equipment do you own?	
 
-*		quantity		fishing nets		
+*	quantity		fishing nets		
 *	line fishing		
 *	seaweed line		
 *	trawl / drag net	pukat	
@@ -29,7 +29,7 @@
 
 274		Which types of land equipment do you own?	
 
-*		quantity		chainsaw		
+*	quantity		chainsaw		
 *	bicycle		
 *	tricycle		
 *	cart		
@@ -40,7 +40,7 @@
 
 275		Which types of business equipment do you own?	
 
-*		quantity		cell phone		
+*	quantity		cell phone		
 *	business computer		
 *	printer		
 *	camera		
@@ -88,8 +88,8 @@
 
 285		If you do not own the land, under what ownership arrangement do you work?	JIka bapak/ibu tidak memiliki lahan, apa status kepemilikan lahan tersebut? Dan dimana lokasinya?
 
-*		location	
-*		ownership arrangement		rent	sewa	
+*	location	
+*	ownership arrangement		rent	sewa	
 *	joint ownership	kepemilikan bersama	
 *	borrow	meminjam	
 *	indigenous land	lahan adat	
@@ -97,7 +97,7 @@
 
 286		type of land resource	
 
-*		plot/parcel location		yard	pekarangan rumah	
+*	plot/parcel location		yard	pekarangan rumah	
 *	garden	kebun/ladang	
 *Status & Land Area [m2]
 *	profit sharing		
@@ -121,18 +121,18 @@
 
 290		ownership of fruit trees (by the time of survey)	
 
-*		no.		count of number of trees/plants		
-*		quantity	
+*	no.		count of number of trees/plants		
+*	quantity	
 
 291		ownership of timber trees (by the time of survey)	
 
-*		no.		count of number of trees/plants		
-*		quantity	
+*	no.		count of number of trees/plants		
+*	quantity	
 
 292		name of seasonal crops	
 
-*		no.		count of number of trees/plants		
-*		quantity	
+*	no.		count of number of trees/plants		
+*	quantity	
 
 293		vegetative growth stage	
 
@@ -141,8 +141,8 @@
 
 294		name of perennial crop	
 
-*		no.		count of number of trees/plants		
-*		quantity	
+*	no.		count of number of trees/plants		
+*	quantity	
 
 295		vegetative growth stage	
 
@@ -164,9 +164,9 @@
 
 298		How many livestock does the household own?	Berapa banyak ternak yang bapak/ibu miliki di rumah?
 
-*		livestock type		cattle	sapi	
+*	livestock type		cattle	sapi	
 *	buffalo / carabao	kerbau	
-*		number of head		water buffalo		
+*	number of head		water buffalo		
 *	chickens	ayam	
 *	native chicken	ayam buras / ayam kampung	
 *	laying chickens	ayam petelor	
@@ -186,7 +186,8 @@
 *	in the forest	di hutan	
 *	not necessarily	tidak tentu	
 *	other (specify)	lainnya (sebutkan)	
-Currently [creating a user interface](https://observablehq.com/d/7db4cdf65b4ff32d) in Observable.
+
+
 
 
 ## HOME OWNERSHIP
@@ -207,6 +208,8 @@ Currently [creating a user interface](https://observablehq.com/d/7db4cdf65b4ff32
 *	living in others’ yard		
 *	other (specify)	lainnya (sebutkan)	
 
+
+## OWNERSHIP OF MATERIAL WEALTH	
 
 |	##	|	OWNERSHIP OF MATERIAL WEALTH		|		|		|		|		|
 

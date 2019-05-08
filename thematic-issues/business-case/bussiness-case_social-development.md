@@ -2,11 +2,6 @@
 
 <span style="text-align:justify;">*Although observance of the rights of Indigenous Peoples is mandated by most international financial institutions, clients sometimes ask whether they stand to realize any tangible benefits from investing in social developments targeting affected Indigenous Peoples communities. This article summarizes some arguments in favor of early engagement with project-affected indigenous communities.*</span> 
 
-by Marcus Björkqvist and Aaron Kyle Dennis
-2014-Feb-01 
-<span style="font-size:small;">©Cross-Cultural Consulting Services, PLCC. 2014.
-<span style="font-size:small;">[Attribution; Share Alike](http://creativecommons.org/licenses/by-sa/3.0/us/)</span>
-<p>&nbsp;</p>
 
 Many arguments in favor of robust forms of engagement and benefits-sharing available in social development literature are predicated on negative case examples emphasizing what a company risks by not complying with minimal policy requirements. For instance, arguments in favor of early project engagement with potentially-affected communities are often framed as reducing corporate liability and avoiding litigation. While cautionary tales of risks and repercussions of poor relations with indigenous communities can carry considerable clout when attempting to motivate social investments and development initiatives, there are  more positive arguments for investing money, time and resources into collaborative partnerships with Indigenous Peoples.
 

@@ -1,8 +1,10 @@
-# Accounting for Cumulative Impacts: Notes for development practitioners
+# Accounting for Cumulative Impacts: <br />Notes for Development Practitioners
 
 *The concept of '[climate change](http://en.wikipedia.org/wiki/Climate_change)' is [a prevalent topic in popular discourses concerning the environmental impacts of international development processes](http://topics.nytimes.com/top/news/science/topics/globalwarming/index.html?ref=topics).  Yet to address 'climate change' (or even to demonstrate definitively that humans are inducing changes to climatic patterns) is practically impossible, and [often wrought with political controversy (especially in the United States)](http://en.wikipedia.org/wiki/Global_warming_controversy). By contrast, the 'cumulative impacts' (or 'cumulative effects') of development projects on the environment, ecology, and socio-economic context of communities are consequences that can be quantified and addressed. Work on assessing the cumulative impacts of development projects is becoming increasingly important to related processes of adequate and informed decision-making and risk management. This article provides a brief account of issues and challenges for performing 'cumulative impact assessments'.*
 
+
 <hr/>
+
 
 Development projects and policies invariably entail environmental, social and economic impacts. Typically, the impacts of development initiatives are assessed and addressed individually&mdash;as the result or consequence of a single project or policy. Yet the ramifications that any given project or policy may have rarely occur in isolation. That is, when combined with the impacts of other proximate activities and multiplied over time, project operations may be of greater significance than they are assessed to be in isolation or at a specific moment in time.
 
@@ -16,7 +18,7 @@ The term 'cumulative impacts' refers to successive, incremental, and/or combined
 In public discourse, the cumulative impacts of project operations on the environment tend to be more prominently discussed than those related to social and economic concerns. Yet all three kinds are inter-related, especially when seen over time. The cumulative impacts of polluting emissions from industrial activities (albeit popularly considered to be an "environmental issue"), for instance, could result in deteriorating respiratory health among local communities when taking into account the total emissions of multiple projects in a region and compounding exposure over time. Indigenous Peoples communities tend to be especially vulnerable to inter-related cumulative impacts, as many indigenous communities are dependent on natural resources to support their lives, cultural practices, and livelihoods.
 
 
-## International trends toward increasing regulation of cumulative impact assessments and related challenges
+## international trends toward increasing regulation of cumulative impact assessments and related challenges
 
 To successfully evaluate and mitigate cumulative impacts often requires inter-disciplinary cooperation across (often competing!) projects and sectors. Parties may agree on the importance of avoiding and mitigating cumulative impacts and yet still disagree about how to address them. In CCCS’ experience, project proponents can be reluctant to take on the challenge of conducting cumulative impact assessments out of concern that if they identify potentially significant risks and/or negative consequences from the amalgamated activities of regional actors and activities (past, present and planned), stakeholders might very well hold them *alone* accountable for addressing these impacts&mdash;even if no other parties agree with their findings or offer support. Addressing cumulative impacts is further complicated by the challenges of demonstrating complex causal relationships, the concurrence of impacts, and the need for cross-disciplinary expertise ([Kay et al. 2010:1](http://cardi.cornell.edu/cals/devsoc/outreach/cardi/publications/upload/Policy_Brief_Sept10-draft05.pdf), p. 1).
 
@@ -26,7 +28,7 @@ Establishing requirements for cumulative impact assessment via international fin
 
 
 
-## Guidance notes for development practitioner when accounting for cumulative impacts
+## guidance notes for development practitioner when accounting for cumulative impacts
 
 Common to most (if not all) of the approaches to identifying and evaluating cumulative impacts recommended by the above-identified IFIs for development practitioners is to define 'Valued Social and Environmental Components' (VECs). This process should result in the establishment if a threshold against which the condition and sustainability of the VECs is to be measured and monitored. According to the 2013 IFC *[Good Practice Handbook on Cumulative Impact Assessment and Management](http://www.ifc.org/wps/wcm/connect/3aebf50041c11f8383ba8700caa2aa08/IFC_GoodPracticeHandbook_CumulativeImpactAssessment.pdf?MOD=AJPERES)*, for instance, conducting 'Cumulative Impact Analysis' (CIA) within the context of an 'Environmental and Social Impact Assessment' (ESIA) should occur according to the following six-step process, from scoping to management:
 
@@ -42,12 +44,12 @@ As suggested above, IFC emphasizes identification of VECs in collaboration with 
 For development practitioners in emerging markets, where the necessary data to support a robust CIA may not be available, the IFC proposes a process of 'Rapid Cumulative Impact Assessment and Management' (RCIA) ([IFC 2013](http://www.ifc.org/wps/wcm/connect/3aebf50041c11f8383ba8700caa2aa08/IFC_GoodPracticeHandbook_CumulativeImpactAssessment.pdf?MOD=AJPERES), p. 7). An RCIA is a desk-based review and a condensed version of the CIA process described above, carried out by a single operator using available secondary data (such as ESIA baseline data and risk-identification frameworks, project planning documents, etc.). Over time, an RCIA may evolve into a more extensive CIA, especially where collaborations between multiple operators are fostered. The IFC *Good Practice Handbook* recommends that all private sector operators conduct at least an RCIA where resource inventories and plans do not exist and where government-led CIAs are untenable ([IFC 2013](http://www.ifc.org/wps/wcm/connect/3aebf50041c11f8383ba8700caa2aa08/IFC_GoodPracticeHandbook_CumulativeImpactAssessment.pdf?MOD=AJPERES), p. 9). It should be noted, however, that the Bank Information Center criticizes the IFC approach for affording borrowers too much discretion in structuring and implementing their CIAs, and for failing to require such assessments prior to approving investments ([Bank Information Center, 2013](http://www.bicusa.org/issues/safeguards/environmental-and-social-assessment/)).
 
 
-## Concluding remarks
+## concluding remarks
 
 The challenge of assessing and managing cumulative impacts will grow in importance as awareness increases of the inter-connection between economic development and environmental and social well-being. The 'good practice' recommendations available to development practitioners are numerous (far more are available than those referenced here!), and they provide us with useful tools to at least begin understanding, identifying and addressing cumulative impacts. As noted, however, the tremendous variation in governmental capacity to facilitate cross-sectoral CIAs is one of the most difficult barriers to effective work in this field. CCCS encourages our clients and colleagues to learn from the experiences of leading nations, such as Canada and the United States, to developing CIA frameworks and to work with project partners and governments to improve and extend operational frameworks for cooperatively assessing cumulative impacts. We feel this is possible through ongoing dialogue on issues of incentives and accountability and to demonstrate how structured regulatory environment can positively benefit all project stakeholders. The challenges may be many, but so too are the opportunities for cross-sector collaborations and meaningful investment in social performance, sustainability, and benefits-sharing.
 
 
-## Sources cited
+## citations
 
 * Aboriginal Affairs and Northern Development Canada. 2007. “A Citizen’s Guide to Cumulative Effects” [Web page. Last modified 15-Sep-2010]. *Available at:* http://www.aadnc-aandc.gc.ca/eng/1100100023719/1100100023763 [Accessed 23-Jan-2014].
 * Aboriginal Affairs and Northern Development Canada. n.d. “NWT Cumulative Impact Monitoring Program (CIMP)” [Web page]. *Available at:* http://www.aadnc-aandc.gc.ca/eng/1100100027498/1100100027499 [Accessed 23-Jan-2014].

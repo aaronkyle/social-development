@@ -39,6 +39,6 @@
 * important		road access		
 * somewhat important		proximity to forest areas		
 * not important		soil fertility		
-* not applicable		location of other clan members		
-*				access to community services		
-*				community facilities		
+* not applicable	location of other clan members		
+*	access to community services		
+*	community facilities		

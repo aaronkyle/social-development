@@ -1,6 +1,7 @@
 
 ## Social Policy
 
+<<<<<<< HEAD
 This repository compiles (and attempts to establish some manner of categorising) **[social policy](http://applied-anthro.com/terms/social-policy)** among international financial institutions (IFIs).
 
 In recent years, **[safeguards policies](http://applied-anthro.com/terms/safeguard-policy/)** have been receiving considerable media attention as IFIs continue to invest time and resources in updating their safeguard policy frameworks. Yet safeguards are but one aspect of **[social policy](http://applied-anthro.com/terms/social-policy/)**.  Other aspects include **social development policy** (including initiatives to mainstream gender-sensitive development; initiatives to ensure the participation and empowerment of people and communities affected by development processes), **social protection policy** (including social assistance and welfare service programs including child protection and micro- and area based schemes to address poverty, and vulnerability; social insurance programs to cushion risks associated with unemployment, ill-health, disability, work-related injury and old age; and labour market policies and programs designed to generate employment, improve working conditions), **human rights law**, etc. Unfortunately, IFI institutional treatments of social issues (such as web and print publications touting institutional contributions to social development) seldom help to situate different institutional initiatives and activities within their greater policy contexts.
@@ -11,6 +12,8 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
 <hr>
 
 
+=======
+>>>>>>> master
 <p>
   <a class="btn btn-primary" data-toggle="collapse" href="#terminology-toggle" role="button" aria-expanded="false" aria-controls="terminology-toggle">
     A brief aside about terminology
@@ -27,7 +30,7 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
 
 <p>Distinctions between ‘policy’ a ‘guidance’ can be difficult to discern in the absence of project legal agreements. It is not always possible for clients to discern what is <em>required</em> from that which is simply “recommended” (a question that my clients often pose when considering my recommendations for policy implementation).</p>
 
-<p>It can also be challenging for clients to identify the range of social policy that may be applicable to a given project or development initiative.</p>
+<p>To help address definitional ambiguity, I have [started to compile definitions for common terms](./terms/terminology.html). This list is not meant to be exhaustive, and my focus is specific to social development concerns.</p>
   </div>
 </div>
 
@@ -73,20 +76,33 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
 
 <hr>
 
+
+  <p>
+  <a class="btn btn-primary" data-toggle="collapse" href="#disclaimer-toggle" role="button" aria-expanded="false" aria-controls="disclaimer-toggle">
+    A short disclaimer
+  </a></p>
+<div class="collapse" id="disclaimer-toggle">
+  <div class="card card-body">
+
+  <p>Please be aware of the on-going nature of this work. Account for what constitutes ‘social policy’ at a given lending institution changes over time. I'll do my best to keep up. Please also recognize that I can't provide an exhaustive accounting of all IFI social policy.</p>
+</div class="collapse" id="disclaimer-toggle">
+  </div class="card card-body">
+
+<hr>
+
+
   <p>
   <a class="btn btn-primary" data-toggle="collapse" href="#faq-toggle" role="button" aria-expanded="false" aria-controls="faq-toggle">
     FAQ
   </a></p>
 <div class="collapse" id="faq-toggle">
   <div class="card card-body">
+  <p><strong>Am I analyzing social policy elswhere (in this repo or otherwise)?</strong></p>
 
-<p><strong>Am I analyzing social policy elswhere (in this repo or otherwise)?</strong></p>
-
-<p>Yes.  Here are links to Google Spreadsheets that I use to try to follow developments in social policy:<p>
-<ul>
-<li><a href="https://docs.google.com/spreadsheets/d/1XJEFWygS7658yu_7Yab36TbVATeN2E5T_ymx_1G5Xsg/edit#gid=1210438341">analysis, IFI, MDB, Bank policy requirements, Indigenous Peoples, 2012</a></li>
-<li><a href="https://docs.google.com/spreadsheets/d/1SJdrbHcB-Zz05rVDxDqpvJfoVPKqA4EsAvyU7goiU-U/edit?usp=sharing">Social Policies among the IFIs</a></li>
-</ul>
-  </div>
-</div>
-
+  <p>Yes.  Here are links to Google Spreadsheets that I use to try to follow developments in social policy:</p>
+  <ul>
+  <li><a href="https://docs.google.com/spreadsheets/d/1XJEFWygS7658yu_7Yab36TbVATeN2E5T_ymx_1G5Xsg/edit#gid=1210438341">analysis, IFI, MDB, Bank policy requirements, Indigenous Peoples, 2012</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1SJdrbHcB-Zz05rVDxDqpvJfoVPKqA4EsAvyU7goiU-U/edit?usp=sharing">Social Policies among the IFIs</a></li>
+  </ul>
+  </div class="collapse" id="faq-toggle">
+    </div class="card card-body">

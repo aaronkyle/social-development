@@ -61,7 +61,7 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
 
   <p>Please be aware of the on-going nature of this work. Account for what constitutes ‘social policy’ at a given lending institution changes over time. I'll do my best to keep up. Please also recognize that I can't provide an exhaustive accounting of all IFI social policy.</p>
 </div>
-  </div>
+</div>
 
 <hr />
 
@@ -80,4 +80,4 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
   <li><a href="https://docs.google.com/spreadsheets/d/1SJdrbHcB-Zz05rVDxDqpvJfoVPKqA4EsAvyU7goiU-U/edit?usp=sharing">Social Policies among the IFIs</a></li>
   </ul></p>
   </div>
-    </div>
+</div>

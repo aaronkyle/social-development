@@ -84,8 +84,4 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
 <li><a href="https://docs.google.com/spreadsheets/d/1SJdrbHcB-Zz05rVDxDqpvJfoVPKqA4EsAvyU7goiU-U/edit?usp=sharing">Social Policies among the IFIs</a></li>
 </ul>
 
-  <p>Please recognize that this list is not meant to be exhaustive; my focus is specific to social development concerns.</p>
-  </div>
-</div>
-
 <hr>

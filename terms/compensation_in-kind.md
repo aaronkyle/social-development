@@ -1,9 +1,11 @@
+---
 title: compensation in kind
 date: 2008-06-08 09:16
 category: terminology
 tags: IFC, IFC PS5
 slug: compensation-in-kind
 summary: : compensation for losses that cannot be easily valued or compensated for in monetary terms
+---
 
 The term **compensation in kind** refers to compensation for losses that cannot be easily valued or compensated for in monetary terms. Compensation should be made in goods or resources that are of equivalent or greater value and that are culturally appropriate.
 

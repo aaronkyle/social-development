@@ -4,15 +4,17 @@
 This work focuses on mechanisms within the [Independent Accountability Mechanisms Network (IAMnet)](http://independentaccountabilitymechanism.net/)&mdash;a professional membership network.<sup>[principles](http://independentaccountabilitymechanism.net/ocrp002p.nsf/0/CABCCCEB3370236948257F4700200EEE/%24file/Principles%20for%20Cooperation%20among%20IAMs%20-%20Final.pdf), [criteria](http://independentaccountabilitymechanism.net/ocrp002p.nsf/0/A706B9DAD41DF79E48257F4700293F6F/%24file/Criteria%20for%20participation%20in%20IAM%20network%20Final.pdf)</sup>
 
 
-
 <p>
-  <a class="btn btn-primary" data-toggle="collapse" href="#terminology-toggle" role="button" aria-expanded="false" aria-controls="iam-member-toggle">
-   IAMnet Membership
+  <a class="btn btn-primary" data-toggle="collapse" href="#iam-member-toggle" role="button" aria-expanded="false" aria-controls="iam-member-toggle" style="color: white;">
+    IAMnet Members
   </a>
 </p>
 <div class="collapse" id="iam-member-toggle">
   <div class="card card-body">
-<p>Members of <a href="http://independentaccountabilitymechanism.net/">IAMnet</a> currently include:<br /><sup><a href="http://applied-anthro.com/context/accountability-mechanisms/site/index.html">[TABLE VIEW]</a>.</sup></p>
+<p>Members of <a href="http://independentaccountabilitymechanism.net/">IAMnet*</a> currently include:<br /><sup><a href="http://applied-anthro.com/context/accountability-mechanisms/site/index.html">[ALT. TABLE VIEW]</a>.</sup></p>
+
+<div class="col-lg-12">
+
 
 <ul>
   <li>African Development Bank (AfDB) - <a href="https://www.afdb.org/en/about-us/organisational-structure/independent-review-mechanism-irm/">Independent Review Mechanism</a> (IRM)
@@ -55,6 +57,13 @@ This work focuses on mechanisms within the [Independent Accountability Mechanism
   <li>World Bank - <a href="http://ewebapps.worldbank.org/apps/ip/Pages/Home.aspx">Inspection Panel</a>
   -<a href="http://ewebapps.worldbank.org/apps/ip/PanelMandateDocuments/2014%20Updated%20Operating%20Procedures.pdf">Operating Procedures (2014)</a></li>
 </ul>
+
+     
+<p>
+<sub>*Please note that the acronyms I use to refer to IAM members (supplied in the table above) are my own creations. To help reduce ambiguity, I define IAM acronyms to also reference the institution it oversees. Where IAM names are similar, I will use full acronyms. Otherwise I use the prefix.</sub>
+</p>
+
+ </div>
   </div>
 </div>
 

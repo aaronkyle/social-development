@@ -13,9 +13,9 @@ An **action plan** prescribes actions necessary for a project to comply with app
 
 ### References
 
-* <ref>International Finance Corporation. 2006. "Glossary of Terms." *[IFC Policy & Performance Standards and Guidance Notes](http://www.ifc.org/wps/wcm/connect/9a9464804885598c8364d36a6515bb18/Glossary%2Bof%2BTerms.pdf?MOD=AJPERES&attachment=true&id=1322803900995)*. Washington D.C.: International Finance Corporation.[Accessed 1 November 2013]</ref>
-*  <ref>World Bank. 1994. “Culture Heritage and Environmental Assessment”. *Environmental Sourcebook* [Update 8], Washington D.C.: World Bank.</ref>
-*  Asian Development Bank: http://www.adb.org/documents/Guidelines/Environmental_Assessment/Cultural_Heritage.pdf
+* International Finance Corporation. 2006. "Glossary of Terms." *[IFC Policy & Performance Standards and Guidance Notes](http://www.ifc.org/wps/wcm/connect/9a9464804885598c8364d36a6515bb18/Glossary%2Bof%2BTerms.pdf?MOD=AJPERES&attachment=true&id=1322803900995)*. Washington D.C.: International Finance Corporation.</ref>
+*  World Bank. 1994. “Culture Heritage and Environmental Assessment”. *Environmental Sourcebook* [Update 8], Washington D.C.: World Bank.
+*  Asian Development Bank. 2003. *[ADB Environmental Assessment Guidelines](http://www.adb.org/documents/Guidelines/Environmental_Assessment/Cultural_Heritage.pdf)*
 
 <!--
 [^IFC_2006_Glossary-of-Terms]: http://www.ifc.org/wps/wcm/connect/9a9464804885598c8364d36a6515bb18/Glossary%2Bof%2BTerms.pdf?MOD=AJPERES&attachment=true&id=1322803900995 "International Finance Corporation. 2006. 'Glossary of Terms'."

@@ -88,9 +88,8 @@
 						
 418		Who / which institution is the scholarship sponsor?				
 *				local government (specfiy),		
-*				INPEX		
-*				Shell		
-*				Abadi Project		
+*				COMPANY HOLDER NAME
+*				PROJECT NAME
 *				private institution - specify:		
 *				others - specify		
 						

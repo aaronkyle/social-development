@@ -20,7 +20,7 @@ For those reading [via this site's front end](http://applied-anthro.com/), I am 
 [`ifi-implementation-resources/`](ifi-implementation-resources) `#`<br/>
 [`international-law_good-practice/`](international-law_good-practice) `#`<br/>
 [`data/`](data) `#` data sets that relate to social development issues<br/>
-[`ref/`](ref/) `#` references and literature<br/>
+[`ref/`](https://github.com/aaronkyle/social-development/tree/master/ref) `#` references and literature<br/>
 
 For those reading [via GitHub](https://github.com/aaronkyle/social-development), the repository structure will be apparent. 
 

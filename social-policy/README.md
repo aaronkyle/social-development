@@ -51,9 +51,6 @@ This repository compiles (and attempts to establish some manner of categorising)
 <hr>
 
 
-
-<hr>
-
   <p>
   <a class="btn btn-primary" data-toggle="collapse" href="#disclaimer-toggle" role="button" aria-expanded="false" aria-controls="disclaimer-toggle">
     A short disclaimer
@@ -61,10 +58,9 @@ This repository compiles (and attempts to establish some manner of categorising)
 <div class="collapse" id="disclaimer-toggle">
   <div class="card card-body">
 
-  <p>Please be aware of the on-going nature of this work. Account for what constitutes ‘social policy’ at a given lending institution changes over time. I'll do my best to keep up. Please also recognize that I can't provide an exhaustive accounting of all IFI social policy.
-</p>
-  </div>
-</div>
+  <p>Please be aware of the on-going nature of this work. Account for what constitutes ‘social policy’ at a given lending institution changes over time. I'll do my best to keep up. Please also recognize that I can't provide an exhaustive accounting of all IFI social policy.</p>
+</div class="collapse" id="disclaimer-toggle">
+  </div class="card card-body">
 
 <hr>
 
@@ -75,14 +71,12 @@ This repository compiles (and attempts to establish some manner of categorising)
   </a></p>
 <div class="collapse" id="faq-toggle">
   <div class="card card-body">
+  <p><strong>Am I analyzing social policy elswhere (in this repo or otherwise)?</strong></p>
 
-<p><strong>Am I analyzing social policy elswhere (in this repo or otherwise)?</strong></p>
-
-<p>Yes.  Here are links to Google Spreadsheets that I use to try to follow developments in social policy:<p>
-<ul>
-<li><a href="https://docs.google.com/spreadsheets/d/1XJEFWygS7658yu_7Yab36TbVATeN2E5T_ymx_1G5Xsg/edit#gid=1210438341">analysis, IFI, MDB, Bank policy requirements, Indigenous Peoples, 2012</a></li>
-<li><a href="https://docs.google.com/spreadsheets/d/1SJdrbHcB-Zz05rVDxDqpvJfoVPKqA4EsAvyU7goiU-U/edit?usp=sharing">Social Policies among the IFIs</a></li>
-</ul>
-  </div>
-</div>
-
+  <p>Yes.  Here are links to Google Spreadsheets that I use to try to follow developments in social policy:</p>
+  <ul>
+  <li><a href="https://docs.google.com/spreadsheets/d/1XJEFWygS7658yu_7Yab36TbVATeN2E5T_ymx_1G5Xsg/edit#gid=1210438341">analysis, IFI, MDB, Bank policy requirements, Indigenous Peoples, 2012</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1SJdrbHcB-Zz05rVDxDqpvJfoVPKqA4EsAvyU7goiU-U/edit?usp=sharing">Social Policies among the IFIs</a></li>
+  </ul>
+  </div class="collapse" id="faq-toggle">
+    </div class="card card-body">

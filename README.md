@@ -24,5 +24,5 @@ For those reading [via this site's front end](http://applied-anthro.com/), I am 
 
 For those reading [via GitHub](https://github.com/aaronkyle/social-development), the repository structure will be apparent. 
 
-Thanks for visiting. Please help to improve me!
+Thanks for visiting. Please let me know how this site can be improved!
 

@@ -65,22 +65,6 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
 <div class="collapse" id="disclaimer-toggle">
   <div class="card card-body">
 
-  <p>Please accept my work as on-going. I continue to struggle to account for what constitutes ‘social policy’ for a given lending institution.</p>
-
-  <p>Please also recognize that this list is not meant to be exhaustive; my focus is specific to social development concerns.</p>
-  </div>
-</div>
-
-<hr>
-
-
-  <p>
-  <a class="btn btn-primary" data-toggle="collapse" href="#disclaimer-toggle" role="button" aria-expanded="false" aria-controls="disclaimer-toggle">
-    A short disclaimer
-  </a></p>
-<div class="collapse" id="disclaimer-toggle">
-  <div class="card card-body">
-
   <p>Please be aware of the on-going nature of this work. Account for what constitutes ‘social policy’ at a given lending institution changes over time. I'll do my best to keep up. Please also recognize that I can't provide an exhaustive accounting of all IFI social policy.</p>
 </div>
   </div>
@@ -97,9 +81,9 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
   <p><strong>Am I analyzing social policy elsewhere (in this repo or otherwise)?</strong></p>
 
   <p>Yes.  Here are links to Google Spreadsheets that I use to try to follow developments in social policy:</p>
-  <ul>
+  <p><ul>
   <li><a href="https://docs.google.com/spreadsheets/d/1XJEFWygS7658yu_7Yab36TbVATeN2E5T_ymx_1G5Xsg/edit#gid=1210438341">analysis, IFI, MDB, Bank policy requirements, Indigenous Peoples, 2012</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1SJdrbHcB-Zz05rVDxDqpvJfoVPKqA4EsAvyU7goiU-U/edit?usp=sharing">Social Policies among the IFIs</a></li>
-  </ul>
+  </ul></p>
   </div >
     </div>

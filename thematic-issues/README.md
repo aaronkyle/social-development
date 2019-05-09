@@ -3,10 +3,12 @@ Thematic issues include:
 
 *  [`social impact assessment`](./social-impact-assessment)
     - [`public consultation and disclosure`](./public-consultation-and-disclosure)
-    - [`baseline data capture`](./social-impact-assessment/baseline-surveys)
+    - [`baseline data capture`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/social-impact-assessment/baseline-surveys)
     - [`migration`](./migration)
-    - [`security`](./security)
     - [`methods / field implementation protocols`](./social-impact-assessment/methodology)
+<!--
+    - [`security`](./security)
+-->
 
 *  [`fpic`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/fpic)
 

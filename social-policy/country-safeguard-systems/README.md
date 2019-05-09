@@ -12,7 +12,7 @@ Internatioanl financial insitutions increasingly call for greater reliance on st
 
 ## What's the purpose of this repository?
 
-I use this repository to bring together different lines of research that I have done on country safeguard systesms. In many respects, this is more of an 'information dump' than anything else... and I am barely getting started even in organizing and sharing my own notes.  CSS analysis involves an incredible amount of work&mdash;as rule of law tends to have a long history of documented analysis, and as laws (and governments) and constantly changing.  
+I use this [repository](https://github.com/aaronkyle/social-development/tree/master/social-policy/country-safeguard-systems) to bring together different lines of research that I have done on country safeguard systesms. In many respects, this is more of an 'information dump' than anything else... and I am barely getting started even in organizing and sharing my own notes.  CSS analysis involves an incredible amount of work&mdash;as rule of law tends to have a long history of documented analysis, and as laws (and governments) and constantly changing.  
 
 I'd appreciate help to building out this resources and sharing tracking and anlysis of legal change.
 
@@ -28,8 +28,8 @@ Interactive versions of the data hosted in these spreadsheets is [available on O
 
 Additionally, I maintain a few 'country profile' spreadsheets (following the nomenclature of an initiative financed by the World Bank. These country profiles each have a specific theme). In line with my professional background, most focus on issues pertinent to Indigenous Peoples.
 
-- [IP Country Profile - CANADA](https://docs.google.com/spreadsheets/d/146u6qzy9Z_cFp-PGjvMcl_PjGtrd4EXcPTKBedcpS-I/edit?usp=sharing)
 - [IP Country Profile - INDONESIA](https://drive.google.com/drive/u/0/folders/0B_CbKDJqtSI7UWhWa0t2RkZpRzQ)
 - [IP Country Profile - RUSSIA](https://docs.google.com/spreadsheets/d/1T-67U8l-IUcAI90fVeLIUHofIwWFznoR77uPeT_aiXs/edit?usp=sharing)
+- [IP Country Profile - CANADA](https://docs.google.com/spreadsheets/d/146u6qzy9Z_cFp-PGjvMcl_PjGtrd4EXcPTKBedcpS-I/edit?usp=sharing)
 
 I am still opening access to many Google Sheets. If you find that a sheet is restricted, just request access...

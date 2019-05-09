@@ -87,5 +87,6 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
 <li><a href="https://docs.google.com/spreadsheets/d/1XJEFWygS7658yu_7Yab36TbVATeN2E5T_ymx_1G5Xsg/edit#gid=1210438341">analysis, IFI, MDB, Bank policy requirements, Indigenous Peoples, 2012</a></li>
 <li><a href="https://docs.google.com/spreadsheets/d/1SJdrbHcB-Zz05rVDxDqpvJfoVPKqA4EsAvyU7goiU-U/edit?usp=sharing">Social Policies among the IFIs</a></li>
 </ul>
+  </div>
+</div>
 
-<hr>

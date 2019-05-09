@@ -56,7 +56,8 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
 
 
 
-<hr>
+<hr />
+
 
   <p>
   <a class="btn btn-primary" data-toggle="collapse" href="#disclaimer-toggle" role="button" aria-expanded="false" aria-controls="disclaimer-toggle">
@@ -69,7 +70,7 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
 </div>
   </div>
 
-<hr>
+<hr />
 
 
   <p>

@@ -1,31 +1,31 @@
 <table class="table table-striped">
 <tr class="even">
-<td align="left" style="vertical-align:top"><strong><a href="/terms/action-plan">action plan</a></strong></td>
+<td align="left" style="vertical-align:top"><strong><a href="./terms/action-plan">action plan</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: a document defining actions for ensuring compliance with applicable laws, regulations, and policy mandates</td>
 </tr>
 <tr class="odd">
-<td align="left" style="vertical-align:top"><strong><a href="/terms/adverse-possession">adverse possession</a></strong></td>
+<td align="left" style="vertical-align:top"><strong><a href="./terms/adverse-possession">adverse possession</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: a method of acquiring title to real property by possession for a statutory period under certain conditions</td>
 </tr>
 <tr class="even">
-<td align="left" style="vertical-align:top"><strong><a href="/terms/affected-communities">affected communities</a></strong></td>
+<td align="left" style="vertical-align:top"><strong><a href="./terms/affected-communities">affected communities</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: communities that are subject to risks or impacts from project operations</td>
 </tr>
 <tr class="odd">
-<td align="left" style="vertical-align:top"><strong><a href="/terms/artifact">artifact</a></strong></td>
+<td align="left" style="vertical-align:top"><strong><a href="./terms/artifact">artifact</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: a portable object that is created by past human activity</td>
 </tr>
 <tr class="even">
-<td align="left" style="vertical-align:top"><strong><a href="/terms/biodiversity">biodiversity</a></strong></td>
+<td align="left" style="vertical-align:top"><strong><a href="./terms/biodiversity">biodiversity</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: variety of life in all its forms, including genetic, species and ecosystem diversity</td>
 </tr>
   <tr class="odd">
-<td align="left" style="vertical-align:top"><strong><a href="/terms/community-history/">community history</a></strong></td>
+<td align="left" style="vertical-align:top"><strong><a href="./terms/community-history/">community history</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: detailed account of the community’s past, detailing how things have changed, with a particular focus on relationships with external actors and the trends these relations have followed, as well as internal dynamics within the community
 <!--
@@ -36,17 +36,17 @@
 </td>
 </tr>
 <tr class="odd">
-<td align="left" style="vertical-align:top"><strong><a href="/terms/census">census</a></strong></td>
+<td align="left" style="vertical-align:top"><strong><a href="./terms/census">census</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: the official process of counting a population of a given jurisdiction</td>
 </tr>
 <tr class="even">
-<td align="left" style="vertical-align:top"><strong><a href="/terms/civil-society">civil society</a></strong></td>
+<td align="left" style="vertical-align:top"><strong><a href="./terms/civil-society">civil society</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: a network of actors, associations, agencies and institutions operating between the state and the market</td>
 </tr>
 <tr class="odd">
-<td align="left" style="vertical-align:top"><strong><a href="/terms/community-history">community history</a></strong></td>
+<td align="left" style="vertical-align:top"><strong><a href="./terms/community-history">community history</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: detailed account of the community’s past, detailing how things have changed, with a particular focus on relationships with external actors and the trends these relations have followed, as well as internal dynamics within the community
 <!--
@@ -109,7 +109,7 @@
 <tr class="even">
 <td align="left" style="vertical-align:top"><strong><a href="./terms/performance-standards">Performance Standards</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
-<td align="left">: policy guidlines for how to identify, avoid, mitigate, and manage environmental and social risks and impacts; initially, only IFC had Performance Standards</td>
+<td align="left">: policy guidelines for how to identify, avoid, mitigate, and manage environmental and social risks and impacts; initially, only IFC had Performance Standards</td>
 </tr>
 <tr class="odd">
 <td align="left" style="vertical-align:top"><strong><a href="./terms/replacement-cost">replacement cost</a></strong></td>
@@ -149,7 +149,7 @@
 <tr class="odd">
 <td align="left" style="vertical-align:top"><strong><a href="./terms/social-development">social development</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
-<td align="left">: transformative processes of social change, usually intented to benefit human well-being</td>
+<td align="left">: transformative processes of social change, usually intended to benefit human well-being</td>
 </tr>
 <tr class="even">
 <td align="left" style="vertical-align:top"><strong><a href="./terms/social-development-practitioner">social development practitioner</a></strong></td>

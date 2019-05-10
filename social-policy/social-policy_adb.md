@@ -335,7 +335,7 @@ The SPS builds upon (and supersedes) three previous safeguard policies: (i) the 
 </ul>
 
 <ul>
-<li><em><a href="http://www.adb.org/documents/policy-indigenous-peoples">Policy on Indigenous Peoples</a></em> (1998) | <a href="http://www.adb.org/sites/default/files/institutional-document/33441/files/policy-indigenous-peoples.pdf">PDF</a> | <a href="" title="NOTES: ADB 1998 Indigenous Peoples Policy">NOTES</a>
+<li><em><a href="http://www.adb.org/documents/policy-indigenous-peoples">Policy on Indigenous Peoples</a></em> (1998) | <a href="http://www.adb.org/sites/default/files/institutional-document/33441/files/policy-indigenous-peoples.pdf">PDF</a> | <a href="" title="NOTES: ADB 1998 Indigenous Peoples Policy">NOTES</a></li>
 </ul>
 
 <ul>
@@ -345,13 +345,11 @@ The SPS builds upon (and supersedes) three previous safeguard policies: (i) the 
 
 <ul>
 <li><em><a href="http://www.adb.org/documents/policy-involuntary-resettlement">Involuntary Resettlement Policy</a></em> (Aug 1995) |
-<a href="http://www.adb.org/sites/default/files/institutional-document/32515/files/involuntary-resettlement.pdf">PDF</a> | <a href="" title="NOTES: ADB 1995 Involuntary Resettlement Policy">NOTES</a>
-</li>
+<a href="http://www.adb.org/sites/default/files/institutional-document/32515/files/involuntary-resettlement.pdf">PDF</a> | <a href="" title="NOTES: ADB 1995 Involuntary Resettlement Policy">NOTES</a></li>
 </ul>
 
 <ul>
 <li><em><a href="http://www.adb.org/documents/involuntary-resettlement-safeguards">Operations Evaluation Department Evaluation Study: Involuntary Resettlement Safeguards</a></em> (Sept 2006) | <a href="http://www.adb.org/sites/default/files/evaluation-document/35442/files/sst-reg-2006-14.pdf">PDF</a></li>
-</li>
 </ul>
 
 

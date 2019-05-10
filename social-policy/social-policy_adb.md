@@ -301,6 +301,7 @@ In 2009, the Asian Development Bank adopted its *[Safeguard Policy Statement (SP
 <li><em><a href="http://www.adb.org/sites/default/files/institutional-document/32056/safeguard-policy-statement-june2009.pdf">Safeguard Policy Statement</a></em> (Jun 2009) | <sup><a href="http://www.adb.org/documents/safeguard-policy-statement">ADB SPS website</a></sup></li>
 <li><em><a href="http://www.adb.org/sites/default/files/institutional-document/31483/om-f1-20131001.pdf">Operational Manual Section F1</a></em> (2013)</li>
 </ul>
+</div>
 
 <!--
 ADB’s gender and development policy is a critical mainstreaming strategy in promoting gender equality, and includes the following key points:

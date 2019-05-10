@@ -474,15 +474,17 @@ Current list of [Directives](http://go.worldbank.org/3B68AP6SY0 "Directive: a st
 
 ### Social Policy
 
-The corpus of social and environmental 'policy' at the World Bank is comprised of 'stand-alone' [operational policy instruments](# "for more information on the Bank's operational policies, refer to the*The World Bank Operational Manual*"). <sup>[c.f. [IFC](/context/social-policy_adb.html), [EBRD](#/context/social-policy_ebrd.html) and [ADB](/context/social-policy_adb.html)]</sup> ['Social development policies' at the World Bank](http://www.worldbank.org/en/topic/socialdevelopment/brief/social-development-policies) aim to minimize the negative impact of Bank-funded operations. Policy is thematically distinguished, i.e. ['Indigenous Peoples'](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTOPMANUAL/0,,contentMDK:20553653~pagePK:64141683~piPK:64141620~theSitePK:502184,00.html "Indigenous Peoples - OP 4.10"), ['Involuntary Resettlement'])("Involuntary Resettlement - OP 4.12."), ['Conflict and Development'](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTOPMANUAL/0,,contentMDK:20129203~pagePK:64141683~piPK:64141620~theSitePK:502184,00.html "Development Cooperation and Conflict - OP 2.30"), and ['Gender and Development'](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTOPMANUAL/0,,contentMDK:20064559~pagePK:64141683~piPK:64141620~theSitePK:502184,00.html "Gender and Development - OP 4.20").<sup>[1](http://www.worldbank.org/en/topic/socialdevelopment/brief/social-development-policies)</sup>
+The corpus of social and environmental 'policy' at the World Bank is comprised of 'stand-alone' [operational policy instruments](# "for more information on the Bank's operational policies, refer to the*The World Bank Operational Manual*"). <sup>[c.f. [IFC](./social-policy_adb.html), [EBRD](#./social-policy_ebrd.html) and [ADB](./social-policy_adb.html)]</sup> ['Social development policies' at the World Bank](http://www.worldbank.org/en/topic/socialdevelopment/brief/social-development-policies) aim to minimize the negative impact of Bank-funded operations. Policy is thematically distinguished, i.e. ['Indigenous Peoples'](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTOPMANUAL/0,,contentMDK:20553653~pagePK:64141683~piPK:64141620~theSitePK:502184,00.html "Indigenous Peoples - OP 4.10"), ['Involuntary Resettlement'])("Involuntary Resettlement - OP 4.12."), ['Conflict and Development'](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTOPMANUAL/0,,contentMDK:20129203~pagePK:64141683~piPK:64141620~theSitePK:502184,00.html "Development Cooperation and Conflict - OP 2.30"), and ['Gender and Development'](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTOPMANUAL/0,,contentMDK:20064559~pagePK:64141683~piPK:64141620~theSitePK:502184,00.html "Gender and Development - OP 4.20").<sup>[1](http://www.worldbank.org/en/topic/socialdevelopment/brief/social-development-policies)</sup>
 
 
 
 #### Toward Defining a 'Safeguard Policy Framework' at the World Bank
 
-
-The concept of 'safeguards policy' is [tauted on the World Bank website as a cornerstone of World Bank sustainable poverty reduction](http://go.worldbank.org/WTA1ODE7T0), but the Bank does not explicitly distinguish stand-alone safeguard policies. Rather, the concept of safeguard is manifest in policy statements that that certain issues require special attention during project design and implementation and therefore requires certain types of interventions as part of loan processing.That is to say, safeguards are [considered to be written into each of several thematically-defined policies](http://go.worldbank.org/XFBVTIUDK0)&mdash;principally within the *Operational Manual*.[2](# "The [Access to Information](http://go.worldbank.org/TRCDVYJ440) policy might also be considered a type of safeguard.")
-
+<!--
+The concept of 'safeguards policy' is [tauted on the World Bank website as a cornerstone of World Bank sustainable poverty reduction](http://go.worldbank.org/WTA1ODE7T0),
+-->
+The World Bank does not explicitly distinguish stand-alone safeguard policies. Rather, the concept of safeguard is manifest in policy statements that that certain issues require special attention during project design and implementation and therefore requires certain types of interventions as part of loan processing.That is to say, safeguards are [considered to be written into each of several thematically-defined policies](http://go.worldbank.org/XFBVTIUDK0)&mdash;principally within the *Operational Manual*.[2](# "The [Access to Information](http://go.worldbank.org/TRCDVYJ440) policy might also be considered a type of safeguard.")
+-->
 
 <!--
 <a name="world-bank-safeguards-policy"></a>
@@ -534,6 +536,8 @@ On June 26, 2012, the Board of Executive Directors approved adoption and applica
 
 ---
 -->
+
+<!--
 
 **Current Safeguard Policy Framework**
 

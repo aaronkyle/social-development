@@ -59,16 +59,11 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
 <div class="collapse" id="disclaimer-toggle">
 <div class="card card-body">
 
-<<<<<<< HEAD
-  <p>Please be aware of the on-going nature of this work. Account for what constitutes ‘social policy’ at a given lending institution changes over time. I'll do my best to keep up. Please also recognize that I can't provide an exhaustive accounting of all IFI social policy.</p>
-</div>
-</div>
 
-=======
 <p>Please be aware of the on-going nature of this work. Account for what constitutes ‘social policy’ at a given lending institution changes over time. I'll do my best to keep up. Please also recognize that I can't provide an exhaustive accounting of all IFI social policy.</p>
 </div class="collapse" id="disclaimer-toggle">
 </div class="card card-body">
->>>>>>> master
+
 
 <hr />
 

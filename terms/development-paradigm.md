@@ -1,9 +1,11 @@
+---
 title: development paradigm
 date: 2006-02-12 15:22
 category: terminology
 tags: meta-phenomenon
 slug: development-paradigm
 summary: : actions, activities, and programmes based on, and extending from, salient theories and beliefs about what consitutes '[development](/development/)'
+---
 
 
 <!--

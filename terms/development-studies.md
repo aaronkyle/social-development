@@ -1,3 +1,4 @@
+---
 title: development studies
 date: 2005-11-14 20:33
 category: terminology
@@ -5,6 +6,7 @@ tags: development studies, humanities, Geisteswissenschaft
 slug: development-studies
 summary: :
 status: draft
+---
 
 <!--
 summary:

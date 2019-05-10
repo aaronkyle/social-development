@@ -1,3 +1,4 @@
+---
 title: environmental and social management system
 date: 2007-02-25 12:04
 category: terminology
@@ -5,6 +6,7 @@ tags: IFC
 slug: environmental-and-social-management-system
 summary: : the organizational structure, responsibilities, policies, procedures and resources essential for successfully implementing social and environmental management programs in a structured way on an ongoing basis.
 status: draft
+---
 
 <!--
 summary:

@@ -1,3 +1,4 @@
+---
 title: forced eviction
 date: 2006-10-28 13:08
 category: terminology
@@ -5,6 +6,7 @@ tags: IFC
 slug: forced-eviction
 summary: :
 status: draft
+---
 
 Removal of people and their belongings from structures against their will and without any legal or other protection.
 

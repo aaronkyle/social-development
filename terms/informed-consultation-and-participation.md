@@ -1,3 +1,4 @@
+---
 title: informed consultation and participation
 date: 2006-02-08 15:34
 category: terminology
@@ -5,6 +6,7 @@ tags:
 slug: informed-consultation-and-participation
 summary: : the process of involving communities in development planning which take account of their linguistic and cultural characteristics and which make use of customary institutions and organizations.
 status: draft
+---
 
 
 The term **informed consultation and participation** refers to an intensive and active form of consultation that involves the in-depth exchange of information and viewpoints and culminates with the incorporation of stakeholders' informed participation in design and decision-making. ICP processes are carried out on an iterative and on-going basis throughout the project lifecycle.

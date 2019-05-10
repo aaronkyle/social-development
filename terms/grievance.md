@@ -1,9 +1,11 @@
+---
 title: grievance
 date: 2005-10-20 03:38
 category: terminology
 tags: IFC
 slug: grievance
 summary: : a concern or complaint raised by an individual or a group within communities affected by company operations
+---
 
 <!--
 summary:

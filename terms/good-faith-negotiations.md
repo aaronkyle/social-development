@@ -1,9 +1,11 @@
+---
 title: good faith negotiations
 date: 2006-08-29 14:58
 category: terminology
 tags: IFC
 slug: good-faith-negotiations
 summary: : a documented process of negotiation and outcomes that generally involves: willingness to engage;  provision of relevant information; exploration of issues of importance; mutually-acceptable procedures for negotiation;  willingness to change from one's initial position; and sufficient time for decision making.
+---
 
 The term **good faith negotiations** refers to documented process of negotiation and outcomes that generally involves: (i) willingness to engage and availability to meet at reasonable times and frequency; (ii) provision of relevant information; (iii) exploration of key issues of importance; (iv) use of mutually acceptable procedures for negotiation; (v) willingness to change initial position and modify offers where possible; and (vi) provision of sufficient time for decision making.
 

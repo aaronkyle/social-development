@@ -1,13 +1,12 @@
+---
 title: critical cultural heritage
 date: 2006-10-28 13:08
 category: terminology
 tags: IFC, IFC PS7, IFC PS8,
 slug: critical-cultural-heritage
 summary: : internationally-recognized heritage of communities and legally protected cultural heritage areas
+---
 
-<!--
-summary: 
--->
 
 Internationally recognized heritage of communities who use, or have used within living memory the cultural heritage for long-standing cultural purposes; and legally protected cultural heritage areas, including those proposed by host governments for such designation.
 

@@ -1,3 +1,4 @@
+---
 title: design and monitoring framework
 date: 2005-10-13
 category: terminology
@@ -5,6 +6,8 @@ tags: ADB
 slug: survey
 summary: :
 status: draft
+---
+
 
 DMF – design and monitoring framework
 

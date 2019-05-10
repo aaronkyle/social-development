@@ -1,9 +1,11 @@
+---
 title: intangible cultural heritage
 date: 2006-10-28 13:08
 category: terms
 tags: IFC, IFC PS7, IFC PS8,
 slug: intangible-cultural-heritage
 summary: : cultural knowledge, innovations and practices of communities embodying traditional lifestyles.
+---
 
 The term **intangible cultural heritage** refers to cultural knowledge, innovations and practices of communities embodying traditional lifestyles.
 

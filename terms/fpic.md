@@ -1,3 +1,4 @@
+---
 title: free prior and informed consent
 date: 2005-12-06 09:08
 category: terminology
@@ -5,6 +6,7 @@ tags:
 slug: fpic
 summary: :
 status: draft
+---
 
 <!--
 

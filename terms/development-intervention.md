@@ -1,9 +1,11 @@
+---
 title: development intervention
 date: 2006-03-28 15:19
 category: terminology
 tags: development, development intervention,
 slug: development-intervention
 status: draft
+---
 
 <!--
 icon: file-code-o

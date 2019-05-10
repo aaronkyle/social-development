@@ -1,3 +1,4 @@
+---
 title: engagement
 date: 2005-10-23 21:20
 category: terminology
@@ -5,6 +6,7 @@ tags:
 slug: engagement
 summary: :
 status: draft
+---
 
 <!--
 summary:

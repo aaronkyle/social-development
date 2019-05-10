@@ -1,3 +1,4 @@
+---
 title: historic-site
 date: 2011-09-18 13:18
 category: terminology
@@ -5,6 +6,7 @@ tags:
 slug: historic-site
 summary: : aboveground architectural features (e.g., house, temple, market place, church) that have reached a designated age or have other characteristics that make them ‘historic’ and therefore worthy of consideration as a heritage resource
 status: draft
+---
 
 <!--
 summary:

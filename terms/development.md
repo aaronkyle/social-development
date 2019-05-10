@@ -1,8 +1,10 @@
+---
 title: development
 date: 2005-09-11 06:06
 category: terminology
 slug: development
 summary: : the act or process of growing (or causing something to grow), or become larger, more advanced, or more complex over a over a period of time
+---
 
 <!--
 tags: info, faq

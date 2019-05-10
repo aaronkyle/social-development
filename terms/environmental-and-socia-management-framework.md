@@ -1,3 +1,4 @@
+---
 title: environmental and social management framework
 date: 2011-09-20 15:13
 category: terminology
@@ -5,6 +6,7 @@ tags: World Bank
 slug: environmental-and-social-management-framework
 summary: : an instrument that sets out the principles, rules, guidelines and procedures to assess the environmental and social impacts.
 status: draft
+---
 
 An **environmental and social management framework (ESMF)** sets out the principles, rules, guidelines and procedures to assess the environmental and social impacts. It contains measures and plans to reduce, mitigate and/or offset adverse impacts and enhance positive impacts, provisions for estimating and budgeting the costs of such measures, and information on the agency or agencies responsible for addressing project impacts.
 

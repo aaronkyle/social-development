@@ -12,9 +12,9 @@ Investment decisions are made in deference to internal strategies for reaching d
 The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual) collects operational policies known as [Bank Policies (BPs)](# "short, focused statements defining borrower client obligations") that follow from ADB Charter, regulations of the [ADF](http://www.adb.org/site/adf/main) and [OCR](http://www.adb.org/site/funds/ocr), as well as [other operational policies and strategies](http://www.adb.org/about/other-operational-policies-and-strategies) adopted by the [ADB Board of Directors](http://www.adb.org/about/board-directors). The OM also includes [Operational Procedures (OPs)](# "procedural requirements and guidance on policy implementation") that spell out procedural requirements and guidance on policy implementation.
 
 <p>
-  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
     ADB Operations Manual
-  </button>
+</button>
 </p>
 
 <div class="collapse" id="collapseExample">
@@ -218,8 +218,6 @@ The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual)
 </tr>
 </tbody>
 </table>
-
-
 </div>
 </div>
 
@@ -245,7 +243,6 @@ In 2009, the Asian Development Bank adopted its *[Safeguard Policy Statement (SP
 <li><em><a href="http://www.adb.org/sites/default/files/institutional-document/32056/safeguard-policy-statement-june2009.pdf">Safeguard Policy Statement</a></em> (Jun 2009) | <sup><a href="http://www.adb.org/documents/safeguard-policy-statement">ADB SPS website</a></sup></li>
 <li><em><a href="http://www.adb.org/sites/default/files/institutional-document/31483/om-f1-20131001.pdf">Operational Manual Section F1</a></em> (2013)</li>
 </ul>
-</div>
 
 <!--
 ADB’s gender and development policy is a critical mainstreaming strategy in promoting gender equality, and includes the following key points:

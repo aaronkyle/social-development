@@ -29,9 +29,9 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
 <hr />
 
 <p>
-  <a class="btn btn-primary" data-toggle="collapse" href="#terminology-toggle" role="button" aria-expanded="false" aria-controls="terminology-toggle">
+<a class="btn btn-primary" data-toggle="collapse" href="#terminology-toggle" role="button" aria-expanded="false" aria-controls="terminology-toggle">
     A brief aside about terminology
-  </a>
+</a>
 </p>
 <div class="collapse" id="terminology-toggle">
 <div class="card card-body">
@@ -44,25 +44,31 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
 
 <p>Distinctions between ‘policy’ a ‘guidance’ can be difficult to discern in the absence of project legal agreements. It is not always possible for clients to discern what is <em>required</em> from that which is simply “recommended” (a question that my clients often pose when considering my recommendations for policy implementation).</p>
 
-<p>To help address definitional ambiguity, I have <a href="./terms/terminology.html">started to compile definitions for common terms</a>. This list is not meant to be exhaustive, and my focus is specific to social development concerns.</p>
-  </div>
+<p>To help address definitional ambiguity, I have [started to compile definitions for common terms](./terms/terminology.html). This list is not meant to be exhaustive, and my focus is specific to social development concerns.</p>
+</div>
 </div>
 
 
 <hr />
 
 
-  <p>
-  <a class="btn btn-primary" data-toggle="collapse" href="#disclaimer-toggle" role="button" aria-expanded="false" aria-controls="disclaimer-toggle">
+<p>
+<a class="btn btn-primary" data-toggle="collapse" href="#disclaimer-toggle" role="button" aria-expanded="false" aria-controls="disclaimer-toggle">
     A short disclaimer
-  </a></p>
+</a></p>
 <div class="collapse" id="disclaimer-toggle">
-  <div class="card card-body">
+<div class="card card-body">
 
+<<<<<<< HEAD
   <p>Please be aware of the on-going nature of this work. Account for what constitutes ‘social policy’ at a given lending institution changes over time. I'll do my best to keep up. Please also recognize that I can't provide an exhaustive accounting of all IFI social policy.</p>
 </div>
 </div>
 
+=======
+<p>Please be aware of the on-going nature of this work. Account for what constitutes ‘social policy’ at a given lending institution changes over time. I'll do my best to keep up. Please also recognize that I can't provide an exhaustive accounting of all IFI social policy.</p>
+</div class="collapse" id="disclaimer-toggle">
+</div class="card card-body">
+>>>>>>> master
 
 <hr />
 
@@ -73,6 +79,7 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
 </a></p>
 <div class="collapse" id="faq-toggle">
 <div class="card card-body">
+<<<<<<< HEAD
 <p><strong>Am I analyzing social policy elsewhere (in this repo or otherwise)?</strong></p>
 
 <p>Yes.  Here are links to Google Spreadsheets that I use to try to follow developments in social policy:</p>
@@ -81,6 +88,16 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
   <li><a href="https://docs.google.com/spreadsheets/d/1SJdrbHcB-Zz05rVDxDqpvJfoVPKqA4EsAvyU7goiU-U/edit?usp=sharing">Social Policies among the IFIs</a></li>
   </ul></p>
 
+=======
+<p><strong>Am I analyzing social policy elswhere (in this repo or otherwise)?</strong></p>
+<p>Yes.  Here are links to Google Spreadsheets that I use to try to follow developments in social policy:</p>
+<p>
+<ul>
+<li><a href="https://docs.google.com/spreadsheets/d/1XJEFWygS7658yu_7Yab36TbVATeN2E5T_ymx_1G5Xsg/edit#gid=1210438341">analysis, IFI, MDB, Bank policy requirements, Indigenous Peoples, 2012</a></li>
+<li><a href="https://docs.google.com/spreadsheets/d/1SJdrbHcB-Zz05rVDxDqpvJfoVPKqA4EsAvyU7goiU-U/edit?usp=sharing">Social Policies among the IFIs</a></li>
+</ul>
+</p>
+>>>>>>> master
 </div>
 </div>
 

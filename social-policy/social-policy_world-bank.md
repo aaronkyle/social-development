@@ -82,6 +82,31 @@ The World Bank Operational Manual contains the operational policies (OPs), Polic
 
 <p>The World Bank Operational Manual contains the operational policies (OPs), Policies, bank procedures (BPs), Directives, and interim instructions to staff (OpMemos) on the conduct of Bank operations.</p>
 
+<ul id="tabs" class="nav nav-tabs" id="myTab" role="tablist">
+  <li class="nav-item">
+    <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Policy Categories</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="op-tab" data-toggle="tab" href="#op" role="tab" aria-controls="profile" aria-selected="false">OP</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="bp-tab" data-toggle="tab" href="#bp" role="tab" aria-controls="contact" aria-selected="false">BP</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="directives-tab" data-toggle="tab" href="#directives" role="tab" aria-controls="contact" aria-selected="false">Directives</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="opMemo-tab" data-toggle="tab" href="#opMemo" role="tab" aria-controls="contact" aria-selected="false">OpMemo</a>
+  </li>
+</ul>
+<div class="tab-content" id="myTabContent">
+  <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">The World Bank Operational Manual contains the operational policies (OPs), Policies, bank procedures (BPs), Directives, and interim instructions to staff (OpMemos) on the conduct of Bank operations. Click the tabs above for definitions of each term.</div>
+  <div class="tab-pane fade" id="op" role="tabpanel" aria-labelledby="op-tab">Operational Policies (OPs)</strong>: are short, focused statements of policy that are based on the Bank's Articles of Agreement, the General Conditions, and policies approved by the Bank’s Executive Directors. OPs set out the mandatory policy requirements for the conduct of Bank operations.</div>
+  <div class="tab-pane fade" id="bp" role="tabpanel" aria-labelledby="bp-tab"><p><strong>Bank Procedures (BPs)</strong>: are statements setting out the general mandatory procedural requirements necessary for Bank staff to carry out the policies set out in the OPs. They are designed to ensure Bankwide consistency and quality in Bank operations.</p></div>
+  <div class="tab-pane fade" id="directive" role="tabpanel" aria-labelledby="directive-tab"><p><strong>Directive</strong>: a statement of substantive directions, within Management’s authority, that require, permit or constrain activities. If accompanied by a Policy, the statement provides substantive details (methods, criteria and technical information) on how to implement the Policy. The statement may also address matters not covered by a Policy.</p></div>
+  <div class="tab-pane fade" id="opMemo" role="tabpanel" aria-labelledby="opMemo-tab"><p><strong><p><strong>Operational Memoranda (OpMemos)</strong>: are interim mandatory requirements designed to elaborate on requirements in OPs/BPs or to reflect changes to the OPs/BPs which have not yet been incorporated in the OPs/BPs concerned. Once the requirements in OpMemos are incorporated into revisions of the pertinent OPs/BPs, the Op Memos are retired.</p></p></div>
+</div>
+
 <div id="content">
 <ul id="tabs" class="nav nav-tabs" data-tabs="tabs">
 <li class="active"><a href="#policy-categories" data-toggle="tab">Policy Categories</a></li>

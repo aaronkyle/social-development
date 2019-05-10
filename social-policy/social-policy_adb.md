@@ -264,12 +264,18 @@ The SPS builds upon (and supersedes) three previous safeguard policies: (i) the 
 <ul>
 <li><em><a href="http://www.adb.org/documents/manuals/operations/OMF03-25Sep06.pdf">Operations Manual Section F3/B 'Indigenous Peoples'</a></em> (25 September 2006)</li>
 <li><em><a href="http://www.oecd.org/dataoecd/43/22/38984072.pdf">Operations Evaluation Department Evaluation Study: Indigenous Peoples Safeguards</a></em> (Feb 2007) | <a href="http://www.adb.org/sites/default/files/evaluation-document/35441/files/sst-reg-2007-01.pdf">PDF</a></li>
-</ul></li>
-<li><em><a href="http://www.adb.org/documents/policy-involuntary-resettlement">Involuntary Resettlement Policy</a></em> (Aug 1995) | <a href="http://www.adb.org/sites/default/files/institutional-document/32515/files/involuntary-resettlement.pdf">PDF</a> | <a href="" title="NOTES: ADB 1995 Involuntary Resettlement Policy">NOTES</a>
+</ul>
+<ul>
+<li><em><a href="http://www.adb.org/documents/policy-involuntary-resettlement">Involuntary Resettlement Policy</a></em> (Aug 1995) |
+<a href="http://www.adb.org/sites/default/files/institutional-document/32515/files/involuntary-resettlement.pdf">PDF</a> | <a href="" title="NOTES: ADB 1995 Involuntary Resettlement Policy">NOTES</a>
+</li>
+</ul>
 <ul>
 <li><em><a href="http://www.adb.org/documents/involuntary-resettlement-safeguards">Operations Evaluation Department Evaluation Study: Involuntary Resettlement Safeguards</a></em> (Sept 2006) | <a href="http://www.adb.org/sites/default/files/evaluation-document/35442/files/sst-reg-2006-14.pdf">PDF</a></li>
+</li>
 </ul>
-</ul>
+
+
 </div>
 
 <!--

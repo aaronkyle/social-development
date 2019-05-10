@@ -404,7 +404,7 @@ In addition to the *Safeguard Policy Statement*, the ADB has published strategic
 
 #### **Aspirational / Developmental Policies**
 
-While safeguards policies are intended for risk avoidance, mitigation and management, other forms of social policy govern how the ADB invests in development initiatives. These 'aspirational development policies'<sup>ref></sup> set out to better articulate ADB's notion of 'social development' and to address how these aims can be realized in practice.
+While safeguards policies are intended for risk avoidance, mitigation and management, other forms of social policy govern how the ADB invests in development initiatives. These 'aspirational development policies'<sup>ref.</sup> set out to better articulate ADB's notion of 'social development' and to address how these aims can be realized in practice.
 
 
 <div class="well" id="development-policies">

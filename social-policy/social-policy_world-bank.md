@@ -83,10 +83,10 @@ The World Bank Operational Manual contains the operational policies (OPs), Polic
 
 <p>
 <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#world-bank-OM" aria-expanded="false" aria-controls="collapseExample">
-
 World Bank Operations Manual
 </button>
 </p>
+
 <div class="collapse" id="world-bank-OM">
 <div class="card card-block">
 
@@ -98,7 +98,9 @@ World Bank Operations Manual
 <li><a href="#directives" data-toggle="tab">Directives</a></li>
 <li><a href="#opmemos" data-toggle="tab">OpMemos</a></li>
 </ul>
+
 <div id="my-tab-content" class="tab-content">
+
 <div class="tab-pane active" id="policy-categories">
 <p>The World Bank Operational Manual contains the operational policies (OPs), Policies, bank procedures (BPs), Directives, and interim instructions to staff (OpMemos) on the conduct of Bank operations. Click the tabs above for definitions of each term.</p>
 </div>
@@ -106,7 +108,7 @@ World Bank Operations Manual
 <p><strong>Operational Policies (OPs)</strong>: are short, focused statements of policy that are based on the Bank's Articles of Agreement, the General Conditions, and policies approved by the Bank’s Executive Directors. OPs set out the mandatory policy requirements for the conduct of Bank operations.</p>
 </div>
 <div class="tab-pane" id="bp">
-<p><strong>Bank Procedures (BPs)</strong>: are statements setting out the general mandatory procedural requirements necessary for Bank staff to carry out the policies set out in the OPs. They are designed to ensure Bankwide consistency and quality in Bank operations.</li>
+<p><strong>Bank Procedures (BPs)</strong>: are statements setting out the general mandatory procedural requirements necessary for Bank staff to carry out the policies set out in the OPs. They are designed to ensure Bankwide consistency and quality in Bank operations.</p>
 </div>
 <div class="tab-pane" id="directives">
 <p><strong>Directive</strong>: a statement of substantive directions, within Management’s authority, that require, permit or constrain activities. If accompanied by a Policy, the statement provides substantive details (methods, criteria and technical information) on how to implement the Policy. The statement may also address matters not covered by a Policy.</p>
@@ -114,7 +116,9 @@ World Bank Operations Manual
 <div class="tab-pane" id="opmemos">
 <p><strong>Operational Memoranda (OpMemos)</strong>: are interim mandatory requirements designed to elaborate on requirements in OPs/BPs or to reflect changes to the OPs/BPs which have not yet been incorporated in the OPs/BPs concerned. Once the requirements in OpMemos are incorporated into revisions of the pertinent OPs/BPs, the Op Memos are retired.</p>
 </div>
+
 </div>
+
 </div>
 
 

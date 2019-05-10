@@ -55,6 +55,60 @@ The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual)
 <tr>
 <td></td><td>1</td><td>Regional Cooperation and Integration</td><td>30 June 2010</td>
 </tr>
+<tr>
+<td>C</td><td colspan="4">Sector and Thematic Policies</td>
+</tr>
+<tr>
+<td></td><td>1</td><td>Poverty Reduction</td><td>14 July 2004</td>
+</tr>
+<tr>
+<td></td><td>2</td><td>Gender and Development</td><td>6 December 2010</td>
+</tr>
+<tr>
+<td></td><td>3</td><td>Incorporation of Social Dimensions into ADB Operations</td><td>6 December 2010</td>
+</tr>
+<tr>
+<td></td><td>4</td><td>Governance</td><td>23 December 2010</td>
+</tr>
+<tr>
+<td></td><td>5</td><td>Anticorruption</td><td>4 October 2010</td>
+</tr>
+<tr>
+<td></td><td>6</td><td>Enhancing ADB's role in Combating Money Laundering and the Financing of Terrorism</td><td>1 July 2010</td>
+</tr>
+<tr>
+<td>D</td><td colspan="4">Business Products and Instruments</td>
+</tr>
+<tr>
+<td></td><td>1</td><td>Lending Policies for Sovereign and Sovereign-Guaranteed Borrowers (Ordinary Capital Resources)</td><td>24 February 2014</td>
+</tr>
+<tr>
+<td></td><td>2</td><td>Lending and Grant Policies (Asian Development Fund)</td><td>6 August 2013</td>
+</tr>
+<tr>
+<td></td><td>3</td><td>Sector Lending</td><td>29 October 2003</td>
+</tr>
+<tr>
+<td></td><td>4</td><td>Policy-Based Lending</td><td>1 April 2013</td>
+</tr>
+<tr>
+<td></td><td>5</td><td>Sector Development Programs</td><td>29 October 2003</td>
+</tr>
+<tr>
+<td></td><td>6</td><td>Financial Intermediation Loans</td><td>15 December 2003</td>
+</tr>
+<tr>
+<td></td><td>7</td><td>Disaster and Emergency Assistance</td><td>15 June 2004</td>
+</tr>
+<tr>
+<td></td><td>8</td><td>Guarantee and Security Arrangements for Loans</td><td>15 December 2003</td>
+</tr>
+<tr>
+<td></td><td>9</td><td>Credit Enhancement Operations</td><td>18 December 2007</td>
+</tr>
+<tr>
+<td></td><td>10</td><td>Nonsovereign Operations</td><td>2 January 2013</td>
+</tr>
 </tbody>
 </table>
 

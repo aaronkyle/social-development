@@ -4,13 +4,11 @@
   </a>
 </p>
 <div class="collapse" id="terminology-toggle">
-  <div class="card card-body">
-
+<div class="card card-body">
 
 <div class="col-lg-12">
 
 <div id='terminology-table'></div>
-
 
 <p>In policy, terminology is important. Comparative analysis of social policy is a particularly challenging topic for maintaining terminological clarity and consistency. Over the years, I have worked to develop my own definitions for terms used in social policy (a defining feature of the <a href="http://applied-anthro.com/">applied-anthro</a> website) to better ensure continuity in my writing. This lexicon is influenced by the IFI definitions, but it is adapted to accommodate discussion of broad phenomenological concerns.</p>
 
@@ -28,9 +26,8 @@
 
 <p>Adding an additional layer of complexity to any discussion of 'social policy' among international financial institutions (IFIs) are those policies that have an apparent 'social' orientation, but which are operational policies that come to bear only on internal bank operations.</p>
 
-
- </div>
-  </div>
+</div>
+</div>
 </div>
 
 

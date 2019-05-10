@@ -1,16 +1,15 @@
+---
 title: Social Policy at the World Bank
 date: 2009-05-05 01:49
 category: context
 tags: World Bank, policy, social development,
 slug: social-policy_world-bank
 status: draft
-
+---
 
 <a name="world-bank"></a>
 
-## Policy Régimes of the World Bank
-
----
+## Social Policy of the World Bank
 
 <div id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
@@ -714,21 +713,6 @@ While the Bank has recently highlighted the significant quantifiable economic an
 The new policies of the Bank are expected to be ready for a final approval by the Board of the World Bank sometime next year. President Kim has all the time and resources he needs to live up to his promises given to Civil Society Organizations that he would take into account their suggestions for a strong policy on climate.
 
 An institution that sees itself as a vanguard of social and environmental sustainability should strive for the highest standards. The world's poorest, supposedly the "beneficiaries" of World Bank projects, should not have to settle for displacement, violation of human rights, environmental destruction, and exacerbation of climate change in the name of "development." During one of his many public presentations, President Kim said, "In 20 years, all of us will be asked the question, 'What did you do to fight climate change?'. The leaders..., both from the private sector and from governments, have in their power to act in substantive ways. Now is the time to act for future generations before it is too late." Now we ask him what he is going to do today to fight climate change. His time to act is now!
--->
-
-
----
-
-
-<!--
-OLD WIKICODE:
-<references/>
-
-[[Critical Eco-systems Partnership Fund]]
-
-[[Category:World Bank]]
-[[Category:Social Development]]
-[[Category: Policy]]
 -->
 
 

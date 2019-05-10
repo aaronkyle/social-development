@@ -30,10 +30,10 @@ http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_sit
 ---
 
 <div class="card">
-  <div class="card-body">
-    <h5 class="card-title">Current Policy Framework</h5>
-    <p class="card-text">
-    <ul>
+ <div class="card-body">
+<h5 class="card-title">Current Policy Framework</h5>
+<p class="card-text">
+<ul>
 <li>
 <p>2012 <a href="http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustainability/sustainability+framework/sustainability+framework+-+2012/framework_2012#AIP">Sustainability Framework</a></p>
 <ul>
@@ -50,17 +50,14 @@ http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_sit
 <p><a href="http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_ESRP2009/$FILE/ESRP2009.pdf">Environmental and Social Review Procedure</a></p>
 </li>
 </ul>
-    </p>
-
-  </div>
+</p>
+</div>
 </div>
 
 
 ---
 
 ### Sustainability Framework
-
-
 
 In 2006, IFC adopted the  [Sustainability Framework](http://www.ifc.org/sustainabilityframework), which articulates oits strategic commitment to sustainable development. The framework establishes sound environmental and social practices in the context of risk-management, accountability and transparency.  The framework establishes sound environmental and social practices in the context of risk-management, accountability and transparency.The 2006 edition of IFC's Sustainability Framework applies to investments that go through IFC's initial credit review process from April 30, 2006 to December 31, 2011.
 
@@ -403,28 +400,28 @@ In 2013, the World Bank Group began to review and update the EHS Guidelines. As 
 
 
 
-Annual Crop Production (2007)
+Annual Crop Production (2007) <br />
 English | Français | Español | русский | 简体中文 | عربي
 
-Liquefied Natural Gas (LNG) Facilities (2007)
+Liquefied Natural Gas (LNG) Facilities (2007) <br />
 English | Français | Español | русский | 简体中文 | عربي
 
-Offshore Oil and Gas Development (2007)
+Offshore Oil and Gas Development (2007) <br />
 English | Français | Español | русский | 简体中文 | عربي
 
-Petroleum Refining (2007)
+Petroleum Refining (2007) <br />
 English | Français | Español | русский | 简体中文 | عربي
 
-Plantation Crop Production (2007)
+Plantation Crop Production (2007) <br />
 English | Français | Español | русский | 简体中文 | عربي
 
-Ports, Harbors and Terminals (2007)
+Ports, Harbors and Terminals (2007) <br />
 English | Français | Español | русский | 简体中文 | عربي
 
-Vegetable Oil Processing (2007)
+Vegetable Oil Processing (2007) <br />
 English | Français | Español | русский | 简体中文 | عربي
 
-Wind Energy (2007)
+Wind Energy (2007) <br />
 English | Français | Español | русский | 简体中文 | عربي
 
 -->

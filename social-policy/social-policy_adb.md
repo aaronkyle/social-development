@@ -23,6 +23,7 @@ The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual)
 <p><a name="adb-operational-policy"></a></p>
 <h4 id="the-adb-operation-manual-om">Operation Manual (OM)</h4>
 
+<div class="table">
 <table class="table-responsive table-bordered table-striped table-condensed">
 <thead>
 <tr>
@@ -218,6 +219,8 @@ The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual)
 </tr>
 </tbody>
 </table>
+</div>
+
 </div>
 </div>
 

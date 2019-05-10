@@ -176,6 +176,32 @@ The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual)
 <td></td><td>7</td><td>Foreign Exchange Risk</td><td>19 December 2008</td>
 </tr>
 <tr>
+<td>J</td><td colspan="4">Project Administration</td>
+</tr>
+<tr>
+<td></td><td>1</td><td>Project Performance Management System</td><td>28 October 2011</td>
+</tr>
+<tr>
+<td></td><td>2</td><td>Consultants</td><td>6 August 2013</td>
+</tr>
+<tr>
+<td></td><td>3</td><td>Procurement</td><td>6 August 2013</td>
+</tr>
+<tr>
+<td></td><td>4</td><td>Loan Covenants</td><td>29 October 2003</td>
+</tr>
+<tr>
+<td></td><td>5</td><td>Effectiveness of the Loan Agreement</td><td>29 October 2003</td>
+</tr>
+<tr>
+<td></td><td>6</td><td>Disbursement</td><td>4 May 2012</td>
+</tr>
+<tr>
+<td></td><td>7</td><td>Project Accounting, Financial Reporting, and Auditing</td><td>7 June 2012</td>
+</tr>
+<tr>
+<td>K</td><td colspan="4">Evaluation</td>
+</tr>
 </tbody>
 </table>
 

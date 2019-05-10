@@ -16,7 +16,7 @@
 
 <p>Most IFIs compile some form of <strong>operations manual</strong> comprised of policies for effecting the mandates of their institutional charters. In addition to board-approved policies and regulations, some IFI <strong>operations manuals</strong> also include notes of guidance for bank staff and clients that elaborate on the intended meaning of policy provisions to facilitate better implementation.</p>
 
-<p>For example, while the Asian Development Bank's operations manual refers only to policies (which the ADB terms <strong>operational procedures</strong>, or OPs), the operations manual of the World Bank contains <strong>operational policies</strong> (OPs), <strong>bank procedures<strong> (BPs), <strong>directives</strong>, as well as interim instructions to staff (referred to OpMemos).</p>
+<p>For example, while the Asian Development Bank's operations manual refers only to policies (which the ADB terms <strong>operational procedures</strong>, or OPs), the operations manual of the World Bank contains <strong>operational policies</strong> (OPs), <strong>bank procedures</strong> (BPs), <strong>directives</strong>, as well as interim instructions to staff (referred to OpMemos).</p>
 
 <p>It can be hard to distinguish 'policy' from 'guidance', and still more difficult to discern what is "required" as opposed to that which is simply "recommended" (a question that my clients often pose when considering my recommendations for policy implementation).</p>
 

@@ -16,11 +16,11 @@ status: draft
 <div class="panel panel-default">
 
 <div class="panel-heading" role="tab" id="headingTwo">
-<h4 class="panel-title">
+<p class="panel-title">
 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
 <em>Click here for an aside; addressing ambiguity about the term 'World Bank'...</em>
 </a>
-</h4>
+</p>
 </div>
 
 <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">

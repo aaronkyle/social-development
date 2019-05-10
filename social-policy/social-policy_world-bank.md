@@ -101,7 +101,6 @@ World Bank Operations Manual
 </ul>
 
 <div id="my-tab-content" class="tab-content">
-
 <div class="tab-pane active" id="policy-categories">
 <p>The World Bank Operational Manual contains the operational policies (OPs), Policies, bank procedures (BPs), Directives, and interim instructions to staff (OpMemos) on the conduct of Bank operations. Click the tabs above for definitions of each term.</p>
 </div>
@@ -117,12 +116,13 @@ World Bank Operations Manual
 <div class="tab-pane" id="opmemos">
 <p><strong>Operational Memoranda (OpMemos)</strong>: are interim mandatory requirements designed to elaborate on requirements in OPs/BPs or to reflect changes to the OPs/BPs which have not yet been incorporated in the OPs/BPs concerned. Once the requirements in OpMemos are incorporated into revisions of the pertinent OPs/BPs, the Op Memos are retired.</p>
 </div>
+</div>
+
+</div>
 
 </div>
 
 </div>
-</div>
-
 
 <h4 id="world-bank-operational-manual-om">
 </b>Operational Manual (OM)</b>

@@ -22,21 +22,18 @@ The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual)
 
 <p><a name="adb-operational-policy"></a></p>
 <h4 id="the-adb-operation-manual-om">Operation Manual (OM)</h4>
+
 <table class="table-responsive table-bordered table-striped table-condensed">
 <thead>
-
 <tr>
 <th data-field="group">Group</th>
 <th data-field="newOM">New OM No.</th>
 <th data-field="subject">Subject</th>
 <th data-field="date-issued">Date of Issue</th>
-</tr class="highlight">
+</tr>
 </thead>
-
 <tbody>
-
 <tr>
-
 <td>A</td><td colspan="4">Country Classification and Country Focus</td>
 </tr>
 <tr>
@@ -218,6 +215,7 @@ The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual)
 </tr>
 <tr>
 <td></td><td>3</td><td>Public Communications</td><td>2 April 2012</td>
+</tr>
 </tbody>
 </table>
 

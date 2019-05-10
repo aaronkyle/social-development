@@ -26,10 +26,10 @@ The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual)
 <table class="table-responsive table-bordered table-striped table-condensed">
 <thead>
 <tr>
-<th data-field="group">Group</th>
-<th data-field="newOM">New OM No.</th>
-<th data-field="subject">Subject</th>
-<th data-field="date-issued">Date of Issue</th>
+<th>Group</th>
+<th>New OM No.</th>
+<th">Subject</th>
+<th>Date of Issue</th>
 </tr>
 </thead>
 <tbody>

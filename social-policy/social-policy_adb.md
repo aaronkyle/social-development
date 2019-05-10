@@ -39,6 +39,17 @@ The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual)
 <tbody>
 <tr>
 <td>A</td><td colspan="4">Country Classification and Country Focus</td>
+<tr>
+<td>A</td><td colspan="4">Country Classification and Country Focus</td>
+</tr>
+<tr>
+<td></td><td>1</td><td>Classification and Graduation of Developing Member Countries</td><td>4 September 2013</td>
+</tr>
+<tr>
+<td></td><td>2</td><td>Country Partnership Strategy</td><td>1 February 2013</td>
+</tr>
+<tr>
+<td></td><td>3</td><td>Performance-Based Allocation of Asian Development Fund Resources</td><td>3 October 2014</td>
 </tr>
 </tbody>
 </table>

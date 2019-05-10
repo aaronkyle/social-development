@@ -82,15 +82,6 @@ The World Bank Operational Manual contains the operational policies (OPs), Polic
 
 <p>The World Bank Operational Manual contains the operational policies (OPs), Policies, bank procedures (BPs), Directives, and interim instructions to staff (OpMemos) on the conduct of Bank operations.</p>
 
-<p>
-<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#world-bank-OM" aria-expanded="false" aria-controls="collapseExample">
-World Bank Operations Manual
-</button>
-</p>
-
-<div class="collapse" id="world-bank-OM">
-<div class="card card-block">
-
 <div id="content">
 <ul id="tabs" class="nav nav-tabs" data-tabs="tabs">
 <li class="active"><a href="#policy-categories" data-toggle="tab">Policy Categories</a></li>
@@ -120,6 +111,17 @@ World Bank Operations Manual
 
 </div>
 
+<p>
+<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#world-bank-OM" aria-expanded="false" aria-controls="collapseExample">
+World Bank Operations Manual
+</button>
+</p>
+
+<div class="collapse" id="world-bank-OM">
+<div class="card card-block">
+
+
+
 </div>
 
 </div>
@@ -129,14 +131,13 @@ World Bank Operations Manual
 </h4>
 
 <table class="table-responsive table-bordered table-striped table-condensed">
-<thead>
-</thead>
+<thead></thead>
 <tbody>
 <tr>
-<td width="12%"></td><td>Operational Policy Waivers
+<td width="12%"></td><td>Operational Policy Waivers</td>
 </tr>
 <tr>
-<td></td><td> World Bank Group Directive - Country Engagement
+<td></td><td> World Bank Group Directive - Country Engagement</td>
 </tr>
 <tr>
 <td>OP 1.00</td><td><em><a href="http://siteresources.worldbank.org/OPSMANUAL/112526-1124459412562/23585906/OP1.00_Final_July_2014.pdf">Poverty Reduction</a></em></td>

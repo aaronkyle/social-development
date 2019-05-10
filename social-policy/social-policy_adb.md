@@ -28,7 +28,7 @@ The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual)
 <tr>
 <th>Group</th>
 <th>New OM No.</th>
-<th">Subject</th>
+<th>Subject</th>
 <th>Date of Issue</th>
 </tr>
 </thead>

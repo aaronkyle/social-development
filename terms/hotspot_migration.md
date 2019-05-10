@@ -1,3 +1,4 @@
+---
 title: migration hotspot
 date: 2008-05-27 06:34
 category: terminology
@@ -5,6 +6,7 @@ tags: land tenure, IFC, IFC PS5
 slug: migration-hotspot
 summary: : a method of acquiring title to real property by possession for a statutory period under certain conditions
 status: draft
+---
 
 From IFC (2009: 62), “hotspots” refers to “the likely destination/s of in-migrants that need to be protected from, and prepared for, an expected wave of project-induced in-migration”. In other words, consideration of hotspots needs both to predict where migrants are most likely to congregate , as well as what effect their presence will have for each locality.
 

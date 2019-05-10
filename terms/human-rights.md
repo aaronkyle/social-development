@@ -1,3 +1,4 @@
+---
 title: human rights
 date: 2005-11-16 15:59
 category: terminology
@@ -5,6 +6,7 @@ tags:
 slug: human-rights
 summary: :
 status: draft
+---
 
 <!--
 summary:

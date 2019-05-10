@@ -1,3 +1,4 @@
+---
 title: jurisprudence
 date: 
 category: terminology
@@ -5,6 +6,7 @@ tags: jurisprudence, law, international law
 slug: jurisprudence
 summary: :
 status: draft
+---
 
 Jurisprudence is the theory and philosophy of law. Scholars of jurisprudence, or legal philosophers, hope to obtain a deeper understanding of the nature of law, of legal reasoning, legal systems and of legal institutions. Modern jurisprudence began in the 18th century and was focused on the first principles of the natural law, civil law, and the law of nations.<sup>[(“Jurisprudence”, Black's Law Dictionary)](#)</sup>
 

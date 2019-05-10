@@ -1,3 +1,4 @@
+---
 title: highly complex and sensitive projects
 date: 2010-07-30 16:28
 category: terminology
@@ -5,7 +6,7 @@ tags: ADB
 slug: highly-complex-and-sensitive-projects
 summary: : highly risky or contentious projects&mdash;especially those involving serious and multidimensional and generally interrelated potential social and/or environmental impacts.
 status: draft
-
+---
 
 
 Highly Complex and Sensitive Projects. Projects that ADB deems to be highly risky or

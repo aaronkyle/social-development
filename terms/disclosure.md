@@ -7,9 +7,6 @@ slug: disclosure
 summary: : the act of disseminating information.
 ---
 
-<!--
-summary:
--->
 The term *disclosure* refers to the act of disseminating information. Disclosure may occur through various means, including (but not limited to) dissemination of written/printed materials, audio-visual media, and person-to-person interactions.
 
 Disclosure of relevant information is required by the policy frameworks of most [development financial institutions]().

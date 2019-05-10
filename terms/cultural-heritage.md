@@ -1,13 +1,12 @@
+---
 title: cultural heritage
 date: 2005-10-08 06:58
 category: terminology
 tags: World Bank, IFC PS8,
 slug: cultural-heritage
 summary: : any non-renewable resource possessing cultural, scientific, spiritual or religious value
+---
 
-<!--
-summary:
--->
 
 <!--
 The term **cultural-heritage** refers to any non-renewable resource possessing cultural, scientific, spiritual or religious value. Cultural heritage may be tangible or intangible. Examples of tangible forms of cultural heritage include moveable or immoveable objects, sites structures, groups of structures, natural features, or landscapes that have archaeological, paleontological, or historical significance, as well as unique natural environmental features that embody cultural values. Examples of intangible forms of cultural heritage include cultural practices and religious values, such as language, oral history, dances, music, etc.

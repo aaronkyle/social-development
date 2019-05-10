@@ -4,7 +4,7 @@
 Social policy has varied articulations and manifestations. This [repository](https://github.com/aaronkyle/social-development/) collects contextual information pertinent to social policy, including discussions of [social policy of international financial instutions](./social-policy/), [international-](./international-law_good-practice/) and [country-](./country-safeguard-systems) law and regulatory frameworks, and [helpful resources for social development practitioners](./ifi-implementation-resources/).
 
 
-Tracking how social policy is [defined](./terms/terminology.html) and [realized](thematic-issues) is a difficult and endless endeavor: policy formulations change and evolve and the relationship between seemingly similar terms and concepts is sometimes obtuse and counter-intuitive. 
+Tracking how social policy is [defined](./terms/terminology.html) and [realized](thematic-issues) is a difficult and endless endeavor: policy formulations change and evolve and the relationship between seemingly similar terms and concepts is sometimes obtuse and counter-intuitive.
 
 This repository is [open](./license.md) and [public](https://github.com/aaronkyle/social-development) in the hope that someone (other than myself) may eventually find and use it. Ideally, this repository may one day help others tasked with analyzing social policy and its [phenomenological](https://en.wikipedia.org/wiki/Phenomenology_(philosophy)) manifestations.  Currently, I am a solo author&mdash;doing my best to keep up with the changes and to identify and analyze inconsistence where I encounter them. [I doubt I will ever finish](/legal/disclaimer). If you find your way here, welcome!  If you'd like to contribute, that'd be amazing. Ideally, [submit a pull request](https://help.github.com/articles/about-pull-requests/).
 
@@ -24,8 +24,6 @@ For those reading [via this site's front end](http://applied-anthro.com/), I am 
 [`data/`](data) `#` data sets that relate to social development issues<br/>
 [`ref/`](https://github.com/aaronkyle/social-development/tree/master/ref) `#` references and literature<br/>
 
-For those reading [via GitHub](https://github.com/aaronkyle/social-development), the repository structure will be apparent. 
+For those reading [via GitHub](https://github.com/aaronkyle/social-development), the repository structure will be apparent.
 
 Thanks for visiting. Please let me know how this site can be improved!
-
->>>>>>> master

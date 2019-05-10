@@ -1,3 +1,4 @@
+---
 title: historic district
 date: 2006-10-28 13:08
 category: terminology
@@ -5,6 +6,7 @@ tags:
 slug: historic-district
 summary: : a contiguous assemblage of historic structures and associated landscape features that constitute a heritage resource extending over a larger area than any single structure
 status: draft
+---
 
 
 An <em><dt>historic district</dt></em> is a contiguous assemblage of historic structures and associated landscape features that constitute a heritage resource extending over a larger area than any single structure. Integrity and thematic interest are the key considerations for defining and determining the importance of an historic district. Temple precincts, graveyards, urban neighborhoods, and sometimes entire villages or towns can be classified as historic districts. Historic districts may contain thematically un-related or ‘non-contributing’ structures that may or may not merit protection in their own right. Historic structures and districts may require protection from direct physical impacts but should also be considered in their visual dimension. Possibly discordant construction in or near an historic district or structure might require special design considerations to mitigate ‘visual’ impacts to heritage resources.

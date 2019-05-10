@@ -25,7 +25,7 @@
 <td align="left">: variety of life in all its forms, including genetic, species and ecosystem diversity</td>
 </tr>
   <tr class="odd">
-<td align="left" style="vertical-align:top"><strong><a href="./community-history/">community history</a></strong></td>
+<td align="left" style="vertical-align:top"><strong><a href="./community-history">community history</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: detailed account of the community’s past, detailing how things have changed, with a particular focus on relationships with external actors and the trends these relations have followed, as well as internal dynamics within the community
 <!--
@@ -117,12 +117,12 @@
 <td align="left">: market value of assets plus transaction costs</td>
 </tr>
 <tr class="even">
-<td align="left" style="vertical-align:top"><strong><a href="./replacement-cost-public-structure">replacement cost of public structures</a></strong></td>
+<td align="left" style="vertical-align:top"><strong><a href="./replacement-cost_public-structures">replacement cost of public structures</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: the cost of purchasing or building a new structure, with an area and quality similar to or better than those of the affected structure, or of repairing a partially affected structure, including labor and contractors’ fees and transaction costs such as registration and transfer taxes</td>
 </tr>
 <tr class="odd">
-<td align="left" style="vertical-align:top"><strong><a href="./replacement-cost-urban-land">replacement cost of urban land</a></strong></td>
+<td align="left" style="vertical-align:top"><strong><a href="./replacement-cost_urban-land">replacement cost of urban land</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: the market value of land of equivalent area and use, with similar or improved infrastructure and services preferably located in the vicinity of the affected land, plus transaction costs such as registration and transfer taxes</td>
 </tr>

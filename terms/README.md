@@ -145,7 +145,7 @@
 <td align="left">: the cost of purchasing or building a new structure, with an area and quality similar to or better than those of the affected structure, or of repairing a partially affected structure, including labor and contractors’ fees and transaction costs such as registration and transfer taxes</td>
 </tr>
 <tr class="even">
-<td align="left" style="vertical-align:top"><strong><a href="./replacement-cost-urban-land">replacement cost of urban land</a></strong></td>
+<td align="left" style="vertical-align:top"><strong><a href="./replacement-cost_urban-land">replacement cost of urban land</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: the market value of land of equivalent area and use, with similar or improved infrastructure and services preferably located in the vicinity of the affected land, plus transaction costs such as registration and transfer taxes</td>
 </tr>

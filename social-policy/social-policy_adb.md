@@ -379,6 +379,7 @@ In addition to the *Safeguard Policy Statement*, the ADB has published strategic
 <ul>
 <li><a href="http://www.adb.org/Documents/Reports/Social_Protection/IN252-02.pdf">Social Protection Progress Report to the Board of Directors</a><li>
 </ul>
+<ul>
 <li><em><a href="http://www.adb.org/documents/social-protection-strategy">Social Protection Strategy</a></em> (Jan 2001)
 <ul>
 <li><a href="http://www.adb.org/documents/social-protection-operational-plan-2014-2020">Social Protection Operational Plan 2014−2020</a></em> (Dec 2013)</li>

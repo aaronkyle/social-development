@@ -121,6 +121,24 @@ The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual)
 <tr>
 <td></td><td>14</td><td>Multitranche Financing Facility</td><td>17 February 2015</td>
 </tr>
+<tr>
+<td>E</td><td colspan="4">Partnerships</td>
+</tr>
+<tr>
+<td></td><td>1</td><td>Financing Partnerships</td><td>3 October 2014</td>
+</tr>
+<tr>
+<td></td><td>2</td><td>Japan Fund for Poverty Reduction</td><td>1 March 2011</td>
+</tr>
+<tr>
+<td></td><td>3</td><td>Cooperation Arrangements for Development Partnership</td><td>26 March 2009</td>
+</tr>
+<tr>
+<td></td><td>4</td><td>Promotion of Cooperation with NGOs</td><td>29 October 2003</td>
+</tr>
+<tr>
+<td>F</td><td colspan="4">Safeguard Policies</td>
+</tr>
 </tbody>
 </table>
 

@@ -12,7 +12,9 @@ status: draft
 ## Social Policy of the World Bank
 
 <div id="accordion" role="tablist" aria-multiselectable="true">
+
 <div class="panel panel-default">
+
 <div class="panel-heading" role="tab" id="headingTwo">
 <h4 class="panel-title">
 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
@@ -20,6 +22,7 @@ status: draft
 </a>
 </h4>
 </div>
+
 <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
 <h2 id="world-bank-term">World Bank | Disambiguation of Terms</h2>
 <p>References to &quot;the World Bank&quot; suggest that a single international financial institution provides loans to developing countries for capital programs. This singularization of &quot;the Bank&quot; commonly signifies the <a href="http://go.worldbank.org/IB13V68520" title="Articles of Agreement, as amended effective June 27, 2012">International Bank for Reconstruction and Development (IBRD)</a>.<sup><a hfref="http://siteresources.worldbank.org/EXTABOUTUS/Resources/IBRDArticlesOfAgreement_links.pdf">PDF</a></sup> The World Bank Group is a greater body consisting of:</p>
@@ -32,6 +35,11 @@ status: draft
 </ol>
 <p>Each World Bank Group institution operates according to procedures established by its <a href="http://go.worldbank.org/BA0GA6O820">Articles of Agreement</a>, or an equivalent governing document. These documents outline the conditions of membership and the general principles of organization, management, and operations. Each institution is run by a Board of Governors meeting once a year. Each member country appoints a governor, generally its Minister of Finance. On a daily basis the World Bank Group is run by a Board of 25 Executive Directors to whom the governors have delegated certain powers. Each Director represents either one country (for the largest countries), or a group of countries. Executive Directors are appointed by their respective governments or the constituencies.<sup><em>ref.</em></sup></p>
 <p>The World Bank Institute is the capacity-development branch of the World Bank, providing learning and other capacity-building programs to member countries.</p>
+</div>
+
+</div>
+</div>
+
 
 <!--
 *An aside, to rectify some ambiguity:*

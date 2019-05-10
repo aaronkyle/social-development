@@ -71,7 +71,7 @@ The World Bank understands policy as a statement of broad substantive principles
 
 ### The World Bank Operational Manual (OpManual)
 
-The World Bank Operational Manual contains the operational policies (OPs), Policies, bank procedures (BPs), Directives, and interim instructions to staff (OpMemos) on the conduct of Bank operations.</p>
+The World Bank Operational Manual contains the operational policies (OPs), Policies, bank procedures (BPs), Directives, and interim instructions to staff (OpMemos) on the conduct of Bank operations.
 
 
 <p>
@@ -79,6 +79,7 @@ The World Bank Operational Manual contains the operational policies (OPs), Polic
 </p>
 
 <h3 id="the-world-bank-operational-manual">The World Bank Operational Manual (OM)</h3>
+
 <p>The World Bank Operational Manual contains the operational policies (OPs), Policies, bank procedures (BPs), Directives, and interim instructions to staff (OpMemos) on the conduct of Bank operations.</p>
 
 <p>
@@ -119,6 +120,7 @@ World Bank Operations Manual
 
 </div>
 
+</div>
 </div>
 
 

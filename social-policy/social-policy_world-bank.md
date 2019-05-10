@@ -484,7 +484,7 @@ The corpus of social and environmental 'policy' at the World Bank is comprised o
 The concept of 'safeguards policy' is [tauted on the World Bank website as a cornerstone of World Bank sustainable poverty reduction](http://go.worldbank.org/WTA1ODE7T0),
 -->
 The World Bank does not explicitly distinguish stand-alone safeguard policies. Rather, the concept of safeguard is manifest in policy statements that that certain issues require special attention during project design and implementation and therefore requires certain types of interventions as part of loan processing.That is to say, safeguards are [considered to be written into each of several thematically-defined policies](http://go.worldbank.org/XFBVTIUDK0)&mdash;principally within the *Operational Manual*.[2](# "The [Access to Information](http://go.worldbank.org/TRCDVYJ440) policy might also be considered a type of safeguard.")
--->
+
 
 <!--
 <a name="world-bank-safeguards-policy"></a>

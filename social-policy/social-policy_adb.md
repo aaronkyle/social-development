@@ -374,7 +374,7 @@ In addition to the *Safeguard Policy Statement*, the ADB has published strategic
 <p><strong>Non-Policy Safeguard Frameworks</strong></p>
 
 <ul>
-<li><em><a href="http://www.adb.org/Documents/Policies/Social_Protection/default.asp">Social Protection Strategy</a></em> (Aug 2001)
+<li><em><a href="http://www.adb.org/Documents/Policies/Social_Protection/default.asp">Social Protection Strategy</a></em> (Aug 2001)<li>
 </ul>
 <ul>
 <li><a href="http://www.adb.org/Documents/Reports/Social_Protection/IN252-02.pdf">Social Protection Progress Report to the Board of Directors</a><li>

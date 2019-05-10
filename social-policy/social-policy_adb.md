@@ -429,7 +429,7 @@ While safeguards policies are intended for risk avoidance, mitigation and manage
 </ul>
 
 <ul>
-<li><em><a href="">Policy on Gender and Development, 2010</a></em>
+<li><em><a href="">Policy on Gender and Development, 2010</a></em></li>
 <ul>
 <li><em><a href="http://www.adb.org/sites/default/files/institutional-document/31483/om-c2.pdf">2010 Operations Manual Section C2/BP &amp; C2/OP</a></em></li>
 <li><a href="http://www.adb.org/sites/default/files/institutional-document/32035/gender-policy.pdf">2003 typset version of the 1998 policy</a> | <a href="http://www.adb.org/sites/default/files/institutional-document/32035/gender-policy.pdf">PDF</a> | <a href="#">NOTES</a></li>

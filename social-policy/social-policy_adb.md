@@ -336,20 +336,18 @@ The SPS builds upon (and supersedes) three previous safeguard policies: (i) the 
 
 <ul>
 <li><em><a href="http://www.adb.org/documents/policy-indigenous-peoples">Policy on Indigenous Peoples</a></em> (1998) | <a href="http://www.adb.org/sites/default/files/institutional-document/33441/files/policy-indigenous-peoples.pdf">PDF</a> | <a href="" title="NOTES: ADB 1998 Indigenous Peoples Policy">NOTES</a></li>
-</ul>
-
 <ul>
 <li><em><a href="http://www.adb.org/documents/manuals/operations/OMF03-25Sep06.pdf">Operations Manual Section F3/B 'Indigenous Peoples'</a></em> (25 September 2006)</li>
 <li><em><a href="http://www.oecd.org/dataoecd/43/22/38984072.pdf">Operations Evaluation Department Evaluation Study: Indigenous Peoples Safeguards</a></em> (Feb 2007) | <a href="http://www.adb.org/sites/default/files/evaluation-document/35441/files/sst-reg-2007-01.pdf">PDF</a></li>
+</ul>
 </ul>
 
 <ul>
 <li><em><a href="http://www.adb.org/documents/policy-involuntary-resettlement">Involuntary Resettlement Policy</a></em> (Aug 1995) |
 <a href="http://www.adb.org/sites/default/files/institutional-document/32515/files/involuntary-resettlement.pdf">PDF</a> | <a href="" title="NOTES: ADB 1995 Involuntary Resettlement Policy">NOTES</a></li>
-</ul>
-
 <ul>
 <li><em><a href="http://www.adb.org/documents/involuntary-resettlement-safeguards">Operations Evaluation Department Evaluation Study: Involuntary Resettlement Safeguards</a></em> (Sept 2006) | <a href="http://www.adb.org/sites/default/files/evaluation-document/35442/files/sst-reg-2006-14.pdf">PDF</a></li>
+</ul>
 </ul>
 
 
@@ -374,15 +372,17 @@ In addition to the *Safeguard Policy Statement*, the ADB has published strategic
 
 <div class="well">
 <p><strong>Non-Policy Safeguard Frameworks</strong></p>
+
 <ul>
 <li><em><a href="http://www.adb.org/Documents/Policies/Social_Protection/default.asp">Social Protection Strategy</a></em> (Aug 2001)
+
 <ul>
-<li><a href="http://www.adb.org/Documents/Reports/Social_Protection/IN252-02.pdf">Social Protection Progress Report to the Board of Directors</a>
-</ul></li>
+<li><a href="http://www.adb.org/Documents/Reports/Social_Protection/IN252-02.pdf">Social Protection Progress Report to the Board of Directors</a><li>
+</ul>
 <li><em><a href="http://www.adb.org/documents/social-protection-strategy">Social Protection Strategy</a></em> (Jan 2001)
 <ul>
-<li><a href="http://www.adb.org/documents/social-protection-operational-plan-2014-2020">Social Protection Operational Plan 2014−2020</a></em> (Dec 2013)
-<li><a href="http://www.adb.org/documents/special-evaluation-study-adb-s-social-protection-strategy">Special Evaluation Study on ADB’s Social Protection Strategy</a></em> (7 Nov 2012)
+<li><a href="http://www.adb.org/documents/social-protection-operational-plan-2014-2020">Social Protection Operational Plan 2014−2020</a></em> (Dec 2013)</li>
+<li><a href="http://www.adb.org/documents/special-evaluation-study-adb-s-social-protection-strategy">Special Evaluation Study on ADB’s Social Protection Strategy</a></em> (7 Nov 2012)</li>
 </ul>
 </ul>
 </div>
@@ -410,14 +410,14 @@ While safeguards policies are intended for risk avoidance, mitigation and manage
 <p><strong>Development Policies</strong></p>
 
 <ul>
-<li><em><a href="http://www.adb.org/documents/strategy-2020-working-asia-and-pacific-free-poverty">Strategy 2020: Working for an Asia and Pacific Free of Poverty</a></em> (Apr 2008) | <a href="http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-print.pdf">print</a> | <a href="http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-board-doc.pdf">board paper</a> | <a href="http://www.adb.org/sites/default/files/institutional-document/32121/brochure-strategy2020.pdf">brochure</a>
+<li><em><a href="http://www.adb.org/documents/strategy-2020-working-asia-and-pacific-free-poverty">Strategy 2020: Working for an Asia and Pacific Free of Poverty</a></em> (Apr 2008) | <a href="http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-print.pdf">print</a> | <a href="http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-board-doc.pdf">board paper</a> | <a href="http://www.adb.org/sites/default/files/institutional-document/32121/brochure-strategy2020.pdf">brochure</a></li>
 <ul>
 <li><a href="http://www.adb.org/documents/midterm-review-strategy-2020-action-plan">Midterm Review of Strategy 2020 Action Plan</a></li>
 </ul>
 </ul>
 
 <ul>
-<li><a href="http://www.adb.org/site/development-effectiveness/adb-results-framework">ADB Results Framework</a> (2008)
+<li><a href="http://www.adb.org/site/development-effectiveness/adb-results-framework">ADB Results Framework</a> (2008)</li>
 <ul>
 <li><em><a href="http://www.adb.org/documents/adb-results-framework-2013-2016-quick-guide">ADB Results Framework 2013-2016: Quick Guide</a></em> | <a href="http://www.adb.org/documents/adb-results-framework-2013-2016-quick-guide">PDF</a></li>
 <li><em><a href="http://www.adb.org/documents/supplementary-appendix-b-standard-explanatory-data-definitions">Standard Explanatory Data Definitions</a></em> (2014) | <a href="http://www.adb.org/sites/default/files/institutional-document/33903/rf-sed-definitions.pdf">PDF - 2014 Update</a></li>

@@ -139,6 +139,43 @@ The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual)
 <tr>
 <td>F</td><td colspan="4">Safeguard Policies</td>
 </tr>
+<tr>
+<td>G</td><td colspan="4">Analyses</td>
+</tr>
+<tr>
+<td></td><td>1</td><td>Economic Analysis of Projects</td><td>15 December 2003</td>
+</tr>
+<tr>
+<td></td><td>2</td><td>Financial Management, Cost Estimates, Financial Analysis and Financial Performance Indicators</td><td>12 March 2014</td>
+</tr>
+<tr>
+<td></td><td>3</td><td>Poverty and Social Analysis</td><td>under preparation
+</tr>
+<tr>
+<td>H</td><td colspan="4">Financial</td>
+</tr>
+<tr>
+<td></td><td>1</td><td>Financing of Interest and Other Charges During Construction</td><td>18 July 2006</td>
+</tr>
+<tr>
+<td></td><td>2</td><td>Financing Indirect Foreign Exchange Cost of Projects</td><td>22 October 2008</td>
+</tr>
+<tr>
+<td></td><td>3</td><td>Cost Sharing and Eligibility of Expenditures for ADB Financing</td><td>3 January 2012</td>
+</tr>
+<tr>
+<td></td><td>4</td><td>Retroactive Financing</td><td>21 July 2006</td>
+</tr>
+<tr>
+<td></td><td>5</td><td>Additional Financing</td><td>24 February 2011</td>
+</tr>
+<tr>
+<td></td><td>6</td><td>Use of Surplus Loan Proceeds</td><td>29 October 2003</td>
+</tr>
+<tr>
+<td></td><td>7</td><td>Foreign Exchange Risk</td><td>19 December 2008</td>
+</tr>
+<tr>
 </tbody>
 </table>
 

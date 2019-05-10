@@ -122,12 +122,9 @@ World Bank Operations Manual
 
 
 
-</div>
-
-</div>
 
 <h4 id="world-bank-operational-manual-om">
-</b>Operational Manual (OM)</b>
+Operational Manual (OM)
 </h4>
 
 <table class="table-responsive table-bordered table-striped table-condensed">

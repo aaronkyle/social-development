@@ -79,16 +79,6 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
 </a></p>
 <div class="collapse" id="faq-toggle">
 <div class="card card-body">
-<<<<<<< HEAD
-<p><strong>Am I analyzing social policy elsewhere (in this repo or otherwise)?</strong></p>
-
-<p>Yes.  Here are links to Google Spreadsheets that I use to try to follow developments in social policy:</p>
-<p><ul>
-  <li><a href="https://docs.google.com/spreadsheets/d/1XJEFWygS7658yu_7Yab36TbVATeN2E5T_ymx_1G5Xsg/edit#gid=1210438341">analysis, IFI, MDB, Bank policy requirements, Indigenous Peoples, 2012</a></li>
-  <li><a href="https://docs.google.com/spreadsheets/d/1SJdrbHcB-Zz05rVDxDqpvJfoVPKqA4EsAvyU7goiU-U/edit?usp=sharing">Social Policies among the IFIs</a></li>
-  </ul></p>
-
-=======
 <p><strong>Am I analyzing social policy elswhere (in this repo or otherwise)?</strong></p>
 <p>Yes.  Here are links to Google Spreadsheets that I use to try to follow developments in social policy:</p>
 <p>
@@ -97,7 +87,6 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
 <li><a href="https://docs.google.com/spreadsheets/d/1SJdrbHcB-Zz05rVDxDqpvJfoVPKqA4EsAvyU7goiU-U/edit?usp=sharing">Social Policies among the IFIs</a></li>
 </ul>
 </p>
->>>>>>> master
 </div>
 </div>
 

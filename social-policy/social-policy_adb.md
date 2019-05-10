@@ -17,6 +17,11 @@ The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual)
 </button>
 
 
+<div class="collapse" id="collapseExample">
+<div class="card card-block">
+</div>
+</div>
+
 
 
 <a name="adb-social-policy"></a>

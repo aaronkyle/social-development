@@ -149,9 +149,131 @@ The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual)
 <td></td><td>2</td><td>Financial Management, Cost Estimates, Financial Analysis and Financial Performance Indicators</td><td>12 March 2014</td>
 </tr>
 <tr>
-<td></td><td>3</td><td>Poverty and Social Analysis</td><td>under preparation
+<td></td><td>3</td><td>Poverty and Social Analysis</td><td>under preparation</td>
 </tr>
-
+<tr>
+<td>H</td><td colspan="4">Financial</td>
+</tr>
+<tr>
+<td></td><td>1</td><td>Financing of Interest and Other Charges During Construction</td><td>18 July 2006</td>
+</tr>
+<tr>
+<td></td><td>2</td><td>Financing Indirect Foreign Exchange Cost of Projects</td><td>22 October 2008</td>
+</tr>
+<tr>
+<td></td><td>3</td><td>Cost Sharing and Eligibility of Expenditures for ADB Financing</td><td>3 January 2012</td>
+</tr>
+<tr>
+<td></td><td>4</td><td>Retroactive Financing</td><td>21 July 2006</td>
+</tr>
+<tr>
+<td></td><td>5</td><td>Additional Financing</td><td>24 February 2011</td>
+</tr>
+<tr>
+<td></td><td>6</td><td>Use of Surplus Loan Proceeds</td><td>29 October 2003</td>
+</tr>
+<tr>
+<td></td><td>7</td><td>Foreign Exchange Risk</td><td>19 December 2008</td>
+</tr>
+<tr>
+<td>J</td><td colspan="4">Project Administration</td>
+</tr>
+<tr>
+<td></td><td>1</td><td>Project Performance Management System</td><td>28 October 2011</td>
+</tr>
+<tr>
+<td></td><td>2</td><td>Consultants</td><td>6 August 2013</td>
+</tr>
+<tr>
+<td></td><td>3</td><td>Procurement</td><td>6 August 2013</td>
+</tr>
+<tr>
+<td></td><td>4</td><td>Loan Covenants</td><td>29 October 2003</td>
+</tr>
+<tr>
+<td></td><td>5</td><td>Effectiveness of the Loan Agreement</td><td>29 October 2003</td>
+</tr>
+<tr>
+<td></td><td>6</td><td>Disbursement</td><td>4 May 2012</td>
+</tr>
+<tr>
+<td></td><td>7</td><td>Project Accounting, Financial Reporting, and Auditing</td><td>7 June 2012</td>
+</tr>
+<tr>
+<td>K</td><td colspan="4">Evaluation</td>
+</tr>
+<tr>
+<td></td><td>1</td><td>Independent Evaluation</td><td>1 October 2013</td>
+</tr>
+<tr>
+<td>L</td><td colspan="4">Other Policies and Operational Procedures</td>
+</tr>
+<tr>
+<td></td><td>1</td><td>ADB Accountability Mechanism</td><td>24 May 2012</td>
+</tr>
+<tr>
+<td></td><td>2</td><td>Internal Audit</td><td>15 December 2003</td>
+</tr>
+<tr>
+<td></td><td>3</td><td>Public Communications</td><td>2 April 2012</td>
+</tr>
+<tr>
+<td>3</td><td>Cost Sharing and Eligibility of Expenditures for ADB Financing</td><td>3 January 2012</td>
+</tr>
+<tr>
+<td></td><td>4</td><td>Retroactive Financing</td><td>21 July 2006</td>
+</tr>
+<tr>
+<td></td><td>5</td><td>Additional Financing</td><td>24 February 2011</td>
+</tr>
+<tr>
+<td></td><td>6</td><td>Use of Surplus Loan Proceeds</td><td>29 October 2003</td>
+</tr>
+<tr>
+<td></td><td>7</td><td>Foreign Exchange Risk</td><td>19 December 2008</td>
+</tr>
+<tr>
+<td>J</td><td colspan="4">Project Administration</td>
+</tr>
+<tr>
+<td></td><td>1</td><td>Project Performance Management System</td><td>28 October 2011</td>
+</tr>
+<tr>
+<td></td><td>2</td><td>Consultants</td><td>6 August 2013</td>
+</tr>
+<tr>
+<td></td><td>3</td><td>Procurement</td><td>6 August 2013</td>
+</tr>
+<tr>
+<td></td><td>4</td><td>Loan Covenants</td><td>29 October 2003</td>
+</tr>
+<tr>
+<td></td><td>5</td><td>Effectiveness of the Loan Agreement</td><td>29 October 2003</td>
+</tr>
+<tr>
+<td></td><td>6</td><td>Disbursement</td><td>4 May 2012</td>
+</tr>
+<tr>
+<td></td><td>7</td><td>Project Accounting, Financial Reporting, and Auditing</td><td>7 June 2012</td>
+</tr>
+<tr>
+<td>K</td><td colspan="4">Evaluation</td>
+</tr>
+<tr>
+<td></td><td>1</td><td>Independent Evaluation</td><td>1 October 2013</td>
+</tr>
+<tr>
+<td>L</td><td colspan="4">Other Policies and Operational Procedures</td>
+</tr>
+<tr>
+<td></td><td>1</td><td>ADB Accountability Mechanism</td><td>24 May 2012</td>
+</tr>
+<tr>
+<td></td><td>2</td><td>Internal Audit</td><td>15 December 2003</td>
+</tr>
+<tr>
+<td></td><td>3</td><td>Public Communications</td><td>2 April 2012</td>
+</tr>
 </tbody>
 </table>
 

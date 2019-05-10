@@ -3,7 +3,7 @@
 
 ## Social Policy of the Asian Development Bank
 
-Investments of the Asian Development Bank must accord with the [ADB Charter](http://www.adb.org/documents/agreement-establishing-asian-development-bank-adb-charter "*Agreement Establishing the Asian Development Bank*, 1965"), which defines as the bank's purpose "to foster economic growth and co-operation in the region of Asia and the Far East... and to contribute to the acceleration of the process of economic development of the developing member countries in the region, collectively and individually." 
+Investments of the Asian Development Bank must accord with the [ADB Charter](http://www.adb.org/documents/agreement-establishing-asian-development-bank-adb-charter "*Agreement Establishing the Asian Development Bank*, 1965"), which defines as the bank's purpose "to foster economic growth and co-operation in the region of Asia and the Far East... and to contribute to the acceleration of the process of economic development of the developing member countries in the region, collectively and individually."
 
 Investment decisions are made in deference to internal strategies for reaching developmental targets, and their implementation is guided by ADB's [Regulations of Ordinary and Special Operations (OCR regulations)](http://www.adb.org/site/funds/ocr) as well as by  [a series of operational policies](#adb-operational-policy).  [Social Policy](#adb-social-policy), in this context, is defined with respect to specific dimensions of ADB work, e.g. governance and anti-corruption.  Client obligations to avoid and mitigate social and environmental risks are specified in the ADB's **[Safeguard Policy Statement](#adb-safeguards-policy)**.
 
@@ -31,6 +31,7 @@ The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual)
 </tr class="highlight">
 </thead>
     <tbody>
+    <table>
 <tr>
 <td>A</td><td colspan="4">Country Classification and Country Focus</td>
 </tr>
@@ -214,7 +215,6 @@ The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual)
 <tr>
 <td></td><td>3</td><td>Public Communications</td><td>2 April 2012</td>
     </tbody>
-</table>
 </table>
 
 
@@ -438,4 +438,3 @@ document/32122/prs-2004.pdf)
 Additional References:
 http://www.adb.org/site/safeguards/main
 -->
-

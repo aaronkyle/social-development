@@ -3,7 +3,7 @@
 
 ## Social Policy of the Asian Development Bank
 
-Investments of the Asian Development Bank must accord with the [ADB Charter](http://www.adb.org/documents/agreement-establishing-asian-development-bank-adb-charter "*Agreement Establishing the Asian Development Bank*, 1965"), which defines as the bank's purpose "to foster economic growth and co-operation in the region of Asia and the Far East... and to contribute to the acceleration of the process of economic development of the developing member countries in the region, collectively and individually." 
+Investments of the Asian Development Bank must accord with the [ADB Charter](http://www.adb.org/documents/agreement-establishing-asian-development-bank-adb-charter "*Agreement Establishing the Asian Development Bank*, 1965"), which defines as the bank's purpose "to foster economic growth and co-operation in the region of Asia and the Far East... and to contribute to the acceleration of the process of economic development of the developing member countries in the region, collectively and individually."
 
 Investment decisions are made in deference to internal strategies for reaching developmental targets, and their implementation is guided by ADB's [Regulations of Ordinary and Special Operations (OCR regulations)](http://www.adb.org/site/funds/ocr) as well as by  [a series of operational policies](#adb-operational-policy).  [Social Policy](#adb-social-policy), in this context, is defined with respect to specific dimensions of ADB work, e.g. governance and anti-corruption.  Client obligations to avoid and mitigate social and environmental risks are specified in the ADB's **[Safeguard Policy Statement](#adb-safeguards-policy)**.
 
@@ -215,7 +215,6 @@ The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual)
 <td></td><td>3</td><td>Public Communications</td><td>2 April 2012</td>
     </tbody>
 </table>
-</table>
 
 
 </div>
@@ -280,7 +279,7 @@ The SPS builds upon (and supersedes) three previous safeguard policies: (i) the 
 <li><em><a href="http://www.adb.org/documents/policy-involuntary-resettlement">Involuntary Resettlement Policy</a></em> (Aug 1995) | <a href="http://www.adb.org/sites/default/files/institutional-document/32515/files/involuntary-resettlement.pdf">PDF</a> | <a href="" title="NOTES: ADB 1995 Involuntary Resettlement Policy">NOTES</a>
 <ul>
 <li><em><a href="http://www.adb.org/documents/involuntary-resettlement-safeguards">Operations Evaluation Department Evaluation Study: Involuntary Resettlement Safeguards</a></em> (Sept 2006) | <a href="http://www.adb.org/sites/default/files/evaluation-document/35442/files/sst-reg-2006-14.pdf">PDF</a></li>
-</ul></li>
+</ul>
 </ul>
 </div>
 
@@ -312,7 +311,7 @@ In addition to the *Safeguard Policy Statement*, the ADB has published strategic
 <ul>
 <li><a href="http://www.adb.org/documents/social-protection-operational-plan-2014-2020">Social Protection Operational Plan 2014−2020</a></em> (Dec 2013)
 <li><a href="http://www.adb.org/documents/special-evaluation-study-adb-s-social-protection-strategy">Special Evaluation Study on ADB’s Social Protection Strategy</a></em> (7 Nov 2012)
-</ul></li>
+</ul>
 </ul>
 </div>
 
@@ -342,7 +341,7 @@ While safeguards policies are intended for risk avoidance, mitigation and manage
 <li><em><a href="http://www.adb.org/documents/strategy-2020-working-asia-and-pacific-free-poverty">Strategy 2020: Working for an Asia and Pacific Free of Poverty</a></em> (Apr 2008) | <a href="http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-print.pdf">print</a> | <a href="http://www.adb.org/sites/default/files/institutional-document/32121/strategy2020-board-doc.pdf">board paper</a> | <a href="http://www.adb.org/sites/default/files/institutional-document/32121/brochure-strategy2020.pdf">brochure</a>
 <ul>
 <li><a href="http://www.adb.org/documents/midterm-review-strategy-2020-action-plan">Midterm Review of Strategy 2020 Action Plan</a></li>
-</ul></li>
+</ul>
 </ul>
 
 <ul>
@@ -363,7 +362,7 @@ While safeguards policies are intended for risk avoidance, mitigation and manage
 <li><a href="http://www.adb.org/documents/implementation-review-policy-gender-and-development">Implementation Review of the Policy on Gender and Development</a> (Nov 2006)</li>
 <li><a href="http://www.adb.org/documents/series/gender-and-development-plan-action-annual-implementation-progress-reports">Gender and Development Plan of Action Annual Implementation Progress Reports</a> (Nov 2006)</li>
 <li><a href="http://www.adb.org/documents/interim-progress-report-policy-gender-and-development">Interim Progress Report on the Policy on Gender and Development</a> (2002)</li>
-</ul></li>
+</ul>
 </ul>
 <ul>
 <li><em><a href="http://www.adb.org/documents/social-protection-strategy">Social Protection Strategy</a></em><sup><a href="http://www.adb.org/themes/social-development/social-protection">alternative website</a><sup></li>
@@ -438,4 +437,3 @@ document/32122/prs-2004.pdf)
 Additional References:
 http://www.adb.org/site/safeguards/main
 -->
-

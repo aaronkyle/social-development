@@ -11,7 +11,7 @@
 
 <div id='terminology-table'></div>
 
-   
+
 In policy, terminology is important. Comparative analysis of social policy is a particularly challenging topic for maintaining terminological clarity and consistency. Over the years, I have worked to develop my own definitions for terms used in social policy (a defining feature of the [applied-anthro](http://applied-anthro.com/) website) to ensure clarity and continuity in my writing. This lexicon is influenced by the IFI definitions, but it is adapted to accomodate discussion of broad phenomenological concerns.
 
 Consider the following:
@@ -37,27 +37,27 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
 <table class="table table-striped">
 <tbody>
 <tr class="even">
-<td align="left" style="vertical-align:top"><strong><a href="/terms/action-plan/">action plan</a></strong></td>
+<td align="left" style="vertical-align:top"><strong><a href="./terms/action-plan/">action plan/#</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: a document defining actions for ensuring compliance with applicable laws, regulations, and policy mandates</td>
 </tr>
 <tr class="odd">
-<td align="left" style="vertical-align:top"><strong><a href="/terms/adverse-possession/">adverse possession</a></strong></td>
+<td align="left" style="vertical-align:top"><strong><a href="./terms/adverse-possession/">adverse possession</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: a method of acquiring title to real property by possession for a statutory period under certain conditions</td>
 </tr>
 <tr class="even">
-<td align="left" style="vertical-align:top"><strong><a href="/terms/affected-communities/">affected communities</a></strong></td>
+<td align="left" style="vertical-align:top"><strong><a href="./terms/affected-communities/">affected communities</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: communities that are subject to risks or impacts from project operations</td>
 </tr>
 <tr class="odd">
-<td align="left" style="vertical-align:top"><strong><a href="/terms/artifact/">artifact</a></strong></td>
+<td align="left" style="vertical-align:top"><strong><a href="./terms/artifact/">artifact</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: a portable object that is created by past human activity</td>
 </tr>
 <tr class="even">
-<td align="left" style="vertical-align:top"><strong><a href="/terms/biodiversity/">biodiversity</a></strong></td>
+<td align="left" style="vertical-align:top"><strong><a href="./terms/biodiversity/">biodiversity</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: variety of life in all its forms, including genetic, species and ecosystem diversity</td>
 </tr>
@@ -220,4 +220,3 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
 </tbody>
 
 </table>
-

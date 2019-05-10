@@ -27,7 +27,7 @@ The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual)
 
 
 
-<table class="table-responsive table-bordered table-striped table-condensed">
+<table class="table table-responsive table-bordered table-striped table-condensed">
 <thead>
 <tr>
 <th>Group</th>
@@ -218,9 +218,6 @@ The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual)
 <td></td><td>3</td><td>Public Communications</td><td>2 April 2012</td>
 </tr>
 <tr>
-<td>3</td><td>Cost Sharing and Eligibility of Expenditures for ADB Financing</td><td>3 January 2012</td>
-</tr>
-<tr>
 <td></td><td>4</td><td>Retroactive Financing</td><td>21 July 2006</td>
 </tr>
 <tr>
@@ -326,13 +323,14 @@ Mainstreaming: ADB considers the gender issue in all aspects of the project, and
 The SPS builds upon (and supersedes) three previous safeguard policies: (i) the 2002 *[Environment Policy](http://www.adb.org/documents/environment-policy-asian-development-bank)*, (ii) the 1998 *[Policy on Indigenous Peoples](http://www.adb.org/documents/policy-indigenous-peoples)*, and (iii) the 1995 *[Policy on Involuntary Resettlement](http://www.adb.org/documents/policy-involuntary-resettlement)*. <sup>[ref](http://www.adb.org/documents/safeguard-policy-statement?ref=site/safeguards/publications "Asian Development Bank (ADB). 2009. *Safeguard Policy Statement (SPS)*. Manila: Asian Development Bank.").</sup>
 
 <div class="well">
+
 <p><strong>Previous Safeguard Policies</strong></p>
-<ul>
-<li><em><a href="http://www.adb.org/documents/environment-policy-asian-development-bank">Environment Policy</a></em> (Nov 2002) | <a href="http://www.adb.org/sites/default/files/institutional-document/33343/files/environment-policy.pdf">PDF</a>
-</ul>
 
 <ul>
+<li><em><a href="http://www.adb.org/documents/environment-policy-asian-development-bank">Environment Policy</a></em> (Nov 2002) | <a href="http://www.adb.org/sites/default/files/institutional-document/33343/files/environment-policy.pdf">PDF</a></li>
+<ul>
 <li><a href="http://www.adb.org/documents/environmental-safeguards">Operations Evaluation Department Evaluation Study: Environmental Safeguards</a> (Sept 2006) | <a href="http://www.adb.org/sites/default/files/evaluation-document/35443/files/ses-es.pdf">PDF</a></li>
+</ul>
 </ul>
 
 <ul>

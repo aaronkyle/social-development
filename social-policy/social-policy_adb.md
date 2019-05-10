@@ -109,6 +109,18 @@ The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual)
 <tr>
 <td></td><td>10</td><td>Nonsovereign Operations</td><td>2 January 2013</td>
 </tr>
+<tr>
+<td></td><td>11</td><td>Processing Sovereign and Sovereign-Guaranteed Loan Proposals</td><td>1 January 2010</td>
+</tr>
+<tr>
+<td></td><td>12</td><td>Technical Assistance</td><td>13 December 2013</td>
+</tr>
+<tr>
+<td></td><td>13</td><td>Exposure and Investment Limitations on Nonsovereign Operations</td><td>17 February 2010</td>
+</tr>
+<tr>
+<td></td><td>14</td><td>Multitranche Financing Facility</td><td>17 February 2015</td>
+</tr>
 </tbody>
 </table>
 

@@ -1,8 +1,11 @@
+---
 title: safeguard policy
 date: 2005-12-06 08:08:19
 category: terminology
 slug: safeguard-policy
 summary: : policies intended to prevent and mitigate undue harm to people and their environment in the development process
+---
+
 
 <!--
 tags: info, faq
@@ -277,5 +280,4 @@ IFC clients must address project-related grievances or complaints from affected 
 …are based on international agreements, even if these protections are not explicitly provided for in the borrower country's national law.&nbsp;
 
 
--->
 -->

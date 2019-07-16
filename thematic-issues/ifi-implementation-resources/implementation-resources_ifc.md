@@ -279,6 +279,7 @@ Location: São Paulo, Brazil | Date: November 10, 2006 | Resources: Event Detail
 
 [The Business Case for Sustainability (brochure)](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_brochure_businesscaseforsustainability)
 
+[IFC Publications](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_sustainability?WCM_PI=1&WCM_Page.204b2b0046feed99b30fff2bf5e9ade8=6&WCM_PageSize.204b2b0046feed99b30fff2bf5e9ade8=25)
 
 
 [

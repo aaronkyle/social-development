@@ -954,6 +954,8 @@ IFC chemicals and fertilizers clients include a diverse range of local companies
 ](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/sba-proj-chemicals)
 
 
+https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Company-Resources/Sustainable-Finance/
+
 
 [
 1 JUN 2012
@@ -1077,6 +1079,172 @@ Launched at the G20 Summit in November 2011, the report highlights key trends, c
 This case study showcases I&P, an IFC Private Equity client, and one of its investee company, Newpack, a corrugated cardboard packaging SME in Madagascar. Through resource efficiency and the recycling and sales of paper waste, Newpack has garnered new clients and increased financial returns.
 4 pages | © Setpember 2011 IFC | Complimentary
 ](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_casestudy_newpack)
+
+IFC works with financial institutions to introduce environmental, social, and governance standards, as well as risk management to their lending practices. We also work to promote stability of financial systems in developing countries, and channel finance to responsible companies.
+
+In addition, we work with regulators and stock exchanges to introduce environmental, social and governance standards to markets—which can help address challenges that are beyond the ability or responsibility of a company to solve alone.
+
+ 
+
+[![](https://www.ifc.org/wps/wcm/connect/53204132-548a-4eaa-84ef-4e8ba1fda805/Col-Thumb-300x300.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE-53204132-548a-4eaa-84ef-4e8ba1fda805-lL5Kk7r)](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/performance+standards+community+of+learning)
+
+### Community of Learning
+
+This knowledge-sharing network brings together financial institutions implementing the Equator Principles and other stakeholders working on sustainable banking practices. IFC convenes the network once a year to share expertise on applying IFC’s Performance Standards and to provide a platform for participants to learn from each other’s practical experience.
+
+[Learn More](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/performance+standards+community+of+learning)
+
+ 
+
+[![](https://www.ifc.org/wps/wcm/connect/14723b10-02ff-4bd7-815e-f20d43d5f23c/Sust-Fin-Thumb-300x300.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-14723b10-02ff-4bd7-815e-f20d43d5f23c-lL5LurH)](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/sustainable-finance/equator+principles+financial+institutions)
+
+### The Equator Principles
+
+IFC has played a pivotal role in establishing and updating the Equator Principles—a sustainability framework that has become the standard for environmental and social principles throughout the financial industry. We supported the drafting and implementation of the framework and since then have provided training, guidance, and advice to implementing banks. Today 84 financial institutions in 35 countries have officially adopted the principles, covering more than 70 percent of international project finance debt in emerging markets.
+
+[Learn More](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/sustainable-finance/equator+principles+financial+institutions)
+
+ 
+
+[![](https://www.ifc.org/wps/wcm/connect/0a339a31-aebb-4022-9371-619aa34c5ce6/First-Thumb-300x300.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE-0a339a31-aebb-4022-9371-619aa34c5ce6-lL5Kx1O)](https://firstforsustainability.org/)
+
+### Financial Institutions: Resources, Solutions and Tools (FIRST)
+
+IFC, with support from donors, manages [FIRST](https://firstforsustainability.org/)—Financial Institutions: Resources, Solutions and Tools—for Sustainability. This is a one-stop shop for financial institutions to get information and learn about the benefits of environmental and social risk management and how to identify and take advantage of environmental business opportunities.
+
+[Learn More](https://firstforsustainability.org/)
+
+ 
+
+[![](https://www.ifc.org/wps/wcm/connect/64b164b4-4ad7-477c-b601-8d3cb275fdd8/SBN-Thumb-300x300.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE-64b164b4-4ad7-477c-b601-8d3cb275fdd8-lL5KDYQ)](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/sustainable-finance/sbn)
+
+### Sustainable Banking Network (SBN)
+
+The Sustainable Banking Network (SBN) is a unique community of financial sector regulatory agencies and banking associations from emerging markets committed to advancing sustainable finance in line with international good practice. The network facilitates the collective learning of members and supports them in policy development and related initiatives to create drivers for sustainable finance in their home countries. IFC participated in the creation of SBN and currently serves as its secretariat and technical advisor.
+
+[Learn More](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/sustainable-finance/sbn)
+
+ 
+
+[![](https://www.ifc.org/wps/wcm/connect/e87d21c3-a567-4985-85f2-ccdcdcb36940/GMAP-Thumb-300x300.jpg.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE-e87d21c3-a567-4985-85f2-ccdcdcb36940-lL5MJJo)](https://gmaptool.org/about)
+
+### Global Map of Environmental and Social Risks in Agro-Commodity Production (GMAP)
+
+The [GMAP](https://gmaptool.org/) is a database—displayed as an online, interactive world map—that collects data on environmental and social risks associated with about 250 country-commodity combinations across the globe. Using a methodology aligned with [IFC’s Performance Standards on Environmental and Social Sustainability](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/performance-standards), GMAP can provide an early assessment of risks related to agri-commodity production as well as detailed risk-management support.
+
+Click here to learn about and participate in [2017 GMAP Pilot](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/gmap) program.
+
+ 
+
+ 
+
+#### Related Resources
+
+* [Environmental and Social Management System (ESMS) Implementation Handbook - GENERAL](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_handbook_esms-general)
+* [Interpretation Note on Financial Intermediaries](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_policy_interpretationnote-fi)
+* [Sustainability Training and E-Learning Program (STEP)](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/tools+for+clients)
+* [Sustainability Webinars](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/ifc_sustainability_webinars)
+* [Spatial Agent Application](https://olc.worldbank.org/about-olc/spatial-agent-world-data-your-fingertips)
+
+
+
+
+https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Business-Case/
+
+#### For More Information:
+
+* [The Business Case for Sustainability (Brochure)](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_brochure_businesscaseforsustainability)
+* [The Financial Valuation (FV Tool) Tool for Sustainability Investments](https://www.fvtool.com/)
+* [Developing Value: The Business Case for Sustainability in Emerging Markets](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_report_developingvalue__wci__1319577294013)
+* [Banking on Sustainability](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_report_bankingonsustainability__wci__1319578181361)
+* [Market Movers: Lessons from a Frontier of Innovation](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_handbook_marketmovers__wci__1319579492513)
+* [Sustainability Case Study: Newpack (Madagascar)](https://www.ifc.org/wps/wcm/connect/113c626b-9711-488e-9a50-a7d9daeaf6d5/IFC+EMPEA+Sustainability+Case+Study+-+Newpack.pdf?MOD=AJPERES&CVID=jqetA73)
+* [Sustainability Case Study: Cogitel (Tunisia)](https://www.ifc.org/wps/wcm/connect/4d1beb48-e82e-4a6d-9c80-c82f62cb3a69/IFC_Cogitel_Case_Study_050911.pdf?MOD=AJPERES&CVID=jqeEz-q)
+* [From Companies to Markets—Global Developments in Corporate Governance](https://www.ifc.org/wps/wcm/connect/5a764bef-bd5f-4b52-9d34-2eabde03e6f0/From-Companies-to-Markets%E2%80%94Global-Developments-in-Corporate-Governance-April-2016.pdf?MOD=AJPERES&CVID=liCJzzq)
+* [Focus 10: Corporate Governance and Development—An Update](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+cg/resources/focus_case+studies/focus+10+corporate+governance+and+development+-+an+update)
+* [Raising the Bar on Corporate Governance: A Study of Eight Stock Exchange Indices](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+cg/resources/guidelines_reviews+and+case+studies/raising+the+bar+on+corporate+governance)
+
+
+
+https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Policies-Standards/
+
+
+
+IFC’s approach to sustainability is governed by IFC’s [Sustainability Framework](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/sustainability+framework) and our [Corporate Governance methodology](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+cg/investment+services/corporate+governance+methodology). They are designed to help IFC’s clients improve their business performance, enhance transparency, engage with the people affected by the projects IFC finances, protect the environment, and achieve greater development impact.
+
+IFC’s Sustainability Framework articulates the Corporation’s strategic commitment to sustainable development, and is an integral part of IFC’s approach to risk management. The Sustainability Framework comprises the [Sustainability Policy](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/sustainability-policy), the [Performance Standards on Environmental and Social Sustainability](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/performance-standards), and the [Access to Information Policy](https://disclosures.ifc.org/#/accessInfoPolicy).
+
+#### Key Resources
+
+* [Sustainability Framework](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/sustainability+framework)
+* [Sustainability Policy](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/sustainability-policy)
+* [Environmental and Social Performance Standards](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/performance-standards)
+* [Environmental, Health, and Safety Guidelines](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/ehs-guidelines)
+* [Environmental and Social Review Procedures Manual](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/es-proc-manual)
+* [Access to Information Policy](https://disclosures.ifc.org/#/accessInfoPolicy)
+* [Corporate Governance Methodology](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+cg/investment+services/corporate+governance+methodology)
+* [Corporate Governance Development Framework](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+cg/cg+development+framework)
+* [Environmental and Social Categorization](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/es-categorization)
+
+
+
+
+https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Accountability/
+
+### IFC'S SUCCESS REFLECTS SIX DECADES OF EXPERIENCE IN PRIVATE SECTOR DEVELOPMENT IN EMERGING MARKETS.
+
+That experience has given us a large body of knowledge—particularly with environmental and social sustainability, and corporate governance—that we share with our clients and others. We expand our knowledge base with each new investment we undertake.
+
+We learn from our experience. We are continually improving our procedures, good-practice guidance, and learning materials based on our engagement with partners, our analytical work, and our operational experience. We also help clients understand and find solutions to difficult challenges they face.
+
+ 
+
+##### DIALOGUE WITH STAKEHOLDERS
+
+IFC systematically seeks feedback from stakeholders. This is critical to our ability to deliver results.
+
+Through regular consultations and partnerships with civil society organizations, the private sector, and others, we form a continuous feedback loop with our stakeholders about key sustainability issues. We receive valuable feedback regarding our work. We believe that over time, this increased—and ongoing—dialogue and partnerships results in better project outcomes, increased awareness on the part of affected communities, and stronger relationships with stakeholders.
+
+[Learn more about IFC’s approach to E&S Risk Management  *![|1x1](https://www.ifc.org/wps/wcm/connect/c7fd24d2-f887-4409-bdaf-3f5242430455/ecblank.gif?MOD=AJPERES&CACHEID=ROOTWORKSPACE-c7fd24d2-f887-4409-bdaf-3f5242430455-jtnnDkX)* ](https://www.ifc.org/wps/wcm/connect/0c781f86-b4b2-4ed2-a4ac-439278d4b190/Improving-IFCs-+Approach-to-ES-Risk-Management-Updated-April-2017.pdf?MOD=AJPERES&CVID=lJpFrHy)
+
+ 
+
+##### Transparency and Accountability
+
+Transparency and accountability are central to our approach. They are essential aspects of building and maintaining public dialogue. They help improve project design and contribute to strong development outcomes.
+
+IFC believes that transparency and accountability are fundamental to fulfilling our development mandate and strengthening public trust in IFC and our clients. IFC's [Access to Information Policy](https://disclosures.ifc.org/#/accessInfoPolicy)  reaffirms and reflects our commitment to these principles.
+
+We disclose information about our projects, including project-level environmental and social review summaries (ESRS), through our [disclosure portal](https://disclosures.ifc.org/).
+
+IFC’s work is continuously evaluated by two independent accountability mechanisms:
+
+The [Independent Evaluation Group](http://www.ifc.org/oeg) is charged with evaluating the activities of IBRD and IDA (the World Bank), the work of IFC in private sector development, and MIGA's guarantee projects and services. The goals of evaluation are to provide an objective assessment of the results of the Bank Group’s work and to identify and disseminate lessons learned from experience.
+
+The [Compliance Advisor Ombudsman](http://www.cao-ombudsman.org/) (CAO) is the independent recourse mechanism for IFC and MIGA. The CAO responds to complaints from project-affected communities with the goal of enhancing social and environmental outcomes on the ground.
+
+ 
+
+**[IFC Position Statement on Retaliation Against Civil Society and Project Stakeholders](https://www.ifc.org/wps/wcm/connect/ade6a8c3-12a7-43c7-b34e-f73e5ad6a5c8/EN_IFC_Reprisals_Statement_201810.pdf?MOD=AJPERES&CVID=mq8Tl2z)**
+
+**Versions in:**
+
+[Spanish](https://www.ifc.org/wps/wcm/connect/715cfbf0-b423-4b10-842b-7a04f1d92574/ES_IFC_Reprisals_Statement_201810.pdf?MOD=AJPERES&CVID=mq8T.lf)
+
+[French](https://www.ifc.org/wps/wcm/connect/068d309b-730c-4d21-a26f-ce9dca8bbd4c/FR_IFC_Reprisals_Statement_201810.pdf?MOD=AJPERES&CVID=mq8TRMS)
+
+
+
+https://firstforsustainability.org/
+
+
+https://gmaptool.org/about
+
+
+
+
+
+
 
 -->
 

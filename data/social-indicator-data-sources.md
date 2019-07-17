@@ -219,4 +219,50 @@ Employment and Social Development Canada (ESDC) uses the models of the Canadian 
 Publisher: Employment and Social Development Canada
 Licence: [Open Government Licence - Canada](http://open.canada.ca/en/open-government-licence-canada)
 
+<!--
 
+[API for Economic Data](https://blog.quandl.com/api-for-economic-data)
+
+
+
+[Asia Regional Integration Center (ARIC)](https://aric.adb.org/indonesia)
+
+The Asia Regional Integration Center (ARIC) is an ongoing technical assistance project of the Economic Research and Regional Cooperation Department (ERCD). Following the 1997/98 Asian financial crisis and the contagion evident around the region, ADB was asked to use its knowledge-based expertise to help monitor the recovery and report objectively on potential vulnerabilities and policy solutions. With the ASEAN+3 process just starting, ADB provided technical assistance beginning in 1999—to create the Asia Recovery Information Center, the precursor to ARIC.
+
+
+[ADB Data Library](https://data.adb.org/dashboard/indonesia-numbers)
+
+The ADB Data Library is a platform that hosts publicly available data from the Asian Development Bank. Data is published according to [open data standards (DCAT)](https://www.w3.org/TR/vocab-dcat/) which makes the datasets:
+
+* Machine readable (e.g. by other data repositories, apps, visualization tools)
+* Shareable
+* Accessible through Application Program Interfaces (APIs)
+
+The Data Library contains the following:
+
+* **Macro-economic and social data**  from ADB’s flagship economic publications such as the Asian Development Outlook (ADO), Key Indicators for Asia and the Pacific, Basic Statistics, and Meeting Asia's Infrastructure Needs. These datasets get updated on an annual or bi-annual basis. Examples include data on Gross Domestic Product (GDP), population, poverty, etc.
+* **Financial and corporate data**  from the ADB Annual Report, Banking on the Future of Asia and the Pacific: 50 Years of the Asian Development Bank.
+* **Project-level data**  such as ADB’s submission to the International Transparency Initiative (IATI).
+* **Dashboards**  provide a quick overview of key datasets visualized as graphs.
+* **Data stories**  contextualize and help make sense of the data.
+
+## Geographical coverage
+
+In general the data published covers [ADB’s regional members](https://www.adb.org/about/members)*.
+
+* **Developing Asia**  comprises the 45 members of the Asian Development Bank listed below.
+* **Newly industrialized economies**  comprises the Republic of Korea, Singapore, Taipei,China, and Hong Kong, China.
+* **Central Asia**  comprises Armenia, Azerbaijan, Georgia, Kazakhstan, the Kyrgyz Republic, Tajikistan, Turkmenistan, and Uzbekistan.
+* **East Asia**  comprises the People’s Republic of China, the Republic of Korea, Mongolia, Taipei,China, and Hong Kong, China.
+* **South Asia**  comprises Afghanistan, Bangladesh, Bhutan, India, the Maldives, Nepal, Pakistan, and Sri Lanka.
+* **Southeast Asia**  comprises Brunei Darussalam, Cambodia, Indonesia, the Lao People’s Democratic Republic, Malaysia, Myanmar, the Philippines, Singapore, Thailand, and Viet Nam.
+* **The Pacific**  comprises the Cook Islands, Fiji, Kiribati, the Marshall Islands, the Federated States of Micronesia, Nauru, Papua New Guinea, Palau, Samoa, Solomon Islands, Timor-Leste, Tonga, Tuvalu, and Vanuatu.
+
+Unless otherwise specified, the symbol “$” and the word “dollar” refer to US dollars.
+
+ISO 3166-1 Alpha-3 code is used for countries and economies.
+
+
+
+
+-->

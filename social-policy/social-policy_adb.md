@@ -523,6 +523,6 @@ http://www.adb.org/site/safeguards/main
 
 [Strategy 2030: Achieving a Prosperous, Inclusive, Resilient, and Sustainable Asia and the Pacific](https://www.adb.org/documents/strategy-2030-prosperous-inclusive-resilient-sustainable-asia-pacific)
 
-
+[ADB's Focus on Social Development](https://www.adb.org/about/social-development)
 
 -->

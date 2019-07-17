@@ -513,3 +513,16 @@ document/32122/prs-2004.pdf)
 Additional References:
 http://www.adb.org/site/safeguards/main
 -->
+
+
+<!--
+
+[Pacific Approach: 2016 - 2020](https://www.adb.org/sites/default/files/institutional-document/190666/rcspacific-2016-2020.pdf)
+
+[ADB Launches Strategy 2030 to Respond to Changing Needs of Asia and Pacific](https://www.adb.org/news/adb-launches-strategy-2030-respond-changing-needs-asia-and-pacific)
+
+[Strategy 2030: Achieving a Prosperous, Inclusive, Resilient, and Sustainable Asia and the Pacific](https://www.adb.org/documents/strategy-2030-prosperous-inclusive-resilient-sustainable-asia-pacific)
+
+
+
+-->

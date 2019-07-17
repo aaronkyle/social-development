@@ -525,4 +525,5 @@ http://www.adb.org/site/safeguards/main
 
 [ADB's Focus on Social Development](https://www.adb.org/about/social-development)
 
+[Our Work in the Pacific](https://www.adb.org/publications/our-work-pacific)
 -->

@@ -101,6 +101,8 @@ Indigenous Peoples [[PDF]](http://www.adb.org/Documents/Guidelines/IndigenousPeo
 
 [Aid for Trade in Asia and the Pacific: Promoting Economic Diversification and Empowerment](https://www.adb.org/publications/aid-trade-asia-pacific-economic-diversification-empowerment)
 
+[Our Work in the Pacific](https://www.adb.org/sites/default/files/publication/158523/our-work-pacific-2017.pdf)
 
+[ADB Approves Plan to Expand Presence in Pacific](https://www.adb.org/news/adb-approves-plan-expand-presence-pacific)
 
 --->

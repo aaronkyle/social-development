@@ -96,4 +96,11 @@ Indigenous Peoples [[PDF]](http://www.adb.org/Documents/Guidelines/IndigenousPeo
 <li><a href="http://www.adb.org/documents/books/for-life-with-love/for-life-with-love.pdf">For Life, With Love: Training Tool for HIV Prevention and Safe Migration in Road Construction Settings and Affected Communities</a> (2009)</li>
 </ul>
 
+
+<!--
+
+[Aid for Trade in Asia and the Pacific: Promoting Economic Diversification and Empowerment](https://www.adb.org/publications/aid-trade-asia-pacific-economic-diversification-empowerment)
+
+
+
 --->

@@ -1,27 +1,16 @@
-
 <a name="ifc"></a>
 
 ## International Finance Corporation (IFC)
 
-The International Finance Corporation's [Sustainability Framework](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustainability/sustainability+framework/sustainability+framework+-+2012/framework_2012#AIP) establishes the corporation's over-arching social policy aims and objectives.  The Sustainability Framework is comprised of the *[Policy on Social and Environmental Sustainability](http://www.ifc.org/wps/wcm/connect/7540778049a792dcb87efaa8c6a8312a/SP_English_2012.pdf?MOD=AJPERES)*, which defines institutional commitments. IFC's operational requirements for borrowers and clients are defined in the [Performance Standards on Social and Environmental Sustainability](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustainability/sustainability+framework/sustainability+framework+-+2012/performance+standards+and+guidance+notes+2012/performance+standards+-+2012).  IFC's Sustainability Framework also includes the [Access to Information Policy](http://www.ifc.org/wps/wcm/connect/CORP_EXT_Content/IFC_External_Corporate_Site/IFC+Projects+Database/Projects/), which articulates IFC's commitment to transparency.
+The International Finance Corporation's over-arching social policy aims and objectives are established in its [Sustainability Framework](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/sustainability+framework). The Sustainability Framework is comprised of the *[Policy on Social and Environmental Sustainability](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/sustainability-policy/sustainability-policy)*, which defines institutional commitments, the [Performance Standards on Social and Environmental Sustainability](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/performance-standards), which define operational requirements for borrowers and clients, as well as the [Access to Information Policy](https://disclosures.ifc.org/#/accessInfoPolicy), which articulates IFC's commitment to transparency.
 
-The IFC Sustainability Framework [first entered into force on April 30, 2006](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/ifcsustainabilityframework_2006). The Sustainability Framework was updated in 2012.  The [updated 2012 edition of IFC's Sustainability Framework](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/ifcsustainabilityframework_2012) applies to all investment and advisory clients whose projects go through IFC's initial credit review process after January 1, 2012. Prior to April 30, 2006, investments were subject to contemporanious versions of the IFC and World Bank Group [Safeguard Policies](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006).
+The IFC Sustainability Framework [first entered into force on April 30, 2006](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/ifcsustainabilityframework_2006) and was [updated in 2012](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/ifcsustainabilityframework_2012).  The 2006 edition of IFC's Sustainability Framework applies to investments that go through IFC's initial credit review process from April 30, 2006 to December 31, 2011. The 2012 edition of IFC's Sustainability Framework applies to all investment and advisory clients whose projects go through IFC's initial credit review process after January 1, 2012. 
 
-In addition to the Sustainability Framework, IFC provides operational guidance to its staff and clients in the from of proceedures, operational guidelines, and guidance notes. 
+Prior to April 30, 2006, investments were subject to contemporanious versions of the IFC and World Bank Group [Safeguard Policies](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006).
+
+In addition to the Sustainability Framework, social policy at IFC is also manifested in the form of operational guidance to its staff and clients in the from of proceedures, operational guidelines, and guidance notes.
 
 ---
-
-<!--
-Policies
-
-The updated 2012 edition of IFC's Sustainability Framework applies to all investment and advisory clients whose projects go through IFC's initial credit review process after January 1, 2012.
-The 2006 edition of IFC's Sustainability Framework applies to investments that go through IFC's initial credit review process from April 30, 2006 to December 31, 2011.
-Investments made prior to April 30, 2006 are subject to the Safeguard Policies.
-
-http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsppah
-
--->
-
 
 <a name="ifc-policy"></a>
 
@@ -35,7 +24,7 @@ http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_sit
 <p class="card-text">
 <ul>
 <li>
-<p>2012 <a href="http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustainability/sustainability+framework/sustainability+framework+-+2012/framework_2012#AIP">Sustainability Framework</a></p>
+<p><a href="http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustainability/sustainability+framework/sustainability+framework+-+2012/framework_2012#AIP">2012 Sustainability Framework</a></p>
 <ul>
 <li><a href="http://www.ifc.org/wps/wcm/connect/7540778049a792dcb87efaa8c6a8312a/SP_English_2012.pdf?MOD=AJPERES">Policy on Social &amp; Environmental Sustainability [PDF]</a></li>
 <li><a href="http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustainability/sustainability+framework/sustainability+framework+-+2012/performance+standards+and+guidance+notes+2012/performance+standards+-+2012">Performance Standards and Guidance Notes - 2012 Edition [website]</a>
@@ -59,19 +48,7 @@ http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_sit
 
 ### Sustainability Framework
 
-In 2006, IFC adopted the  [Sustainability Framework](http://www.ifc.org/sustainabilityframework), which articulates oits strategic commitment to sustainable development. The framework establishes sound environmental and social practices in the context of risk-management, accountability and transparency.  The framework establishes sound environmental and social practices in the context of risk-management, accountability and transparency.The 2006 edition of IFC's Sustainability Framework applies to investments that go through IFC's initial credit review process from April 30, 2006 to December 31, 2011.
-
-<!--
-> The Sustainability Framework articulates IFC's strategic commitment to sustainable development and is an integral part of our approach to risk management.
-
-> Our Sustainability Framework helps our clients do business in a sustainable way. It promotes sound environmental and social practices, encourages transparency and accountability, and contributes to positive development impacts.
--->
-
-In 2012, the Sustainability Framework was updated following an 18-month consultation process with stakeholders around the world. The 2012 edition of IFC's Sustainability Framework applies to all investment and advisory clients whose projects undergo IFC's initial credit review process after January 1, 2012.
-
-<!--
-Effective on January 1, 2012, our updates reflect the evolution in good practice for sustainability and risk mitigation over the past five years. They incorporate modifications on challenging issues that are increasingly important to sustainable businesses, including supply-chain management, resource efficiency and climate change, and business and human rights.
--->
+First adopted in 2006, IFC's [Sustainability Framework](http://www.ifc.org/sustainabilityframework) articulates the corporation's strategic commitment to sustainable development. The framework establishes environmental and social practices in the context of risk-management, accountability and transparency.   
 
 The Sustainability Framework consists of:
 
@@ -79,6 +56,10 @@ The Sustainability Framework consists of:
 2. The [Performance Standards](https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Policies-Standards/Performance-Standards), which define clients' responsibilities for managing their environmental and social risks, including requirements for information disclosure.
 3. The [Access to Information Policy](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_policy_aip "see also the 266 'Policy on Disclosure of Information'</p>
 "), which articulates IFC's commitment to transparency.
+
+In 2012&mdash;following an 18-month process of stakeholder consultation&mdashthe Sustainability Framework was updated to reflect the evolution in good practice for sustainability and risk mitigation. Among the issues addressed in the 2012 updates are supply-chain management, resource efficiency and climate change, and business and human rights.
+
+The 2006 edition of IFC's Sustainability Framework applies to investments that go through IFC's initial credit review process from April 30, 2006 to December 31, 2011. The 2012 edition of IFC's Sustainability Framework applies to all investment and advisory clients whose projects undergo IFC's initial credit review process after January 1, 2012.
 
 Investments made prior to April 30, 2006 are subject to the [Safeguard Policies](http://www.ifc.org/safeguards).
 

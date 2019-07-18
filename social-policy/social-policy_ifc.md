@@ -58,7 +58,7 @@ The Sustainability Framework consists of:
 
 1. The [Policy on Social & Environmental Sustainability](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_SocEnvSustainability2006/$FILE/SustainabilityPolicy.pdf), which defines IFC's commitments to environmental and social sustainability.
 2. The [Performance Standards](https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Policies-Standards/Performance-Standards), which define clients' responsibilities for managing their environmental and social risks, including requirements for information disclosure.
-3. The [Access to Information Policy](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_policy_aip "see also the 266 'Policy on Disclosure of Information'</p>
+3. The [Access to Information Policy](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_policy_aip "see also the  'Policy on Disclosure of Information'</p>
 "), which articulates IFC's commitment to transparency.
 
 In 2012&mdash;following an 18-month process of stakeholder consultation&mdashthe Sustainability Framework was updated to reflect the evolution in good practice for sustainability and risk mitigation. Among the issues addressed in the 2012 updates are supply-chain management, resource efficiency and climate change, and business and human rights.
@@ -92,22 +92,18 @@ PS 8:	Cultural Heritage <br />
 </div>
 </div>
 
-
-
 <!--
 
 <a href="http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/pol_PerformanceStandards2006_full/$FILE/IFC+Performance+Standards.pdf">Performance Standards on Social &amp; Environmental Sustainability</a> | <a href="http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_PerformanceStandards2006_full_Russian/$FILE/IFC+Performance+Standards_Russian.pdf">русский</a> | <a href="http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_PerformanceStandards2006_full_Chinese/$FILE/IFC+Performance+Standards_Chinese.pdf">简体中文</a> 
 
 -->
 
-
-
 <!--
 : ''see my'' [[IFC policy analysis - PCDP/community engagement|interpretation of IFC Performance Standards relative to public consultation and disclosure]]
 -->
 
 
-### Pre-2006 Environmental and Social Safeguards
+#### Pre-2006 Environmental and Social Safeguards
 
 Prior to 2006, IFC's [safeguard policies](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#safeguard) defined IFC and its clients responsbilities for preventing and mitigate undue harm to people and their environment in the identification, preparation, and implementation of projects. 
 
@@ -143,22 +139,28 @@ Prior to 2006, IFC's [safeguard policies](http://www.ifc.org/wps/wcm/connect/top
 [English](https://www.ifc.org/wps/wcm/connect/498e9ec9-d999-4a92-9c8b-00a4b6b8dd7f/ChildForcedLabor.pdf?MOD=AJPERES&CVID=jkCZeUD) | [Français](https://www.ifc.org/wps/wcm/connect/ee79b947-7d47-4aff-8db8-866b1e0357bc/Labor_French.pdf?MOD=AJPERES&CVID=jqewHa8) | [Español](https://www.ifc.org/wps/wcm/connect/f1942e0c-4c4a-4a42-9dc6-3d6e5570d83e/Labor_Spanish.pdf?MOD=AJPERES&CVID=jqewHHz) | [Português](https://www.ifc.org/wps/wcm/connect/86988bac-4eca-4838-896b-b6a970ddfc73/Labor_Portuguese.pdf?MOD=AJPERES&CVID=jqewHqk) | [русский](https://www.ifc.org/wps/wcm/connect/39e8c389-795a-43b1-9de3-a6769ba3ab64/Labor_Russian.pdf?MOD=AJPERES&CVID=jkCZ8EP) | [简体中文](https://www.ifc.org/wps/wcm/connect/1a7bfd55-c27e-4908-8830-e753cfbbbe62/Labor_Chinese.pdf?MOD=AJPERES&CVID=jqeATHy)
 
 
+### Policy on Disclosure / Access to Information
+
+IFC first adopted its [Disclosure Policy](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#disclosure) in September 1998 to clarify scope of materials that IFC makes publically available&mdash;either on a routine basis or upon request.  
+
+---
+
+Disclosure Policy (September 1998) [PDF]<br />
+[English](https://www.ifc.org/wps/wcm/connect/e4e187004885545cb27cf26a6515bb18/1998DisclosurePolicy.pdf?MOD=AJPERES) | Français | Español | Portugués | [русский](https://www.ifc.org/wps/wcm/connect/f1e3da80488557bcbda4ff6a6515bb18/disclosure_Russian.pdf?MOD=AJPERES) | عربي
+
 <!--
-
-Below are the environmental and social safeguard policies, as well as supporting materials, that IFC followed  **prior to April 30, 2006** . This information is provided  **for reference only** . Only investments made prior to April 30, 2006 are subject to the Safeguard Policies.
-
-
-##### Pre-2006 Environmental and Social Safeguards
-
 * [Disclosure Policy](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#disclosure)
-* [Environmental and Social Review Procedure](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#esrp)
+-->
+
+---
+
+The policy was [updated in 2006](href="http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_Disclosure2006/$FILE/Disclosure2006.pdf "2006 IFC Policy on Disclosure of Information") in-line with the Policy on Social and Environmental Sustainability and the Performance Standards. In accordance with the requirements of the Performance Standards, the Disclosure Policy necessitates that IFC clients self-disclose information to project-affected parties about all types of adverse environmental and social impacts resulting from the project, as well as the client’s plan to mitigate these impacts. In addition, the document also defines how routinely-provided information can be obtained, the types of information that IFC does not routinely provide (a fairly standard list of exceptions intended to protect the financial and personal welfare of IFC, its clients, and its employees), and how IFC monitors its own implementation of this policy.
 
 
+The currently IFC's Access to Information Policy, is [available online](https://disclosures.ifc.org/#/accessInfoPolicy).
 
-
-
-
-
+<!--
+:''see my'' [[IFC Policy on Disclosure of Information| notes on the IFC Policy on Disclosure of Information]]</h4>
 -->
 
 
@@ -222,12 +224,15 @@ Earlier versions of IFC's environmental and social policies, procedures, and sta
 * [Environmental and Social Review Procedures (July 2007)](https://www.ifc.org/wps/wcm/connect/bf58c5fd-70d1-4fca-b75e-e0e9e32ef139/ESRP2007.pdf?MOD=AJPERES&CVID=lSqsZjh) [PDF]
 * [Environmental and Social Review Procedures (April 2006)](https://www.ifc.org/wps/wcm/connect/b1cdcdac-aa6f-4826-b0d7-0f60e8edae1c/ESRP2006.pdf?MOD=AJPERES&CVID=lSqsN2Y) [PDF]
 * [Environmental and Social Review Procedures (December 1998)](https://www.ifc.org/wps/wcm/connect/dfac47dc-2863-4646-acf3-d5eeb7a3a1a6/ESRP1998.pdf?MOD=AJPERES&CVID=lSqssdk) [PDF]
-
-
-
-
-
 -->
+
+<!--
+
+* [Environmental and Social Review Procedure](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#esrp)
+-->
+
+
+
 
 The ESRP are [periodically updated](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/es-proc-manual/esrp-manual).
 
@@ -276,7 +281,7 @@ Based upon the answers to these questions, IFC classifies the quality of its cli
 * [Environmental, Health, and Safety (EHS) Guidelines and Pollution Prevention and Abatement Handbook (PPAH)](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsppah) followed prior to 2007 and 2008. The World Bank Group Environmental, Health, and Safety Guidelines (known as the "EHS Guidelines") are living documents and are occasionally updated. The current version of the EHS Guidelines are available at www.ifc.org/ehsguidelines. Earlier versions of the EHS Guidelines (including documents that were previously published in Part III of the Pollution Prevention and Abatement Handbook (PPAH) and on the IFC website), that are no longer in use, can be found below and are provided for reference only.
 
 
----
+<!---
 
 
 PPAH Part III: Project Guidelines [PDF]
@@ -308,6 +313,7 @@ Pollutant Control Technologies [PDF]
 
 * [Decommissioned EHS Guidelines](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsdecommissioned) that have been updated following the review process beginning in 2013
 
+-->
 
 <!--
 WBG Environmental, Health, and Safety Guidelines/Pollution Prevention and Abatement Handbook
@@ -348,27 +354,6 @@ IFC Guidelines [PDF]
 * [Wood Products Industries](http://www.ifc.org/wps/wcm/connect/9af39500488553b9b044f26a6515bb18/woodproducts.pdf?MOD=AJPERES)
 
  
-
-### Policy on Disclosure of Information
-
-IFC first adopted its [Disclosure Policy](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#disclosure) in September 1998. 
-
-Disclosure Policy (September 1998) [PDF]<br />
-[English](https://www.ifc.org/wps/wcm/connect/e4e187004885545cb27cf26a6515bb18/1998DisclosurePolicy.pdf?MOD=AJPERES) | Français | Español | Portugués | [русский](https://www.ifc.org/wps/wcm/connect/f1e3da80488557bcbda4ff6a6515bb18/disclosure_Russian.pdf?MOD=AJPERES) | عربي
-
-The most recent version of IFC's Access to Information Policy, is [available online](https://disclosures.ifc.org/#/accessInfoPolicy).
-
-The <a href="http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_Disclosure2006/$FILE/Disclosure2006.pdf">2006 IFC Policy on Disclosure of Information</a> is a 13-page document outlining the scope of materials that IFC makes publically available—either on a routine basis or upon request. This disclosure policy is intended to reflect IFC’s commitment to transparent business practices in-line with the Policy on Social and Environmental Sustainability and the Performance Standards.
-
-In accordance with the prescripts of IFC’s Performance Standards, the disclosure policy necessitates that IFC clients self-disclose information to project-affected parties about all types of adverse environmental and social impacts resulting from the project, as well as the client’s plan to mitigate these impacts.
-
-In addition, the document also defines how routinely provided information can be obtained from, the types of information that IFC does not routinely provide (a fairly standard list of exceptions intended to protect the financial and personal welfare of IFC, its clients, and its employees), and how IFC monitors its own implementation of this policy.
-
-
-<!--
-:''see my'' [[IFC Policy on Disclosure of Information| notes on the IFC Policy on Disclosure of Information]]</h4>
--->
-
 <!--
 
 World Bank Guidelines [PDF]

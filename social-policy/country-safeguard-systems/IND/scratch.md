@@ -1,0 +1,17 @@
+* [India: Power Grid Corporation of India Limited Agency-Level Use of Country Safeguard Systems](https://www.adb.org/sites/default/files/institutional-document/231666/powergrid-agency-level-use-css-r3-17.pdf)
+* [AGENCY PROCUREMENT ASSESSMENT: Solar Transmission Sector Project (RRP IND 49214)](https://www.adb.org/sites/default/files/linked-documents/49214-002-sd-03.pdf)
+* [India: Solar Transmission Sector Project](https://www.adb.org/projects/49214-002/main#project-documents)
+* [Joint Safeguards Practitioners CoP](https://countrysafeguardsystems.net/search/node/method)
+* [ADB Approves Use of India’s POWERGRID Safeguard System for ADB-Financed Projects](https://www.adb.org/news/adb-approves-use-india-s-powergrid-safeguard-system-adb-financed-projects)
+* [India: Power Grid Corporation of India Limited Agency-Level Use of Country Safeguard Systems](https://www.adb.org/sites/default/files/institutional-document/231666/powergrid-agency-level-use-css-r3-17.pdf)
+* [India: Power Grid Corporation of India Limited Agency-Level Use of Country Safeguard Systems](https://www.adb.org/sites/default/files/institutional-document/231666/powergrid-agency-level-use-css-r3-17.pdf)
+* [Power Grid Corporation of India Limited - Agency-Level Use of Country Safeguard Systems](https://www.adb.org/documents/ind-powergrid-agency-level-use-css-r-paper)
+* [ENVIRONMENTAL SAFEGUARDS ACCEPTABILITY MATRIX: POWER GRID CORPORATION OF INDIA, LTD. ENVIRONMENTAL AND SOCIAL POLICY AND PROCEDURES](https://www.adb.org/sites/default/files/linked-documents/r3-17-ld-03.pdf)
+* [SOCIAL SAFEGUARDS ACCEPTABILITY MATRIX](https://www.adb.org/sites/default/files/linked-documents/r3-17-ld-04.pdf)
+* [SUMMARY OF CONSULTATIONS](https://www.adb.org/sites/default/files/linked-documents/r3-17-ld-05.pdf)
+* [EXECUTIVE SUMMARY: ENVIRONMENTAL AND SOCIAL POLICY AND PROCEDURES (ESPP) OF POWERGRID CORPORATION OF INDIA LIMITED1](https://www.adb.org/sites/default/files/linked-documents/r3-17-ld-06.pdf)
+* [India: Power Grid Corporation of India Limited Agency-Level Use of Country Safeguard Systems](https://www.adb.org/sites/default/files/institutional-document/231666/powergrid-agency-level-use-css-r3-17.pdf)
+* [Team Spirit leads to Innovation and Innovation leads to Growth](http://powergridindia.com/sites/default/files/POWERGRID_AR_2016_17.pdf)
+* [Report on the Equivalence and Acceptability Assessments for the Power Grid Corporation of India, Ltd.: Consultation Draft](https://www.adb.org/sites/default/files/institutional-document/189673/assessments-powergrid-ind-app-3-draft-20160805.pdf)
+
+

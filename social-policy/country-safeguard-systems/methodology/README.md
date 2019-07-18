@@ -26,3 +26,11 @@ The acceptability assessment for ADB's pilot CSS project -- POWERGRID, the first
 ADB provides their equivalence and acceptability assessments under Appendix 6 of the Safeguard Policy Statement: Strengthening and Use of Country Safeguard Systems to Address Environmental and Social Safeguard Issues. 
 
 ADB’s SPS establishes 32 policy principles referenced in Tables 1, 2, and 3 of the SPS (corresponding to the environment, involuntary resettlement, and Indigenous Peoples safeguards) were disaggregated into discrete elements for a more detailed comparison.  Each comparison yielded a determination of relative equivalence (fully equivalent, partially equivalent, and not equivalent) between CSS provisions and the corresponding key elements in the SPS. 
+
+<!--
+
+[International Experience and Lessons
+Learned in Strengthening Country
+Safeguard Systems](http://www.gms-eoc.org/uploads/resources/381/attachment/2.%20International%20Experience%20and%20Lessons%20Learned%20in%20CSS_Genandrialine%20Peralta_ADB.pdf)
+
+-->

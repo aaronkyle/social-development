@@ -529,4 +529,6 @@ http://www.adb.org/site/safeguards/main
 
 [Country Partnership and Regional Cooperation Strategies Under Preparation](https://www.adb.org/countries/documents/country-strategies-programs-under-preparation)
 
+[U.S. Position on the Asian Development Bank’s Safeguard Policy Statement (SPS) (July 2009)](https://www.treasury.gov/resource-center/international/development-banks/Documents/ADB%20Safeguard.pdf)
+
 -->

@@ -1249,4 +1249,178 @@ https://gmaptool.org/about
 -->
 
 
+<!--
 
+
+## Implementation Resources
+
+### Impact Assessment
+
+* [IFC Guide to Human Rights Impact Assessment and Management (online tool)](http://www.guidetohriam.org/welcome ) [(alt link; short PDF intro)](http://www.guidetohriam.org/app/images/documents/Guide%20to%20HRIAM%20booklet%20English.pdf)
+
+
+### Stakeholder Engagement
+
+*  [Stakeholder Engagement: A Good Practice Handbook for Companies Doing Business in Emerging Markets](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_StakeholderEngagement_Full/$FILE/IFC_StakeholderEngagement.pdf)
+
+* [http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_StakeholderEngagement Handbook on Stakeholder Engagement]
+:''see our'' [[IFC Stakeholder Engagement Handbook | internal notes on the IFC Stakeholder Engagement Handbook]]
+
+
+Stakeholder Engagement: A Good Practice Handbook for Companies Doing Business in Emerging Markets provides guidance on consultation and stakeholder engagement for private-sector companies. Although this handbook reiterates IFC requirements for early and sustained community engagement commensurate with project impacts, the focus of the manual is on effective practices.
+
+The Handbook is divided into two parts. Part one, contains the key concepts and principles of stakeholder engagement, the practices that are known to be effective, and the tools to implement them. Topics covered in this section include: stakeholder identification and analysis, consultation with Indigenous People, equal gender representation, informed participation, negotiations, grievance management, disclosure, stakeholder monitoring, and management functions.  Part two shows how these principles, practices, and tools fit with the different phases of the project cycle, from initial concept, through construction and operations, to divestment and/or decommissioning. Essentially this section offers guidance on the best times to commence various stages of the stakeholder engagement process, such as property negations, environmental assessment consultations, the development of grievance management mechanisms, et
+
+Interspersed throughout both sections of this manual are case studies which detail the experiences of various private companies successfully, and unsuccessfully, engaging in stakeholder engagement. One recommendation of particular relevance to the extractive industry, drawn from a case study of Glamis Gold, is that all parties who perceive themselves as stakeholders, including both NGO’s and governments, should be identified and appropriately engaged. Glamis Gold had to temporarily shut down its operations because it did not identify nor engage with parties, living outside of the direct influence of the project, who nevertheless perceived themselves as major stakeholders of the project.&nbsp;
+
+
+
+
+* [http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/p_pubconsult/$FILE/PublicConsultation.pdf Doing Better Business through Effective Public Consultation and Disclosure]
+:''see our'' [[IFC Consultation and Disclosure Guidebook | internal notes on the IFC Consultation and Disclosure Guidebook]]
+* [http://www.ifc.org/wps/wcm/connect/1ab9f60048855b56889cda6a6515bb18/FPIC.pdf?MOD=AJPERES&attachment=true&id=1322807873478 Free Prior Informed Consultation]
+* [http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_DoingBetterBusiness Handbook on Doing Better Business through Effective Public Consultation]
+
+---
+
+
+
+* [Free Prior Informed Consultation](http://www.ifc.org/wps/wcm/connect/1ab9f60048855b56889cda6a6515bb18/FPIC.pdf?MOD=AJPERES&attachment=true&id=1322807873478)
+
+* [Handbook on Doing Better Business through Effective Public Consultation](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_DoingBetterBusiness)
+
+* [Handbook on Stakeholder Engagement](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_StakeholderEngagement)
+
+
+* [Good Practice Note on Non-Discrimination and Equal Opportunity](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_GPN_NonDiscrimination)
+
+* [Good Practice Note on Managing Retrenchment](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_GPN_Retrenchment)
+
+* [Workers' Accommodation: Processes and Standards](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_GPN_WorkersAccommodation)
+
+* [Labor Toolkit: A Practical Screening and Due Diligence Tool for Project Review](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_LaborToolkit/$FILE/Labor+Toolkit.pdf)
+
+* [Environmental, Health, and Safety Guidelines](http://www.ifc.org/ifcext/sustainability.nsf/Content/EHSGuidelines) | [русский](http://www.ifc.org/ifcext/sustainability.nsf/Content/EHSGuidelines_Russian) | [简体中文](http://www.ifc.org/ifcext/sustainability.nsf/Content/EHSGuidelines_Chinese)
+
+* [Handbook on Preparing a Resettlement Action Plan](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_RAP)
+
+* [IFC Guide to Human Rights Impact Assessment and Management (online tool)](http://www.guidetohriam.org/welcome) [(alt link; short PDF intro)](http://www.guidetohriam.org/app/images/documents/Guide%20to%20HRIAM%20booklet%20English.pdf)
+
+
+---
+
+### Labour
+
+* [http://www.ifc.org/wps/wcm/connect/664132804885559fb75cf76a6515bb18/Labor%2BToolkit.pdf?MOD=AJPERES&attachment=true&id=1322808662414 Labor Toolkit: A Practical Screening and Due Diligence Tool for Project Review [PDF]]
+* [http://www.ifc.org/wps/wcm/connect/629b648048865944b8aafa6a6515bb18/NonDiscrimination.pdf?MOD=AJPERES&CACHEID=629b648048865944b8aafa6a6515bb18 Good Practice Note on Non-Discrimination and Equal Opportunity [PDF]]
+* [http://www.ifc.org/wps/wcm/connect/9839db00488557d1bdfcff6a6515bb18/workers_accomodation.pdf?MOD=AJPERES&CACHEID=9839db00488557d1bdfcff6a6515bb18 Workers' Accommodation: Processes and Standards]
+* [http://www.ifc.org/wps/wcm/connect/8b14b6004885555db65cf66a6515bb18/Retrenchment.pdf?MOD=AJPERES&CACHEID=8b14b6004885555db65cf66a6515bb18 Good Practice Note on Managing Retrenchment]
+
+### Resettlement / Displacement
+
+* [http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_RAP Handbook on Preparing a Resettlement Action Plan]
+* [http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_GPN_WorkersAccommodation Workers' Accommodation: Processes and Standards]
+
+### Grievance Redress
+
+* [http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_GrievanceMechanisms/$FILE/IFC+Grievance+Mechanisms.pdf Addressing Grievances from Project-Affected Communities: Guidance for Projects and Companies on Designing Grievance Mechanisms]
+:''see our'' [[IFC Good Practice Note, Grievances from Project-Affected Communities | internal notes on the IFC Good Practice Note: Grievances from Project-Affected Communities]]
+
+### Migration Management
+
+* IFC 2008, Project-Induced In-Migration: Risk Assessment and Management Strategies, Washington DC: Environment and Social Division, CommDev.
+
+* [Projects and People: A Handbook for Addressing Project-Induced In-Migration (2009)](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_Inmigration) [http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_full.pdf/$FILE/Influx_Full.pdf [PDF]]
+   - [The business case for addressing project-induced in-migration](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part1.pdf/$FILE/Influx_Part1.pdf)
+   - [The project-induced in-migration phenomenon](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part2.pdf/$FILE/Influx_Part2.pdf)
+   - [The assessment of the probability of project-induced in-migration and the risks that such in-migration poses to a project](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part3.pdf/$FILE/Influx_Part3.pdf)
+   - [Management approaches](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part4.pdf/$FILE/Influx_Part4.pdf)
+   - [Developing a management strategy and integrating it into the project](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part5.pdf/$FILE/Influx_Part5.pdf)
+   - [Additional information and document templates](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_Annexes.pdf/$FILE/Influx_Annexes.pdf)
+   - [Chad Cameroon Pipeline Project](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_casestudies_chadcameroon/$FILE/Chad+Cameroon+Pipeline+Project.pdf)
+   - [Ongoing discussion about project induced in-migration](http://commdev.org/content/blog/detail/2092/)
+
+
+---
+
+#### Guidance on Achiving Good Practice
+
+* [Stakeholder Engagement: A Good Practice Handbook for Companies Doing Business in Emerging Markets](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_StakeholderEngagement_Full/$FILE/IFC_StakeholderEngagement.pdf)
+
+* [Doing Better Business through Effective Public Consultation and Disclosure](http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/p_pubconsult/$FILE/PublicConsultation.pdf)
+
+
+* [Addressing Grievances from Project-Affected Communities: Guidance for Projects and Companies on Designing Grievance Mechanisms](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_GrievanceMechanisms/$FILE/IFC+Grievance+Mechanisms.pdf)
+
+
+* IFC 2008, Project-Induced In-Migration: Risk Assessment and Management Strategies, Washington DC: Environment and Social Division, CommDev.
+
+
+* [Projects and People: A Handbook for Addressing Project-Induced In-Migration (2009)](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_Inmigration) [[PDF]](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_full.pdf/$FILE/Influx_Full.pdf)
+   - [The business case for addressing project-induced in-migration](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part1.pdf/$FILE/Influx_Part1.pdf)
+   - [The project-induced in-migration phenomenon](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part2.pdf/$FILE/Influx_Part2.pdf)
+   - [The assessment of the probability of project-induced in-migration and the risks that such in-migration poses to a project](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part3.pdf/$FILE/Influx_Part3.pdf)
+   - [Management approaches](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part4.pdf/$FILE/Influx_Part4.pdf)
+   - [Developing a management strategy and integrating it into the project](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part5.pdf/$FILE/Influx_Part5.pdf)
+   - [Additional information and document templates](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_Annexes.pdf/$FILE/Influx_Annexes.pdf)
+   - [Chad Cameroon Pipeline Project](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_casestudies_chadcameroon/$FILE/Chad+Cameroon+Pipeline+Project.pdf)
+   - [Ongoing discussion about project induced in-migration](http://commdev.org/content/blog/detail/2092/)
+
+
+* [Free Prior Informed Consultation](http://www.ifc.org/wps/wcm/connect/1ab9f60048855b56889cda6a6515bb18/FPIC.pdf?MOD=AJPERES&attachment=true&id=1322807873478)
+
+* [Handbook on Doing Better Business through Effective Public Consultation](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_DoingBetterBusiness)
+
+* [Handbook on Stakeholder Engagement](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_StakeholderEngagement)
+
+
+* [Good Practice Note on Non-Discrimination and Equal Opportunity](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_GPN_NonDiscrimination)
+
+* [Good Practice Note on Managing Retrenchment](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_GPN_Retrenchment)
+
+* [Workers' Accommodation: Processes and Standards](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_GPN_WorkersAccommodation)
+
+* [Labor Toolkit: A Practical Screening and Due Diligence Tool for Project Review](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_LaborToolkit/$FILE/Labor+Toolkit.pdf)
+
+* [Environmental, Health, and Safety Guidelines](http://www.ifc.org/ifcext/sustainability.nsf/Content/EHSGuidelines) | [русский](http://www.ifc.org/ifcext/sustainability.nsf/Content/EHSGuidelines_Russian) | [简体中文](http://www.ifc.org/ifcext/sustainability.nsf/Content/EHSGuidelines_Chinese)
+
+* [Handbook on Preparing a Resettlement Action Plan](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_RAP)
+
+* [IFC Guide to Human Rights Impact Assessment and Management (online tool)](http://www.guidetohriam.org/welcome) [(alt link; short PDF intro)](http://www.guidetohriam.org/app/images/documents/Guide%20to%20HRIAM%20booklet%20English.pdf)
+
+
+#### Guidance on Reporting
+
+* [IFC Sustainability Reports](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Reports_Annual)
+
+* [Global Reporting Initiative Guidelines](http://www.globalreporting.org/)
+
+
+---
+
+
+#### Guidance on Achieving Good Practice
+
+* [Stakeholder Engagement: A Good Practice Handbook for Companies Doing Business in Emerging Markets](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_StakeholderEngagement_Full/$FILE/IFC_StakeholderEngagement.pdf)
+
+
+...confirms the shift to more inclusive a continuous process of engagement between companies and stakeholders, particularly project affected persons encompasses a range of approaches for the entire life of the project.
+...
+
+
+Stakeholder Engagement: A Good Practice Handbook for Companies Doing Business in Emerging Markets provides guidance on consultation and stakeholder engagement for private-sector companies. Although this handbook reiterates IFC requirements for early and sustained community engagement commensurate with project impacts, the focus of the manual is on effective practices.
+
+The Handbook is divided into two parts. Part one, contains the key concepts and principles of stakeholder engagement, the practices that are known to be effective, and the tools to implement them. Topics covered in this section include: stakeholder identification and analysis, consultation with Indigenous People, equal gender representation, informed participation, negotiations, grievance management, disclosure, stakeholder monitoring, and management functions.  Part two shows how these principles, practices, and tools fit with the different phases of the project cycle, from initial concept, through construction and operations, to divestment and/or decommissioning. Essentially this section offers guidance on the best times to commence various stages of the stakeholder engagement process, such as property negations, environmental assessment consultations, the development of grievance management mechanisms, et
+
+Interspersed throughout both sections of this manual are case studies which detail the experiences of various private companies successfully, and unsuccessfully, engaging in stakeholder engagement. One recommendation of particular relevance to the extractive industry, drawn from a case study of Glamis Gold, is that all parties who perceive themselves as stakeholders, including both NGO’s and governments, should be identified and appropriately engaged. Glamis Gold had to temporarily shut down its operations because it did not identify nor engage with parties, living outside of the direct influence of the project, who nevertheless perceived themselves as major stakeholders of the project.&nbsp;
+
+
+
+* [Doing Better Business through Effective Public Consultation and Disclosure](http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/p_pubconsult/$FILE/PublicConsultation.pdf)
+
+
+* [Addressing Grievances from Project-Affected Communities: Guidance for Projects and Companies on Designing Grievance Mechanisms](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_GrievanceMechanisms/$FILE/IFC+Grievance+Mechanisms.pdf)
+
+
+
+-->

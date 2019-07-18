@@ -1,3 +1,4 @@
+---
 title: interview
 date: 2005-10-23 09:20
 category: terminology
@@ -5,6 +6,7 @@ tags:
 slug: interview
 summary: :
 status: draft
+---
 
 [[Category:Methods]]
 '''Interviews''' are examples of ‘intensive’ research methods, in that they involve looking at processes in a particular case or small number of cases. The aim of interviews is therefore not to be representative of a ‘group’, but to inquire into the meanings, intentions and experiences of particular participants themselves.<ref name="Payne et. al 2004">Payne, Geoffrey; Majale, Michael (eds). 2004. ''The Urban Housing Manual: Making Regulatory Frameworks Work for the Poor.'' London: Earthscan.</ref>  

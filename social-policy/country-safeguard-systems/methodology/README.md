@@ -33,4 +33,8 @@ ADB’s SPS establishes 32 policy principles referenced in Tables 1, 2, and 3 of
 Learned in Strengthening Country
 Safeguard Systems](http://www.gms-eoc.org/uploads/resources/381/attachment/2.%20International%20Experience%20and%20Lessons%20Learned%20in%20CSS_Genandrialine%20Peralta_ADB.pdf)
 
+
+[Piloting the Use of Country Systems to Address Environmental Safeguard Issues at the Power Grid Corporation of India, Ltd
+(POWERGRID) ](https://www.powergridindia.com/sites/default/files/About_Us/esmd/espp/WORLD%20BANKS%20SDR/SDR%20Main%20Text%20-%20Infoshop%20Version%20Feb.26%202009.pdf)
+
 -->

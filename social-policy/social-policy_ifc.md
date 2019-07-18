@@ -1,3 +1,4 @@
+
 <a name="ifc"></a>
 
 ## International Finance Corporation (IFC)
@@ -20,29 +21,32 @@ In addition to the Sustainability Framework, social policy at IFC is also manife
 
 <div class="card">
  <div class="card-body">
-<h5 class="card-title">Current Policy Framework</h5>
+ <h5 class="card-title">Current Policy Framework</h5>
 <p class="card-text">
 <ul>
 <li>
-<p><a href="http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustainability/sustainability+framework/sustainability+framework+-+2012/framework_2012#AIP">2012 Sustainability Framework</a></p>
+<p><a href="http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustainability/sustainability+framework/sustainability+framework+-+2012/framework_2012#AIP">
+2012 Sustainability Framework
+</a></p>
+</li>
 <ul>
 <li><a href="http://www.ifc.org/wps/wcm/connect/7540778049a792dcb87efaa8c6a8312a/SP_English_2012.pdf?MOD=AJPERES">Policy on Social &amp; Environmental Sustainability [PDF]</a></li>
-<li><a href="http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustainability/sustainability+framework/sustainability+framework+-+2012/performance+standards+and+guidance+notes+2012/performance+standards+-+2012">Performance Standards and Guidance Notes - 2012 Edition [website]</a>
+<li><a href="http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustainability/sustainability+framework/sustainability+framework+-+2012/performance+standards+and+guidance+notes+2012/performance+standards+-+2012">Performance Standards and Guidance Notes - 2012 Edition [website]</a></li>
 <ul>
 <li><a href="http://www.ifc.org/wps/wcm/connect/7540778049a792dcb87efaa8c6a8312a/SP_English_2012.pdf?MOD=AJPERES">Performance Standards on Social &amp; Environmental Sustainability [PDF]</a> | <a href="http://www.ifc.org/wps/wcm/connect/cd44c6004b8bbc068dbccfbbd578891b/PS_Russian_2012_Full-Document.pdf?MOD=AJPERES">русский</a> | <a href="http://www.ifc.org/wps/wcm/connect/5fd142004a585f48ba3ebf8969adcc27/PS_Chinese_2012_Full-Document.pdf?MOD=AJPERES">简体中文</a></li>
 <li><a href="http://www.ifc.org/wps/wcm/connect/e280ef804a0256609709ffd1a5d13d27/GN_English_2012_Full-Document.pdf?MOD=AJPERES">Guidance Notes: Performance Standards on Social &amp; Environmental Sustainability</a></li>
 </ul>
-</li>
 <li><a href="http://www.ifc.org/wps/wcm/connect/CORP_EXT_Content/IFC_External_Corporate_Site/IFC+Projects+Database/Projects/">Access to Information Policy [website]</a> <a href="http://www.ifc.org/wps/wcm/connect/89c0398049a79222b865faa8c6a8312a/AIP_English_2012.pdf?MOD=AJPERES">[PDF]</a></li>
 </ul>
 <li>
-<p><a href="http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_ESRP2009/$FILE/ESRP2009.pdf">Environmental and Social Review Procedure</a></p>
+<p><a href="http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_ESRP2009/$FILE/ESRP2009.pdf">
+Environmental and Social Review Procedure
+</a></p>
 </li>
 </ul>
 </p>
 </div>
 </div>
-
 
 ---
 
@@ -72,14 +76,10 @@ The adoption of the International Finance Corporation’s 2006 Performance Stand
 <div class="card">
   <div class="card-body">
     <h5 class="card-title"><a href="https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Policies-Standards/Performance-Standards">Performance Standards on Social & Environmental Sustainability</a></h5>
-    <p class="card-text">
-<a href="http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/pol_PerformanceStandards2006_full/$FILE/IFC+Performance+Standards.pdf">Performance Standards on Social &amp; Environmental Sustainability</a> | <a href="http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_PerformanceStandards2006_full_Russian/$FILE/IFC+Performance+Standards_Russian.pdf">русский</a> | <a href="http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_PerformanceStandards2006_full_Chinese/$FILE/IFC+Performance+Standards_Chinese.pdf">简体中文</a>   
-    </p>
-  </div>
-</div>
-
-The Performance Standards are grouped into eight sections, each of which is coupled with Guidance Notes to further clarify client roles and responsibilities under the standards. The eight Performance Standards (PS) are:
-
+    <div class="card-text">
+  
+<p>The Performance Standards are grouped into eight sections, each of which is coupled with Guidance Notes to further clarify client roles and responsibilities under the standards. The eight Performance Standards (PS) are:</p>
+<p>
 PS 1:	Social and Environmental Assessment and Management System<br />
 PS 2:	Labor and Working Conditions<br />
 PS 3:	Pollution Prevention and Abatement<br />
@@ -88,6 +88,21 @@ PS 5:	Land Acquisition and Involuntary Resettlement<br />
 PS 6:	Biodiversity Conservation and Sustainable Natural Resource Management<br />
 PS 7:	Indigenous Peoples<br />
 PS 8:	Cultural Heritage <br />
+</p>
+  
+    </div>
+    </div>
+</div>
+
+
+
+<!--
+
+<a href="http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/pol_PerformanceStandards2006_full/$FILE/IFC+Performance+Standards.pdf">Performance Standards on Social &amp; Environmental Sustainability</a> | <a href="http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_PerformanceStandards2006_full_Russian/$FILE/IFC+Performance+Standards_Russian.pdf">русский</a> | <a href="http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_PerformanceStandards2006_full_Chinese/$FILE/IFC+Performance+Standards_Chinese.pdf">简体中文</a> 
+
+-->
+
+
 
 <!--
 : ''see my'' [[IFC policy analysis - PCDP/community engagement|interpretation of IFC Performance Standards relative to public consultation and disclosure]]

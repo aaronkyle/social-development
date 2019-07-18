@@ -112,74 +112,36 @@ PS 8:	Cultural Heritage <br />
 Prior to 2006, IFC's [safeguard policies](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#safeguard) defined IFC and its clients responsbilities for preventing and mitigate undue harm to people and their environment in the identification, preparation, and implementation of projects. 
 
 
-
-**Environmental Assessment (OP 4.01, October 1998) [PDF]**
+**Environmental Assessment (OP 4.01, October 1998) [PDF]** <br/>
 [English](https://www.ifc.org/wps/wcm/connect/8fbad499-03f6-4903-a586-d180e34a73f0/OP401_EnvironmentalAssessment.pdf?MOD=AJPERES&CVID=jqeAUET) | [Français](https://www.ifc.org/wps/wcm/connect/13380ffd-4dba-4056-8ecf-3a6637757b0c/OP401_French.pdf?MOD=AJPERES&CVID=jqeAUNu) | [Español](https://www.ifc.org/wps/wcm/connect/52b3f2f7-c591-406a-9f2b-d3741ca434c8/OP401_Spanish.pdf?MOD=AJPERES&CVID=jqet.AF) | [Português](https://www.ifc.org/wps/wcm/connect/7d2ea7ae-bbe6-4348-a508-4412a6c27456/OP401_Portuguese.pdf?MOD=AJPERES&CVID=jkD0F9Y) | [русский](https://www.ifc.org/wps/wcm/connect/79a722a0-2a7c-4bdc-a866-ae92eeef2b76/OP401_Russian.pdf?MOD=AJPERES&CVID=jkD0FdI) | [عربي](https://www.ifc.org/wps/wcm/connect/7625e9be-a8b2-4f21-9ae9-0c2e926062d7/OP401_Arabic.pdf?MOD=AJPERES&CVID=jkD0EZq) | [简体中文](https://www.ifc.org/wps/wcm/connect/be18877e-3048-41cf-b010-b59d8847de60/OP401_Chinese.pdf?MOD=AJPERES&CVID=jqeF7RV)
 
-**Natural Habitats (OP 4.04, November 1998) [PDF]**
+**Natural Habitats (OP 4.04, November 1998) [PDF]** <br/>
 [English](https://www.ifc.org/wps/wcm/connect/5f45d893-b6ae-454f-8271-ad8bfe7bc087/OP404_NaturalHabitats.pdf?MOD=AJPERES&CVID=jqeA-Sa) | [Français](https://www.ifc.org/wps/wcm/connect/97305b69-07d0-47fc-8693-0438fc149fd2/OP404_French.pdf?MOD=AJPERES&CVID=jkD0Mou) | [Español](https://www.ifc.org/wps/wcm/connect/dbac3897-bbd1-431e-8102-65168b29aaea/OP404_Spanish.pdf?MOD=AJPERES&CVID=jqeA.0N) | [Português](https://www.ifc.org/wps/wcm/connect/fcfacb65-c417-4b78-9c6c-2fa81d9a75d6/OP404_Portuguese.pdf?MOD=AJPERES&CVID=jqewPoc) | [русский](https://www.ifc.org/wps/wcm/connect/34e5af61-9938-47ab-a14e-e0ddbac17f9c/OP404_Russian.pdf?MOD=AJPERES&CVID=jkD0Myy) | [عربي](https://www.ifc.org/wps/wcm/connect/913f62b4-0b8b-4459-88e3-ce4d33155a13/OP404_Arabic.pdf?MOD=AJPERES&CVID=jkD0Mh6) | [简体中文](https://www.ifc.org/wps/wcm/connect/85139ecd-5615-4857-8982-1787af1b1a39/OP404_Chinese.pdf?MOD=AJPERES&CVID=jqewPcw)
 
-**Pest Management (OP 4.09, November 1998) [PDF]**
+**Pest Management (OP 4.09, November 1998) [PDF]** <br/>
 [English](https://www.ifc.org/wps/wcm/connect/c561097f-6469-451d-8399-b2535d7b8e24/OP409_PestManagement.pdf?MOD=AJPERES&CVID=jkC.EVR) | [Français](https://www.ifc.org/wps/wcm/connect/21308801-9445-44ff-a5d3-3d803e87bc73/OP409_French.pdf?MOD=AJPERES&CVID=jqeFdCU) | [Español](https://www.ifc.org/wps/wcm/connect/e5d189e5-39e0-4804-9029-277e533a9c14/OP409_Spanish.pdf?MOD=AJPERES&CVID=jkC.Fnh) | [Português](https://www.ifc.org/wps/wcm/connect/82a055bb-1ade-4c83-8b26-81f1a1a1ece0/OP409_Portuguese.pdf?MOD=AJPERES&CVID=jkC.Fc2) | [русский](https://www.ifc.org/wps/wcm/connect/385f7d29-4612-4d3b-b5a9-ce9b75406b63/OP409_Russian.pdf?MOD=AJPERES&CVID=jqeFdRm) | [عربي](https://www.ifc.org/wps/wcm/connect/126f882c-f7d4-499e-b129-8da24cfe2bd3/OP409_Arabic.pdf?MOD=AJPERES&CVID=jkC.EZO) | [简体中文](https://www.ifc.org/wps/wcm/connect/c33dda30-4f76-4feb-acab-42b694e13676/OP409_Chinese.pdf?MOD=AJPERES&CVID=jkC.F2f)
 
-**Forestry (OP 4.36, November 1998) [PDF]**
+**Forestry (OP 4.36, November 1998) [PDF]** <br/>
 [English](https://www.ifc.org/wps/wcm/connect/1cb2a81e-de00-44d6-bd7e-31251ddb0be7/OP436_Forestry.pdf?MOD=AJPERES&CVID=jqeAV3Y) | [Français](https://www.ifc.org/wps/wcm/connect/00a0a564-f36c-4057-90ae-20749e966e08/OP436_French.pdf?MOD=AJPERES&CVID=jkD0FCb) | [Español](https://www.ifc.org/wps/wcm/connect/3a03a601-26bb-4e8d-b1f4-7ecf692b48c7/OP436_Spanish.pdf?MOD=AJPERES&CVID=jkD0FOt) | [Português](https://www.ifc.org/wps/wcm/connect/82d933ab-4968-42fb-97a2-a6cede1c23a8/OP436_Portuguese.pdf?MOD=AJPERES&CVID=jqewIWo) | [русский](https://www.ifc.org/wps/wcm/connect/5f060b62-6f60-432f-8d32-d6534747e124/OP436_Russian.pdf?MOD=AJPERES&CVID=jqeAVe8) | [عربي](https://www.ifc.org/wps/wcm/connect/0ea8bc96-c8e6-4724-a0d3-8d265780f092/OP436_Arabic.pdf?MOD=AJPERES&CVID=jqeF8e9) | [简体中文](https://www.ifc.org/wps/wcm/connect/51452741-3eea-43d7-a962-d260a78d59a3/OP436_Chinese.pdf?MOD=AJPERES&CVID=jqeu0EF)
 
-**Safety of Dams (OP 4.37, September 1996) [PDF]**
+**Safety of Dams (OP 4.37, September 1996) [PDF]** <br/>
 [English](https://www.ifc.org/wps/wcm/connect/fc95f55f-b725-4c87-b42f-9439588bdea0/OP437_SafetyOfDams.pdf?MOD=AJPERES&CVID=jkC.FYd) | [Français](https://www.ifc.org/wps/wcm/connect/d4678080-01bc-471f-a336-f54b7c4bca35/OP437_French.pdf?MOD=AJPERES&CVID=jkC.Ge2) | [Español](https://www.ifc.org/wps/wcm/connect/5e52e055-6706-4f7f-9138-454e524d8da2/OP437_Spanish.pdf?MOD=AJPERES&CVID=jqewRsH) | [Português](https://www.ifc.org/wps/wcm/connect/7ec459b6-dd8b-440c-89d3-e0b569e3bda2/OP437_Portuguese.pdf?MOD=AJPERES&CVID=jkC.GiW) | [русский](https://www.ifc.org/wps/wcm/connect/14f9bccf-036a-4fa3-88fc-49584f462d2d/OP437_Russian.pdf?MOD=AJPERES&CVID=jqeBc6u) | [عربي](https://www.ifc.org/wps/wcm/connect/4b184f9c-d335-4c63-8157-a4d9e0990c4e/OP437_Arabic.pdf?MOD=AJPERES&CVID=jqewRcP) | [简体中文](https://www.ifc.org/wps/wcm/connect/db8c4d78-732d-4394-b9f5-1ee852539d77/OP437_Chinese.pdf?MOD=AJPERES&CVID=jkC.G8r)
 
-**International Waterways (OP 7.50, November 1998) [PDF]**
+**International Waterways (OP 7.50, November 1998) [PDF]** <br/>
 [English](https://www.ifc.org/wps/wcm/connect/1c86f6e5-d600-44f0-b2ae-b381a8b00394/OP750_IntlWaterways.pdf?MOD=AJPERES&CVID=jkC.H8l) | [Français](https://www.ifc.org/wps/wcm/connect/ff5045e2-4db3-4c41-bb00-b8657081be6d/OP750_French.pdf?MOD=AJPERES&CVID=jqewRS-) | [Español](https://www.ifc.org/wps/wcm/connect/d701b20f-6a87-4ce9-beda-35505575f8b6/OP750_Spanish.pdf?MOD=AJPERES&CVID=jkC.HAc) | [Português](https://www.ifc.org/wps/wcm/connect/a3454fda-349d-4cbd-adec-8696447814e0/OP750_Portuguese.pdf?MOD=AJPERES&CVID=jqewS04) | [русский](https://www.ifc.org/wps/wcm/connect/bdff591c-f401-4c1f-8ac6-8238a0e1c0a4/OP750_Russian.pdf?MOD=AJPERES&CVID=jkC.Hvl) | [عربي](https://www.ifc.org/wps/wcm/connect/328e41a2-1977-4af5-a5cd-96ea6ae82153/OP750_Arabic.pdf?MOD=AJPERES&CVID=jqeBcQp) | [简体中文](https://www.ifc.org/wps/wcm/connect/6dffc90c-e479-4419-b0fa-ad15cc363c2b/OP750_Chinese.pdf?MOD=AJPERES&CVID=jqeBc.a)
 
-**Indigenous Peoples (OD 4.20, September 1991) [PDF]**
+**Indigenous Peoples (OD 4.20, September 1991) [PDF]** <br/>
 [English](https://www.ifc.org/wps/wcm/connect/4da94701-07cc-4df3-9798-947704a738d4/OD420_IndigenousPeoples.pdf?MOD=AJPERES&CVID=jqewORB) | [Français](https://www.ifc.org/wps/wcm/connect/0d0c68c8-e1a2-4347-88cb-47440c593b90/OD420_French.pdf?MOD=AJPERES&CVID=jkD0LXV) | [Español](https://www.ifc.org/wps/wcm/connect/84381aac-db03-45b4-8885-c34220c6cd5a/OD420_Spanish.pdf?MOD=AJPERES&CVID=jkD0M6Y) | [Português](https://www.ifc.org/wps/wcm/connect/843fafb1-b3a0-430f-a63d-7d412338c6d7/OD420_Portuguese.pdf?MOD=AJPERES&CVID=jkD0L.t) | [русский](https://www.ifc.org/wps/wcm/connect/bc47c6ef-83dc-4ef0-bddc-e7274e9f249d/OD420_Russian.pdf?MOD=AJPERES&CVID=jkD0M2.) | [عربي](https://www.ifc.org/wps/wcm/connect/6375f05a-ee71-4f7f-ba6c-7d7dc79ec190/OD420_Arabic.pdf?MOD=AJPERES&CVID=jqewP1c) | [简体中文](https://www.ifc.org/wps/wcm/connect/6486db3b-b6f6-4e29-93d1-5eb86e692977/OD420_Chinese.pdf?MOD=AJPERES&CVID=jkD0LU2)
 
-**Involuntary Resettlement (OD 4.30, June 1990) [PDF]**
+**Involuntary Resettlement (OD 4.30, June 1990) [PDF]** <br/>
 [English](https://www.ifc.org/wps/wcm/connect/c41b5296-4485-43e3-a1d5-0876c39b1b19/OD430_InvoluntaryResettlement.pdf?MOD=AJPERES&CVID=jqeB1iA) | [Français](https://www.ifc.org/wps/wcm/connect/a6f98ceb-6796-48ac-b79c-cebcbfaa1ac5/OD430_French.pdf?MOD=AJPERES&CVID=jqewQ.Y) | [Español](https://www.ifc.org/wps/wcm/connect/614d766a-35d6-4aa4-9a26-a192b18b0959/OD430_Spanish.pdf?MOD=AJPERES&CVID=jqeB25U) | [Português](https://www.ifc.org/wps/wcm/connect/062131e3-30ef-467d-995b-397015404e8e/OD430_Portuguese.pdf?MOD=AJPERES&CVID=jkC.FL5) | [русский](https://www.ifc.org/wps/wcm/connect/f8247574-1e4c-42bc-b41b-f0fee8007ede/OD430_Russian.pdf?MOD=AJPERES&CVID=jqeB1LH) | [عربي](https://www.ifc.org/wps/wcm/connect/344aaefc-3189-4da6-a2d7-2ef8818c5ff6/OD430_Arabic.pdf?MOD=AJPERES&CVID=jqeFe1J) | [简体中文](https://www.ifc.org/wps/wcm/connect/4d06e6ba-18e5-4969-b24a-3e08caba950d/OD430_Chinese.pdf?MOD=AJPERES&CVID=jkC.FD0)
 
-**Cultural Property (OPN 11.03, September 1986) [PDF]**
+**Cultural Property (OPN 11.03, September 1986) [PDF]** <br/>
 [English](https://www.ifc.org/wps/wcm/connect/0a7b20ab-be01-42f3-b198-3bfac4475da7/OPN1103_CulturalProperty.pdf?MOD=AJPERES&CVID=jkD0DaZ) | [Français](https://www.ifc.org/wps/wcm/connect/7a103b22-d86c-4662-bf36-292a5694de2d/OPN1103_French.pdf?MOD=AJPERES&CVID=jqewI6v) | [Español](https://www.ifc.org/wps/wcm/connect/d239ec2e-d552-414a-84d2-67b768ca5c8b/OPN1103_Spanish.pdf?MOD=AJPERES&CVID=jqeL5Ov) | [Português](https://www.ifc.org/wps/wcm/connect/d239ec2e-d552-414a-84d2-67b768ca5c8b/OPN1103_Spanish.pdf?MOD=AJPERES&CVID=jqeL5Ov) | [русский](https://www.ifc.org/wps/wcm/connect/0ce84767-4df0-46c2-b71e-69188bfdd076/OPN1103_Russian.pdf?MOD=AJPERES&CVID=jkD0Dup) | [عربي](https://www.ifc.org/wps/wcm/connect/7402a150-845d-4cd2-9bc2-fa4a3b8786b5/OPN1103_Arabic.pdf?MOD=AJPERES&CVID=jkD0DeH) | [简体中文](https://www.ifc.org/wps/wcm/connect/bdb1af99-8fa0-4d4c-8dc4-4e5a061574b3/OPN1103_Chinese.pdf?MOD=AJPERES&CVID=jqewHZZ)
 
-**Child and Forced Labor Policy Statement (March 1998) [PDF]**
+**Child and Forced Labor Policy Statement (March 1998) [PDF]** <br/>
 [English](https://www.ifc.org/wps/wcm/connect/498e9ec9-d999-4a92-9c8b-00a4b6b8dd7f/ChildForcedLabor.pdf?MOD=AJPERES&CVID=jkCZeUD) | [Français](https://www.ifc.org/wps/wcm/connect/ee79b947-7d47-4aff-8db8-866b1e0357bc/Labor_French.pdf?MOD=AJPERES&CVID=jqewHa8) | [Español](https://www.ifc.org/wps/wcm/connect/f1942e0c-4c4a-4a42-9dc6-3d6e5570d83e/Labor_Spanish.pdf?MOD=AJPERES&CVID=jqewHHz) | [Português](https://www.ifc.org/wps/wcm/connect/86988bac-4eca-4838-896b-b6a970ddfc73/Labor_Portuguese.pdf?MOD=AJPERES&CVID=jqewHqk) | [русский](https://www.ifc.org/wps/wcm/connect/39e8c389-795a-43b1-9de3-a6769ba3ab64/Labor_Russian.pdf?MOD=AJPERES&CVID=jkCZ8EP) | [简体中文](https://www.ifc.org/wps/wcm/connect/1a7bfd55-c27e-4908-8830-e753cfbbbe62/Labor_Chinese.pdf?MOD=AJPERES&CVID=jqeATHy)
 
-
-
-<!--
-
-Environmental Assessment (OP 4.01, October 1998) [PDF] <br />
-[English](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006) | Français | Español | Português | [русский](https://www.ifc.org/wps/wcm/connect/3f9e7f8048855bcf8a2cda6a6515bb18/OP401_Russian.pdf?MOD=AJPERES) | عربي | 简体中文
-
-Natural Habitats (OP 4.04, November 1998) [PDF] <br />
-[English](https://www.ifc.org/wps/wcm/connect/6a26908048855643b98cfb6a6515bb18/OP404_NaturalHabitats.pdf?MOD=AJPERES)| Français | Español | Português | [русский](https://www.ifc.org/wps/wcm/connect/aeff980048865976b936fb6a6515bb18/OP404_Russian.pdf?MOD=AJPERES) | عربي | 简体中文
-
-Pest Management (OP 4.09, November 1998) [PDF] <br />
-[English](https://www.ifc.org/wps/wcm/connect/9035760048855879803cd26a6515bb18/OP409_PestManagement.pdf?MOD=AJPERES) | Français | Español | Português | [русский](https://www.ifc.org/wps/wcm/connect/61cb058048855d678edcde6a6515bb18/OP409_Russian.pdf?MOD=AJPERES) | عربي | 简体中文
-
-Forestry (OP 4.36, November 1998) [PDF] <br />
-[English](https://www.ifc.org/wps/wcm/connect/587f618048855cb18c7cde6a6515bb18/OP436_Forestry.pdf?MOD=AJPERES) | Français | Español | Português | [русский](https://www.ifc.org/wps/wcm/connect/e7b34a804886586cb5e2f76a6515bb18/OP436_Russian.pdf?MOD=AJPERES) | عربي | 简体中文
-
-Safety of Dams (OP 4.37, September 1996) [PDF] <br />
-[English](https://www.ifc.org/wps/wcm/connect/da1f5b804885587b804cd26a6515bb18/OP437_SafetyOfDams.pdf?MOD=AJPERES) | Français | Español | Português | [русский]() | عربي | 简体中文
-[English](https://www.ifc.org/wps/wcm/connect/da1f5b804885587b804cd26a6515bb18/OP437_SafetyOfDams.pdf?MOD=AJPERES) | Français | Español | Português | [русский]() | عربي | 简体中文
-
-
-International Waterways (OP 7.50, November 1998) [PDF] <br />
-[English](https://www.ifc.org/wps/wcm/connect/f3d5c40048855a708604d66a6515bb18/OP750_IntlWaterways.pdf?MOD=AJPERES) | Français | Español | Português | [русский](https://www.ifc.org/wps/wcm/connect/2861740048855aa186b4d66a6515bb18/OP750_Russian.pdf?MOD=AJPERES) | عربي | 简体中文
-
-Indigenous Peoples (OD 4.20, September 1991) [PDF] <br />
-[English](https://www.ifc.org/wps/wcm/connect/835cc50048855270ab94fb6a6515bb18/OD420_IndigenousPeoples.pdf?MOD=AJPERES) | Français | Español | Português | [русский](https://www.ifc.org/wps/wcm/connect/eb2e11004885533fae44fe6a6515bb18/OD420_Russian.pdf?MOD=AJPERES) | عربي | 简体中文
-
-Involuntary Resettlement (OD 4.30, June 1990) [PDF] <br />
-[English](https://www.ifc.org/wps/wcm/connect/322d9d80488559f584b4d66a6515bb18/OD430_InvoluntaryResettlement.pdf?MOD=AJPERES) | Français | Español | Português | [русский](https://www.ifc.org/wps/wcm/connect/c119438048855452b24cf26a6515bb18/OD430_Russian.pdf?MOD=AJPERES) | عربي | 简体中文
-
-Cultural Property (OPN 11.03, September 1986) [PDF] <br />
-[English](https://www.ifc.org/wps/wcm/connect/e4c4a400488554bbb3c4f36a6515bb18/OPN1103_CulturalProperty.pdf?MOD=AJPERES) | Français | Español | Português | [русский](https://www.ifc.org/wps/wcm/connect/6921e00048865934b872fa6a6515bb18/OPN1103_Russian.pdf?MOD=AJPERES) | عربي | 简体中文
-
-Child and Forced Labor Policy Statement (March 1998) [PDF] <br />
-[English](https://www.ifc.org/wps/wcm/connect/a96093004885535eaeb4fe6a6515bb18/ChildForcedLabor.pdf?MOD=AJPERES) | Français | Español | Português | [русский](https://www.ifc.org/wps/wcm/connect/8c708500488552b6ac64fe6a6515bb18/Labor_Russian.pdf?MOD=AJPERES) | 简体中文
-
--->
 
 <!--
 
@@ -190,26 +152,23 @@ Below are the environmental and social safeguard policies, as well as supporting
 
 * [Disclosure Policy](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#disclosure)
 * [Environmental and Social Review Procedure](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#esrp)
-* [Guidance Notes](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#guidance)
-* [Safeguard Policies](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#safeguard)
-
-**Note:**  Only investments made prior to April 30, 2006 are subject to these policies.
 
 
-##### Safeguard Policies
 
-The Safeguard Policies provided guidelines for IFC and its clients on how to prevent and mitigate undue harm to people and their environment in the identification, preparation, and implementation of projects. The Safeguard Policies were replaced by the [Policy on Social and Environmental Sustainability](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/sustainability-policy/sustainability-policy) and the [Performance Standards](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/performance-standards/performance-standards) in April 30, 2006.
+
+
+
 
 -->
 
 
 ### Guidance Notes
 
-IFC's [Guidance Notes](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#guidance) were created to accompany the December [1998 ESRP](https://www.ifc.org/wps/wcm/connect/8b64370048855267ab74fb6a6515bb18/ESRP1998.pdf?MOD=AJPERES)&mdash;containing additional information to assist IFC staff and project sponsors in applying the ESRP. 
+IFC's [Guidance Notes](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#guidance) were created to accompany the [1998 Environmental and Social Review Procedure (ESRP)](https://www.ifc.org/wps/wcm/connect/8b64370048855267ab74fb6a6515bb18/ESRP1998.pdf?MOD=AJPERES)&mdash;to provide additional information to assist IFC staff and project sponsors.  
 
 <div class="card">
   <div class="card-body">
-    <h5 class="card-title">Guidance Notes (December 1998)</h5>
+    <h5 class="card-title"><a href="https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#guidance">Guidance Notes (December 1998)</a></h5>
     <p class="card-text">
 <ul>
 <li><a href="http://www.ifc.org/wps/wcm/connect/14432a0048855889807cd26a6515bb18/GuiA_EAIssuesChecklist.pdf?MOD=AJPERES" rel="nofollow">Guidance Note A: Checklist of Potential Issues for an Environmental Assessment</a> <a href="/aaronkyle/social-development/blob/master/context/social-policy/GuiA_EAIssuesChecklist.pdf">PDF</a></li>
@@ -223,28 +182,17 @@ IFC's [Guidance Notes](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc
   </div>
 </div>
 
-The original guidance notes were replaced by the [revised Guidance Notes, which accompany the Performance Stancards](https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Policies-Standards/Performance-Standards), which are still in use for investments that underwent IFC's initial credit review process after April 30, 2006
+
+
+The 1998 Guidance Notes  were replaced on April 30, 2006 by the [revised Guidance Notes, which accompany the Performance Stancards](https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Policies-Standards/Performance-Standards) and which are still in use for investments that underwent IFC's initial credit review process from April 30, 2006 to December 31, 2011.
+
 
 * [2006 Guidance Notes: Performance Standards on Social & Environmental Sustainability](http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/pol_GuidanceNote2007_full/$FILE/2007+Updated+Guidance+Notes_full.pdf)
 * [2012 Guidance Notes: Performance Standards on Social & Environmental Sustainability](http://www.ifc.org/wps/wcm/connect/e280ef804a0256609709ffd1a5d13d27/GN_English_2012_Full-Document.pdf?MOD=AJPERES).
 
-<!--
 
-##### Guidance Notes
 
-The Guidance Notes accompanied the December 1998 Environmental and Social Review Procedure (ESRP) and contained additional information to assist IFC staff and project sponsors in applying the ESRP. These policies were replaced by the revised Guidance Notes in April 30, 2006, which are still in use for investments that underwent IFC's initial credit review process from April 30, 2006 to December 31, 2011.
 
-**Guidance Notes (December 1998)**
-
-* [Guidance Note A: Checklist of Potential Issues for an Environmental Assessment](https://www.ifc.org/wps/wcm/connect/7aae498a-0332-42cf-b78f-451cb803aa08/GuiA_EAIssuesChecklist.pdf?MOD=AJPERES&CVID=jkC-yiK) [PDF]
-* [Guidance Note B: Content of an Environmental Impact Assessment Report](https://www.ifc.org/wps/wcm/connect/0a8f03ed-96db-4837-88f8-6ba4d1eedb13/GuiB_EIAReportContent.pdf?MOD=AJPERES&CVID=jkC-yoa) [PDF]
-* [Guidance Note C: Outline of an Environmental Action Plan](https://www.ifc.org/wps/wcm/connect/cf6886b7-c735-43d3-90d0-91e1f0ec4abf/GuiC_EAPOutline.pdf?MOD=AJPERES&CVID=jkC-yte) [PDF]
-* [Guidance Note D: Outline of a Project Specific Environmental Audit](https://www.ifc.org/wps/wcm/connect/b240c2a1-7a42-49dd-96b9-80bc29e5f61b/GuiD_EnvAuditOutline.pdf?MOD=AJPERES&CVID=jqeI08f) [PDF]
-* [Guidance Note E: Outline of a Project Specific Major Hazard Assessment](https://www.ifc.org/wps/wcm/connect/c2cb2c39-4012-41dd-82cb-22026197192e/GuiE_HazardAssessment.pdf?MOD=AJPERES&CVID=jqeI0eX) [PDF]
-* [Guidance Note F: Guidance for Preparation of a Public Consultation and Disclosure Plan](https://www.ifc.org/wps/wcm/connect/e2272318-d378-435c-96f8-0858452ce748/GuiF_PCDPGuidance.pdf?MOD=AJPERES&CVID=jqeznjF) [PDF]
-
-The 2006 Guidance Notes and 2012 Guidance Notes are available on our [website](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/performance-standards/performance-standards).
--->
 
 
 ### Interpretation Notes

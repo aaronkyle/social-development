@@ -312,38 +312,6 @@ Based upon the answers to these questions, IFC classifies the quality of its cli
 * [Environmental, Health, and Safety (EHS) Guidelines and Pollution Prevention and Abatement Handbook (PPAH)](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsppah) followed prior to 2007 and 2008. The World Bank Group Environmental, Health, and Safety Guidelines (known as the "EHS Guidelines") are living documents and are occasionally updated. The current version of the EHS Guidelines are available at www.ifc.org/ehsguidelines. Earlier versions of the EHS Guidelines (including documents that were previously published in Part III of the Pollution Prevention and Abatement Handbook (PPAH) and on the IFC website), that are no longer in use, can be found below and are provided for reference only.
 
 
-
-IFC Guidelines [PDF]
-* [Airports](http://www.ifc.org/wps/wcm/connect/e0c3f38048855a72860cd66a6515bb18/airports.pdf?MOD=AJPERES)
-* [Ceramic Tile Manufacturing](http://www.ifc.org/wps/wcm/connect/1866d780488553b1b014f26a6515bb18/ceramictilemfg.pdf?MOD=AJPERES)
-* [Construction Materials Plants](http://www.ifc.org/wps/wcm/connect/63244480488554c2b3ecf36a6515bb18/constmat.pdf?MOD=AJPERES)
-* [Electric Power Transmission](http://www.ifc.org/wps/wcm/connect/cce2e38048865909b802fa6a6515bb18/electricpower.pdf?MOD=AJPERES)
-* [Fish Processing](http://www.ifc.org/wps/wcm/connect/94cf31004885578abcccfe6a6515bb18/fishprocessing.pdf?MOD=AJPERES)
-* [Food & Beverage Processing](http://www.ifc.org/wps/wcm/connect/e1cd6e8048855c868c14de6a6515bb18/foodandbev.pdf?MOD=AJPERES)
-* [Forestry Operations: Logging](http://www.ifc.org/wps/wcm/connect/ca0dd900488551f6aa14fa6a6515bb18/forestrylogging.pdf?MOD=AJPERES)
-* [Gas Terminal Systems](http://www.ifc.org/wps/wcm/connect/cc1a6c80488551e3a9c4fb6a6515bb18/gasterminal.pdf?MOD=AJPERES)
-* [Geothermal Projects](http://www.ifc.org/wps/wcm/connect/061c348048855b3b8834da6a6515bb18/geothermal.pdf?MOD=AJPERES)
-* [Hazardous Materials Mgmt.](http://www.ifc.org/wps/wcm/connect/1caec10048855cde8d0cdf6a6515bb18/hazmatmgmt.pdf?MOD=AJPERES)
-* [Health Care](http://www.ifc.org/wps/wcm/connect/b009d180488551c9a98cfb6a6515bb18/healthcarefacilities.pdf?MOD=AJPERES)
-* [Life & Fire Safety](http://www.ifc.org/wps/wcm/connect/341dcb00488554e2b49cf66a6515bb18/Life%26FireSafety.pdf?MOD=AJPERES)
-* [Occupational Health & Safety](http://www.ifc.org/wps/wcm/connect/af11720048865868b5caf76a6515bb18/OHSguideline.pdf?MOD=AJPERES)
-* [Office Buildings](http://www.ifc.org/wps/wcm/connect/90ccb600488554e1b494f66a6515bb18/officebuildings.pdf?MOD=AJPERES)
-* [Offshore Oil & Gas](http://www.ifc.org/wps/wcm/connect/bfc6f4004886590bb80afa6a6515bb18/offshoreoil.pdf?MOD=AJPERES)
-* [Polychlorinated Biphenyls (PCBs)](http://www.ifc.org/wps/wcm/connect/5b15b00048855db28fe4df6a6515bb18/pcb.pdf?MOD=AJPERES)
-* [Pesticide Handling](http://www.ifc.org/wps/wcm/connect/34fe7780488557d6be0cfe6a6515bb18/pesticidehandling.pdf?MOD=AJPERES)
-* [Plantations](http://www.ifc.org/wps/wcm/connect/4ab8c78048855b5d88bcda6a6515bb18/plantations.pdf?MOD=AJPERES)
-* [Port & Harbor Facilities](http://www.ifc.org/wps/wcm/connect/5112850048855cbe8cb4de6a6515bb18/portharbor.pdf?MOD=AJPERES)
-* [Rail Transit Systems](http://www.ifc.org/wps/wcm/connect/52f78c80488555cab82cfa6a6515bb18/railtransit.pdf?MOD=AJPERES)
-* [Roads & Highways](http://www.ifc.org/wps/wcm/connect/fbcee600488556b5ba6cfa6a6515bb18/roadsandhighways.pdf?MOD=AJPERES)
-* [Telecommunications](http://www.ifc.org/wps/wcm/connect/4014530048855d548e9cde6a6515bb18/telecommunications.pdf?MOD=AJPERES)
-* [Tourism & Hospitality Dev.](http://www.ifc.org/wps/wcm/connect/0c817800488557ecbe5cfe6a6515bb18/tourismhospitality.pdf?MOD=AJPERES)
-* [Waste Management Facilities](http://www.ifc.org/wps/wcm/connect/b8d0bf00488658d4b732f76a6515bb18/wastemgmt.pdf?MOD=AJPERES)
-* [Wastewater Reuse](http://www.ifc.org/wps/wcm/connect/7a944500488556efbb04fb6a6515bb18/wastewaterreuse.pdf?MOD=AJPERES)
-* [Wildland Management](http://www.ifc.org/wps/wcm/connect/76f6e0004885580dbec4fe6a6515bb18/wildlandmgmt.pdf?MOD=AJPERES)
-* [Wind Energy Conversion](http://www.ifc.org/wps/wcm/connect/9d208c80488558ae80fcd26a6515bb18/windenergy.pdf?MOD=AJPERES)
-* [Wood Products Industries](https://www.ifc.org/wps/wcm/connect/d4c4301d-b1ff-4aa0-bb59-e44e20aa32f3/woodproducts.pdf?MOD=AJPERES&CVID=jqesn5t)
-
-
 ##### IFC Guidelines [PDF]
 
 * [Airports](https://www.ifc.org/wps/wcm/connect/352f1c50-4cc9-44a0-8446-a534226e2a8e/airports.pdf?MOD=AJPERES&CVID=jkD21Os)
@@ -360,7 +328,6 @@ IFC Guidelines [PDF]
 * [Life & Fire Safety](https://www.ifc.org/wps/wcm/connect/3590ce6b-b3ab-42b8-b061-416719168937/Life%26FireSafety.pdf?MOD=AJPERES&CVID=jqeIe4L)
 * [Occupational Health & Safety](https://www.ifc.org/wps/wcm/connect/7e1e8c90-2a9b-4054-8d66-5880a7e34821/OHSguideline.pdf?MOD=AJPERES&CVID=jkD21Iz)
 * [Office Buildings](https://www.ifc.org/wps/wcm/connect/6bfa7af3-c595-403a-8345-4cacabe78dbc/officebuildings.pdf?MOD=AJPERES&CVID=jqevOJH)
-
 * [Offshore Oil & Gas](https://www.ifc.org/wps/wcm/connect/2c09bac4-2418-4f31-a03b-35168199dfcd/offshoreoil.pdf?MOD=AJPERES&CVID=jqeIehO)
 * [Polychlorinated Biphenyls (PCBs)](https://www.ifc.org/wps/wcm/connect/71072986-b0e6-45aa-a526-4a896d12f1ca/pcb.pdf?MOD=AJPERES&CVID=jqeIevV)
 * [Pesticide Handling](https://www.ifc.org/wps/wcm/connect/8617ab52-89d1-45ac-b05a-757edd2fc216/pesticidehandling.pdf?MOD=AJPERES&CVID=jqezM7s)
@@ -387,6 +354,13 @@ The World Bank Group Environmental, Health, and Safety Guidelines (known as the 
 * [Monitoring](https://www.ifc.org/wps/wcm/connect/81df785a-e5ea-4d73-839a-c15c1934ba21/monitoring_PPAH.pdf?MOD=AJPERES&CVID=jqevOEL)
 * [Summary of Air Emission and Effluent Discharge Requirements Presented in the Industry Guidelines](https://www.ifc.org/wps/wcm/connect/f55cf8a7-40da-4170-84b8-c270d00ce2fa/HandbookSummaryAirEmissionAndEffluentDischargeRequirements.pdf?MOD=AJPERES&CVID=jqewtuX)
 
+<!---
+PPAH Part III: Project Guidelines [PDF]
+* [Principles of Industrial Pollution Management](http://www.ifc.org/wps/wcm/connect/98463a8048855c188b04db6a6515bb18/HandbookPrinciplesOfIndustrialPollutionManagement.pdf?MOD=AJPERES)
+* [Monitoring](http://www.ifc.org/wps/wcm/connect/108b0e0048865874b60af66a6515bb18/monitoring_PPAH.pdf?MOD=AJPERES)
+* [Summary of Air Emission and Effluent Discharge Requirements Presented in the Industry Guidelines](http://www.ifc.org/wps/wcm/connect/39ba870048855b5a88acda6a6515bb18/HandbookSummaryAirEmissionAndEffluentDischargeRequirements.pdf?MOD=AJPERES)
+-->
+ 
  
 
 ##### Pollutants [PDF]
@@ -400,26 +374,9 @@ The World Bank Group Environmental, Health, and Safety Guidelines (known as the 
 * [Ground-Level Ozone](https://www.ifc.org/wps/wcm/connect/8b0ddfa6-a4f4-4075-83a0-328b53bfa2ce/HandbookGroundLevelOzone.pdf?MOD=AJPERES&CVID=jqetAE0)
 * [Sulfur Oxides](https://www.ifc.org/wps/wcm/connect/fa942b47-b7f2-421c-a48a-c3b824dfc168/HandbookSulfurOxides.pdf?MOD=AJPERES&CVID=jqeERsg)
 
-##### Pollutant Control Technologies [PDF]
-
-* [Airborne Particulate Matter: Pollution Prevention and Control](https://www.ifc.org/wps/wcm/connect/53afc833-56ff-4b08-b4b6-4e6c694ee30b/HandbookAirborneParticulateMatterPollutionPreventionAndControl.pdf?MOD=AJPERES&CVID=jkD0BOe)
-* [Removal of Lead from Gasoline: Technical Considerations](https://www.ifc.org/wps/wcm/connect/d3706d00-3d97-495d-8b8c-744cab1e7e3e/HandbookRemovalOfLeadFromGasolineTechnicalConsiderations.pdf?MOD=AJPERES&CVID=jqeKLR.)
-* [Nitrogen Oxides: Pollution Prevention and Control](https://www.ifc.org/wps/wcm/connect/cc73468c-17d6-4966-a595-2b13a3d187de/HandbookNitrogenOxidesPollutionPreventionAndControl.pdf?MOD=AJPERES&CVID=jkD0Cke)
-* [Ozone-Depleting Substances: Alternatives](https://www.ifc.org/wps/wcm/connect/f9dff68b-68ba-4a6d-97a1-7ec85340eae3/HandbookOzoneDepletingSubstancesAlternatives.pdf?MOD=AJPERES&CVID=jqeAGzA)
-* [Sulfur Oxides: Pollution Prevention and Control](https://www.ifc.org/wps/wcm/connect/2ab161f5-13fc-4f67-902e-9d8491ee73ff/HandbookSulfurOxidesPollutionPreventionAndControl.pdf?MOD=AJPERES&CVID=jkD0Czx)
-
- 
 
 
-<!---
-
-
-PPAH Part III: Project Guidelines [PDF]
-* [Principles of Industrial Pollution Management](http://www.ifc.org/wps/wcm/connect/98463a8048855c188b04db6a6515bb18/HandbookPrinciplesOfIndustrialPollutionManagement.pdf?MOD=AJPERES)
-* [Monitoring](http://www.ifc.org/wps/wcm/connect/108b0e0048865874b60af66a6515bb18/monitoring_PPAH.pdf?MOD=AJPERES)
-* [Summary of Air Emission and Effluent Discharge Requirements Presented in the Industry Guidelines](http://www.ifc.org/wps/wcm/connect/39ba870048855b5a88acda6a6515bb18/HandbookSummaryAirEmissionAndEffluentDischargeRequirements.pdf?MOD=AJPERES)
-
-
+<!--
 Pollutants [PDF]
 * [Airborne Particulate Matter](http://www.ifc.org/wps/wcm/connect/59cfb38048855493b35cf36a6515bb18/HandbookAirborneParticularMatter.pdf?MOD=AJPERES)
 * [Arsenic](http://www.ifc.org/wps/wcm/connect/c63c698048865840b506f76a6515bb18/HandbookArsenic.pdf?MOD=AJPERES)
@@ -429,86 +386,37 @@ Pollutants [PDF]
 * [Nitrogen-Oxides](http://www.ifc.org/wps/wcm/connect/1304c9804885560bb91cfb6a6515bb18/HandbookNitrogenOxides.pdf?MOD=AJPERES)
 * [Ground-Level Ozone](http://www.ifc.org/wps/wcm/connect/dd7c9800488553e0b0b4f26a6515bb18/HandbookGroundLevelOzone.pdf?MOD=AJPERES)
 * [Sulfur Oxides](http://www.ifc.org/wps/wcm/connect/5cb16d8048855c248b24db6a6515bb18/HandbookSulfurOxides.pdf?MOD=AJPERES)
+-->
 
+##### Pollutant Control Technologies [PDF]
 
+* [Airborne Particulate Matter: Pollution Prevention and Control](https://www.ifc.org/wps/wcm/connect/53afc833-56ff-4b08-b4b6-4e6c694ee30b/HandbookAirborneParticulateMatterPollutionPreventionAndControl.pdf?MOD=AJPERES&CVID=jkD0BOe)
+* [Removal of Lead from Gasoline: Technical Considerations](https://www.ifc.org/wps/wcm/connect/d3706d00-3d97-495d-8b8c-744cab1e7e3e/HandbookRemovalOfLeadFromGasolineTechnicalConsiderations.pdf?MOD=AJPERES&CVID=jqeKLR.)
+* [Nitrogen Oxides: Pollution Prevention and Control](https://www.ifc.org/wps/wcm/connect/cc73468c-17d6-4966-a595-2b13a3d187de/HandbookNitrogenOxidesPollutionPreventionAndControl.pdf?MOD=AJPERES&CVID=jkD0Cke)
+* [Ozone-Depleting Substances: Alternatives](https://www.ifc.org/wps/wcm/connect/f9dff68b-68ba-4a6d-97a1-7ec85340eae3/HandbookOzoneDepletingSubstancesAlternatives.pdf?MOD=AJPERES&CVID=jqeAGzA)
+* [Sulfur Oxides: Pollution Prevention and Control](https://www.ifc.org/wps/wcm/connect/2ab161f5-13fc-4f67-902e-9d8491ee73ff/HandbookSulfurOxidesPollutionPreventionAndControl.pdf?MOD=AJPERES&CVID=jkD0Czx)
+
+ 
+<!--
 Pollutant Control Technologies [PDF]
 * [Airborne Particulate Matter: Pollution Prevention and Control](http://www.ifc.org/wps/wcm/connect/ab848080488557a8bd44ff6a6515bb18/HandbookAirborneParticulateMatterPollutionPreventionAndControl.pdf?MOD=AJPERES)
 * [Removal of Lead from Gasoline: Technical Considerations](http://www.ifc.org/wps/wcm/connect/7862fe004885591c81fcd36a6515bb18/HandbookRemovalOfLeadFromGasolineTechnicalConsiderations.pdf?MOD=AJPERES)
 * [Nitrogen Oxides: Pollution Prevention and Control](http://www.ifc.org/wps/wcm/connect/60add78048855368aeecfe6a6515bb18/HandbookNitrogenOxidesPollutionPreventionAndControl.pdf?MOD=AJPERES)
 * [Ozone-Depleting Substances: Alternatives](http://www.ifc.org/wps/wcm/connect/4e730100488559478284d26a6515bb18/HandbookOzoneDepletingSubstancesAlternatives.pdf?MOD=AJPERES)
 * [Sulfur Oxides: Pollution Prevention and Control](http://www.ifc.org/wps/wcm/connect/c92d6d80488658c5b6faf66a6515bb18/HandbookSulfurOxidesPollutionPreventionAndControl.pdf?MOD=AJPERES)
-
- ---
+ --->
+ 
  
 
 * [Decommissioned EHS Guidelines](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsdecommissioned) that have been updated following the review process beginning in 2013
 
--->
+
 
 <!--
 WBG Environmental, Health, and Safety Guidelines/Pollution Prevention and Abatement Handbook
 -->
  
  
- 
-<!--
-
-World Bank Guidelines [PDF]
-
-* [Aluminum Manufacturing]()
-* [Base Metal & Iron Ore Mining]()
-* [Breweries]()
-* [Cement Manufacturing]()
-* [Chlor-Alkali Plants]()
-* [Coal Mining & Production]()
-* [Coke Manufacturing]()
-* [Copper Smelting]()
-* [Dairy Industry]()
-* [Dye Manufacturing]()
-* [Electronics Manufacturing]()
-* [Electroplating Industry]()
-* [Foundries]()
-* [Fruit & Vegetable Processing]()
-* [General Env. Guidelines]()
-* [Glass Manufacturing]()
-* [Industrial Estates]()
-* [Iron & Steel Manufacturing]()
-* [Lead & Zinc Smelting]()
-* [Meat Processing & Rendering]()
-* [Mini Steel Mills]()
-* [Mining and Milling, Underground]()
-* [Mining and Milling, Open Pit]()
-* [Mixed Fertilizer Plants]()
-* [Monitoring]()
-* [Nickel Smelting & Refining]()
-* [Nitrogenous Fertilizer Plants]()
-* [Oil & Gas Dev (Onshore)]()
-* [Pesticides Formulation]()
-* [Pesticides Manufacturing]()
-* [Petrochemicals Manufacturing]()
-* [Petroleum Refining]()
-* [Pharmaceutical Manufacturing]()
-* [Phosphate Fertilizer Plants]()
-* [Printing Industry]()
-* [Pulp & Paper Mills]()
-* [Sugar Manufacturing]()
-* [Tanning & Leather Finishing]()
-* [Textiles Industry]()
-* [Thermal Power for New Plants]()
-* [Thermal Power Rehabilitation]()
-* [Vegetable Oil Processing]()
-* [Wood Preserving Industry]()
-
- 
- -->
- 
- <!--
-
-
-
-
- 
-
 ##### World Bank Guidelines [PDF]
 
 * [Aluminum Manufacturing](https://www.ifc.org/wps/wcm/connect/f6aedd1a-691c-453e-b3b2-47507260431e/alum_PPAH.pdf?MOD=AJPERES&CVID=jqezqjF)
@@ -533,7 +441,6 @@ World Bank Guidelines [PDF]
 * [Meat Processing & Rendering](https://www.ifc.org/wps/wcm/connect/1a78a3b7-a813-4ac5-9f70-6b1d8d3555f2/meat_PPAH.pdf?MOD=AJPERES&CVID=jkD2363)
 * [Mini Steel Mills](https://www.ifc.org/wps/wcm/connect/4c195e9f-088a-420c-8e79-680038f50b6d/ministeel_PPAH.pdf?MOD=AJPERES&CVID=jqeDj2I)
 * [Mining and Milling, Underground](https://www.ifc.org/wps/wcm/connect/b69be203-8a3d-40f1-ae2f-5136004d5809/mining_underground.pdf?MOD=AJPERES&CVID=jkD23e6)
-
 * [Mining and Milling, Open Pit](https://www.ifc.org/wps/wcm/connect/faf1df6a-793a-48b4-a370-c06a810d6101/mining_openpit.pdf?MOD=AJPERES&CVID=jqevOwo)
 * [Mixed Fertilizer Plants](https://www.ifc.org/wps/wcm/connect/3e28cffd-ea58-4b67-a4f8-4dda8677f527/mxdfertilizer_PPAH.pdf?MOD=AJPERES&CVID=jqesmMn)
 * [Monitoring](https://www.ifc.org/wps/wcm/connect/81df785a-e5ea-4d73-839a-c15c1934ba21/monitoring_PPAH.pdf?MOD=AJPERES&CVID=jqevOEL)
@@ -585,8 +492,8 @@ In 2013, the World Bank Group began to review and update the EHS Guidelines. As 
 
 **Wind Energy (2007)**
 [English](https://www.ifc.org/wps/wcm/connect/1aeaf27e-894d-45a5-bfb8-c819dd9f927b/Final%2B-%2BWind%2BEnergy.pdf?MOD=AJPERES&CVID=kYK0jlD) | [Français](https://www.ifc.org/wps/wcm/connect/02cf754f-5d49-46ba-a0ae-6d4109e0c9e3/French_Wind+Energy.pdf?MOD=AJPERES&CVID=kYK1hmV) | [Español](https://www.ifc.org/wps/wcm/connect/802248d4-964d-418a-957b-963274a9f84d/Spanish_Wind%2BEnergy%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=kYK1Khg) | [русский](https://www.ifc.org/wps/wcm/connect/f883e396-163c-4e8b-8cdb-51efb801894c/Russian_Wind+Energy.pdf?MOD=AJPERES&CVID=kYK1wkh) | [简体中文](https://www.ifc.org/wps/wcm/connect/251b405c-9bbb-458a-84f5-ab27cd156498/Chinese_Wind+Energy.pdf?MOD=AJPERES&CVID=kYK156g) | [عربي](https://www.ifc.org/wps/wcm/connect/37a804eb-57f5-4333-abc4-1a37ec19c3b3/Arabic_Wind+Energy.pdf?MOD=AJPERES&CVID=kYK0M-D)
--->
 
+<!--
 Decommissioned World Bank Group (WBG) Environmental, Health, and Safety (EHS) Guidelines
 
 In 2013, the World Bank Group began to review and update the EHS Guidelines. As those Guidelines are revised, the outdated versions, including their translations, will be added below.
@@ -619,186 +526,8 @@ English | Français | Español | русский | 简体中文 | عربي
 
 -->
 
----
 
-
-
-
-## Implementation Resources
-
-### Impact Assessment
-
-* [IFC Guide to Human Rights Impact Assessment and Management (online tool)](http://www.guidetohriam.org/welcome ) [(alt link; short PDF intro)](http://www.guidetohriam.org/app/images/documents/Guide%20to%20HRIAM%20booklet%20English.pdf)
-
-
-### Stakeholder Engagement
-
-*  [Stakeholder Engagement: A Good Practice Handbook for Companies Doing Business in Emerging Markets](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_StakeholderEngagement_Full/$FILE/IFC_StakeholderEngagement.pdf)
-
-* [http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_StakeholderEngagement Handbook on Stakeholder Engagement]
-:''see our'' [[IFC Stakeholder Engagement Handbook | internal notes on the IFC Stakeholder Engagement Handbook]]
-
-
-Stakeholder Engagement: A Good Practice Handbook for Companies Doing Business in Emerging Markets provides guidance on consultation and stakeholder engagement for private-sector companies. Although this handbook reiterates IFC requirements for early and sustained community engagement commensurate with project impacts, the focus of the manual is on effective practices.
-
-The Handbook is divided into two parts. Part one, contains the key concepts and principles of stakeholder engagement, the practices that are known to be effective, and the tools to implement them. Topics covered in this section include: stakeholder identification and analysis, consultation with Indigenous People, equal gender representation, informed participation, negotiations, grievance management, disclosure, stakeholder monitoring, and management functions.  Part two shows how these principles, practices, and tools fit with the different phases of the project cycle, from initial concept, through construction and operations, to divestment and/or decommissioning. Essentially this section offers guidance on the best times to commence various stages of the stakeholder engagement process, such as property negations, environmental assessment consultations, the development of grievance management mechanisms, et
-
-Interspersed throughout both sections of this manual are case studies which detail the experiences of various private companies successfully, and unsuccessfully, engaging in stakeholder engagement. One recommendation of particular relevance to the extractive industry, drawn from a case study of Glamis Gold, is that all parties who perceive themselves as stakeholders, including both NGO’s and governments, should be identified and appropriately engaged. Glamis Gold had to temporarily shut down its operations because it did not identify nor engage with parties, living outside of the direct influence of the project, who nevertheless perceived themselves as major stakeholders of the project.&nbsp;
-
-
-
-
-
-
-* [http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/p_pubconsult/$FILE/PublicConsultation.pdf Doing Better Business through Effective Public Consultation and Disclosure]
-:''see our'' [[IFC Consultation and Disclosure Guidebook | internal notes on the IFC Consultation and Disclosure Guidebook]]
-* [http://www.ifc.org/wps/wcm/connect/1ab9f60048855b56889cda6a6515bb18/FPIC.pdf?MOD=AJPERES&attachment=true&id=1322807873478 Free Prior Informed Consultation]
-* [http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_DoingBetterBusiness Handbook on Doing Better Business through Effective Public Consultation]
-
----
-
-
-
-* [Free Prior Informed Consultation](http://www.ifc.org/wps/wcm/connect/1ab9f60048855b56889cda6a6515bb18/FPIC.pdf?MOD=AJPERES&attachment=true&id=1322807873478)
-
-* [Handbook on Doing Better Business through Effective Public Consultation](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_DoingBetterBusiness)
-
-* [Handbook on Stakeholder Engagement](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_StakeholderEngagement)
-
-
-* [Good Practice Note on Non-Discrimination and Equal Opportunity](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_GPN_NonDiscrimination)
-
-* [Good Practice Note on Managing Retrenchment](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_GPN_Retrenchment)
-
-* [Workers' Accommodation: Processes and Standards](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_GPN_WorkersAccommodation)
-
-* [Labor Toolkit: A Practical Screening and Due Diligence Tool for Project Review](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_LaborToolkit/$FILE/Labor+Toolkit.pdf)
-
-* [Environmental, Health, and Safety Guidelines](http://www.ifc.org/ifcext/sustainability.nsf/Content/EHSGuidelines) | [русский](http://www.ifc.org/ifcext/sustainability.nsf/Content/EHSGuidelines_Russian) | [简体中文](http://www.ifc.org/ifcext/sustainability.nsf/Content/EHSGuidelines_Chinese)
-
-* [Handbook on Preparing a Resettlement Action Plan](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_RAP)
-
-* [IFC Guide to Human Rights Impact Assessment and Management (online tool)](http://www.guidetohriam.org/welcome) [(alt link; short PDF intro)](http://www.guidetohriam.org/app/images/documents/Guide%20to%20HRIAM%20booklet%20English.pdf)
-
-
----
-
-### Labour
-
-* [http://www.ifc.org/wps/wcm/connect/664132804885559fb75cf76a6515bb18/Labor%2BToolkit.pdf?MOD=AJPERES&attachment=true&id=1322808662414 Labor Toolkit: A Practical Screening and Due Diligence Tool for Project Review [PDF]]
-* [http://www.ifc.org/wps/wcm/connect/629b648048865944b8aafa6a6515bb18/NonDiscrimination.pdf?MOD=AJPERES&CACHEID=629b648048865944b8aafa6a6515bb18 Good Practice Note on Non-Discrimination and Equal Opportunity [PDF]]
-* [http://www.ifc.org/wps/wcm/connect/9839db00488557d1bdfcff6a6515bb18/workers_accomodation.pdf?MOD=AJPERES&CACHEID=9839db00488557d1bdfcff6a6515bb18 Workers' Accommodation: Processes and Standards]
-* [http://www.ifc.org/wps/wcm/connect/8b14b6004885555db65cf66a6515bb18/Retrenchment.pdf?MOD=AJPERES&CACHEID=8b14b6004885555db65cf66a6515bb18 Good Practice Note on Managing Retrenchment]
-
-### Resettlement / Displacement
-
-* [http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_RAP Handbook on Preparing a Resettlement Action Plan]
-* [http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_GPN_WorkersAccommodation Workers' Accommodation: Processes and Standards]
-
-### Grievance Redress
-
-* [http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_GrievanceMechanisms/$FILE/IFC+Grievance+Mechanisms.pdf Addressing Grievances from Project-Affected Communities: Guidance for Projects and Companies on Designing Grievance Mechanisms]
-:''see our'' [[IFC Good Practice Note, Grievances from Project-Affected Communities | internal notes on the IFC Good Practice Note: Grievances from Project-Affected Communities]]
-
-### Migration Management
-
-* IFC 2008, Project-Induced In-Migration: Risk Assessment and Management Strategies, Washington DC: Environment and Social Division, CommDev.
-
-* [Projects and People: A Handbook for Addressing Project-Induced In-Migration (2009)](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_Inmigration) [http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_full.pdf/$FILE/Influx_Full.pdf [PDF]]
-   - [The business case for addressing project-induced in-migration](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part1.pdf/$FILE/Influx_Part1.pdf)
-   - [The project-induced in-migration phenomenon](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part2.pdf/$FILE/Influx_Part2.pdf)
-   - [The assessment of the probability of project-induced in-migration and the risks that such in-migration poses to a project](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part3.pdf/$FILE/Influx_Part3.pdf)
-   - [Management approaches](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part4.pdf/$FILE/Influx_Part4.pdf)
-   - [Developing a management strategy and integrating it into the project](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part5.pdf/$FILE/Influx_Part5.pdf)
-   - [Additional information and document templates](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_Annexes.pdf/$FILE/Influx_Annexes.pdf)
-   - [Chad Cameroon Pipeline Project](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_casestudies_chadcameroon/$FILE/Chad+Cameroon+Pipeline+Project.pdf)
-   - [Ongoing discussion about project induced in-migration](http://commdev.org/content/blog/detail/2092/)
-
-
----
-
-#### Guidance on Achiving Good Practice
-
-* [Stakeholder Engagement: A Good Practice Handbook for Companies Doing Business in Emerging Markets](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_StakeholderEngagement_Full/$FILE/IFC_StakeholderEngagement.pdf)
-
-* [Doing Better Business through Effective Public Consultation and Disclosure](http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/p_pubconsult/$FILE/PublicConsultation.pdf)
-
-
-* [Addressing Grievances from Project-Affected Communities: Guidance for Projects and Companies on Designing Grievance Mechanisms](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_GrievanceMechanisms/$FILE/IFC+Grievance+Mechanisms.pdf)
-
-
-* IFC 2008, Project-Induced In-Migration: Risk Assessment and Management Strategies, Washington DC: Environment and Social Division, CommDev.
-
-
-* [Projects and People: A Handbook for Addressing Project-Induced In-Migration (2009)](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_Inmigration) [[PDF]](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_full.pdf/$FILE/Influx_Full.pdf)
-   - [The business case for addressing project-induced in-migration](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part1.pdf/$FILE/Influx_Part1.pdf)
-   - [The project-induced in-migration phenomenon](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part2.pdf/$FILE/Influx_Part2.pdf)
-   - [The assessment of the probability of project-induced in-migration and the risks that such in-migration poses to a project](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part3.pdf/$FILE/Influx_Part3.pdf)
-   - [Management approaches](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part4.pdf/$FILE/Influx_Part4.pdf)
-   - [Developing a management strategy and integrating it into the project](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part5.pdf/$FILE/Influx_Part5.pdf)
-   - [Additional information and document templates](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_Annexes.pdf/$FILE/Influx_Annexes.pdf)
-   - [Chad Cameroon Pipeline Project](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_casestudies_chadcameroon/$FILE/Chad+Cameroon+Pipeline+Project.pdf)
-   - [Ongoing discussion about project induced in-migration](http://commdev.org/content/blog/detail/2092/)
-
-
-* [Free Prior Informed Consultation](http://www.ifc.org/wps/wcm/connect/1ab9f60048855b56889cda6a6515bb18/FPIC.pdf?MOD=AJPERES&attachment=true&id=1322807873478)
-
-* [Handbook on Doing Better Business through Effective Public Consultation](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_DoingBetterBusiness)
-
-* [Handbook on Stakeholder Engagement](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_StakeholderEngagement)
-
-
-* [Good Practice Note on Non-Discrimination and Equal Opportunity](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_GPN_NonDiscrimination)
-
-* [Good Practice Note on Managing Retrenchment](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_GPN_Retrenchment)
-
-* [Workers' Accommodation: Processes and Standards](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_GPN_WorkersAccommodation)
-
-* [Labor Toolkit: A Practical Screening and Due Diligence Tool for Project Review](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_LaborToolkit/$FILE/Labor+Toolkit.pdf)
-
-* [Environmental, Health, and Safety Guidelines](http://www.ifc.org/ifcext/sustainability.nsf/Content/EHSGuidelines) | [русский](http://www.ifc.org/ifcext/sustainability.nsf/Content/EHSGuidelines_Russian) | [简体中文](http://www.ifc.org/ifcext/sustainability.nsf/Content/EHSGuidelines_Chinese)
-
-* [Handbook on Preparing a Resettlement Action Plan](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_RAP)
-
-* [IFC Guide to Human Rights Impact Assessment and Management (online tool)](http://www.guidetohriam.org/welcome) [(alt link; short PDF intro)](http://www.guidetohriam.org/app/images/documents/Guide%20to%20HRIAM%20booklet%20English.pdf)
-
-
-#### Guidance on Reporting
-
-* [IFC Sustainability Reports](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Reports_Annual)
-
-* [Global Reporting Initiative Guidelines](http://www.globalreporting.org/)
-
-
----
-
-
-#### Guidance on Achieving Good Practice
-
-* [Stakeholder Engagement: A Good Practice Handbook for Companies Doing Business in Emerging Markets](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_StakeholderEngagement_Full/$FILE/IFC_StakeholderEngagement.pdf)
-
-
-...confirms the shift to more inclusive a continuous process of engagement between companies and stakeholders, particularly project affected persons encompasses a range of approaches for the entire life of the project.
-...
-
-
-Stakeholder Engagement: A Good Practice Handbook for Companies Doing Business in Emerging Markets provides guidance on consultation and stakeholder engagement for private-sector companies. Although this handbook reiterates IFC requirements for early and sustained community engagement commensurate with project impacts, the focus of the manual is on effective practices.
-
-The Handbook is divided into two parts. Part one, contains the key concepts and principles of stakeholder engagement, the practices that are known to be effective, and the tools to implement them. Topics covered in this section include: stakeholder identification and analysis, consultation with Indigenous People, equal gender representation, informed participation, negotiations, grievance management, disclosure, stakeholder monitoring, and management functions.  Part two shows how these principles, practices, and tools fit with the different phases of the project cycle, from initial concept, through construction and operations, to divestment and/or decommissioning. Essentially this section offers guidance on the best times to commence various stages of the stakeholder engagement process, such as property negations, environmental assessment consultations, the development of grievance management mechanisms, et
-
-Interspersed throughout both sections of this manual are case studies which detail the experiences of various private companies successfully, and unsuccessfully, engaging in stakeholder engagement. One recommendation of particular relevance to the extractive industry, drawn from a case study of Glamis Gold, is that all parties who perceive themselves as stakeholders, including both NGO’s and governments, should be identified and appropriately engaged. Glamis Gold had to temporarily shut down its operations because it did not identify nor engage with parties, living outside of the direct influence of the project, who nevertheless perceived themselves as major stakeholders of the project.&nbsp;
-
-
-
-* [Doing Better Business through Effective Public Consultation and Disclosure](http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/p_pubconsult/$FILE/PublicConsultation.pdf)
-
-
-* [Addressing Grievances from Project-Affected Communities: Guidance for Projects and Companies on Designing Grievance Mechanisms](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_GrievanceMechanisms/$FILE/IFC+Grievance+Mechanisms.pdf)
-
-
-
-
----
+<!---
 
 
 ## PS1: Social and Environmental Assessment and Management System
@@ -903,6 +632,7 @@ Performance Standard 8 states that where a project may affect cultural heritage,
 
 <hr />
 
+-->
 
 <!--
 

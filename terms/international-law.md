@@ -1,15 +1,11 @@
+---
 title: international law
 date: 2005-12-06 09:08
 category: terminology
 tags:
 slug: international-law
-summary: :
+summary: : The term **international law** commonly refers to a body of rules, norms, and standards that govern the conduct of independent nations in their relationships with one another.
 status: draft
-
-<!--
-summary:
--->
-The term **international law** commonly refers to a body of rules, norms, and standards that govern the conduct of independent nations in their relationships with one another.
 ---
 
 <ref> "international law". The Free Dictionary. The American Heritage® Dictionary of the English Language, Fourth Edition copyright ©2000 by Houghton Mifflin Company. Updated in 2009. Retrieved 13 September 2011.</ref> <ref>The term was coined by Jeremy Bentham in "Introduction to the Principles of Morals and Legislation" in 1780. See Bentham, Jeremy (1789), An Introduction to the Principles of Morals and Legislation, London: T. Payne, p. 6, retrieved 2012-12-05</ref>

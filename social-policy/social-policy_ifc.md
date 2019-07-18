@@ -781,27 +781,10 @@ The General EHS Guidelines contain the following information (links below in Eng
 
 
 
-<!--
 
-#### Pollution Prevention and Abatement Handbook
+#### Pollution Prevention and Abatement Handbook (PPAH)
 
- Earlier versions of the EHS Guidelines (including documents that were previously published in Part III of the [Pollution Prevention and Abatement Handbook (PPAH)](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_handbook_ppah__wci__1319577543003) and on the IFC website), that are no longer in use, can be found below and are provided for reference only.
-
-**PPAH Part III: Project Guidelines**  [PDF]
-
-* [Principles of Industrial Pollution Management](https://www.ifc.org/wps/wcm/connect/e47d5c23-bc46-4623-b548-2d1cc0785eb4/HandbookPrinciplesOfIndustrialPollutionManagement.pdf?MOD=AJPERES&CVID=jkD0CrK)
-* [Monitoring](https://www.ifc.org/wps/wcm/connect/81df785a-e5ea-4d73-839a-c15c1934ba21/monitoring_PPAH.pdf?MOD=AJPERES&CVID=jqevOEL)
-* [Summary of Air Emission and Effluent Discharge Requirements Presented in the Industry Guidelines](https://www.ifc.org/wps/wcm/connect/f55cf8a7-40da-4170-84b8-c270d00ce2fa/HandbookSummaryAirEmissionAndEffluentDischargeRequirements.pdf?MOD=AJPERES&CVID=jqewtuX)
-
-
-PPAH Part III: Project Guidelines [PDF]
-* [Principles of Industrial Pollution Management](http://www.ifc.org/wps/wcm/connect/98463a8048855c188b04db6a6515bb18/HandbookPrinciplesOfIndustrialPollutionManagement.pdf?MOD=AJPERES)
-* [Monitoring](http://www.ifc.org/wps/wcm/connect/108b0e0048865874b60af66a6515bb18/monitoring_PPAH.pdf?MOD=AJPERES)
-* [Summary of Air Emission and Effluent Discharge Requirements Presented in the Industry Guidelines](http://www.ifc.org/wps/wcm/connect/39ba870048855b5a88acda6a6515bb18/HandbookSummaryAirEmissionAndEffluentDischargeRequirements.pdf?MOD=AJPERES)
-
-
--->
- 
+ Earlier versions of the EHS Guidelines (including documents that were previously published in Part III of the [Pollution Prevention and Abatement Handbook (PPAH)](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_handbook_ppah__wci__1319577543003) and on the IFC website), that are no longer in use, can be found below:
  
 
 ##### Pollutants [PDF]
@@ -816,7 +799,6 @@ PPAH Part III: Project Guidelines [PDF]
 * [Sulfur Oxides](https://www.ifc.org/wps/wcm/connect/fa942b47-b7f2-421c-a48a-c3b824dfc168/HandbookSulfurOxides.pdf?MOD=AJPERES&CVID=jqeERsg)
 
 
-
 ##### Pollutant Control Technologies [PDF]
 
 * [Airborne Particulate Matter: Pollution Prevention and Control](https://www.ifc.org/wps/wcm/connect/53afc833-56ff-4b08-b4b6-4e6c694ee30b/HandbookAirborneParticulateMatterPollutionPreventionAndControl.pdf?MOD=AJPERES&CVID=jkD0BOe)
@@ -825,16 +807,8 @@ PPAH Part III: Project Guidelines [PDF]
 * [Ozone-Depleting Substances: Alternatives](https://www.ifc.org/wps/wcm/connect/f9dff68b-68ba-4a6d-97a1-7ec85340eae3/HandbookOzoneDepletingSubstancesAlternatives.pdf?MOD=AJPERES&CVID=jqeAGzA)
 * [Sulfur Oxides: Pollution Prevention and Control](https://www.ifc.org/wps/wcm/connect/2ab161f5-13fc-4f67-902e-9d8491ee73ff/HandbookSulfurOxidesPollutionPreventionAndControl.pdf?MOD=AJPERES&CVID=jkD0Czx)
 
- 
  
- 
-
-<!--
-WBG Environmental, Health, and Safety Guidelines/Pollution Prevention and Abatement Handbook
--->
- 
- 
-##### World Bank Guidelines [PDF]
+##### World Bank Environmental, Health, and Safety Guidelines
 
 * [Aluminum Manufacturing](https://www.ifc.org/wps/wcm/connect/f6aedd1a-691c-453e-b3b2-47507260431e/alum_PPAH.pdf?MOD=AJPERES&CVID=jqezqjF)
 * [Base Metal & Iron Ore Mining](https://www.ifc.org/wps/wcm/connect/1bb6d9cf-2c37-4f5b-b067-ebba83e0718d/mining_PPAH.pdf?MOD=AJPERES&CVID=jqeIeae)
@@ -881,85 +855,85 @@ WBG Environmental, Health, and Safety Guidelines/Pollution Prevention and Abatem
 * [Wood Preserving Industry](https://www.ifc.org/wps/wcm/connect/2b4ae735-2613-43fb-bb36-a3192c923220/woodpre_PPAH.pdf?MOD=AJPERES&CVID=jkD24KB)
 
  
+##### [Decommissioned World Bank Group (WBG) Environmental, Health, and Safety (EHS) Guidelines](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsdecommissioned)
 
-##### Decommissioned World Bank Group (WBG) Environmental, Health, and Safety (EHS) Guidelines
+In 2013, the World Bank Group began to review and update the EHS Guidelines. Outdated versions are listed below.
 
-In 2013, the World Bank Group began to review and update the EHS Guidelines. As those Guidelines are revised, the outdated versions, including their translations, will be added below.
+**Annual Crop Production (2007)**  <br />
+[English](https://www.ifc.org/wps/wcm/connect/d2009755-9896-46ea-a565-5435dcdd664c/English_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfedJ.B) | 
+[Français](https://www.ifc.org/wps/wcm/connect/57e92d19-f6dd-4f34-bf33-923d90da031d/French_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfedOrX) | 
+[Español](https://www.ifc.org/wps/wcm/connect/f975604f-fa0e-457d-ad80-ed6549158b66/Spanish_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfed-R-) | 
+[русский](https://www.ifc.org/wps/wcm/connect/047d31b4-98f5-44e1-8538-892667d808ac/Russian_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfedWUI) | 
+[简体中文](https://www.ifc.org/wps/wcm/connect/7348b37d-4db6-4cb5-9b5a-b8492f4c6b3f/Chinese_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfedFMQ) | 
+[عربي](https://www.ifc.org/wps/wcm/connect/0c22f0e1-ed54-4681-8e11-d057a21ab3cb/Arabic_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfedxE8)
 
-**Annual Crop Production (2007)**
-[English](https://www.ifc.org/wps/wcm/connect/d2009755-9896-46ea-a565-5435dcdd664c/English_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfedJ.B) | [Français](https://www.ifc.org/wps/wcm/connect/57e92d19-f6dd-4f34-bf33-923d90da031d/French_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfedOrX) | [Español](https://www.ifc.org/wps/wcm/connect/f975604f-fa0e-457d-ad80-ed6549158b66/Spanish_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfed-R-) | [русский](https://www.ifc.org/wps/wcm/connect/047d31b4-98f5-44e1-8538-892667d808ac/Russian_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfedWUI) | [简体中文](https://www.ifc.org/wps/wcm/connect/7348b37d-4db6-4cb5-9b5a-b8492f4c6b3f/Chinese_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfedFMQ) | [عربي](https://www.ifc.org/wps/wcm/connect/0c22f0e1-ed54-4681-8e11-d057a21ab3cb/Arabic_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfedxE8)
+**Liquefied Natural Gas (LNG) Facilities (2007)**  <br />
+[English](https://www.ifc.org/wps/wcm/connect/a661f9c6-1d0b-417e-a787-635c4e3a3f93/Final%2B-%2BLNG.pdf?MOD=AJPERES&CVID=lJuo8OF&id=1323161924903) | 
+[Français](https://www.ifc.org/wps/wcm/connect/f9825950-bf91-49d1-b1e6-ca2b3ceacd9e/French_LNG.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-f9825950-bf91-49d1-b1e6-ca2b3ceacd9e-lJuo0f.) | 
+[Español](https://www.ifc.org/wps/wcm/connect/104f1e72-7663-4cdc-9cc9-90f06af995c0/Spanish_LNG.pdf?MOD=AJPERES&CVID=lJunWLG) | 
+[русский](https://www.ifc.org/wps/wcm/connect/e403c906-a943-483e-8934-e00468837c8d/Russian_LNG.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-e403c906-a943-483e-8934-e00468837c8d-lJunZF8) | 
+[简体中文](https://www.ifc.org/wps/wcm/connect/8ef37ce9-02c3-4187-8e00-99002287cd0b/Chinese_Liquefied+Natural+Gas+LNG+Facilities.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-8ef37ce9-02c3-4187-8e00-99002287cd0b-lJuo2WD) | 
+[عربي](https://www.ifc.org/wps/wcm/connect/341efdf4-1519-4bdc-9e7a-3429ab0c7d85/Arabic_Liquefied+Natural+Gas+%28LNG%29+Facilities.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-341efdf4-1519-4bdc-9e7a-3429ab0c7d85-lJuo5cE)
 
-**Liquefied Natural Gas (LNG) Facilities (2007)**
-[English](https://www.ifc.org/wps/wcm/connect/a661f9c6-1d0b-417e-a787-635c4e3a3f93/Final%2B-%2BLNG.pdf?MOD=AJPERES&CVID=lJuo8OF&id=1323161924903) | [Français](https://www.ifc.org/wps/wcm/connect/f9825950-bf91-49d1-b1e6-ca2b3ceacd9e/French_LNG.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-f9825950-bf91-49d1-b1e6-ca2b3ceacd9e-lJuo0f.) | [Español](https://www.ifc.org/wps/wcm/connect/104f1e72-7663-4cdc-9cc9-90f06af995c0/Spanish_LNG.pdf?MOD=AJPERES&CVID=lJunWLG) | [русский](https://www.ifc.org/wps/wcm/connect/e403c906-a943-483e-8934-e00468837c8d/Russian_LNG.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-e403c906-a943-483e-8934-e00468837c8d-lJunZF8) | [简体中文](https://www.ifc.org/wps/wcm/connect/8ef37ce9-02c3-4187-8e00-99002287cd0b/Chinese_Liquefied+Natural+Gas+LNG+Facilities.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-8ef37ce9-02c3-4187-8e00-99002287cd0b-lJuo2WD) | [عربي](https://www.ifc.org/wps/wcm/connect/341efdf4-1519-4bdc-9e7a-3429ab0c7d85/Arabic_Liquefied+Natural+Gas+%28LNG%29+Facilities.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-341efdf4-1519-4bdc-9e7a-3429ab0c7d85-lJuo5cE)
+**Offshore Oil and Gas Development (2007)**  <br />
+[English](https://www.ifc.org/wps/wcm/connect/dba79294-6756-4620-9988-e0edf357da8d/2007+English+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7f64t) | 
+[Français](https://www.ifc.org/wps/wcm/connect/b9df4dc1-2309-4df5-b483-d1c7a6746153/2007+French+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7cC2c) | 
+[Español](https://www.ifc.org/wps/wcm/connect/41dd75a1-fcd0-49f5-8c20-60b92fc7540c/2007+Spanish+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7e4gl) | 
+[русский](https://www.ifc.org/wps/wcm/connect/6f2ca741-e5f4-406b-a1f0-3459a8a65584/2007+Russian+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7dAHe) | 
+[简体中文](https://www.ifc.org/wps/wcm/connect/9708870e-e3e9-4e8e-a2b8-37c3a27391e2/2007+Chinese+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7bMag) | 
+[عربي](https://www.ifc.org/wps/wcm/connect/a250724f-7be4-4bcc-bebd-9d1052e91d84/2007+Arabic+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7bmBQ)
 
-**Offshore Oil and Gas Development (2007)**
-[English](https://www.ifc.org/wps/wcm/connect/dba79294-6756-4620-9988-e0edf357da8d/2007+English+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7f64t) | [Français](https://www.ifc.org/wps/wcm/connect/b9df4dc1-2309-4df5-b483-d1c7a6746153/2007+French+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7cC2c) | [Español](https://www.ifc.org/wps/wcm/connect/41dd75a1-fcd0-49f5-8c20-60b92fc7540c/2007+Spanish+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7e4gl) | [русский](https://www.ifc.org/wps/wcm/connect/6f2ca741-e5f4-406b-a1f0-3459a8a65584/2007+Russian+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7dAHe) | [简体中文](https://www.ifc.org/wps/wcm/connect/9708870e-e3e9-4e8e-a2b8-37c3a27391e2/2007+Chinese+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7bMag) | [عربي](https://www.ifc.org/wps/wcm/connect/a250724f-7be4-4bcc-bebd-9d1052e91d84/2007+Arabic+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7bmBQ)
+**Petroleum Refining (2007)**  <br />
+[English](https://www.ifc.org/wps/wcm/connect/692c76c8-0460-4f4e-bcbd-c02b3b9de850/Final%2B-%2BPetroleum%2BRefining.pdf?MOD=AJPERES&CVID=lxPOyfJ&id=1323153091008) | 
+[Français](https://www.ifc.org/wps/wcm/connect/25219068-7c39-46d0-a3c2-15510ccda658/028_Petroleum%2BRefining.pdf?MOD=AJPERES&CVID=lxPQfyQ) | 
+[Español](https://www.ifc.org/wps/wcm/connect/377c7e61-0904-46a0-aa51-3d566adacb58/Petroleum%2BRefining%2B-%2BSpanish%2B-%2BFinal-rev%2Bcc.pdf?MOD=AJPERES&CVID=lxPQ.Bf) | 
+[русский](https://www.ifc.org/wps/wcm/connect/1ce0a9f2-3907-4ae8-b046-f8f917d7344e/Petroleum%2BRefining%2B-%2BRussian%2B-%2BFinal_.pdf?MOD=AJPERES&CVID=lxPQDDL) | 
+[简体中文](https://www.ifc.org/wps/wcm/connect/d4e0c603-e421-4621-8f16-3e0b1949d747/056%2BPetroleum%2BRefining.pdf?MOD=AJPERES&CVID=lxPPHLu) | 
+[عربي](https://www.ifc.org/wps/wcm/connect/a7a68692-d9cc-436e-a5f7-8fa6d25c0872/0000199659ARar049%2BPetroleum%2BRefining.pdf?MOD=AJPERES&CVID=lxPPllA)
 
-**Petroleum Refining (2007)**
-[English](https://www.ifc.org/wps/wcm/connect/692c76c8-0460-4f4e-bcbd-c02b3b9de850/Final%2B-%2BPetroleum%2BRefining.pdf?MOD=AJPERES&CVID=lxPOyfJ&id=1323153091008) | [Français](https://www.ifc.org/wps/wcm/connect/25219068-7c39-46d0-a3c2-15510ccda658/028_Petroleum%2BRefining.pdf?MOD=AJPERES&CVID=lxPQfyQ) | [Español](https://www.ifc.org/wps/wcm/connect/377c7e61-0904-46a0-aa51-3d566adacb58/Petroleum%2BRefining%2B-%2BSpanish%2B-%2BFinal-rev%2Bcc.pdf?MOD=AJPERES&CVID=lxPQ.Bf) | [русский](https://www.ifc.org/wps/wcm/connect/1ce0a9f2-3907-4ae8-b046-f8f917d7344e/Petroleum%2BRefining%2B-%2BRussian%2B-%2BFinal_.pdf?MOD=AJPERES&CVID=lxPQDDL) | [简体中文](https://www.ifc.org/wps/wcm/connect/d4e0c603-e421-4621-8f16-3e0b1949d747/056%2BPetroleum%2BRefining.pdf?MOD=AJPERES&CVID=lxPPHLu) | [عربي](https://www.ifc.org/wps/wcm/connect/a7a68692-d9cc-436e-a5f7-8fa6d25c0872/0000199659ARar049%2BPetroleum%2BRefining.pdf?MOD=AJPERES&CVID=lxPPllA)
+**Plantation Crop Production (2007)**  <br />
+[English](https://www.ifc.org/wps/wcm/connect/0c720310-bd16-4467-8462-fa100187b271/Final%2B-%2BPlantation%2BCrop%2BProduction.pdf?MOD=AJPERES&CVID=lxc9PyP) | 
+[Français](https://www.ifc.org/wps/wcm/connect/d80af5e6-be68-4934-b73a-e00263d75161/French_Plantation+Crop+Production.pdf?MOD=AJPERES&CVID=l4VX6kg) | 
+[Español](https://www.ifc.org/wps/wcm/connect/04673a81-67df-4329-9619-6f1077df418c/Plantation%2BCrops%2B-%2BSpanish%2B-%2BFinal-%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=l4VWSlV) | 
+[русский](https://www.ifc.org/wps/wcm/connect/4336a6a8-9a3e-4480-9fcc-70071ff0f878/Russian_Plantation+Crop.pdf?MOD=AJPERES&CVID=l4VW-x1) | 
+[简体中文](https://www.ifc.org/wps/wcm/connect/1b399a0d-a692-4201-bdb2-7a87f2d52182/Chinese_Plantation+Crop+Production.pdf?MOD=AJPERES&CVID=l4VXrF9) | 
+[عربي](https://www.ifc.org/wps/wcm/connect/ffa15a98-134e-4ab6-9375-1f3a71a10b77/Arabic_Plantation+Crop+Production.pdf?MOD=AJPERES&CVID=l4VXz-l)
 
-**Plantation Crop Production (2007)**
-[English](https://www.ifc.org/wps/wcm/connect/0c720310-bd16-4467-8462-fa100187b271/Final%2B-%2BPlantation%2BCrop%2BProduction.pdf?MOD=AJPERES&CVID=lxc9PyP) | [Français](https://www.ifc.org/wps/wcm/connect/d80af5e6-be68-4934-b73a-e00263d75161/French_Plantation+Crop+Production.pdf?MOD=AJPERES&CVID=l4VX6kg) | [Español](https://www.ifc.org/wps/wcm/connect/04673a81-67df-4329-9619-6f1077df418c/Plantation%2BCrops%2B-%2BSpanish%2B-%2BFinal-%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=l4VWSlV) | [русский](https://www.ifc.org/wps/wcm/connect/4336a6a8-9a3e-4480-9fcc-70071ff0f878/Russian_Plantation+Crop.pdf?MOD=AJPERES&CVID=l4VW-x1) | [简体中文](https://www.ifc.org/wps/wcm/connect/1b399a0d-a692-4201-bdb2-7a87f2d52182/Chinese_Plantation+Crop+Production.pdf?MOD=AJPERES&CVID=l4VXrF9) | [عربي](https://www.ifc.org/wps/wcm/connect/ffa15a98-134e-4ab6-9375-1f3a71a10b77/Arabic_Plantation+Crop+Production.pdf?MOD=AJPERES&CVID=l4VXz-l)
+**Ports, Harbors and Terminals (2007)**  <br />
+[English](https://www.ifc.org/wps/wcm/connect/984f7c38-1895-4750-99ab-2e2031fa35df/Final%2B-%2BPorts%2C%2BHarbors%2Band%2BTerminals.pdf?MOD=AJPERES&CVID=lD.wGhe&id=1323152828015) | 
+[Français](https://www.ifc.org/wps/wcm/connect/1269e799-a674-4985-874f-964a76e204c3/French_Ports+Harbors+Terminals.pdf?MOD=AJPERES&CVID=lD.xnYK) | 
+[Español](https://www.ifc.org/wps/wcm/connect/12124de9-9aa7-4fb1-8b5e-6e0d62605b4c/Ports%2B-%2BSpanish%2B-%2BFinal-%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=lD.xOzA) | 
+[русский](https://www.ifc.org/wps/wcm/connect/5d429c46-f0fc-4272-9651-5245888407c0/Russian_Ports.pdf?MOD=AJPERES&CVID=lD.xHal) | 
+[简体中文](https://www.ifc.org/wps/wcm/connect/3d66ed3a-636d-46d3-849c-e11971fcf094/Chinese_Ports+Harbors+and+Terminals.pdf?MOD=AJPERES&CVID=lD.xfCi) | 
+[عربي](https://www.ifc.org/wps/wcm/connect/9a662921-a3de-4678-8a99-d9dd1393b2ed/0000199659ARar052%2BPorts%2BHarbors%2Band%2BTerminals.pdf?MOD=AJPERES&CVID=lD.wSc6)
 
-**Ports, Harbors and Terminals (2007)**
-[English](https://www.ifc.org/wps/wcm/connect/984f7c38-1895-4750-99ab-2e2031fa35df/Final%2B-%2BPorts%2C%2BHarbors%2Band%2BTerminals.pdf?MOD=AJPERES&CVID=lD.wGhe&id=1323152828015) | [Français](https://www.ifc.org/wps/wcm/connect/1269e799-a674-4985-874f-964a76e204c3/French_Ports+Harbors+Terminals.pdf?MOD=AJPERES&CVID=lD.xnYK) | [Español](https://www.ifc.org/wps/wcm/connect/12124de9-9aa7-4fb1-8b5e-6e0d62605b4c/Ports%2B-%2BSpanish%2B-%2BFinal-%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=lD.xOzA) | [русский](https://www.ifc.org/wps/wcm/connect/5d429c46-f0fc-4272-9651-5245888407c0/Russian_Ports.pdf?MOD=AJPERES&CVID=lD.xHal) | [简体中文](https://www.ifc.org/wps/wcm/connect/3d66ed3a-636d-46d3-849c-e11971fcf094/Chinese_Ports+Harbors+and+Terminals.pdf?MOD=AJPERES&CVID=lD.xfCi) | [عربي](https://www.ifc.org/wps/wcm/connect/9a662921-a3de-4678-8a99-d9dd1393b2ed/0000199659ARar052%2BPorts%2BHarbors%2Band%2BTerminals.pdf?MOD=AJPERES&CVID=lD.wSc6)
+**Vegetable Oil Processing (2007)**  <br />
+[English](https://www.ifc.org/wps/wcm/connect/f52f03ec-1141-42ca-a23b-18d817b4c9c3/2007+English_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73ebC) | 
+[Français](https://www.ifc.org/wps/wcm/connect/5f3ba3ea-f4cb-4de9-8718-4be9e2ce04fb/2007+French_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73u8F) | 
+[Español](https://www.ifc.org/wps/wcm/connect/ecf0ad48-831b-4d96-a118-2f9e5a9c2e89/2007+Spanish_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73iSu) | 
+[русский](https://www.ifc.org/wps/wcm/connect/9913df55-2e23-4e1d-9d2d-98c7a44ff5b6/2007+Russian_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73pVP) | 
+[简体中文](https://www.ifc.org/wps/wcm/connect/8e61ebdf-bcfc-4987-8d30-e3d73d273618/2007+Chinese_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73CYD) | 
+[عربي](https://www.ifc.org/wps/wcm/connect/f55baee2-bd57-4485-bae9-4b244faa02f3/2007+Arabic_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73JT0)
 
-**Vegetable Oil Processing (2007)**
-[English](https://www.ifc.org/wps/wcm/connect/f52f03ec-1141-42ca-a23b-18d817b4c9c3/2007+English_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73ebC) | [Français](https://www.ifc.org/wps/wcm/connect/5f3ba3ea-f4cb-4de9-8718-4be9e2ce04fb/2007+French_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73u8F) | [Español](https://www.ifc.org/wps/wcm/connect/ecf0ad48-831b-4d96-a118-2f9e5a9c2e89/2007+Spanish_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73iSu) | [русский](https://www.ifc.org/wps/wcm/connect/9913df55-2e23-4e1d-9d2d-98c7a44ff5b6/2007+Russian_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73pVP) | [简体中文](https://www.ifc.org/wps/wcm/connect/8e61ebdf-bcfc-4987-8d30-e3d73d273618/2007+Chinese_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73CYD) | [عربي](https://www.ifc.org/wps/wcm/connect/f55baee2-bd57-4485-bae9-4b244faa02f3/2007+Arabic_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73JT0)
+**Wind Energy (2007)** <br />
+[English](https://www.ifc.org/wps/wcm/connect/1aeaf27e-894d-45a5-bfb8-c819dd9f927b/Final%2B-%2BWind%2BEnergy.pdf?MOD=AJPERES&CVID=kYK0jlD) | 
+[Français](https://www.ifc.org/wps/wcm/connect/02cf754f-5d49-46ba-a0ae-6d4109e0c9e3/French_Wind+Energy.pdf?MOD=AJPERES&CVID=kYK1hmV) | 
+[Español](https://www.ifc.org/wps/wcm/connect/802248d4-964d-418a-957b-963274a9f84d/Spanish_Wind%2BEnergy%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=kYK1Khg) | 
+[русский](https://www.ifc.org/wps/wcm/connect/f883e396-163c-4e8b-8cdb-51efb801894c/Russian_Wind+Energy.pdf?MOD=AJPERES&CVID=kYK1wkh) | 
+[简体中文](https://www.ifc.org/wps/wcm/connect/251b405c-9bbb-458a-84f5-ab27cd156498/Chinese_Wind+Energy.pdf?MOD=AJPERES&CVID=kYK156g) | 
+[عربي](https://www.ifc.org/wps/wcm/connect/37a804eb-57f5-4333-abc4-1a37ec19c3b3/Arabic_Wind+Energy.pdf?MOD=AJPERES&CVID=kYK0M-D)
 
-**Wind Energy (2007)**
-[English](https://www.ifc.org/wps/wcm/connect/1aeaf27e-894d-45a5-bfb8-c819dd9f927b/Final%2B-%2BWind%2BEnergy.pdf?MOD=AJPERES&CVID=kYK0jlD) | [Français](https://www.ifc.org/wps/wcm/connect/02cf754f-5d49-46ba-a0ae-6d4109e0c9e3/French_Wind+Energy.pdf?MOD=AJPERES&CVID=kYK1hmV) | [Español](https://www.ifc.org/wps/wcm/connect/802248d4-964d-418a-957b-963274a9f84d/Spanish_Wind%2BEnergy%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=kYK1Khg) | [русский](https://www.ifc.org/wps/wcm/connect/f883e396-163c-4e8b-8cdb-51efb801894c/Russian_Wind+Energy.pdf?MOD=AJPERES&CVID=kYK1wkh) | [简体中文](https://www.ifc.org/wps/wcm/connect/251b405c-9bbb-458a-84f5-ab27cd156498/Chinese_Wind+Energy.pdf?MOD=AJPERES&CVID=kYK156g) | [عربي](https://www.ifc.org/wps/wcm/connect/37a804eb-57f5-4333-abc4-1a37ec19c3b3/Arabic_Wind+Energy.pdf?MOD=AJPERES&CVID=kYK0M-D)
 
 <!--
+**PPAH Part III: Project Guidelines**  [PDF]
 
-
-
-* [Decommissioned EHS Guidelines](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsdecommissioned) that have been updated following the review process beginning in 2013
-
-
-
-Decommissioned World Bank Group (WBG) Environmental, Health, and Safety (EHS) Guidelines
-
-In 2013, the World Bank Group began to review and update the EHS Guidelines. As those Guidelines are revised, the outdated versions, including their translations, will be added below.
-
-
-
-Annual Crop Production (2007) <br />
-English | Français | Español | русский | 简体中文 | عربي
-
-Liquefied Natural Gas (LNG) Facilities (2007) <br />
-English | Français | Español | русский | 简体中文 | عربي
-
-Offshore Oil and Gas Development (2007) <br />
-English | Français | Español | русский | 简体中文 | عربي
-
-Petroleum Refining (2007) <br />
-English | Français | Español | русский | 简体中文 | عربي
-
-Plantation Crop Production (2007) <br />
-English | Français | Español | русский | 简体中文 | عربي
-
-Ports, Harbors and Terminals (2007) <br />
-English | Français | Español | русский | 简体中文 | عربي
-
-Vegetable Oil Processing (2007) <br />
-English | Français | Español | русский | 简体中文 | عربي
-
-Wind Energy (2007) <br />
-English | Français | Español | русский | 简体中文 | عربي
-
+* [Principles of Industrial Pollution Management](https://www.ifc.org/wps/wcm/connect/e47d5c23-bc46-4623-b548-2d1cc0785eb4/HandbookPrinciplesOfIndustrialPollutionManagement.pdf?MOD=AJPERES&CVID=jkD0CrK)
+* [Monitoring](https://www.ifc.org/wps/wcm/connect/81df785a-e5ea-4d73-839a-c15c1934ba21/monitoring_PPAH.pdf?MOD=AJPERES&CVID=jqevOEL)
+* [Summary of Air Emission and Effluent Discharge Requirements Presented in the Industry Guidelines](https://www.ifc.org/wps/wcm/connect/f55cf8a7-40da-4170-84b8-c270d00ce2fa/HandbookSummaryAirEmissionAndEffluentDischargeRequirements.pdf?MOD=AJPERES&CVID=jqewtuX)
 -->
-
-
 <!---
-
-
 ### Sustainability Reporting
 
 * [Global Reporting Initiative Guidelines](http://www.globalreporting.org/)
 * [IFC Sustainability Reports](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Reports_Annual)
-
-
-
-
 -->

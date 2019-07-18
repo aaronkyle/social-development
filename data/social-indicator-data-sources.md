@@ -1,9 +1,12 @@
+---
+layout: post
 title: social indicator data
 date: 2007-02-13
 category: data
 tag: data sources, social indicators, M&E
 slug: social-indicator-data
 summary: : data describing social conditions;<br /> <strong>note:</strong> <em>this post presents several social indicator databases and briefly describes their content</em>
+---
 
 <!---
 tags:
@@ -265,4 +268,13 @@ ISO 3166-1 Alpha-3 code is used for countries and economies.
 
 https://knoema.com/atlas/ADB
 
+https://www.kaggle.com/?
+
+https://data.worldbank.org/indicator
+
+https://datahelpdesk.worldbank.org/knowledgebase/articles/898599-indicator-api-queries
+
+https://data.iadb.org/NumbersForDevelopment/NumbersForDevelopment
+
+https://www.census.gov/data/developers/data-sets.html
 -->

@@ -1423,4 +1423,14 @@ Interspersed throughout both sections of this manual are case studies which deta
 
 * [FIRST for Sustainability - Financial Institutions: Resources, Solutions and Tools](https://firstforsustainability.org/)
 
+* [Financial Valuation Tool](https://www.fvtool.com/using-the-fv-tool/)
+
+IFC developed the FV Tool to help companies identify the optimum sustainability investment portfolio to deliver maximum business and social value.
+
+Independent research in the extractive sector shows that prudent, local sustainability investments can be critical to ensuring on-time and on-budget project completion in addition to creating community benefits. In a study of 190 oil and gas projects, Goldman Sachs found that over 70% of delays were caused by stakeholder-related sustainability issues, more than commercial or technical factors. Accenture found that 33% of these projects were over budget by 25% or more due to unforeseen delays.
+
+The FV Tool allows an organization to test whether its sustainability initiatives will effectively create or protect value for a project and, most importantly, manage risks that could negatively impact project completion and ongoing business operations. And because it uses a data-driven methodology, Return on Investment is expressed in the quantifiable metric of Net Present Value (NPV), which enables sustainability budgets to more effectively compete with other corporate priorities.
+
+
+
 -->

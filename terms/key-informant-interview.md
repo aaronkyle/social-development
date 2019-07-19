@@ -1,3 +1,4 @@
+---
 title: key informant interview
 date: 2007-04-09 06:26
 category: terminology
@@ -5,7 +6,7 @@ tags:
 slug: key-informant-interview
 summary: :
 status: draft
-
+---
 
 Qualitative in-depth interviews conducted with 'key' individuals, such as well-connected community members, highly productive and capable government and civil leaders, etc. These community experts, with their particular knowledge and understanding, can provide insight on the nature of problems and give recommendations for solutions. 
 
@@ -37,7 +38,6 @@ Kanbur 2001
 
 Kanbur, Ravi. 2001. Economic policy, distribution, and poverty: the nature of disagreements
 World Development 29, no.6:1083–94. 
-
 
 Kuehnast, Kathleen, and Nora Dudwick. 2004. Better a hundred friends than a hundred rubles?
 Social networks in transition—The Kyrgyz Republic. Environmentally and Socially 

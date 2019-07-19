@@ -23,8 +23,10 @@ permalink: /social-development_theory/
 published: false
 ---
 -->
-Social development theory
+Social development theory attempts to explain qualitative changes in the structure and framework of society, that help the society to better realize aims and objectives.
 
+
+<!--
 social change is
 
 increasing awareness of social energies and skills and resources
@@ -35,3 +37,7 @@ leading to better organization that is able to harness the available social reso
 When society senses new and better opportunities for progress it develops new forms of organization to exploit these openings successfully.
 
 get the intended results.
+-->
+### References and Further Reading
+
+* Lev Vygotsky. [Social Development Theory](http://www.instructionaldesign.org/theories/social-development.html)

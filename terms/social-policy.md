@@ -35,17 +35,17 @@ Despite drawing on an increasing amount of the theoretical work and field experi
 
 ### Notes & Citations
 
-[^1]: Social policy is an area of specialize inquiry across several social science disciplines, including economics, sociology, psychology, geography, history, law, philosophy and political science.
-[^2]: London School of Economics (LSE), Department of Social Policy. n.d. ["What is social policy?"](http://www2.lse.ac.uk/socialPolicy/aboutUs/introduction.aspx)
-[^3]: Harvard University, Malcolm Wiener Center for Social Policy. 2012. ["About the Malcolm Wiener Center".](http://www.hks.harvard.edu/centers/wiener)
-[^4]: Cheyne, Christine, Mike O'Brien and Michael Belgrave. 2005. *[Social Policy in Aotearoa New Zealand: A Critical Introduction](https://books.google.com/books?id=g_vZAAAAMAAJ&q=Social+Policy+in+Aotearoa/New+Zealand&dq=Social+Policy+in+Aotearoa/New+Zealand&hl=en&sa=X&ei=hs_HVP-GOouEyQSjlID4Bg&ved=0CC0Q6AEwAA)* [p. 3]
-[^5]: London School of Economics (LSE), Department of Social Policy. n.d. ["About Us"](http://www2.lse.ac.uk/socialPolicy/aboutUs/introduction.asp)
+[^1]:# Social policy is an area of specialize inquiry across several social science disciplines, including economics, sociology, psychology, geography, history, law, philosophy and political science.
+[^2]:http://www2.lse.ac.uk/socialPolicy/aboutUs/introduction.aspx London School of Economics (LSE), Department of Social Policy. n.d. "What is social policy?"
+[^3]:http://www.hks.harvard.edu/centers/wiener Harvard University, Malcolm Wiener Center for Social Policy. 2012. "About the Malcolm Wiener Center".
+[^4]:https://books.google.com/books?id=g_vZAAAAMAAJ&q=Social+Policy+in+Aotearoa/New+Zealand&dq=Social+Policy+in+Aotearoa/New+Zealand&hl=en&sa=X&ei=hs_HVP-GOouEyQSjlID4Bg&ved=0CC0Q6AEwAA Cheyne, Christine, Mike O'Brien and Michael Belgrave. 2005. *Social Policy in Aotearoa New Zealand: A Critical Introduction* [p. 3]
+[^5]:http://www2.lse.ac.uk/socialPolicy/aboutUs/introduction.asp London School of Economics (LSE), Department of Social Policy. n.d. "About Us" [webpage]
 
-<!--
-
+### Additional References
 
 World Bank. "[Definitions](http://go.worldbank.org/STEWT8SF30)".
 
+<!--
 Policy: a statement of broad substantive policy principles that require, permit or constrain Bank activities to achieve institutional goals.
 
 -->

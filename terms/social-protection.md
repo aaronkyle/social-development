@@ -10,10 +10,10 @@ status: draft
 
 ‘Social protection’ refers to policies and programs designed to reduce poverty and vulnerability by promoting efficient labor markets, diminishing people’s exposure to risks, and enhancing their capacity to protect themselves against hazards and interruption/loss of income.
 
-
+<!--
 
 http://www.adb.org/Documents/Policies/Social_Protection/default.asp
-http://www.adb.org/Documents/Policies/Social_Protection/social-protection.pdf&nbsp;
+http://www.adb.org/Documents/Policies/Social_Protection/social-protection.pdf;
 
 ---
 
@@ -24,4 +24,11 @@ The SPS five core elements are: 1)	labor market policies and programs designed t
 
 The SPS posits good social and economic governance as part of the long-term solution to vulnerability[1], and so stresses that development policies should therefore (i) involve proactive interventions to reduce vulnerability; (ii) try not to alter existing informal family and community-based mechanisms to cope with risk, and (iii) when possible, encourage community-driven interventions (social funds, micro-insurance, etc).
 
-↑ http://www.adb.org/Documents/Policies/Social_Protection/social-protection.pdf Social protection instruments are generally not considered for risk reduction; for this, other instruments are available. Sound development policies and investments are ways to reduce the probability of or even eliminate such risks (e.g., infrastructure investment for flood control). Social protection programs are built primarily to mitigate the impacts of shocks or to help people cope with risks if they occur. The boundaries between social protection and related activities are somewhat arbitrary and have to take account of regional characteristics and practical links to distinct and well-established disciplines such as education, health, and agriculture. With these considerations in mind, ADB has developed a definition of social protection based on labor markets and small-scale agriculture, in line with ADB’s overarching goal of reducing poverty in the Asia and Pacific region.
+↑
+
+Social protection instruments are generally not considered for risk reduction; for this, other instruments are available. Sound development policies and investments are ways to reduce the probability of or even eliminate such risks (e.g., infrastructure investment for flood control). Social protection programs are built primarily to mitigate the impacts of shocks or to help people cope with risks if they occur. The boundaries between social protection and related activities are somewhat arbitrary and have to take account of regional characteristics and practical links to distinct and well-established disciplines such as education, health, and agriculture. With these considerations in mind, ADB has developed a definition of social protection based on labor markets and small-scale agriculture, in line with ADB’s overarching goal of reducing poverty in the Asia and Pacific region.
+-->
+
+## references
+
+ADB. n.d. *[Social Protection](http://www.adb.org/Documents/Policies/Social_Protection/default.asp)* [webpage]. 

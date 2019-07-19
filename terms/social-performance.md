@@ -6,6 +6,7 @@ tags:
 slug: social-performance
 summary: :
 status: draft
+published: false
 ---
 
 <!--
@@ -24,7 +25,7 @@ published: false
 comments: true
 ---
 -->
-The term ‘social performance’ refers to.
+The term ‘social performance’ refers to...
 
 #### References and Further Reading:
 

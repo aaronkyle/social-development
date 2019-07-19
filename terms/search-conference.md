@@ -7,7 +7,7 @@ summary: :
 status: draft
 ---
 
-A '''Search Conference''' is a conference organized by the project operator where issues pertaining to the project in question are discussed, particularly in connection with a mutually envisioned goal or desired outcome for the project. Participants are recruited through a 'snowballing' method: practitioners ask around to identify the experts in a particular field, and recruits them based on the strengths they will bring to the process.
+A **search conference** is a conference organized by the project operator where issues pertaining to the project in question are discussed, particularly in connection with a mutually envisioned goal or desired outcome for the project. Participants are recruited through a 'snowballing' method: practitioners ask around to identify the experts in a particular field, and recruits them based on the strengths they will bring to the process.
 
 Search conferences are generally conducted in the early stages of the planning process, usually with a relatively small groups people (15-30) meeting once over one or two days. Participants discuss and forecast a possible scenario and pose questions to one another about how that future might be achieved or avoided. The discussions seek to draw example issues from a broad perspective, and then ‘work backward’ to develop action plans toward realizing a desired outcome—as collaboratively defined.
 
@@ -23,4 +23,4 @@ Advantages of organizing search conferences is that small teams can be organized
 
 ### References
 
-* Carson, Lyn; Gelber, Katharine. 2001. ''Ideas for Community Consultation – A discussion on principles and procedures for making consultation work.'' New South Wales Department of Urban Affairs and Planning. Available at: http://www.activedemocracy.net/articles/principles_procedures_final.pdf
+* Carson, Lyn; Gelber, Katharine. 2001. *Ideas for Community Consultation – A discussion on principles and procedures for making consultation work.* New South Wales Department of Urban Affairs and Planning. Available at: http://www.activedemocracy.net/articles/principles_procedures_final.pdf

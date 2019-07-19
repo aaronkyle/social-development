@@ -14,3 +14,10 @@ My early logic is separating out resources by institution for this link lists is
 
 Additional examples and resources from international practice:
 * [implementation-resources_external-standards-and-guidelines](implementation-resources_external-standards-and-guidelines.md)
+
+<!--
+
+[GUIDELINES ON COMPULSORY DISPLACEMENT AND RESETTLEMENT IN USAID PROGRAMMING
+](https://land-links.org/wp-content/uploads/2016/09/USAID_Land_Tenure_Guidelines_CDR.pdf)
+
+-->

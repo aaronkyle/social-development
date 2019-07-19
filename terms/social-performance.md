@@ -1,14 +1,16 @@
+---
 title: social performance
 date:
 category: terminology
-tags: 
+tags:
 slug: social-performance
-summary: : 
+summary: :
 status: draft
+---
 
 <!--
 icon: file-code-o
-summary: 
+summary:
 -->
 <!--
 ---
@@ -29,4 +31,4 @@ The term ‘social performance’ refers to.
 
 #### Notes and Citations:
 
-[^1]: 
+[^1]:

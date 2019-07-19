@@ -1,3 +1,4 @@
+---
 title: legally-protected areas
 date: 2006-10-28 13:08
 category: terminology
@@ -5,6 +6,7 @@ tags: IFC
 slug: legally-protected-areas
 summary: : areas legally designated for the protection or conservation of biodiversity
 status: draft
+---
 
 Areas legally designated for the protection or conservation of biodiversity, including areas proposed by governments for such designation.
 

@@ -1,9 +1,11 @@
+---
 title: visioning
 date: 2010-10-22 04:37
 category: terminology
 tags: tools, engagement
 slug: visioning
 summary: : a step in the early phases of the project in which community members describe how they would ideally like to realize a development intervention
+---
 
 The term **visioning** refers to a consultation tool for learning about community preferences during early phases of project design.  When conducting a visioning exercise, community members are asked to describe ideal or aspirational notions of a given development initiative at a given point in time.  
 

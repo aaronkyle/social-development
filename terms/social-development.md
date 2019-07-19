@@ -1,8 +1,10 @@
+---
 title: social development
 date: 2005-10-11
 category: terminology
 slug: social-development
 summary: : transformative processes of social change, usually intented to benefit human well-being
+---
 
 <!--
 ---

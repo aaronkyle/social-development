@@ -1,3 +1,4 @@
+---
 title: multilateral development bank
 date: 2005-01-10 13:47
 category: terminology
@@ -5,6 +6,7 @@ tags: development, multilateral development bank, project finance
 slug: multilateral-development-bank
 summary: :
 status: draft
+---
 
 <!--
 icon: file-code-o

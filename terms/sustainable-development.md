@@ -1,14 +1,16 @@
+---
 title: sustainable development
 date: 2005-10-13 10:16
 category: terminology
-tags: 
+tags:
 slug: sustainable-development
 summary: :
 status: draft
+---
 
 <!--
 icon: file-code-o
-summary: 
+summary:
 -->
 <!--
 ---
@@ -32,7 +34,7 @@ Working toward sustainable development entails evaluating the world as an integr
 
 Within a unified system, it is assumed that air pollution from North America can have an affect on air quality in Asia and that use of pesticides sprayed in Argentina could harm fish stocks off the coast of Australia. The dimension of temporaility reminds us that the decisions our grandparents made about how to farm the land continue to affect agricultural practice today and the economic policies we endorse today will have an impact on urban poverty when our children are adults.[^2]
 
-quality of life is a system, too. 
+quality of life is a system, too.
 
 good to be physically healthy
 poor and don't have access to education?
@@ -89,7 +91,7 @@ There are many definitions of sustainable development, including this landmark o
 "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs."
 
 — from the World Commission on Environment and Development’s
-(the Brundtland Commission) report Our Common Future 
+(the Brundtland Commission) report Our Common Future
 (Oxford: Oxford University Press, 1987).
 
 But what does this mean? What are the needs of the present? Take a minute and jot down five to ten needs that you have in your own life.
@@ -115,7 +117,7 @@ Going Further
 Explore some of the social, economic, and environmental challenges that are part of the sustainable development puzzle by working through the Learning Modules on this site. Delve into the issues that people around the world strive to balance when making often difficult decisions about development.
 
 
-Read More 
+Read More
 
 http://www.worldbank.org/en/topic/sustainabledevelopment
 
@@ -124,18 +126,17 @@ Sustainable development recognizes that growth must be both inclusive and enviro
 
 http://www.worldbank.org/en/topic/sustainabledevelopment/overview#1
 
-Over the past two decades, economic growth has lifted more than 660 million people out of poverty and has raised the income levels of millions more, but too often it has come at the expense of the environment and poor communities. 
+Over the past two decades, economic growth has lifted more than 660 million people out of poverty and has raised the income levels of millions more, but too often it has come at the expense of the environment and poor communities.
 
 Through a variety of market, policy, and institutional failures, Earth’s natural capital has been used in ways that are economically inefficient and wasteful, without sufﬁcient reckoning of the true costs of resource depletion. The burning of fossil fuels supported rapid growth for decades but set up dangerous consequences, with climate change today threatening to roll back decades of development progress. At the same time, growth patterns have left hundreds of millions of people behind: 1.2 billion still lack access to electricity, 870 million are malnourished, and 780 million are still without access to clean, safe drinking water.
 
 Sustainable development recognizes that growth must be both inclusive and environmentally sound to reduce poverty and build shared prosperity for today’s population and to continue to meet the needs of future generations. It is efficient with resources and carefully planned to deliver both immediate and long-term benefits for people, planet, and prosperity.
 
-The three pillars of sustainable development – economic growth, environmental stewardship, and social inclusion – carry across all sectors of development, from cities facing rapid urbanization to agriculture, infrastructure, energy development and use, water availability, and transportation. Cities are embracing low-carbon growth and public transportation. Farmers are picking up the practices of climate-smart agriculture. Countries are recognizing the value of their natural resources, and industries are realizing how much they can save through energy and supply chain efficiency. 
+The three pillars of sustainable development – economic growth, environmental stewardship, and social inclusion – carry across all sectors of development, from cities facing rapid urbanization to agriculture, infrastructure, energy development and use, water availability, and transportation. Cities are embracing low-carbon growth and public transportation. Farmers are picking up the practices of climate-smart agriculture. Countries are recognizing the value of their natural resources, and industries are realizing how much they can save through energy and supply chain efficiency.
 
-The question facing countries, cities, corporations, and development organizations today is not whether to embrace sustainable development but how. 
+The question facing countries, cities, corporations, and development organizations today is not whether to embrace sustainable development but how.
 
 
 ### References
 
 * CommDev. 2012. "Glossary of Terms." CommDev Website. Washington D.C.: International Finance Corporation. Available online at: http://commdev.org/glossary-terms [Accessed: 22 October 2013].
-

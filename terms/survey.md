@@ -1,9 +1,11 @@
+---
 title: survey
 date: 2005-10-13
 category: terminology
 tags: tools
 slug: survey
 summary: : a sampling, or partial collection, of facts, figures, or opinions
+---
 
 <!--
 icon: file-code-o

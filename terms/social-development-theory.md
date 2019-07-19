@@ -1,14 +1,16 @@
+---
 title: development-theory
 date:
 category: terminology
-tags: 
+tags:
 slug: development-theory
-summary: : 
+summary: :
 status: draft
+---
 
 <!--
 icon: file-code-o
-summary: 
+summary:
 -->
 <!--
 ---
@@ -23,7 +25,7 @@ published: false
 -->
 Social development theory
 
-social change is 
+social change is
 
 increasing awareness of social energies and skills and resources
 
@@ -33,6 +35,3 @@ leading to better organization that is able to harness the available social reso
 When society senses new and better opportunities for progress it develops new forms of organization to exploit these openings successfully.
 
 get the intended results.
-
-
-

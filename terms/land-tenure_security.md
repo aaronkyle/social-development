@@ -1,3 +1,4 @@
+---
 title: secure land tenure
 date: 2006-04-13
 category: terminology
@@ -5,6 +6,7 @@ tags: IFC
 slug: secure-land-tenure
 summary: : protection of resettled persons from forced evictions at resettlement sites
 status: draft
+---
 
 Protection of resettled persons from forced evictions at resettlement sites.
 

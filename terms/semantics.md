@@ -1,14 +1,16 @@
+---
 title: semantics
 date: 2006-12-19 17:31
 category: terminology
-tags: 
+tags:
 slug: semantics
-summary: : 
+summary: :
 status: draft
+---
 
 <!--
 icon: file-code-o
-summary: 
+summary:
 -->
 <!--
 layout: post
@@ -24,4 +26,3 @@ published: false
 "Semantics are the meanings that can be or are made."
 
 Charles Morris adds that semantics deals with the relation of signs to their designata and the objects that they may or do denote;
-

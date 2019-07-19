@@ -1,10 +1,12 @@
+---
 title: Strategic environmental and social assessment (SESA)
 date: 2014-04-18 18:40
 category: terminology
-tags: 
+tags:
 slug: SESA
-summary: : 
+summary: :
 status: draft
+---
 
 Strategic environmental and social assessment (SESA):  An instrument that describes analytical and participatory approaches that aim to integrate environmental and social considerations into policies, plans and programs and evaluate their inter linkages with economic considerations. The term "Strategic Environmental Assessment" or "SEA" may also be used.
 

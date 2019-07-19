@@ -1,9 +1,11 @@
+---
 title: meta-phenomenon
 date: 2010-09-11 02:05
 category: terminology
 tags: philosophy, linguistics
 slug: meta-phenomenon
 summary: : a high-level categorisation and grouping of facts, acts, ideas or locution [realized](# "Realisation refers to the way abstract levels of language are made more concrete. For example, context is realised through semantics and semantics is realized through lexicogrammar.") as [phenomena](# )
+---
 
 <!--
 icon: file-code-o

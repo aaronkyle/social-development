@@ -1,10 +1,12 @@
+---
 title: resident feedback panel
 date: 2013-11-23 01:00
 category: terminology
-tags: 
+tags:
 slug: resident-feedback-panel
 summary: :
 status: draft
+---
 
 
 
@@ -28,4 +30,3 @@ A resident feedback panel can involve a cross-selection of citizens, thus provid
 
 ==Citations==
 <references />
-

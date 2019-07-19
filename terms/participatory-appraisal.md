@@ -1,3 +1,4 @@
+---
 title: participatory appraisal
 date: 2006-10-06 04:21
 category: terminology
@@ -5,9 +6,10 @@ tags:
 slug: participatory-appraisal
 summary: : a community-based consultation method that prioritizes the views of local people and their active involvement in deciding what happens in their communities, or how what happens affects them.
 status: draft
+---
 
 
-[[Category:Methods]]
+
 '''Participatory Appraisal''' is a community-based consultation method that prioritizes the views of local people and their active involvement in deciding what happens in their communities, or how what happens affects them. It is increasingly used in policy formulation and practical development due to its reputation as a quick, cheap, simple and socially inclusive method of uncovering pertinent issues and needs within communities.
 
 Groups of people from a community are gathered together and discuss issues they feel are pertinent in the community. This is combined with the drawing up of visual maps, mind maps, charts and diagrams by the participants, which visually represent such issues as community needs, services, interactions between institutions, livelihood strategies and resources. This produces a range of data that can be analyzed both qualitatively and quantitatively, or be used directly.

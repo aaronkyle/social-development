@@ -1,9 +1,11 @@
+---
 title: stakeholders
 date: 2005-10-13
 category: terminology
 tags: actors
 slug: stakeholders
 summary: : all individuals and/or groups who can reasonably be expected to be affected by, or can affect project operations
+---
 
 <!--
 icon: file-code-o
@@ -19,4 +21,3 @@ stakeholders: Any individual or group with an interest (or ‘stake’) in the s
 ### References
 
 * World Bank. n.d. "[Social Analysis: Glossary of key terms](http://go.worldbank.org/HSXB13LCA0)". World Bank Website. Washington D.C.: The World Bank. Available online at: http://go.worldbank.org/HSXB13LCA0 <br /> [*Last Accessed* 22 October 2013].
-

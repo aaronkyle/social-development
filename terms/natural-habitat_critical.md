@@ -1,3 +1,4 @@
+---
 title: critical natural habitat
 date: 2006-10-28 13:04
 category: terminology
@@ -5,7 +6,7 @@ tags: World Bank,
 slug: critical-natural-habitat
 summary: :
 status: draft
-
+---
 
 Critical natural habitats are:
 

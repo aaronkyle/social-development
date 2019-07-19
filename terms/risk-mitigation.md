@@ -1,13 +1,15 @@
+---
 title: risk mitigation
 date:
 category: terminology
-tags: 
+tags:
 slug: risk-mitigation
 status: draft
+---
 
 <!--
 icon: file-code-o
-summary: 
+summary:
 -->
 
 

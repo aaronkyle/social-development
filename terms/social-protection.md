@@ -1,10 +1,12 @@
+---
 title: social protection
 date: 2005-10-22 09:51
 category: terminology
-tags: 
+tags:
 slug: social-protection
-summary: : 
+summary: :
 status: draft
+---
 
 ‘Social protection’ refers to policies and programs designed to reduce poverty and vulnerability by promoting efficient labor markets, diminishing people’s exposure to risks, and enhancing their capacity to protect themselves against hazards and interruption/loss of income.
 

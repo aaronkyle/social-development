@@ -1,3 +1,4 @@
+---
 title: land transaction (type-1) 
 date:
 category: terminology
@@ -5,6 +6,7 @@ tags:
 slug: land-transaction-type-1
 summary: :
 status: draft
+---
 
 <!--
 summary:

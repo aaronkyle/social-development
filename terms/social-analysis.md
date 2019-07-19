@@ -1,9 +1,11 @@
+---
 title: social analysis
 date: 2005-12-06
 category: terminology
 tags: meta-phenomenon, field of practice
 slug: social-analysis
 summary: : the practice of analyzing a situation or social issue, problem or trend through objective, systematic exploration&mdash;often with the aim of prompting change
+---
 
 <!---
 ---
@@ -24,7 +26,7 @@ Social issuse include such topics as cost of and access to healthcare, quality a
 
 <!--
 
-Social analysis aims to offer a critical and theoretical understanding of cultural, political, and social processes. Social analytiucal lines of inquiry are traditioonally organized around themes such as urbanization, commodification, movement of peoples, transnational exchange, identity formations, ethnic and disaporic cultures, production of human suffering, poverty, prejudice, etc. Study design and methodologies often draw upon a variety of different lines of analytical inquiry&mdash;both qualitative and quantitative. The practice of social analysis tends to be critical, empirical, and cross-disciplinary&mdash;incorporating critical methodologies and theoretical insights from such fields as social geography, feminism and queer studies, ethnic studies, critical race theory, labor studies, and cultural studies. Social analysis is often carried out by cooperative, multi-party research teams. 
+Social analysis aims to offer a critical and theoretical understanding of cultural, political, and social processes. Social analytiucal lines of inquiry are traditioonally organized around themes such as urbanization, commodification, movement of peoples, transnational exchange, identity formations, ethnic and disaporic cultures, production of human suffering, poverty, prejudice, etc. Study design and methodologies often draw upon a variety of different lines of analytical inquiry&mdash;both qualitative and quantitative. The practice of social analysis tends to be critical, empirical, and cross-disciplinary&mdash;incorporating critical methodologies and theoretical insights from such fields as social geography, feminism and queer studies, ethnic studies, critical race theory, labor studies, and cultural studies. Social analysis is often carried out by cooperative, multi-party research teams.
 
 Some of the lead theorists and practitions of social analysis challenge hegemonic paradigms through "grounded theory" and empirical research.
 
@@ -41,7 +43,7 @@ Understanding the social implications of projects and policies is critical in en
 
 Insight gained from combining social analysis techniques and CRM analytics can also help organizations create business strategies and policies that are sensitive to particular social issues and likely to be perceived by customers as having a positive social impact.
 
-For example, after discovering through analysis of a customer survey that increased efforts to develop renewable energy would be viewed in a positive light, an oil company might decide to expand its investments in biogas, geothermal energy and solar power research. 
+For example, after discovering through analysis of a customer survey that increased efforts to develop renewable energy would be viewed in a positive light, an oil company might decide to expand its investments in biogas, geothermal energy and solar power research.
 
 
 
@@ -101,7 +103,7 @@ For further information on lessons learned and good practices, see the Social De
 
 Social analysis enables the World Bank to assess whether a proposed program or operation is likely to meet its social objectives and to recommend measures that will ensure that these objectives are met.
 
-Social analysis involves examining the socio-cultural, institutional, historical and political context of Bank financed operations, as well as analyzing stakeholder views and priorities, and including as many relevant stakeholders as feasible in the development process. 
+Social analysis involves examining the socio-cultural, institutional, historical and political context of Bank financed operations, as well as analyzing stakeholder views and priorities, and including as many relevant stakeholders as feasible in the development process.
 
 In collaboration with regional departments and networks of the World Bank, the Social Development Department (SDV) through the Social Analysis and Policy Thematic Group, works to mainstream social analysis within Bank operations, both at the project and macro level, by developing standards and disseminating good practices for social analysis and policy issues:
 
@@ -132,7 +134,7 @@ At the World Bank, social analysis is undertaken on multiple levels.  The World 
 
 #### Notes and Citations:
 
-[^1]: 
+[^1]:
 searchbusinessanalytics. "social analysis." techtarget
 http://searchbusinessanalytics.techtarget.com/definition/social-analysis
 
@@ -155,4 +157,3 @@ World Bank. Social Analysis.[Home > Topics > Social Development > Social Analysi
 [Social Analysis in the Urban Sector: A Guidance Note](http://siteresources.worldbank.org/EXTSOCIALDEVELOPMENT/Resources/244362-1164107274725/3182370-1164107324437/Social_Analysis_in_the_Urban_Sector.pdf?resourceurlname=Social_Analysis_in_the_Urban_Sector.pdf)
 
 -->
-

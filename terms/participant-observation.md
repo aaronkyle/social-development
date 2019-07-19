@@ -1,3 +1,4 @@
+---
 title: participant observation
 date: 2006-02-08 11:33
 category: terminology
@@ -5,6 +6,7 @@ tags:
 slug: participant-observation
 summary: : 
 status: draft
+---
 
 
 **Participant Observation** is a method widely used by anthropologists. It typically requires the researcher to get involved in the kinds of social activities, events, and networks that are central to people’s lives and experiences, in an attempt to see and understand the world through their eyes. It involves both participating in the community or activity, and observing the participation of others.<ref name="Payne et. al 2004">Payne, Geoffrey; Majale, Michael (eds). 2004. ''The Urban Housing Manual: Making Regulatory Frameworks Work for the Poor.'' London: Earthscan.</ref>

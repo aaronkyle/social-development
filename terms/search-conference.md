@@ -1,9 +1,11 @@
+---
 title: search conference
 date: 2013-11-20 01:00
 category: terminology
 slug: search-conference
 summary: :
 status: draft
+---
 
 A '''Search Conference''' is a conference organized by the project operator where issues pertaining to the project in question are discussed, particularly in connection with a mutually envisioned goal or desired outcome for the project. Participants are recruited through a 'snowballing' method: practitioners ask around to identify the experts in a particular field, and recruits them based on the strengths they will bring to the process.
 

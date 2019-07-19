@@ -1,9 +1,11 @@
+---
 title: natural habitat
 date: 2006-02-07 14:34
 category: terminology
 tags: safeguards, ADB, World Bank,
 slug: natural-habitat
 summary: : land and water areas where the biological communities are formed largely by native plant and animal species, and where human activity has not essentially modified the area’s primary ecological functions.
+---
 
 The term **natural habitat** refers to land and water areas where (i) the ecosystems' biological communities are formed largely by native plant and animal species, and (ii) human activity has not essentially modified the area's primary ecological functions.
 

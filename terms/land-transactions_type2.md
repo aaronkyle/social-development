@@ -1,9 +1,11 @@
+---
 title: land transaction (type-2)
 date:
 category: terminology
 tags: IFC, IFC PS5,
 slug: land-transaction-type-2
 status: draft
+---
 
 <!--
 summary:

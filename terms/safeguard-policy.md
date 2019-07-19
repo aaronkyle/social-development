@@ -2,15 +2,13 @@
 title: safeguard policy
 date: 2005-12-06 08:08:19
 category: terminology
+tags: info, faq
 slug: safeguard-policy
 summary: : policies intended to prevent and mitigate undue harm to people and their environment in the development process
 ---
 
-
 <!--
-tags: info, faq
 icon: file-code-o
-summary: 
 -->
 
 <!--
@@ -30,13 +28,13 @@ comments: true
 
 <!--
 
-=== Safeguard Policies and Performance Standards === 
+=== Safeguard Policies and Performance Standards ===
 
 ''Adapted from'': http://www.brettonwoodsproject.org/art-565324
 
 Starting as a loose assembly of internal staff policies adopted by international financial institutions in the 1980s, safeguard policies are framework declarations of explicitly-defined lending requirements to protect people and the environment from the adverse effects of project operations and development initiatives. The World Bank (IBRD and IDA), Asian Development Bank, African Development Bank, and Inter-American Development Bank all currently have such Safeguard Policies in place for investment projects and programme lending (although not for development policy lending (DPL) or reform programmes, which have separate relevant policies; see Update 66).  The Performance Standards of the International Financial Corporation (adopted as the basis of the Equator Principles) and European Bank of Reconstruction and Development can also be considered to be “safeguard policies” [DIFFER ; (see Update 67).]
 
-The safeguards consist of ten key environmental and social policies that set standards and procedures that the borrower and Bank must follow in the lead up to and during World Bank-financed projects. 
+The safeguards consist of ten key environmental and social policies that set standards and procedures that the borrower and Bank must follow in the lead up to and during World Bank-financed projects.
 
 The ten safeguards are:
 
@@ -63,7 +61,7 @@ The [http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/pol_PerformanceStan
 * PS 7:	Indigenous Peoples
 * PS 8:	Cultural Heritage
 
-Prior to financing, a proposed project is subject to a social and environmental review during which potential impacts are identified and remediation measures proposed. In reviewing the potential impact of projects, the World Bank and the IFC use a categorisation system that identifies which safeguards are triggered and what level of action or precaution must be taken. 
+Prior to financing, a proposed project is subject to a social and environmental review during which potential impacts are identified and remediation measures proposed. In reviewing the potential impact of projects, the World Bank and the IFC use a categorisation system that identifies which safeguards are triggered and what level of action or precaution must be taken.
 
 Projects are rated from category A, the highest risk, down to category C, the lowest.
 
@@ -224,9 +222,9 @@ The final step is to evaluate the environmental and social issues at project com
 
 <!--
 title: safeguard policy
-date: 
+date:
 category: terminology
-tags: 
+tags:
 slug: safeguard-policy
 summary: :
 status: draft
@@ -242,7 +240,7 @@ Safeguard Policies
 
 Starting as a loose assembly of internal staff policies adopted by international financial institutions in the 1980s, safeguard policies are framework declarations of explicitly-defined lending requirements to protect people and the environment from the adverse effects of project operations and development initiatives. The World Bank (IBRD and IDA), Asian Development Bank, African Development Bank, and Inter-American Development Bank all currently have such Safeguard Policies in place for investment projects and programme lending (although not for development policy lending (DPL) or reform programmes, which have separate relevant policies; see Update 66).  The Performance Standards of the International Financial Corporation (adopted as the basis of the Equator Principles) and European Bank of Reconstruction and Development can also be considered to be “safeguard policies” [DIFFER ; (see Update 67).]
 
-The safeguards consist of ten key environmental and social policies that set standards and procedures that the borrower and Bank must follow in the lead up to and during World Bank-financed projects. 
+The safeguards consist of ten key environmental and social policies that set standards and procedures that the borrower and Bank must follow in the lead up to and during World Bank-financed projects.
 
 The ten safeguards are:
 
@@ -269,7 +267,7 @@ The [http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/pol_PerformanceStan
 * PS 7:	Indigenous Peoples
 * PS 8:	Cultural Heritage
 
-Prior to financing, a proposed project is subject to a social and environmental review during which potential impacts are identified and remediation measures proposed. In reviewing the potential impact of projects, the World Bank and the IFC use a categorisation system that identifies which safeguards are triggered and what level of action or precaution must be taken. 
+Prior to financing, a proposed project is subject to a social and environmental review during which potential impacts are identified and remediation measures proposed. In reviewing the potential impact of projects, the World Bank and the IFC use a categorisation system that identifies which safeguards are triggered and what level of action or precaution must be taken.
 
 Projects are rated from category A, the highest risk, down to category C, the lowest.
 

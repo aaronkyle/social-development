@@ -1,10 +1,12 @@
+---
 title: problem-opportunity-threat matching
-date: 
+date:
 category: terminology
-tags: 
+tags:
 slug: problem-opportunity-threat-matching
-summary: : 
+summary: :
 status: draft
+---
 
 {{CreateSilentAnnotations:}}
 [[Category: Methods]]
@@ -13,4 +15,3 @@ status: draft
 
 ==Citations==
 <references />
-

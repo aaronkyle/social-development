@@ -1,14 +1,16 @@
+---
 title: sacred sites
 date: 2005-10-20 03:38
 category: terminology
-tags: 
+tags:
 slug: sacred-sites
 summary: :
 status: draft
+---
 
 <!--
 icon: file-code-o
-summary: 
+summary:
 -->
 
 ---
@@ -207,4 +209,3 @@ http://www.serageldin.com/Attachment/KZUuNhbs8r_20150209155227613.pdf
 
 
 -->
-

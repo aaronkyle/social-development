@@ -1,9 +1,11 @@
+---
 title:stakeholder analysis
 date: 2005-12-06
 category: terminology
 tags: development, stakeholder analysis
 slug: stakeholder-analysis
 summary: : a technique to identify and assess the importance and interests of key people, groups, or institutions usually in relation to specific policies, programmes or communities
+---
 
 
 <!---
@@ -47,7 +49,7 @@ Examples of questions to be asked when undertaking an institutional or stakehold
 
 Stakeholder analysis is also helpful in understanding and predicting site-level risks and opportunities for communities when crafting an optimal portfolio of community investment.[FN^1](http://commdev.org/userfiles/SRMining%20Veronica%20Nyhan%20Jones,%20Jelena%20Lukic,%20Arjun%20Bhalla,%20Dafna%20Tapiero%20-%20July%2015.pdf) It draws on the company’s existing analysis of project-induced risks and benefits-sharing opportunities. Stakeholder analysis allows project managers to nuance their engagement with specific stakeholder groups. For example, when investigation options for urban housing, stakeholder analysis may involve differenating between categories of land tenure and home ownership, such as owners, renters and the homeless. Other potential stakeholders for an urban development initiative are regulators and officials, housing developers and suppliers, professionals such as architects and lawyers, local and national politicians, finance and credit institutions and representatives of NGOs and CBOs.
 
-Project managers can perform on-going analysis of stakeholder groups to identify any that may not be unintentionally excluded from benefits-sharing initiatives or to identify potential conflicts of interest for a proposed investment scheme. When managers are seeking to implement change or to initiate an activity, stakeholder analysis can help to identify ‘champions of change’, groups who might resist change, and even useful commonalities of interest to build on when negotiating and selecting social development inititatives. 
+Project managers can perform on-going analysis of stakeholder groups to identify any that may not be unintentionally excluded from benefits-sharing initiatives or to identify potential conflicts of interest for a proposed investment scheme. When managers are seeking to implement change or to initiate an activity, stakeholder analysis can help to identify ‘champions of change’, groups who might resist change, and even useful commonalities of interest to build on when negotiating and selecting social development inititatives.
 
 <!--
 
@@ -60,7 +62,7 @@ http://commdev.org/userfiles/SRMining%20Veronica%20Nyhan%20Jones,%20Jelena%20Luk
 
 * Evelyn Tehrani, Geoffrey Payne and Associates, UK Further Reading Borrini-Feyerabend, G., and Brown, M. "Social actors and stake-holders," IUCN World Conservation, Social Policy Programme, Beyond Fences: Seeking Social Sustainability in Conservation, Section 4. Concept files, <a href="http://www.iucn.org/themes/spg/beyond_fences/bf_section4_1.html">http://www.iucn.org/themes/spg/beyond_fences/bf_section4_1.html</a>
 
-* Borrini- Feyerabend, G., Farvar, M. T., Nguinguiri, J. C. & Ndangang, V. A., (2000) Co-management of Natural Resources: Organising, Negotiating and Learning-by-Doing, GTZ and IUCN, Kasparek Verlag, Heidelberg, Germany <a href="http://nrm.massey.ac.nz/changelinks/cmnr.html">http://nrm.massey.ac.nz/changelinks/cmnr.html</a> 
+* Borrini- Feyerabend, G., Farvar, M. T., Nguinguiri, J. C. & Ndangang, V. A., (2000) Co-management of Natural Resources: Organising, Negotiating and Learning-by-Doing, GTZ and IUCN, Kasparek Verlag, Heidelberg, Germany <a href="http://nrm.massey.ac.nz/changelinks/cmnr.html">http://nrm.massey.ac.nz/changelinks/cmnr.html</a>
 
 * Brocklesby, M., Ambrose, B. and Tekwe Charles, "Developing participatory forest management: the user group analysis on Mount Cameroon," <a href="http://www.earthwatch.org/europe/limbe/particmgmt.html#Heading126">http://www.earthwatch.org/europe/limbe/particmgmt.html#Heading126</a>
 
@@ -78,7 +80,7 @@ http://commdev.org/userfiles/SRMining%20Veronica%20Nyhan%20Jones,%20Jelena%20Luk
 
 * ODI (1996) "Socio-Economic Methods In Natural Resources Research," compiled by John Farrington, Natural Resource Perspectives 9, Overseas Development Institute <a href="http://www.odi.org.uk/nrp/9.html">http://www.odi.org.uk/nrp/9.html</a>
 
-* Oudman, R., Vos, A.M. and J. Biesboer (1998) "Stakeholder Analysis: A Review," Centre de Recherche en Informatique, Université de Paris. <a href="http://panoramix.univ-paris1.fr/CRINFO/dmrg/MEE98/misop001/Background&context.html">http://panoramix.univ-paris1.fr/CRINFO/dmrg/MEE98/misop001/Background&context.html<a> 
+* Oudman, R., Vos, A.M. and J. Biesboer (1998) "Stakeholder Analysis: A Review," Centre de Recherche en Informatique, Université de Paris. <a href="http://panoramix.univ-paris1.fr/CRINFO/dmrg/MEE98/misop001/Background&context.html">http://panoramix.univ-paris1.fr/CRINFO/dmrg/MEE98/misop001/Background&context.html<a>
 
 * Pasteur, K. (2001) Tools for Sustainable Livelihoods: Policy Analysis. Institute of Development Studies, Sussex. World Bank Group PRS (Poverty Reduction Strategy), "TN 5: Conducting a Stakeholder Analysis," <a href="http://www.worldbank.org/participation/tn5.htm.&nbsp">http://www.worldbank.org/participation/tn5.htm.&nbsp</a>;
 
@@ -97,4 +99,3 @@ http://commdev.org/userfiles/SRMining%20Veronica%20Nyhan%20Jones,%20Jelena%20Luk
 http://ctb.ku.edu/en/table-of-contents/participation/encouraging-involvement/identify-stakeholders/main
 * Stakeholder Analysis: Winning Support for Your Projects http://www.mindtools.com/pages/article/newPPM_07.htm
 -->
-

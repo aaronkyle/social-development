@@ -1,3 +1,4 @@
+---
 title: supranational law
 date:
 category: terminology
@@ -5,6 +6,7 @@ tags:
 slug: supranational-law
 summary: : 
 status: draft
+---
 
 Supranational law is a form of international law, based on the limitation of the rights of sovereign nations between one another. It is distinguished from public international law, which involves the United Nations, the Geneva conventions, or the Law of the Sea, because in supranational law, nations explicitly submit their right to make judicial decisions to a set of common institutions.
 

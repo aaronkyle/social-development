@@ -1,3 +1,4 @@
+---
 title: semiotics
 date:
 category: terminology
@@ -5,10 +6,11 @@ tags: philosophy, linguistics
 slug: semiotics
 summary: : the study of how meaning is made through the interpretation of signs, symbols, and signification, such as in the processes of indication, designation, likeness, analogy, metaphor, symbolism, signification, and communication.
 status: draft
+---
 
 <!--
 icon: file-code-o
-summary: 
+summary:
 -->
 <!--
 layout: post
@@ -111,22 +113,22 @@ http://csmt.uchicago.edu/glossary2004/semiotics.htm
 
 semiotics
 
-What is semiotics in light of today’s theories of media? Instead of asking ‘what semiotics means in today’s media study,’ this opening question reveal the complexity and ambiguity of how semiotics and the generation of meaning are deployed in contemporary theories of media. Semiotics, the term itself directs to complex theories of signs and/or an array of disciplines mostly pertaining to logic, linguistics, and representational art, is used as a theoretical and/or analytical tool for contemporary media studies. Today, the problem of using semiotics as theoretical/analytical tool for media studies is that the term itself has aroused debates on its linguistic and non-linguistic natures in relation to its usage in media studies. This theoretical skepticism of semiotics echoes the debate on “Word and Image” within media studies, which denotes the over-generalization on medium specificity and purity. On one hand, there are optimistic art historians such as Mieke Bal and Norman Bryson who think semiotics’s transdisciplinary nature is the answer to avoiding the privileging of language when conducting cross-disciplinary studies. [1] On the other hand, scholars challenge semiotics’ potential in achieving “neutrality in the metalanguages of representation.” [2] Since this entry is meant to be an introductory reference for the term ‘semiotics,’ I will try to point out the key traits in the terms’ historical usage, its innate oscillation between linguistic and non-linguistic, and some theoretical usage it has laid for studies of representations with understandable abbreviation. 
+What is semiotics in light of today’s theories of media? Instead of asking ‘what semiotics means in today’s media study,’ this opening question reveal the complexity and ambiguity of how semiotics and the generation of meaning are deployed in contemporary theories of media. Semiotics, the term itself directs to complex theories of signs and/or an array of disciplines mostly pertaining to logic, linguistics, and representational art, is used as a theoretical and/or analytical tool for contemporary media studies. Today, the problem of using semiotics as theoretical/analytical tool for media studies is that the term itself has aroused debates on its linguistic and non-linguistic natures in relation to its usage in media studies. This theoretical skepticism of semiotics echoes the debate on “Word and Image” within media studies, which denotes the over-generalization on medium specificity and purity. On one hand, there are optimistic art historians such as Mieke Bal and Norman Bryson who think semiotics’s transdisciplinary nature is the answer to avoiding the privileging of language when conducting cross-disciplinary studies. [1] On the other hand, scholars challenge semiotics’ potential in achieving “neutrality in the metalanguages of representation.” [2] Since this entry is meant to be an introductory reference for the term ‘semiotics,’ I will try to point out the key traits in the terms’ historical usage, its innate oscillation between linguistic and non-linguistic, and some theoretical usage it has laid for studies of representations with understandable abbreviation.
 
-By tracing the early appearance of the term ‘semiotics,’ the labor already points to the term’s interdisciplinary nature. According to the Oxford English Dictionary (OED), semiotics concerns with 1) “the branch of medical science relating to the interpretation of symptoms” and 2) “the science of communication studied through the interpretation of signs and symbols as they operate in various fields, esp. language.” [3] OED’s first traceable appearance of the term is in early Enlightenment physician and philosopher Henry Stubbe’s The Plus ultra reduced to a nonplus, or a specimen of some animadversions upon the Plus ultra of Mr. Glanvill (1670), which indicates that semiotics is “method of curing, and tried…medicines.” [4] However, at this stage, the terms ‘semiotics’ and ‘semiotic’ [3] (i.e. without the ‘s’) are interchangeable, and while both terms have their implication about the medical study of symptoms, ‘semiotic’ points to the study of signs when it appears in John Locke’s An essay concerning humane understanding (1690) to indicate “the Doctrine of Signs.” [5] While this early account of semiotic(s) already shows the dual genealogies—that of medical symptom and doctrine of signs—the contemporary usage nevertheless continues the term’s dual pedigrees. 
+By tracing the early appearance of the term ‘semiotics,’ the labor already points to the term’s interdisciplinary nature. According to the Oxford English Dictionary (OED), semiotics concerns with 1) “the branch of medical science relating to the interpretation of symptoms” and 2) “the science of communication studied through the interpretation of signs and symbols as they operate in various fields, esp. language.” [3] OED’s first traceable appearance of the term is in early Enlightenment physician and philosopher Henry Stubbe’s The Plus ultra reduced to a nonplus, or a specimen of some animadversions upon the Plus ultra of Mr. Glanvill (1670), which indicates that semiotics is “method of curing, and tried…medicines.” [4] However, at this stage, the terms ‘semiotics’ and ‘semiotic’ [3] (i.e. without the ‘s’) are interchangeable, and while both terms have their implication about the medical study of symptoms, ‘semiotic’ points to the study of signs when it appears in John Locke’s An essay concerning humane understanding (1690) to indicate “the Doctrine of Signs.” [5] While this early account of semiotic(s) already shows the dual genealogies—that of medical symptom and doctrine of signs—the contemporary usage nevertheless continues the term’s dual pedigrees.
 
-The contemporary usage of the term is the pedigree of semiotics and semiology, or the American and European traditions about theories of sign and how meaning is generated in relation to signs. Two founders of major contemporary sign theories are the American logician/philosopher Charles Sanders Peirce (C.S. Peirce, 1839-1914) and the Swiss linguist Ferdinand de Saussure (1857-1913). Each places different focuses on how meaning is produced by signs, and both, with their successors, have their oscillations between the semiotic/semiology’s linguistic and nonlinguistic implications. [5] 
+The contemporary usage of the term is the pedigree of semiotics and semiology, or the American and European traditions about theories of sign and how meaning is generated in relation to signs. Two founders of major contemporary sign theories are the American logician/philosopher Charles Sanders Peirce (C.S. Peirce, 1839-1914) and the Swiss linguist Ferdinand de Saussure (1857-1913). Each places different focuses on how meaning is produced by signs, and both, with their successors, have their oscillations between the semiotic/semiology’s linguistic and nonlinguistic implications. [5]
 
-C.S. Peirce [6] uses the term semiotic as a synonym for logic, which is the name for the “formal, doctrine of signs”. [7] For Peirce, semiotics is composed of triadic structures, which in terms conveys the interdependent relationships between elements of triads. Peirce’s semiotics is foremost composed by sign-interpretant-object triadic relations. 
+C.S. Peirce [6] uses the term semiotic as a synonym for logic, which is the name for the “formal, doctrine of signs”. [7] For Peirce, semiotics is composed of triadic structures, which in terms conveys the interdependent relationships between elements of triads. Peirce’s semiotics is foremost composed by sign-interpretant-object triadic relations.
 
 
 [8]
 
-A sign, said Peirce, is “something which stands to somebody for something in some respect or capacity.” [9] The sign creates another sign in the mind of that ‘somebody,’ and this another sign is the interpretant of the first sign. Interpretant is not a person; rather, it is somehow similar to Saussure’s signified, i.e. interpretant is the mental concept elicited in somebody’s mind. The object is the something that the sign stands for, or the external reality of the sign. SCHOOL (sign) may refer to the physical buildings in which student learns (object), but SCHOOL may not be the sign if it does not cause a mental concept (interpretant) when the person perceives SCHOOL. One very important note on Peirce’s semiotic is that even though I use SCHOOL as an example for a sign, Peirce’s triadic sign structure does not limit to linguistic tradition. In fact, Peirce’s semiotic, and later in Nelson Goodman’s Languages of Art [10], may be seen as an early account on what W. J. T. Mitchell proposes as the “pictorial turn” on the history of philosophy because their semiotics draws largely on nonlinguistic sign system and, contrary to Saussure, do not assume that “language is paradigmatic for meaning.” [11] Instead, Peirce emphasizes the dynamic relations between sign, interpretant, and object, which lead to the process of signification, or semiosis. As Bal and Bryson indicates, “[semiosis] involves the production and the interpretation of signs, both equally fundamental …[and] provides a logical basis for a reader- or reception-oriented theory of art.” [12] Consequently, in light of semiosis, the generating of meanings is not the transmission of messages (which concerns with how messages transmit from sender to receiver), i.e. not as the linear model of how message is transmitted, but the structural model of how meaning is created. How meaning is generated therefore puts emphases on three aspects: the sign itself, the code or the systems into which signs are organized, and the context/culture into which these codes and signs operate. [13] 
+A sign, said Peirce, is “something which stands to somebody for something in some respect or capacity.” [9] The sign creates another sign in the mind of that ‘somebody,’ and this another sign is the interpretant of the first sign. Interpretant is not a person; rather, it is somehow similar to Saussure’s signified, i.e. interpretant is the mental concept elicited in somebody’s mind. The object is the something that the sign stands for, or the external reality of the sign. SCHOOL (sign) may refer to the physical buildings in which student learns (object), but SCHOOL may not be the sign if it does not cause a mental concept (interpretant) when the person perceives SCHOOL. One very important note on Peirce’s semiotic is that even though I use SCHOOL as an example for a sign, Peirce’s triadic sign structure does not limit to linguistic tradition. In fact, Peirce’s semiotic, and later in Nelson Goodman’s Languages of Art [10], may be seen as an early account on what W. J. T. Mitchell proposes as the “pictorial turn” on the history of philosophy because their semiotics draws largely on nonlinguistic sign system and, contrary to Saussure, do not assume that “language is paradigmatic for meaning.” [11] Instead, Peirce emphasizes the dynamic relations between sign, interpretant, and object, which lead to the process of signification, or semiosis. As Bal and Bryson indicates, “[semiosis] involves the production and the interpretation of signs, both equally fundamental …[and] provides a logical basis for a reader- or reception-oriented theory of art.” [12] Consequently, in light of semiosis, the generating of meanings is not the transmission of messages (which concerns with how messages transmit from sender to receiver), i.e. not as the linear model of how message is transmitted, but the structural model of how meaning is created. How meaning is generated therefore puts emphases on three aspects: the sign itself, the code or the systems into which signs are organized, and the context/culture into which these codes and signs operate. [13]
 
 Contemporary to Peirce but coming from the linguistic side, Ferdinand de Saussure uses the term semiology to describe the study of signs. In Course in General Linguistics Saussure writes, semiology is “a science which would study the life of signs within society… We call it semiology, from the Greek semeion (‘sign’).” [14] Similar to Peirce, Saussure’s model on sign is structural. However, unlike Peirce’s triadic structure, Saussure’s system of sign is dyadic. For Saussure, a sign is made up with two parts: the signified and the signifier. The signifier is the physical existence of the sign, and the signified is the mental concept of the sign as we perceive it. The classic example of the word ARBOR being the signifier and the signified is the mental concept appeared in the reader’s mind when the reader sees the ARBOR. Combining the physical word ARBOR and the mental-concept-in-reader’s-mind, we have a sign. Here, it is important to repeat that a sign always has two parts: the signifier and the signified. We could not say that ARBOR itself is a sign if the word does not elicit any mental concept in the beholder’s mind. Therefore, the relationship between the signified and the signifier is very important, yet arbitrary. To say that the relationship between the signified and the signifier is arbitrary is to say that the relationship is largely determined by the culture and/or context in which signs are used. Thus, for Saussure, in order to understand how language functions, we must “set to one side both the aspects of historical change within particular languages over time and actual utterances or performances of language in local situations.” [15]
 
-While Saussure’s paradigm of sign is primarily linguistic, one of his successors, Roland Barthes takes a shift to include image in his system of signs when he employed the triadic structure of “Image-Music-Text,” which structurally echoes Aristotle’s melos-opsis-lexis and Peirce’s icon-index-symbol. At this, the seemingly distinctive linguistic/nonlinguistic paradigms in Saussure and Peirce seem to converge for a moment when the systems of sign are no longer separated by the paradigms of “word and image,” but at the same time a new divergence has appeared according to how signs are classified. While Barthes does not have an urgent agenda to press for medium specificity as Clement Greenberg has done, he tries to distinctly separate music, image, and text as belongs to separate sign systems. [16] However, as W.J.T. Mitchell argues in “Word and Image,” it is impossible to separate image and text when discussing the constructed relationship between representation and reality but rather to look at divides of mediums as symptoms of larger social constructs. [17] 
+While Saussure’s paradigm of sign is primarily linguistic, one of his successors, Roland Barthes takes a shift to include image in his system of signs when he employed the triadic structure of “Image-Music-Text,” which structurally echoes Aristotle’s melos-opsis-lexis and Peirce’s icon-index-symbol. At this, the seemingly distinctive linguistic/nonlinguistic paradigms in Saussure and Peirce seem to converge for a moment when the systems of sign are no longer separated by the paradigms of “word and image,” but at the same time a new divergence has appeared according to how signs are classified. While Barthes does not have an urgent agenda to press for medium specificity as Clement Greenberg has done, he tries to distinctly separate music, image, and text as belongs to separate sign systems. [16] However, as W.J.T. Mitchell argues in “Word and Image,” it is impossible to separate image and text when discussing the constructed relationship between representation and reality but rather to look at divides of mediums as symptoms of larger social constructs. [17]
 
 Recall that Peirce’s semiosis, or the process in which signs generate meaning, is a reader-oriented theory which depends largely on the context/culture. Peirce’s trichotomies of sign— icon-index-symbol— which is classified according to the degree of relation between the sign to object, [18] does provide more freedom than Barthes’ separation of medium according to form.
 
@@ -134,87 +136,87 @@ Recall that Peirce’s semiosis, or the process in which signs generate meaning,
 
 [19]
 
-For instance, Rosalind Krauss’ influential essays on index and seventies’ American art not only provide an attempt to discuss Peirce’s emphasis that the real and existential relation between index and object is indispensable yet does not confine to reality, that the index and its meaning comes within the image itself. [20] 
+For instance, Rosalind Krauss’ influential essays on index and seventies’ American art not only provide an attempt to discuss Peirce’s emphasis that the real and existential relation between index and object is indispensable yet does not confine to reality, that the index and its meaning comes within the image itself. [20]
 
-In conclusion, contemporary theories of media utilizes semiotics as a tool, but it is still unsettled whether semiotics is a “neutral transdisciplinary theory” as Bal and Bryson have proposed, or as Mitchell have responded that semiotics is “a host of new figures or theoretical pictures that must themselves be interpreted.” [21] Perhaps this unsettlement will lead us to consider semiotics itself as a medium, in which the material practices generated by sign may produce a larger picture of the society. Until then, as W. J. T. Mitchell proposes, we might try to taxonomize different mediums according to their distinct sensory and semiotic ratios. [22] 
-
-
+In conclusion, contemporary theories of media utilizes semiotics as a tool, but it is still unsettled whether semiotics is a “neutral transdisciplinary theory” as Bal and Bryson have proposed, or as Mitchell have responded that semiotics is “a host of new figures or theoretical pictures that must themselves be interpreted.” [21] Perhaps this unsettlement will lead us to consider semiotics itself as a medium, in which the material practices generated by sign may produce a larger picture of the society. Until then, as W. J. T. Mitchell proposes, we might try to taxonomize different mediums according to their distinct sensory and semiotic ratios. [22]
 
 
-1. See Mieke Bal and Norman Bryson, "Semiotics and Art History," [http://links.jstor.org/sici?sici=0004 -3079%28199106% 2973%3A2%3C174% 3ASAAH%3E2.0.CO% 3B2-8]", Art Bulletin 73, no. 2 (Jun., 1991): 174-208, (accessed Feb., 2007). 
-
-2. See W.J.T. Mitchell’s Picture Theory, (Chicago: The University of Chicago Press, 1994), especially the chapter “Beyond Comparison”, p.83-107, which addresses the visual and the verbal. 
-
-3. “Semiotics [http://dictionary.oed.com/cgi/entry/ 50219526?single=1&query _type=word&queryword= semiotics&first=1&max _to_show=10]”, The Oxford English Dictionary Online, (accessed Jan. 2007). 
-
-4. Ibid. 
-
-5. “Semiotic [http://dictionary.oed.com/cgi/entry/ 50219524?single=1&query_type =word&queryword=semiotic&first =1&max_to_show=10]”, The Oxford English Dictionary Online, (accessed Jan. 2007). 
-
-6. For a brief summary on how the theories of Peirce and de Saussure works in the realms of art, see “semiotics [http://www.groveart.com/shared/ views/article.html?from= search&session_search_id= 910441891&hitnum=1 §ion=art.077528]”, Grove Art Online [http://www.groveart.com/index.html], (accessed Feb. 2007). 
-
-7. Peirce’s complex logical system of signs is out of the scope of this reference essay. However, for a systematic yet quick guide to how semiotic influence the so-called visual art, see Mieke Bal and Norman Bryson, "Semiotics and Art History [http://links.jstor.org/ sici?sici=0004- 3079%28199106 %2973%3A2%3C174% 3ASAAH%3E2.0. CO%3B2-8]", Art Bulletin 73, no. 2 (Jun., 1991): 174-208, (accessed Feb., 2007), especially section 4 (On Peirce, p188-191) and section 5 (on de Saussure, p.191-195). 
-
-8. The original figure comes from John Fiske, Introduction to Communication Studies, Second Edition, (London and New York: Routledge, 1990), p.42. The figure was called “Peirce’s elements of meaning.” For purpose of coherence and clarity, I re-named the figure. 
-
-9. See C. S. Peirce, "Logic as Semiotic: The Theory of Signs," in Philosophical Writings of Peirce, ed. by Justus Buchler, (New York: Dover Publications. INC), p.99. 
-
-10. For a summary on Nelson Goodman and discussion on aesthetics, see “Goodman’s Aesthetics [http://plato.stanford.edu/ entries/goodman-aesthetics/]”, Stanford Encyclopedia of Philosophy [http://plato. stanford.edu/], (accessed Feb. 2007). 
-
-11. The quote is from W.J.T. Mitchell’s “The Pictorial Turn” in Picture Theory, (Chicago: The University of Chicago Press, 1994), p.12. For a detailed discussion on the “pictorial turn,” see also “The Pictorial Turn” in Picture Theory, p.11-34. For discussions on Nelson Goodman’s theory of representation, see Mitchell’s “Realism, Irrealism, And Ideology: After Nelson Goodman,” also in Picture Theory, p. 345-362; also Mitchell’s “Pictures and Paragraphs: Nelson Goodman and the Grammar of Difference,” in Iconology (Chicago: The University of Chicago Press, 1986), p.53-47. 
-
-12. Mieke Bal and Norman Bryson, "Semiotics and Art History [http://links.jstor.org/ sici?sici=0004-3079% 28199106% 2973%3A2%3C174% 3ASAAH%3E2. 0.CO%3B2-8]", p.188. 
-
-13. Fiske, Introduction to Communication Studies, p.40. 
-
-14. Ibid., p.51. 
-
-15. Mieke Bal and Norman Bryson, "Semiotics and Art History [http://links.jstor.org/ sici?sici=0004-3079% 28199106%2973% 3A2%3C174% 3ASAAH%3E2.0.CO% 3B2-8]", p.191. 
-
-16. For a summary on the triadic tradition, see Vanessa Chang “melos, opsis, lexis [http://csmt.uchicago.edu/glossary2004/ melosopsislexis.htm]”, The University of Chicago: Theories of Media: Keyword Glossary [http://csmt.uchicago.edu/ glossary2004/navigation.htm] (University of Chicago, 2004), (accessed Jan. 2007). 
-
-17. See Mitchell’s "Word and Image" in Critical Terms for Art History. ed. Robert S. Nelson and Richard Shiff. (Chicago: The University of Chicago Press, 2003), p. 47-57. 
-
-18. A more elaborated yet comprehensive entry on Peirce’s icon-index-symbol trichotomies can be found at the link provided in text. Drew Huening, “Symbol, Index, Icon [http://csmt.uchicago.edu/glossary2004/ navigation.htm]”, The University of Chicago: Theories of Media: Keyword Glossary [http://csmt.uchicago.edu/glossary2004/ navigation.htm] (University of Chicago, 2004), (accessed Jan. 2007). 
-
-19. The original figure comes from John Fiske, Introduction to Communication Studies, p.47. The figure was called “Peirce’s categories of sign-types.” For purpose of coherence and clarity, I re-named the figure. 
-
-20. Rosalind Krauss, “Notes on the Index: Seventies Art in America [http://links.jstor.org/ sici?sici=0162-2870% 28197721% 293%3C68% 3ANOTISA%3E2.0. CO%3B2-C]”, October, Vol.3. (Spring, 1977), p.68-81. “Notes on the Index: Seventies Art in America. Part 2 [http://links.jstor.org/sici? sici=0162-2870% 28197723%294% 3C58%3ANOTISA% 3E2.0.CO%3B2-6]”, October, Vol. 4. (Autumn, 1977), p. 58-67. 
-
-21. Mitchell’s Picture Theory, p.15 note 10. 
-
-22. See “Media Taxonomy Model [http://csmt.uchicago.edu/ projectstaxonomy.htm]” in Chicago School of Media Theory [http://csmt.uchicago.edu/ home.htm], (accessed Jan. 2007). 
 
 
-“Media Taxonomy Model.” Chicago School of Media Theory. http://csmt.uchicago.edu/ projectstaxonomy.htm (accessed Jan, 2007). 
+1. See Mieke Bal and Norman Bryson, "Semiotics and Art History," [http://links.jstor.org/sici?sici=0004 -3079%28199106% 2973%3A2%3C174% 3ASAAH%3E2.0.CO% 3B2-8]", Art Bulletin 73, no. 2 (Jun., 1991): 174-208, (accessed Feb., 2007).
 
-"Oxford English Dictionary." Oxford University Press. http://dictionary.oed.com/ (accessed Jan, 2007). 
+2. See W.J.T. Mitchell’s Picture Theory, (Chicago: The University of Chicago Press, 1994), especially the chapter “Beyond Comparison”, p.83-107, which addresses the visual and the verbal.
 
-“Stanford Encyclopedia of Philosophy.” Stanford University. http://plato.stanford.edu/ (accessed Jan, 2007) 
+3. “Semiotics [http://dictionary.oed.com/cgi/entry/ 50219526?single=1&query _type=word&queryword= semiotics&first=1&max _to_show=10]”, The Oxford English Dictionary Online, (accessed Jan. 2007).
 
-“The University of Chicago: Theories of Media: Keyword Glossary.” University of Chicago, 2004. http://csmt.uchicago.edu/glossary2004/ navigation.htm (accessed Jan, 2007). 
+4. Ibid.
 
-Bal, Mieke and Norman Bryson. "Semiotics and Art History." Art Bulletin 73, no. 2 (Jun., 1991): 174-208, http://links.jstor.org/sici? sici=0004-3079%28199106% 2973%3A2%3C174% 3ASAAH%3E2.0.CO%3B2-8 (accessed Feb., 2007). 
+5. “Semiotic [http://dictionary.oed.com/cgi/entry/ 50219524?single=1&query_type =word&queryword=semiotic&first =1&max_to_show=10]”, The Oxford English Dictionary Online, (accessed Jan. 2007).
 
-Borchert, Donald M. Editor in Chief, ed. Encyclopedia of Philosophy. 2nd ed. USA: Thomson Gale, 2006. 
+6. For a brief summary on how the theories of Peirce and de Saussure works in the realms of art, see “semiotics [http://www.groveart.com/shared/ views/article.html?from= search&session_search_id= 910441891&hitnum=1 §ion=art.077528]”, Grove Art Online [http://www.groveart.com/index.html], (accessed Feb. 2007).
 
-Fiske, John. Introduction to Communication Studies. Second Edition ed. London and New York: Routledge, 1990. 
+7. Peirce’s complex logical system of signs is out of the scope of this reference essay. However, for a systematic yet quick guide to how semiotic influence the so-called visual art, see Mieke Bal and Norman Bryson, "Semiotics and Art History [http://links.jstor.org/ sici?sici=0004- 3079%28199106 %2973%3A2%3C174% 3ASAAH%3E2.0. CO%3B2-8]", Art Bulletin 73, no. 2 (Jun., 1991): 174-208, (accessed Feb., 2007), especially section 4 (On Peirce, p188-191) and section 5 (on de Saussure, p.191-195).
 
-Krauss, Rosalind. “Notes on the Index: Seventies Art in America”, October, Vol.3. (Spring, 1977), p.68-81. http://links.jstor.org/sici? sici=0162-2870% 28197721%293% 3C68%3ANOTISA% 3E2.0.CO%3B2-C (accessed Feb, 2007). 
+8. The original figure comes from John Fiske, Introduction to Communication Studies, Second Edition, (London and New York: Routledge, 1990), p.42. The figure was called “Peirce’s elements of meaning.” For purpose of coherence and clarity, I re-named the figure.
 
-———. “Notes on the Index: Seventies Art in America. Part 2”, October, Vol. 4. (Autumn, 1977), p. 58-67. http://links.jstor.org/sici? sici=0162-2870% 28197723%294% 3C58%3ANOTISA% 3E2.0.CO%3B2-6 (accessed Feb, 2007). 
+9. See C. S. Peirce, "Logic as Semiotic: The Theory of Signs," in Philosophical Writings of Peirce, ed. by Justus Buchler, (New York: Dover Publications. INC), p.99.
 
-Mitchell, W. J. T. Picture Theory. Chicago: The University of Chicago Press, 1994. 
+10. For a summary on Nelson Goodman and discussion on aesthetics, see “Goodman’s Aesthetics [http://plato.stanford.edu/ entries/goodman-aesthetics/]”, Stanford Encyclopedia of Philosophy [http://plato. stanford.edu/], (accessed Feb. 2007).
 
-———. Iconology: Image, Text, Ideology. Chicago and London: The University of Chicago Press, 1986. 
+11. The quote is from W.J.T. Mitchell’s “The Pictorial Turn” in Picture Theory, (Chicago: The University of Chicago Press, 1994), p.12. For a detailed discussion on the “pictorial turn,” see also “The Pictorial Turn” in Picture Theory, p.11-34. For discussions on Nelson Goodman’s theory of representation, see Mitchell’s “Realism, Irrealism, And Ideology: After Nelson Goodman,” also in Picture Theory, p. 345-362; also Mitchell’s “Pictures and Paragraphs: Nelson Goodman and the Grammar of Difference,” in Iconology (Chicago: The University of Chicago Press, 1986), p.53-47.
 
-———. "Word and Image." Critical Terms for Art History. ed. Robert S. Nelson and Richard Shiff. Chicago: The University of Chicago Press, 2003. pp. 47-57. 
+12. Mieke Bal and Norman Bryson, "Semiotics and Art History [http://links.jstor.org/ sici?sici=0004-3079% 28199106% 2973%3A2%3C174% 3ASAAH%3E2. 0.CO%3B2-8]", p.188.
 
-Peirce, C. S. "Logic as Semiotic: The Theory of Signs." in Philosophical Writings of Peirce, edited by Justus Buchler, 98-115. New York: Dover Publiations. INC., . 
+13. Fiske, Introduction to Communication Studies, p.40.
 
-Petrilli, Susan and Augusto Ponzio. Semiotics Unbounded: Interpretive Routes through the Open Network of Signs. Toronto: University of Toronto Press incorporated, 2005. 
+14. Ibid., p.51.
 
-Watt, W. C. "Semiotics." Routledge Encyclopedia of Philosophy. http://www.rep.routledge.com/ article/U056 (accessed Jan, 2007). 
+15. Mieke Bal and Norman Bryson, "Semiotics and Art History [http://links.jstor.org/ sici?sici=0004-3079% 28199106%2973% 3A2%3C174% 3ASAAH%3E2.0.CO% 3B2-8]", p.191.
+
+16. For a summary on the triadic tradition, see Vanessa Chang “melos, opsis, lexis [http://csmt.uchicago.edu/glossary2004/ melosopsislexis.htm]”, The University of Chicago: Theories of Media: Keyword Glossary [http://csmt.uchicago.edu/ glossary2004/navigation.htm] (University of Chicago, 2004), (accessed Jan. 2007).
+
+17. See Mitchell’s "Word and Image" in Critical Terms for Art History. ed. Robert S. Nelson and Richard Shiff. (Chicago: The University of Chicago Press, 2003), p. 47-57.
+
+18. A more elaborated yet comprehensive entry on Peirce’s icon-index-symbol trichotomies can be found at the link provided in text. Drew Huening, “Symbol, Index, Icon [http://csmt.uchicago.edu/glossary2004/ navigation.htm]”, The University of Chicago: Theories of Media: Keyword Glossary [http://csmt.uchicago.edu/glossary2004/ navigation.htm] (University of Chicago, 2004), (accessed Jan. 2007).
+
+19. The original figure comes from John Fiske, Introduction to Communication Studies, p.47. The figure was called “Peirce’s categories of sign-types.” For purpose of coherence and clarity, I re-named the figure.
+
+20. Rosalind Krauss, “Notes on the Index: Seventies Art in America [http://links.jstor.org/ sici?sici=0162-2870% 28197721% 293%3C68% 3ANOTISA%3E2.0. CO%3B2-C]”, October, Vol.3. (Spring, 1977), p.68-81. “Notes on the Index: Seventies Art in America. Part 2 [http://links.jstor.org/sici? sici=0162-2870% 28197723%294% 3C58%3ANOTISA% 3E2.0.CO%3B2-6]”, October, Vol. 4. (Autumn, 1977), p. 58-67.
+
+21. Mitchell’s Picture Theory, p.15 note 10.
+
+22. See “Media Taxonomy Model [http://csmt.uchicago.edu/ projectstaxonomy.htm]” in Chicago School of Media Theory [http://csmt.uchicago.edu/ home.htm], (accessed Jan. 2007).
+
+
+“Media Taxonomy Model.” Chicago School of Media Theory. http://csmt.uchicago.edu/ projectstaxonomy.htm (accessed Jan, 2007).
+
+"Oxford English Dictionary." Oxford University Press. http://dictionary.oed.com/ (accessed Jan, 2007).
+
+“Stanford Encyclopedia of Philosophy.” Stanford University. http://plato.stanford.edu/ (accessed Jan, 2007)
+
+“The University of Chicago: Theories of Media: Keyword Glossary.” University of Chicago, 2004. http://csmt.uchicago.edu/glossary2004/ navigation.htm (accessed Jan, 2007).
+
+Bal, Mieke and Norman Bryson. "Semiotics and Art History." Art Bulletin 73, no. 2 (Jun., 1991): 174-208, http://links.jstor.org/sici? sici=0004-3079%28199106% 2973%3A2%3C174% 3ASAAH%3E2.0.CO%3B2-8 (accessed Feb., 2007).
+
+Borchert, Donald M. Editor in Chief, ed. Encyclopedia of Philosophy. 2nd ed. USA: Thomson Gale, 2006.
+
+Fiske, John. Introduction to Communication Studies. Second Edition ed. London and New York: Routledge, 1990.
+
+Krauss, Rosalind. “Notes on the Index: Seventies Art in America”, October, Vol.3. (Spring, 1977), p.68-81. http://links.jstor.org/sici? sici=0162-2870% 28197721%293% 3C68%3ANOTISA% 3E2.0.CO%3B2-C (accessed Feb, 2007).
+
+———. “Notes on the Index: Seventies Art in America. Part 2”, October, Vol. 4. (Autumn, 1977), p. 58-67. http://links.jstor.org/sici? sici=0162-2870% 28197723%294% 3C58%3ANOTISA% 3E2.0.CO%3B2-6 (accessed Feb, 2007).
+
+Mitchell, W. J. T. Picture Theory. Chicago: The University of Chicago Press, 1994.
+
+———. Iconology: Image, Text, Ideology. Chicago and London: The University of Chicago Press, 1986.
+
+———. "Word and Image." Critical Terms for Art History. ed. Robert S. Nelson and Richard Shiff. Chicago: The University of Chicago Press, 2003. pp. 47-57.
+
+Peirce, C. S. "Logic as Semiotic: The Theory of Signs." in Philosophical Writings of Peirce, edited by Justus Buchler, 98-115. New York: Dover Publiations. INC., .
+
+Petrilli, Susan and Augusto Ponzio. Semiotics Unbounded: Interpretive Routes through the Open Network of Signs. Toronto: University of Toronto Press incorporated, 2005.
+
+Watt, W. C. "Semiotics." Routledge Encyclopedia of Philosophy. http://www.rep.routledge.com/ article/U056 (accessed Jan, 2007).
 
 -->
 
@@ -222,7 +224,7 @@ Watt, W. C. "Semiotics." Routledge Encyclopedia of Philosophy. http://www.rep.ro
 <!--
 
 Semiotic Terminology
- 
+
 
 Semiotics, or semiology, is the study of signs, symbols, and signification. It is the study of how meaning is created, not what it is. Below are some brief definitions of semiotic terms, beginning with the smallest unit of meaning and proceeding towards the larger and more complex:
 
@@ -262,8 +264,8 @@ Codes: a combination of semiotic systems, a supersystem, that function as genera
 
 Ideologies: codes that reinforce or are congruent with structures of power. Ideology works largely by creating forms of "common sense," of the taken-for-granted in everyday life.
 
- 
- 
+
+
 
 -->
 
@@ -275,4 +277,3 @@ Ideologies: codes that reinforce or are congruent with structures of power. Ideo
 * http://visual-memory.co.uk/daniel/Documents/S4B/sem01.html
 * http://www.britannica.com/science/semiotics
 * The American Heritage Dictionary of the English Language: Syntactics
-

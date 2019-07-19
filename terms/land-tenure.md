@@ -1,3 +1,4 @@
+---
 title: land tenure
 date: 2005-10-13 10:16
 category: terminology
@@ -5,6 +6,7 @@ tags:
 slug: land-tenure
 summary: : 
 status: draft
+---
 
 Land tenure is an institution, i.e., rules invented by societies to regulate behaviour. Rules of tenure define how property rights to land are to be allocated within societies. They define how access is granted to rights to use, control, and transfer land, as well as associated responsibilities and restraints. In most countries of the Pacific islands customary land remains the dominant land tenure form.[REF]( "Wikipedia")
 

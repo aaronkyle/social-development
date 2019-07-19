@@ -1,9 +1,11 @@
+---
 title: non-government organization (NGO)
 date: 2006-04-20 06:12
 category: terminology
 tags: World Bank,
 slug: non-government organization
 summary: : legally-constituted entities that operate independently from government.
+---
 
 <!--
 icon: file-code-o

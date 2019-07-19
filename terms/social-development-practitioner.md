@@ -1,9 +1,11 @@
+---
 title: social development practitioner
 date: 2009-03-19
 category: terminology
 tags: field of practice, actor
 slug: social-development-practitioner
 summary: : a category of professionals (primarily comprised of social scientists) working (i.e., practising) in the field of [international social development](/terms/social-development/)
+---
 
 <!---
 tags:
@@ -35,10 +37,10 @@ The term **social development practitioner** refers to a category of professiona
 <!--
 ## Similar Disciplines
 
-'social worker' 
+'social worker'
 http://www.cswe.org/File.aspx?id=60880
 
-Community development practitioners 
+Community development practitioners
 http://en.wikipedia.org/wiki/Community_development
 
 Community development worker
@@ -87,7 +89,3 @@ Specialised community work focuses on either specific groups within a region (su
 * tackling drug abuse.
 
 -->
-
-
-
-

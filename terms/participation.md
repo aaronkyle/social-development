@@ -1,3 +1,4 @@
+---
 title: participation
 date: 2005-10-13 10:06
 category: terminology
@@ -5,6 +6,7 @@ tags:
 slug: participation
 summary: a process through which stakeholders influence and share control over development initiatives and related decisions and resources.
 status: draft
+---
 
 <!--
 icon: file-code-o

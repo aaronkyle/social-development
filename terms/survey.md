@@ -1,21 +1,15 @@
+---
 title: survey
 date: 2005-10-13
 category: terminology
 tags: tools
 slug: survey
 summary: : a sampling, or partial collection, of facts, figures, or opinions
+---
 
 <!--
 icon: file-code-o
--->
-The term **survey** refers to a sampling, or partial collection, of facts, figures, or opinions.
-
-### References
-
-* Farlex Inc. "[Survey](www.thefreedictionary.com/survey)." The Free Dictionary.  Huntingdon Valley: Farlex, Inc. Available online at: www.thefreedictionary.com/survey <br /> [*Last Accessed* 8 October 2013].
-
 ---
-
 title: survey
 date: 2005-10-13
 category: terminology
@@ -23,6 +17,11 @@ tags: tools, engagement
 slug: survey
 summary: :
 status: draft
+---
+-->
+The term **survey** refers to a sampling, or partial collection, of facts, figures, or opinions.
+
+
 
 '''Surveys''' are a good method for collecting information in a standardized form from groups of people using a questionnaire or interview. A small amount of information is usually gathered from a large number of people using set questions. Short categorized questions on key issues allow answers to be easily filled in, tabulated and analyzed. Surveys allow a statistically significant sample of information to be collected for comparison, to identify larger patterns and structures and to monitor change.<ref name="Payne et al 2004">Payne, Geoffrey; Majale, Michael (eds). 2004. The Urban Housing Manual: Making Regulatory Frameworks Work for the Poor. London: Earthscan.</ref>
 
@@ -84,11 +83,12 @@ Examples of questionnaires used in case study countries in the ‘Regulatory Gui
 Examples of questionnaires used to study regulatory frameworks using a Sustainable Livelihoods approach can be accessed here.
 
 
-
 ## Citations
 
 <ref name="Payne et al 2004">Payne, Geoffrey; Majale, Michael (eds). 2004. The Urban Housing Manual: Making Regulatory Frameworks Work for the Poor. London: Earthscan.</ref>
 <ref name="Krishna Kumar">Kumar, Krishna. 1990 (rev. 2006). ''Conducting Mini Surveys in Developing Countries''. USAID Program Design and Evaluation Methodology Report. ''Available at:'' http://pdf.usaid.gov/pdf_docs/pnadg566.pdf [Accessed 20 November 2013].</ref>
+* Farlex Inc. "[Survey](www.thefreedictionary.com/survey)." The Free Dictionary.  Huntingdon Valley: Farlex, Inc. Available online at: www.thefreedictionary.com/survey <br /> [*Last Accessed* 8 October 2013].
+
 
 ## Further Reading
 

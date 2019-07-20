@@ -109,6 +109,6 @@ Examples social survey forms are available on the following topics:
 
 <script>
 window.onload = function() {
-document.getElementById("git").innerHTML="<div id="map"></div>";
+document.getElementById("git").innerHTML="<div id='map'></div>";
 }
 </script>

@@ -15,11 +15,9 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
 It can be challenging to identify the range of social policy that may be applicable to a given project or development initiative and to differentiate between policies that apply to international financial institutions (IFIs)<!--policies that have an apparent 'social' orientation, but which are operational policies that come to bear only on internal bank operations--> and requirements for clients.
 
 This repository compiles (and attempts to establish some manner of categorising) social policy among international financial institutions (IFIs).
-<span id="github-menu">
-<hr/>
-<p><strong>NOTE:</strong> The menu links below will not work if you are viewing this site via GitHub.<br/>Please browse from the folder level: <a href="https://github.com/aaronkyle/social-development/tree/master/social-policy">policy</a> | <a href="https://github.com/aaronkyle/social-development/tree/gh-pages/ifi-implementation-resources">implementation resources</a>.</p>
-<hr/>
-</span>
+
+<p><span id="github-menu"><hr/><p><strong>NOTE:</strong> The menu links below will not work if you are viewing this site via GitHub.<br/>Please browse from the folder level: <a href="https://github.com/aaronkyle/social-development/tree/master/social-policy">policy</a> | <a href="https://github.com/aaronkyle/social-development/tree/gh-pages/ifi-implementation-resources">implementation resources</a>.</span></p>
+
 
 
   1 Asian Development Bank<br />

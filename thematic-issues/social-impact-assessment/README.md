@@ -53,17 +53,22 @@ Examples social survey forms are available on the following topics:
 * [acknowledgements](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_acknowledgement)
 
 
-## Case Study: Gathering Baseline Socio-Economic Data in Maluku Province, Indonesia
+<div class="card">
+  <div class="card-header">
+    Case Study: Gathering Baseline Socio-Economic Data in Maluku Province, Indonesia
+  </div>
+  <div class="card-body">
+      <p>
+      To help mitigate the challenges of discussing issues in the abstract, the discussion takes as an example an imaginary development project situated on a remote island group in Indonesia, known administratively as Maluku Tenggara Barat (MTB) and Maluku Barat Daya (MBD) [and known informally as the Tanimbar Islands].</p>
+<p>
+      MTB is characterized by two major population concentrations--one in the south, centered around Saumlaki, and the other in the north, centered around Larat.  These population centers developed partially in response to historic political rivalries.</p>
+<p>
+      <img  class="img-fluid" alt="MTB sub-district shapes with fill.jpg" src="https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/MTB+sub-district+shapes+with+fill.jpg"></img></p>
+<p>
+      This analysis examines the scope of 'project area of social influence' to account for the potential of project-induced impacts also to northern village&mdash;gathering data especially that can help to evaluate potential impacts induced by speculative in-migration, as well as other indirect and cumulative impacts.</p>
+<p>
+      The following discussion of methods seeks to ensure that site selection and sampling are rationally determined according to proximate understandings of 'impact' and that the approach is cost-effective&mdash;leveraging secondary data sources such as census data, socio-economic and health surveys and by conducting primary research in the form of village and household level surveys, key informant interviews and focus group discussions.
+      </p>
 
-To help mitigate the challenges of discussing issues in the abstract, the discussion takes as an example an imaginary development project situated on a remote island group in Indonesia, known administratively as Maluku Tenggara Barat (MTB) and Maluku Barat Daya (MBD) [and known informally as the Tanimbar Islands].
-
-MTB is characterized by two major population concentrations--one in the south, centered around Saumlaki, and the other in the north, centered around Larat.  These population centers developed partially in response to historic political rivalries.
-
-<span id="map">
-<img mh-600 id="MTB sub-district shapes with fill.jpg"  src="https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/MTB+sub-district+shapes+with+fill.jpg">MTB sub-district shapes with fill</a> 
-</span>
-
-
-This analysis examines the scope of 'project area of social influence' to account for the potential of project-induced impacts also to northern village&mdash;gathering data especially that can help to evaluate potential impacts induced by speculative in-migration, as well as other indirect and cumulative impacts.
-
-The following discussion of methods seeks to ensure that site selection and sampling are rationally determined according to proximate understandings of 'impact' and that the approach is cost-effective&mdash;leveraging secondary data sources such as census data, socio-economic and health surveys and by conducting primary research in the form of village and household level surveys, key informant interviews and focus group discussions.
+  </div>
+</div>

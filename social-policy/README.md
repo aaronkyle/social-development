@@ -9,7 +9,7 @@ It can be challenging for clients to identify the range of social policy that ma
 This repository compiles (and attempts to establish some manner of categorising) social policy among international financial institutions (IFIs).
 <span id="github-menu">
 <hr/>
-<p><strong>NOTE:</strong> The menu links below will not work if you are viewing this site via GitHub.  Please browse from the folder level.</strong></p>
+<p><strong>NOTE:</strong> The menu links below will not work if you are viewing this site via GitHub.  Please browse <a href="https://github.com/aaronkyle/social-development/tree/master/social-policy">from the folder level.</a></p>
 <hr/>
 </span>
 

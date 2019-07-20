@@ -1,17 +1,15 @@
 Thematic issues include:
 
 
-*  [`social impact assessment`](./social-impact-assessment)
-    - [`baseline data capture`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/social-impact-assessment/baseline-surveys)
-    - [`methods / field implementation protocols`](./social-impact-assessment/methodology)
-*  [`fpic`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/fpic)
-*  [`involuntary resettlement`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/involuntary-resettlement)
-*  [`cultural heritage`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/cultural-heritage)
-*  [`cumulative impacts`](./cumulative-impacts/cumulative-impacts_briefing-note)
-<<<<<<< HEAD
+*  [`social impact assessment`](http://applied-anthro.com/thematic-issues/social-impact-assessment)
+    - [`baseline data capture`](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys)
+    - [`methods / field implementation protocols`](http://applied-anthro.com/thematic-issues/social-impact-assessment/methodology)
+*  [`fpic`](http://applied-anthro.com/thematic-issues/fpic)
+*  [`involuntary resettlement`](http://applied-anthro.com/thematic-issues/involuntary-resettlement)
+*  [`cultural heritage`](http://applied-anthro.com/thematic-issues/cultural-heritage)
+*  [`cumulative impacts`](http://applied-anthro.com/thematic-issues/cumulative-impacts/cumulative-impacts_briefing-note)
 *  [`country profiles`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/country-profiles)
-=======
-*  [`country profiles`](./country-profiles/)
+*  [`country profiles`](http://applied-anthro.com/thematic-issues/country-profiles/)
 *  [`literature reviews`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/literature-reviews)
 
 <!--

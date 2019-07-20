@@ -37,7 +37,7 @@ Adding an additional layer of complexity to any discussion of 'social policy' am
 <table class="table table-striped">
 <tbody>
 <tr class="">
-<td align="left" style="vertical-align:top"><strong><a href="http://applied-anthro.com/terms/action-plan/">action plan/#</a></strong></td>
+<td align="left" style="vertical-align:top"><strong><a href="http://applied-anthro.com/terms/action-plan/">action plan</a></strong></td>
 <td align="left"><i class="icon-bookmark"></i></td>
 <td align="left">: a document defining actions for ensuring compliance with applicable laws, regulations, and policy mandates</td>
 </tr>

@@ -74,7 +74,6 @@ Examples social survey forms are available on the following topics:
 </div>
 
 
-
  
 <span id="git">1</span>`
 

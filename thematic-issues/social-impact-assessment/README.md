@@ -98,6 +98,6 @@ document.getElementById("git").textContent="";
 
 <script>
 window.onload = function() {
-document.getElementById("git").textContent="<div id="map"></div>";
+document.getElementById("git").innerHTML="<div id="map"></div>";
 }
 </script>

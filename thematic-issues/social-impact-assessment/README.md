@@ -75,7 +75,7 @@ Examples social survey forms are available on the following topics:
 
 
  
-<span id="git">1</span>`
+<span id="git">1</span>
 
 
 <script type="module">
@@ -97,5 +97,7 @@ document.getElementById("git").textContent="";
 
 
 <script>
+window.onload = function() {
 document.getElementById("git").textContent="<div id="map"></div>";
+}
 </script>

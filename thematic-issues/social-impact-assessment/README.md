@@ -75,8 +75,8 @@ Examples social survey forms are available on the following topics:
 
 <span id="git">0</span>
 <div id="map"></div>
-      <div id="labels"></div>
-      <div id="output"></div>
+<div id="labels"></div>
+<div id="output"></div>
 
 <script type="module">
   import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";

@@ -75,11 +75,13 @@ Examples social survey forms are available on the following topics:
 
 <span id="git">0</span>
 <div id="map"></div>
+      <div id="labels"></div>
+      <div id="output"></div>
 
 <script type="module">
-      import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-      import notebook from "https://api.observablehq.com/@aaronkyle/maluku-tenggara-barat.js?v=3";
-      const renders = {
+  import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+  import notebook from "https://api.observablehq.com/@aaronkyle/maluku-tenggara-barat.js?v=3";
+   const renders = {
         "map": "#map",
       };
   
@@ -90,7 +92,21 @@ Examples social survey forms are available on the following topics:
       return new Inspector(renders[variable.name]);
   });
 </script>
-
+    <script type="module">
+      import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+      import notebook from "https://api.observablehq.com/@aaronkyle/cao-caseload-growth-by-year.js";
+      const renders = {
+        "viewof year": "#labels",
+        "chart": "#output",
+      };
+  
+  for (let i in renders)
+    renders[i] = document.querySelector(renders[i]);
+  Runtime.load(notebook, (variable) => {
+    if (renders[variable.name])
+      return new Inspector(renders[variable.name]);
+  });
+    </script>
 
 <script>
 window.onload = function() {

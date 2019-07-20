@@ -8,10 +8,10 @@ It can be challenging for clients to identify the range of social policy that ma
 
 This repository compiles (and attempts to establish some manner of categorising) social policy among international financial institutions (IFIs).
 <span id="github-menu">
-
-<p><strong>NOTE: The menu links below will not work if you are viewing this site via GitHub.  Please browse from the folder level.</strong></p>
-
-<>
+<hr/>
+<p><strong>NOTE:</strong> The menu links below will not work if you are viewing this site via GitHub.  Please browse from the folder level.</strong></p>
+<hr/>
+</span>
   1 Asian Development Bank<br />
 &nbsp;&nbsp;&nbsp;    1.1 [Policy](social-policy_adb) <br />
 &nbsp;&nbsp;&nbsp;    1.2 [Implementation Resources](../ifi-implementation-resources/implementation-resources_adb) <br />

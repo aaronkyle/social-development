@@ -11,7 +11,9 @@ This repository compiles (and attempts to establish some manner of categorising)
 
 <hr/>
 
-<p><span id="github-menu"><strong>NOTE:</strong> The menu links below will not work if you are viewing this site via GitHub.<br/>Please browse from the folder level: <a href="https://github.com/aaronkyle/social-development/tree/master/social-policy">policy</a> | <a href="https://github.com/aaronkyle/social-development/tree/gh-pages/ifi-implementation-resources">implementation resources</a>.</span></p>
+<p>
+<span id="github-menu"><strong>NOTE:</strong> The menu links below will not work if you are viewing this site via GitHub.<br/>Please browse from the folder level: <a href="https://github.com/aaronkyle/social-development/tree/master/social-policy">policy</a> | <a href="https://github.com/aaronkyle/social-development/tree/gh-pages/ifi-implementation-resources">implementation resources</a></span>
+</p>
 
 <hr/>
 

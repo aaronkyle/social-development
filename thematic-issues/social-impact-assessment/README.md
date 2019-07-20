@@ -94,10 +94,10 @@ Examples social survey forms are available on the following topics:
 </script>
 <script type="module">
       import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-      import notebook from "https://api.observablehq.com/@aaronkyle/cao-caseload-growth-by-year.js";
+      import notebook from "https://api.observablehq.com/@aaronkyle/maluku-tenggara-barat.js?v=3";
       const renders = {
-        "viewof year": "#labels",
-        "chart": "#output",
+        "structures_Saumlaki_MTB_map3": "#labels",
+        "map": "#output",
       };
   
   for (let i in renders)

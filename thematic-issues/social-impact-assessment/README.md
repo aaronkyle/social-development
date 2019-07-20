@@ -79,8 +79,8 @@ Examples social survey forms are available on the following topics:
 <div id="output"></div>
 
 <script type="module">
-  import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-  import notebook from "https://api.observablehq.com/@aaronkyle/maluku-tenggara-barat.js?v=3";
+  import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@3/dist/runtime.js";
+  import notebook from "https://api.observablehq.com/@aaronkyle/maluku-tenggara-barat.js?v=1";
    const renders = {
         "map": "#map",
       };
@@ -93,8 +93,8 @@ Examples social survey forms are available on the following topics:
   });
 </script>
 <script type="module">
-      import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-      import notebook from "https://api.observablehq.com/@aaronkyle/maluku-tenggara-barat.js?v=3";
+      import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@3/dist/runtime.js";
+      import notebook from "https://api.observablehq.com/@aaronkyle/maluku-tenggara-barat.js?v=1";
       const renders = {
         "structures_Saumlaki_MTB_map3": "#labels",
         "map": "#output",

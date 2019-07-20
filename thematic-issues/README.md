@@ -9,7 +9,6 @@ Thematic issues include:
 *  [`cultural heritage`](http://applied-anthro.com/thematic-issues/cultural-heritage)
 *  [`cumulative impacts`](http://applied-anthro.com/thematic-issues/cumulative-impacts/cumulative-impacts_briefing-note)
 *  [`country profiles`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/country-profiles)
-*  [`country profiles`](http://applied-anthro.com/thematic-issues/country-profiles/)
 *  [`literature reviews`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/literature-reviews)
 
 <!--

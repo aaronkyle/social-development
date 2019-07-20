@@ -77,20 +77,7 @@ Examples social survey forms are available on the following topics:
 <div id="labels"></div>
 <div id="output"></div>
 
-<script type="module">
-  import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@3/dist/runtime.js";
-  import notebook from "https://api.observablehq.com/@aaronkyle/maluku-tenggara-barat.js?v=1";
-   const renders = {
-        "map": "#map",
-      };
-  
-  for (let i in renders)
-    renders[i] = document.querySelector(renders[i]);
-  Runtime.load(notebook, (variable) => {
-    if (renders[variable.name])
-      return new Inspector(renders[variable.name]);
-  });
-</script>
+
 <script type="module">
       import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@3/dist/runtime.js";
       import notebook from "https://api.observablehq.com/@aaronkyle/maluku-tenggara-barat.js?v=1";
@@ -111,4 +98,18 @@ Examples social survey forms are available on the following topics:
 window.onload = function() {
 document.getElementById("git").innerHTML="<div id='map'></div>";
 }
+</script>
+<script type="module">
+  import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@3/dist/runtime.js";
+  import notebook from "https://api.observablehq.com/@aaronkyle/maluku-tenggara-barat.js?v=1";
+   const renders = {
+        "map": "#map",
+      };
+  
+  for (let i in renders)
+    renders[i] = document.querySelector(renders[i]);
+  Runtime.load(notebook, (variable) => {
+    if (renders[variable.name])
+      return new Inspector(renders[variable.name]);
+  });
 </script>

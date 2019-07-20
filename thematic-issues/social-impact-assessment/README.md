@@ -78,17 +78,15 @@ Examples social survey forms are available on the following topics:
 
  <div class="wrapper">
  <div class="title">TEST</div>
- <div id="labels"></div>
- <div id="output"></div>
- /div>
+ <div id="map"></div>
+
 
 
 <script type="module">
       import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-      import notebook from "https://api.observablehq.com/@aaronkyle/cao-caseload-growth-by-year.js";
+      import notebook from "https://api.observablehq.com/@aaronkyle/maluku-tenggara-barat.js?v=3";
       const renders = {
-        "viewof year": "#labels",
-        "chart": "#output",
+        "map": "#map",
       };
   
   for (let i in renders)

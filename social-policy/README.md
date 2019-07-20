@@ -7,8 +7,11 @@ In recent years, **[safeguards policies](http://applied-anthro.com/terms/safegua
 It can be challenging for clients to identify the range of social policy that may be applicable to a given project or development initiative. Adding a layer of complexity to any discussion of 'social policy' among international financial institutions (IFIs) are those policies that have an apparent 'social' orientation, but which are operational policies that come to bear only on internal bank operations.
 
 This repository compiles (and attempts to establish some manner of categorising) social policy among international financial institutions (IFIs).
+<span id="github-menu">
 
+<p><strong>NOTE: The menu links below will not work if you are viewing this site via GitHub.  Please browse from the folder level.</strong></page>
 
+<>
   1 Asian Development Bank<br />
 &nbsp;&nbsp;&nbsp;    1.1 [Policy](social-policy_adb) <br />
 &nbsp;&nbsp;&nbsp;    1.2 [Implementation Resources](../ifi-implementation-resources/implementation-resources_adb) <br />
@@ -533,3 +536,7 @@ OP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Soci
 
 
 -->
+<script>
+{
+document.getElementById("github-menu").textContent="";
+</script>

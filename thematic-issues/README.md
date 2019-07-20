@@ -1,18 +1,16 @@
 Thematic issues include:
 
-*  [`social impact assessment`](http://applied-anthro.com/thematic-issues/social-impact-assessment)
-    - [`baseline data capture`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/social-impact-assessment/baseline-surveys)
-    - [`methods / field implementation protocols`](./social-impact-assessment/methodology)
-*  [`fpic`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/fpic)
-*  [`involuntary resettlement`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/involuntary-resettlement)
-*  [`cultural heritage`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/cultural-heritage)
-*  [`cumulative impacts`](http://applied-anthro.com/thematic-issues/cumulative-impacts/cumulative-impacts_briefing-note)
-*  [`country profiles`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/country-profiles)
+
 *  [`social impact assessment`](http://applied-anthro.com/thematic-issues/social-impact-assessment)
     - [`public consultation and disclosure`](http://applied-anthro.com/thematic-issues/social-impact-assessment/public-consultation-and-disclosure)
     - [`baseline data capture`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/social-impact-assessment/baseline-surveys)
     - [`migration`](http://applied-anthro.com/thematic-issues/social-impact-assessment/migration)
     - [`methods / field implementation protocols`](http://applied-anthro.com/thematic-issues/social-impact-assessment/social-impact-assessment/methodology)
+*  [`fpic`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/fpic)
+*  [`involuntary resettlement`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/involuntary-resettlement)
+*  [`cultural heritage`](http://applied-anthro.com/thematic-issues/social-impact-assessment/cultural-heritage)
+*  [`cumulative impacts`](http://applied-anthro.com/thematic-issues/social-impact-assessment/cumulative-impacts/cumulative-impacts_briefing-note)
+*  [`country profiles`](http://applied-anthro.com/thematic-issues/social-impact-assessment/country-profiles/)
 *  [`literature reviews`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/literature-reviews)
 
 <!--

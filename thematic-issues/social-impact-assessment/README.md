@@ -75,15 +75,14 @@ Examples social survey forms are available on the following topics:
 
 
 
-
- <div class="wrapper">
- <div class="title">TEST</div>
- <div id="map"></div>
-
+ 
+<span id="git">1</span>`
 
 
 <script type="module">
-      import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+      import {Runtime, Inspector} from "https://cdn.jsdelivr.ne{
+document.getElementById("git").textContent="";
+}t/npm/@observablehq/runtime@4/dist/runtime.js";
       import notebook from "https://api.observablehq.com/@aaronkyle/maluku-tenggara-barat.js?v=3";
       const renders = {
         "map": "#map",
@@ -97,3 +96,7 @@ Examples social survey forms are available on the following topics:
   });
 </script>
 
+
+<script>
+document.getElementById("git").textContent="<div id="map"></div>";
+</script>

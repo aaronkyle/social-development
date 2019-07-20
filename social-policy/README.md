@@ -14,22 +14,22 @@ This repository compiles (and attempts to establish some manner of categorising)
 </span>
 
   1 Asian Development Bank<br />
-&nbsp;&nbsp;&nbsp;    1.1 [Policy](social-policy_adb) <br />
-&nbsp;&nbsp;&nbsp;    1.2 [Implementation Resources](../ifi-implementation-resources/implementation-resources_adb) <br />
+&nbsp;&nbsp;&nbsp;    1.1 [Policy](http://applied-anthro.com/social-policy/social-policy_adb) <br />
+&nbsp;&nbsp;&nbsp;    1.2 [Implementation Resources](http://applied-anthro.com/ifi-implementation-resources/implementation-resources_adb) <br />
   2 World Bank<br />
 &nbsp;&nbsp;&nbsp;    2.1 [Policy](social-policy_world-bank)<br />
-&nbsp;&nbsp;&nbsp;    2.2 [Implementation Resources](../ifi-implementation-resources/implementation-resources_world-bank)<br />
+&nbsp;&nbsp;&nbsp;    2.2 [Implementation Resources](http://applied-anthro.com/ifi-implementation-resources/implementation-resources_world-bank)<br />
   3 Inter-American Development Bank<br />
-&nbsp;&nbsp;&nbsp;    3.1 [Policy](social-policy_iadb)<br />
+&nbsp;&nbsp;&nbsp;    3.1 [Policy](http://applied-anthro.com/social-policy_iadb)<br />
 &nbsp;&nbsp;&nbsp;    3.2 [Implementation Resources](#)<br />
   4 International Finance Corporation (IFC)<br />
-&nbsp;&nbsp;&nbsp;    4.1 [Policy](social-policy_ifc)<br />
-&nbsp;&nbsp;&nbsp;    4.2 [Implementation Resources](../ifi-implementation-resources/implementation-resources_ifc)<br />
+&nbsp;&nbsp;&nbsp;    4.1 [Policy](http://applied-anthro.com/social-policy_ifc)<br />
+&nbsp;&nbsp;&nbsp;    4.2 [Implementation Resources](http://applied-anthro.com/ifi-implementation-resources/implementation-resources_ifc)<br />
   5 European Bank for Reconstruction and Development<br />
-&nbsp;&nbsp;&nbsp;    5.1 [Policy](#ebrd-policy)<br />
+&nbsp;&nbsp;&nbsp;    5.1 [Policy](http://applied-anthro.com/ebrd-policy)<br />
 &nbsp;&nbsp;&nbsp;    5.2 [Implementation Resources](#)<br />
   6 Overseas Private Investment Corporation (OPIC)<br />
-&nbsp;&nbsp;&nbsp;    6.1 [Policy](#opic-policy)<br />
+&nbsp;&nbsp;&nbsp;    6.1 [Policy](http://applied-anthro.com/opic-policy)<br />
 
 <hr />
 
@@ -112,8 +112,8 @@ This repository compiles (and attempts to establish some manner of categorising)
 <h3></h3>
 <p><b>Asian Development Bank</b></p>
 <ul>
-<li><a href="/context/social-policy_adb.html">Discussion of Social Policy</a></li>
-<li><a href="/context/implementation-resources_adb.html">Implementation Resources</a></li>
+<li><a href="http://applied-anthro.com/context/social-policy_adb.html">Discussion of Social Policy</a></li>
+<li><a href="http://applied-anthro.com/context/implementation-resources_adb.html">Implementation Resources</a></li>
 </ul>
 <p><b>International Finance Corporation (IFC)</b></p>
 <ul>
@@ -124,13 +124,13 @@ This repository compiles (and attempts to establish some manner of categorising)
 
 <p><b>World Bank</b></p>
 <ul>
-<li><a href="/context/social-policy_world-bank.html">Discussion of Social Policy</a></li>
-<li><a href="/context/implementation-resources_world-bank.html">Implementation Resources</a></li>
+<li><a href="http://applied-anthro.com/context/social-policy_world-bank.html">Discussion of Social Policy</a></li>
+<li><a href="http://applied-anthro.com/context/implementation-resources_world-bank.html">Implementation Resources</a></li>
 </ul>			  </div>
 
 
 <div class="tab-pane" id="2a">
-<h3><strong>Policy of the Asian Development Bank<sup> * <a href="/context/social-policy_adb.html">Jump from here</a> to a dicussion of social policy.</sup></strong></h3>
+<h3><strong>Policy of the Asian Development Bank<sup> * <a href="http://applied-anthro.com/context/social-policy_adb.html">Jump from here</a> to a discussion of social policy.</sup></strong></h3>
 <p><a name="adb-operational-policy"></a></p>
 <p>The central policy instrument of the Asian Development Bank is its *Operations Manual*. The ADB <a href="http://www.adb.org/documents/operations-manual">Operations Manual (OM)</a> collects operational policies known as <a href="" title="*bank policies*: short, focused statements defining borrower client obligations">Bank Policies (BPs)</a> that follow from ADB Charter, regulations of the <a href="http://www.adb.org/site/adf/main">ADF</a> and <a href="http://www.adb.org/site/funds/ocr">OCR</a>, as well as <a href="http://www.adb.org/about/other-operational-policies-and-strategies">other operational policies and strategies</a> adopted by the <a href="http://www.adb.org/about/board-directors">ADB Board of Directors</a>. The OM also includes <a href="#" title="procedural requirements and guidance on policy implementation">Operational Procedures (OPs)</a> that spell out procedural requirements and guidance on policy implementation.</p>
 <h3 id="the-adb-operation-manual-om">Operation Manual (OM)</h3>
@@ -335,7 +335,7 @@ This repository compiles (and attempts to establish some manner of categorising)
 
 </div>
 <div class="tab-pane" id="4a">
-<h3><strong>Policy of the World Bank<sup> * <a href="/context/social-policy_world-bank.html">Jump from here</a> to a dicussion of social policy.</sup></strong></h3>
+<h3><strong>Policy of the World Bank<sup> * <a href="http://applied-anthro.com/context/social-policy_world-bank.html">Jump from here</a> to a dicussion of social policy.</sup></strong></h3>
 <p></p>
 <h3 id="the-adb-operation-manual-om">Operations Manual (OM)</h3>
 <table class="table-responsive table-bordered table-striped table-condensed">

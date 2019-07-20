@@ -63,7 +63,7 @@ Examples social survey forms are available on the following topics:
 <p>
       MTB is characterized by two major population concentrations--one in the south, centered around Saumlaki, and the other in the north, centered around Larat.  These population centers developed partially in response to historic political rivalries.</p>
 <p>
-      <img  class="img-fluid" alt="MTB sub-district shapes with fill.jpg" src="https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/MTB+sub-district+shapes+with+fill.jpg"></img></p>
+      <img  class="img-fluid" alt="MTB sub-district shapes with fill.jpg" src="https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/MTB+sub-district+shapes+with+fill.jpg"></p>
 <p>
       This analysis examines the scope of 'project area of social influence' to account for the potential of project-induced impacts also to northern village&mdash;gathering data especially that can help to evaluate potential impacts induced by speculative in-migration, as well as other indirect and cumulative impacts.</p>
 <p>
@@ -76,14 +76,14 @@ Examples social survey forms are available on the following topics:
 
 
 
-    <div class="wrapper">
-      <div class="title">TEST</div>
-      <div id="labels"></div>
-      <div id="output"></div>
-    </div>
+ <div class="wrapper">
+ <div class="title">TEST</div>
+ <div id="labels"></div>
+ <div id="output"></div>
+ /div>
 
 
-    <script type="module">
+<script type="module">
       import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
       import notebook from "https://api.observablehq.com/@aaronkyle/cao-caseload-growth-by-year.js";
       const renders = {
@@ -97,5 +97,5 @@ Examples social survey forms are available on the following topics:
     if (renders[variable.name])
       return new Inspector(renders[variable.name]);
   });
-    </script>
+</script>
 

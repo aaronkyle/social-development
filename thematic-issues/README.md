@@ -1,5 +1,6 @@
 Thematic issues include:
 
+
 *  [`social impact assessment`](http://applied-anthro.com/thematic-issues/social-impact-assessment)
     - [`public consultation and disclosure`](http://applied-anthro.com/thematic-issues/social-impact-assessment/public-consultation-and-disclosure)
     - [`baseline data capture`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/social-impact-assessment/baseline-surveys)

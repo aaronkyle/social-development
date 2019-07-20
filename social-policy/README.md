@@ -7,11 +7,15 @@ In recent years, **[safeguards policies](http://applied-anthro.com/terms/safegua
 It can be challenging for clients to identify the range of social policy that may be applicable to a given project or development initiative. Adding a layer of complexity to any discussion of 'social policy' among international financial institutions (IFIs) are those policies that have an apparent 'social' orientation, but which are operational policies that come to bear only on internal bank operations.
 
 This repository compiles (and attempts to establish some manner of categorising) social policy among international financial institutions (IFIs).
-<span id="github-menu">
+
+
 <hr/>
-<p><strong>NOTE:</strong> The menu links below will not work if you are viewing this site via GitHub.<br/>Please browse from the folder level: <a href="https://github.com/aaronkyle/social-development/tree/master/social-policy">policy</a> | <a href="https://github.com/aaronkyle/social-development/tree/gh-pages/ifi-implementation-resources">implementation resources</a>.</p>
+
+<p><span id="github-menu"><strong>NOTE:</strong> The menu links below will not work if you are viewing this site via GitHub.<br/>Please browse from the folder level: <a href="https://github.com/aaronkyle/social-development/tree/master/social-policy">policy</a> | <a href="https://github.com/aaronkyle/social-development/tree/gh-pages/ifi-implementation-resources">implementation resources</a>.</span></p>
+
 <hr/>
-</span>
+
+
 
   1 Asian Development Bank<br />
 &nbsp;&nbsp;&nbsp;    1.1 [Policy](http://applied-anthro.com/social-policy/social-policy_adb) <br />

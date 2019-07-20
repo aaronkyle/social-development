@@ -2,7 +2,7 @@
 
 Most [international social development policy frameworks](#) aim to reduce poverty and bolster prosperity. In these contexts, propserity is often defined in economic terms (e.g. job creation, enhanced market access) and measured at the national and regional levels.
 
-Development projects seeking international financing face the critical challenge of how to demonstrate that a project-level performance contributes to higher-level policy aims and commitments. 
+Development projects seeking international financing face the critical challenge of how to demonstrate that a project-level performance contributes to higher-level policy aims and commitments.
 
 Project performance can be defined and measured as [performance indicators](#) that anticipate and account for project-induced direct, indirect, and cumulative changes.  Each affected community should be taken into account, and pertinent information recorded about (i.e. structures of governance and societal organization, demographic measures of well-being,  cultural identity, etc).
 
@@ -59,7 +59,10 @@ To help mitigate the challenges of discussing issues in the abstract, the discus
 
 MTB is characterized by two major population concentrations--one in the south, centered around Saumlaki, and the other in the north, centered around Larat.  These population centers developed partially in response to historic political rivalries.
 
-![MTB sub-district shapes with fill](https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/MTB+sub-district+shapes+with+fill.jpg "MTB sub-district shapes with fill.jpg")
+<span id="map">
+<img mh-600 id="MTB sub-district shapes with fill.jpg"  src="https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/MTB+sub-district+shapes+with+fill.jpg">MTB sub-district shapes with fill</a> 
+</span>
+
 
 This analysis examines the scope of 'project area of social influence' to account for the potential of project-induced impacts also to northern village&mdash;gathering data especially that can help to evaluate potential impacts induced by speculative in-migration, as well as other indirect and cumulative impacts.
 

@@ -49,7 +49,7 @@ This repository compiles (and attempts to establish some manner of categorising)
 
 <p>Distinctions between ‘policy’ a ‘guidance’ can be difficult to discern in the absence of project legal agreements. It is not always possible for clients to discern what is <em>required</em> from that which is simply “recommended” (a question that my clients often pose when considering my recommendations for policy implementation).</p>
 
-<p>To help address definitional ambiguity, I have [started to compile definitions for common terms](./terms/terminology.html). This list is not meant to be exhaustive, and my focus is specific to social development concerns.</p>
+<p>To help address definitional ambiguity, I have <a href="./terms/terminology.html">started to compile definitions for common terms</a>. This list is not meant to be exhaustive, and my focus is specific to social development concerns.</p>
 </div>
 </div>
 

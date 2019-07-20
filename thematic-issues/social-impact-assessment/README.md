@@ -74,7 +74,6 @@ Examples social survey forms are available on the following topics:
 </div>
 
 <span id="git">0</span>
-<div id="map"></div>
 <div id="labels"></div>
 <div id="output"></div>
 
@@ -110,6 +109,6 @@ Examples social survey forms are available on the following topics:
 
 <script>
 window.onload = function() {
-document.getElementById("git").innerHTML="1";
+document.getElementById("git").innerHTML="<div id="map"></div>";
 }
 </script>

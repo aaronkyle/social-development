@@ -1,55 +1,56 @@
 ## Context
 
-The aim of most [international social development policy frameworks](#) is to reduct poverty and bolster prosperity.
-Propserity is typically defined in economic terms (e.g. job creation, enhanced market access) and measured at the national and regional levels.
+Most [international social development policy frameworks](#) aim to reduce poverty and bolster prosperity. In these contexts, propserity is often defined in economic terms (e.g. job creation, enhanced market access) and measured at the national and regional levels.
 
-For proponents of development projects seeking international finanicng, a critical challenge is how to demonstrate that a project-level performance contributes to higher-level policy aims and commitments. Toward this end, project proponents must to define and measure a [key performance indicators](#)that anticipate and account for project-induced direct, indirect, and cumulative changes to host communities (i.e. structures of governance and societal organization, demographic measures of well-being,  cultural identity, etc).
+Development projects seeking international financing face the critical challenge of how to demonstrate that a project-level performance contributes to higher-level policy aims and commitments. 
 
-An early step toward this end is to ascertain the nature and form of potential social and economic changes that might result from project implementation&mdash;in terms of both positive and negative potential impacts&mdash;by taking account of the pre-project situation through '[baseline](#)' studies.
+Project performance can be defined and measured as [performance indicators](#) that anticipate and account for project-induced direct, indirect, and cumulative changes.  Each affected community should be taken into account, and pertinent information recorded about (i.e. structures of governance and societal organization, demographic measures of well-being,  cultural identity, etc).
+
+An early step is to ascertain the nature and form of potential social and economic changes that might result from project implementation&mdash;in terms of both positive and negative potential impacts&mdash;by taking account of the pre-project situation through '[baseline](#)' studies.
 
 ### Organization of the Repository
 
-This [repository](https://github.com/aaronkyle/social-development/tree/master/context/thematic-issues/social-impact-assessment/baseline-studies) proposes a methodology and implementation tools for conducting a baseline soocial and economic study.
+This [repository](https://github.com/aaronkyle/social-development/tree/master/context/thematic-issues/social-impact-assessment/baseline-studies) proposes a methodology and implementation tools for conducting a baseline social and economic study.
 
-The methodology is based on a '[resource framework](#)' that looks for indicators long-term project induced changes to affected communities throughout the lifetime of this project, by acknowledging that household and community well-being is dependent upon a range of tangible and intangible resources. The methodology also employes [rapid appraisal](./methodology/methods_rapid-appraisal_defining-questionnaire.md) techniques for data collection.
+The methodology is based on a '[resource framework](#)' that looks for indicators long-term project induced changes to affected communities throughout the lifetime of this project, by acknowledging that household and community well-being is dependent upon a range of tangible and intangible resources. The methodology also employees [rapid appraisal](http://applied-anthro.com/thematic-issues/social-impact-assessment/methodology/methods_rapid-appraisal_defining-questionnaire) techniques for data collection.
 
 Key methodological discussions include:
 
-* [Identification of Target Baseline Data](./methodology/methods_identifying-target-baseline-data.md)
-* [Stakeholder Identification](methods_stakeholder-identification.md)
-* [Using Baseline Data in Impact Assessment](./methodology/methods_impact-analysis.md)
+* [Identification of Target Baseline Data](http://applied-anthro.com/thematic-issues/social-impact-assessment/methodology/methods_identifying-target-baseline-data)
+* [Stakeholder Identification](methods_stakeholder-identification)
+* [Using Baseline Data in Impact Assessment](http://applied-anthro.com/thematic-issues/social-impact-assessment/methodology/methods_impact-analysis)
 
 Implementation tools discussed here seek to capture pertinent data from both primary and secondary sources focusing on village and household level information. Key discussions for study implementation include:
 
-* [Determing Sample Size for Socio-Economic Baseline Data](./methodology/methods_representative-samples.md)
-* [Planning Fieldwork](./methodology/methods_planning-fieldwork.md)
-    - methods_study-design_preparing-print-media.md
-    - methods_study-design_translations.md
-* [Processing Baseline Data](./methodology/methods_data-processing.md)
+* [Determing Sample Size for Socio-Economic Baseline Data](http://applied-anthro.com/thematic-issues/social-impact-assessment/methodology/methods_representative-samples)
+* [Planning Fieldwork](http://applied-anthro.com/thematic-issues/social-impact-assessment/methodology/methods_planning-fieldwork)
+    - methods_study-design_preparing-print-media
+    - methods_study-design_translations
+* [Processing Baseline Data](http://applied-anthro.com/thematic-issues/social-impact-assessment/methodology/methods_data-processing)
 
 This repository also examines how to craft socio-ecomomic baseline survey data collection forms that account for target international and national development indicators, and national and local census and survey data&mdash;and how to ensure that these are adapted to specific project contexts.
 
 Examples social survey forms are available on the following topics:
 
-* [structured-ID](./baseline-surveys/survey-form_structured-ID.md)
-* [household-composition](./baseline-surveys/survey-form_household-composition.md)
-* [identity-distribution](./baseline-surveys/survey-form_identity-distribution.md)
-* [living-conditions](./baseline-surveys/survey-form_living-conditions.md)
-* [livelihoods](./baseline-surveys/survey-form_livelihoods.md)
-* [economic-integration](./baseline-surveys/survey-form_economic-integration.md)
-* [ecosystem-services](./baseline-surveys/survey-form_economic-integration.md)
-* [asset-ownership](./survey-forms/survey-form_asset-ownership.md)
-* [health](./baseline-surveys/survey-form_health.md)
+* [structured-ID](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_structured-ID)
+* [household-composition](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_household-composition)
+* [identity-distribution](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_identity-distribution)
+* [living-conditions](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_living-conditions)
+* [livelihoods](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_livelihoods)
+* [economic-integration](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_economic-integration)
+* [ecosystem-services](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_economic-integration)
+* [asset-ownership](http://applied-anthro.com/thematic-issues/social-impact-assessment/survey-forms/survey-form_asset-ownership)
+* [health](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_health)
 * [security]()
-* [education](./baseline-surveys/survey-form_education.md)
-* [territorial-ties](./baseline-surveys/survey-form_territorial-ties.md)
-* [population-mobility](./baseline-surveys/survey-form_population-mobility.md)
-* [cultural-institutions](./baseline-surveys/survey-form_cultural-institutions.md)
-* [cultural-heritage](./baseline-surveys/survey-form_cultural-heritage.md)
-* [displacement-perception](./baseline-surveys/survey-form_displacement-perception.md)
-* [project-perception](./baseline-surveys/survey-form_project-perception.md)
-* [form_security](./baseline-surveys/survey-form_security.md)
-* [acknowledgements](./baseline-surveys/survey-form_acknowledgement.md)
+* [education](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_education)
+* [territorial-ties](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_territorial-ties)
+* [population-mobility](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_population-mobility)
+* [cultural-institutions](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_cultural-institutions)
+* [cultural-heritage](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_cultural-heritage)
+* [displacement-perception](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_displacement-perception)
+* [project-perception](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_project-perception)
+* [form_security](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_security)
+* [acknowledgements](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_acknowledgement)
 
 
 ## Case Study: Gathering Baseline Socio-Economic Data in Maluku Province, Indonesia

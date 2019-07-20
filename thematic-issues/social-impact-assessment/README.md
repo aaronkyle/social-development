@@ -62,8 +62,14 @@ Examples social survey forms are available on the following topics:
       To help mitigate the challenges of discussing issues in the abstract, the discussion takes as an example an imaginary development project situated on a remote island group in Indonesia, known administratively as Maluku Tenggara Barat (MTB) and Maluku Barat Daya (MBD) [and known informally as the Tanimbar Islands].</p>
 <p>
       MTB is characterized by two major population concentrations--one in the south, centered around Saumlaki, and the other in the north, centered around Larat.  These population centers developed partially in response to historic political rivalries.</p>
-<p>
-      <img  class="img-fluid" alt="MTB sub-district shapes with fill.jpg" src="https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/MTB+sub-district+shapes+with+fill.jpg"></p>
+<div class="row">
+<div class="col col-6">
+<div id="map"></div>
+</div>
+<div class="col col-6">
+<p><img  class="img-fluid" alt="MTB sub-district shapes with fill.jpg" src="https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/MTB+sub-district+shapes+with+fill.jpg"></p>
+</div>
+</div>
 <p>
       This analysis examines the scope of 'project area of social influence' to account for the potential of project-induced impacts also to northern village&mdash;gathering data especially that can help to evaluate potential impacts induced by speculative in-migration, as well as other indirect and cumulative impacts.</p>
 <p>
@@ -73,32 +79,6 @@ Examples social survey forms are available on the following topics:
   </div>
 </div>
 
-<span id="git">0</span>
-<div id="labels"></div>
-<div id="output"></div>
-
-
-<script type="module">
-      import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@3/dist/runtime.js";
-      import notebook from "https://api.observablehq.com/@aaronkyle/maluku-tenggara-barat.js?v=1";
-      const renders = {
-        "structures_Saumlaki_MTB_map3": "#labels",
-        "map": "#output",
-      };
-  
-  for (let i in renders)
-    renders[i] = document.querySelector(renders[i]);
-  Runtime.load(notebook, (variable) => {
-    if (renders[variable.name])
-      return new Inspector(renders[variable.name]);
-  });
-</script>
-
-<script>
-window.onload = function() {
-document.getElementById("git").innerHTML="<div id='map'></div>";
-}
-</script>
 <script type="module">
   import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@3/dist/runtime.js";
   import notebook from "https://api.observablehq.com/@aaronkyle/maluku-tenggara-barat.js?v=1";
@@ -113,3 +93,11 @@ document.getElementById("git").innerHTML="<div id='map'></div>";
       return new Inspector(renders[variable.name]);
   });
 </script>
+
+<!--
+<script>
+window.onload = function() {
+document.getElementById("git").innerHTML="<div id='map'></div>";
+}
+</script>
+-->

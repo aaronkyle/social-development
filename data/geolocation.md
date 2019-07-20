@@ -381,3 +381,12 @@ https://www.itl.nist.gov/fipspubs/fip10-4.htm
 * [NGA GEOnet Names Server (GNS)](http://geonames.nga.mil/gns/html/)
 
 -->
+
+<!--
+https://www.pgc.umn.edu/data/maps/
+
+[Spatial Data on the Web Best Practices](https://www.w3.org/TR/sdw-bp/)
+
+[Coordination of Geographic Information and Related Spatial Data Activities ](https://www.fgdc.gov/policyandplanning/a-16/circular-A-16.pdf)
+
+-->

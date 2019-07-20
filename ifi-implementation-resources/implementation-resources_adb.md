@@ -96,4 +96,26 @@ Indigenous Peoples [[PDF]](http://www.adb.org/Documents/Guidelines/IndigenousPeo
 <li><a href="http://www.adb.org/documents/books/for-life-with-love/for-life-with-love.pdf">For Life, With Love: Training Tool for HIV Prevention and Safe Migration in Road Construction Settings and Affected Communities</a> (2009)</li>
 </ul>
 
+
+<!--
+
+[Aid for Trade in Asia and the Pacific: Promoting Economic Diversification and Empowerment](https://www.adb.org/publications/aid-trade-asia-pacific-economic-diversification-empowerment)
+
+[Our Work in the Pacific](https://www.adb.org/sites/default/files/publication/158523/our-work-pacific-2017.pdf)
+
+[ADB Approves Plan to Expand Presence in Pacific](https://www.adb.org/news/adb-approves-plan-expand-presence-pacific)
+
+[Gender Checklists and Toolkits in Sector Work](https://www.adb.org/themes/gender/checklists-toolkits)
+
+[Tool Kit on Gender Equality Results and Indicators](https://www.adb.org/documents/tool-kit-gender-equality-results-and-indicators)
+
+[Gender, Law, and Policy in ADB Operations: A Tool Kit](https://www.adb.org/documents/gender-law-and-policy-adb-operations-tool-kit)
+
+[Gender Checklist: Resettlement](https://www.adb.org/publications/gender-checklist-resettlement)
+
+[Real-Time Evaluation of ADB’s Safeguard Implementation Experience Based on Selected Case Studies](https://www.adb.org/sites/default/files/evaluation-document/177678/files/safeguards-evaluation.pdf)
+
+[Comments on World Bank Draft Guidance Note for ESS 5  Land Acquisition, Restrictions on Land Use and Involuntary Resettlement
+from The International Network on Displacement and Resettlement  www.displacement.net 1
+](http://indr.org/wp-content/uploads/2013/02/INDR-COMMENTS-ON-ESS5-GUIDANCE-NOTES.pdf)
 --->

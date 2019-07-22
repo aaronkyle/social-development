@@ -39,7 +39,40 @@ Service.
 
 * [Polar Geospatial Center](http://www.pgc.umn.edu/)
     - The Polar Geospatial Center provides geospatial support, mapping, and GIS/remote sensing solutions to researchers and logistics groups in the polar science community.
-    
+
+
+---
+
+## Indigenous Peoples
+
+### GIS Data
+
+GIS data can come in multiple formats for use in GIS software. The most common format is [shapefile](http://www.library.carleton.ca/help/shapefiles-help-guide), which is what the following datasets are in unless otherwise noted.
+
+* **[Aboriginal Lands](http://geogratis.gc.ca/api/en/nrcan-rncan/ess-sst/-/(urn:gc:subject)aboriginal-lands)**  - includes Indian Reserves, Land Claim Settlement and other Indian Lands for each province/territory or all of Canada. From GeoGratis.
+* [Aboriginal Mapping Network](http://nativemaps.org/) - site with links to potential GIS data resources. 
+* [ **Canadian Census data** ](http://www.library.carleton.ca/research/subject-guides/indigenous-studies) - consult the government information drop-down on the Indigenous Studies subject guide to find population data for Canadian indigenous populations. It is then possible to [link census data with census boundary shapefiles using GIS to make maps](https://library.carleton.ca/help/gis-help-mapping-census-canada).
+* [ **First Nations Settled and Unsettled Land Claims in Canada** ](https://www.arcgis.com/home/item.html?id=60df3fe0ce1b4800930c42d67bfb745a) - dated 2000 from Global Forest Watch Canada.
+* **[Historic First Nations Treaties in Canada](http://www.arcgis.com/home/item.html?id=ccbf7c2faa3b46d092e5feb5e4925e72)**  - GIS dataset of pre-1930 treaty boundaries, published in 2000. Created by [Global Forest Watch Canada](http://www.globalforestwatch.org/).
+
+### Online Maps
+
+* [Indigenous Studies GIS resources](https://library.carleton.ca/help/indigenous-studies-gis-resources)
+
+These include interactive online maps as well as downloadable scanned maps that were originally in paper. Scanned maps can be [georeferenced and digitized using GIS software such as Google Earth](http://www.library.carleton.ca/help/georeferencing-and-digitizing-scanned-maps-google-earth).
+
+* [ **Aboriginal Peoples digital maps (PDF and/or JPEG)** ](https://open.canada.ca/data/en/dataset?q=aboriginal+peoples&organization=nrcan-rncan&sort=) - 30 modern and historical maps under the subject heading Aboriginal Peoples. From GeoGratis
+* [ **Aboriginal Peoples list of online maps** ](http://www.library.carleton.ca/find/maps/online-maps/topic/Aboriginal%20Peoples) from MacOdrum Library.
+* [ **First Nations Profiles Interactive Map** ](http://fnpim-cippn.aandc-aadnc.gc.ca/index-eng.html) - map portal to First Nation community information, including links to First Nation community websites and First Nation Profiles. From Aboriginal Affairs and Northern Development Canada.
+* [ **Indian Reserves - Western Canada** ](http://www.collectionscanada.gc.ca/databases/indian-reserves/001004-110.01-e.php?PHPSESSID=maurkjbg5ojf4k8b7t5nm11rs2&q1=&q2=&q3=&q4=&q5=&q6=map&q7=1&interval=20) - 200+ online digitized (PDF) and downloadable maps from Library and Archives Canada. [Database homepage](http://www.collectionscanada.gc.ca/databases/indian-reserves/001004-100.01-e.php).
+* [ **Indigenous People's Atlas of Canada** ](https://catalogue.library.carleton.ca/record=b4493178)
+* [ **Inuit Nunangat Map** ](http://www.aadnc-aandc.gc.ca/Map/irs/mp/index-en.html) - interactive online map of Inuit communities. From Aboriginal Affairs and Northern Development Canada.
+* **[Maps of Treaty Making in Canada](http://www.aadnc-aandc.gc.ca/eng/1100100032297/1100100032309)**  - over a dozen downloadable PDF maps of pre-1975 treaty boundaries in Canada. From Aboriginal Affairs and Northern Development Canada.
+* **[Pan Inuit Trails](http://www.paninuittrails.org/index.html?module=module.paninuittrails)**  - "The Atlas provides a synoptic view (although certainly incomplete) of Inuit mobility and occupancy of Arctic waters, coasts and lands, including its icescapes, as documented in written historical records (maps of trails and place names)."
+* [ **Treaties, Surrenders and Agreements** ](http://www.collectionscanada.gc.ca/databases/treaties/001040-110.01-e.php?q1=map%2A&c1=&b1=AND&t1=&sk=0&brws_s=&PHPSESSID=nh3figmnm5nth1afk36r5ker46) - 100+ references to maps in historic Canadian Indian treaties, land surrenders, and related agreements. Read the two intro pages of each record to see which page the map is on and  #14 in the record should tell you if it's in that document. If it's in a different document that information will likely be in #17. From [Library and Archives Canada](http://www.collectionscanada.gc.ca/databases/treaties/index-e.html?PHPSESSID=nh3figmnm5nth1afk36r5ker46).
+
+---
+
 ## References:
 
 * Dartmouth University Library. [GIS Data](https://researchguides.dartmouth.edu/gisdata/intro)

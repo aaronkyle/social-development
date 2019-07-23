@@ -105,5 +105,6 @@ document.getElementById("git").innerHTML="<div id='map'></div>";
 <!--
 Interesting approaches;
 - https://openup.org.za/articles/mapping-sanitation.html
-
+- http://code4sa.org/2015/10/01/mapping-informal-settlements-copy.html
+- https://www.ee.co.za/article/gis-mapping-analysis-informal-settlement-upgrading.html
 -->

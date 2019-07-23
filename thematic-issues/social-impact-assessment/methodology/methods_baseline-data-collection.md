@@ -178,8 +178,17 @@ Village</td>
 
 ---
 
-Data Sources MTBL
+Data Sources MTB
 https://mtbkab.bps.go.id/
 https://mtbkab.bps.go.id/publikasi.html
 https://mtbkab.bps.go.id/pencarian.html?searching=dalam+angka&yt1=Cari
 
+
+<!--
+
+Interesting approaches:
+
+* [MAPPING TOILETS IN INFORMAL SETTLEMENTS](http://code4sa.org/2015/10/01/mapping-informal-settlements-copy.html)
+
+
+-->

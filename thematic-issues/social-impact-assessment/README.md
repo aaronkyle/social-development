@@ -101,3 +101,9 @@ document.getElementById("git").innerHTML="<div id='map'></div>";
 }
 </script>
 -->
+
+<!--
+Interesting approaches;
+- https://openup.org.za/articles/mapping-sanitation.html
+
+-->

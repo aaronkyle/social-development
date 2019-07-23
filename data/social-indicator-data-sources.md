@@ -284,3 +284,6 @@ https://www.census.gov/data/developers/data-sets.html
 -->
 
 [data.gov](https://catalog.data.gov)
+
+[datahub.io](https://datahub.io/)
+  - DataHub began as a project by Datopian and Open Knowledge International--architects of CKAN, the world’s leading data portal platform that powers sites like data.gov and data.gov.uk. 

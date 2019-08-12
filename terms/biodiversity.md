@@ -26,6 +26,13 @@ are part; this includes diversity within species, between species and of ecosyst
 Annex 5: Glossary (Document B)
 
 biodiversity: The number and variety and variability of organisms within a particular region or habitat, measurable as genetic diversity, species diversity, and ecological diversity.  Ecologically, wide biodiversity is conducive to the development of all species among the living organisms.
+-->
+
+<!--
+Biodiversity is the variability among living organisms from all sources including, inter alia, terrestrial,
+marine and other aquatic ecosystems and the ecological complexes of which they are a part; this includes
+diversity within species, between species, and of ecosystems.
+World Bank. 2018. "Acronyms, abbreviations and glossary," _[Environmental and Social Framework Resources](https://www.worldbank.org/en/projects-operations/environmental-and-social-framework/brief/environmental-and-social-framework-resources)_ Washington D.C.: World Bank.
 
 -->
 
@@ -34,3 +41,4 @@ biodiversity: The number and variety and variability of organisms within a parti
 
 * International Finance Corporation. 2006. "[Glossary of Terms](http://www.ifc.org/wps/wcm/connect/9a9464804885598c8364d36a6515bb18/Glossary%2Bof%2BTerms.pdf?MOD=AJPERES&attachment=true&id=1322803900995)." Performance Standards and Guidance Notes - 2006 Edition. Washington D.C.: International Finance Corporation.
 * Asian Development Bank. 2009. *[Safeguard Policy Statement](http://www.adb.org/sites/default/files/institutional-document/32056/safeguard-policy-statement-june2009.pdf)*.
+* World Bank. 2018. "Acronyms, abbreviations and glossary," _[Environmental and Social Framework Resources](https://www.worldbank.org/en/projects-operations/environmental-and-social-framework/brief/environmental-and-social-framework-resources)_ Washington D.C.: World Bank.

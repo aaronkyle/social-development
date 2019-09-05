@@ -11,6 +11,11 @@ An environmental and social assessment [(ESA)](#) is a formalized report within 
 environmental and social impacts and risks of a project are identified, avoided, minimized, reduced or
 mitigated throughout the project life-cycle.
 
+
+Environmental and social impact assessment (ESIA) refers to an instrument to identify and assess the
+potential environmental and social impacts of a proposed project, evaluate alternatives, and design
+appropriate mitigation, management, and monitoring measures.
+
 Impact assessments are aggregated at varying levels.
 
 Compare:

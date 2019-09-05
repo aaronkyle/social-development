@@ -50,6 +50,13 @@ Typologies of Cultural Heritage Resources
 [^15]: Wikipedia. <http://en.wikipedia.org/wiki/Cultural_heritage_management>
 -->
 
+<!--
+Cultural heritage is defined as resources with which people identify as a reflection and expression of
+their constantly evolving values, beliefs, knowledge and traditions. 
+
+World Bank. 2018. "Acronyms, abbreviations and glossary," _[Environmental and Social Framework Resources](https://www.worldbank.org/en/projects-operations/environmental-and-social-framework/brief/environmental-and-social-framework-resources)_ Washington D.C.: World Bank.
+-->
+
 ## References
 
 [^1]: UNESCO Office in Cairo. [Tangible Cultural Heritage](http://www.unesco.org/new/en/cairo/culture/tangible-cultural-heritage/).　*[UNESCO website](http://www.unesco.org/)*.［Accessed 2014-March-25].

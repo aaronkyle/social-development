@@ -21,8 +21,8 @@
 
 <div id="mapid" style="width: 600px; height: 400px;"></div>
 <script>
-
-	var mymap = L.map('mapid').setView([38.9, -77.03], 2);
+        var data_geojson = d3.json(`https://raw.githubusercontent.com/aaronkyle/geospatial-data/master/MIDR_Resettlement_Dataset_2019_Shapefile/MIDR_dataset_20190801.geojson`)
+	var map = L.map('mapid').setView([38.9, -77.03], 2);
 
 	L.tileLayer('https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}@2x.png', {
       attribution: 'Wikimedia maps beta | &copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'

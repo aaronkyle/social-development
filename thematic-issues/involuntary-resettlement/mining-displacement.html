@@ -1,42 +1,38 @@
 <!DOCTYPE html>
 <html>
 <head>
-	
+
 	<title>Global Mining-Induced Displacement and Resettlement Events</title>
 
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	
-	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+
+	<!--<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />-->
 
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" crossorigin=""/>
     <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js" crossorigin=""></script>
     <script src="https://d3js.org/d3.v5.min.js"></script>
-
-	
-</head>
+    </head>
 <body>
 
 
 
 <div id="mapid" style="width: 600px; height: 400px;"></div>
 <script>
-        var data_geojson = d3.json(`https://raw.githubusercontent.com/aaronkyle/geospatial-data/master/MIDR_Resettlement_Dataset_2019_Shapefile/MIDR_dataset_20190801.geojson`)
+	var data_geojson = d3.json('https://raw.githubusercontent.com/aaronkyle/geospatial-data/master/MIDR_Resettlement_Dataset_2019_Shapefile/MIDR_dataset_20190801.geojson');
 	var map = L.map('mapid').setView([38.9, -77.03], 2);
-
 	L.tileLayer('https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}@2x.png', {
       attribution: 'Wikimedia maps beta | &copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 	}).addTo(map);
-
-	let data_geojson_layer = L.geoJson(data_geojson, {
+	var data_geojson_layer = L.geoJson(data_geojson, {
     onEachFeature: function(feature, layer){
         console.log(feature.properties);
-        var content = feature.properties["Mining_Pro"] + ", " + feature.properties["Country"]; 
+        content = feature.properties["Mining_Pro"] + ", " + feature.properties["Country"];
         layer.bindPopup(content);
   }
+
   }).addTo(map);
   map.fitBounds(data_geojson_layer.getBounds());
-
 </script>
 
 

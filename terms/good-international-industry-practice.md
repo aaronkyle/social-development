@@ -1,5 +1,5 @@
 ---
-title: good international industry practice plan 
+title: good international industry practice
 date:
 category:
 tags:

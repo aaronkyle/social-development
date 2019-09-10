@@ -2,7 +2,6 @@
 
 September 2019 
 
-[![Key Indicators for Asia and the Pacific 2019](https://www.adb.org/sites/default/files/styles/cover/public/publication/521981/cover-ki-2019.jpg?itok=uNrywZ4E)](https://www.adb.org/sites/default/files/publication/521981/ki2019.pdf)
 <strong>In developing Asia, the number of people living in extreme poverty declined from 1.1 billion in 2002 to 264 million in 2015. The vital data within Key Indicators are now accessible in a digitized format, with the new Key Indicators Database.</strong>
 
 [ View on the Key Indicators Database ](https://kidb.adb.org/kidb/)

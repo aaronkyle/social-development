@@ -1,6 +1,15 @@
 # Social Development Policy &amp; Practice
 <br/>
 
+> [!IMPORTANT]
+> **Follow [applied-anthro.com](https://applied-anthro.com/) for the latest work.**
+>
+> This repository began as an effort to make my discussions and writing on social development easy to access and share. Years later, I am moving beyond primarily authoring text discussions and increasingly working with interactive data and visualizations.
+>
+> Most of that work will now be developed in the application that powers applied-anthro.com. I will attempt to keep this GitHub repository updated to reflect important changes made there, but the content of the two sites will continue to diverge. Interactive features also do not always translate into GitHub page previews, which restrict JavaScript execution for security reasons.
+>
+> This repository will remain a useful companion and historical record, but applied-anthro.com should be treated as the current version of the work.
+
 ## Context
 
 **Social policy** has varied articulations and manifestations. This [repository](https://github.com/aaronkyle/social-development/) collects contextual information pertinent to social policy, including discussions of [social policy of international financial institutions](./social-policy/README.md), [international](./social-policy/international-law_good-practice/README.md) and [country](./social-policy/country-safeguard-systems/README.md) law and regulatory frameworks, and [helpful resources for social development practitioners](./ifi-implementation-resources/README.md).

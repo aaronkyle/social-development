@@ -4,7 +4,7 @@ date:
 category: terminology
 tags:
 slug: social-performance
-summary: :
+summary:
 status: draft
 ---
 

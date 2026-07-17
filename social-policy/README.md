@@ -1,43 +1,71 @@
+# social policy <br/>of development finance institutions
 
-## Social Policy
+<br/>
+<!---
+_This [repository](https://github.com/aaronkyle/social-development/) compiles (and attempts to establish some manner of categorising) social policy among international financial institutions (IFIs). <p>Currently I am limiting the analysis to my personal top 3._
+--->
+
+<!--
+## Contents
+<br/>
 
 
-In recent years, **[safeguards policies](http://applied-anthro.com/terms/safeguard-policy)** have been receiving considerable media attention as IFIs continue to invest time and resources in updating their safeguard policy frameworks. Yet safeguards are but one aspect of **[social policy](http://applied-anthro.com/terms/social-policy)**.  Other aspects include **social development policy** (including initiatives to mainstream gender-sensitive development; initiatives to ensure the participation and empowerment of people and communities affected by development processes), **social protection policy** (including social assistance and welfare service programs including child protection and micro- and area based schemes to address poverty, and vulnerability; social insurance programs to cushion risks associated with unemployment, ill-health, disability, work-related injury and old age; and labour market policies and programs designed to generate employment, improve working conditions), **human rights law**, etc. Unfortunately, IFI institutional treatments of social issues (such as web and print publications touting institutional contributions to social development) seldom help to situate different institutional initiatives and activities within their greater policy contexts.
+Asian Development Bank<br />
+&nbsp;&nbsp;&nbsp;    [Policy](./social-policy_adb.md) <br />
+&nbsp;&nbsp;&nbsp;    [Implementation Resources](../ifi-implementation-resources/implementation-resources_adb.md) <br />
 
-It can be challenging for clients to identify the range of social policy that may be applicable to a given project or development initiative. Adding a layer of complexity to any discussion of 'social policy' among international financial institutions (IFIs) are those policies that have an apparent 'social' orientation, but which are operational policies that come to bear only on internal bank operations.
+World Bank<br />
+&nbsp;&nbsp;&nbsp;    [Policy](./social-policy_world-bank.md)<br />
+&nbsp;&nbsp;&nbsp;    [Implementation Resources](../ifi-implementation-resources/implementation-resources_world-bank.md)<br />
+--->
+<!--
+3 Inter-American Development Bank<br />
+&nbsp;&nbsp;&nbsp;    3.1 [Policy](./social-policy_iadb.md)<br />
+&nbsp;&nbsp;&nbsp;    3.2 [Implementation Resources](#)<br />
+-->
 
-This repository compiles (and attempts to establish some manner of categorising) social policy among international financial institutions (IFIs).
+<!--
+International Finance Corporation (IFC)<br />
+&nbsp;&nbsp;&nbsp;    [Policy](./social-policy_ifc.md)<br />
+&nbsp;&nbsp;&nbsp;    [Implementation Resources](../ifi-implementation-resources/implementation-resources_ifc.md)<br />
+-->
+<!--
+5 European Bank for Reconstruction and Development<br />
+&nbsp;&nbsp;&nbsp;    5.1 [Policy](./social-policy_ebrd.md)<br />
+&nbsp;&nbsp;&nbsp;    5.2 [Implementation Resources](#)<br />
+-->
+<!--
+  6 Overseas Private Investment Corporation (OPIC)<br />
+&nbsp;&nbsp;&nbsp;    6.1 [Policy](./social-policy_opic.md)<br />
+-->
+
+
+## Context
+
+It can be challenging for clients to identify the range of social policy that may be applicable to a given project or development initiative. In recent years, **[safeguards policies](../terms/safeguard-policy.md)** have been receiving considerable media attention as IFIs continue to invest time and resources in updating their safeguard policy frameworks. Yet safeguards are but one aspect of **[social policy](../terms/social-policy.md)**.  Other aspects include **social development policy** (including initiatives to mainstream gender-sensitive development; initiatives to ensure the participation and empowerment of people and communities affected by development processes), **social protection policy** (including social assistance and welfare service programs including child protection and micro- and area based schemes to address poverty, and vulnerability; social insurance programs to cushion risks associated with unemployment, ill-health, disability, work-related injury and old age; and labour market policies and programs designed to generate employment, improve working conditions), **human rights law**, etc.
+
+Adding a layer of complexity to any discussion of 'social policy' among international financial institutions (IFIs) are those policies that have an apparent 'social' orientation, but which are operational policies that come to bear only on internal bank operations. Unfortunately, IFI institutional treatments of social issues (such as web and print publications touting institutional contributions to social development) seldom help to situate different institutional initiatives and activities within their greater policy contexts.
+
+The aim of this work is to help track the evolution and applicability of development policy and to help disambiguate and nuance terms and concepts.  For the moment, I focus on the social policies of three development finance institutions: [Asian Development Bank](./social-policy_adb.md), [International Finance Corporation](./social-policy_ifc.md), and [World Bank](./social-policy_world-bank.md)&mdash;identifying policy origins, tracing their evolution, and distinguishing between obligatory and aspirational standards.  While my professional work has at times touched on the policies of other financial institutions, and while these may one day find a place in this discussion, history has proven that it's hard enough to maintain the discussion of these three. So for now, this is it.
+
+Meanwhile, in case you're looking to skip my verbose discussions and to [cut directly to the chase](https://docs.google.com/spreadsheets/d/1GeGQl7taWmntXbuk69gHTbsK6IxpseJtHeawqcMvFDk/edit?usp=sharing), here's [a list](https://github.com/aaronkyle/social-development/blob/master/social-policy/social-policy_ifi.xlsx) (now outdated) of IFI social development policies and implementation resources for quick reference. See something missing?  A broken link? Leave a comment, file an issue, or reach out to me directly. 
+
+<div style="position: relative; width: 100%; height: 500px; overflow: hidden;">
+    <iframe style="width: 100%; height: 550px; border: 0; margin-top: -40px;" 
+        src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQbZKVMwPGTYgxzrg_Gc6MUCeHUo1vlr1tIaGWxeEFHkb1aJc236BtgOI7KmZGNOiEYIHm8I4--caVh/pubhtml?widget=true&amp;headers=false">
+    </iframe>
+</div>
+
 
 
 <hr/>
-
+<!--
 <p>
 <span id="github-menu"><strong>NOTE:</strong> The menu links below will not work if you are viewing this site via GitHub.<br/>Please browse from the folder level: <a href="https://github.com/aaronkyle/social-development/tree/master/social-policy">policy</a> | <a href="https://github.com/aaronkyle/social-development/tree/gh-pages/ifi-implementation-resources">implementation resources</a></span>
 </p>
+-->
 
-<hr/>
-
-
-
-  1 Asian Development Bank<br />
-&nbsp;&nbsp;&nbsp;    1.1 [Policy](http://applied-anthro.com/social-policy/social-policy_adb) <br />
-&nbsp;&nbsp;&nbsp;    1.2 [Implementation Resources](http://applied-anthro.com/ifi-implementation-resources/implementation-resources_adb) <br />
-  2 World Bank<br />
-&nbsp;&nbsp;&nbsp;    2.1 [Policy](social-policy_world-bank)<br />
-&nbsp;&nbsp;&nbsp;    2.2 [Implementation Resources](http://applied-anthro.com/ifi-implementation-resources/implementation-resources_world-bank)<br />
-  3 Inter-American Development Bank<br />
-&nbsp;&nbsp;&nbsp;    3.1 [Policy](http://applied-anthro.com/social-policy_iadb)<br />
-&nbsp;&nbsp;&nbsp;    3.2 [Implementation Resources](#)<br />
-  4 International Finance Corporation (IFC)<br />
-&nbsp;&nbsp;&nbsp;    4.1 [Policy](http://applied-anthro.com/social-policy_ifc)<br />
-&nbsp;&nbsp;&nbsp;    4.2 [Implementation Resources](http://applied-anthro.com/ifi-implementation-resources/implementation-resources_ifc)<br />
-  5 European Bank for Reconstruction and Development<br />
-&nbsp;&nbsp;&nbsp;    5.1 [Policy](http://applied-anthro.com/ebrd-policy)<br />
-&nbsp;&nbsp;&nbsp;    5.2 [Implementation Resources](#)<br />
-  6 Overseas Private Investment Corporation (OPIC)<br />
-&nbsp;&nbsp;&nbsp;    6.1 [Policy](http://applied-anthro.com/opic-policy)<br />
-
-<hr />
+<!--
 
 <p>
 <a class="btn btn-primary" data-toggle="collapse" href="#terminology-toggle" role="button" aria-expanded="false" aria-controls="terminology-toggle">
@@ -51,11 +79,11 @@ This repository compiles (and attempts to establish some manner of categorising)
 
 <p>Toward defining 'social policy', most IFIs maintain some form of <a href="">operations manual</a>&mdash;policies for effecting the mandates of their institutional charters. In addition to board-approved policies and regulations, some IFI operations manuals also include notes of guidance staff and clients that elaborate on the intended meaning of policy provisions and to inform better implementation.</p>
 
-<p>For example, while the Asian Development Bank’s operations manual refers only to policies (which the ADB terms <strong>'operational procedures'</strong>, or OPs), the operations manual of the World Bank contains <strong>operational policies</strong> (OPs), <strong>bank procedures</strong> (BPs), <strong>directives</strong>, as well as interim instructions to staff (referred to OpMemos).</p>
+<p>For example, while the Asian Development Bank’s operations manual refers only to policies (which the ADB terms <strong>'operational procedures'</strong>, or OPs), the operations manual of the World Bank contains <strong>operational policies</strong> (OPs), <strong>bank procedures</strong> (BPs), <strong>directives</strong>, as well as interim instructions to staff (referred to as OpMemos).</p>
 
 <p>Distinctions between ‘policy’ a ‘guidance’ can be difficult to discern in the absence of project legal agreements. It is not always possible for clients to discern what is <em>required</em> from that which is simply “recommended” (a question that my clients often pose when considering my recommendations for policy implementation).</p>
 
-<p>To help address definitional ambiguity, I have <a href="./terms/terminology.html">started to compile definitions for common terms</a>. This list is not meant to be exhaustive, and my focus is specific to social development concerns.</p>
+<p>To help address definitional ambiguity, I have <a href="../terms/terminology.md">started to compile definitions for common terms</a>. This list is not meant to be exhaustive, and my focus is specific to social development concerns.</p>
 </div>
 </div>
 
@@ -82,7 +110,7 @@ This repository compiles (and attempts to establish some manner of categorising)
 </a></p>
 <div class="collapse" id="faq-toggle">
 <div class="card card-body">
-<p><strong>Am I analyzing social policy elswhere (in this repo or otherwise)?</strong></p>
+<p><strong>Am I analyzing social policy elsewhere (in this repo or otherwise)?</strong></p>
 <p>Yes.  Here are links to Google Spreadsheets that I use to try to follow developments in social policy:</p>
 <p>
 <ul>
@@ -95,7 +123,7 @@ This repository compiles (and attempts to establish some manner of categorising)
 
 
 <hr />
-
+-->
 
 <!--
 
@@ -118,8 +146,8 @@ This repository compiles (and attempts to establish some manner of categorising)
 <h3></h3>
 <p><b>Asian Development Bank</b></p>
 <ul>
-<li><a href="http://applied-anthro.com/context/social-policy_adb.html">Discussion of Social Policy</a></li>
-<li><a href="http://applied-anthro.com/context/implementation-resources_adb.html">Implementation Resources</a></li>
+<li><a href="./social-policy_adb.md">Discussion of Social Policy</a></li>
+<li><a href="../ifi-implementation-resources/implementation-resources_adb.md">Implementation Resources</a></li>
 </ul>
 <p><b>International Finance Corporation (IFC)</b></p>
 <ul>
@@ -130,13 +158,13 @@ This repository compiles (and attempts to establish some manner of categorising)
 
 <p><b>World Bank</b></p>
 <ul>
-<li><a href="http://applied-anthro.com/context/social-policy_world-bank.html">Discussion of Social Policy</a></li>
-<li><a href="http://applied-anthro.com/context/implementation-resources_world-bank.html">Implementation Resources</a></li>
+<li><a href="./social-policy_world-bank.md">Discussion of Social Policy</a></li>
+<li><a href="../ifi-implementation-resources/implementation-resources_world-bank.md">Implementation Resources</a></li>
 </ul>			  </div>
 
 
 <div class="tab-pane" id="2a">
-<h3><strong>Policy of the Asian Development Bank<sup> * <a href="http://applied-anthro.com/context/social-policy_adb.html">Jump from here</a> to a discussion of social policy.</sup></strong></h3>
+<h3><strong>Policy of the Asian Development Bank<sup> * <a href="./social-policy_adb.md">Jump from here</a> to a discussion of social policy.</sup></strong></h3>
 <p><a name="adb-operational-policy"></a></p>
 <p>The central policy instrument of the Asian Development Bank is its *Operations Manual*. The ADB <a href="http://www.adb.org/documents/operations-manual">Operations Manual (OM)</a> collects operational policies known as <a href="" title="*bank policies*: short, focused statements defining borrower client obligations">Bank Policies (BPs)</a> that follow from ADB Charter, regulations of the <a href="http://www.adb.org/site/adf/main">ADF</a> and <a href="http://www.adb.org/site/funds/ocr">OCR</a>, as well as <a href="http://www.adb.org/about/other-operational-policies-and-strategies">other operational policies and strategies</a> adopted by the <a href="http://www.adb.org/about/board-directors">ADB Board of Directors</a>. The OM also includes <a href="#" title="procedural requirements and guidance on policy implementation">Operational Procedures (OPs)</a> that spell out procedural requirements and guidance on policy implementation.</p>
 <h3 id="the-adb-operation-manual-om">Operation Manual (OM)</h3>
@@ -341,7 +369,7 @@ This repository compiles (and attempts to establish some manner of categorising)
 
 </div>
 <div class="tab-pane" id="4a">
-<h3><strong>Policy of the World Bank<sup> * <a href="http://applied-anthro.com/context/social-policy_world-bank.html">Jump from here</a> to a dicussion of social policy.</sup></strong></h3>
+<h3><strong>Policy of the World Bank<sup> * <a href="./social-policy_world-bank.md">Jump from here</a> to a discussion of social policy.</sup></strong></h3>
 <p></p>
 <h3 id="the-adb-operation-manual-om">Operations Manual (OM)</h3>
 <table class="table-responsive table-bordered table-striped table-condensed">

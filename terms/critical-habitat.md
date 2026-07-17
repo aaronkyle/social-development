@@ -4,7 +4,7 @@ date: 2006-10-28 06:56
 category: terminology
 tags: ADB
 slug: critical-habitat
-summary: : subset of both natural and modified habitat that deserves particular attention.
+summary: subset of both natural and modified habitat that deserves particular attention.
 ---
 
 The term **critical habitat** refers to areas with high biodiversity importance or value, including habitat required for the survival of critically endangered or endangered species, such as listed on the International

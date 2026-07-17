@@ -1,4 +1,4 @@
-## Steps for Developing a Migration Management Plan
+# Steps for Developing a Migration Management Plan
 
 ### Objectives
 

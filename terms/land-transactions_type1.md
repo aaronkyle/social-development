@@ -4,7 +4,7 @@ date:
 category: terminology
 tags:
 slug: land-transaction-type-1
-summary: :
+summary: ""
 status: draft
 ---
 

@@ -1,97 +1,89 @@
+# IFC Implementation Resources
 
+<p>&nbsp;</p>
 
-* [Stakeholder Engagement: A Good Practice Handbook for Companies Doing Business in Emerging Markets](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_StakeholderEngagement_Full/$FILE/IFC_StakeholderEngagement.pdf)
+## Good Practice Notes & Handbooks
 
-* [Doing Better Business through Effective Public Consultation and Disclosure](http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/p_pubconsult/$FILE/PublicConsultation.pdf)
-
-
-* [Addressing Grievances from Project-Affected Communities: Guidance for Projects and Companies on Designing Grievance Mechanisms](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_GrievanceMechanisms/$FILE/IFC+Grievance+Mechanisms.pdf)
-
-
-* IFC 2008, Project-Induced In-Migration: Risk Assessment and Management Strategies, Washington DC: Environment and Social Division, CommDev.
-
-
-* [Projects and People: A Handbook for Addressing Project-Induced In-Migration (2009)](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_Inmigration) [[PDF]](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_full.pdf/$FILE/Influx_Full.pdf)
-   - [The business case for addressing project-induced in-migration](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part1.pdf/$FILE/Influx_Part1.pdf)
-   - [The project-induced in-migration phenomenon](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part2.pdf/$FILE/Influx_Part2.pdf)
-   - [The assessment of the probability of project-induced in-migration and the risks that such in-migration poses to a project](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part3.pdf/$FILE/Influx_Part3.pdf)
-   - [Management approaches](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part4.pdf/$FILE/Influx_Part4.pdf)
-   - [Developing a management strategy and integrating it into the project](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part5.pdf/$FILE/Influx_Part5.pdf)
-   - [Additional information and document templates](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_Annexes.pdf/$FILE/Influx_Annexes.pdf)
-   - [Chad Cameroon Pipeline Project](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_casestudies_chadcameroon/$FILE/Chad+Cameroon+Pipeline+Project.pdf)
-   - [Ongoing discussion about project induced in-migration](http://commdev.org/content/blog/detail/2092/)
-
-
-* [Free Prior Informed Consultation](http://www.ifc.org/wps/wcm/connect/1ab9f60048855b56889cda6a6515bb18/FPIC.pdf?MOD=AJPERES&attachment=true&id=1322807873478)
-
-* [Handbook on Doing Better Business through Effective Public Consultation](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_DoingBetterBusiness)
-
-* [Handbook on Stakeholder Engagement](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_StakeholderEngagement)
-
-
-* [Good Practice Note on Non-Discrimination and Equal Opportunity](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_GPN_NonDiscrimination)
-
-* [Good Practice Note on Managing Retrenchment](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_GPN_Retrenchment)
-
-* [Workers' Accommodation: Processes and Standards](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_GPN_WorkersAccommodation)
-
-* [Labor Toolkit: A Practical Screening and Due Diligence Tool for Project Review](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_LaborToolkit/$FILE/Labor+Toolkit.pdf)
-
-* [Environmental, Health, and Safety Guidelines](http://www.ifc.org/ifcext/sustainability.nsf/Content/EHSGuidelines) | [русский](http://www.ifc.org/ifcext/sustainability.nsf/Content/EHSGuidelines_Russian) | [简体中文](http://www.ifc.org/ifcext/sustainability.nsf/Content/EHSGuidelines_Chinese)
-
-* [Handbook on Preparing a Resettlement Action Plan](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_RAP)
-
-* [IFC Guide to Human Rights Impact Assessment and Management (online tool)](http://www.guidetohriam.org/welcome) [(alt link; short PDF intro)](http://www.guidetohriam.org/app/images/documents/Guide%20to%20HRIAM%20booklet%20English.pdf)
-
----
-
+* [Stakeholder Engagement: A Good Practice Handbook for Companies Doing Business in Emerging Markets](https://www.ifc.org/en/insights-reports/2000/publications-handbook-stakeholderengagement--wci--1319577185063 "original URL: http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_StakeholderEngagement_Full/$FILE/IFC_StakeholderEngagement.pdf")
+* [Handbook on Stakeholder Engagement](https://www.ifc.org/en/insights-reports/2000/publications-handbook-stakeholderengagement--wci--1319577185063 "original URL: http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_StakeholderEngagement")
+* [Handbook on Doing Better Business through Effective Public Consultation](https://www.ifc.org/en/insights-reports/1990/publications-handbook-doingbetterbusiness--wci--1319576642349 "original URL:http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_DoingBetterBusiness")
+* [Good Practice Note on Non-Discrimination and Equal Opportunity](https://www.ifc.org/en/insights-reports/2000/publications-gpn-nondiscrimination "original URL: http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_GPN_NonDiscrimination")
+* [Good Practice Note: Managing Contractors' Environmental and Social Performance](https://www.ifc.org/en/insights-reports/2017/publications-gpn-escontractormanagement)
+* [Good Practice Note on Managing Retrenchment](https://www.ifc.org/en/insights-reports/2000/publications-gpn-retrenchment "original URL: http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_GPN_Retrenchment")
+* [Handbook on Preparing a Resettlement Action Plan](https://documents1.worldbank.org/curated/ru/492791468153884773/pdf/246740PUB0REPL020020Box12600PUBLIC0.pdf "original URl: http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_RAP")
 * [Cumulative Impact Assessment and Management : Guidance for the Private Sector in Emerging Markets](https://openknowledge.worldbank.org/handle/10986/17842) | [PDF](https://openknowledge.worldbank.org/bitstream/handle/10986/17842/864920WP0IFC0G0IC00Department0CESPQ.pdf?sequence=1&isAllowed=y)
+* [Projects and People: A Handbook for Addressing Project-Induced In-Migration (2009)](https://www.ifc.org/en/insights-reports/2011/handbook-for-addressing-project-induced-in-migration "original URL: http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Handbook_Inmigration") [[PDF]](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_full.pdf/$FILE/Influx_Full.pdf)
+* [ESMS Implementation Handbook](https://www.ifc.org/content/dam/ifc/doc/mgrt/esms-handbook-general-v21.pdf "original URL: https://www.ifc.org/wps/wcm/connect/22dc7500483774689335f7299ede9589/ESMS+Handbook+General+v2.1.pdf?MOD=AJPERES")
+* [Good Practice Note: IFC Life and Fire Safety: Hospitals](https://www.ifc.org/en/insights-reports/2017/publications-gpn-lfs-hospitals)
+* [Good Practice Note: IFC Life and Fire Safety: Hotels](https://www.ifc.org/en/insights-reports/2017/publications-gpn-lfs-hotels)
+* [Good Practice Note: Environmental, Health, and Safety Approaches for Hydropower Projects](https://www.ifc.org/en/insights-reports/2018/publications-gpn-ehshydropwer)
+* [Good Practice Handbook on Environmental Flows for Hydropower Projects](https://www.ifc.org/en/insights-reports/2018/publications-handbook-eflows)
 
+<!--* [Doing Better Business through Effective Public Consultation and Disclosure](http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/p_pubconsult/$FILE/PublicConsultation.pdf)-->
 
----
+<!--
+* [IFC Guide to Human Rights Impact Assessment and Management (online tool)](http://www.guidetohriam.org/welcome ) [(alt link; short PDF intro)](http://www.guidetohriam.org/app/images/documents/Guide%20to%20HRIAM%20booklet%20English.pdf)
+-->
 
-[BRIEF: Community Engagement Strategies](https://openknowledge.worldbank.org/handle/10986/29473) | [PDF](https://openknowledge.worldbank.org/bitstream/handle/10986/29473/124290-BRI-PUBLIC-KN15.pdf?sequence=1&isAllowed=y)
+<!--
+[
+1 MAR 2017
+## Good Practice Handbook: Use of Security Forces: Assessing and Managing Risks and Impacts
+This Good Practice Handbook on the Use of Security Forces: Assessing and Managing Risks and Impacts has been developed for IFC clients and other private sector companies and their consultants. The handbook provides practical, project-level guidance for companies to better understand and implement the requirements outlined in Performance Standard 4. Chapters focus on risk assessment, managing private security, managing the relationship with public security, preparing a security management plan, and assessing allegations or incidents related to security personnel.
+142 pages | © February 2017 IFC | Complimentary
+](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_handbook_securityforces)
 
----
+-->
+<!--
+OCT 20, 2017
 
-* [ESG RESOURCES FOR COMPANIES](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/tools+for+clients)
+Good Practice Note: Managing Contractors' Environmental and Social Performance
+This Good Practice Note (GPN) is aimed at helping clients implement sound, consistent, and effective approaches, in compliance with IFC requirements, to manage the environmental and social (E&S) performance of their contractors, subcontractors, and other third parties working for the project.
 
-Environmental and Social Training Courses
+48 pages | © October 2017 IFC | Complimentary
 
-* [Sustainability Training and E-Learning Program (STEP)](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/tools+for+clients#STEP)
-* [E-Learning Course on Managing Environmental and Social Performance](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/tools+for+clients#elearning)
+[
+20 OCT 2017
 
-Resources for Financial Institutions
+## Good Practice Note: Managing Contractors' Environmental and Social Performance
+This Good Practice Note (GPN) is aimed at helping clients implement sound, consistent, and effective approaches, in compliance with IFC requirements, to manage the environmental and social (E&S) performance of their contractors, subcontractors, and other third parties working for the project.
+48 pages | © October 2017 IFC | Complimentary
+](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_gpn_escontractormanagement)
 
-* FIRST (Financial Institutions: Resources Solutions and Tools) for Sustainability](http://firstforsustainability.org/)
-
-IFC Sustainability Webinar Series
-
-The [IFC Sustainability Webinar Series](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/ifc_sustainability_webinars) offers IFC expertise and thought leadership on sustainability issues. Recorded sessions and presentation are available on our [website](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/ifc_sustainability_webinars).
-
-
----
-
-
-[ESMS Implementation Handbook](https://www.ifc.org/wps/wcm/connect/22dc7500483774689335f7299ede9589/ESMS+Handbook+General+v2.1.pdf?MOD=AJPERES)
-
+-->
+<!--
 The [ESMS Implementation Handbook](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_handbook_esms-general) is for firms who wish to implement a management system in line with the requirements of IFC Performance Standard 1. The Handbook provides step-by-step instructions on how to develop and implement a management system addressing common environmental, occupational health and safety (OHS), labor, and community risks and impacts that companies are likely to face.
-
-
-ESMS Self-Assessment and Improvement Guide [Excel]: Download in [English](https://www.surveymonkey.com/r/esms-english) | Español | Français | Türkçe
-The ESMS Self-Assessment and Improvement Guide (excel versions) contain a questionnaire, maturity matrix and improvement tips to help a company measure the maturity of its management system and develop a plan for improvement.
-
-ESMS Self-Assessment and Improvement Guide [PDF]: [English](https://www.ifc.org/wps/wcm/connect/e44e08004a5a44c58a0ecf9c54e94b00/ESMS+Self+Assessment+v2.3+EN.pdf?MOD=AJPERES) | Français | Español | Português | Türkçe | русский | 简体中文 | عربي
-The ESMS Self-Assessment and Improvement Guide contains a questionnaire and improvement tips to help assess your ESMS and develop an improvement plan.
-
-ESMS Toolkit - General [PDF]: [English](https://www.ifc.org/wps/wcm/connect/38089d8048377ccb9384f7299ede9589/ESMS_Toolkit_General.pdf?MOD=AJPERES) | Français | Español | Português | Türkçe | русский | 简体中文 | عربي
-The ESMS Toolkit - General provides tools — checklists, templates, and forms — to help you implement your ESMS improvement plan.
-
-
-* [Series - International Finance Corporation (IFC) chronological and subject files](https://archivesholdings.worldbank.org/international-finance-corporation-ifc-chronological-and-subject-files)
+-->
 
 <!--
 
+[
+31 JUL 2017
+## Good Practice Note: IFC Life and Fire Safety: Hospitals
+The Life and Fire Safety Good Practice Note on Hospitals is a guideline for investment projects in both new and existing occupancies.
+48 pages | © July 2017 IFC | Complimentary
+](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_gpn_lfs-hospitals)[
+31 JUL 2017
+## Good Practice Note: IFC Life and Fire Safety: Hotels
+The Life and Fire Safety Good Practice Note on Hotels is a guideline for investment projects in both new and existing occupancies.
+46 pages | © July 2017 IFC | Complimentary
+](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_gpn_lfs-hotels)
+JUL 31, 2017
+
+Good Practice Note: IFC Life and Fire Safety: Hospitals
+The Life and Fire Safety Good Practice Note on Hospitals is a guideline for investment projects in both new and existing occupancies.
+
+48 pages | © July 2017 IFC | Complimentary
+
+JUL 31, 2017
+
+Good Practice Note: IFC Life and Fire Safety: Hotels
+The Life and Fire Safety Good Practice Note on Hotels is a guideline for investment projects in both new and existing occupancies.
+
+46 pages | © July 2017 IFC | Complimentary
+
+-->
+<!--
 
 MAR 12, 2018
 
@@ -100,12 +92,157 @@ This Good Practice Note is intended to be used in conjunction with other EHS Gui
 
 74 pages | © March 2018 IFC | Complimentary
 
+-->
+
+<!--
 MAR 2, 2018
 
 Good Practice Handbook on Environmental Flows for Hydropower Projects
 This Good Practice Handbook provides guidance to practitioners on taking rigorous and consistent approaches to assess and manage hydropower project impacts on downstream river ecosystems and people, through the assessment and provision of environmental flows (EFlows).
 
 154 pages | © March 2018 | Complimentary
+
+World Bank. 2018. Good practice note : environmental, health, and safety approaches for hydropower projects (English). IFC Good practice note. Washington, D.C. : World Bank Group. http://documents.worldbank.org/curated/en/780291523529231720/Good-practice-note-environmental-health-and-safety-approaches-for-hydropower-projects | [PDF](http://documents.worldbank.org/curated/en/780291523529231720/pdf/WP-IFC-PUBLIC-SERIES-Good-practice-note-GPN-EHSHydropower.pdf)
+
+
+[
+12 MAR 2018
+## Good Practice Note: Environmental, Health, and Safety Approaches for Hydropower Projects
+This Good Practice Note is intended to be used in conjunction with other EHS Guidelines and IFC's Performance Standards to identify, avoid, mitigate, and manage EHS risks and impacts in hydropower projects.
+74 pages | © March 2018 IFC | Complimentary
+](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_gpn_ehshydropwer)[
+2 MAR 2018
+## Good Practice Handbook on Environmental Flows for Hydropower Projects
+This Good Practice Handbook provides guidance to practitioners on taking rigorous and consistent approaches to assess and manage hydropower project impacts on downstream river ecosystems and people, through the assessment and provision of environmental flows (EFlows).
+154 pages | © March 2018 IFC | Complimentary
+](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_handbook_eflows)
+
+
+-->
+
+<!--
+
+[
+3 DEC 2018
+## Good Practice Note: Managing Risks Associated with Modern Slavery
+This Good Practice Note supports the private sector in the fight against modern slavery by providing companies in emerging markets the tools to identify and manage potential risks proactively.
+80 pages | © December 2018 IFC, CDC Group Plc, the European Bank for Reconstruction and Development (EBRD) and the UK Department for International Development (DFID) | Complimentary
+](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_gpn_modernslavery)
+
+
+-->
+
+## Implementation Guides
+
+
+* [Doing Better Business through Effective Public Consultation and Disclosure](https://www.ifc.org/en/insights-reports/1990/publications-handbook-doingbetterbusiness--wci--1319576642349 "original URL: http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/p_pubconsult/$FILE/PublicConsultation.pdf")
+* [Addressing Grievances from Project-Affected Communities: Guidance for Projects and Companies on Designing Grievance Mechanisms](https://www.ifc.org/en/insights-reports/2000/publications-gpn-grievances "original URL: http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_GrievanceMechanisms/$FILE/IFC+Grievance+Mechanisms.pdf")
+* [Workers' Accommodation: Processes and Standards](https://www.ifc.org/en/insights-reports/2000/publications-gpn-workersaccommodation "original URL: http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_GPN_WorkersAccommodation")
+* [Labor Toolkit: A Practical Screening and Due Diligence Tool for Project Review](https://web.archive.org/web/20110810020910/http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_LaborToolkit/$FILE/Labor+Toolkit.pdf "original URL: http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_LaborToolkit/$FILE/Labor+Toolkit.pdf")
+* [Environmental and Social Management System (ESMS) Implementation Handbook - GENERAL](https://www.ifc.org/en/insights-reports/2015/publications-handbook-esms-general)
+* [ESMS Self-Assessment and Improvement Guide](https://www.ifc.org/content/dam/ifc/doc/mgrt/esms-self-assessment-v23-en.pdf "original URL: https://www.ifc.org/wps/wcm/connect/e44e08004a5a44c58a0ecf9c54e94b00/ESMS+Self+Assessment+v2.3+EN.pdf?MOD=AJPERES") | [*.XLSX](https://www.ifc.org/content/dam/ifc/doc/2010/esms-self-assessment-en.xlsx)
+
+<!--
+* [Addressing Grievances from Project-Affected Communities: Guidance for Projects and Companies on Designing Grievance Mechanisms](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_GrievanceMechanisms/$FILE/IFC+Grievance+Mechanisms.pdf)
+-->
+<!--
+[Excel]: Download in [English](https://www.surveymonkey.com/r/esms-english) | Español | Français | Türkçe
+The ESMS Self-Assessment and Improvement Guide (excel versions) contain a questionnaire, maturity matrix and improvement tips to help a company measure the maturity of its management system and develop a plan for improvement.
+
+* ESMS Self-Assessment and Improvement Guide [PDF]: [PDF](https://www.ifc.org/content/dam/ifc/doc/mgrt/esms-self-assessment-v23-en.pdf "original URL: https://www.ifc.org/wps/wcm/connect/e44e08004a5a44c58a0ecf9c54e94b00/ESMS+Self+Assessment+v2.3+EN.pdf?MOD=AJPERES") 
+-->
+
+<!-- | Français | Español | Português | Türkçe | русский | 简体中文 | عربي
+The ESMS Self-Assessment and Improvement Guide contains a questionnaire and improvement tips to help assess your ESMS and develop an improvement plan.-->
+
+
+<!--
+
+[
+31 MAR 2015
+## Environmental and Social Management System (ESMS) Implementation Handbook - METAL PRODUCTS MANUFACTURING
+The ESMS Implementation Handbook is for firms who wish to implement a management system in line with the requirements of IFC Performance Standard 1. The Handbook and companion publications – ESMS Toolkit and ESMS Self-Assessment and Improvement Guide – are designed to help companies assess and improve their ESMS.
+64 pages | © March 2015 IFC | Complimentary
+](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_handbook_esms-metalproductsmanufacturing)[
+31 MAR 2015
+## Environmental and Social Management System (ESMS) Implementation Handbook - HEALTH CARE FACILITIES
+The ESMS Implementation Handbook is for firms who wish to implement a management system in line with the requirements of IFC Performance Standard 1. The Handbook and companion publications – ESMS Toolkit and ESMS Self-Assessment and Improvement Guide – are designed to help companies assess and improve their ESMS.
+66 pages | © March 2015 IFC | Complimentary
+](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_handbook_esms-healthcarefacilities)
+-->
+
+## Industry Standards
+
+* [Environmental, Health, and Safety Guidelines](https://www.ifc.org/en/insights-reports/2000/general-environmental-health-and-safety-guidelines "original URL: http://www.ifc.org/ifcext/sustainability.nsf/Content/EHSGuidelines") <!--| [русский](http://www.ifc.org/ifcext/sustainability.nsf/Content/EHSGuidelines_Russian) | [简体中文](http://www.ifc.org/ifcext/sustainability.nsf/Content/EHSGuidelines_Chinese)-->
+
+<!--
+* [IFC Guide to Human Rights Impact Assessment and Management (online tool)](http://www.guidetohriam.org/welcome) [(alt link; short PDF intro)](http://www.guidetohriam.org/app/images/documents/Guide%20to%20HRIAM%20booklet%20English.pdf)
+-->
+
+
+## Briefing Notes
+
+* [BRIEF: Community Engagement Strategies](https://openknowledge.worldbank.org/handle/10986/29473) | [PDF](https://openknowledge.worldbank.org/bitstream/handle/10986/29473/124290-BRI-PUBLIC-KN15.pdf?sequence=1&isAllowed=y)
+
+
+## Additional Resources
+
+* [ESG RESOURCES FOR COMPANIES](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/tools+for+clients)
+* [ESMS Toolkit - General](https://www.ifc.org/content/dam/ifc/doc/mgrt/esms-toolkit-general.pdf "original URL: https://www.ifc.org/wps/wcm/connect/38089d8048377ccb9384f7299ede9589/ESMS_Toolkit_General.pdf?MOD=AJPERES")
+* [IFC Sustainability Webinar Series](https://www.youtube.com/playlist?list=PLGBe_3fRx1V6OTdsmx2BhMrWLZJVYLG5B)
+
+<!-- | Français | Español | Português | Türkçe | русский | 简体中文 | عربي
+The ESMS Toolkit - General provides tools — checklists, templates, and forms — to help you implement your ESMS improvement plan.
+-->
+
+<!--
+The [IFC Sustainability Webinar Series](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/ifc_sustainability_webinars) offers IFC expertise and thought leadership on sustainability issues. Recorded sessions and presentation are available on our [website](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/ifc_sustainability_webinars).
+-->
+
+
+<!--
+Environmental and Social Training Courses
+-->
+<!--
+* [Sustainability Training and E-Learning Program (STEP)](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/tools+for+clients#STEP)
+* [E-Learning Course on Managing Environmental and Social Performance](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/company-resources/tools+for+clients#elearning)
+-->
+
+<!--
+Resources for Financial Institutions
+
+* FIRST (Financial Institutions: Resources Solutions and Tools) for Sustainability](http://firstforsustainability.org/)
+-->
+
+
+<!--
+* IFC 2008, Project-Induced In-Migration: Risk Assessment and Management Strategies, Washington DC: Environment and Social Division, CommDev.
+-->
+<!--
+   - [The business case for addressing project-induced in-migration](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part1.pdf/$FILE/Influx_Part1.pdf)
+   - [The project-induced in-migration phenomenon](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part2.pdf/$FILE/Influx_Part2.pdf)
+   - [The assessment of the probability of project-induced in-migration and the risks that such in-migration poses to a project](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part3.pdf/$FILE/Influx_Part3.pdf)
+   - [Management approaches](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part4.pdf/$FILE/Influx_Part4.pdf)
+   - [Developing a management strategy and integrating it into the project](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_part5.pdf/$FILE/Influx_Part5.pdf)
+   - [Additional information and document templates](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_Annexes.pdf/$FILE/Influx_Annexes.pdf)
+   - [Chad Cameroon Pipeline Project](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/rep_influx_casestudies_chadcameroon/$FILE/Chad+Cameroon+Pipeline+Project.pdf)
+   - [Ongoing discussion about project induced in-migration](http://commdev.org/content/blog/detail/2092/)
+-->
+<!--
+* [Free Prior Informed Consultation](http://www.ifc.org/wps/wcm/connect/1ab9f60048855b56889cda6a6515bb18/FPIC.pdf?MOD=AJPERES&attachment=true&id=1322807873478)
+-->
+
+
+
+<!--
+* [Series - International Finance Corporation (IFC) chronological and subject files](https://archivesholdings.worldbank.org/international-finance-corporation-ifc-chronological-and-subject-files)
+-->
+
+<!--
+
+
+
+
 
 FEB 26, 2018
 
@@ -123,28 +260,6 @@ This tip sheet outlines how IFC's Environmental and Social Performance Standards
 
 
 
-
-OCT 20, 2017
-
-Good Practice Note: Managing Contractors' Environmental and Social Performance
-This Good Practice Note (GPN) is aimed at helping clients implement sound, consistent, and effective approaches, in compliance with IFC requirements, to manage the environmental and social (E&S) performance of their contractors, subcontractors, and other third parties working for the project.
-
-48 pages | © October 2017 IFC | Complimentary
-
-
-JUL 31, 2017
-
-Good Practice Note: IFC Life and Fire Safety: Hospitals
-The Life and Fire Safety Good Practice Note on Hospitals is a guideline for investment projects in both new and existing occupancies.
-
-48 pages | © July 2017 IFC | Complimentary
-
-JUL 31, 2017
-
-Good Practice Note: IFC Life and Fire Safety: Hotels
-The Life and Fire Safety Good Practice Note on Hotels is a guideline for investment projects in both new and existing occupancies.
-
-46 pages | © July 2017 IFC | Complimentary
 
 
 APR 11, 2017
@@ -216,7 +331,6 @@ Short URL for this page: http://www.ifc.org/communityoflearning
 
 * [IFC’s Sustainability Framework: From Policy Update to Implementation](https://www.ciel.org/wp-content/uploads/2018/12/Indigenous-Peoples-and-Traditional-Knowledge-in-the-Context-of-the-UNFCCC.pdf)
 
-World Bank. 2018. Good practice note : environmental, health, and safety approaches for hydropower projects (English). IFC Good practice note. Washington, D.C. : World Bank Group. http://documents.worldbank.org/curated/en/780291523529231720/Good-practice-note-environmental-health-and-safety-approaches-for-hydropower-projects | [PDF](http://documents.worldbank.org/curated/en/780291523529231720/pdf/WP-IFC-PUBLIC-SERIES-Good-practice-note-GPN-EHSHydropower.pdf)
 
 
 * [12th Annual Community of Learning ](https://www.ifc.org/wps/wcm/connect/99f019c6-da67-4569-bcbc-d04300412113/2018+COL+Agenda+FINAL.pdf?MOD=AJPERES&CVID=mrRgxR8)
@@ -282,12 +396,9 @@ Location: São Paulo, Brazil | Date: November 10, 2006 | Resources: Event Detail
 [IFC Publications](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_sustainability?WCM_PI=1&WCM_Page.204b2b0046feed99b30fff2bf5e9ade8=6&WCM_PageSize.204b2b0046feed99b30fff2bf5e9ade8=25)
 
 
+
+
 [
-3 DEC 2018
-## Good Practice Note: Managing Risks Associated with Modern Slavery
-This Good Practice Note supports the private sector in the fight against modern slavery by providing companies in emerging markets the tools to identify and manage potential risks proactively.
-80 pages | © December 2018 IFC, CDC Group Plc, the European Bank for Reconstruction and Development (EBRD) and the UK Department for International Development (DFID) | Complimentary
-](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_gpn_modernslavery)[
 30 NOV 2018
 ## Private Equity and Venture Capital's Role in Catalyzing Sustainable Investment
 The report suggests several specific options to increase the role of private equity and venture capital funds in mobilizing sustainable finance, including the establishment of incubators/accelerators for sustainable startups, among other suggestions.
@@ -297,17 +408,9 @@ The report suggests several specific options to increase the role of private equ
 ## Sustainable Banking Network (SBN) Creating Green Bond Markets Report
 The Creating Green Bond Markets Report highlights the importance of integrating environmental, social and governance (ESG) practices as a foundation of integrity and value creation in any impact-focused investment, including green bonds.
 74 pages | © October 2018 IFC | Complimentary
-](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_report_sbngreenbond2018)[
-12 MAR 2018
-## Good Practice Note: Environmental, Health, and Safety Approaches for Hydropower Projects
-This Good Practice Note is intended to be used in conjunction with other EHS Guidelines and IFC's Performance Standards to identify, avoid, mitigate, and manage EHS risks and impacts in hydropower projects.
-74 pages | © March 2018 IFC | Complimentary
-](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_gpn_ehshydropwer)[
-2 MAR 2018
-## Good Practice Handbook on Environmental Flows for Hydropower Projects
-This Good Practice Handbook provides guidance to practitioners on taking rigorous and consistent approaches to assess and manage hydropower project impacts on downstream river ecosystems and people, through the assessment and provision of environmental flows (EFlows).
-154 pages | © March 2018 IFC | Complimentary
-](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_handbook_eflows)[
+](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_report_sbngreenbond2018)
+
+[
 26 FEB 2018
 ## Sustainable Banking Network (SBN) Global Progress Report
 The IFC-supported Sustainable Banking Network (SBN)’s first comprehensive Global Progress Report evaluates sustainable finance principles and policies in 34 member countries.
@@ -329,12 +432,11 @@ This market assessment reports on alternative fuels opportunities in the cement 
 3 JAN 2018
 ## Use of Alternative Fuels in the Cement Sector in Ethiopia: Opportunities, Challenges and Solutions
 This market assessment reports on alternative fuels opportunities in the cement sector in Ethiopia. The assessment examined different experiences and possible options to utilize municipal, commercial and industrial waste, along with tires, sewage sludge and agricultural residue in cement kilns in key production clusters.
-](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/use+of+alternative+fuels+in+the+cement+sector+in+ethiopia+opportunities+challenges+and+solutions)[
-20 OCT 2017
-## Good Practice Note: Managing Contractors' Environmental and Social Performance
-This Good Practice Note (GPN) is aimed at helping clients implement sound, consistent, and effective approaches, in compliance with IFC requirements, to manage the environmental and social (E&S) performance of their contractors, subcontractors, and other third parties working for the project.
-48 pages | © October 2017 IFC | Complimentary
-](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_gpn_escontractormanagement)[
+](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/use+of+alternative+fuels+in+the+cement+sector+in+ethiopia+opportunities+challenges+and+solutions)
+
+
+
+[
 24 AUG 2017
 ## IFC's Engagement in the Apparel and Textile Sectors in Emerging Markets
 IFC works with apparel businesses and brands to increase their competitiveness while promoting their performance on sustainability standards. This brochure provides an introduction to IFC's initiatives in the sector, including partnerships, such as the IFC-ILO Better Work partnership; resource efficiency; gender programs; and financial innovations, such as Global Trade Supplier Finance (GTSF).
@@ -342,17 +444,11 @@ IFC works with apparel businesses and brands to increase their competitiveness w
 1 AUG 2017
 ## Increasing the Use of Alternative Fuels at Cement Plants: International Best Practice
 This report, and an accompanying report on thermal and electric energy efficiency, provide a summary of international best practice experience in the cement sector and focus on specific technical measures that could be implemented by cement plants to reduce their operating costs and improve their carbon footprints. The reports provide a plethora of practical information from implemented projects and include detailed technical descriptions, estimates of capital and operating costs, as well as case studies and references from locations where the measures have been implemented. A combination of general and in-depth information will make these reports a helpful read to both management and technical and operating personnel of cement plants as well as to a larger range of stakeholders.
-](https://www.ifc.org/wps/wcm/connect/33180042-b8c1-4797-ac82-cd5167689d39/Alternative_Fuels_08+04.pdf?MOD=AJPERES&CVID=lT3Bm3Z)[
-31 JUL 2017
-## Good Practice Note: IFC Life and Fire Safety: Hospitals
-The Life and Fire Safety Good Practice Note on Hospitals is a guideline for investment projects in both new and existing occupancies.
-48 pages | © July 2017 IFC | Complimentary
-](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_gpn_lfs-hospitals)[
-31 JUL 2017
-## Good Practice Note: IFC Life and Fire Safety: Hotels
-The Life and Fire Safety Good Practice Note on Hotels is a guideline for investment projects in both new and existing occupancies.
-46 pages | © July 2017 IFC | Complimentary
-](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_gpn_lfs-hotels)[
+](https://www.ifc.org/wps/wcm/connect/33180042-b8c1-4797-ac82-cd5167689d39/Alternative_Fuels_08+04.pdf?MOD=AJPERES&CVID=lT3Bm3Z)
+
+
+
+[
 27 JUN 2017
 ## Converting Biomass to Energy - A Guide for Developers and Investors
 This report serves as a practical tool for developers and investors who are interested in biomass-to-energy projects and wish to assess the technical and financial feasibility of different options for their businesses and industries. It covers modern biomass-to-energy technologies where biomass derives from the agricultural, food and beverage, and wood processing sectors. It can help with the adoption of best practices in the development, construction, operation, and financing of projects in this area.
@@ -365,12 +461,17 @@ This report provides a summary of international best practice experience in the 
 ## Environmental, Health, and Safety Guidelines for Liquefied Natural Gas Facilities
 The EHS Guidelines for Liquefied Natural Gas (LNG) Facilities include information relevant to LNG base load liquefaction plants, transport (by sea and land), storage, regasification (including floating storage regasification units), peak shaving terminals, and LNG fueling facilities.
 24 pages | © April 2017 World Bank Group | Complimentary
-](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_policy_ehs-lng)[
+](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_policy_ehs-lng)
+
+[
 1 MAR 2017
 ## Good Practice Handbook: Use of Security Forces: Assessing and Managing Risks and Impacts
 This Good Practice Handbook on the Use of Security Forces: Assessing and Managing Risks and Impacts has been developed for IFC clients and other private sector companies and their consultants. The handbook provides practical, project-level guidance for companies to better understand and implement the requirements outlined in Performance Standard 4. Chapters focus on risk assessment, managing private security, managing the relationship with public security, preparing a security management plan, and assessing allegations or incidents related to security personnel.
 142 pages | © February 2017 IFC | Complimentary
-](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_handbook_securityforces)[
+](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_handbook_securityforces)
+
+
+[
 15 FEB 2017
 ## Tafila Region Wind Power Projects - Cumulative Effects Assessment
 The Tafila Region Wind Power Project Cumulative Effects Assessment (CEA) is the first of its kind in the Eastern Europe, Middle East, and North Africa region. It aims to promote more sustainable wind energy investments in Jordan while assessing and managing potential adverse environmental and social effects of renewables. The overall management and technical direction of the CEA was undertaken by IFC, supported by a team of multidisciplinary international and Jordanian experts and advisors.
@@ -452,22 +553,19 @@ The EHS Guidelines for Offshore Oil and Gas Development include information rele
 ## Private Equity and Emerging Markets Agribusiness: Building Value Through Sustainability
 This report has been written for emerging market private equity fund managers. It highlights trends in private equity investment in emerging markets agribusiness and promotes adopting environmental and social management systems to generate sustainable financial returns. This report has been jointly produced by Credit Suisse, CDC Group plc, Emerging Markets Private Equity Association (EMPEA), International Finance Corporation (IFC), and World Wildlife Fund (WWF).
 44 pages | © May 2015 IFC | Complimentary
-](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_report_pe-agri-sustainability)[
+](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_report_pe-agri-sustainability)
+
+[
 31 MAR 2015
 ## Environmental and Social Management System (ESMS) Implementation Handbook - GENERAL
 The ESMS Implementation Handbook is for firms who wish to implement a management system in line with the requirements of IFC Performance Standard 1. The Handbook and companion publications – ESMS Toolkit and ESMS Self-Assessment and Improvement Guide – are designed to help companies assess and improve their ESMS.
 66 pages | © March 2015 IFC | Complimentary
-](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_handbook_esms-general)[
-31 MAR 2015
-## Environmental and Social Management System (ESMS) Implementation Handbook - METAL PRODUCTS MANUFACTURING
-The ESMS Implementation Handbook is for firms who wish to implement a management system in line with the requirements of IFC Performance Standard 1. The Handbook and companion publications – ESMS Toolkit and ESMS Self-Assessment and Improvement Guide – are designed to help companies assess and improve their ESMS.
-64 pages | © March 2015 IFC | Complimentary
-](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_handbook_esms-metalproductsmanufacturing)[
-31 MAR 2015
-## Environmental and Social Management System (ESMS) Implementation Handbook - HEALTH CARE FACILITIES
-The ESMS Implementation Handbook is for firms who wish to implement a management system in line with the requirements of IFC Performance Standard 1. The Handbook and companion publications – ESMS Toolkit and ESMS Self-Assessment and Improvement Guide – are designed to help companies assess and improve their ESMS.
-66 pages | © March 2015 IFC | Complimentary
-](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_handbook_esms-healthcarefacilities)[
+](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_handbook_esms-general)
+
+
+
+
+[
 12 FEB 2015
 ## Environmental, Health and Safety Guidelines for Vegetable Oil Production and Processing
 The EHS Guidelines for Vegetable Oil Production and Processing are applicable to facilities that textract and process oils and fats from a variety of seeds, grains, and nuts; these include canola, castor, cottonseed, mustard, olive, palm, palm-kernel, peanut (groundnut), rapeseed, safflower, sesame, soybean, and sunflower.
@@ -1416,10 +1514,6 @@ Interspersed throughout both sections of this manual are case studies which deta
 
 
 
-* [Doing Better Business through Effective Public Consultation and Disclosure](http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/p_pubconsult/$FILE/PublicConsultation.pdf)
-
-
-* [Addressing Grievances from Project-Affected Communities: Guidance for Projects and Companies on Designing Grievance Mechanisms](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/p_GrievanceMechanisms/$FILE/IFC+Grievance+Mechanisms.pdf)
 
 * [FIRST for Sustainability - Financial Institutions: Resources, Solutions and Tools](https://firstforsustainability.org/)
 

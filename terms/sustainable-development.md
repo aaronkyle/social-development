@@ -4,7 +4,7 @@ date: 2005-10-13 10:16
 category: terminology
 tags:
 slug: sustainable-development
-summary: :
+summary: ""
 status: draft
 ---
 
@@ -30,9 +30,9 @@ published: false
 > 1. the concept of needs, in particular the essential needs of the world's poor, to which overriding priority should be given; and
 > 2. the idea of limitations imposed by the state of technology and social organization on the environment's ability to meet present and future needs.
 
-Working toward sustainable development entails evaluating the world as an integrated system, both spatially and [temporaly](/temporality). Many conceptualization of sustainable development seek to reconcile humans' place among other living beings&mdash;each of which is uniquely dependant on natural resources.
+Working toward sustainable development entails evaluating the world as an integrated system, both spatially and [temporally](./temporality.md). Many conceptualizations of sustainable development seek to reconcile humans' place among other living beings&mdash;each of which is uniquely dependent on natural resources.
 
-Within a unified system, it is assumed that air pollution from North America can have an affect on air quality in Asia and that use of pesticides sprayed in Argentina could harm fish stocks off the coast of Australia. The dimension of temporaility reminds us that the decisions our grandparents made about how to farm the land continue to affect agricultural practice today and the economic policies we endorse today will have an impact on urban poverty when our children are adults.[^2]
+Within a unified system, it is assumed that air pollution from North America can have an effect on air quality in Asia and that use of pesticides sprayed in Argentina could harm fish stocks off the coast of Australia. The dimension of temporality reminds us that the decisions our grandparents made about how to farm the land continue to affect agricultural practice today and the economic policies we endorse today will have an impact on urban poverty when our children are adults.[^2]
 
 quality of life is a system, too.
 

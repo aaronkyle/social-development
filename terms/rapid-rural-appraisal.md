@@ -4,7 +4,7 @@ date: 2006-04-06 14:28
 category: terminology
 tags:
 slug: rapid-rural-appraisal
-summary: :
+summary: ""
 status: draft
 ---
 

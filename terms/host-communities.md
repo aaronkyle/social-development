@@ -4,7 +4,7 @@ date: 2005-11-14 08:33
 category: terminology
 tags: project affected people, stakeholders, IFC
 slug: host-communities
-summary: : any community receiving displaced persons.
+summary: any community receiving displaced persons.
 ---
 
 The term **host communities** refers to any community that receives displaced persons.

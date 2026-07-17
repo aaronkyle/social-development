@@ -4,9 +4,8 @@ date: 2006-03-18 09:30
 category: terminology
 tags: cultural heritage, cultural resources management, IFC, World Bank, ADB,
 slug: archaeological-sites
+summary: concentrated and patterned physical remains of past human activity, especially human settlement.
 ---
-
-summary: : concentrated and patterned physical remains of past human activity, especially human settlement.
 
 The term **archaeological site** refers to concentrated and patterned physical remains of past human activity. The term is used especially in reference to human settlements, but it also encompass other assemblages of artifacts, plant and animal remains (as deposited by humans), structural remains, and soil features indicative of human activity. A site may be as large and complex ancient city that completely or partially buried by surface soils or other sediment, or it may be as small the remains of fire pit and piles of debitage from a temporary nomad camp. Sites may be underwater, including shipwrecks and flooded habitation sites.
 

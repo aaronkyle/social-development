@@ -4,7 +4,7 @@ date: 2009-03-19
 category: terminology
 tags: field of practice, actor
 slug: social-development-practitioner
-summary: : a category of professionals (primarily comprised of social scientists) working (i.e., practising) in the field of [international social development](/terms/social-development/)
+summary: a category of professionals (primarily comprised of social scientists) working (i.e., practising) in the field of [international social development](./social-development.md)
 ---
 
 <!---
@@ -23,7 +23,7 @@ published: true
 comments: true
 ---
 --->
-The term **social development practitioner** refers to a category of professionals (primarily comprised of social scientists) working (i.e., practising) in the field of [international social development](/terms/social-development/).  Social development practitioners apply academic theory and methodology (such as derived from the disciplines of anthropology, sociology, geography, etc.) to analyse consequences of developmental processes and initiatives to humans, their communities and societies, and to the natural environment in order to help avoid or mitigate potentially negative project-induced impacts. Social development practitioners work with, within, and alongside governments, communities, civil society and the private sector. The work of social development practitioners is often motivated by a desire to help promote forms of governance that are accessible, responsive and accountable.
+The term **social development practitioner** refers to a category of professionals (primarily comprised of social scientists) working (i.e., practising) in the field of [international social development](./social-development.md).  Social development practitioners apply academic theory and methodology (such as derived from the disciplines of anthropology, sociology, geography, etc.) to analyse consequences of developmental processes and initiatives to humans, their communities and societies, and to the natural environment in order to help avoid or mitigate potentially negative project-induced impacts. Social development practitioners work with, within, and alongside governments, communities, civil society and the private sector. The work of social development practitioners is often motivated by a desire to help promote forms of governance that are accessible, responsive and accountable.
 
 <!--Collaborations among social development practitioners being increasingly methods-oriented and systematised.-->
 

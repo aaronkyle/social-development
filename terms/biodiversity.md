@@ -4,14 +4,14 @@ date: 2005-11-28
 category: terminology
 tags: sustainability, ecosystem services, IFC, ADB
 slug: biodiversity
-summary: : variety of life in all its forms, including genetic, species and ecosystem diversity
+summary: variety of life in all its forms, including genetic, species and ecosystem diversity
 ---
 
 <!--
 summary: 
 -->
 
-Variety of life in all its forms, including genetic, species and ecosystem diversity. The concept of biodiversity in environmental practice subsumes many aspects of the natural world and can refer to ecosystems within which the people of the world live, as well as the multitude of species that are used by humankind for food, fiber medicines, clothing and shelter. 
+**Biodiversity** refers to the variety of life in all its forms, including genetic, species and ecosystem diversity. The concept of biodiversity in environmental practice subsumes many aspects of the natural world and can refer to ecosystems within which the people of the world live, as well as the multitude of species that are used by humankind for food, fiber medicines, clothing and shelter. 
 
 
 <!--

@@ -4,7 +4,7 @@ date: 2006-10-28 13:08
 category: terminology
 tags: IFC, World Bank,
 slug: forced-eviction
-summary: : removal of people and their belongings from structures against their will and without any legal or other protection.
+summary: removal of people and their belongings from structures against their will and without any legal or other protection.
 ---
 
 Forced eviction is defined as the permanent or temporary removal against the will of individuals,

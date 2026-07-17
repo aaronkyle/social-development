@@ -4,7 +4,7 @@ date:
 category: terminology
 tags: 
 slug: supranational-law
-summary: : 
+summary: ""
 status: draft
 ---
 

@@ -290,11 +290,11 @@ NOTE: In the past couple of years (writing in Feb 2019), the CGPL website has go
   </tr>
   <tr>
     <td>limited circulation</td>
-    <td><a href="www.tatapower.com/cgpl-mundra/pdf/turning-tide.pdf">turning the tide.pdf</a></td>
+    <td><a href="https://www.tatapower.com/cgpl-mundra/pdf/turning-tide.pdf">turning the tide.pdf</a></td>
     <td>CGPL</td>
     <td>2014</td>
     <td></td>
-    <td><a href="www.tatapower.com/cgpl-mundra/pdf/turning-tide.pdf">Turning the Tide: Molding the Lives of Fishermen on the Coastal Belt of Kutch, Gujarat</a></td>
+    <td><a href="https://www.tatapower.com/cgpl-mundra/pdf/turning-tide.pdf">Turning the Tide: Molding the Lives of Fishermen on the Coastal Belt of Kutch, Gujarat</a></td>
   </tr>
   <tr>
     <td>public</td>
@@ -354,11 +354,11 @@ NOTE: In the past couple of years (writing in Feb 2019), the CGPL website has go
   </tr>
   <tr>
     <td>public</td>
-    <td><a href="www.energy.ca.gov/2005publications/CEC-700-2005-013/CEC-700-2005-013.PDF">CEC-700-2005-013.PDF</a></td>
+    <td><a href="https://www.energy.ca.gov/2005publications/CEC-700-2005-013/CEC-700-2005-013.PDF">CEC-700-2005-013.PDF</a></td>
     <td>Californian Energy Commission</td>
     <td>2005</td>
     <td></td>
-    <td><a href="www.energy.ca.gov/2005publications/CEC-700-2005-013/CEC-700-2005-013.PDF">Issues and Environmental Impacts Associated with Once-Through Cooling at California’s Coastal Power Plants</a></td>
+    <td><a href="https://www.energy.ca.gov/2005publications/CEC-700-2005-013/CEC-700-2005-013.PDF">Issues and Environmental Impacts Associated with Once-Through Cooling at California’s Coastal Power Plants</a></td>
   </tr>
   <tr>
     <td>limited circulation</td>
@@ -403,11 +403,11 @@ NOTE: In the past couple of years (writing in Feb 2019), the CGPL website has go
   </tr>
   <tr>
     <td>limited circulation</td>
-    <td><a href="www.tatapower.com/cgpl-mundra/pdf/dialogue-stakeholders.pdf"></a></td>
+    <td><a href="https://www.tatapower.com/cgpl-mundra/pdf/dialogue-stakeholders.pdf"></a></td>
     <td>Tata Power</td>
     <td></td>
     <td></td>
-    <td><a href="www.tatapower.com/cgpl-mundra/pdf/dialogue-stakeholders.pdf"></a></td>
+    <td><a href="https://www.tatapower.com/cgpl-mundra/pdf/dialogue-stakeholders.pdf"></a></td>
   </tr>
 </table>
 

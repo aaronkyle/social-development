@@ -4,7 +4,7 @@ date:
 category:
 tags:
 slug: accessibility
-summary:
+summary: ""
 ---
 
 Accessibility refers to the identification and elimination of obstacles and barriers to provide access to the

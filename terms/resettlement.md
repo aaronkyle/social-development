@@ -4,7 +4,7 @@ date: 2005-09-14 0901
 category: terminology
 tags: IFC, IFC PS5
 slug: resettlement
-summary: : the transportation of a people to a new area for settlement
+summary: the transportation of a people to a new area for settlement
 ---
 
 <!--

@@ -4,7 +4,7 @@ date: 2005-10-22
 category: terminology
 tags: stakeholders, actors, interest groups
 slug: civil-society
-summary: : a network of actors, associations, agencies and institutions operating between the state and the market
+summary: a network of actors, associations, agencies and institutions operating between the state and the market
 ---
 
 

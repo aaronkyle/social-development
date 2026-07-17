@@ -30,7 +30,7 @@ This discussion reviews different definitions of the concept and principle of fr
 
 ### Historical Contexts and Contemporary Discourses
 
-In Geneva,5–7 December 2001, attendees of the United Nations [Workshop on Indigenous Peoples, Private Sector Natural Resource, Energy and Mining Companies and Human Rights](http://daccess-dds-ny.un.org/doc/UNDOC/GEN/G02/140/37/PDF/G0214037.pdf?OpenElement) discussed the idea of invoking the principal of "free prior and informed concent" within developmental contexts and voiced a desire to identify a universally agreed upon definition of the principle. The participants reached a common understanding of the meaning of the principle, as *the right of indigenous peoples, as land and resource owners, to say ‘no’ to proposed development projects at any point during negotiations with governments and/or extractive industries* ([E/CN 4/Sub 2/AC 4/2002/3](http://ap.ohchr.org/documents/alldocs.aspx?doc_id=7660), [para 52](http://daccess-dds-ny.un.org/doc/UNDOC/GEN/G02/140/37/PDF/G0214037.pdf?OpenElement)).
+In Geneva, 5–7 December 2001, attendees of the United Nations [Workshop on Indigenous Peoples, Private Sector Natural Resource, Energy and Mining Companies and Human Rights](http://daccess-dds-ny.un.org/doc/UNDOC/GEN/G02/140/37/PDF/G0214037.pdf?OpenElement) discussed the idea of invoking the principle of "free prior and informed consent" within developmental contexts and voiced a desire to identify a universally agreed upon definition of the principle. The participants reached a common understanding of the meaning of the principle, as *the right of indigenous peoples, as land and resource owners, to say ‘no’ to proposed development projects at any point during negotiations with governments and/or extractive industries* ([E/CN 4/Sub 2/AC 4/2002/3](http://ap.ohchr.org/documents/alldocs.aspx?doc_id=7660), [para 52](http://daccess-dds-ny.un.org/doc/UNDOC/GEN/G02/140/37/PDF/G0214037.pdf?OpenElement)).
 
 The Working Group on Indigenous Populations (‘WGIP’) set an agenda item on FPIC in July 2004 as a forum for standard setting ([E/CN 4/Sub 2/AC 4/2003/3](http://daccess-dds-ny.un.org/doc/UNDOC/GEN/G02/140/37/PDF/G0214037.pdf?OpenElement)) .
 
@@ -38,9 +38,9 @@ The third session of the Permanent Forum on Indigenous Issues (‘UNPFII’) [ca
 
 >The international workshop on free, prior informed consent sponsored by the Permanent Forum in 2005 highlighted that there are widely different views about the content and application of any such principle amongst states and indigenous peoples, and discussions about it in other international forums (such as WIPO and the CBD) are still ongoing. It is therefore premature to refer to the conclusions of the workshop as reflecting “a common understanding of free, prior informed consent”.
 
-Over the past decade, the international community has continued to struggle with defining FPIC. International human rights discourse link the principal to ealier legal and policy "consent" madates&mdash;thereby conflating previously distinct formulations of the right to "consent" by reference in discussions of "FPIC".
+Over the past decade, the international community has continued to struggle with defining FPIC. International human rights discourse links the principle to earlier legal and policy "consent" mandates&mdash;thereby conflating previously distinct formulations of the right to "consent" by reference in discussions of "FPIC".
 
-For example, the past UN Committee on the Elimination of Racial Discrimination (‘CERD’) decision to adopt recomendations on State obligations and indigenous rights refers to their **‘informed consent’**:
+For example, the past UN Committee on the Elimination of Racial Discrimination (‘CERD’) decision to adopt recommendations on State obligations and indigenous rights refers to their **‘informed consent’**:
 
 > ensure that members of indigenous peoples have rights in respect of effective participation in public life and that no decisions directly relating to their rights and interests are taken without their informed consent
 
@@ -51,7 +51,7 @@ For example, the past UN Committee on the Elimination of Racial Discrimination (
 
 <p>&nbsp;</p>
 
-Operational defintions are "agreeeing to disagree" on the notion of universal or global definitions of FPIC.  For example, the IFC requires "consent" both operationally (process-oriented) and as some tanglible form of documented agreement (outcome-oriented).  This sort of 'principled ambiguity' is reflected  in varying degrees  by the policies of other multilaterial development bank policies requiring "consent" [EBRD, ADB, IFC, World Bank], with the intent of the policy formulation to accomodate the multitude of localized understandings of "consent".
+Operational definitions are "agreeing to disagree" on the notion of universal or global definitions of FPIC.  For example, the IFC requires "consent" both operationally (process-oriented) and as some tangible form of documented agreement (outcome-oriented).  This sort of 'principled ambiguity' is reflected  in varying degrees  by the policies of other multilateral development bank policies requiring "consent" [EBRD, ADB, IFC, World Bank], with the intent of the policy formulation to accommodate the multitude of localized understandings of "consent".
 
 In the 2012 revision of the IFC [*Sustainability Framework*](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustainability/sustainability+framework/sustainability+framework+-+2012/framework_2012), the definition of "free prior and informed consent"(FPIC) is established by [Guidance Note 7](http://www.ifc.org/wps/wcm/connect/50eed180498009f9a89bfa336b93d75f/Updated_GN7-2012.pdf?MOD=AJPERES).
 

@@ -4,7 +4,7 @@ date: 2005-10-23 09:20
 category: terminology
 tags:
 slug: interview
-summary: :
+summary: ""
 status: draft
 ---
 

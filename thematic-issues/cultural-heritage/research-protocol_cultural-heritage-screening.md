@@ -77,7 +77,7 @@ Company will collaborate with [local university] . Company will provide overall 
 The deliverable for this cultural heritage screening exercise is a Cultural Heritage Screening Report which will include the following sections:
 
 * Section A: Report of archaeological and historical desk survey outcomes
-   - Presentation of findings of of the archaeological and historical surveys
+   - Presentation of findings of the archaeological and historical surveys
    - Locations and types of known cultural artefacts in the project area
    - Map of potential areas of past human habitation and other potential sites of archaeological significance in the CoW
    - Assessment of the likelihood of encountering new sites of archaeological significance in the project area

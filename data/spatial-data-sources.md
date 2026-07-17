@@ -1,3 +1,4 @@
+# Spatial Data Sources
 
 ## Administrative Divisions
 
@@ -37,7 +38,7 @@ Service.
     - A web site from the National Geospatial-Intelligence Agency (NGA) which allows you to download files of U.S. Board on Geographic Names (BGN) approved names for each country. There is a separate database for Antarctica.
 
 * [GRID-Arendal: Online GIS and Maps Database](http://www.grida.no/graphicslib)
-    - GIS data set consist of georeferenced (geo) graphical features which are linked to an attribute database that describs features or polygons on the map.
+    - GIS data set consists of georeferenced (geo) graphical features which are linked to an attribute database that describes features or polygons on the map.
 
 * [McMurdo Dry Valley LTER](http://mcm.lternet.edu/)
     - This program is an interdisciplinary and multidisciplinary study of the aquatic and terrestrial ecosystems in an ice-free region of Antarctica. They made available some of their data.
@@ -93,7 +94,7 @@ These include interactive online maps as well as downloadable scanned maps that 
   * Dartmouth University Library. [Disaster data](https://researchguides.dartmouth.edu/gisdata/disasterdata)
   * Dartmouth University Library. [Humanitarian Efforts](https://researchguides.dartmouth.edu/gisdata/humanitarian)
 * Dartmouth University Library. [ **Data for Polar regions** ](https://researchguides.dartmouth.edu/gisdata/polardata)
-* Dartmouth University Library. [Dowloadable Data](https://researchguides.dartmouth.edu/gisdata/downloads)
+* Dartmouth University Library. [Downloadable Data](https://researchguides.dartmouth.edu/gisdata/downloads)
   * Dartmouth University Library. [Africa](https://researchguides.dartmouth.edu/gisdata/africa)
   * Dartmouth University Library. [Americas](https://researchguides.dartmouth.edu/gisdata/americas)
   * Dartmouth University Library. [Asia](https://researchguides.dartmouth.edu/gisdata/asia)

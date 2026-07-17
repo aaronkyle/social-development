@@ -4,7 +4,7 @@ date: 2005-10-08 06:58
 category: terminology
 tags: World Bank, IFC PS8,
 slug: cultural-heritage
-summary: : any non-renewable resource possessing cultural, scientific, spiritual or religious value
+summary: any non-renewable resource possessing cultural, scientific, spiritual or religious value
 ---
 
 
@@ -22,7 +22,7 @@ The concept of cultural heritage has two sub-categories: **'tangible**' and **'i
 
 
 <!--
-The term 'cultural heritage' is used throughout Europe; in the USA the term '[cultural resources](http://applied-anthro.com/terms/cultural-heritage/ "cultural heritage")' is sometimes used in lieu of the full term 'cultural heritage resources'.[^5]
+The term 'cultural heritage' is used throughout Europe; in the USA the term '[cultural resources](./cultural-heritage.md "cultural heritage")' is sometimes used in lieu of the full term 'cultural heritage resources'.[^5]
 
 The concept of cultural heritage has two sub-categories: **'tangible**' and **'intangible**'. Examples of [tangible cultural heritage](# "tangible cultural heritage") include moveable objects (artefacts) as well as immoveable objects (sites, structures, groups of structures, historic places, natural features, and/or landscapes[^6]) deemed to be of cultural, historical, archaeological, paleontological significance.[^7] Examples of [intangible cultural heritage]() include cultural practices and religious values, such as language, oral history, dances, music, cuisine, clothing, forms of shelter, traditional skills and technologies, religious ceremonies, performing arts, storytelling, etc. [^8]
 
@@ -33,8 +33,8 @@ The concept of cultural heritage has two sub-categories: **'tangible**' and **'i
 Typologies of Cultural Heritage Resources
 
 *   Tangible Cultural Heritage
-    -   artefact - significance to be interpreted in context the of regional archaeology and to be determined via a Cultural Heritage Asseessment [ref: GN 8 Annex A para. E (p. 168)]
-    -   archaeological site (significance to be interpreted in the context of regional and global archaeology and to be determined via Cultural Heritage Asseessment) [ref: GN 8 Annex A para. A (p. 167)]
+    -   artefact - significance to be interpreted in the context of regional archaeology and to be determined via a Cultural Heritage Assessment [ref: GN 8 Annex A para. E (p. 168)]
+    -   archaeological site (significance to be interpreted in the context of regional and global archaeology and to be determined via Cultural Heritage Assessment) [ref: GN 8 Annex A para. A (p. 167)]
 
 *   Historic or Cultural Landscapes
     -   cultural landscape [incl. culturally important natural features and sacred sites] (significance in context of community perception; to be determined via CHA) [ref: GN 8 Annex A para. D (p. 167)]

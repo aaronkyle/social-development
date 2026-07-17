@@ -4,7 +4,7 @@ date: 2011-09-20 15:13
 category: terminology
 tags: World Bank
 slug: environmental-and-social-management-framework
-summary: : an instrument that sets out the principles, rules, guidelines and procedures to assess the environmental and social impacts.
+summary: an instrument that sets out the principles, rules, guidelines and procedures to assess the environmental and social impacts.
 status: draft
 ---
 

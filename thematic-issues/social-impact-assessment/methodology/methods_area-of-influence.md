@@ -1,131 +1,91 @@
-Step 1: Mapping geographical locations of villages [territorial area and ‘pinpoint’ locations]
+# area of influence
 
-An early task is to map the locations of every officially-recorded village (called '*desa*' in Indonesian) in the two regions nearest to the project concession area:
+**Defining the Project Area of Influence for a Social Development Initiative**
 
-* REGION 1: *kabupaten* (regency) Maluku Tenggara Barat (MTB)
-* REGION 2: *kabupaten* (regency) Maluku Barat Daya (MBD)
+### **Step 1: Mapping Geographical Locations of Villages**
 
-The Government of Indonesia makes village territorial boundaries publicly available as shapefiles.
+###
 
-Based on these, I create "point files" to show the actual location of each village community. That is, the government-provided shapefiles defined village areas, which are large territorial units that extend from the coast into the island’s interior. Our
-"point files", by contrast, seeks to identify the actual village settlement area (inhabited village area), which is only a tiny part of the village territory (usually along the coastline).
+An essential initial task in defining the project's area of influence is the accurate mapping of all officially recorded villages (*desa*) within the two regencies closest to the project concession area:
 
-The immediate task is to get this information into the PostgreSQL database in a meaningful way and to render it in the web application.
+* **Region 1**: *Kabupaten* Maluku Tenggara Barat (MTB)
+* **Region 2**: *Kabupaten* Maluku Barat Daya (MBD)
 
-NOTE: After our village ‘point’ files have been loaded into the GIS database, we will eventually want to review and improve the accuracy of each marker.
+The Government of Indonesia provides village territorial boundaries in the form of publicly available shapefiles. These shapefiles delineate extensive village territories that often stretch from coastal regions into the interior. However, our objective is to generate "point files" to mark the actual inhabited areas of these villages, which are typically concentrated along the coastline.
 
-NOTE ON MAPS:
+The immediate technical task involves integrating this data into a PostgreSQL database to facilitate its visualization within a web-based application. It is important to note that once village point files have been uploaded into the GIS database, further review and refinement will be necessary to enhance the accuracy of the markers.
 
-[Indonesia Map](http://bl.ocks.org/junwatu/ac08d962f07d770aba99)
+### **Step 2: Mapping Sub-District (** ***Kecamatan*** **) and Regency (** ***Kabupaten*** **) Boundaries**
 
+###
 
+Indonesia's administrative structure consists of the following levels:
 
-Step 2: Mapping sub-district (*kecamatan*) and regency (*kabupaten*) boundaries and territorial
-areas
+1. **Province (** ***Provinsi*** **)**
+2. **Regency (** ***Kabupaten*** **) and City (** ***Kota*** **)**
+3. **Sub-District (** ***Kecamatan*** **)**
+4. **Village (** ***Desa*** **or** ***Kelurahan*** **)**
 
-Below the national government, Indonesia is divided as follows
+As noted earlier, this project is concentrated on two regencies within Maluku Province: MTB and MBD. It is crucial to maintain clear distinctions between these regencies when integrating the data into the application. This can be achieved through various mapping techniques, such as differentiated color palettes or the inclusion of administrative border overlays.
 
-administrative level 1: province (*provinsi*)
+In addition to regency-level delineations, sub-district (*kecamatan*) boundaries will also need to be mapped. Similar to the village shapefiles, this information will be loaded into the PostgreSQL database and rendered in the web application for enhanced accessibility and analysis.
 
-administrative level 2: regency (*kabupaten*) and city (*kota*)
+### **Step 3: Enhancing Visual Representation of Villages and Administrative Divisions**
 
-administrative level 3: (sub-)district (*kecamatan*)
+###
 
-administrative level 3: village (*desa* or *kelurahan*)
+Once the village and sub-district data for MTB and MBD have been integrated, the next step is to design an effective visualization strategy.
 
-As noted above, our work will focus on two regencies (*kabupaten*) within Maluku Province:
+One approach, previously employed for MTB, involves colorizing shapefile polygons to distinguish various administrative levels. Additional visualization techniques could include:
 
-1. Maluku Tenggara Barat (MTB)
+* Implementing a transparency slider to allow users to toggle between different administrative layers.
+* Enabling overlays to distinguish village, sub-district, and regency boundaries while maintaining their relative visibility.
+* Providing multiple viewing modes, such as boundary-only views versus filled color maps.
 
-2. Maluku Barat Daya (MBD)
+Google Earth files previously used for visualization included duplicated village data to facilitate multiple viewing modes. However, such redundancy is unnecessary for the web application and should be streamlined to improve user experience.
 
-We will need to ensure that the distinction between *kabupaten* is retained in some manner as we
-load data into our application. There are many options for doing this, such as using different colour
-pallets as we map out villages (more on this in a minute), or simply by mapping in some times to
-show where the administrative borders are defined. For the moment, please just keep this need in
-mind.
+### **Step 4: Incorporating and Displaying Population Data**
 
-More immediately, we will want to identify sub-district (*kecamatan*) boundaries. As with the village shapefiles, the immediate task is to get this information into the PostgreSQL database in a meaningful way and to render it in the web
-application.
+###
 
-Step 3: Creating Useful Visual Effects for Looking at Villages and Higher-Level Administrative Areas
+The available village shapefiles for MTB and MBD contain population data, though some of this information may require verification and correction. The most up-to-date population figures are stored in a Google Drive spreadsheet, and integration of this dataset into the database will be required.
 
-As suggested above, once we have loaded in the village and kecamatan for both MTB and MBD, our
-next task is to find an aesthetic way present this information.
+Once the population data is loaded, different visualization techniques can be explored, such as:
 
-One way we have attempted to do this for MTB was to colorize the shapefile polygons (please refer
-to the Google Earth package for an example). We like this approach, but we also encourage your
-creative thinking about how to best visualize villages, sub-districts, and regencies in the context of
-our map application. For example, it might help to include a slider option to increase and decrease
-transparency of fill layers, and also to allow the villages and overlay the sub-districts, and for both
-villages and sub-districts to overlay the regency divisions, so that the sum of all overlays has the two
-regions in slightly different base colors, and all sub-districts (i.e. mainting the visual distinction).
-NOTE: With the Google Earth files, we duplicated some of the village information so that we could
-see just the boundaries of the villages and sub-districts without any "color fill". This choice was
-made simply to enable multiple "views" of the village boundaries; it is not necessary to duplicate
-data in this way for our web application.
+1. **Scaling village name sizes** to reflect relative population sizes.
+2. **Using proportional circle indicators** at pinpointed village locations to visually represent population density.
+3. **Applying a graduated choropleth scale** to depict population distribution across the region.
 
-Step 4: Loading and Visualizing Population Data
+**Concepts for Consideration:**
 
-PLEASE NOTE: Village population data for MTB and MDB should already be included within the
-shapefile data tables. Some of this information, however, is inaccurate. We may call on you to help
-explain how to update, correct, and maintain data embedded in shapefiles, including instructions on
-how to access and change this information in the database.
+* **Dynamic scaling**: Adjusting village markers dynamically based on the zoom level of the map to ensure legibility and proportional representation.
+* **Context-dependent scaling**: Allowing different visualization modes based on whether the user is viewing a single regency or both regencies simultaneously.
+* **Alternative design solutions**: Implementing an approach that allows for easy comparison of village sizes within and across regencies, while ensuring readability and usability.
 
-Current (and corrected) village population data Data for MTB and MDB is available as a speadsheet
-file on Google Drive.
+In previous Google Earth models, an arithmetic quartile-based classification system was used to group villages by size. While this approach was functional, it created visual clutter and redundancy. The web application should seek a more refined and interactive method to convey population data.
 
-Once all the shapefiles are loaded in, we will want to develop a few different ways to visualize the
-relative sizes of village and to allow users to toggle between these views. Some approaches we’ve
-considered include:
+### **Step 5: Defining the Project Area**
 
-1. scaling village name size; for example, to make the names of larger villages (i.e. Olit, Saumlaki, and Adaut) appear proportionately larger than other villages. 
+###
 
+Once the foundational geographical and demographic data have been mapped, the next step is to delineate the specific project area. This involves identifying and marking relevant locations within the project’s sphere of influence. The project area may be determined based on proximity to key village settlements, transportation access, and other socio-economic factors.
 
-2. scaling circles of various sizes that correspond to the ‘pinpoint’ village locations described in
-Step 1; that is, to scale the village "dot" / "pinpoint" indicators to be larger or smaller
-relative to population size (i.e. making relatively larger or smaller circles that are
-proportionate to the population size of each village. [In the below example / mockup, I
-distinguished only 3 tiers, but ideally we'd want a graduated scale that reflects more
-precisely the differences].
+### **Step 6: Integrating Additional Geographic and Infrastructure Data**
 
-3. creating a graduated choloropleth scale
+###
 
-Some concepts to consider in terms of the actual mechanics of the web
-application:
+With the primary mapping completed, the project can extend to incorporating other relevant geographic features, such as:
 
-CONCEPT 1: It would be terrific if we could enable relative village sizes (as corresponding
-scale keys) to change dynamically based on the relative viewing window, so that if a person
-is zoomed in on MTB she or he would see village point files scaled in relation to MTB villages,
-but if zooming out to show both MTB and MDB, those scales would refresh and change.
+* Ports
+* Airports
+* Roads
+* Construction activity sites
+* Island names and locations
 
-CONCEPT 2: In the case that we can’t get the dynamic scale to work appropriately, it would
-still be helpful if we could set specific scales depending on whether a person is looking at
-viewing space that shows only MTB, only MDB or both (e.g. ‘regional view’), and then to
-define set, custom scales depending on the view. For example, in this mockup we have a
-view of all of Maluku province. If it were cleaner and easier to read, this map would reflect
-that within MDB three is only 1 village of any size comparable to Olit, Saumlaki, and Adaut.
+A user-friendly feature for toggling these additional layers on and off should be implemented to allow for flexible data exploration.
 
- CONCEPT 3: If neither of the above are feasible (or if they simply don’t make sense), you’re
-welcome to propose your own design concept. In so doing, please keep in mind that we are
-interested to look at sizes within a single province (e.g. MTB) as well as to compare
-population size across multiple provinces (e.g., MTB and MDB).
+### **Conclusion**
 
-NOTE: In the Google Earth files, we attempted to create an easy mechanism to allow users to
-identify small and large villages by grouping them in folders (which can be toggled on and off) by
-"arithmetic quartile". While this is a somewhat arbitrary size division, it still possesses some value
-for the purposes of project planning. The Google Earth files were a bit "rough" in terms of how the
-village labels are shown (i.e. some of the renderings of the labels create a lot of visual clutter, and
-also we appear to still have some duplication of information like the village names, as evinced in
-your current model). We’re looking for a more elegant solution for the web app.
+###
 
-Step 5: Plotting in the project area
-
-Step 6: Adding in additional information
-With our basic work done of mapping in villages and higher-level administrative areas, and also
-having linked in the population data, we can turn our attention to adding in other information and
-markers about geographic features of the region. For example, we can note the locations, name (and
-maybe even sizes) of ports, airports, roads, etc. We can also flag certain areas as potential sites of
-construction activity. We should also be sure to add in the names of islands, etc.
-
-Ideally, we’d want to be able to toggle on and off these additional markers individually.
+The process of defining the project’s area of influence involves a structured approach to mapping villages, administrative boundaries, and population data, followed by the integration of key infrastructure elements. The ultimate goal is to develop a functional and visually effective web-based GIS tool that facilitates informed decision-making for social development planning. Future refinements will focus on enhancing data accuracy, improving visual representation, and ensuring the accessibility of critical information for project stakeholders.

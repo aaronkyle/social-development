@@ -1,3 +1,4 @@
+# PCDP | Table of Contents
 
 Preface
 Introduction To The PCDP
@@ -53,7 +54,7 @@ Project Overview
         * Fact-Finding
         * Resolution
         * Appeal
-        * Feedbac
+        * Feedback
         * Close-Out Reporting
     -	Special Grievance Measures
         * Measures Relating To Land Acquisition And Resettlement
@@ -73,11 +74,10 @@ Annex 1: IFC Performance Standards Requirements For Consultation And Disclosure
 Annex 2: International Agreements Applicable To Indonesia Regarding Disclosure, Consultation, And Grievance Redress
 Annex 3: Indonesia Laws Relevant To Public Consultation And Disclosure
 Annex 4: Stakeholder Roles And Interests
-Annex 5: Pastm Project Stakeholder Engagement Activities Logs
+Annex 5: Past Project Stakeholder Engagement Activities Logs
 Annex 6: Basic Tips For Project Staff In The Community
 Annex 7: Pro Forma Advertisement For Disclosure Of Key Project Documents	73
 
 References	74
 Addendum	75
-
 

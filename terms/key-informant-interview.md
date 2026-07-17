@@ -4,7 +4,7 @@ date: 2007-04-09 06:26
 category: terminology
 tags:
 slug: key-informant-interview
-summary: :
+summary: ""
 status: draft
 ---
 

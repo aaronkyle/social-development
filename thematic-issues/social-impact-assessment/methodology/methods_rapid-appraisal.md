@@ -1,8 +1,8 @@
-## Rapid Appraisal
+# Rapid Appraisal
 
 The term 'Rapid Appraisal' refers to a systematic, semi-structured field activity by a multidisciplinary team, designed to obtain new information and formulate new hypotheses regarding rural life. RRA emphasizes the multidisciplinary nature of the team, as it should have a wide representation of skills and tools at its disposal.
 
-Rapid appraisal encompases:<sup><a href="http://www.fao.org/docrep/w3241e/w3241e09.htm" title="Food and Agriculture Organization of the United Nations (FAO). n.d. “Chapter 8: Rapid Rural Appraisal,” ''Marketing Research and Information Systems'' <i>Web page</i>. Rome: FAO. [Accessed 20 November 2013]"></a></sup>
+Rapid appraisal encompasses:<sup><a href="http://www.fao.org/docrep/w3241e/w3241e09.htm" title="Food and Agriculture Organization of the United Nations (FAO). n.d. “Chapter 8: Rapid Rural Appraisal,” ''Marketing Research and Information Systems'' <i>Web page</i>. Rome: FAO. [Accessed 20 November 2013]"></a></sup>
 
 * methods for gathering quantitative data within a short time frame;
 * key informant interviews;
@@ -20,7 +20,7 @@ Rapid appraisal encompases:<sup><a href="http://www.fao.org/docrep/w3241e/w3241e
 
 #### Capture / Analysis of Existing Government Data
 
-Governments collect socio-economic data--and often lots of it. These data they provide can be utilized to help inform ongoing analysis of potential project-induced impacts to local communities. Unfortunately, however, these data tend to be unstructured and collected in formats to readily amenable to quantitive analysis.
+Governments collect socio-economic data--and often lots of it. These data can be utilized to help inform ongoing analysis of potential project-induced impacts to local communities. Unfortunately, however, these data tend to be unstructured and collected in formats not readily amenable to quantitative analysis.
 
 For example, [Badan Pusat Statistik](https://mtbkab.bps.go.id/) (BPS) of Maluku Tenggara Barat works with kecamatan-level governments to produce annual reports of socio-economic and health data in a series referred to collectively in this methodology as the BPS *'Kecamatan' Dalam Angka* series, which collects a series of high-level indicator data for each sub-district government within region.
 
@@ -38,9 +38,9 @@ For example, [Badan Pusat Statistik](https://mtbkab.bps.go.id/) (BPS) of Maluku 
 ![dots](https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/dots.jpg "dots.jpg")
 
 
-Comparative analysis of MTB *'Kecamatan' Dalam Angka* demonstrates that reporting is  uneven for most socio-economic variables--to an extent that severely limits current capacity to use these data in studies of social change and sustainable development. The distribution of topics varies greatly and few variable measures are uniformly disaggregated to the village level. Even fewer variables desegregate according to gender. The varying integrity of each underlying dataset and mistakes resulting from the process of government reporting and client re-capture are also processes certain to have introduced errors. Aanalysis, therefore, is involves substantial interpretation and application of 'professional judgment'.
+Comparative analysis of MTB *'Kecamatan' Dalam Angka* demonstrates that reporting is uneven for most socio-economic variables--to an extent that severely limits current capacity to use these data in studies of social change and sustainable development. The distribution of topics varies greatly and few variable measures are uniformly disaggregated to the village level. Even fewer variables disaggregate according to gender. The varying integrity of each underlying dataset and mistakes resulting from the process of government reporting and client re-capture are also processes certain to have introduced errors. Analysis, therefore, involves substantial interpretation and application of 'professional judgment'.
 
-International development projects can contribute on-going technical assistance to re-constitute, clean, and verify MTB government village-level data in a manner that is helpful for social analysis.  We will continue integrating government data sources as they become available to us.  Allowes are made within the scope of this methodology to pursue data access by working directly with key stakeholder informants. %%{[REFERENCE METHODOLOGY SECTION]}%%.  Consultancy will continue to seek access to data from the 2010 Indonesian Census, which records to the household level across the country.
+International development projects can contribute on-going technical assistance to re-constitute, clean, and verify MTB government village-level data in a manner that is helpful for social analysis.  We will continue integrating government data sources as they become available to us.  Allowance is made within the scope of this methodology to pursue data access by working directly with key stakeholder informants. %%{[REFERENCE METHODOLOGY SECTION]}%%.  Consultancy will continue to seek access to data from the 2010 Indonesian Census, which records to the household level across the country.
 
 
 ### key informant interviews
@@ -126,7 +126,7 @@ The ESMS supplementary baseline survey will utilize FGDs to gather data and insi
 
 ### 'Triangulation' of data sources
 
-'Triangulation' is a term used by social scientists to describe the the technique of integrating multiple lines of analysis to ensure the integrity of data sources and analytical practices. The term 'triangulation' is borrowed from navigational techniques for locating a single point in multi-dimensional space by evaluating the convergence of measurements from other distinct points. The idea is that one can be more confident with a result of data collection and analysis if different methods lead to the same outcomes. Triangulation can be used in both quantitative (validation) and qualitative (inquiry) studies and is particularly well suited when one seeks to establish the credibility of qualitative analyses. Triangulation of information also helps overcome limitations imposed on qualitative studies via sampling criteria for reliability and validity combining multiple observers, theories, methods, and empirical materials, researchers can hope to overcome the weakness or intrinsic biases and the problems that come from single method, single-observer and single-theory studies.
+'Triangulation' is a term used by social scientists to describe the technique of integrating multiple lines of analysis to ensure the integrity of data sources and analytical practices. The term 'triangulation' is borrowed from navigational techniques for locating a single point in multi-dimensional space by evaluating the convergence of measurements from other distinct points. The idea is that one can be more confident with a result of data collection and analysis if different methods lead to the same outcomes. Triangulation can be used in both quantitative (validation) and qualitative (inquiry) studies and is particularly well suited when one seeks to establish the credibility of qualitative analyses. Triangulation of information also helps overcome limitations imposed on qualitative studies via sampling criteria for reliability and validity combining multiple observers, theories, methods, and empirical materials, researchers can hope to overcome the weakness or intrinsic biases and the problems that come from single method, single-observer and single-theory studies.
 
 The ESMS supplementary social baseline studies compile following sources of data to facilitate triangulation of data to inform social impact analysis:
 
@@ -134,4 +134,3 @@ The ESMS supplementary social baseline studies compile following sources of data
   2. limited household surveys
   3. focus group discussions (FGD) / participatory rapid appraisal (PRA)
   4. key informant interviews
-

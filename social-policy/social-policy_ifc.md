@@ -1,46 +1,54 @@
 
 <a name="ifc"></a>
 
-## International Finance Corporation (IFC)
+# International Finance Corporation 
 
-The International Finance Corporation's over-arching social policy aims and objectives are established in its [Sustainability Framework](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/sustainability+framework). The Sustainability Framework is comprised of the *[Policy on Social and Environmental Sustainability](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/sustainability-policy/sustainability-policy)*, which defines institutional commitments, the [Performance Standards on Social and Environmental Sustainability](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/performance-standards), which define operational requirements for borrowers and clients, as well as the [Access to Information Policy](https://disclosures.ifc.org/#/accessInfoPolicy), which articulates IFC's commitment to transparency.
 
-The IFC Sustainability Framework [first entered into force on April 30, 2006](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/ifcsustainabilityframework_2006) and was [updated in 2012](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/ifcsustainabilityframework_2012).  The 2006 edition of IFC's Sustainability Framework applies to investments that go through IFC's initial credit review process from April 30, 2006 to December 31, 2011. The 2012 edition of IFC's Sustainability Framework applies to all investment and advisory clients whose projects go through IFC's initial credit review process after January 1, 2012. 
+<div class="warning" label="Note">While this is discussion remains current, IFC is undergoing an update to their Performance Standards that will render some information obsolete once finished.  Also, IFC continually updates the links to their policy documents, and consequently some of the hyperlinks below may no longer work.</div>
 
-Prior to April 30, 2006, investments were subject to contemporanious versions of the IFC and World Bank Group [Safeguard Policies](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006).
+The International Finance Corporation's over-arching social policy aims and objectives are established in its [Sustainability Framework](#ifc-sustainability-framework "source URL: https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/sustainability+framework").<!--The Sustainability Framework is comprised of the *[Policy on Social and Environmental Sustainability](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/sustainability-policy/sustainability-policy)*, which defines institutional commitments, the [Performance Standards on Social and Environmental Sustainability](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/performance-standards), which define operational requirements for borrowers and clients, as well as the [Access to Information Policy](https://disclosures.ifc.org/#/accessInfoPolicy), which articulates IFC's commitment to transparency.--> IFC's Sustainability Framework first entered into force on April 30, 2006 <!-- original URL: https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/ifcsustainabilityframework_2006--> and was updated in 2012 <!-- original URL: https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/ifcsustainabilityframework_2012-->.<!--The 2006 edition of IFC's Sustainability Framework applies to investments that go through IFC's initial credit review process from April 30, 2006 to December 31, 2011. The 2012 edition of IFC's Sustainability Framework applies to all investment and advisory clients whose projects go through IFC's initial credit review process after January 1, 2012.--> Prior to the 2006 Performance Standards, investments were subject to [contemporaneous versions](#ifc-safeguards-pre-2006 "source URL:https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006") of the IFC and World Bank Group safeguard policies.
 
-In addition to the Sustainability Framework, social policy at IFC is also manifested in the form of operational guidance to its staff and clients in the from of proceedures, operational guidelines, and guidance notes.
+<!--Investments made prior to April 30, 2006 are subject to the [Safeguard Policies](http://www.ifc.org/safeguards).
+-->
 
----
+In addition to the Sustainability Framework, social policy at IFC is also manifested in the form of operational guidance to its staff and clients in the form of procedures, operational guidelines, and guidance notes.
 
-<a name="ifc-policy"></a>
-
-## IFC's Social and Environmental Policy Framework
+The discussion that follows elaborates each facet of IFC's social policy.
 
 ---
+
+<div id="ifc-policy"></div>
+
+## Social and Environmental Policy at IFC
+
 
 <div class="card">
  <div class="card-body">
- <h5 class="card-title">Current Policy Framework</h5>
+ <h5 class="card-title">IFC's Current E&S Policy Framework</h5>
 <p class="card-text">
 <ul>
 <li>
-<p><a href="http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustainability/sustainability+framework/sustainability+framework+-+2012/framework_2012#AIP">
+<p><a href="https://www.ifc.org/en/insights-reports/2012/publications-handbook-sustainabilityframework">
 2012 Sustainability Framework
 </a></p>
 </li>
 <ul>
-<li><a href="http://www.ifc.org/wps/wcm/connect/7540778049a792dcb87efaa8c6a8312a/SP_English_2012.pdf?MOD=AJPERES">Policy on Social &amp; Environmental Sustainability [PDF]</a></li>
-<li><a href="http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/ifc+sustainability/sustainability+framework/sustainability+framework+-+2012/performance+standards+and+guidance+notes+2012/performance+standards+-+2012">Performance Standards and Guidance Notes - 2012 Edition [website]</a></li>
+<li><a href="https://www.ifc.org/en/insights-reports/2012/publications-policy-sustainability-2012">Policy on Social &amp; Environmental Sustainability</a></li>
+<li><a href="https://www.ifc.org/en/insights-reports/2012/ifc-performance-standards">Performance Standards and Guidance Notes - 2012 Edition</a></li>
 <ul>
-<li><a href="http://www.ifc.org/wps/wcm/connect/7540778049a792dcb87efaa8c6a8312a/SP_English_2012.pdf?MOD=AJPERES">Performance Standards on Social &amp; Environmental Sustainability [PDF]</a> | <a href="http://www.ifc.org/wps/wcm/connect/cd44c6004b8bbc068dbccfbbd578891b/PS_Russian_2012_Full-Document.pdf?MOD=AJPERES">русский</a> | <a href="http://www.ifc.org/wps/wcm/connect/5fd142004a585f48ba3ebf8969adcc27/PS_Chinese_2012_Full-Document.pdf?MOD=AJPERES">简体中文</a></li>
-<li><a href="http://www.ifc.org/wps/wcm/connect/e280ef804a0256609709ffd1a5d13d27/GN_English_2012_Full-Document.pdf?MOD=AJPERES">Guidance Notes: Performance Standards on Social &amp; Environmental Sustainability</a></li>
+<li><a href="https://www.ifc.org/content/dam/ifc/doc/2010/2012-ifc-performance-standards-en.pdf">Performance Standards on Social &amp; Environmental Sustainability [PDF]</a></li>
+<li><a href="https://www.ifc.org/content/dam/ifc/doc/2010/2012-ifc-performance-standards-guidance-note-en.pdf">Guidance Notes: Performance Standards on Social &amp; Environmental Sustainability</a></li>
 </ul>
-<li><a href="http://www.ifc.org/wps/wcm/connect/CORP_EXT_Content/IFC_External_Corporate_Site/IFC+Projects+Database/Projects/">Access to Information Policy [website]</a> <a href="http://www.ifc.org/wps/wcm/connect/89c0398049a79222b865faa8c6a8312a/AIP_English_2012.pdf?MOD=AJPERES">[PDF]</a></li>
+<li><a href="https://disclosures.ifc.org/access-info-policy">Access to Information Policy [website]</a> <a href="https://www.ifc.org/content/dam/ifc/doc/2010/2012-ifc-access-to-information-policy-en.pdf">[PDF]</a></li>
 </ul>
 <li>
-<p><a href="http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_ESRP2009/$FILE/ESRP2009.pdf">
-Environmental and Social Review Procedure
+<p><a href="https://www.ifc.org/en/what-we-do/sector-expertise/sustainability/ifc-exclusion-list-2007">
+IFC Exclusion List
+</a></p>
+</li>
+<li>
+<p><a href="https://www.ifc.org/en/insights-reports/2016/publications-policy-esrp">
+Environmental and Social Review Procedures
 </a></p>
 </li>
 </ul>
@@ -50,34 +58,31 @@ Environmental and Social Review Procedure
 
 ---
 
-### Sustainability Framework
+<div id="ifc-sustainability-framework"></div>
+
+## Sustainability Framework
 
 First adopted in 2006, IFC's [Sustainability Framework](http://www.ifc.org/sustainabilityframework) articulates the corporation's strategic commitment to sustainable development. The framework establishes environmental and social practices in the context of risk-management, accountability and transparency.   
 
 The Sustainability Framework consists of:
 
-1. The [Policy on Social & Environmental Sustainability](http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_SocEnvSustainability2006/$FILE/SustainabilityPolicy.pdf), which defines IFC's commitments to environmental and social sustainability.
-2. The [Performance Standards](https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Policies-Standards/Performance-Standards), which define clients' responsibilities for managing their environmental and social risks, including requirements for information disclosure.
-3. The [Access to Information Policy](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_policy_aip "see also the  'Policy on Disclosure of Information'</p>
-"), which articulates IFC's commitment to transparency.
+1. The [Policy on Social & Environmental Sustainability](https://www.ifc.org/en/insights-reports/2012/publications-policy-sustainability-2012 "original URL: http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_SocEnvSustainability2006/$FILE/SustainabilityPolicy.pdf"), which defines IFC's commitments to environmental and social sustainability.
+2. The [Performance Standards](https://www.ifc.org/en/insights-reports/2012/ifc-performance-standards "original URL: https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Policies-Standards/Performance-Standards"), which define clients' responsibilities for managing their environmental and social risks, including requirements for information disclosure.
+3. The [Access to Information Policy](https://www.ifc.org/en/insights-reports/2012/ifc-access-to-information-policy "original URL: https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_policy_aip - see also the  'Policy on Disclosure of Information'"), which articulates IFC's commitment to transparency.
 
-In 2012&mdash;following an 18-month process of stakeholder consultation&mdashthe Sustainability Framework was updated to reflect the evolution in good practice for sustainability and risk mitigation. Among the issues addressed in the 2012 updates are supply-chain management, resource efficiency and climate change, and business and human rights.
+The 2006 edition of IFC's Sustainability Framework applies to investments that go through IFC's initial credit review process from April 30, 2006 to December 31, 2011.  In 2012&mdash;following an 18-month process of stakeholder consultation&mdash;the Sustainability Framework was updated to reflect the evolution in good practice for sustainability and risk mitigation. The 2012 edition of IFC's Sustainability Framework applies to all investment and advisory clients whose projects undergo IFC's initial credit review process after January 1, 2012.
 
-The 2006 edition of IFC's Sustainability Framework applies to investments that go through IFC's initial credit review process from April 30, 2006 to December 31, 2011. The 2012 edition of IFC's Sustainability Framework applies to all investment and advisory clients whose projects undergo IFC's initial credit review process after January 1, 2012.
+<!--Among the issues addressed in the 2012 updates are supply-chain management, resource efficiency and climate change, and business and human rights.-->
 
-Investments made prior to April 30, 2006 are subject to the [Safeguard Policies](http://www.ifc.org/safeguards).
 
-### Performance Standards
+---
 
-IFC's [Performance Standards on Social & Environmental Sustainability](https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Policies-Standards/Performance-Standards) are globally-recognized as a benchmark for environmental and social risk management in the private sector. The Performance Standards define clients' roles and responsibilities for project management—including client and project-level requirements for information disclosure.
-
-The adoption of the International Finance Corporation’s 2006 Performance Standards on Social & Environmental Sustainability set a trend for IFI social safeguards. Rather than relying on the multiple, individual operational policies of the World Bank (as was IFC's previous practice), the Performance Standards comprised an integrated bundle of social and environmental protections structured to provide a comprehensive policy framework tailored to the private sector.
+## Performance Standards
 
 <div class="card">
 <div class="card-body">
-<h5 class="card-title"><a href="https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Policies-Standards/Performance-Standards">Performance Standards on Social & Environmental Sustainability</a></h5>
+<h5 class="card-title"><a href="https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Policies-Standards/Performance-Standards">IFC 2012 Performance Standards on Social & Environmental Sustainability</a></h5>
 <div class="card-text">
-<p>The Performance Standards are grouped into eight sections, each of which is coupled with Guidance Notes to further clarify client roles and responsibilities under the standards. The eight Performance Standards (PS) are:</p>
 <p>
 PS 1:	Social and Environmental Assessment and Management System<br />
 PS 2:	Labor and Working Conditions<br />
@@ -92,6 +97,13 @@ PS 8:	Cultural Heritage <br />
 </div>
 </div>
 
+
+IFC's [Performance Standards on Social & Environmental Sustainability](https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Policies-Standards/Performance-Standards) are globally-recognized as a benchmark for environmental and social risk management in the private sector. The Performance Standards define clients' roles and responsibilities for project management—including client and project-level requirements for information disclosure. The Performance Standards are grouped into eight sections, each of which is coupled with [Guidance Notes](https://www.ifc.org/en/insights-reports/2012/publications-policy-gn-2012) to further clarify client roles and responsibilities under the standards (_see discussion below_). 
+
+<!--
+The adoption of the International Finance Corporation’s 2006 Performance Standards on Social & Environmental Sustainability set a trend for IFI social safeguards. Rather than relying on the multiple, individual operational policies of the World Bank (as was IFC's previous practice), the Performance Standards comprised an integrated bundle of social and environmental protections structured to provide a comprehensive policy framework tailored to the private sector.
+-->
+
 <!--
 
 <a href="http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/pol_PerformanceStandards2006_full/$FILE/IFC+Performance+Standards.pdf">Performance Standards on Social &amp; Environmental Sustainability</a> | <a href="http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_PerformanceStandards2006_full_Russian/$FILE/IFC+Performance+Standards_Russian.pdf">русский</a> | <a href="http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_PerformanceStandards2006_full_Chinese/$FILE/IFC+Performance+Standards_Chinese.pdf">简体中文</a> 
@@ -102,12 +114,69 @@ PS 8:	Cultural Heritage <br />
 : ''see my'' [[IFC policy analysis - PCDP/community engagement|interpretation of IFC Performance Standards relative to public consultation and disclosure]]
 -->
 
+---
 
-#### Pre-2006 Environmental and Social Safeguards
+<div id="ifc-safeguards-pre-2006"></div>
 
-Prior to 2006, IFC's [safeguard policies](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#safeguard) defined IFC and its clients responsbilities for preventing and mitigate undue harm to people and their environment in the identification, preparation, and implementation of projects. 
+### Pre-2006 Environmental and Social Safeguards
+
+Prior to 2006, IFC's [safeguard policies](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#safeguard) defined the responsibilities of IFC and its clients for preventing and mitigate undue harm to people and their environment in the identification, preparation, and implementation of projects.  IFC's safeguard policies comprised the following:
+
+* [Environmental Assessment](https://www.ifc.org/content/dam/ifc/doc/1990/op401-environmentalassessment.pdf) (OP 4.01, October 1998)
+* [Natural Habitats](https://www.ifc.org/content/dam/ifc/doc/1990/op404-naturalhabitats.pdf) (OP 4.04, November 1998)
+* [Pest Management](https://www.ifc.org/content/dam/ifc/doc/1990/op409-pestmanagement.pdf) (OP 4.09, November 1998)
+* [Forestry](https://www.ifc.org/content/dam/ifc/doc/1990/op436-forestry.pdf) (OP 4.36, November 1998)
+* [Safety of Dams](https://www.ifc.org/content/dam/ifc/doc/1990/op437-safetyofdams.pdf) (OP 4.37, September 1996)
+* [International Waterways](https://www.ifc.org/content/dam/ifc/doc/1990/op750-intlwaterways.pdf) (OP 7.50, November 1998)
+* [Indigenous Peoples](https://www.ifc.org/content/dam/ifc/doc/1990/od420-indigenouspeoples.pdf) (OD 4.20, September 1991)
+* [Involuntary Resettlement](https://www.ifc.org/content/dam/ifc/doc/1990/od430-involuntaryresettlement.pdf) (OD 4.30, June 1990)
+* [Cultural Property](https://www.ifc.org/content/dam/ifc/doc/1990/opn1103-culturalproperty.pdf) (OPN 11.03, September 1986)
+* [Child and Forced Labor Policy Statement](https://www.ifc.org/content/dam/ifc/doc/1990/childforcedlabor.pdf) (March 1998)
+
+<!--
+**Environmental Assessment (OP 4.01, October 1998)**
+
+[English](https://www.ifc.org/content/dam/ifc/doc/1990/op401-environmentalassessment.pdf) | [Français](https://www.ifc.org/content/dam/ifc/doc/1990/op401-french.pdf) | [Español](https://www.ifc.org/content/dam/ifc/doc/1990/op401-spanish.pdf) | [Português](https://www.ifc.org/content/dam/ifc/doc/1990/op401-portuguese.pdf) | [русский](https://www.ifc.org/content/dam/ifc/doc/1990/op401-russian.pdf) | [عربي](https://www.ifc.org/content/dam/ifc/doc/1990/op401-arabic.pdf) | [简体中文](https://www.ifc.org/content/dam/ifc/doc/1990/op401-chinese.pdf)
+
+**Natural Habitats (OP 4.04, November 1998)**
+
+[English](https://www.ifc.org/content/dam/ifc/doc/1990/op404-naturalhabitats.pdf) | [Français](https://www.ifc.org/content/dam/ifc/doc/1990/op404-french.pdf) | [Español](https://www.ifc.org/content/dam/ifc/doc/1990/op404-spanish.pdf) | [Português](https://www.ifc.org/content/dam/ifc/doc/1990/op404-portuguese.pdf) | [русский](https://www.ifc.org/content/dam/ifc/doc/1990/op404-russian.pdf) | [عربي](https://www.ifc.org/content/dam/ifc/doc/1990/op404-arabic.pdf) | [简体中文](https://www.ifc.org/content/dam/ifc/doc/1990/op404-chinese.pdf)
+
+**Pest Management (OP 4.09, November 1998)**
+
+[English](https://www.ifc.org/content/dam/ifc/doc/1990/op409-pestmanagement.pdf) | [Français](https://www.ifc.org/content/dam/ifc/doc/1990/op409-french.pdf) | [Español](https://www.ifc.org/content/dam/ifc/doc/1990/op409-spanish.pdf) | [Português](https://www.ifc.org/content/dam/ifc/doc/1990/op409-portuguese.pdf) | [русский](https://www.ifc.org/content/dam/ifc/doc/1990/op409-russian.pdf) | [عربي](https://www.ifc.org/content/dam/ifc/doc/1990/op409-arabic.pdf) | [简体中文](https://www.ifc.org/content/dam/ifc/doc/1990/op409-chinese.pdf)
+
+**Forestry (OP 4.36, November 1998)**
+
+[English](https://www.ifc.org/content/dam/ifc/doc/1990/op436-forestry.pdf) | [Français](https://www.ifc.org/content/dam/ifc/doc/1990/op436-french.pdf) | [Español](https://www.ifc.org/content/dam/ifc/doc/1990/op436-spanish.pdf) | [Português](https://www.ifc.org/content/dam/ifc/doc/1990/op436-portuguese.pdf) | [русский](https://www.ifc.org/content/dam/ifc/doc/1990/op436-russian.pdf) | [عربي](https://www.ifc.org/content/dam/ifc/doc/1990/op436-arabic.pdf) | [简体中文](https://www.ifc.org/content/dam/ifc/doc/1990/op436-chinese.pdf)
+
+**Safety of Dams (OP 4.37, September 1996)**
+
+[English](https://www.ifc.org/content/dam/ifc/doc/1990/op437-safetyofdams.pdf) | [Français](https://www.ifc.org/content/dam/ifc/doc/1990/op437-french.pdf) | [Español](https://www.ifc.org/content/dam/ifc/doc/1990/op437-spanish.pdf) | [Português](https://www.ifc.org/content/dam/ifc/doc/1990/op437-portuguese.pdf) | [русский](https://www.ifc.org/content/dam/ifc/doc/1990/op437-russian.pdf) | [عربي](https://www.ifc.org/content/dam/ifc/doc/1990/op437-arabic.pdf) | [简体中文](https://www.ifc.org/content/dam/ifc/doc/1990/op437-chinese.pdf)
+
+**International Waterways (OP 7.50, November 1998)**
+
+[English](https://www.ifc.org/content/dam/ifc/doc/1990/op750-intlwaterways.pdf) | [Français](https://www.ifc.org/content/dam/ifc/doc/1990/op750-french.pdf) | [Español](https://www.ifc.org/content/dam/ifc/doc/1990/op750-spanish.pdf) | [Português](https://www.ifc.org/content/dam/ifc/doc/1990/op750-portuguese.pdf) | [русский](https://www.ifc.org/content/dam/ifc/doc/1990/op750-russian.pdf) | [عربي](https://www.ifc.org/content/dam/ifc/doc/1990/op750-arabic.pdf) | [简体中文](https://www.ifc.org/content/dam/ifc/doc/1990/op750-chinese.pdf)
+
+**Indigenous Peoples (OD 4.20, September 1991)**
+
+[English](https://www.ifc.org/content/dam/ifc/doc/1990/od420-indigenouspeoples.pdf) | [Français](https://www.ifc.org/content/dam/ifc/doc/1990/od420-french.pdf) | [Español](https://www.ifc.org/content/dam/ifc/doc/1990/od420-spanish.pdf) | [Português](https://www.ifc.org/content/dam/ifc/doc/1990/od420-portuguese.pdf) | [русский](https://www.ifc.org/content/dam/ifc/doc/1990/od420-russian.pdf) | [عربي](https://www.ifc.org/content/dam/ifc/doc/1990/od420-arabic.pdf) | [简体中文](https://www.ifc.org/content/dam/ifc/doc/1990/od420-chinese.pdf)
+
+**Involuntary Resettlement (OD 4.30, June 1990)**
+
+[English](https://www.ifc.org/content/dam/ifc/doc/1990/od430-involuntaryresettlement.pdf) | [Français](https://www.ifc.org/content/dam/ifc/doc/1990/od430-french.pdf) | [Español](https://www.ifc.org/content/dam/ifc/doc/1990/od430-spanish.pdf) | [Português](https://www.ifc.org/content/dam/ifc/doc/1990/od430-portuguese.pdf) | [русский](https://www.ifc.org/content/dam/ifc/doc/1990/od430-russian.pdf) | [عربي](https://www.ifc.org/content/dam/ifc/doc/1990/od430-arabic.pdf) | [简体中文](https://www.ifc.org/content/dam/ifc/doc/1990/od430-chinese.pdf)
+
+**Cultural Property (OPN 11.03, September 1986)**
+
+[English](https://www.ifc.org/content/dam/ifc/doc/1990/opn1103-culturalproperty.pdf) | [Français](https://www.ifc.org/content/dam/ifc/doc/1990/opn1103-french.pdf) | [Español](https://www.ifc.org/content/dam/ifc/doc/1990/opn1103-spanish.pdf) | [Português](https://www.ifc.org/content/dam/ifc/doc/1990/opn1103-spanish.pdf) | [русский](https://www.ifc.org/content/dam/ifc/doc/1990/opn1103-russian.pdf) | [عربي](https://www.ifc.org/content/dam/ifc/doc/1990/opn1103-arabic.pdf) | [简体中文](https://www.ifc.org/content/dam/ifc/doc/1990/opn1103-chinese.pdf)
+
+**Child and Forced Labor Policy Statement (March 1998)**
+
+[English](https://www.ifc.org/content/dam/ifc/doc/1990/childforcedlabor.pdf) | [Français](https://www.ifc.org/content/dam/ifc/doc/1990/labor-french.pdf) | [Español](https://www.ifc.org/content/dam/ifc/doc/1990/labor-spanish.pdf) | [Português](https://www.ifc.org/content/dam/ifc/doc/1990/labor-portuguese.pdf) | [русский](https://www.ifc.org/content/dam/ifc/doc/1990/labor-russian.pdf) | [简体中文](https://www.ifc.org/content/dam/ifc/doc/1990/labor-chinese.pdf)
+-->
 
 
+<!--
 Environmental Assessment (OP 4.01, October 1998) <br/>
 [English](https://www.ifc.org/wps/wcm/connect/8fbad499-03f6-4903-a586-d180e34a73f0/OP401_EnvironmentalAssessment.pdf?MOD=AJPERES&CVID=jqeAUET) | 
 [Français](https://www.ifc.org/wps/wcm/connect/13380ffd-4dba-4056-8ecf-3a6637757b0c/OP401_French.pdf?MOD=AJPERES&CVID=jqeAUNu) | 
@@ -195,67 +264,71 @@ Child and Forced Labor Policy Statement (March 1998) <br/>
 | [Português](https://www.ifc.org/wps/wcm/connect/86988bac-4eca-4838-896b-b6a970ddfc73/Labor_Portuguese.pdf?MOD=AJPERES&CVID=jqewHqk) 
 | [русский](https://www.ifc.org/wps/wcm/connect/39e8c389-795a-43b1-9de3-a6769ba3ab64/Labor_Russian.pdf?MOD=AJPERES&CVID=jkCZ8EP) 
 | [简体中文](https://www.ifc.org/wps/wcm/connect/1a7bfd55-c27e-4908-8830-e753cfbbbe62/Labor_Chinese.pdf?MOD=AJPERES&CVID=jqeATHy)
-
-
-### Policy on Disclosure / Access to Information
-
-IFC first adopted its [Disclosure Policy](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#disclosure) in September 1998 to clarify scope of materials that IFC makes publically available&mdash;either on a routine basis or upon request.  
-
----
-
-Disclosure Policy (September 1998) [PDF]<br />
-[English](https://www.ifc.org/wps/wcm/connect/e4e187004885545cb27cf26a6515bb18/1998DisclosurePolicy.pdf?MOD=AJPERES) | Français | Español | Portugués | [русский](https://www.ifc.org/wps/wcm/connect/f1e3da80488557bcbda4ff6a6515bb18/disclosure_Russian.pdf?MOD=AJPERES) | عربي
-
-<!--
-* [Disclosure Policy](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#disclosure)
 -->
 
+
+
 ---
 
-The policy was [updated in 2006](href="http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_Disclosure2006/$FILE/Disclosure2006.pdf "2006 IFC Policy on Disclosure of Information") in-line with the Policy on Social and Environmental Sustainability and the Performance Standards. In accordance with the requirements of the Performance Standards, the Disclosure Policy necessitates that IFC clients self-disclose information to project-affected parties about all types of adverse environmental and social impacts resulting from the project, as well as the client’s plan to mitigate these impacts. In addition, the document also defines how routinely-provided information can be obtained, the types of information that IFC does not routinely provide (a fairly standard list of exceptions intended to protect the financial and personal welfare of IFC, its clients, and its employees), and how IFC monitors its own implementation of this policy.
+
+## Guidance Notes
+
+IFC's [Guidance Notes](https://www.ifc.org/en/insights-reports/2012/publications-policy-gn-2012 "original URL: http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#guidance") were created to accompany the [1998 Environmental and Social Review Procedure (ESRP)](https://www.ifc.org/en/insights-reports/2016/publications-policy-esrp "original URL: https://www.ifc.org/wps/wcm/connect/8b64370048855267ab74fb6a6515bb18/ESRP1998.pdf?MOD=AJPERES")&mdash;to provide additional information to assist IFC staff and project sponsors.  The 1998 Guidance Notes were updated in [2006](https://www.ifc.org/content/dam/ifc/doc/2000/2006-ifc-performance-standards-en.pdf "original URL: http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/pol_GuidanceNote2007_full/$FILE/2007+Updated+Guidance+Notes_full.pdf") and again in [2012](https://www.ifc.org/content/dam/ifc/doc/2010/2012-ifc-performance-standards-guidance-note-en.pdf "original URL: http://www.ifc.org/wps/wcm/connect/e280ef804a0256609709ffd1a5d13d27/GN_English_2012_Full-Document.pdf?MOD=AJPERES") alongside updates to the Sustainability Framework.
+
+IFC's Guidance Notes are not binding policy requirement in the same manner as the Performance Standards and safeguards policies.  Rather, they are issues as policy implementation guidance for IFC clients.
+
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title"><a href="https://www.ifc.org/en/what-we-do/sector-expertise/sustainability/policies-and-standards/pre-2006-safeguards-and-supporting-material#guidancenotes" title="previous link: https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#guidance">First Editions of IFC Guidance Notes (December 1998) [ARCHIVAL]</a></h5>
+
+* [Guidance Note A: Checklist of Potential Issues for an Environmental Assessment [PDF]](https://www.ifc.org/content/dam/ifc/doc/1990/gui-a-ea-issues-checklist.pdf)
+* [Guidance Note B: Content of an Environmental Impact Assessment Report [PDF]](https://www.ifc.org/content/dam/ifc/doc/1990/gui-b-eia-report-content.pdf)
+* [Guidance Note C: Outline of an Environmental Action Plan [PDF]](https://www.ifc.org/content/dam/ifc/doc/1990/gui-c-eap-outline.pdf)
+* [Guidance Note D: Outline of a Project Specific Environmental Audit [PDF]](https://www.ifc.org/content/dam/ifc/doc/1990/gui-d-env-audit-outline.pdf)
+* [Guidance Note E: Outline of a Project Specific Major Hazard Assessment [PDF]](https://www.ifc.org/content/dam/ifc/doc/1990/gui-e-hazard-assessment.pdf)
+* [Guidance Note F: Guidance for Preparation of a Public Consultation and Disclosure Plan [PDF]](https://www.ifc.org/content/dam/ifc/doc/1990/gui-f-pcdp-guidance.pdf)
+<!--
+    <p class="card-text">
+<ul>
+<li><a href="http://www.ifc.org/wps/wcm/connect/14432a0048855889807cd26a6515bb18/GuiA_EAIssuesChecklist.pdf?MOD=AJPERES" rel="nofollow">Guidance Note A: Checklist of Potential Issues for an Environmental Assessment</a></li>
+<li><a href="http://www.ifc.org/wps/wcm/connect/30b6768048855837bf54ff6a6515bb18/GuiB_EIAReportContent.pdf?MOD=AJPERES" rel="nofollow">Guidance Note B: Content of an Environmental Impact Assessment Report</a></li>
+<li><a href="http://www.ifc.org/wps/wcm/connect/68667f804885535aae9cfe6a6515bb18/GuiC_EAPOutline.pdf?MOD=AJPERES" rel="nofollow">Guidance Note C: Outline of an Environmental Action Plan</a></li>
+<li><a href="http://www.ifc.org/wps/wcm/connect/7d4ccb0048855b318814da6a6515bb18/GuiD_EnvAuditOutline.pdf?MOD=AJPERES" rel="nofollow">Guidance Note D: Outline of a Project Specific Environmental Audit</a></li>
+<li><a href="http://www.ifc.org/wps/wcm/connect/8a57a600488559db844cd66a6515bb18/GuiE_HazardAssessment.pdf?MOD=AJPERES" rel="nofollow">Guidance Note E: Outline of a Project Specific Major Hazard Assessment</a></li>
+<li><a href="http://www.ifc.org/wps/wcm/connect/e7e722004886583bb4def66a6515bb18/GuiF_PCDPGuidance.pdf?MOD=AJPERES" rel="nofollow">Guidance Note F: Guidance for Preparation of a Public Consultation and Disclosure Plan</a></li>
+</ul>
+    </p>
+-->
+  </div>
+</div>
 
 
-The currently IFC's Access to Information Policy, is [available online](https://disclosures.ifc.org/#/accessInfoPolicy).
+
+
+
+---
+
+
+## Policy on Disclosure / Access to Information
+
+IFC first adopted its [Disclosure Policy](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#disclosure) in [September 1998](https://www.ifc.org/content/dam/ifc/doc/1990/1998-esrp-manual.pdf) to clarify scope of materials that IFC makes publicly available&mdash;either on a routine basis or upon request. <!---Disclosure Policy (September 1998) [PDF]<br />[English](https://www.ifc.org/wps/wcm/connect/e4e187004885545cb27cf26a6515bb18/1998DisclosurePolicy.pdf?MOD=AJPERES) | Français | Español | Portugués | [русский](https://www.ifc.org/wps/wcm/connect/f1e3da80488557bcbda4ff6a6515bb18/disclosure_Russian.pdf?MOD=AJPERES) | عربي--><!--* [Disclosure Policy](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#disclosure)-->The policy was [updated in 2006](https://web.archive.org/web/20101228001059/http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_Disclosure2006/$FILE/Disclosure2006.pdf "original URL: http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_Disclosure2006/$FILE/Disclosure2006.pdf - 2006 IFC Policy on Disclosure of Information") in-line with the Policy on Social and Environmental Sustainability and the Performance Standards. IFC's [Access to Information Policy](https://www.ifc.org/en/insights-reports/2012/ifc-access-to-information-policy) (AIP) went into effect on January 1, 2012 and supersedes the 2006 Disclosure Policy. 
+
+In accordance with the requirements of the Performance Standards, IFC's Disclosure Policy necessitates that IFC clients self-disclose information to project-affected parties about all types of adverse environmental and social impacts resulting from the project, as well as the client’s plan to mitigate these impacts. In addition, the document also defines how routinely-provided information can be obtained, the types of information that IFC does not routinely provide (a fairly standard list of exceptions intended to protect the financial and personal welfare of IFC, its clients, and its employees), and how IFC monitors its own implementation of this policy. IFC's 2012 Access to Information Policy seeks to provide accurate and timely information regarding its investment and advisory services activities to its clients, partners and stakeholders.
 
 <!--
 :''see my'' [[IFC Policy on Disclosure of Information| notes on the IFC Policy on Disclosure of Information]]</h4>
 -->
 
+---
 
-### Guidance Notes
+## IFC Exclusion List
 
-IFC's [Guidance Notes](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#guidance) were created to accompany the [1998 Environmental and Social Review Procedure (ESRP)](https://www.ifc.org/wps/wcm/connect/8b64370048855267ab74fb6a6515bb18/ESRP1998.pdf?MOD=AJPERES)&mdash;to provide additional information to assist IFC staff and project sponsors.  
-
-<div class="card">
-  <div class="card-body">
-    <h5 class="card-title"><a href="https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#guidance">Guidance Notes (December 1998)</a></h5>
-    <p class="card-text">
-<ul>
-<li><a href="http://www.ifc.org/wps/wcm/connect/14432a0048855889807cd26a6515bb18/GuiA_EAIssuesChecklist.pdf?MOD=AJPERES" rel="nofollow">Guidance Note A: Checklist of Potential Issues for an Environmental Assessment</a> <a href="/aaronkyle/social-development/blob/master/context/social-policy/GuiA_EAIssuesChecklist.pdf">PDF</a></li>
-<li><a href="http://www.ifc.org/wps/wcm/connect/30b6768048855837bf54ff6a6515bb18/GuiB_EIAReportContent.pdf?MOD=AJPERES" rel="nofollow">Guidance Note B: Content of an Environmental Impact Assessment Report</a> <a href="/aaronkyle/social-development/blob/master/context/social-policy/GuiB_EIAReportContent.pdf">PDF</a></li>
-<li><a href="http://www.ifc.org/wps/wcm/connect/68667f804885535aae9cfe6a6515bb18/GuiC_EAPOutline.pdf?MOD=AJPERES" rel="nofollow">Guidance Note C: Outline of an Environmental Action Plan</a> <a href="/aaronkyle/social-development/blob/master/context/social-policy/GuiC_EAPOutline.pdf">PDF</a></li>
-<li><a href="http://www.ifc.org/wps/wcm/connect/7d4ccb0048855b318814da6a6515bb18/GuiD_EnvAuditOutline.pdf?MOD=AJPERES" rel="nofollow">Guidance Note D: Outline of a Project Specific Environmental Audit</a> <a href="/aaronkyle/social-development/blob/master/context/social-policy/GuiD_EnvAuditOutline.pdf">PDF</a></li>
-<li><a href="http://www.ifc.org/wps/wcm/connect/8a57a600488559db844cd66a6515bb18/GuiE_HazardAssessment.pdf?MOD=AJPERES" rel="nofollow">Guidance Note E: Outline of a Project Specific Major Hazard Assessment</a> <a href="/aaronkyle/social-development/blob/master/context/social-policy/GuiE_HazardAssessment.pdf">PDF</a></li>
-<li><a href="http://www.ifc.org/wps/wcm/connect/e7e722004886583bb4def66a6515bb18/GuiF_PCDPGuidance.pdf?MOD=AJPERES" rel="nofollow">Guidance Note F: Guidance for Preparation of a Public Consultation and Disclosure Plan</a> <a href="/aaronkyle/social-development/blob/master/context/social-policy/GuiF_PCDPGuidance.pdf">PDF</a></li>
-</ul>  
-    </p>
-  </div>
-</div>
+The [IFC Exclusion List](https://www.ifc.org/en/what-we-do/sector-expertise/sustainability/ifc-exclusion-list-2007 "original URL: http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#exclusion") defines the types of projects that IFC does not finance. The [original exclusion list](https://www.ifc.org/content/dam/ifc/doc/mgrt-pub/ifc-exclusion-list.pdf) applies to IFC's investments prior to July 30, 2007. The [second iteration](https://www.ifc.org/en/what-we-do/sector-expertise/sustainability/ifc-exclusion-list-2007) of this list, dated July 30, 2007, is currently in effect.
 
 
-The 1998 Guidance Notes were updated in [2006](http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/pol_GuidanceNote2007_full/$FILE/2007+Updated+Guidance+Notes_full.pdf) and again in [2012](http://www.ifc.org/wps/wcm/connect/e280ef804a0256609709ffd1a5d13d27/GN_English_2012_Full-Document.pdf?MOD=AJPERES) alongside updates to the Sustainability Framework.
+---
 
-
-
-### Interpretation Notes
-
-[Interpretation Note on Environmental and Social Categorization](https://www.ifc.org/wps/wcm/connect/18993fe1-0c0f-4b83-9959-8e021f313e6f/Interpretation+Note+on+E+and+S+Categorization.pdf?MOD=AJPERES)<br />
-[Interpretation Note on Financial Intermediaries](https://www.ifc.org/wps/wcm/connect/38d1a68049ddf966af3cbfda80c2ddf3/FI+Interpretation+Note+November+2018.pdf?MOD=AJPERES)<br />
-[Interpretation Note on Small and Medium Enterprises and Environmental and Social Risk Management](https://www.ifc.org/wps/wcm/connect/de7d92804a29ffe9ae04af8969adcc27/InterpretationNote_SME_2012.pdf?MOD=AJPERES)
-
-
-
-### Environmental and Social Review Procedure
+## Environmental and Social Review Procedure
 
 Introduced in December 1998, IFC's [Environmental and Social Review Procedures (ESRP)](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/es-proc-manual/esrp-manual) define how IFC conducts its environmental and social due diligence for the business activities involving direct investments, investments through financial intermediaries, and advisory projects. ESRP provisions apply to IFC project environmental and social review and appraisal, leading to an IFC-approved Environmental and Social Review Summary (ESRS) and Action Plan. The ESRP define IFC’s responsibilities for direct investment supervision, the disclosure and supervision procedures concerning IFC’s financial intermediary investments, and the social and environmental requirements for IFC-managed advisory services. 
 
@@ -264,17 +337,26 @@ The ESRP are periodically updated.
 
 <div class="card">
   <div class="card-body">
-    <h5 class="card-title"><a href="https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Policies-Standards/ES-Proc-Manual">Environmental and Social Review Procedures Manual</a></h5>
+    <h5 class="card-title"><a href="https://www.ifc.org/en/insights-reports/2016/publications-policy-esrp" title="previous link: https://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Policies-Standards/ES-Proc-Manual">Environmental and Social Review Procedures Manual</a></h5>
+
+* [Environmental and Social Review Procedures (October 2016)](https://www.ifc.org/content/dam/ifc/doc/2010/2016-esrp-manual.pdf)
+* [Environmental and Social Review Procedures (April 2013)](https://www.ifc.org/content/dam/ifc/doc/2010/2013-esrp-manual.pdf)
+* [Environmental and Social Review Procedures (February 2009)](https://www.ifc.org/content/dam/ifc/doc/2000/2009-esrp-manual.pdf)
+* [Environmental and Social Review Procedures (July 2007)](https://www.ifc.org/content/dam/ifc/doc/2000/2007-esrp-manual.pdf)
+* [Environmental and Social Review Procedures (April 2006)](https://www.ifc.org/content/dam/ifc/doc/2000/2006-esrp-manual.pdf)
+* [Environmental and Social Review Procedures (December 1998)](https://www.ifc.org/content/dam/ifc/doc/1990/1998-esrp-manual.pdf)
+<!--
     <p class="card-text">
 <ul>
-<li><a https://www.ifc.org/wps/wcm/connect/6f3c3893-c196-43b4-aa16-f0b4c82c326e/ESRP_Oct2016.pdf?MOD=AJPERES&CVID=lRwoQFr">Environmental and Social Review Procedures (October 2016)</a></li>
-<li><a href="ttps://www.ifc.org/wps/wcm/connect/fce6c05a-fb9d-4b56-aae7-00d83b89960d/ESRP2014.pdf?MOD=AJPERES&CVID=lSqtBhR">Environmental and Social Review Procedure (April 2013)</a> </li>
+<li><a href="https://www.ifc.org/wps/wcm/connect/6f3c3893-c196-43b4-aa16-f0b4c82c326e/ESRP_Oct2016.pdf?MOD=AJPERES&CVID=lRwoQFr">Environmental and Social Review Procedures (October 2016)</a></li>
+<li><a href="https://www.ifc.org/wps/wcm/connect/fce6c05a-fb9d-4b56-aae7-00d83b89960d/ESRP2014.pdf?MOD=AJPERES&CVID=lSqtBhR">Environmental and Social Review Procedure (April 2013)</a> </li>
 <li><a href="https://www.ifc.org/wps/wcm/connect/c9065060-4022-4642-b38d-4d1fd62ade70/ESRP2009.pdf?MOD=AJPERES&CVID=lSqteG3">Environmental and Social Review Procedure (February 2009)</a> </li>
 <li><a href="https://www.ifc.org/wps/wcm/connect/bf58c5fd-70d1-4fca-b75e-e0e9e32ef139/ESRP2007.pdf?MOD=AJPERES&CVID=lSqsZjh">Environmental and Social Review Procedure (July 2007)</a> </li>
 <li><a href="https://www.ifc.org/wps/wcm/connect/b1cdcdac-aa6f-4826-b0d7-0f60e8edae1c/ESRP2006.pdf?MOD=AJPERES&CVID=lSqsN2Y">Environmental and Social Review Procedure (April 2006)</a> </li>
 <li><a href="https://www.ifc.org/wps/wcm/connect/dfac47dc-2863-4646-acf3-d5eeb7a3a1a6/ESRP1998.pdf?MOD=AJPERES&CVID=lSqssdk">Environmental and Social Review Procedure (December 1998)</a></li>
 </ul>
 </p>
+-->
 </div>
 </div>
 
@@ -297,16 +379,21 @@ Based upon the answers to these questions, IFC classifies the quality of its cli
 -->
 
 
+---
 
-### IFC Exclusion List
+## Interpretation Notes
 
-* [IFC Exclusion List](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#exclusion) of projects that IFC does not finance, relating to IFC's investments prior to July 30, 2007. The IFC Exclusion List defines the types of projects that IFC does not finance. The below Exclusion List relates to IFC's investments prior to the introduction of the Environmental and Social Review Procedure version 2 dated July 30, 2007.
-    * IFC Exclusion List (Pre-2007) [PDF]
+IFC's Interpretations Notes (IN) guide IFC staff in implementing its E&S policy framework. To date, IFC has published three IN:
 
+* [Interpretation Note on Environmental and Social Categorization](https://www.ifc.org/en/insights-reports/2012/publications-policy-interpretationnote-categorization "original URL: https://www.ifc.org/wps/wcm/connect/18993fe1-0c0f-4b83-9959-8e021f313e6f/Interpretation+Note+on+E+and+S+Categorization.pdf?MOD=AJPERES")- This IN explains IFC's approach to environmental and social (E&S) categorization of proposed investments. It also contrasts the updated approach with the approach that prevailed before and was introduced as part of the 2006 Sustainability Policy for the purpose of highlighting how the practice has evolved over the years.<br />
+* [Interpretation Note on Financial Intermediaries](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/693651480673428389/interpretation-note-on-financial-intermediaries "original URL: https://www.ifc.org/wps/wcm/connect/38d1a68049ddf966af3cbfda80c2ddf3/FI+Interpretation+Note+November+2018.pdf?MOD=AJPERES") - The objectives of this IN are to: (i) clarify how IFC’s policy on E and S sustainability applies to FIs; (ii) explain how IFC’s E&S requirements that flow from the sustainability policy and performance standards apply to the activities and operations of FIs; (iii) guide FIs in making necessary adjustments and enhancements in their operations to help them meet these requirements; and (iv) provide guidance to FI clients on reporting to IFC.<br />
+* [Interpretation Note on Small and Medium Enterprises and Environmental and Social Risk Management](https://www.ifc.org/en/insights-reports/2012/publications-policy-interpretationnote-sme "original URL: https://www.ifc.org/wps/wcm/connect/de7d92804a29ffe9ae04af8969adcc27/InterpretationNote_SME_2012.pdf?MOD=AJPERES") - This IN presents IFC's range of investment products aimed at supporting the development of Small and Medium Enterprises (SMEs) and clarifies the different approaches used for managing the Environmental and Social (E&S) risk of SME operations.
 
+---
 
+<div id="wbg-ehs-guidelines"></div>
 
-###  World Bank Group Environmental, Health, and Safety Guidelines
+##  World Bank Group Environmental, Health, and Safety Guidelines
 
 
 The World Bank Group Environmental, Health, and Safety Guidelines (known as the "EHS Guidelines") are technical reference documents with general and industry-specific examples of Good International Industry Practice (GIIP) and are referred to in the World Bank’s Environmental and Social Framework and in IFC’s Performance Standards.
@@ -316,32 +403,38 @@ The EHS Guidelines contain the performance levels and measures that are normally
 The World Bank Group requires borrowers/clients to apply the relevant levels or measures of the EHS Guidelines. When host country regulations differ from the levels and measures presented in the EHS Guidelines, projects will be required to achieve whichever is more stringent.
 
 
-#### General EHS Guidelines
+### [General EHS Guidelines](https://www.ifc.org/en/insights-reports/2000/general-environmental-health-and-safety-guidelines)
 
-The General EHS Guidelines contain information on cross-cutting environmental, health, and safety issues potentially applicable to all industry sectors. This document should be used together with the relevant [Industry Sector Guideline(s)](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/ehs-guidelines#IndustryEHS).
+The [General EHS Guidelines](https://www.ifc.org/content/dam/ifc/doc/2000/2007-general-ehs-guidelines-en.pdf) (2007) contain information on cross-cutting environmental, health, and safety issues potentially applicable to all industry sectors. This document should be used together with the relevant [Industry Sector Guideline(s)](#ifc-industry-sector-guidelines "original URL: https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/ehs-guidelines#IndustryEHS").
 
 
 <!--
-* [Environmental, Health, and Safety (EHS) Guidelines and Pollution Prevention and Abatement Handbook (PPAH)](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsppah) followed prior to 2007 and 2008. The World Bank Group Environmental, Health, and Safety Guidelines (known as the "EHS Guidelines") are living documents and are occasionally updated. The current version of the EHS Guidelines are available at www.ifc.org/ehsguidelines. Earlier versions of the EHS Guidelines (including documents that were previously published in Part III of the Pollution Prevention and Abatement Handbook (PPAH) and on the IFC website), that are no longer in use, can be found below and are provided for reference only.
 
 
 The World Bank Group Environmental, Health, and Safety Guidelines (known as the "EHS Guidelines") are living documents and are occasionally updated. The current version of the EHS Guidelines are available at [www.ifc.org/ehsguidelines](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/ehs-guidelines/ehsguidelines).
 
-
 -->
 
-
-
-**General EHS Guidelines (full document) [PDF]**
+<!--
 
 [English](https://www.ifc.org/wps/wcm/connect/29f5137d-6e17-4660-b1f9-02bf561935e5/Final%2B-%2BGeneral%2BEHS%2BGuidelines.pdf?MOD=AJPERES&CVID=jOWim3p) | [Français](https://www.ifc.org/wps/wcm/connect/d4260b19-30f2-466d-9c7e-86ac0ece7e89/010_General%2BGuidelines.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-d4260b19-30f2-466d-9c7e-86ac0ece7e89-jkD2Am7) | [Español](https://www.ifc.org/wps/wcm/connect/eb6fddc1-a3e3-4be5-a3da-bc3e0e919b6e/General%2BEHS%2B-%2BSpanish%2B-%2BFinal%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=jqeI7M5) | [русский](https://www.ifc.org/wps/wcm/connect/be37221a-fc47-4379-b539-eca3fe72c3e6/General%2BEHS%2B-%2BRussian%2B-%2BFinal_.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-be37221a-fc47-4379-b539-eca3fe72c3e6-jqeI79F) | [简体中文](https://www.ifc.org/wps/wcm/connect/5f142ea8-c17d-4adc-bbf8-8bb00c23b81c/001%2BGeneral%2BEHS%2BGuidelines.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-5f142ea8-c17d-4adc-bbf8-8bb00c23b81c-jqes9w2) | [عربي](https://www.ifc.org/wps/wcm/connect/d5fe1ab5-c126-4a2f-92e5-e6d174804f3c/0000199659ARar005%2B%2BEHS%2BGuidelines.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-d5fe1ab5-c126-4a2f-92e5-e6d174804f3c-jqeCUii) | [Tiếng Việt](https://www.ifc.org/wps/wcm/connect/eb900c95-5e13-435e-923a-83f6802c30b2/1.Huong+dan+chung+ve+MT-SK-AT.pdf?MOD=AJPERES&CVID=liCZAci)
+-->
 
-
-The General EHS Guidelines contain the following information (links below in English only):
+The General EHS Guidelines include the following sections and subsections (links below in English only):
 
 
 **1. Environmental**
 
+* [1.1 Air Emissions and Ambient Air Quality](https://www.ifc.org/content/dam/ifc/doc/2000/2007-general-ehs-guidelines-air-emissions-and-ambient-air-quality-en.pdf)<br/>
+* [1.2 Energy Conservation](https://www.ifc.org/content/dam/ifc/doc/2000/2007-general-ehs-guidelines-energy-conservation-en.pdf)<br/>
+* [1.3 Wastewater and Ambient Water Quality](https://www.ifc.org/content/dam/ifc/doc/2000/2007-general-ehs-guidelines-wastewater-and-ambient-water-quality-en.pdf)<br/>
+* [1.4 Water Conservation](https://www.ifc.org/content/dam/ifc/doc/2000/2007-general-ehs-guidelines-water-conservation-en.pdf)<br/>
+* [1.5 Hazardous Materials Management](https://www.ifc.org/content/dam/ifc/doc/2000/2007-general-ehs-guidelines-hazardous-materials-management-en.pdf)<br/>
+* [1.6 Waste Management](https://www.ifc.org/content/dam/ifc/doc/2000/2007-general-ehs-guidelines-waste-management-en.pdf)<br/>
+* [1.7 Noise](https://www.ifc.org/content/dam/ifc/doc/2000/2007-general-ehs-guidelines-noise-en.pdf)<br/>
+* [1.8 Contaminated Land](https://www.ifc.org/content/dam/ifc/doc/2000/2007-general-ehs-guidelines-contaminated-land-en.pdf)
+
+<!--
 [1.1 Air Emissions and Ambient Air Quality](https://www.ifc.org/wps/wcm/connect/4e01e089-ad1a-4986-b955-e19e1f305ff0/1-1%2BAir%2BEmissions%2Band%2BAmbient%2BAir%2BQuality.pdf?MOD=AJPERES&CVID=ls0KF2J)
 [1.2 Energy Conservation](https://www.ifc.org/wps/wcm/connect/9f3e9c30-050a-4901-99e7-d5d22042a9d3/1-2%2BEnergy%2BConservation.pdf?MOD=AJPERES&CVID=ls4WY5G)
 [1.3 Wastewater and Ambient Water Quality](https://www.ifc.org/wps/wcm/connect/3d9a54ae-c44c-488d-9851-afeb368cb9f9/1-3%2BWastewater%2Band%2BAmbient%2BWater%2BQuality.pdf?MOD=AJPERES&CVID=ls4Xbfn)
@@ -350,58 +443,150 @@ The General EHS Guidelines contain the following information (links below in Eng
 [1.6 Waste Management](https://www.ifc.org/wps/wcm/connect/456bbb17-b961-45b3-b0a7-c1bd1c7163e0/1-6%2BWaste%2BManagement.pdf?MOD=AJPERES&CVID=ls4XT4R)
 [1.7 Noise](https://www.ifc.org/wps/wcm/connect/4a4db1c5-ee97-43ba-99dd-8b120b22ea32/1-7%2BNoise.pdf?MOD=AJPERES&CVID=ls4XYBw)
 [1.8 Contaminated Land](https://www.ifc.org/wps/wcm/connect/63bee22a-3eda-43f3-82de-a959c6ceaf49/1-8%2BContaminated%2BLand.pdf?MOD=AJPERES&CVID=ls4Y3K7)
-
+-->
  
 
-[ **2. Occupational Health and Safety** ](https://www.ifc.org/wps/wcm/connect/1d19c1ab-3ef8-42d4-bd6b-cb79648af3fe/2%2BOccupational%2BHealth%2Band%2BSafety.pdf?MOD=AJPERES&CVID=ls62x8l)
+[ **2. Occupational Health and Safety** ](https://www.ifc.org/content/dam/ifc/doc/2000/2007-general-ehs-guidelines-occupational-health-and-safety-en.pdf "original URL: https://www.ifc.org/wps/wcm/connect/1d19c1ab-3ef8-42d4-bd6b-cb79648af3fe/2%2BOccupational%2BHealth%2Band%2BSafety.pdf?MOD=AJPERES&CVID=ls62x8l")
 
-2.1 General Facility Design and Operation
-2.2 Communication and Training
-2.3 Physical Hazards
-2.4 Chemical Hazards
-2.5 Biological Hazards
-2.6 Radiological Hazards
-2.7 Personal Protective Equipment (PPE)
-2.8 Special Hazard Environments
-2.9 Monitoring
+* 2.1 General Facility Design and Operation<br/>
+* 2.2 Communication and Training<br/>
+* 2.3 Physical Hazards<br/>
+* 2.4 Chemical Hazards<br/>
+* 2.5 Biological Hazards<br/>
+* 2.6 Radiological Hazards<br/>
+* 2.7 Personal Protective Equipment (PPE)<br/>
+* 2.8 Special Hazard Environments<br/>
+* 2.9 Monitoring
 
- 
 
-[ **3. Community Health and Safety** ](https://www.ifc.org/wps/wcm/connect/eeb82b4a-e9a8-4ad1-9472-f1c766eb67c8/3%2BCommunity%2BHealth%2Band%2BSafety.pdf?MOD=AJPERES&CVID=ls62Gai)
+[ **3. Community Health and Safety** ](https://www.ifc.org/content/dam/ifc/doc/2000/2007-general-ehs-guidelines-community-health-and-safety-en.pdf "original URL: https://www.ifc.org/wps/wcm/connect/eeb82b4a-e9a8-4ad1-9472-f1c766eb67c8/3%2BCommunity%2BHealth%2Band%2BSafety.pdf?MOD=AJPERES&CVID=ls62Gai")
 
-3.1 Water Quality and Availability
-3.2 Structural Safety of Project Infrastructure
-3.3 Life and Fire Safety (L&FS)
-3.4 Traffic Safety
-3.5 Transport of Hazardous Materials
-3.6 Disease Prevention
-3.7 Emergency Preparedness and Response
+* 3.1 Water Quality and Availability<br/>
+* 3.2 Structural Safety of Project Infrastructure<br/>
+* 3.3 Life and Fire Safety (L&FS)<br/>
+* 3.4 Traffic Safety<br/>
+* 3.5 Transport of Hazardous Materials<br/>
+* 3.6 Disease Prevention<br/>
+* 3.7 Emergency Preparedness and Response
 
- 
 
-[ **4. Construction and Decommissioning** ](https://www.ifc.org/wps/wcm/connect/7d708218-2a9e-4fcc-879d-9d5051746e7d/4%2BConstruction%2Band%2BDecommissioning.pdf?MOD=AJPERES&CVID=ls62NKq)
+[ **4. Construction and Decommissioning** ](https://www.ifc.org/content/dam/ifc/doc/2000/2007-general-ehs-guidelines-construction-and-decommissioning-en.pdf "original URL: https://www.ifc.org/wps/wcm/connect/7d708218-2a9e-4fcc-879d-9d5051746e7d/4%2BConstruction%2Band%2BDecommissioning.pdf?MOD=AJPERES&CVID=ls62NKq")
 
-4.1 Environment
-4.2 Occupational Health and Safety
-4.3 Community Health and Safety
+* 4.1 Environment<br/>
+* 4.2 Occupational Health and Safety<br/>
+* 4.3 Community Health and Safety
 
- 
 
-[ **References and Additional Sources** ](https://www.ifc.org/wps/wcm/connect/00530e6e-c562-49db-bcb3-ca028dd0ec88/References%2Band%2BAdditional%2BSources.pdf?MOD=AJPERES&CVID=ls62-83)
+[ **References and Additional Sources** ](https://www.ifc.org/content/dam/ifc/doc/2000/2007-general-ehs-guidelines-references-and-additional-sources-en.pdf "https://www.ifc.org/wps/wcm/connect/00530e6e-c562-49db-bcb3-ca028dd0ec88/References%2Band%2BAdditional%2BSources.pdf?MOD=AJPERES&CVID=ls62-83")
 
 
 
+<!--
+**PPAH Part III: Project Guidelines**  [PDF]
+
+* [Principles of Industrial Pollution Management](https://www.ifc.org/wps/wcm/connect/e47d5c23-bc46-4623-b548-2d1cc0785eb4/HandbookPrinciplesOfIndustrialPollutionManagement.pdf?MOD=AJPERES&CVID=jkD0CrK)
+* [Monitoring](https://www.ifc.org/wps/wcm/connect/81df785a-e5ea-4d73-839a-c15c1934ba21/monitoring_PPAH.pdf?MOD=AJPERES&CVID=jqevOEL)
+* [Summary of Air Emission and Effluent Discharge Requirements Presented in the Industry Guidelines](https://www.ifc.org/wps/wcm/connect/f55cf8a7-40da-4170-84b8-c270d00ce2fa/HandbookSummaryAirEmissionAndEffluentDischargeRequirements.pdf?MOD=AJPERES&CVID=jqewtuX)
+-->
+<!---
+### Sustainability Reporting
+
+* [Global Reporting Initiative Guidelines](http://www.globalreporting.org/)
+* [IFC Sustainability Reports](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Reports_Annual)
+-->
 
 
-#### **Industry Sector Guidelines**
+---
 
-[Overview of the Industry Sector Guidelines](https://www.ifc.org/wps/wcm/connect/377bfe12-a3c0-433f-a5e3-c51dbebe38d4/SectorSpecificEHSGuidelines_Applicability.pdf?MOD=AJPERES&CVID=lakafE1) [PDF]
+<div id="ifc-industry-sector-guidelines"></div>
 
- 
+## Industry Sector Guidelines
 
-##### **Agribusiness/Food Production**
+IFC Industry Sector Guidelines are living documents that reflect the most updated versions of the World Bank Group Environmental, Health, and Safety Guidelines (known as the "EHS General Guidelines") according to specific industries and sectors, as follows:  <!--A 2016 [Overview of the Industry Sector Guidelines](https://web.archive.org/web/20170528074858/http://www.ifc.org/wps/wcm/connect/4754bd004b812242b7e9ff1a9cb3fd3c/SectorSpecificEHSGuidelines_Applicability.pdf?MOD=AJPERES "original URL: https://www.ifc.org/wps/wcm/connect/377bfe12-a3c0-433f-a5e3-c51dbebe38d4/SectorSpecificEHSGuidelines_Applicability.pdf?MOD=AJPERES&CVID=lakafE1") summarizes this suite of sector guidelines. -->
 
-* **Annual Crop Production *NEW***
+<!-- refer to: https://web.archive.org/web/20120212070823/http://www1.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/IFC%20Sustainability/Overview/SiteMap -->
+
+
+**[Agribusiness/Food Production](https://www.ifc.org/en/insights-reports/2000/ehs-guidelines-agribusiness-and-food-production)**
+* [Annual Crop Production](https://www.ifc.org/content/dam/ifc/doc/2010/2016-annual-crop-production-ehs-guidelines-en.pdf)
+* [Aquaculture](https://www.ifc.org/content/dam/ifc/doc/2000/2007-aquaculture-ehs-guidelines-en.pdf)
+* [Breweries](https://www.ifc.org/content/dam/ifc/doc/2000/2007-breweries-ehs-guidelines-en.pdf)
+* [Dairy Processing](https://www.ifc.org/content/dam/ifc/doc/2000/2007-dairy-processing-ehs-guidelines-en.pdf)
+* [Fish Processing](https://www.ifc.org/content/dam/ifc/doc/2000/2007-fish-processing-ehs-guidelines-en.pdf)
+* [Food and Beverage Processing](https://www.ifc.org/content/dam/ifc/doc/2000/2007-food-and-beverage-processing-ehs-guidelines-en.pdf)
+* [Mammalian Livestock Production](https://www.ifc.org/content/dam/ifc/doc/2000/2007-mammalian-livestock-production-ehs-guidelines-en.pdf)
+* [Meat Processing](https://www.ifc.org/content/dam/ifc/doc/2000/2007-meat-processing-ehs-guidelines-en.pdf)
+* [Perennial Crop Production](https://www.ifc.org/content/dam/ifc/doc/2010/2016-perennial-crop-production-ehs-guidelines-en.pdf)
+* [Poultry Processing](https://www.ifc.org/content/dam/ifc/doc/2000/2007-poultry-production-ehs-guidelines-en.pdf)
+* [Poultry Production](https://www.ifc.org/content/dam/ifc/doc/2000/2007-poultry-production-ehs-guidelines-en.pdf)
+* [Sugar Manufacturing](https://www.ifc.org/content/dam/ifc/doc/2000/2007-sugar-manufacturing-ehs-guidelines-en.pdf)
+* [Vegetable Oil Production and Processing](https://www.ifc.org/content/dam/ifc/doc/2010/2015-vegetable-oil-processing-ehs-guidelines-en.pdf)
+
+**[Chemicals](https://www.ifc.org/en/insights-reports/2000/ehs-guidelines-chemicals)**
+* [Coal Processing](https://www.ifc.org/content/dam/ifc/doc/2000/2007-coal-processing-ehs-guidelines-en.pdf)
+* [Large Volume Inorganic Compounds Manufacturing and Coal Tar Distillation](https://www.ifc.org/content/dam/ifc/doc/2000/2007-large-vol-inorganic-compounds-coaltar-ehs-guidelines-en.pdf)
+* [Large Volume Petroleum-based Organic Chemicals Manufacturing](https://www.ifc.org/content/dam/ifc/doc/2000/2007-large-vol-petro-organic-chemcials-ehs-guidelines-en.pdf)
+* [Natural Gas Processing](https://www.ifc.org/content/dam/ifc/doc/2000/2007-natural-gas-processing-ehs-guidelines-en.pdf)
+* [Nitrogenous Fertilizer Manufacturing](https://www.ifc.org/content/dam/ifc/doc/2000/2007-nitrogenous-fertilizers-ehs-guidelines-en.pdf)
+* [Oleochemicals Manufacturing](https://www.ifc.org/content/dam/ifc/doc/2000/2007-oleochemicals-manufacturing-ehs-guidelines-en.pdf)
+* [Pesticides Formulation, Manufacturing and Packaging](https://www.ifc.org/content/dam/ifc/doc/2000/2007-pesticides-ehs-guidelines-en.pdf)
+* [Petroleum Refining](https://www.ifc.org/content/dam/ifc/doc/2010/2016-petroleum-refining-ehs-guidelines-en.pdf)
+* [Petroleum-based Polymers Manufacturing](https://www.ifc.org/content/dam/ifc/doc/2000/2007-petroleum-polymers-ehs-guidelines-en.pdf)
+* [Pharmaceuticals and Biotechnology Manufacturing](https://www.ifc.org/content/dam/ifc/doc/2000/2007-pharma-biotech-ehs-guidelines-en.pdf)
+* [Phosphate Fertilizer Manufacturing](https://www.ifc.org/content/dam/ifc/doc/2000/2007-phosphate-fertilizer-ehs-guidelines-en.pdf)
+
+**[Forestry](https://www.ifc.org/en/insights-reports/2000/ehs-guidelines-forestry)**
+* [Board and Particle-based Products](https://www.ifc.org/content/dam/ifc/doc/2000/2007-board-and-particle-based-products-ehs-guidelines-en.pdf)
+* [Forest Harvesting Operations](https://www.ifc.org/content/dam/ifc/doc/2000/2007-forest-harvesting-operations-ehs-guidelines-en.pdf)
+* [Pulp and Paper Mills](https://www.ifc.org/content/dam/ifc/doc/2000/2007-pulp-and-paper-mills-ehs-guidelines-en.pdf)
+* [Sawmilling and Wood-based Products](https://www.ifc.org/content/dam/ifc/doc/2000/2007-sawmilling-wood-products-ehs-guidelines-en.pdf)
+
+**[General Manufacturing](https://www.ifc.org/en/insights-reports/2000/ehs-guidelines-general-manufacturing)**
+* [Base Metal Smelting and Refining](https://www.ifc.org/content/dam/ifc/doc/2000/2007-metal-smelting-refining-ehs-guidelines-en.pdf)
+* [Cement and Lime Manufacturing](https://www.ifc.org/content/dam/ifc/doc/2022/2022-cement-lime-manufacturing-ehs-guidelines-en.pdf)
+* [Ceramic Tile and Sanitary Ware Manufacturing](https://www.ifc.org/content/dam/ifc/doc/2000/2007-ceramic-tile-sanitary-ware-ehs-guidelines-en.pdf)
+* [Construction Materials Extraction](https://www.ifc.org/content/dam/ifc/doc/2000/2007-construction-materials-extraction-ehs-guidelines-en.pdf)
+* [Foundries](https://www.ifc.org/content/dam/ifc/doc/2000/2007-foundries-ehs-guidelines-en.pdf)
+* [Glass Manufacturing](https://www.ifc.org/content/dam/ifc/doc/2000/2007-glass-manufacturing-ehs-guidelines-en.pdf)
+* [Integrated Steel Mills](https://www.ifc.org/content/dam/ifc/doc/2000/2007-integrated-steel-mills-ehs-guidelines-en.pdf)
+* [Metal, Plastic, Rubber Products Manufacturing](https://www.ifc.org/content/dam/ifc/doc/2000/2007-metal-plastic-rubber-products-ehs-guidelines-en.pdf)
+* [Printing](https://www.ifc.org/content/dam/ifc/doc/2000/2007-printing-ehs-guidelines-en.pdf)
+* [Semiconductors and Electronics Manufacturing](https://www.ifc.org/content/dam/ifc/doc/2000/2007-semiconductors-electronic-ehs-guidelines-en.pdf)
+* [Tanning and Leather Finishing](https://www.ifc.org/content/dam/ifc/doc/2000/2007-tanning-leather-finishing-ehs-guidelines-en.pdf)
+* [Textiles Manufacturing](https://www.ifc.org/content/dam/ifc/doc/2000/2007-textiles-manufacturing-ehs-guidelines-en.pdf)
+
+**[Infrastructure](https://www.ifc.org/en/insights-reports/2000/ehs-guidelines-infrastructure)**
+* [Airlines](https://www.ifc.org/content/dam/ifc/doc/2000/2007-airlines-ehs-guidelines-en.pdf)
+* [Airports](https://www.ifc.org/content/dam/ifc/doc/2000/2007-airports-ehs-guidelines-en.pdf)
+* [Crude Oil and Petroleum Product Terminals](https://www.ifc.org/content/dam/ifc/doc/2000/2007-crude-petroleum-products-terminals-ehs-guidelines-en.pdf)
+* [Gas Distribution Systems](https://www.ifc.org/content/dam/ifc/doc/2000/2007-gas-distribution-systems-ehs-guidelines-en.pdf)
+* [Health Care Facilities](https://www.ifc.org/content/dam/ifc/doc/2000/2007-health-care-facilities-ehs-guidelines-en.pdf)
+* [Ports, Harbors and Terminals](https://www.ifc.org/content/dam/ifc/doc/2010/2017-ports-harbors-terminals-ehs-guidelines-en.pdf)
+* [Railways](https://www.ifc.org/content/dam/ifc/doc/2000/2007-railways-ehs-guidelines-en.pdf)
+* [Retail Petroleum Networks](https://www.ifc.org/content/dam/ifc/doc/2000/2007-retail-petroleum-networks-ehs-guidelines-en.pdf)
+* [Shipping](https://www.ifc.org/content/dam/ifc/doc/2000/2007-shipping-ehs-guidelines-en.pdf)
+* [Telecommunications](https://www.ifc.org/content/dam/ifc/doc/2000/2007-telecommunications-ehs-guidelines-en.pdf)
+* [Toll Roads](https://www.ifc.org/content/dam/ifc/doc/2000/2007-toll-roads-ehs-guidelines-en.pdf)
+* [Tourism and Hospitality Development](https://www.ifc.org/content/dam/ifc/doc/2000/2007-tourism-hospitality-development-ehs-guidelines-en.pdf)
+* [Waste Management Facilities](https://www.ifc.org/content/dam/ifc/doc/2000/2007-waste-management-facilities-ehs-guidelines-en.pdf)
+* [Water and Sanitation](https://www.ifc.org/content/dam/ifc/doc/2000/2007-water-and-sanitation-ehs-guidelines-en.pdf)
+
+**[Oil, Gas & Mining](https://www.ifc.org/en/insights-reports/2000/ehs-guidelines-oil-gas-mining)**
+* [Mining](https://www.ifc.org/content/dam/ifc/doc/2000/2007-mining-ehs-guidelines-en.pdf)
+* [Liquefied Natural Gas (LNG) Facilities](https://www.ifc.org/content/dam/ifc/doc/2010/2017-lng-ehs-guidelines-en.pdf)
+* [Offshore Oil and Gas Development](https://www.ifc.org/content/dam/ifc/doc/2010/2015-offshore-oil-gas-development-ehs-guidelines-en.pdf)
+* [Onshore Oil and Gas Development](https://www.ifc.org/content/dam/ifc/doc/2000/2007-onshore-oil-gas-development-ehs-guidelines-en.pdf)
+
+**[Power](https://www.ifc.org/en/insights-reports/2000/ehs-guidelines-power)**
+* [Electric Power Transmission and Distribution](https://www.ifc.org/content/dam/ifc/doc/2000/2007-electric-transmission-distribution-ehs-guidelines-en.pdf)
+* [Geothermal Power Generation](https://www.ifc.org/content/dam/ifc/doc/2000/2007-geothermal-power-generation-ehs-guidelines-en.pdf)
+* [Thermal Power](https://www.ifc.org/content/dam/ifc/doc/2000/2008-thermal-power-ehs-guidelines-en.pdf)
+* [Wind Energy](https://www.ifc.org/content/dam/ifc/doc/2010/2015-wind-energy-ehs-guidelines-en.pdf "alt URL: https://www.ifc.org/en/insights-reports/2015/publications-policy-ehs-wind-energy")
+
+<!--
+#### **Agribusiness/Food Production**
+
+* **Annual Crop Production**
 [English](https://www.ifc.org/wps/wcm/connect/766c4c6e-e4b1-41ef-a980-3610bce404e8/Annual+Crop+Production+EHS+Guidelines_2016+FINAL.pdf?MOD=AJPERES&CVID=lfe82iC)
 * **Aquaculture**
 [English](https://www.ifc.org/wps/wcm/connect/9237a8dd-de88-4b3c-a55b-552d9361c91f/Final%2B-%2BAquaculture.pdf?MOD=AJPERES&CVID=jqes4FP) | [Français](https://www.ifc.org/wps/wcm/connect/0d92af2b-106d-41e5-b92d-ba7cb7dcfbff/057_Aquaculture.pdf?MOD=AJPERES&CVID=jqevAxn) | [Español](https://www.ifc.org/wps/wcm/connect/950277c1-6f16-4c07-9ad2-f1af63e7a3a6/0000199659ESes%2BAquaculture%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=jqevAI7) | [русский](https://www.ifc.org/wps/wcm/connect/94dc270f-7cbd-4b01-8fa2-0435a8c0c32b/Aquaculture%2B-%2BRussian%2B-%2BFinal_.pdf?MOD=AJPERES&CVID=jqeI3ci) | [简体中文](https://www.ifc.org/wps/wcm/connect/58056042-769c-4cc5-824d-6c307997a21e/037%2BAquaculture.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-58056042-769c-4cc5-824d-6c307997a21e-jkC-BJJ) | [عربي](https://www.ifc.org/wps/wcm/connect/c9f28f62-bdb9-494e-8360-4d6a9d50634b/0000199659ARar062%2BAquaculture.pdf?MOD=AJPERES&CVID=jkC-BEU)
@@ -430,7 +615,7 @@ The General EHS Guidelines contain the following information (links below in Eng
 
  
 
-##### Chemicals
+#### Chemicals
 
 * **Coal Processing**
 [English](https://www.ifc.org/wps/wcm/connect/3e4dc923-e8e8-4717-ae2c-c39ae8771fa3/Final%2B-%2BCoal%2BProcessing.pdf?MOD=AJPERES&CVID=jkC-EfF&id=1323162228662) | [Français](https://www.ifc.org/wps/wcm/connect/ffb0f360-2fde-499d-b986-1d067fd1bcbb/062_Coal%2BProcessing.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-ffb0f360-2fde-499d-b986-1d067fd1bcbb-jqezta6) | [Español](https://www.ifc.org/wps/wcm/connect/316db523-a3c5-43c1-b15b-9140c517770a/0000199659ESes_Coal_Processing-%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=jkC-EJa) | [русский](https://www.ifc.org/wps/wcm/connect/c2360675-1e27-4cc6-8e4e-3b143b86fdd5/Coal%2BProcessing%2B-%2BRussian%2B-%2BFinal_.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-c2360675-1e27-4cc6-8e4e-3b143b86fdd5-jkC-ED9) | [简体中文](https://www.ifc.org/wps/wcm/connect/56b6a2c9-db8a-444c-afe8-70934d81ecc1/048%2BCoal%2BProcessing.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-56b6a2c9-db8a-444c-afe8-70934d81ecc1-jqevBA1) | [عربي](https://www.ifc.org/wps/wcm/connect/effa60b8-3924-4cc0-b3c5-ada002459a78/0000199659ARar035%2BCoal%2BProcessing.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-effa60b8-3924-4cc0-b3c5-ada002459a78-jqeCRSS)
@@ -457,7 +642,7 @@ The General EHS Guidelines contain the following information (links below in Eng
 
  
 
-##### Forestry
+#### Forestry
 
 * **Board and Particle-based Products**
 [English](https://www.ifc.org/wps/wcm/connect/4b5bb82a-97a7-4d46-93e0-d7f274cefa83/Final%2B-%2BBoard%2Band%2BPBP.pdf?MOD=AJPERES&CVID=jqezsU0) | [Français](https://www.ifc.org/wps/wcm/connect/fceb6029-699d-471f-8e3e-74526ff8ce2d/058_Board%2Band%2BPBP.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-fceb6029-699d-471f-8e3e-74526ff8ce2d-jkC-Cu7) | [Español](https://www.ifc.org/wps/wcm/connect/e1203c1a-42c7-4d4e-bf23-3ed2a63089b6/0000199659ESes%2BBoard%2Band%2BPBP%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=jqeCPM7) | [русский](https://www.ifc.org/wps/wcm/connect/7e0e1453-8837-4bb2-b6bb-1ea1c2cfebfb/Board%2B%26%2BPBP%2B-%2BRussian%2B-%2BFinal.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-7e0e1453-8837-4bb2-b6bb-1ea1c2cfebfb-jqeCPcQ) | [简体中文](https://www.ifc.org/wps/wcm/connect/2bc06d49-a3f7-4a21-b9c7-2deb37a306bf/002%2BBoard%2Band%2BParticle-based%2BProducts.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-2bc06d49-a3f7-4a21-b9c7-2deb37a306bf-jkC-CmW) | [عربي](https://www.ifc.org/wps/wcm/connect/7fca6b7c-1953-42c4-b1a3-324028247b98/0000199659ARar032%2BBoard%2Band%2BPBP.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-7fca6b7c-1953-42c4-b1a3-324028247b98-jkC-Ceg)
@@ -470,7 +655,7 @@ The General EHS Guidelines contain the following information (links below in Eng
 
  
 
-##### General Manufacturing
+#### General Manufacturing
 
 * **Base Metal Smelting and Refining**
 [English](https://www.ifc.org/wps/wcm/connect/2ac170b9-1591-48e2-a2cb-365619c3d777/Final%2B-%2BSmelting%2Band%2BRefining.pdf?MOD=AJPERES&CVID=jqeD5gW&id=1323152449229) | [Français](https://www.ifc.org/wps/wcm/connect/5fe20661-6d6e-4401-92b0-9223f0111e1d/043_Smelting%2Band%2BRefining.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-5fe20661-6d6e-4401-92b0-9223f0111e1d-jqevL.Y) | [Español](https://www.ifc.org/wps/wcm/connect/6431d38f-9b4e-42c1-b6a5-50c843fea365/0000199659ESes%2BSmelting%2Band%2BRefining-%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=jqevMfT) | [русский](https://www.ifc.org/wps/wcm/connect/c050153d-eaa3-4460-ba9b-84735738ae64/Smelting%2Band%2BRefining%2B-%2BRussian%2B-%2BFinal_.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-c050153d-eaa3-4460-ba9b-84735738ae64-jqeD6fq) | [简体中文](https://www.ifc.org/wps/wcm/connect/a90136f9-d7a3-4e57-9291-a5a3a1a54cdc/006%2BBase%2BMetal%2BSmelting%2Band%2BRefining.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-a90136f9-d7a3-4e57-9291-a5a3a1a54cdc-jkD2GQG) | [عربي](https://www.ifc.org/wps/wcm/connect/24110d80-8518-478a-92e2-5be91c66aaf2/0000199659ARar013%2BSmelting%2Band%2BRefining.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-24110d80-8518-478a-92e2-5be91c66aaf2-jqeD5NG)
@@ -499,7 +684,7 @@ The General EHS Guidelines contain the following information (links below in Eng
 
  
 
-##### Infrastructure
+#### Infrastructure
 
 * **Airlines**
 [English](https://www.ifc.org/wps/wcm/connect/5f4fc135-9a7b-4789-a937-c8c0bf83797b/Final%2B-%2BAirlines.pdf?MOD=AJPERES&CVID=jkC-A0k&id=1323162261186) | [Français](https://www.ifc.org/wps/wcm/connect/9d0ce6c8-02d5-45bb-8e4d-71a7352ce6e5/054_Airlines.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-9d0ce6c8-02d5-45bb-8e4d-71a7352ce6e5-jkC-Afz) | [Español](https://www.ifc.org/wps/wcm/connect/96e80aa8-a4f6-4aad-a9cd-bee997cda8ab/0000199659ESes%2BAirlines-%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=jqes4iQ) | [русский](https://www.ifc.org/wps/wcm/connect/1a37b927-9b2e-4c13-8e3e-abb4cff87bb2/Airlines%2B-%2BRussian%2B-%2BFinal_.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-1a37b927-9b2e-4c13-8e3e-abb4cff87bb2-jqeCOg4) | [简体中文](https://www.ifc.org/wps/wcm/connect/39368178-6849-4724-93e3-cefcdf689c2d/018%2BAirlines.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-39368178-6849-4724-93e3-cefcdf689c2d-jqezrbe) | [عربي](https://www.ifc.org/wps/wcm/connect/d60e3985-0c6f-40fc-87f0-c22284332c2b/0000199659ARar028%2BAirlines.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-d60e3985-0c6f-40fc-87f0-c22284332c2b-l8y6YUE)
@@ -532,14 +717,14 @@ The General EHS Guidelines contain the following information (links below in Eng
 
  
 
-##### Mining
+#### Mining
 
 * **Mining**
 [English](https://www.ifc.org/wps/wcm/connect/595149ed-8bef-4241-8d7c-50e91d8e459d/Final%2B-%2BMining.pdf?MOD=AJPERES&CVID=jqezAit&id=1323153264157) | [Français](https://www.ifc.org/wps/wcm/connect/26c36a0f-c7cf-414b-ad1b-0eeb748b68c9/021_%2BMining.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-26c36a0f-c7cf-414b-ad1b-0eeb748b68c9-jqezBvT) | [Español](https://www.ifc.org/wps/wcm/connect/e255ea3a-34be-4caf-886e-e8e2de66475f/0000199659ESes%2BMining-%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=jkD2CNu) | [русский](https://www.ifc.org/wps/wcm/connect/a7a90cd7-4bd5-4e4a-a21b-1144c760be4e/Mining%2B-%2BRussian%2B-%2BFinal_.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-a7a90cd7-4bd5-4e4a-a21b-1144c760be4e-jqesdzJ) | [简体中文](https://www.ifc.org/wps/wcm/connect/d73ee31a-7a5f-4540-ae28-1808cbe61a8f/032%2BMining.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-d73ee31a-7a5f-4540-ae28-1808cbe61a8f-jqevGsc) | [عربي](https://www.ifc.org/wps/wcm/connect/da388e78-99a6-4563-ae4f-06c9b7369eb0/0000199659ARar009%2BMining.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-da388e78-99a6-4563-ae4f-06c9b7369eb0-jqezB0D)
 
  
 
-##### Oil and Gas
+#### Oil and Gas
 
 * **Liquefied Natural Gas (LNG) Facilities *NEW***
 [English](https://www.ifc.org/wps/wcm/connect/ab72db72-736a-43e7-8c81-f2d749ec3ad1/20170406-FINAL+LNG+EHS+Guideline_April+2017.pdf?MOD=AJPERES&CVID=lJuCgVs)
@@ -550,7 +735,7 @@ The General EHS Guidelines contain the following information (links below in Eng
 
  
 
-##### Power
+#### Power
 
 * **Electric Power Transmission and Distribution**
 [English](https://www.ifc.org/wps/wcm/connect/7b65ce6b-129d-4634-99dc-12f85c0674b3/Final%2B-%2BElectric%2BTransmission%2Band%2BDistribution.pdf?MOD=AJPERES&CVID=jqeI4Rs&id=1323162154847) | [Français](https://www.ifc.org/wps/wcm/connect/fe8c5e93-d8c0-4944-938c-64046fd79435/004_Electric%2BPower%2BTransmission%2Band%2BDistribution.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-fe8c5e93-d8c0-4944-938c-64046fd79435-jkC-GWs) | [Español](https://www.ifc.org/wps/wcm/connect/1cef2d5a-d165-4fc3-95c3-246ba7a9ad97/0000199659ESes%2BElectric%2BPower%2BTransmission%2Band%2BDistribution%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=jqeI5rK) | [русский](https://www.ifc.org/wps/wcm/connect/47b11c82-bf10-42d9-a941-345eb92aa507/Electric%2BPower%2BTransmission%2B%26%2BDistribution%2B-%2BRussian%2B-%2BFinal.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-47b11c82-bf10-42d9-a941-345eb92aa507-jkC-H1u) | [简体中文](https://www.ifc.org/wps/wcm/connect/f2a5dac8-0397-46c4-b930-d04c6f1a8d09/060%2BElectric%2BPower%2BTransmission%2Band%2BDistribution.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-f2a5dac8-0397-46c4-b930-d04c6f1a8d09-jqeI5aB) | [عربي](https://www.ifc.org/wps/wcm/connect/5984aa55-37e1-4ce9-8a85-c311093041a3/0000199659ARar057%2BElectric%2BPower%2BTransmission%2Band%2BDistribution.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-5984aa55-37e1-4ce9-8a85-c311093041a3-jqezu0a)
@@ -559,13 +744,17 @@ The General EHS Guidelines contain the following information (links below in Eng
 * **Thermal Power**
 [English](https://www.ifc.org/wps/wcm/connect/f82a5f06-f3f7-4033-8ea6-b767523cda8e/FINAL_Thermal%2BPower.pdf?MOD=AJPERES&CVID=jqeD9Eg&id=1323162579734) | [Français](https://www.ifc.org/wps/wcm/connect/f6654317-a578-4aa3-aaf9-fa6a41c8dd79/0000360593FRfr_Thermal%2BPower.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-f6654317-a578-4aa3-aaf9-fa6a41c8dd79-jqeId5r) | [Español](https://www.ifc.org/wps/wcm/connect/f108bb69-fc04-4922-943c-386566994110/0000360593ESes.pdf?MOD=AJPERES&CVID=jqeskpC) | [русский](https://www.ifc.org/wps/wcm/connect/68177aec-7460-43a5-a4f7-e4973c604773/0000360593RUru_Thermal%2BPower.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-68177aec-7460-43a5-a4f7-e4973c604773-jqesjA6) | [简体中文](https://www.ifc.org/wps/wcm/connect/da179ea3-eac5-4e60-b5ab-615567c3e50e/0000360593ZHzh.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-da179ea3-eac5-4e60-b5ab-615567c3e50e-jkD1.Y9) | [عربي](https://www.ifc.org/wps/wcm/connect/6de32a11-87e1-4ff6-a4ba-b0cc2ffd16d2/00%2BThermal%2BPower_Arabic.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-6de32a11-87e1-4ff6-a4ba-b0cc2ffd16d2-jkD1.VF)
 * **Wind Energy *NEW***
-[English](https://www.ifc.org/wps/wcm/connect/b82d0563-b39a-42a7-b94e-0b926b4a82f9/FINAL_Aug%2B2015_Wind%2BEnergy_EHS%2BGuideline.pdf?MOD=AJPERES&CVID=mpusVXy) | [Español](https://www.ifc.org/wps/wcm/connect/0dfae590-3eab-4670-9f8d-227c05f9a06e/FINAL_Dec+2015_Wind+Energy_Spanish.pdf?MOD=AJPERES&CVID=l6zqxem) | [عربي](https://www.ifc.org/wps/wcm/connect/9866d271-01c4-420c-b98f-f20eeebc2f2b/FINAL_Feb%2B2016_Wind%2BEnergy_Arabic.pdf?MOD=AJPERES&CVID=lbifMyE) **Industry Sector Guidelines**
+[English](https://www.ifc.org/wps/wcm/connect/b82d0563-b39a-42a7-b94e-0b926b4a82f9/FINAL_Aug%2B2015_Wind%2BEnergy_EHS%2BGuideline.pdf?MOD=AJPERES&CVID=mpusVXy) | [Español](https://www.ifc.org/wps/wcm/connect/0dfae590-3eab-4670-9f8d-227c05f9a06e/FINAL_Dec+2015_Wind+Energy_Spanish.pdf?MOD=AJPERES&CVID=l6zqxem) | [عربي](https://www.ifc.org/wps/wcm/connect/9866d271-01c4-420c-b98f-f20eeebc2f2b/FINAL_Feb%2B2016_Wind%2BEnergy_Arabic.pdf?MOD=AJPERES&CVID=lbifMyE) 
+-->
+
+<!--
+**Industry Sector Guidelines**
 
 [Overview of the Industry Sector Guidelines](https://www.ifc.org/wps/wcm/connect/377bfe12-a3c0-433f-a5e3-c51dbebe38d4/SectorSpecificEHSGuidelines_Applicability.pdf?MOD=AJPERES&CVID=lakafE1) [PDF]
 
  
 
-##### **Agribusiness/Food Production**
+#### **Agribusiness/Food Production**
 
 * **Annual Crop Production *NEW***
 [English](https://www.ifc.org/wps/wcm/connect/766c4c6e-e4b1-41ef-a980-3610bce404e8/Annual+Crop+Production+EHS+Guidelines_2016+FINAL.pdf?MOD=AJPERES&CVID=lfe82iC)
@@ -596,7 +785,7 @@ The General EHS Guidelines contain the following information (links below in Eng
 
  
 
-##### Chemicals
+#### Chemicals
 
 * **Coal Processing**
 [English](https://www.ifc.org/wps/wcm/connect/3e4dc923-e8e8-4717-ae2c-c39ae8771fa3/Final%2B-%2BCoal%2BProcessing.pdf?MOD=AJPERES&CVID=jkC-EfF&id=1323162228662) | [Français](https://www.ifc.org/wps/wcm/connect/ffb0f360-2fde-499d-b986-1d067fd1bcbb/062_Coal%2BProcessing.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-ffb0f360-2fde-499d-b986-1d067fd1bcbb-jqezta6) | [Español](https://www.ifc.org/wps/wcm/connect/316db523-a3c5-43c1-b15b-9140c517770a/0000199659ESes_Coal_Processing-%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=jkC-EJa) | [русский](https://www.ifc.org/wps/wcm/connect/c2360675-1e27-4cc6-8e4e-3b143b86fdd5/Coal%2BProcessing%2B-%2BRussian%2B-%2BFinal_.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-c2360675-1e27-4cc6-8e4e-3b143b86fdd5-jkC-ED9) | [简体中文](https://www.ifc.org/wps/wcm/connect/56b6a2c9-db8a-444c-afe8-70934d81ecc1/048%2BCoal%2BProcessing.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-56b6a2c9-db8a-444c-afe8-70934d81ecc1-jqevBA1) | [عربي](https://www.ifc.org/wps/wcm/connect/effa60b8-3924-4cc0-b3c5-ada002459a78/0000199659ARar035%2BCoal%2BProcessing.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-effa60b8-3924-4cc0-b3c5-ada002459a78-jqeCRSS)
@@ -623,7 +812,7 @@ The General EHS Guidelines contain the following information (links below in Eng
 
  
 
-##### Forestry
+#### Forestry
 
 * **Board and Particle-based Products**
 [English](https://www.ifc.org/wps/wcm/connect/4b5bb82a-97a7-4d46-93e0-d7f274cefa83/Final%2B-%2BBoard%2Band%2BPBP.pdf?MOD=AJPERES&CVID=jqezsU0) | [Français](https://www.ifc.org/wps/wcm/connect/fceb6029-699d-471f-8e3e-74526ff8ce2d/058_Board%2Band%2BPBP.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-fceb6029-699d-471f-8e3e-74526ff8ce2d-jkC-Cu7) | [Español](https://www.ifc.org/wps/wcm/connect/e1203c1a-42c7-4d4e-bf23-3ed2a63089b6/0000199659ESes%2BBoard%2Band%2BPBP%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=jqeCPM7) | [русский](https://www.ifc.org/wps/wcm/connect/7e0e1453-8837-4bb2-b6bb-1ea1c2cfebfb/Board%2B%26%2BPBP%2B-%2BRussian%2B-%2BFinal.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-7e0e1453-8837-4bb2-b6bb-1ea1c2cfebfb-jqeCPcQ) | [简体中文](https://www.ifc.org/wps/wcm/connect/2bc06d49-a3f7-4a21-b9c7-2deb37a306bf/002%2BBoard%2Band%2BParticle-based%2BProducts.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-2bc06d49-a3f7-4a21-b9c7-2deb37a306bf-jkC-CmW) | [عربي](https://www.ifc.org/wps/wcm/connect/7fca6b7c-1953-42c4-b1a3-324028247b98/0000199659ARar032%2BBoard%2Band%2BPBP.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-7fca6b7c-1953-42c4-b1a3-324028247b98-jkC-Ceg)
@@ -636,7 +825,7 @@ The General EHS Guidelines contain the following information (links below in Eng
 
  
 
-##### General Manufacturing
+#### General Manufacturing
 
 * **Base Metal Smelting and Refining**
 [English](https://www.ifc.org/wps/wcm/connect/2ac170b9-1591-48e2-a2cb-365619c3d777/Final%2B-%2BSmelting%2Band%2BRefining.pdf?MOD=AJPERES&CVID=jqeD5gW&id=1323152449229) | [Français](https://www.ifc.org/wps/wcm/connect/5fe20661-6d6e-4401-92b0-9223f0111e1d/043_Smelting%2Band%2BRefining.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-5fe20661-6d6e-4401-92b0-9223f0111e1d-jqevL.Y) | [Español](https://www.ifc.org/wps/wcm/connect/6431d38f-9b4e-42c1-b6a5-50c843fea365/0000199659ESes%2BSmelting%2Band%2BRefining-%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=jqevMfT) | [русский](https://www.ifc.org/wps/wcm/connect/c050153d-eaa3-4460-ba9b-84735738ae64/Smelting%2Band%2BRefining%2B-%2BRussian%2B-%2BFinal_.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-c050153d-eaa3-4460-ba9b-84735738ae64-jqeD6fq) | [简体中文](https://www.ifc.org/wps/wcm/connect/a90136f9-d7a3-4e57-9291-a5a3a1a54cdc/006%2BBase%2BMetal%2BSmelting%2Band%2BRefining.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-a90136f9-d7a3-4e57-9291-a5a3a1a54cdc-jkD2GQG) | [عربي](https://www.ifc.org/wps/wcm/connect/24110d80-8518-478a-92e2-5be91c66aaf2/0000199659ARar013%2BSmelting%2Band%2BRefining.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-24110d80-8518-478a-92e2-5be91c66aaf2-jqeD5NG)
@@ -665,7 +854,7 @@ The General EHS Guidelines contain the following information (links below in Eng
 
  
 
-##### Infrastructure
+#### Infrastructure
 
 * **Airlines**
 [English](https://www.ifc.org/wps/wcm/connect/5f4fc135-9a7b-4789-a937-c8c0bf83797b/Final%2B-%2BAirlines.pdf?MOD=AJPERES&CVID=jkC-A0k&id=1323162261186) | [Français](https://www.ifc.org/wps/wcm/connect/9d0ce6c8-02d5-45bb-8e4d-71a7352ce6e5/054_Airlines.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-9d0ce6c8-02d5-45bb-8e4d-71a7352ce6e5-jkC-Afz) | [Español](https://www.ifc.org/wps/wcm/connect/96e80aa8-a4f6-4aad-a9cd-bee997cda8ab/0000199659ESes%2BAirlines-%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=jqes4iQ) | [русский](https://www.ifc.org/wps/wcm/connect/1a37b927-9b2e-4c13-8e3e-abb4cff87bb2/Airlines%2B-%2BRussian%2B-%2BFinal_.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-1a37b927-9b2e-4c13-8e3e-abb4cff87bb2-jqeCOg4) | [简体中文](https://www.ifc.org/wps/wcm/connect/39368178-6849-4724-93e3-cefcdf689c2d/018%2BAirlines.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-39368178-6849-4724-93e3-cefcdf689c2d-jqezrbe) | [عربي](https://www.ifc.org/wps/wcm/connect/d60e3985-0c6f-40fc-87f0-c22284332c2b/0000199659ARar028%2BAirlines.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-d60e3985-0c6f-40fc-87f0-c22284332c2b-l8y6YUE)
@@ -705,7 +894,7 @@ The General EHS Guidelines contain the following information (links below in Eng
 
  
 
-##### Oil and Gas
+#### Oil and Gas
 
 * **Liquefied Natural Gas (LNG) Facilities *NEW***
 [English](https://www.ifc.org/wps/wcm/connect/ab72db72-736a-43e7-8c81-f2d749ec3ad1/20170406-FINAL+LNG+EHS+Guideline_April+2017.pdf?MOD=AJPERES&CVID=lJuCgVs)
@@ -716,7 +905,7 @@ The General EHS Guidelines contain the following information (links below in Eng
 
  
 
-##### Power
+#### Power
 
 * **Electric Power Transmission and Distribution**
 [English](https://www.ifc.org/wps/wcm/connect/7b65ce6b-129d-4634-99dc-12f85c0674b3/Final%2B-%2BElectric%2BTransmission%2Band%2BDistribution.pdf?MOD=AJPERES&CVID=jqeI4Rs&id=1323162154847) | [Français](https://www.ifc.org/wps/wcm/connect/fe8c5e93-d8c0-4944-938c-64046fd79435/004_Electric%2BPower%2BTransmission%2Band%2BDistribution.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-fe8c5e93-d8c0-4944-938c-64046fd79435-jkC-GWs) | [Español](https://www.ifc.org/wps/wcm/connect/1cef2d5a-d165-4fc3-95c3-246ba7a9ad97/0000199659ESes%2BElectric%2BPower%2BTransmission%2Band%2BDistribution%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=jqeI5rK) | [русский](https://www.ifc.org/wps/wcm/connect/47b11c82-bf10-42d9-a941-345eb92aa507/Electric%2BPower%2BTransmission%2B%26%2BDistribution%2B-%2BRussian%2B-%2BFinal.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-47b11c82-bf10-42d9-a941-345eb92aa507-jkC-H1u) | [简体中文](https://www.ifc.org/wps/wcm/connect/f2a5dac8-0397-46c4-b930-d04c6f1a8d09/060%2BElectric%2BPower%2BTransmission%2Band%2BDistribution.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-f2a5dac8-0397-46c4-b930-d04c6f1a8d09-jqeI5aB) | [عربي](https://www.ifc.org/wps/wcm/connect/5984aa55-37e1-4ce9-8a85-c311093041a3/0000199659ARar057%2BElectric%2BPower%2BTransmission%2Band%2BDistribution.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-5984aa55-37e1-4ce9-8a85-c311093041a3-jqezu0a)
@@ -726,9 +915,8 @@ The General EHS Guidelines contain the following information (links below in Eng
 [English](https://www.ifc.org/wps/wcm/connect/f82a5f06-f3f7-4033-8ea6-b767523cda8e/FINAL_Thermal%2BPower.pdf?MOD=AJPERES&CVID=jqeD9Eg&id=1323162579734) | [Français](https://www.ifc.org/wps/wcm/connect/f6654317-a578-4aa3-aaf9-fa6a41c8dd79/0000360593FRfr_Thermal%2BPower.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-f6654317-a578-4aa3-aaf9-fa6a41c8dd79-jqeId5r) | [Español](https://www.ifc.org/wps/wcm/connect/f108bb69-fc04-4922-943c-386566994110/0000360593ESes.pdf?MOD=AJPERES&CVID=jqeskpC) | [русский](https://www.ifc.org/wps/wcm/connect/68177aec-7460-43a5-a4f7-e4973c604773/0000360593RUru_Thermal%2BPower.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-68177aec-7460-43a5-a4f7-e4973c604773-jqesjA6) | [简体中文](https://www.ifc.org/wps/wcm/connect/da179ea3-eac5-4e60-b5ab-615567c3e50e/0000360593ZHzh.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-da179ea3-eac5-4e60-b5ab-615567c3e50e-jkD1.Y9) | [عربي](https://www.ifc.org/wps/wcm/connect/6de32a11-87e1-4ff6-a4ba-b0cc2ffd16d2/00%2BThermal%2BPower_Arabic.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-6de32a11-87e1-4ff6-a4ba-b0cc2ffd16d2-jkD1.VF)
 * **Wind Energy *NEW***
 [English](https://www.ifc.org/wps/wcm/connect/b82d0563-b39a-42a7-b94e-0b926b4a82f9/FINAL_Aug%2B2015_Wind%2BEnergy_EHS%2BGuideline.pdf?MOD=AJPERES&CVID=mpusVXy) | [Español](https://www.ifc.org/wps/wcm/connect/0dfae590-3eab-4670-9f8d-227c05f9a06e/FINAL_Dec+2015_Wind+Energy_Spanish.pdf?MOD=AJPERES&CVID=l6zqxem) | [عربي](https://www.ifc.org/wps/wcm/connect/9866d271-01c4-420c-b98f-f20eeebc2f2b/FINAL_Feb%2B2016_Wind%2BEnergy_Arabic.pdf?MOD=AJPERES&CVID=lbifMyE)
+-->
 
-
----
 
 <!--
 
@@ -776,18 +964,31 @@ The General EHS Guidelines contain the following information (links below in Eng
 
 -->
 
-
-<hr />
-
+---
 
 
+## Pollution Prevention and Abatement Handbook (PPAH)
 
-#### Pollution Prevention and Abatement Handbook (PPAH)
-
+Between 1998 and 2007, IFC investments were guided by the World Bank Group's 1998 [Pollution Prevention and Abatement Handbook](https://www.ifc.org/en/insights-reports/1990/publications-handbook-ppah--wci--1319577543003) (PPAH), as set out in [Operational Policy (OP) 4.01](https://www.ifc.org/content/dam/ifc/doc/1990/op401-environmentalassessment.pdf), "Environmental Assessment," and related documents. The PPAH updated and replaced the World Bank Group's [1988 Environmental Guidelines](https://documents1.worldbank.org/curated/en/813211468331794803/pdf/multi0page.pdf). It consists of three sections. Part I contains a summary of key policy lessons in pollution management, derived from practical experience inside and outside the World Bank Group. Although Part I is aimed primarily at government decision makers, other readers will derive considerable benefit from a better understanding of the issues facing government agencies. Part II presents good-practice notes on implementation of policy objectives, based on experience with World Bank Group projects and on lessons from the policies and practices of other agencies and organizations in this field. Part III provides detailed guidelines to be applied in the preparation of World Bank Group projects. 
+<!--
+The guidelines, which cover almost 40 industrial sectors, represent state-of-the-art thinking on how to reduce pollution emissions from the production process. In many cases, the guidelines provide numerical targets for reducing pollution, as well as maximum emissions levels that are normally achievable through a combination of cleaner production and end-of-pipe treatment.
+-->
+<!--
+* [Environmental, Health, and Safety (EHS) Guidelines and Pollution Prevention and Abatement Handbook (PPAH)](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsppah) followed prior to 2007 and 2008. The World Bank Group Environmental, Health, and Safety Guidelines (known as the "EHS Guidelines") are living documents and are occasionally updated. The current version of the EHS Guidelines are available at www.ifc.org/ehsguidelines. Earlier versions of the EHS Guidelines (including documents that were previously published in Part III of the Pollution Prevention and Abatement Handbook (PPAH) and on the IFC website), that are no longer in use, can be found below and are provided for reference only.
+-->
+<!--
  Earlier versions of the EHS Guidelines (including documents that were previously published in Part III of the [Pollution Prevention and Abatement Handbook (PPAH)](https://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/publications/publications_handbook_ppah__wci__1319577543003) and on the IFC website), that are no longer in use, can be found below:
- 
+ -->
+<!--
+### PPAH Part III: Project Guidelines
 
-##### Pollutants [PDF]
+* Principles of Industrial Pollution Management
+* Monitoring
+* Summary of Air Emission and Effluent Discharge Requirements Presented in the Industry Guidelines
+-->
+<!-- Refer to https://www.ifc.org/en/what-we-do/sector-expertise/sustainability/policies-and-standards/pre-2006-safeguards-and-supporting-material -->
+<!--
+### Pollutants
 
 * [Airborne Particulate Matter](https://www.ifc.org/wps/wcm/connect/701a1f86-036d-49df-acd0-f38366c70524/HandbookAirborneParticularMatter.pdf?MOD=AJPERES&CVID=jqetAxg)
 * [Arsenic](https://www.ifc.org/wps/wcm/connect/0c952264-ea3c-4a62-9026-2cf9f26ad380/HandbookArsenic.pdf?MOD=AJPERES&CVID=jqewteZ)
@@ -797,143 +998,13 @@ The General EHS Guidelines contain the following information (links below in Eng
 * [Nitrogen-Oxides](https://www.ifc.org/wps/wcm/connect/264ffdeb-92f1-47ef-97ae-5d2e9f0af481/HandbookNitrogenOxides.pdf?MOD=AJPERES&CVID=jqetAR9)
 * [Ground-Level Ozone](https://www.ifc.org/wps/wcm/connect/8b0ddfa6-a4f4-4075-83a0-328b53bfa2ce/HandbookGroundLevelOzone.pdf?MOD=AJPERES&CVID=jqetAE0)
 * [Sulfur Oxides](https://www.ifc.org/wps/wcm/connect/fa942b47-b7f2-421c-a48a-c3b824dfc168/HandbookSulfurOxides.pdf?MOD=AJPERES&CVID=jqeERsg)
-
-
-##### Pollutant Control Technologies [PDF]
+-->
+<!--
+### Pollutant Control Technologies
 
 * [Airborne Particulate Matter: Pollution Prevention and Control](https://www.ifc.org/wps/wcm/connect/53afc833-56ff-4b08-b4b6-4e6c694ee30b/HandbookAirborneParticulateMatterPollutionPreventionAndControl.pdf?MOD=AJPERES&CVID=jkD0BOe)
 * [Removal of Lead from Gasoline: Technical Considerations](https://www.ifc.org/wps/wcm/connect/d3706d00-3d97-495d-8b8c-744cab1e7e3e/HandbookRemovalOfLeadFromGasolineTechnicalConsiderations.pdf?MOD=AJPERES&CVID=jqeKLR.)
 * [Nitrogen Oxides: Pollution Prevention and Control](https://www.ifc.org/wps/wcm/connect/cc73468c-17d6-4966-a595-2b13a3d187de/HandbookNitrogenOxidesPollutionPreventionAndControl.pdf?MOD=AJPERES&CVID=jkD0Cke)
 * [Ozone-Depleting Substances: Alternatives](https://www.ifc.org/wps/wcm/connect/f9dff68b-68ba-4a6d-97a1-7ec85340eae3/HandbookOzoneDepletingSubstancesAlternatives.pdf?MOD=AJPERES&CVID=jqeAGzA)
 * [Sulfur Oxides: Pollution Prevention and Control](https://www.ifc.org/wps/wcm/connect/2ab161f5-13fc-4f67-902e-9d8491ee73ff/HandbookSulfurOxidesPollutionPreventionAndControl.pdf?MOD=AJPERES&CVID=jkD0Czx)
-
- 
-##### World Bank Environmental, Health, and Safety Guidelines
-
-* [Aluminum Manufacturing](https://www.ifc.org/wps/wcm/connect/f6aedd1a-691c-453e-b3b2-47507260431e/alum_PPAH.pdf?MOD=AJPERES&CVID=jqezqjF)
-* [Base Metal & Iron Ore Mining](https://www.ifc.org/wps/wcm/connect/1bb6d9cf-2c37-4f5b-b067-ebba83e0718d/mining_PPAH.pdf?MOD=AJPERES&CVID=jqeIeae)
-* [Breweries](https://www.ifc.org/wps/wcm/connect/a4072740-8468-4b53-a797-a051c981d0dc/breweries_PPAH.pdf?MOD=AJPERES&CVID=jqeCNPd)
-* [Cement Manufacturing](https://www.ifc.org/wps/wcm/connect/a9d79f6b-03de-4547-9425-19d4aa83f864/cementmfg_PPAH.pdf?MOD=AJPERES&CVID=jqeCNWb)
-* [Chlor-Alkali Plants](https://www.ifc.org/wps/wcm/connect/e5e52419-48a0-4e55-af41-9f214bed3831/chloralkali_PPAH.pdf?MOD=AJPERES&CVID=jkD221m)
-* [Coal Mining & Production](https://www.ifc.org/wps/wcm/connect/15626dca-c683-4d1d-a937-c09f902e9658/coal_PPAH.pdf?MOD=AJPERES&CVID=jkD223U)
-* [Coke Manufacturing](https://www.ifc.org/wps/wcm/connect/cccc0c5f-ffbc-494f-94f9-7c96f27bc7d3/coke_PPAH.pdf?MOD=AJPERES&CVID=jqeCO06)
-* [Copper Smelting](https://www.ifc.org/wps/wcm/connect/849e160f-d0ee-4d88-a4f3-8cf494e88b52/copper_PPAH.pdf?MOD=AJPERES&CVID=jkD22cS)
-* [Dairy Industry](https://www.ifc.org/wps/wcm/connect/55825d53-b726-4f37-9002-82dfab2f1a42/dairy_PPAH.pdf?MOD=AJPERES&CVID=jqezqZp)
-* [Dye Manufacturing](https://www.ifc.org/wps/wcm/connect/935ae753-6c9e-4a6d-9237-ac90354c5987/dye_PPAH.pdf?MOD=AJPERES&CVID=jqeI2M.)
-* [Electronics Manufacturing](https://www.ifc.org/wps/wcm/connect/ce566b3a-6ba6-46f8-9bd3-531c124fa919/electronmfg_PPAH.pdf?MOD=AJPERES&CVID=jkD22nT)
-* [Electroplating Industry](https://www.ifc.org/wps/wcm/connect/532ddfee-9d8e-4a11-81ef-078f586335fc/electroplating_PPAH.pdf?MOD=AJPERES&CVID=jkD22q-)
-* [Foundries](https://www.ifc.org/wps/wcm/connect/61d4f3a4-4bfc-4fd5-8bf3-5aa20cd45a09/foundries_PPAH.pdf?MOD=AJPERES&CVID=jkD22CY)
-* [Fruit & Vegetable Processing](https://www.ifc.org/wps/wcm/connect/142cdda6-8f23-4a21-974a-43eb000948d3/fruitandvg_PPAH.pdf?MOD=AJPERES&CVID=jqeDiAw)
-* [General Env. Guidelines](https://www.ifc.org/wps/wcm/connect/77a4c571-c743-48a8-9c6d-21d6ce77d017/genenv_PPAH.pdf?MOD=AJPERES&CVID=jqeDiLg)
-* [Glass Manufacturing](https://www.ifc.org/wps/wcm/connect/f6c6e013-9ef2-46b0-b945-842f7003a227/glass_PPAH.pdf?MOD=AJPERES&CVID=jkD22Qo)
-* [Industrial Estates](https://www.ifc.org/wps/wcm/connect/57dbcfd9-ab46-4baa-b9d9-b27ad75065df/industrialestates_PPAH.pdf?MOD=AJPERES&CVID=jqeDiZg)
-* [Iron & Steel Manufacturing](https://www.ifc.org/wps/wcm/connect/6e1e26e3-ca12-431b-a966-bb39efa413e1/ironsteel_PPAH.pdf?MOD=AJPERES&CVID=jkD2312)
-* [Lead & Zinc Smelting](https://www.ifc.org/wps/wcm/connect/ffa5696d-46d6-4ac3-b594-f10e565857d8/leadzinc_PPAH.pdf?MOD=AJPERES&CVID=jqevOnX)
-* [Meat Processing & Rendering](https://www.ifc.org/wps/wcm/connect/1a78a3b7-a813-4ac5-9f70-6b1d8d3555f2/meat_PPAH.pdf?MOD=AJPERES&CVID=jkD2363)
-* [Mini Steel Mills](https://www.ifc.org/wps/wcm/connect/4c195e9f-088a-420c-8e79-680038f50b6d/ministeel_PPAH.pdf?MOD=AJPERES&CVID=jqeDj2I)
-* [Mining and Milling, Underground](https://www.ifc.org/wps/wcm/connect/b69be203-8a3d-40f1-ae2f-5136004d5809/mining_underground.pdf?MOD=AJPERES&CVID=jkD23e6)
-* [Mining and Milling, Open Pit](https://www.ifc.org/wps/wcm/connect/faf1df6a-793a-48b4-a370-c06a810d6101/mining_openpit.pdf?MOD=AJPERES&CVID=jqevOwo)
-* [Mixed Fertilizer Plants](https://www.ifc.org/wps/wcm/connect/3e28cffd-ea58-4b67-a4f8-4dda8677f527/mxdfertilizer_PPAH.pdf?MOD=AJPERES&CVID=jqesmMn)
-* [Monitoring](https://www.ifc.org/wps/wcm/connect/81df785a-e5ea-4d73-839a-c15c1934ba21/monitoring_PPAH.pdf?MOD=AJPERES&CVID=jqevOEL)
-* [Nickel Smelting & Refining](https://www.ifc.org/wps/wcm/connect/5cb00df9-e2c1-4b92-a585-6bef08d8a5de/nickel_PPAH.pdf?MOD=AJPERES&CVID=jqeDjcl)
-* [Nitrogenous Fertilizer Plants](https://www.ifc.org/wps/wcm/connect/0ee2f1ea-5866-4500-882e-03137086c353/nitrofert_PPAH.pdf?MOD=AJPERES&CVID=jqeDjiR)
-* [Oil & Gas Dev (Onshore)](https://www.ifc.org/wps/wcm/connect/fc66f4fb-3bc8-49a9-afcf-3e141de96166/onshore_PPAH.pdf?MOD=AJPERES&CVID=jkD23B.)
-* [Pesticides Formulation](https://www.ifc.org/wps/wcm/connect/9f22a871-bd01-490b-8ecf-5b079b25dd03/pestform_PPAH.pdf?MOD=AJPERES&CVID=jkD23F4)
-* [Pesticides Manufacturing](https://www.ifc.org/wps/wcm/connect/d881a96a-3a0c-4f4c-80ba-c8666a74b951/pestmfg_PPAH.pdf?MOD=AJPERES&CVID=jqesmSB)
-* [Petrochemicals Manufacturing](https://www.ifc.org/wps/wcm/connect/12976dcc-f32e-41a9-b0cf-b979b4b0bd10/petrochm_PPAH.pdf?MOD=AJPERES&CVID=jqeIeDG)
-* [Petroleum Refining](https://www.ifc.org/wps/wcm/connect/6ee373f2-52a0-4f78-b487-f1316e24f703/petroref_PPAH.pdf?MOD=AJPERES&CVID=jkD23RF)
-* [Pharmaceutical Manufacturing](https://www.ifc.org/wps/wcm/connect/f1f5a168-6dde-4455-b508-f9c8dbb15c20/pharma_PPAH.pdf?MOD=AJPERES&CVID=jkD23Uc)
-* [Phosphate Fertilizer Plants](https://www.ifc.org/wps/wcm/connect/28a855d4-26ba-4fca-bd59-e0465698f5ed/phosfer_PPAH.pdf?MOD=AJPERES&CVID=jqevOOQ)
-* [Printing Industry](https://www.ifc.org/wps/wcm/connect/7a7fcad9-6433-4064-ab49-d1d76b3b2eb5/printing_PPAH.pdf?MOD=AJPERES&CVID=jkD242x)
-* [Pulp & Paper Mills](https://www.ifc.org/wps/wcm/connect/bfa0c334-a60b-4b7b-b2f9-bd29d0b6ea18/pulp_PPAH.pdf?MOD=AJPERES&CVID=jkD2451)
-* [Sugar Manufacturing](https://www.ifc.org/wps/wcm/connect/2da18337-0485-4740-a5f1-b5584fd2efcf/sugar_PPAH.pdf?MOD=AJPERES&CVID=jqevOUx)
-* [Tanning & Leather Finishing](https://www.ifc.org/wps/wcm/connect/18a02881-a68d-4d65-abd0-8ec234c7ea9b/tanning_PPAH.pdf?MOD=AJPERES&CVID=jqeDjDv)
-* [Textiles Industry](https://www.ifc.org/wps/wcm/connect/689e0cde-ef85-40aa-8f9b-71f8e98ce985/textile_PPAH.pdf?MOD=AJPERES&CVID=jqesmYy)
-* [Thermal Power for New Plants](https://www.ifc.org/wps/wcm/connect/0de9a6d6-d0c5-4daa-8b4e-e38b9f544dbe/thermnew_PPAH.pdf?MOD=AJPERES&CVID=jkD24pY)
-* [Thermal Power Rehabilitation](https://www.ifc.org/wps/wcm/connect/e70f981d-3324-452f-afd8-f8c9d2fd9c1b/thermrehab_PPAH.pdf?MOD=AJPERES&CVID=jqezMoe)
-* [Vegetable Oil Processing](https://www.ifc.org/wps/wcm/connect/08ca6fc5-de9d-43af-b051-d31fba472781/vegoil_PPAH.pdf?MOD=AJPERES&CVID=jqeDjKn)
-* [Wood Preserving Industry](https://www.ifc.org/wps/wcm/connect/2b4ae735-2613-43fb-bb36-a3192c923220/woodpre_PPAH.pdf?MOD=AJPERES&CVID=jkD24KB)
-
- 
-##### [Decommissioned World Bank Group (WBG) Environmental, Health, and Safety (EHS) Guidelines](http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsdecommissioned)
-
-In 2013, the World Bank Group began to review and update the EHS Guidelines. Outdated versions are listed below.
-
-**Annual Crop Production (2007)**  <br />
-[English](https://www.ifc.org/wps/wcm/connect/d2009755-9896-46ea-a565-5435dcdd664c/English_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfedJ.B) | 
-[Français](https://www.ifc.org/wps/wcm/connect/57e92d19-f6dd-4f34-bf33-923d90da031d/French_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfedOrX) | 
-[Español](https://www.ifc.org/wps/wcm/connect/f975604f-fa0e-457d-ad80-ed6549158b66/Spanish_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfed-R-) | 
-[русский](https://www.ifc.org/wps/wcm/connect/047d31b4-98f5-44e1-8538-892667d808ac/Russian_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfedWUI) | 
-[简体中文](https://www.ifc.org/wps/wcm/connect/7348b37d-4db6-4cb5-9b5a-b8492f4c6b3f/Chinese_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfedFMQ) | 
-[عربي](https://www.ifc.org/wps/wcm/connect/0c22f0e1-ed54-4681-8e11-d057a21ab3cb/Arabic_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfedxE8)
-
-**Liquefied Natural Gas (LNG) Facilities (2007)**  <br />
-[English](https://www.ifc.org/wps/wcm/connect/a661f9c6-1d0b-417e-a787-635c4e3a3f93/Final%2B-%2BLNG.pdf?MOD=AJPERES&CVID=lJuo8OF&id=1323161924903) | 
-[Français](https://www.ifc.org/wps/wcm/connect/f9825950-bf91-49d1-b1e6-ca2b3ceacd9e/French_LNG.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-f9825950-bf91-49d1-b1e6-ca2b3ceacd9e-lJuo0f.) | 
-[Español](https://www.ifc.org/wps/wcm/connect/104f1e72-7663-4cdc-9cc9-90f06af995c0/Spanish_LNG.pdf?MOD=AJPERES&CVID=lJunWLG) | 
-[русский](https://www.ifc.org/wps/wcm/connect/e403c906-a943-483e-8934-e00468837c8d/Russian_LNG.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-e403c906-a943-483e-8934-e00468837c8d-lJunZF8) | 
-[简体中文](https://www.ifc.org/wps/wcm/connect/8ef37ce9-02c3-4187-8e00-99002287cd0b/Chinese_Liquefied+Natural+Gas+LNG+Facilities.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-8ef37ce9-02c3-4187-8e00-99002287cd0b-lJuo2WD) | 
-[عربي](https://www.ifc.org/wps/wcm/connect/341efdf4-1519-4bdc-9e7a-3429ab0c7d85/Arabic_Liquefied+Natural+Gas+%28LNG%29+Facilities.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-341efdf4-1519-4bdc-9e7a-3429ab0c7d85-lJuo5cE)
-
-**Offshore Oil and Gas Development (2007)**  <br />
-[English](https://www.ifc.org/wps/wcm/connect/dba79294-6756-4620-9988-e0edf357da8d/2007+English+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7f64t) | 
-[Français](https://www.ifc.org/wps/wcm/connect/b9df4dc1-2309-4df5-b483-d1c7a6746153/2007+French+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7cC2c) | 
-[Español](https://www.ifc.org/wps/wcm/connect/41dd75a1-fcd0-49f5-8c20-60b92fc7540c/2007+Spanish+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7e4gl) | 
-[русский](https://www.ifc.org/wps/wcm/connect/6f2ca741-e5f4-406b-a1f0-3459a8a65584/2007+Russian+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7dAHe) | 
-[简体中文](https://www.ifc.org/wps/wcm/connect/9708870e-e3e9-4e8e-a2b8-37c3a27391e2/2007+Chinese+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7bMag) | 
-[عربي](https://www.ifc.org/wps/wcm/connect/a250724f-7be4-4bcc-bebd-9d1052e91d84/2007+Arabic+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7bmBQ)
-
-**Petroleum Refining (2007)**  <br />
-[English](https://www.ifc.org/wps/wcm/connect/692c76c8-0460-4f4e-bcbd-c02b3b9de850/Final%2B-%2BPetroleum%2BRefining.pdf?MOD=AJPERES&CVID=lxPOyfJ&id=1323153091008) | 
-[Français](https://www.ifc.org/wps/wcm/connect/25219068-7c39-46d0-a3c2-15510ccda658/028_Petroleum%2BRefining.pdf?MOD=AJPERES&CVID=lxPQfyQ) | 
-[Español](https://www.ifc.org/wps/wcm/connect/377c7e61-0904-46a0-aa51-3d566adacb58/Petroleum%2BRefining%2B-%2BSpanish%2B-%2BFinal-rev%2Bcc.pdf?MOD=AJPERES&CVID=lxPQ.Bf) | 
-[русский](https://www.ifc.org/wps/wcm/connect/1ce0a9f2-3907-4ae8-b046-f8f917d7344e/Petroleum%2BRefining%2B-%2BRussian%2B-%2BFinal_.pdf?MOD=AJPERES&CVID=lxPQDDL) | 
-[简体中文](https://www.ifc.org/wps/wcm/connect/d4e0c603-e421-4621-8f16-3e0b1949d747/056%2BPetroleum%2BRefining.pdf?MOD=AJPERES&CVID=lxPPHLu) | 
-[عربي](https://www.ifc.org/wps/wcm/connect/a7a68692-d9cc-436e-a5f7-8fa6d25c0872/0000199659ARar049%2BPetroleum%2BRefining.pdf?MOD=AJPERES&CVID=lxPPllA)
-
-**Plantation Crop Production (2007)**  <br />
-[English](https://www.ifc.org/wps/wcm/connect/0c720310-bd16-4467-8462-fa100187b271/Final%2B-%2BPlantation%2BCrop%2BProduction.pdf?MOD=AJPERES&CVID=lxc9PyP) | 
-[Français](https://www.ifc.org/wps/wcm/connect/d80af5e6-be68-4934-b73a-e00263d75161/French_Plantation+Crop+Production.pdf?MOD=AJPERES&CVID=l4VX6kg) | 
-[Español](https://www.ifc.org/wps/wcm/connect/04673a81-67df-4329-9619-6f1077df418c/Plantation%2BCrops%2B-%2BSpanish%2B-%2BFinal-%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=l4VWSlV) | 
-[русский](https://www.ifc.org/wps/wcm/connect/4336a6a8-9a3e-4480-9fcc-70071ff0f878/Russian_Plantation+Crop.pdf?MOD=AJPERES&CVID=l4VW-x1) | 
-[简体中文](https://www.ifc.org/wps/wcm/connect/1b399a0d-a692-4201-bdb2-7a87f2d52182/Chinese_Plantation+Crop+Production.pdf?MOD=AJPERES&CVID=l4VXrF9) | 
-[عربي](https://www.ifc.org/wps/wcm/connect/ffa15a98-134e-4ab6-9375-1f3a71a10b77/Arabic_Plantation+Crop+Production.pdf?MOD=AJPERES&CVID=l4VXz-l)
-
-**Ports, Harbors and Terminals (2007)**  <br />
-[English](https://www.ifc.org/wps/wcm/connect/984f7c38-1895-4750-99ab-2e2031fa35df/Final%2B-%2BPorts%2C%2BHarbors%2Band%2BTerminals.pdf?MOD=AJPERES&CVID=lD.wGhe&id=1323152828015) | 
-[Français](https://www.ifc.org/wps/wcm/connect/1269e799-a674-4985-874f-964a76e204c3/French_Ports+Harbors+Terminals.pdf?MOD=AJPERES&CVID=lD.xnYK) | 
-[Español](https://www.ifc.org/wps/wcm/connect/12124de9-9aa7-4fb1-8b5e-6e0d62605b4c/Ports%2B-%2BSpanish%2B-%2BFinal-%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=lD.xOzA) | 
-[русский](https://www.ifc.org/wps/wcm/connect/5d429c46-f0fc-4272-9651-5245888407c0/Russian_Ports.pdf?MOD=AJPERES&CVID=lD.xHal) | 
-[简体中文](https://www.ifc.org/wps/wcm/connect/3d66ed3a-636d-46d3-849c-e11971fcf094/Chinese_Ports+Harbors+and+Terminals.pdf?MOD=AJPERES&CVID=lD.xfCi) | 
-[عربي](https://www.ifc.org/wps/wcm/connect/9a662921-a3de-4678-8a99-d9dd1393b2ed/0000199659ARar052%2BPorts%2BHarbors%2Band%2BTerminals.pdf?MOD=AJPERES&CVID=lD.wSc6)
-
-**Vegetable Oil Processing (2007)**  <br />
-[English](https://www.ifc.org/wps/wcm/connect/f52f03ec-1141-42ca-a23b-18d817b4c9c3/2007+English_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73ebC) | 
-[Français](https://www.ifc.org/wps/wcm/connect/5f3ba3ea-f4cb-4de9-8718-4be9e2ce04fb/2007+French_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73u8F) | 
-[Español](https://www.ifc.org/wps/wcm/connect/ecf0ad48-831b-4d96-a118-2f9e5a9c2e89/2007+Spanish_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73iSu) | 
-[русский](https://www.ifc.org/wps/wcm/connect/9913df55-2e23-4e1d-9d2d-98c7a44ff5b6/2007+Russian_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73pVP) | 
-[简体中文](https://www.ifc.org/wps/wcm/connect/8e61ebdf-bcfc-4987-8d30-e3d73d273618/2007+Chinese_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73CYD) | 
-[عربي](https://www.ifc.org/wps/wcm/connect/f55baee2-bd57-4485-bae9-4b244faa02f3/2007+Arabic_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73JT0)
-
-**Wind Energy (2007)** <br />
-[English](https://www.ifc.org/wps/wcm/connect/1aeaf27e-894d-45a5-bfb8-c819dd9f927b/Final%2B-%2BWind%2BEnergy.pdf?MOD=AJPERES&CVID=kYK0jlD) | 
-[Français](https://www.ifc.org/wps/wcm/connect/02cf754f-5d49-46ba-a0ae-6d4109e0c9e3/French_Wind+Energy.pdf?MOD=AJPERES&CVID=kYK1hmV) | 
-[Español](https://www.ifc.org/wps/wcm/connect/802248d4-964d-418a-957b-963274a9f84d/Spanish_Wind%2BEnergy%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=kYK1Khg) | 
-[русский](https://www.ifc.org/wps/wcm/connect/f883e396-163c-4e8b-8cdb-51efb801894c/Russian_Wind+Energy.pdf?MOD=AJPERES&CVID=kYK1wkh) | 
-[简体中文](https://www.ifc.org/wps/wcm/connect/251b405c-9bbb-458a-84f5-ab27cd156498/Chinese_Wind+Energy.pdf?MOD=AJPERES&CVID=kYK156g) | 
-[عربي](https://www.ifc.org/wps/wcm/connect/37a804eb-57f5-4333-abc4-1a37ec19c3b3/Arabic_Wind+Energy.pdf?MOD=AJPERES&CVID=kYK0M-D)
-
-
-<!--
-**PPAH Part III: Project Guidelines**  [PDF]
-
-* [Principles of Industrial Pollution Management](https://www.ifc.org/wps/wcm/connect/e47d5c23-bc46-4623-b548-2d1cc0785eb4/HandbookPrinciplesOfIndustrialPollutionManagement.pdf?MOD=AJPERES&CVID=jkD0CrK)
-* [Monitoring](https://www.ifc.org/wps/wcm/connect/81df785a-e5ea-4d73-839a-c15c1934ba21/monitoring_PPAH.pdf?MOD=AJPERES&CVID=jqevOEL)
-* [Summary of Air Emission and Effluent Discharge Requirements Presented in the Industry Guidelines](https://www.ifc.org/wps/wcm/connect/f55cf8a7-40da-4170-84b8-c270d00ce2fa/HandbookSummaryAirEmissionAndEffluentDischargeRequirements.pdf?MOD=AJPERES&CVID=jqewtuX)
--->
-<!---
-### Sustainability Reporting
-
-* [Global Reporting Initiative Guidelines](http://www.globalreporting.org/)
-* [IFC Sustainability Reports](http://www.ifc.org/ifcext/sustainability.nsf/Content/Publications_Reports_Annual)
 -->

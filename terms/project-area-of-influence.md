@@ -4,7 +4,7 @@ date: 2006-04-20 at 06:12
 category: terminology
 tags:
 slug: project area of influence
-summary: :
+summary: ""
 status: draft
 ---
 

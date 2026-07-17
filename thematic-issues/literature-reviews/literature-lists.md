@@ -1,3 +1,4 @@
+---
 title: thematic literature reviews
 date: 
 category: references
@@ -5,8 +6,9 @@ tags:
 slug: themeatic-literature-reviews
 summary: 
 status: draft
+---
 
-## Literature Relatied to Indigneous Peoples by Country / Region 
+# literature related to Indigenous Peoples by country / region
 
 
 * [000-bib, Indigenous Peoples](https://docs.google.com/spreadsheet/ccc?key=0AvCbKDJqtSI7dHhWbkJfRGRCQmlxaDc2d3E2R1pjRVE)
@@ -53,4 +55,3 @@ status: draft
 * [social case studies](https://docs.google.com/spreadsheets/d/1tUujxdHwzbd9fPa_QyMB2j_yUewG3xVjizQNxtg4YBQ/edit#gid=0)
 
 * [Sakhalin II LNG Extraction Project](https://docs.google.com/spreadsheets/d/1Rr1VLCBq5XWjpdj5hBfZErqXrM-tfIVj2-IQvJslYRg/edit#gid=0)
-

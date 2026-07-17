@@ -1,4 +1,5 @@
-### UN Global Compact
+## UN Global Compact
+<br/>
 
 The United Nations Global Compact (UNGC) is a strategic policy initiative for businesses committing to aligning their activities with the ten (10) Global Compact Principles16 in the areas of human rights, labor, environment and anti-corruption.17 
 

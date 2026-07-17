@@ -4,7 +4,7 @@ date: 2013-11-23 01:00
 category: terminology
 tags:
 slug: resident-feedback-panel
-summary: :
+summary: ""
 status: draft
 ---
 

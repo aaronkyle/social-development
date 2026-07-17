@@ -1,3 +1,5 @@
+# Content Index
+
 This document is intended to model what a public consultation and disclosure plan might look like for an international development project.  One would need to adapt in for application to specific context, but the below approach would be considered a 'good practice' model.
 
 <sub>- AKD</sub>
@@ -24,10 +26,10 @@ Project Overview  <br />
         * IFC Environmental And Social Review Process
         * IFC Policy On Disclosure Of Information
     -	International Law
-        * [International Labour Organisation (ILO) – Fundamental Conventions](../../international-law/ilo-conventions.md)
-        * [Convention On Biological Diversity](../../international-law/cdb.md)
-        * [Convention On The Elimination Of Racial Discrimination](../../international-law/icerd.md)
-    -	[Host Country Regulatory Framework](../../country-safeguard-systems/)
+        * [International Labour Organisation (ILO) – Fundamental Conventions](../../social-policy/international-law_good-practice/ilo-conventions.md)
+        * [Convention On Biological Diversity](../../social-policy/international-law_good-practice/cdb.md)
+        * [Convention On The Elimination Of Racial Discrimination](../../social-policy/international-law_good-practice/icerd.md)
+    -	[Host Country Regulatory Framework](../../terms/country-safeguard-systems.md)
 *	[Project Stakeholders](./pcdp_stakeholders.md)
     -	Stakeholder Identification
     -	Previous Stakeholder Engagement
@@ -59,7 +61,7 @@ Project Overview  <br />
         * Fact-Finding
         * Resolution
         * Appeal
-        * Feedbac
+        * Feedback
         * Close-Out Reporting
     -	Special Grievance Measures
         * Measures Relating To Land Acquisition And Resettlement
@@ -79,10 +81,9 @@ Annex 1: IFC Performance Standards Requirements For Consultation And Disclosure 
 Annex 2: International Agreements Applicable To Indonesia Regarding Disclosure, Consultation, And Grievance Redress <br />
 Annex 3: Indonesia Laws Relevant To Public Consultation And Disclosure <br />
 Annex 4: Stakeholder Roles And Interests <br />
-Annex 5: Pastm Project Stakeholder Engagement Activities Logs <br />
+Annex 5: Past Project Stakeholder Engagement Activities Logs <br />
 Annex 6: Basic Tips For Project Staff In The Community <br />
 Annex 7: Pro Forma Advertisement For Disclosure Of Key Project Documents
 
 References <br />
 Addendum <br />
-

@@ -4,7 +4,7 @@ date: 2006-10-28 13:08
 category: terminology
 tags:
 slug: historic-district
-summary: : a contiguous assemblage of historic structures and associated landscape features that constitute a heritage resource extending over a larger area than any single structure
+summary: a contiguous assemblage of historic structures and associated landscape features that constitute a heritage resource extending over a larger area than any single structure
 status: draft
 ---
 
@@ -29,4 +29,3 @@ http://www.ifc.org/ifcext/sustainability.nsf/AttachmentsByTitle/pol_GuidanceNote
 
 “Culture Heritage and Environmental Assessment”. Environmental Sourcebook [Update 8], World Bank, September 1994. See also:
 http://www.adb.org/documents/Guidelines/Environmental_Assessment/Cultural_Heritage.pdf
-

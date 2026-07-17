@@ -8,7 +8,7 @@ summary:
 ---
 
 
-Biodiversity offsets are measurable conservation outcomes resulting from actions designed to compensate
+**Biodiversity offsets** are measurable conservation outcomes resulting from actions designed to compensate
 for significant residual adverse biodiversity impacts arising from project development and persisting after
 appropriate avoidance, minimization and restoration measures have been taken.
 

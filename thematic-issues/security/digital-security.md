@@ -1,5 +1,4 @@
-
-## Digital Security
+# Digital Security
 
 ### Context
 

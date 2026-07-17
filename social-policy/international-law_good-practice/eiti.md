@@ -1,6 +1,7 @@
-### Extractives Industries Transparency Initiative (EITI) 
+## Extractive Industries Transparency Initiative (EITI) 
+<br/>
 
-The Extractives Industries Transparency Initiative is a global coalition of governments, companies and civil society working together to improve openness and to provide accountable management of revenues from natural resources. All of these groups are represented on the EITI Board which is supported by the EITI International Secretariat. Countries participate in the Extractives Industries Transparency Initiative by applying to the international EITI Board. 23
+The Extractive Industries Transparency Initiative is a global coalition of governments, companies and civil society working together to improve openness and to provide accountable management of revenues from natural resources. All of these groups are represented on the EITI Board which is supported by the EITI International Secretariat. Countries participate in the Extractive Industries Transparency Initiative by applying to the international EITI Board. 23
 
 The application process for joining the EITI includes announcing the government’s commitment to achieving the ‘EITI Standard’24, developing a work plan to achieve EITI compliance, and working with companies and civil society to achieve compliance targets. Specific requirements include25:
 

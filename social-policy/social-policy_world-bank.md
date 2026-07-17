@@ -9,8 +9,11 @@ status: draft
 
 <a name="world-bank"></a>
 
-## Social Policy of the World Bank
+# World Bank
 
+<div class="warning" label="Note">This is discussion is outdated and I currently have no schedule for updating. Retaining for archival purposes.</div>
+
+<!--
 <div id="accordion" role="tablist" aria-multiselectable="true">
 
 <div class="panel panel-default">
@@ -25,7 +28,7 @@ status: draft
 
 <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
 <h2 id="world-bank-term">World Bank | Disambiguation of Terms</h2>
-<p>References to &quot;the World Bank&quot; suggest that a single international financial institution provides loans to developing countries for capital programs. This singularization of &quot;the Bank&quot; commonly signifies the <a href="http://go.worldbank.org/IB13V68520" title="Articles of Agreement, as amended effective June 27, 2012">International Bank for Reconstruction and Development (IBRD)</a>.<sup><a hfref="http://siteresources.worldbank.org/EXTABOUTUS/Resources/IBRDArticlesOfAgreement_links.pdf">PDF</a></sup> The World Bank Group is a greater body consisting of:</p>
+<p>References to &quot;the World Bank&quot; suggest that a single international financial institution provides loans to developing countries for capital programs. This singularization of &quot;the Bank&quot; commonly signifies the <a href="http://go.worldbank.org/IB13V68520" title="Articles of Agreement, as amended effective June 27, 2012">International Bank for Reconstruction and Development (IBRD)</a>.<sup><a href="http://siteresources.worldbank.org/EXTABOUTUS/Resources/IBRDArticlesOfAgreement_links.pdf">PDF</a></sup> The World Bank Group is a greater body consisting of:</p>
 <ol style="list-style-type: decimal">
 <li>the <strong>International Bank for Reconstruction and Development (IBRD)</strong>, established in 1945, which provides debt financing on the basis of sovereign guarantees.</li>
 <li>the <strong>International Finance Corporation (IFC)</strong>, established in 1956, which provides various forms of financing without sovereign guarantees, primarily to the private sector;</li>
@@ -39,12 +42,12 @@ status: draft
 
 </div>
 </div>
-
+-->
 
 <!--
 *An aside, to rectify some ambiguity:*
 
-References to "the World Bank" suggest that a single international financial institution provides loans to developing countries for capital programs.This singularization of "the Bank" commonly signifies the [International Bank for Reconstruction and Development (IBRD)](http://go.worldbank.org/IB13V68520 "Articles of Agreement, as amended effective June 27, 2012").<sup><a hfref="http://siteresources.worldbank.org/EXTABOUTUS/Resources/IBRDArticlesOfAgreement_links.pdf">PDF</a></sup> The World Bank Group is a greater body consisting of:
+References to "the World Bank" suggest that a single international financial institution provides loans to developing countries for capital programs. This singularization of "the Bank" commonly signifies the [International Bank for Reconstruction and Development (IBRD)](http://go.worldbank.org/IB13V68520 "Articles of Agreement, as amended effective June 27, 2012").<sup><a href="http://siteresources.worldbank.org/EXTABOUTUS/Resources/IBRDArticlesOfAgreement_links.pdf">PDF</a></sup> The World Bank Group is a greater body consisting of:
 
 1. the **International Bank for Reconstruction and Development (IBRD)**, established in 1945, which provides debt financing on the basis of sovereign guarantees.
 2. the **International Finance Corporation (IFC)**, established in 1956, which provides various forms of financing without sovereign guarantees, primarily to the private sector;
@@ -62,23 +65,26 @@ The World Bank Institute is the capacity-development branch of the World Bank, p
 * [IBRD Articles of Agreement](http://go.worldbank.org/IB13V68520) (As amended effective June 27, 2012) | [PDF](http://siteresources.worldbank.org/EXTABOUTUS/Resources/IBRDArticlesOfAgreement_links.pdf)
 -->
 
----
+<!--->
 
 
 <a name="world-bank-policy"></a>
 
+<!--
 The World Bank understands policy as a statement of broad substantive principles that require, permit or constrain Bank activities to achieve [institutional goals](http://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/ORGANIZATION/BODEXT/0,,contentMDK:50004943~pagePK:64020054~piPK:64020408~theSitePK:278036,00.html).
+-->
 
+<!--
 ### The World Bank Operational Manual (OpManual)
 
 The World Bank Operational Manual contains the operational policies (OPs), Policies, bank procedures (BPs), Directives, and interim instructions to staff (OpMemos) on the conduct of Bank operations.
-
+-->
 
 <p>
 <a name="world-bank-operational-policy"></a>
 </p>
 
-<h3 id="the-world-bank-operational-manual">The World Bank Operational Manual (OM)</h3>
+<h2 id="the-world-bank-operational-manual">The World Bank Operational Manual (OM)</h2>
 
 <p>The World Bank Operational Manual contains the operational policies (OPs), Policies, bank procedures (BPs), Directives, and interim instructions to staff (OpMemos) on the conduct of Bank operations.</p>
 
@@ -288,7 +294,7 @@ OP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Soci
 </div>
 </div>
 
-
+<!--
 <ul id="tabs" class="nav nav-tabs" id="myTab" role="tablist">
   <li class="nav-item">
     <a class="nav-link active" id="policy-tab" data-toggle="tab" href="#policy" role="tab" aria-controls="home" aria-selected="true">Policy Categories</a>
@@ -307,13 +313,16 @@ OP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Soci
   </li>
 </ul>
 <div class="tab-content" id="myTabContent">
+-->
+
+<!--
   <div class="tab-pane fade show active" id="policy" role="tabpanel" aria-labelledby="policy-tab">The World Bank Operational Manual contains the operational policies (OPs), Policies, bank procedures (BPs), Directives, and interim instructions to staff (OpMemos) on the conduct of Bank operations. Click the tabs above for definitions of each term.</div>
   <div class="tab-pane fade" id="op" role="tabpanel" aria-labelledby="op-tab"><strong>Operational Policies (OPs)</strong>: are short, focused statements of policy that are based on the Bank's Articles of Agreement, the General Conditions, and policies approved by the Bank’s Executive Directors. OPs set out the mandatory policy requirements for the conduct of Bank operations.</div>
   <div class="tab-pane fade" id="bp" role="tabpanel" aria-labelledby="bp-tab"><p><strong>Bank Procedures (BPs)</strong>: are statements setting out the general mandatory procedural requirements necessary for Bank staff to carry out the policies set out in the OPs. They are designed to ensure Bankwide consistency and quality in Bank operations.</p></div>
   <div class="tab-pane fade" id="directives" role="tabpanel" aria-labelledby="directives-tab"><p><strong>Directive</strong>: a statement of substantive directions, within Management’s authority, that require, permit or constrain activities. If accompanied by a Policy, the statement provides substantive details (methods, criteria and technical information) on how to implement the Policy. The statement may also address matters not covered by a Policy.</p></div>
   <div class="tab-pane fade" id="opMemo" role="tabpanel" aria-labelledby="opMemo-tab"><p><strong>Operational Memoranda (OpMemos)</strong>: are interim mandatory requirements designed to elaborate on requirements in OPs/BPs or to reflect changes to the OPs/BPs which have not yet been incorporated in the OPs/BPs concerned. Once the requirements in OpMemos are incorporated into revisions of the pertinent OPs/BPs, the Op Memos are retired.</p></p></div>
 </div>
-
+-->
 
 <!--
 - **Operational Policies (OPs)**: are short, focused statements of policy that are based on the Bank's Articles of Agreement, the General Conditions, and policies approved by the Bank’s Executive Directors. OPs set out the mandatory policy requirements for the conduct of Bank operations.
@@ -472,16 +481,16 @@ Current list of [Directives](http://go.worldbank.org/3B68AP6SY0 "Directive: a st
 
 
 
-### Social Policy
+## Social Policy
 
-The corpus of social and environmental 'policy' at the World Bank is comprised of 'stand-alone' [operational policy instruments](# "for more information on the Bank's operational policies, refer to the*The World Bank Operational Manual*"). <sup>[c.f. [IFC](/context/social-policy_adb.html), [EBRD](#/context/social-policy_ebrd.html) and [ADB](/context/social-policy_adb.html)]</sup> ['Social development policies' at the World Bank](http://www.worldbank.org/en/topic/socialdevelopment/brief/social-development-policies) aim to minimize the negative impact of Bank-funded operations. Policy is thematically distinguished, i.e. ['Indigenous Peoples'](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTOPMANUAL/0,,contentMDK:20553653~pagePK:64141683~piPK:64141620~theSitePK:502184,00.html "Indigenous Peoples - OP 4.10"), ['Involuntary Resettlement'])("Involuntary Resettlement - OP 4.12."), ['Conflict and Development'](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTOPMANUAL/0,,contentMDK:20129203~pagePK:64141683~piPK:64141620~theSitePK:502184,00.html "Development Cooperation and Conflict - OP 2.30"), and ['Gender and Development'](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTOPMANUAL/0,,contentMDK:20064559~pagePK:64141683~piPK:64141620~theSitePK:502184,00.html "Gender and Development - OP 4.20").<sup>[1](http://www.worldbank.org/en/topic/socialdevelopment/brief/social-development-policies)</sup>
-
-
-
-#### Toward Defining a 'Safeguard Policy Framework' at the World Bank
+Social and environmental policy at the World Bank is comprised of stand-alone operational policy instruments listed under the OM. <!--<sup>[compare: [IFC](./social-policy_ifc.md), [EBRD](./social-policy_ebrd.md) and [ADB](./social-policy_adb.md)]</sup>--> [Social development policies](http://www.worldbank.org/en/topic/socialdevelopment/brief/social-development-policies) aim to minimize the negative impact of Bank-funded operations. Policy is thematically distinguished, i.e. ['Indigenous Peoples'](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTOPMANUAL/0,,contentMDK:20553653~pagePK:64141683~piPK:64141620~theSitePK:502184,00.html "Indigenous Peoples - OP 4.10"), ['Involuntary Resettlement'](#, "Involuntary Resettlement - OP 4.12."), ['Conflict and Development'](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTOPMANUAL/0,,contentMDK:20129203~pagePK:64141683~piPK:64141620~theSitePK:502184,00.html "Development Cooperation and Conflict - OP 2.30"), and ['Gender and Development'](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTOPMANUAL/0,,contentMDK:20064559~pagePK:64141683~piPK:64141620~theSitePK:502184,00.html "Gender and Development - OP 4.20").<sup>[1](http://www.worldbank.org/en/topic/socialdevelopment/brief/social-development-policies)</sup>
 
 
-The concept of 'safeguards policy' is [tauted on the World Bank website as a cornerstone of World Bank sustainable poverty reduction](http://go.worldbank.org/WTA1ODE7T0), but the Bank does not explicitly distinguish stand-alone safeguard policies. Rather, the concept of safeguard is manifest in policy statements that that certain issues require special attention during project design and implementation and therefore requires certain types of interventions as part of loan processing.That is to say, safeguards are [considered to be written into each of several thematically-defined policies](http://go.worldbank.org/XFBVTIUDK0)&mdash;principally within the *Operational Manual*.[2](# "The [Access to Information](http://go.worldbank.org/TRCDVYJ440) policy might also be considered a type of safeguard.")
+
+### Toward Defining a 'Safeguard Policy Framework' at the World Bank
+
+
+The concept of 'safeguards policy' is [touted on the World Bank website as a cornerstone of World Bank sustainable poverty reduction](http://go.worldbank.org/WTA1ODE7T0), but the Bank does not explicitly distinguish stand-alone safeguard policies. Rather, the concept of safeguard is manifest in policy statements that certain issues require special attention during project design and implementation and therefore require certain types of interventions as part of loan processing. That is to say, safeguards are [considered to be written into each of several thematically-defined policies](http://go.worldbank.org/XFBVTIUDK0)&mdash;principally within the *Operational Manual*.[2](# "The [Access to Information](http://go.worldbank.org/TRCDVYJ440) policy might also be considered a type of safeguard.")
 
 
 <!--
@@ -542,7 +551,7 @@ On June 26, 2012, the Board of Executive Directors approved adoption and applica
 
 
 
-#### [World Bank Performance Standards](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTOPMANUAL/0,,print:Y~isCURL:Y~contentMDK:23408394~menuPK:64701637~pagePK:64709096~piPK:64709108~theSitePK:502184~isCURL:Y,00.html "OP 4.03 - Performance Standards for Private Sector Activities, May 2013")
+### [World Bank Performance Standards](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTOPMANUAL/0,,print:Y~isCURL:Y~contentMDK:23408394~menuPK:64701637~pagePK:64709096~piPK:64709108~theSitePK:502184~isCURL:Y,00.html "OP 4.03 - Performance Standards for Private Sector Activities, May 2013")
 
  * [Board Paper](http://documents.worldbank.org/curated/en/2012/06/16338127/proposed-adoption-application-world-bank-performance-standards-private-sector-projects-supported-ibrdida)
  * [OP 4.03 Performance Standards For Private Sector Activities](http://go.worldbank.org/GCH411QCR0)
@@ -550,7 +559,7 @@ On June 26, 2012, the Board of Executive Directors approved adoption and applica
  * [PS 1 - PS 8](http://go.worldbank.org/USUSUJSRL0)
  * Guidance Note
 
-#### [Environmental Assessment](http://go.worldbank.org/OSARUT0MP0)
+### [Environmental Assessment](http://go.worldbank.org/OSARUT0MP0)
 
  * [Environmental Assessment Sourcebook and Updates](http://go.worldbank.org/D10M0X2V10)
  * [Operational Policy 4.01: Environmental Assessment, 1999](http://go.worldbank.org/K7F3DCUDD0) - Revised February 2011
@@ -562,36 +571,36 @@ On June 26, 2012, the Board of Executive Directors approved adoption and applica
  - [Bank Procedure 4.01, Annex B: Application of EA to Projects Involving Pest Management: Environmental Assessment](http://go.worldbank.org/VSE6CTUEG0) - Revised May 2011
  * World Bank Environmental Assessment Website
 
-#### [Natural Habitats](http://go.worldbank.org/GIFQKJA130)
+### [Natural Habitats](http://go.worldbank.org/GIFQKJA130)
 
  * [Operational Policy 4.04: Natural Habitats, 2001](http://go.worldbank.org/PS1EF2UHY0)
 - [OP 4.04, Annex A: Definitions, 2001](http://go.worldbank.org/326G2UUHO0)
  * [Bank Procedure 4.04: Natural Habitats, 2001](http://go.worldbank.org/BFOEUOUD10)
 
-#### [Forests](http://go.worldbank.org/T22VSH6ZE0)
+### [Forests](http://go.worldbank.org/T22VSH6ZE0)
 
  * [Operational Policy 4.36: Forests, 2002](http://go.worldbank.org/MCF2I0UEX0)
 - [OP 4.36: Annex A: Definitions, 2002](http://go.worldbank.org/KPUY66UHQ0)
  * [Bank Procedure 4.36: Forests, 2002](http://go.worldbank.org/9MKTR8UI10)
  * [Forests and Forestry Website](http://www.worldbank.org/en/topic/forests)
 
-#### [Pest Management](http://go.worldbank.org/B7525J60O0)
+### [Pest Management](http://go.worldbank.org/B7525J60O0)
 
  * [Operational Policy 4.09: Pest Management, 1998](http://go.worldbank.org/QNORFLUFR0)
 
-#### [Physical Cultural Resources](http://go.worldbank.org/UBUBZD7NA0)
+### [Physical Cultural Resources](http://go.worldbank.org/UBUBZD7NA0)
 
  * [Operational Policy 4.11: Physical Cultural Resources, 2006](http://go.worldbank.org/IHM9G1FOO0)
  * [Bank Procedure 4.11: Physical Cultural Resources, 2006](http://go.worldbank.org/5SLEKEUDY0)
 
-#### [Involuntary Resettlement](http://go.worldbank.org/ZDIJXP7TQ0)
+### [Involuntary Resettlement](http://go.worldbank.org/ZDIJXP7TQ0)
 
  * [Operational Policy 4.12: Involuntary Resettlement, 2001](http://go.worldbank.org/GM0OEIY580)
 - [OP 4.12, Annex A: Involuntary Resettlement Instruments, 2001](http://go.worldbank.org/TWAC2NY620)
  * [Bank Procedure 4.12: Involuntary Resettlement, 2001](http://go.worldbank.org/NTU2XSY770)
  * [World Bank Involuntary Resettlement Website](http://go.worldbank.org/MRNITY6XN0)
 
-#### [Indigenous Peoples](http://go.worldbank.org/IBZABS9UU0)
+### [Indigenous Peoples](http://go.worldbank.org/IBZABS9UU0)
 
  * [A Learning Review: Implementation of the World Bank's Indigenous Peoples Policy, August 2011](http://siteresources.worldbank.org/INTSAFEPOL/Resources/Indigenous_peoples_review_august_2011.pdf)
  * [Operational Policy 4.10: Indigenous Peoples, July 2005](http://go.worldbank.org/UBJJIRUDP0)
@@ -601,14 +610,14 @@ On June 26, 2012, the Board of Executive Directors approved adoption and applica
  * [Bank Procedure 4.10: Indigenous Peoples, July 2005](http://go.worldbank.org/PG4KQSUDI0)
  * [World Bank Indigenous Peoples Website](http://www.worldbank.org/en/topic/indigenouspeoples)
 
-#### [Safety of Dams](http://go.worldbank.org/6G6AB69P30)
+### [Safety of Dams](http://go.worldbank.org/6G6AB69P30)
 
  * [Operational Policies 4.37: Safety of Dams, 2001](http://go.worldbank.org/VT2ABMUCZ0)
  * [Bank Procedures 4.37: Safety of Dams, 2001](http://go.worldbank.org/97G8K0UHB0)
 - [BP 4.37, Annex A, Dam Safety Reports: Content and Timing, 2001](http://go.worldbank.org/KW9UVBUGK0)
 
 
-#### [Use of Country Systems](http://go.worldbank.org/PLOLFFSUH0)
+### [Use of Country Systems](http://go.worldbank.org/PLOLFFSUH0)
 
  * [Operational Policy 4.00: Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects, 2005](http://go.worldbank.org/A23ULAUDG0)
 - [Table A1-Environmental and Social Safeguard Policies—Policy Objectives and Operational Principles, 2005](http://go.worldbank.org/XFBVTIUDK0)
@@ -619,10 +628,10 @@ On June 26, 2012, the Board of Executive Directors approved adoption and applica
 
 ---
 
-### Previous Social and Environmental Safeguard Policies
+## Previous Social and Environmental Safeguard Policies
 
 
-#### **Indigenous Peoples**
+### **Indigenous Peoples**
 
 
 * [Operational Policy 4.10: Indigenous Peoples (Jul 2005)](http://wbln0018.worldbank.org/Institutional/Manuals/OpManual.nsf/B52929624EB2A3538525672E00775F66/0F7D6F3F04DD70398525672C007D08ED?OpenDocument)
@@ -641,14 +650,14 @@ On June 26, 2012, the Board of Executive Directors approved adoption and applica
 [BP 4.10 - Indigenous Peoples](http://go.worldbank.org/PG4KQSUDI0) [July, 2005]
 
 
-#### **Resettlement**
+### **Resettlement**
 
 * [OP 4.12 - Involuntary Resettlement](http://go.worldbank.org/96LQB2JT50) [December, 2001 (rev 2013)] [alt. link](http://www.ciel.org/Publications/redlineresettle.pdf)
 
 
-#### **Environment**
+### **Environment**
 
-* [4.01: Environmental Assessment (Jan 1999)](http://wbln0018.worldbank.org/Institutional/Manuals/OpManual.nsf/944eea1d5fb31d95852564a30060b223/9367a2a9d9daeed38525672c007d0972?OpenDocument Operational Policy)
+* [4.01: Environmental Assessment (Jan 1999)](http://wbln0018.worldbank.org/Institutional/Manuals/OpManual.nsf/944eea1d5fb31d95852564a30060b223/9367a2a9d9daeed38525672c007d0972?OpenDocument, "Operational Policy")
 
 
 * [Operational Policy 4.01: Environmental Assessment (Jan 1999)](http://wbln0018.worldbank.org/Institutional/Manuals/OpManual.nsf/944eea1d5fb31d95852564a30060b223/9367a2a9d9daeed38525672c007d0972?OpenDocument)
@@ -656,7 +665,7 @@ On June 26, 2012, the Board of Executive Directors approved adoption and applica
 
 <a name="world-bank-development-policy"></a>
 
-#### **Other Operational Policies | Development Policy**
+### **Other Operational Policies | Development Policy**
 
 * [Access to Information](http://go.worldbank.org/TRCDVYJ440)
 
@@ -664,7 +673,7 @@ On June 26, 2012, the Board of Executive Directors approved adoption and applica
 
 ---
 
-### Country Safeguard Systems
+## Country Safeguard Systems
 
 * [Expanding the Use of Country Systems in Bank-Supported Operations](http://go.worldbank.org/RHRJVXDW60)
 * [Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in Bank-Supported Projects](http://go.worldbank.org/PLOLFFSUH0)
@@ -675,11 +684,11 @@ On June 26, 2012, the Board of Executive Directors approved adoption and applica
 
 <a name="world-bank-implementation-resources"></a>
 
-### Implementation Resources
+## Implementation Resources
 
 
 * [Participation Sourcebook (1996)](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1996/02/01/000009265_3961214175537/Rendered/PDF/multi_page.pdf)
-* [Involuntary Resettlement Sourcebook: Planning and Implemention in Development Projects](http://publications.worldbank.org/ecommerce/catalog/product?item_id=2444882)
+* [Involuntary Resettlement Sourcebook: Planning and Implementation in Development Projects](http://publications.worldbank.org/ecommerce/catalog/product?item_id=2444882)
 * [Environmental Assessment Sourcebook and updates](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTSAFEPOL/0,,contentMDK:20509076~hlPK:1287595~menuPK:1286567~pagePK:64168445~piPK:64168309~theSitePK:584435,00.html)
 * [Environmental, Health and Safety Guidelines, April 2007](http://www1.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/IFC+Sustainability/Sustainability+Framework/Environmental,+Health,+and+Safety+Guidelines/)
 * [Getting to Green - A Sourcebook of Pollution Management Policy Tools for Growth and Competitiveness, April 2012](http://web.worldbank.org/WBSITE/DELETEDSITESBACKUP/0,,contentMDK:22856237~pagePK:210058~piPK:210062~theSitePK:244381,00.html)
@@ -748,3 +757,132 @@ Questions on these statements can be addressed to OperationsHelpDesk@worldbank.o
 [World Bank Group Directive: Occupational Health and Safety](https://policies.worldbank.org/sites/ppf3/PPFDocuments/8f3a1433afb7413d906bf6dedbc7fc54.pdf)
 
 -->
+
+
+
+## World Bank Guidelines
+
+
+Earlier versions of the EHS Guidelines (including documents that were previously published in Part III of the Pollution Prevention and Abatement Handbook (PPAH) and on the IFC website), that are no longer in use, can be found below and are provided for reference only.
+
+
+<!-- Refer to https://www.ifc.org/en/what-we-do/sector-expertise/sustainability/policies-and-standards/pre-2006-safeguards-and-supporting-material -->
+
+* [Aluminum Manufacturing](https://www.ifc.org/content/dam/ifc/doc/1990/alum-ppah.pdf "original URL: https://www.ifc.org/wps/wcm/connect/f6aedd1a-691c-453e-b3b2-47507260431e/alum_PPAH.pdf?MOD=AJPERES&CVID=jqezqjF")
+* [Base Metal & Iron Ore Mining](https://www.ifc.org/content/dam/ifc/doc/1990/mining-ppah.pdf "original URL: https://www.ifc.org/wps/wcm/connect/1bb6d9cf-2c37-4f5b-b067-ebba83e0718d/mining_PPAH.pdf?MOD=AJPERES&CVID=jqeIeae")
+* [Breweries](https://www.ifc.org/content/dam/ifc/doc/1990/breweries-ppah.pdf "original URL: https://www.ifc.org/wps/wcm/connect/a4072740-8468-4b53-a797-a051c981d0dc/breweries_PPAH.pdf?MOD=AJPERES&CVID=jqeCNPd")
+* [Cement Manufacturing](https://www.ifc.org/content/dam/ifc/doc/1990/cementmfg-ppah.pdf "original URL: https://www.ifc.org/wps/wcm/connect/a9d79f6b-03de-4547-9425-19d4aa83f864/cementmfg_PPAH.pdf?MOD=AJPERES&CVID=jqeCNWb")
+* [Chlor-Alkali Plants](https://www.ifc.org/content/dam/ifc/doc/1990/chloralkali-ppah.pdf "https://www.ifc.org/wps/wcm/connect/e5e52419-48a0-4e55-af41-9f214bed3831/chloralkali_PPAH.pdf?MOD=AJPERES&CVID=jkD221m")
+* [Coal Mining & Production](https://www.ifc.org/content/dam/ifc/doc/1990/coal-ppah.pdf "https://www.ifc.org/wps/wcm/connect/15626dca-c683-4d1d-a937-c09f902e9658/coal_PPAH.pdf?MOD=AJPERES&CVID=jkD223U")
+* [Coke Manufacturing](https://www.ifc.org/content/dam/ifc/doc/1990/coke-ppah.pdf "https://www.ifc.org/wps/wcm/connect/cccc0c5f-ffbc-494f-94f9-7c96f27bc7d3/coke_PPAH.pdf?MOD=AJPERES&CVID=jqeCO06")
+* [Copper Smelting](https://www.ifc.org/content/dam/ifc/doc/1990/copper-ppah.pdf "https://www.ifc.org/wps/wcm/connect/849e160f-d0ee-4d88-a4f3-8cf494e88b52/copper_PPAH.pdf?MOD=AJPERES&CVID=jkD22cS")
+* [Dairy Industry](https://www.ifc.org/content/dam/ifc/doc/1990/dairy-ppah.pdf "https://www.ifc.org/wps/wcm/connect/55825d53-b726-4f37-9002-82dfab2f1a42/dairy_PPAH.pdf?MOD=AJPERES&CVID=jqezqZp")
+* [Dye Manufacturing](https://www.ifc.org/content/dam/ifc/doc/1990/dye-ppah.pdf "https://www.ifc.org/wps/wcm/connect/935ae753-6c9e-4a6d-9237-ac90354c5987/dye_PPAH.pdf?MOD=AJPERES&CVID=jqeI2M.")
+* [Electronics Manufacturing](https://www.ifc.org/content/dam/ifc/doc/1990/electronmfg-ppah.pdf "https://www.ifc.org/wps/wcm/connect/ce566b3a-6ba6-46f8-9bd3-531c124fa919/electronmfg_PPAH.pdf?MOD=AJPERES&CVID=jkD22nT")
+* [Electroplating Industry](https://www.ifc.org/content/dam/ifc/doc/1990/electroplating-ppah.pdf "https://www.ifc.org/wps/wcm/connect/532ddfee-9d8e-4a11-81ef-078f586335fc/electroplating_PPAH.pdf?MOD=AJPERES&CVID=jkD22q-")
+* [Foundries](https://www.ifc.org/content/dam/ifc/doc/1990/foundries-ppah.pdf "https://www.ifc.org/wps/wcm/connect/61d4f3a4-4bfc-4fd5-8bf3-5aa20cd45a09/foundries_PPAH.pdf?MOD=AJPERES&CVID=jkD22CY")
+* [Fruit & Vegetable Processing](https://www.ifc.org/content/dam/ifc/doc/1990/fruitandvg-ppah.pdf "https://www.ifc.org/wps/wcm/connect/142cdda6-8f23-4a21-974a-43eb000948d3/fruitandvg_PPAH.pdf?MOD=AJPERES&CVID=jqeDiAw")
+* [General Env. Guidelines](https://www.ifc.org/content/dam/ifc/doc/1990/genenv-ppah.pdf "https://www.ifc.org/wps/wcm/connect/77a4c571-c743-48a8-9c6d-21d6ce77d017/genenv_PPAH.pdf?MOD=AJPERES&CVID=jqeDiLg")
+* [Glass Manufacturing](https://www.ifc.org/content/dam/ifc/doc/1990/glass-ppah.pdf "https://www.ifc.org/wps/wcm/connect/f6c6e013-9ef2-46b0-b945-842f7003a227/glass_PPAH.pdf?MOD=AJPERES&CVID=jkD22Qo")
+* [Industrial Estates](https://www.ifc.org/content/dam/ifc/doc/1990/industrialestates-ppah.pdf "https://www.ifc.org/wps/wcm/connect/57dbcfd9-ab46-4baa-b9d9-b27ad75065df/industrialestates_PPAH.pdf?MOD=AJPERES&CVID=jqeDiZg")
+* [Iron & Steel Manufacturing](https://www.ifc.org/wps/wcm/connect/6e1e26e3-ca12-431b-a966-bb39efa413e1/ironsteel_PPAH.pdf?MOD=AJPERES&CVID=jkD2312)
+* [Lead & Zinc Smelting](https://www.ifc.org/wps/wcm/connect/ffa5696d-46d6-4ac3-b594-f10e565857d8/leadzinc_PPAH.pdf?MOD=AJPERES&CVID=jqevOnX)
+* [Meat Processing & Rendering](https://www.ifc.org/wps/wcm/connect/1a78a3b7-a813-4ac5-9f70-6b1d8d3555f2/meat_PPAH.pdf?MOD=AJPERES&CVID=jkD2363)
+* [Mini Steel Mills](https://www.ifc.org/wps/wcm/connect/4c195e9f-088a-420c-8e79-680038f50b6d/ministeel_PPAH.pdf?MOD=AJPERES&CVID=jqeDj2I)
+* [Mining and Milling, Underground](https://www.ifc.org/wps/wcm/connect/b69be203-8a3d-40f1-ae2f-5136004d5809/mining_underground.pdf?MOD=AJPERES&CVID=jkD23e6)
+* [Mining and Milling, Open Pit](https://www.ifc.org/wps/wcm/connect/faf1df6a-793a-48b4-a370-c06a810d6101/mining_openpit.pdf?MOD=AJPERES&CVID=jqevOwo)
+* [Mixed Fertilizer Plants](https://www.ifc.org/wps/wcm/connect/3e28cffd-ea58-4b67-a4f8-4dda8677f527/mxdfertilizer_PPAH.pdf?MOD=AJPERES&CVID=jqesmMn)
+* [Monitoring](https://www.ifc.org/wps/wcm/connect/81df785a-e5ea-4d73-839a-c15c1934ba21/monitoring_PPAH.pdf?MOD=AJPERES&CVID=jqevOEL)
+* [Nickel Smelting & Refining](https://www.ifc.org/wps/wcm/connect/5cb00df9-e2c1-4b92-a585-6bef08d8a5de/nickel_PPAH.pdf?MOD=AJPERES&CVID=jqeDjcl)
+* [Nitrogenous Fertilizer Plants](https://www.ifc.org/wps/wcm/connect/0ee2f1ea-5866-4500-882e-03137086c353/nitrofert_PPAH.pdf?MOD=AJPERES&CVID=jqeDjiR)
+* [Oil & Gas Dev (Onshore)](https://www.ifc.org/wps/wcm/connect/fc66f4fb-3bc8-49a9-afcf-3e141de96166/onshore_PPAH.pdf?MOD=AJPERES&CVID=jkD23B.)
+* [Pesticides Formulation](https://www.ifc.org/wps/wcm/connect/9f22a871-bd01-490b-8ecf-5b079b25dd03/pestform_PPAH.pdf?MOD=AJPERES&CVID=jkD23F4)
+* [Pesticides Manufacturing](https://www.ifc.org/wps/wcm/connect/d881a96a-3a0c-4f4c-80ba-c8666a74b951/pestmfg_PPAH.pdf?MOD=AJPERES&CVID=jqesmSB)
+* [Petrochemicals Manufacturing](https://www.ifc.org/wps/wcm/connect/12976dcc-f32e-41a9-b0cf-b979b4b0bd10/petrochm_PPAH.pdf?MOD=AJPERES&CVID=jqeIeDG)
+* [Petroleum Refining](https://www.ifc.org/wps/wcm/connect/6ee373f2-52a0-4f78-b487-f1316e24f703/petroref_PPAH.pdf?MOD=AJPERES&CVID=jkD23RF)
+* [Pharmaceutical Manufacturing](https://www.ifc.org/wps/wcm/connect/f1f5a168-6dde-4455-b508-f9c8dbb15c20/pharma_PPAH.pdf?MOD=AJPERES&CVID=jkD23Uc)
+* [Phosphate Fertilizer Plants](https://www.ifc.org/wps/wcm/connect/28a855d4-26ba-4fca-bd59-e0465698f5ed/phosfer_PPAH.pdf?MOD=AJPERES&CVID=jqevOOQ)
+* [Printing Industry](https://www.ifc.org/wps/wcm/connect/7a7fcad9-6433-4064-ab49-d1d76b3b2eb5/printing_PPAH.pdf?MOD=AJPERES&CVID=jkD242x)
+* [Pulp & Paper Mills](https://www.ifc.org/wps/wcm/connect/bfa0c334-a60b-4b7b-b2f9-bd29d0b6ea18/pulp_PPAH.pdf?MOD=AJPERES&CVID=jkD2451)
+* [Sugar Manufacturing](https://www.ifc.org/wps/wcm/connect/2da18337-0485-4740-a5f1-b5584fd2efcf/sugar_PPAH.pdf?MOD=AJPERES&CVID=jqevOUx)
+* [Tanning & Leather Finishing](https://www.ifc.org/wps/wcm/connect/18a02881-a68d-4d65-abd0-8ec234c7ea9b/tanning_PPAH.pdf?MOD=AJPERES&CVID=jqeDjDv)
+* [Textiles Industry](https://www.ifc.org/wps/wcm/connect/689e0cde-ef85-40aa-8f9b-71f8e98ce985/textile_PPAH.pdf?MOD=AJPERES&CVID=jqesmYy)
+* [Thermal Power for New Plants](https://www.ifc.org/wps/wcm/connect/0de9a6d6-d0c5-4daa-8b4e-e38b9f544dbe/thermnew_PPAH.pdf?MOD=AJPERES&CVID=jkD24pY)
+* [Thermal Power Rehabilitation](https://www.ifc.org/wps/wcm/connect/e70f981d-3324-452f-afd8-f8c9d2fd9c1b/thermrehab_PPAH.pdf?MOD=AJPERES&CVID=jqezMoe)
+* [Vegetable Oil Processing](https://www.ifc.org/wps/wcm/connect/08ca6fc5-de9d-43af-b051-d31fba472781/vegoil_PPAH.pdf?MOD=AJPERES&CVID=jqeDjKn)
+* [Wood Preserving Industry](https://www.ifc.org/wps/wcm/connect/2b4ae735-2613-43fb-bb36-a3192c923220/woodpre_PPAH.pdf?MOD=AJPERES&CVID=jkD24KB)
+
+
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title"><a href="http://www.ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/sustainability-at-ifc/policies-standards/safeguards-pre2006#ehsdecommissioned">Decommissioned World Bank Group (WBG) Environmental, Health, and Safety (EHS) Guidelines</a></h5>
+
+<p>In 2013, the World Bank Group began to review and update the EHS Guidelines. Outdated versions are listed below.</p>
+
+**Annual Crop Production (2007)**  <br />
+[English](https://www.ifc.org/wps/wcm/connect/d2009755-9896-46ea-a565-5435dcdd664c/English_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfedJ.B) | 
+[Français](https://www.ifc.org/wps/wcm/connect/57e92d19-f6dd-4f34-bf33-923d90da031d/French_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfedOrX) | 
+[Español](https://www.ifc.org/wps/wcm/connect/f975604f-fa0e-457d-ad80-ed6549158b66/Spanish_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfed-R-) | 
+[русский](https://www.ifc.org/wps/wcm/connect/047d31b4-98f5-44e1-8538-892667d808ac/Russian_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfedWUI) | 
+[简体中文](https://www.ifc.org/wps/wcm/connect/7348b37d-4db6-4cb5-9b5a-b8492f4c6b3f/Chinese_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfedFMQ) | 
+[عربي](https://www.ifc.org/wps/wcm/connect/0c22f0e1-ed54-4681-8e11-d057a21ab3cb/Arabic_2007_Annual+Crop+Production.pdf?MOD=AJPERES&CVID=lfedxE8)
+
+**Liquefied Natural Gas (LNG) Facilities (2007)**  <br />
+[English](https://www.ifc.org/wps/wcm/connect/a661f9c6-1d0b-417e-a787-635c4e3a3f93/Final%2B-%2BLNG.pdf?MOD=AJPERES&CVID=lJuo8OF&id=1323161924903) | 
+[Français](https://www.ifc.org/wps/wcm/connect/f9825950-bf91-49d1-b1e6-ca2b3ceacd9e/French_LNG.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-f9825950-bf91-49d1-b1e6-ca2b3ceacd9e-lJuo0f.) | 
+[Español](https://www.ifc.org/wps/wcm/connect/104f1e72-7663-4cdc-9cc9-90f06af995c0/Spanish_LNG.pdf?MOD=AJPERES&CVID=lJunWLG) | 
+[русский](https://www.ifc.org/wps/wcm/connect/e403c906-a943-483e-8934-e00468837c8d/Russian_LNG.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-e403c906-a943-483e-8934-e00468837c8d-lJunZF8) | 
+[简体中文](https://www.ifc.org/wps/wcm/connect/8ef37ce9-02c3-4187-8e00-99002287cd0b/Chinese_Liquefied+Natural+Gas+LNG+Facilities.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-8ef37ce9-02c3-4187-8e00-99002287cd0b-lJuo2WD) | 
+[عربي](https://www.ifc.org/wps/wcm/connect/341efdf4-1519-4bdc-9e7a-3429ab0c7d85/Arabic_Liquefied+Natural+Gas+%28LNG%29+Facilities.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-341efdf4-1519-4bdc-9e7a-3429ab0c7d85-lJuo5cE)
+
+**Offshore Oil and Gas Development (2007)**  <br />
+[English](https://www.ifc.org/wps/wcm/connect/dba79294-6756-4620-9988-e0edf357da8d/2007+English+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7f64t) | 
+[Français](https://www.ifc.org/wps/wcm/connect/b9df4dc1-2309-4df5-b483-d1c7a6746153/2007+French+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7cC2c) | 
+[Español](https://www.ifc.org/wps/wcm/connect/41dd75a1-fcd0-49f5-8c20-60b92fc7540c/2007+Spanish+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7e4gl) | 
+[русский](https://www.ifc.org/wps/wcm/connect/6f2ca741-e5f4-406b-a1f0-3459a8a65584/2007+Russian+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7dAHe) | 
+[简体中文](https://www.ifc.org/wps/wcm/connect/9708870e-e3e9-4e8e-a2b8-37c3a27391e2/2007+Chinese+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7bMag) | 
+[عربي](https://www.ifc.org/wps/wcm/connect/a250724f-7be4-4bcc-bebd-9d1052e91d84/2007+Arabic+Offshore+Oil+and+Gas+Dev_retired.pdf?MOD=AJPERES&CVID=kU7bmBQ)
+
+**Petroleum Refining (2007)**  <br />
+[English](https://www.ifc.org/wps/wcm/connect/692c76c8-0460-4f4e-bcbd-c02b3b9de850/Final%2B-%2BPetroleum%2BRefining.pdf?MOD=AJPERES&CVID=lxPOyfJ&id=1323153091008) | 
+[Français](https://www.ifc.org/wps/wcm/connect/25219068-7c39-46d0-a3c2-15510ccda658/028_Petroleum%2BRefining.pdf?MOD=AJPERES&CVID=lxPQfyQ) | 
+[Español](https://www.ifc.org/wps/wcm/connect/377c7e61-0904-46a0-aa51-3d566adacb58/Petroleum%2BRefining%2B-%2BSpanish%2B-%2BFinal-rev%2Bcc.pdf?MOD=AJPERES&CVID=lxPQ.Bf) | 
+[русский](https://www.ifc.org/wps/wcm/connect/1ce0a9f2-3907-4ae8-b046-f8f917d7344e/Petroleum%2BRefining%2B-%2BRussian%2B-%2BFinal_.pdf?MOD=AJPERES&CVID=lxPQDDL) | 
+[简体中文](https://www.ifc.org/wps/wcm/connect/d4e0c603-e421-4621-8f16-3e0b1949d747/056%2BPetroleum%2BRefining.pdf?MOD=AJPERES&CVID=lxPPHLu) | 
+[عربي](https://www.ifc.org/wps/wcm/connect/a7a68692-d9cc-436e-a5f7-8fa6d25c0872/0000199659ARar049%2BPetroleum%2BRefining.pdf?MOD=AJPERES&CVID=lxPPllA)
+
+**Plantation Crop Production (2007)**  <br />
+[English](https://www.ifc.org/wps/wcm/connect/0c720310-bd16-4467-8462-fa100187b271/Final%2B-%2BPlantation%2BCrop%2BProduction.pdf?MOD=AJPERES&CVID=lxc9PyP) | 
+[Français](https://www.ifc.org/wps/wcm/connect/d80af5e6-be68-4934-b73a-e00263d75161/French_Plantation+Crop+Production.pdf?MOD=AJPERES&CVID=l4VX6kg) | 
+[Español](https://www.ifc.org/wps/wcm/connect/04673a81-67df-4329-9619-6f1077df418c/Plantation%2BCrops%2B-%2BSpanish%2B-%2BFinal-%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=l4VWSlV) | 
+[русский](https://www.ifc.org/wps/wcm/connect/4336a6a8-9a3e-4480-9fcc-70071ff0f878/Russian_Plantation+Crop.pdf?MOD=AJPERES&CVID=l4VW-x1) | 
+[简体中文](https://www.ifc.org/wps/wcm/connect/1b399a0d-a692-4201-bdb2-7a87f2d52182/Chinese_Plantation+Crop+Production.pdf?MOD=AJPERES&CVID=l4VXrF9) | 
+[عربي](https://www.ifc.org/wps/wcm/connect/ffa15a98-134e-4ab6-9375-1f3a71a10b77/Arabic_Plantation+Crop+Production.pdf?MOD=AJPERES&CVID=l4VXz-l)
+
+**Ports, Harbors and Terminals (2007)**  <br />
+[English](https://www.ifc.org/wps/wcm/connect/984f7c38-1895-4750-99ab-2e2031fa35df/Final%2B-%2BPorts%2C%2BHarbors%2Band%2BTerminals.pdf?MOD=AJPERES&CVID=lD.wGhe&id=1323152828015) | 
+[Français](https://www.ifc.org/wps/wcm/connect/1269e799-a674-4985-874f-964a76e204c3/French_Ports+Harbors+Terminals.pdf?MOD=AJPERES&CVID=lD.xnYK) | 
+[Español](https://www.ifc.org/wps/wcm/connect/12124de9-9aa7-4fb1-8b5e-6e0d62605b4c/Ports%2B-%2BSpanish%2B-%2BFinal-%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=lD.xOzA) | 
+[русский](https://www.ifc.org/wps/wcm/connect/5d429c46-f0fc-4272-9651-5245888407c0/Russian_Ports.pdf?MOD=AJPERES&CVID=lD.xHal) | 
+[简体中文](https://www.ifc.org/wps/wcm/connect/3d66ed3a-636d-46d3-849c-e11971fcf094/Chinese_Ports+Harbors+and+Terminals.pdf?MOD=AJPERES&CVID=lD.xfCi) | 
+[عربي](https://www.ifc.org/wps/wcm/connect/9a662921-a3de-4678-8a99-d9dd1393b2ed/0000199659ARar052%2BPorts%2BHarbors%2Band%2BTerminals.pdf?MOD=AJPERES&CVID=lD.wSc6)
+
+**Vegetable Oil Processing (2007)**  <br />
+[English](https://www.ifc.org/wps/wcm/connect/f52f03ec-1141-42ca-a23b-18d817b4c9c3/2007+English_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73ebC) | 
+[Français](https://www.ifc.org/wps/wcm/connect/5f3ba3ea-f4cb-4de9-8718-4be9e2ce04fb/2007+French_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73u8F) | 
+[Español](https://www.ifc.org/wps/wcm/connect/ecf0ad48-831b-4d96-a118-2f9e5a9c2e89/2007+Spanish_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73iSu) | 
+[русский](https://www.ifc.org/wps/wcm/connect/9913df55-2e23-4e1d-9d2d-98c7a44ff5b6/2007+Russian_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73pVP) | 
+[简体中文](https://www.ifc.org/wps/wcm/connect/8e61ebdf-bcfc-4987-8d30-e3d73d273618/2007+Chinese_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73CYD) | 
+[عربي](https://www.ifc.org/wps/wcm/connect/f55baee2-bd57-4485-bae9-4b244faa02f3/2007+Arabic_Vegetable+Oil+Processing_retired.pdf?MOD=AJPERES&CVID=kU73JT0)
+
+**Wind Energy (2007)** <br />
+[English](https://www.ifc.org/wps/wcm/connect/1aeaf27e-894d-45a5-bfb8-c819dd9f927b/Final%2B-%2BWind%2BEnergy.pdf?MOD=AJPERES&CVID=kYK0jlD) | 
+[Français](https://www.ifc.org/wps/wcm/connect/02cf754f-5d49-46ba-a0ae-6d4109e0c9e3/French_Wind+Energy.pdf?MOD=AJPERES&CVID=kYK1hmV) | 
+[Español](https://www.ifc.org/wps/wcm/connect/802248d4-964d-418a-957b-963274a9f84d/Spanish_Wind%2BEnergy%2Brev%2Bcc.pdf?MOD=AJPERES&CVID=kYK1Khg) | 
+[русский](https://www.ifc.org/wps/wcm/connect/f883e396-163c-4e8b-8cdb-51efb801894c/Russian_Wind+Energy.pdf?MOD=AJPERES&CVID=kYK1wkh) | 
+[简体中文](https://www.ifc.org/wps/wcm/connect/251b405c-9bbb-458a-84f5-ab27cd156498/Chinese_Wind+Energy.pdf?MOD=AJPERES&CVID=kYK156g) | 
+[عربي](https://www.ifc.org/wps/wcm/connect/37a804eb-57f5-4333-abc4-1a37ec19c3b3/Arabic_Wind+Energy.pdf?MOD=AJPERES&CVID=kYK0M-D)
+
+
+</div>
+</div>

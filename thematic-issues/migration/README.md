@@ -1,16 +1,22 @@
+# Migration
 
+* [vulnerabilities of migrant populations](./in-migration_contexts.md)
+    - Planning Challenges for Managing Migration and Associated Impacts
+    - Assessing the Migration Impacts of a Proposed Project
+    - Factoring Migration Data into Project Design and Monitoring
+    - Accounting for Change over Time
+    - Hotspot Dynamics
+    - Options for preventing / minimizing in-migration and mitigating negative impacts
+    - Managing for health impacts
+    - Infrastructure Support
+    - Institutional Development of NGOs and civil society partner organizations
+    - Technical Assistance and Capacity-building
+    - Company-community management schemes
+    - On-going Stakeholder Engagement
+    - Getting stakeholder buy-in for Data Collection
+    - Necessary Elements of Future Actions Blueprint
 
-* [in-migration_contexts.md](./in-migration_contexts.md)
-
-
-
-
-* [migration-management.md](./migration-management.md)
-
-
-
-
-* [migration.md](./migration.md)
+* [migration](./migration.md)
     - Notes on the Vulnerabilities of Migrant Populations
     - An Overview of the Vulnerabilities of Migrant Populations
     - Health Vulnerabilities of Migrant Populations
@@ -28,5 +34,7 @@
     - Time Series / Spatial Focus of Interventions
 
 
-* [plan_migration-management.md](./plan_migration-management.md)
+* [migration management plan](./plan_migration-management.md)
+
+* [migration management](./migration-management.md)
 

@@ -1,4 +1,5 @@
-### Convention on Biological Diversity [^CBD]
+## Convention on Biological Diversity [^CBD]
+<br/>
 
 The 1992 *Convention on Biological Diversity* (CBD) is an international legally binding treaty.[^CBD-parties]
 

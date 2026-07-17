@@ -4,7 +4,7 @@ date: 2005-10-13 10:16
 category: terminology
 tags:
 slug: indigenous-peoples
-summary: :
+summary: ""
 status: draft
 ---
 

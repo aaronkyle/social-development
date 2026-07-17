@@ -4,7 +4,7 @@ date: 2005-09-11 12:54
 category: terminology
 tags:
 slug: project
-summary: : a defined set of business activities, including those where specific physical elements, aspects, and facilities likely to generate risks and impacts, have yet to be identified
+summary: a defined set of business activities, including those where specific physical elements, aspects, and facilities likely to generate risks and impacts, have yet to be identified
 status: draft
 ---
 

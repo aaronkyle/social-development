@@ -1,35 +1,34 @@
 
-**[Asian Development Bank](#adb)**
+**Asian Development Bank**
 
- * [Policy](/context/social-policy_adb.html) 
- * [Implementation Resources]()
+ * [Policy](./social-policy_adb.md)
+ * [Implementation Resources](../ifi-implementation-resources/implementation-resources_adb.md)
 
-**[African Development Bank](#adb)**
+**African Development Bank**
 
- * [Policy](/context/social-policy_afdb.html) 
- * [Implementation Resources]()
+ * Policy
+ * Implementation Resources
 
-**[European Bank for Reconstruction and Development](#ebrd)**
+**European Bank for Reconstruction and Development**
 
- * [Policy](/context/social-policy_ebrd.html)
- * [Implementation Resources]()
+ * [Policy](./social-policy_ebrd.md)
+ * Implementation Resources
 
-**[Inter-American Development Bank](#iadb)**
+**Inter-American Development Bank**
 
- * [Policy](/context/social-policy_iadb.html)
- * [Implementation Resources]()
+ * [Policy](./social-policy_iadb.md)
+ * Implementation Resources
 
-**[International Finance Corporation (IFC)](#ifc)**
+**International Finance Corporation (IFC)**
 
- * [Policy](/context/social-policy_ifc.html)
- * [Implementation Resources]()
+ * [Policy](./social-policy_ifc.md)
+ * [Implementation Resources](../ifi-implementation-resources/implementation-resources_ifc.md)
 
-**[Overseas Private Investment Corporation (OPIC)](#opic)**
+**Overseas Private Investment Corporation (OPIC)**
 
- * [Policy](/context/social-policy_opic.html)
+ * [Policy](./social-policy_opic.md)
 
-**[World Bank](#world-bank)**
+**World Bank**
 
- * [Policy](/context/social-policy_world-bank.html)
- * [Implementation Resources](/context/implementation-resources_world-bank.html)
-
+ * [Policy](./social-policy_world-bank.md)
+ * [Implementation Resources](../ifi-implementation-resources/implementation-resources_world-bank.md)

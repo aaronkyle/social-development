@@ -3,7 +3,7 @@ date:
 category: terminology
 tags:
 slug: regulatory-audit
-summary: :
+summary:
 status: draft
 
 <!--

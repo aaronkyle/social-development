@@ -1,6 +1,6 @@
 ## EBRD [Project Complaint Mechanism](http://www.ebrd.com/work-with-us/project-finance/project-complaint-mechanism.html "Citizen-driven Accountability for Sustainable Development")
 
-[REFERENCE]( "http://siteresources.worldbank.org/EXTINSPECTIONPANEL/Resources/Rio20_IAMs_Contribution.pdf")
+[REFERENCE](# "http://siteresources.worldbank.org/EXTINSPECTIONPANEL/Resources/Rio20_IAMs_Contribution.pdf")
 
 Project Complaint Mechanism of the European Bank of
 Reconstruction and Development 

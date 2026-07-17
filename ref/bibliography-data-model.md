@@ -1,3 +1,5 @@
+# Bibliography Data Model
+
 Also note [this discussion](https://github.com/aaronkyle/concept/blob/master/digital-publishing/document-metadata.md).
 
 ---
@@ -112,7 +114,7 @@ Also note [this discussion](https://github.com/aaronkyle/concept/blob/master/dig
 * Other ID
 
 ## 100 - IP Profile - RUSSIA
-=======
+
 ## [100 - Country IP Profile - INDONESIA](https://docs.google.com/spreadsheets/d/1f8GafqJBCvZxw_fFtfNvno826R0tT4HeoAks8Hf-Exk/edit#gid=0)
 
 - list of known ethnic groups by region

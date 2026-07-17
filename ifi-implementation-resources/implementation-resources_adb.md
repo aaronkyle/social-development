@@ -1,4 +1,4 @@
-## ADB Implementation Resources
+# ADB Implementation Resources
 
 <p>&nbsp;</p>
 
@@ -17,7 +17,7 @@
 Indigenous Peoples [[PDF]](http://www.adb.org/Documents/Guidelines/IndigenousPeoples/IP-Categorization-Form-Jun2010.pdf) [[Doc]](http://www.adb.org/Documents/Guidelines/IndigenousPeoples/IP-Categorization-Form-Jun2010.doc)
 -->
 
-### Handbooks & Immplementation Guides
+### Handbooks & Implementation Guides
 
 * [ADB Environmental Assessment Guidelines](https://www.adb.org/documents/adb-environmental-assessment-guidelines) (2003) <!--[[PDF]](http://www.adb.org/documents/guidelines/environmental_assessment/)-->
 * [Environment Safeguards: A Good Practice Sourcebook (Draft Working Document)](https://www.adb.org/documents/environment-safeguards-good-practice-sourcebook) (2012)
@@ -27,15 +27,9 @@ Indigenous Peoples [[PDF]](http://www.adb.org/Documents/Guidelines/IndigenousPeo
 * [Handbook on Poverty and Social Analysis: A Working Document](https://www.adb.org/documents/handbook-poverty-and-social-analysis-working-document) (2012)
 * [Strengthening Participation for Development Results: An Asian Development Bank Guide to Participation](https://www.adb.org/documents/strengthening-participation-development-results-asian-development-bank-guide-participation) (2012)
 * [Guidance Note: Poverty and Social Dimensions of Urban Projects](https://www.adb.org/documents/guidance-note-poverty-and-social-dimensions-urban-projects)
-
 * [Implementation Notes on Public Consultation and Disclosure](# "Public_Consultation_Information_Disclosure.pdf")
-
-
-
----
-
-* [Impact Evaluation of Development Interventions: A Practical Guide](https://www.adb.org/publications/impact-evaluation-development-interventions-practical-guide) (2017) | [PDF](https://www.adb.org/sites/default/files/publication/392376/impact-evaluation-development-interventions-guide.pdf)
-
+* [Impact Evaluation of Development Interventions: A Practical Guide](https://www.adb.org/publications/impact-evaluation-development-interventions-practical-guide) (2017) <!--| [PDF](https://www.adb.org/sites/default/files/publication/392376/impact-evaluation-development-interventions-guide.pdf)-->
+* [Guidelines for Preparing a Design and Monitoring Framework](https://www.adb.org/sites/default/files/institutional-document/32509/guidelines-preparing-dmf.pdf)
 
 <!--
 *NOTE:* These documents are no longer available at the given links
@@ -46,7 +40,7 @@ Indigenous Peoples [[PDF]](http://www.adb.org/Documents/Guidelines/IndigenousPeo
 
 <!--
 * [Fostering Public Participation in Budget-making: Case studies from Indonesia, Marshall Islands and Pakistan](http://www.adb.org/Documents/Books/Fostering-Public-Participation/fostering-public-participation.pdf) (2006)
-* [Complaint Handling in the Rehabilitation of Aceh and Nias—Experiences of the Asian Development Bank and Other Organizations.](www.adb.org/ Documents/Books/ComplaintHandling-Rehabilitation/default.asp)
+* [Complaint Handling in the Rehabilitation of Aceh and Nias—Experiences of the Asian Development Bank and Other Organizations.](https://www.adb.org/Documents/Books/ComplaintHandling-Rehabilitation/default.asp)
 
 
 <!--
@@ -55,13 +49,6 @@ Indigenous Peoples [[PDF]](http://www.adb.org/Documents/Guidelines/IndigenousPeo
 <!--
 * [For Life, With Love: Training Tool for HIV Prevention and Safe Migration in Road Construction Settings and Affected Communities](http://www.adb.org/documents/books/for-life-with-love/for-life-with-love.pdf) (2009)
 -->
-
-
-
----
-
-
-* [Guidelines for Preparing a Design and Monitoing Framework](https://www.adb.org/sites/default/files/institutional-document/32509/guidelines-preparing-dmf.pdf)
 
 
 <!---
@@ -85,19 +72,27 @@ Indigenous Peoples [[PDF]](http://www.adb.org/Documents/Guidelines/IndigenousPeo
 
 <h3 id="evaluation-tools">Evaluation Tools</h3>
 <ul>
-<li>Rapid Environment Assessment checklists for many different sectors are available <a href="http://www.adb.org/documents/Guidelines/Environmental_Assessment/eaguidelines002.asp">here</a>.</li>
+<li>Rapid Environment Assessment checklists for many different sectors are available <a href="https://web.archive.org/web/20120120095356/http://www.adb.org/Documents/Guidelines/Environmental_Assessment/eaguidelines002.asp" title="original URL: http://www.adb.org/documents/Guidelines/Environmental_Assessment/eaguidelines002.asp">here</a>.</li>
 </ul>
+
+_See also:_
+
+* [Gender Checklists and Toolkits in Sector Work](https://web.archive.org/web/20191114002817/https://www.adb.org/themes/gender/checklists-toolkits "original URL: https://www.adb.org/themes/gender/checklists-toolkits")
+* [Tool Kit on Gender Equality Results and Indicators](https://www.adb.org/documents/tool-kit-gender-equality-results-and-indicators)
+
 <h3 id="case-studies">Case Studies</h3>
 <ul>
-<li><a href="http://www.adb.org/Documents/Books/Fostering-Public-Participation/fostering-public-participation.pdf">Fostering Public Participation in Budget-making: Case studies from Indonesia, Marshall Islands and Pakistan</a> (2006)</li>
+<li><a href="https://web.archive.org/web/20110313055746/http://www.adb.org/Documents/Books/Fostering-Public-Participation/fostering-public-participation.pdf" title="original URL: http://www.adb.org/Documents/Books/Fostering-Public-Participation/fostering-public-participation.pdf">Fostering Public Participation in Budget-making: Case studies from Indonesia, Marshall Islands and Pakistan</a> (2006)</li>
 </ul>
+
+
+<!--
+
 <h3 id="training-tools">Training Tools</h3>
 <ul>
 <li><a href="http://www.adb.org/documents/books/for-life-with-love/for-life-with-love.pdf">For Life, With Love: Training Tool for HIV Prevention and Safe Migration in Road Construction Settings and Affected Communities</a> (2009)</li>
 </ul>
 
-
-<!--
 
 [Aid for Trade in Asia and the Pacific: Promoting Economic Diversification and Empowerment](https://www.adb.org/publications/aid-trade-asia-pacific-economic-diversification-empowerment)
 
@@ -105,9 +100,6 @@ Indigenous Peoples [[PDF]](http://www.adb.org/Documents/Guidelines/IndigenousPeo
 
 [ADB Approves Plan to Expand Presence in Pacific](https://www.adb.org/news/adb-approves-plan-expand-presence-pacific)
 
-[Gender Checklists and Toolkits in Sector Work](https://www.adb.org/themes/gender/checklists-toolkits)
-
-[Tool Kit on Gender Equality Results and Indicators](https://www.adb.org/documents/tool-kit-gender-equality-results-and-indicators)
 
 [Gender, Law, and Policy in ADB Operations: A Tool Kit](https://www.adb.org/documents/gender-law-and-policy-adb-operations-tool-kit)
 

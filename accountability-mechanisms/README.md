@@ -1,4 +1,4 @@
-## international accountability mechanisms
+# international accountability mechanisms
 
 This work focuses on mechanisms within the [Independent Accountability Mechanisms Network (IAMnet)](http://independentaccountabilitymechanism.net/)&mdash;a professional membership network.<sup>[principles](http://independentaccountabilitymechanism.net/ocrp002p.nsf/0/CABCCCEB3370236948257F4700200EEE/%24file/Principles%20for%20Cooperation%20among%20IAMs%20-%20Final.pdf), [criteria](http://independentaccountabilitymechanism.net/ocrp002p.nsf/0/A706B9DAD41DF79E48257F4700293F6F/%24file/Criteria%20for%20participation%20in%20IAM%20network%20Final.pdf)</sup>
 
@@ -164,17 +164,17 @@ This work focuses on mechanisms within the [Independent Accountability Mechanism
 
 Work on this repository is in its very early stages. I am currently still culling data from across IAM member pages:
 
-* [`adb`](./adb_am/) <!-- included in Susan Park's database -->
-* [`afdb`](./afdb_irm/) <!-- included in Susan Park's database -->
-* [`ebrd`](./ebrd_pcm/) <!-- included in Susan Park's database -->
-* [`eib`](./eib_cm/) <!-- NOT included in Susan Park's database -->
-* [`idb_idb`](./idb-iic_mici/) <!-- included in Susan Park's database -->
-* [`idb_iic`](./idb-iic_mici/) <!-- included in Susan Park's database -->
-* [`world-bank.md`](./wbg_idb-ida_ip/) <!-- included in Susan Park's database -->
+* [`adb`](./adb_am/README.md) <!-- included in Susan Park's database -->
+* [`afdb`](./afdb_irm/README.md) <!-- included in Susan Park's database -->
+* [`ebrd`](./ebrd_pcm/README.md) <!-- included in Susan Park's database -->
+* [`eib`](./eib_cm/README.md) <!-- NOT included in Susan Park's database -->
+* [`idb_iic`](./idb-iic_mici/README.md) <!-- included in Susan Park's database -->
+* [`world-bank_cao`](./wbg_ifc-miga_cao/README.md)
+* [`world-bank_ip`](./wbg_ibrd-ida_ip/README.md) <!-- included in Susan Park's database -->
 
 [Susan Park](https://susanmpark.com/) [published a database of claims submitted to MDB accountability mechanisms between 1994 and 2016](https://susanmpark.com/database-multilateral-development-banks-accountability-mechanisms).  I'll eventually cross-reference my work against this resource&mdash;thank you, Dr. Park.  It might also be interesting to re-create [Glass Half Full](https://www.ciel.org/reports/glass-half-full-the-state-of-accountability-in-development-finance-jan-2016/).
 
-I would ulitmately like to build a tool that pulls and re-organizes these data into a common framework. [I am working toward this end on Observable](https://observablehq.com/collection/@aaronkyle/independent-accountability-mechanisms-iam).
+I would ultimately like to build a tool that pulls and re-organizes these data into a common framework. [I am working toward this end on Observable](https://observablehq.com/collection/@aaronkyle/independent-accountability-mechanisms-iam).
 
 
 ---

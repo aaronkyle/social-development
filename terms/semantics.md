@@ -4,7 +4,7 @@ date: 2006-12-19 17:31
 category: terminology
 tags:
 slug: semantics
-summary: :
+summary: ""
 status: draft
 ---
 

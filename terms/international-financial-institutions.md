@@ -3,7 +3,7 @@ title: international financial institution
 date: 2005-10-17 23:21
 category: terminology
 slug: ifi
-summary: : financial institutions that have been established (or chartered) by more than one country
+summary: financial institutions that have been established (or chartered) by more than one country
 ---
 
 <!--

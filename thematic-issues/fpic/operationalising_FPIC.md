@@ -1,6 +1,6 @@
 # Operationalising FPIC
 <br>
-How can (and do) financial lenders ensure that Indigenous Peoples' rights to free, prior and informed consent are meaningfully recognized in development practices? This article identifies some different facets of the concept of 'FPIC' and offers some recommendations for how the *principal* of FPIC can be operationalized via policy provisions and practice approaches.
+How can (and do) financial lenders ensure that Indigenous Peoples' rights to free, prior and informed consent are meaningfully recognized in development practices? This article identifies some different facets of the concept of 'FPIC' and offers some recommendations for how the *principle* of FPIC can be operationalized via policy provisions and practice approaches.
 
 <!-- COMMENTING OUT SELF-REFERENCE
 by Aaron Kyle Dennis
@@ -19,7 +19,7 @@ by Aaron Kyle Dennis
 
 ## FPIC as an “operational requirement”
 
-Toward substantively respecting Indigenous Peoples’ right to [free, prior and informed consent](/defining-fpic) (FPIC), development financial institutions mandate that potential borrowers demonstrate compliance with procedural (operational) requirements [read: ‘policy’]. Borrower eligibility for financing is assessed at different ‘checkpoints’ and (ostensibly) lenders tailor their loan conditions to each specific project initiative—accounting for differentiated forms of risk (social, environmental, financial, etc.).
+Toward substantively respecting Indigenous Peoples’ right to [free, prior and informed consent](./FPIC_definitions.md) (FPIC), development financial institutions mandate that potential borrowers demonstrate compliance with procedural (operational) requirements [read: ‘policy’]. Borrower eligibility for financing is assessed at different ‘checkpoints’ and (ostensibly) lenders tailor their loan conditions to each specific project initiative—accounting for differentiated forms of risk (social, environmental, financial, etc.).
 
 One challenge faced by the policy makers at development financial institutions is how in their sequences of procedural checkpoints one can demonstrate that a project has achieved the free-prior and informed consent of affected communities. More critical still, to what are these communities consenting?
 

@@ -1,3 +1,5 @@
+# Public Consultation and Disclosure
+
 Companies seeking international financing must commit to an ongoing consultation engagement process that extends throughout the life of the project.
 
 Consultation and engagement efforts encompasses a broad range of activities and approaches—from information sharing and consultation to negotiation, participatory decision-making, and partnerships—to ensure that a project and its operators maintain their social license to operate.
@@ -48,7 +50,7 @@ IFC PS 2 also stipulates the need for a grievance mechanism for workers (and the
 
 ## PS 3: Pollution Prevention and Abatement
 
-Performance Standard 3 does not contain any specific provisions calling for community consultation/participation, disclosure, or grievance redrerdss
+Performance Standard 3 does not contain any specific provisions calling for community consultation/participation, disclosure, or grievance redress
 
 
 ## PS 4: Community Health Safety and Security

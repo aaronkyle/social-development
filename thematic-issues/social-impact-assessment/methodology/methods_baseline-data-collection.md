@@ -1,6 +1,28 @@
+# baseline data collection
 
-2003 Good Practice
-Note (GPN 2003) with respect to establishing a &quot;social baseline&quot;
+
+The methodology is based on a '[resource framework](#)' that looks for indicators long-term project induced changes to affected communities throughout the lifetime of this project, by acknowledging that household and community well-being is dependent upon a range of tangible and intangible resources. The methodology also employees [rapid appraisal](#) techniques for data collection.
+
+Key methodological discussions include:
+
+* [Scoping a Baseline Study](./methods_baseline-scoping.md)
+* [Identification of Target Baseline Data](./methods_identifying-target-baseline-data.md)
+    - [Case Study: Indonesia (Maluku Islands)](./methods_identifying-target-baseline-data_case-study-mtb.md)
+    - Case Study: Nepal (District-level Surveys)
+* [Determining Sample Size for Socio-Economic Baseline Data](./methods_representative-samples.md)
+    - [Case Study: MTB](./methods_representative-samples_case-study-mtb.md)
+* [Stakeholder Identification](./methods_stakeholder-identification.md)
+    - Case Study: MTB
+* [Planning Fieldwork](./methods_planning-fieldwork.md)
+    - methods_study-design_preparing-print-media
+    - methods_study-design_translations
+* [Processing Baseline Data](./methods_data-processing.md)
+* [Using Baseline Data in Impact Assessment](./methods_impact-analysis.md)
+
+
+
+<!--
+2003 Good Practice Note (GPN 2003) with respect to establishing a &quot;social baseline&quot;
 
 
 > Socioeconomic data is often obtained in two stages. The first of these involves “scoping” or “characterization.” The objective of the scoping phase is to identify and prioritize the range of likely social impacts and opportunities at an early stage through consultation with affected groups and review of secondary data. (p. 4)
@@ -12,9 +34,10 @@ Note (GPN 2003) with respect to establishing a &quot;social baseline&quot;
 > Initial public consultations should commence at the scoping stage. Early social scoping activities, including stakeholder analysis and initial participatory appraisal, can serve as a first step. Consultation during the scoping process assures that no group within the community is excluded, that the issues discussed and subsequently researched through baseline studies are posed in a culturally appropriate and socially relevant way, and that the community takes ownership in building solutions for mitigation measures or development opportunities. A plan for engaging interested and affected parties in a consultation and disclosure process should be set forth as early as possible.
 
 > Similarly, there needs to be good and continuous communication among the SIA and EIA teams (where these are separate processes). Organizational integration of these teams with the project's planning and design team is critical. Preliminary indications of impacts from the scoping stage should be communicated to the planners as early as possible as this may inform decision-making in the design and siting of project facilities. (p. 5)
+-->
 
 ----
-## secondary data
+## Identifying Data Sources
 
 > Baseline studies normally begin with a review of secondary data. Secondary sources typically involve a desk study using a number of sources: official data (such as topographic and thematic maps, censuses and other government records), research reports, historical texts, and other available documentation on demographic trends and the history of the people and the area. The use of secondary sources is a good starting point; however, in any instance where significant social, economic or cultural issues are likely to be a factor, the use of secondary material alone is insufficient. Field surveys must be undertaken to fully establish an appropriate social baseline and update information that may no longer be current. (p. 6)
 
@@ -25,7 +48,7 @@ Note (GPN 2003) with respect to establishing a &quot;social baseline&quot;
 
 ---
 
-## public consultation
+## participatory techniques & stakeholder analysis
 
 > During the scoping and baseline phases of the assessment, the community can be made aware that information is sought as part of a shared agenda to mitigate future project impacts and identify opportunities for improvements in social and economic conditions. Consultation and baseline studies for both environmental and social impacts should work synergistically. The key conclusions of the baseline study analyses must be discussed with the community as part of an iterative process. It is very important that good and frequent two-way communication exists between the baseline study team and the consultation team, where these two are separate units; but where possible this should be undertaken by the same team. (pp. 6-7)
 
@@ -33,7 +56,7 @@ Note (GPN 2003) with respect to establishing a &quot;social baseline&quot;
 > In many societies it is best to carry out separate consultations with vulnerable groups, and in particular women, who often provide much of the economic support for households but have no formal political power in the community.
 
 > In some cases, focused consultations with specific social groups can be constructive, especially where high rates of unemployment or under-employment prevail, or where projects are likely to affect vulnerable populations such as the young and the elderly. Likewise, where marginalized or minority ethnic groups are present, consultations should be designed to accommodate their views. (p. 7)
-
+<!--
 ---
 
 ## participatory techniques & stakeholder analysis
@@ -41,6 +64,7 @@ Note (GPN 2003) with respect to establishing a &quot;social baseline&quot;
 > Participatory techniques, such as Participatory Rural Appraisal (PRA) and participatory land use planning, can be especially helpful at the initial scoping and planning stages. 
 
 > Similarly, undertaking a stakeholder analysis as part of the social baseline activities is important in identifying the various parties who may have an interest in the project or who may affect or be affected by the project in some way. (p. 7)
+-->
 
 ---
 
@@ -51,8 +75,6 @@ Note (GPN 2003) with respect to establishing a &quot;social baseline&quot;
 > Larger, more general, group interviews help to inform the community as a whole about the project, gather information on local perceptions, and reveal impacts and issues while providing firsthand information on social, economic, cultural and political organization at the community level. Discussions with focus groups (such as women, youth groups, social or cultural organizations, marginalized groups, minorities, etc.) are an effective means to identify and understand different perspectives, conflicts, concerns and aspirations for development within a given community. Knowledgeable key informants may be used as another means of acquiring more detailed information on complex issues and past events, which may be difficult to gather at a group level. An initial sampling at the household level can help establish a basis from which to focus subsequent quantitative surveys. (pp. 7-8)
 
 
-
-
 ## quantitative methods
 
 > Quantitative surveys serve to establish baseline measures for key social parameters that can be used later as indicators to measure social impacts. Quantitative methods are commonly used to generate data on: household assets; income streams and livelihood survival strategies; vulnerable individuals and households; the role of women and children in the division of labor; the degree of economic dependency on land and local resources; household composition and demography, health, and educational characteristics; skills of the labor force; etc.
@@ -61,10 +83,11 @@ Note (GPN 2003) with respect to establishing a &quot;social baseline&quot;
 
 > The importance of quantitative methods cannot be overstated. A quantitative analysis of income streams, household expenditures, and household demographic characteristics portrays how households allocate their labor, capital, and other resources. The absence of quantitative data opens the door to conjecture or anecdotal speculation that serves neither the interests of the population nor the company. Quantitative methods enable an empirical measurement of project impacts and effective evaluations of progress made in mitigation or sustainable development undertakings. Reliable quantitative baseline data also provides a sound basis to challenge unfounded claims and future disputes concerning project impacts. (p. 8)
 
-
+<!--
 ## team composition
 
 > Professional staff with relevant training and skills in social science research should manage baseline studies. The size and composition of the field research team will vary in proportion to the size of the affected population, the timeline for undertaking the studies, and the range of issues to be investigated. Local language speakers with facilitation, interviewing and recording skills should be employed to carry out fieldwork. Where possible, facilitators/interviewers as well as study managers and planners should be sourced from the local population (e.g. teachers, social workers, nurses, or university researchers with the necessary skills and familiar with the local circumstances). In addition, the research team should — if possible — include women who can better interact with female informants, especially during consultation activities. Scheduling should take into account time needed for survey design, training of field staff, testing, implementation, and analysis of survey information, as well as the availability of community groups involved. Continuity of the baseline study team is advised where social action plans (such as resettlement plans, community or Indigenous Peoples development plans) or other development projects are foreseen. (pp. 8-9)
+-->
 
 ## content of baseline studies
 

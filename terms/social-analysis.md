@@ -4,7 +4,7 @@ date: 2005-12-06
 category: terminology
 tags: meta-phenomenon, field of practice
 slug: social-analysis
-summary: : the practice of analyzing a situation or social issue, problem or trend through objective, systematic exploration&mdash;often with the aim of prompting change
+summary: the practice of analyzing a situation or social issue, problem or trend through objective, systematic exploration&mdash;often with the aim of prompting change
 ---
 
 <!---
@@ -22,13 +22,13 @@ comments: true
 
 The term **social analysis** refers to the practice of analyzing a situation or social issue, problem or trend through objective, systematic exploration&mdash;often with the aim of prompting changes in the situation being analyzed. [For the World Bank in particular](http://www.worldbank.org/en/topic/communitydrivendevelopment/brief/cdd-economic-social-analysis), "social analysis is a process that aims to identify the social dimensions of projects, as well as analyze the different stakeholder perspectives and priorities".
 
-Social issuse include such topics as cost of and access to healthcare, quality and content of educational programmes, the capacity and coverage of infrastructure and basic services, etc.  Social problems are situation that are viewed by community members as being undesirable, such as increases in criminality, exposure to risks of environmental pollution, the decline of locally-viable markets, job loss and job outsourcing, etc.
+Social issues include such topics as cost of and access to healthcare, quality and content of educational programmes, the capacity and coverage of infrastructure and basic services, etc.  Social problems are situations that are viewed by community members as being undesirable, such as increases in criminality, exposure to risks of environmental pollution, the decline of locally-viable markets, job loss and job outsourcing, etc.
 
 <!--
 
-Social analysis aims to offer a critical and theoretical understanding of cultural, political, and social processes. Social analytiucal lines of inquiry are traditioonally organized around themes such as urbanization, commodification, movement of peoples, transnational exchange, identity formations, ethnic and disaporic cultures, production of human suffering, poverty, prejudice, etc. Study design and methodologies often draw upon a variety of different lines of analytical inquiry&mdash;both qualitative and quantitative. The practice of social analysis tends to be critical, empirical, and cross-disciplinary&mdash;incorporating critical methodologies and theoretical insights from such fields as social geography, feminism and queer studies, ethnic studies, critical race theory, labor studies, and cultural studies. Social analysis is often carried out by cooperative, multi-party research teams.
+Social analysis aims to offer a critical and theoretical understanding of cultural, political, and social processes. Social analytical lines of inquiry are traditionally organized around themes such as urbanization, commodification, movement of peoples, transnational exchange, identity formations, ethnic and diasporic cultures, production of human suffering, poverty, prejudice, etc. Study design and methodologies often draw upon a variety of different lines of analytical inquiry&mdash;both qualitative and quantitative. The practice of social analysis tends to be critical, empirical, and cross-disciplinary&mdash;incorporating critical methodologies and theoretical insights from such fields as social geography, feminism and queer studies, ethnic studies, critical race theory, labor studies, and cultural studies. Social analysis is often carried out by cooperative, multi-party research teams.
 
-Some of the lead theorists and practitions of social analysis challenge hegemonic paradigms through "grounded theory" and empirical research.
+Some of the lead theorists and practitioners of social analysis challenge hegemonic paradigms through "grounded theory" and empirical research.
 
 ...techniques for data collection and analysis used for social research in academic and non-academic environments.
 

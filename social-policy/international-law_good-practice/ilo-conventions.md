@@ -1,5 +1,5 @@
-
-### Fundamental Conventions of the International Labour Organization (ILO)
+## Fundamental Conventions of the International Labour Organization (ILO)
+<br/>
 
 The Government of Indonesia is party to the eight (8) ‘fundamental’ ILO conventions, four (4) of which contain provisions relating to consultation, disclosure and/or grievance redress:
 
@@ -32,7 +32,7 @@ Convention 138 contains the following provisions for public consultation and dis
 
 * Article 2 (para. 4) stipulates that state parties whose economy and educational facilities are insufficiently developed may initially specify a minimum working age of 14 years only after consultation with the organizations of employers and workers concerned.
 * Article 3 (paras. 1-3) requires regulating authorities to consult with concerned employer and worker organizations when determining types of employment likely to jeopardize the health, safety or morals of young persons. These types of employment require a minimum working age of 18 years for admission to any type of employment or work which by its nature or the circumstances in which it is carried out is likely to jeopardize the health, safety or morals of young persons. 
-* Article 5 requires state parties whose economy and administrative facilities are insufficiently developed to publically consult with concerned employer and worker organizations should they wish to initially limit the scope of application of this convention.
+* Article 5 requires state parties whose economy and administrative facilities are insufficiently developed to publicly consult with concerned employer and worker organizations should they wish to initially limit the scope of application of this convention.
 * Article 8 stipulates that only after consultation with the organizations of employers and workers concerned may a competent authority, by permits granted in individual cases, allow exceptions to the prohibition of employment or work outlined within this convention for such purposes as participation in artistic performances. 
 * Article 9 (para. 3) requires state parties to enact national laws or regulations that require employers to keep and make available a register of all employees under 18 years of age that contains their names and ages.
 
@@ -71,5 +71,4 @@ Article 14(c) notes that parties to the convention must promote informed consult
 In addition to the CBD itself, the Decisions of the Conference of Parties (COP) must also be taken into account—intended as they are to determine the policy, strategy and program priorities within the framework of the COP. 
 
 At the Fifth Conference of Parties, a Decision [^CBD-decision-v16] was adopted reiterating the necessity of the participation of Indigenous Peoples in the development of guidelines for benefits sharing. In addition, the Decision clearly states that women and women’s organization must be fully incorporated in the consultation process and given full access to participation. To achieve these aims, the Decision mandates that various mediums of communications should be used to most effectively reach, inform, and include the views and concerns of target indigenous populations. The Decision also states that Indigenous People should be engaged to develop a register of knowledge on traditional practices and lifestyles relevant to conservation and sustainable use of biodiversity and about ways to strengthen legislation, customary practices and traditional systems of resource management and methods of protecting their knowledge against unauthorized use. It requires that women’s knowledge be of conservation and methods of sustaining biological diversity be specially documented and preserved. Finally, the Decision of the Fifth Conference of Parties states that Indigenous Peoples and local communities must be consulted and encouraged to participate in the development of cultural, environmental and social impact assessments regarding any development proposed to take place on sacred sites and on lands or waters occupied or used by indigenous and local communities. 
-
 

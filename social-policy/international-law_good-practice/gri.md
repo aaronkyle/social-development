@@ -1,5 +1,5 @@
-
-### Global Reporting Initiative (GRI) 
+## Global Reporting Initiative (GRI) 
+<br/>
 
 The Global Reporting Initiative a non-profit organization that produces one of the world's most prevalent standards for sustainability reporting, collectively known as the “GRI Sustainability Reporting Framework”.21 The framework includes specific guidelines (the Sustainability Reporting Guidelines) for focusing on four (4) key areas of sustainability performance: economic, environmental, governance, and social, with the ‘social’ category being sub-divided as: 1) labor practices and decent work, 2) human rights, 3) society and 4) product responsibility. The key principles of the Sustainability Reporting Guidelines (currently in their fourth iteration, and hence referred to as the ‘G4 Guidelines’) are summarized below. 22
 
@@ -50,6 +50,5 @@ Organizations should make information available in a manner that is understandab
  
 Organizations should gather, record, compile, analyze and disclose information and processes used in the preparation reporting documents in a way that they can be subject to examination and that establishes the quality and materiality of the information.
 
-The G4 Sustainability Reporting Guidelines provides for different categories of information that participating organizations must disclose—defined both in terms of ‘General Standard Disclosures’ and ‘Specific Standard Disclosures’. The guidelines also distinguish between two tiers of compliance: ‘Core’ and ‘Comprehensive’, the latter tier requiting additional reporting elements, including information on the organization’s strategy for operational management, governance, as well as a statement of ethics.
-
+The G4 Sustainability Reporting Guidelines provides for different categories of information that participating organizations must disclose—defined both in terms of ‘General Standard Disclosures’ and ‘Specific Standard Disclosures’. The guidelines also distinguish between two tiers of compliance: ‘Core’ and ‘Comprehensive’, the latter tier requiring additional reporting elements, including information on the organization’s strategy for operational management, governance, as well as a statement of ethics.
 

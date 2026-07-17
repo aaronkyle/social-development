@@ -1,20 +1,18 @@
-Thematic issues include:
+# thematic issues
 
-
-*  [`social impact assessment`](http://applied-anthro.com/thematic-issues/social-impact-assessment)
-    - [`public consultation and disclosure`](http://applied-anthro.com/thematic-issues/social-impact-assessment/public-consultation-and-disclosure)
-    - [`baseline data capture`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/social-impact-assessment/baseline-surveys)
-    - [`migration`](http://applied-anthro.com/thematic-issues/social-impact-assessment/migration)
-    - [`methods / field implementation protocols`](http://applied-anthro.com/thematic-issues/social-impact-assessment/social-impact-assessment/methodology)
-*  [`fpic`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/fpic)
-*  [`involuntary resettlement`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/involuntary-resettlement)
-*  [`cultural heritage`](http://applied-anthro.com/thematic-issues/social-impact-assessment/cultural-heritage)
-*  [`cumulative impacts`](http://applied-anthro.com/thematic-issues/social-impact-assessment/cumulative-impacts/cumulative-impacts_briefing-note)
-*  [`country profiles`](http://applied-anthro.com/thematic-issues/social-impact-assessment/country-profiles/)
-*  [`literature reviews`](https://github.com/aaronkyle/social-development/tree/master/thematic-issues/literature-reviews)
-
+*  [`social impact assessment`](./social-impact-assessment/README.md)
+    - [`methods / field implementation protocols`](./social-impact-assessment/methodology/README.md)
+*  [`baseline surveys`](./social-impact-assessment/baseline-surveys/README.md)<!--*  [`public consultation and disclosure`](./public-consultation-and-disclosure/README.md)-->
+*  [`migration management`](./migration/README.md)
+*  [`fpic`](./fpic/FPIC_definitions.md)
 <!--
-
+*  [`involuntary resettlement`](./involuntary-resettlement/README.md)
+*  [`cultural heritage`](./cultural-heritage/README.md)
+*  [`cumulative impacts`](./cumulative-impacts/cumulative-impacts_briefing-note.md)
+*  [`country profiles`](./country-profiles/README.md)
+*  [`literature reviews`](./literature-reviews/literature-lists.md)
+-->
+<!--
 https://www.worldbank.org/en/topic
 
 [![Agriculture and Food](http://www.worldbank.org/content/dam/photos/220x220/2017/jul/vn_woman_pineapple_220x220.jpg "Agriculture and Food")](http://www.worldbank.org/en/topic/agriculture)

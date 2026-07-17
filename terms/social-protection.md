@@ -4,7 +4,7 @@ date: 2005-10-22 09:51
 category: terminology
 tags:
 slug: social-protection
-summary: :
+summary: ""
 status: draft
 ---
 

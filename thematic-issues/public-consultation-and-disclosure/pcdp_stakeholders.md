@@ -1,4 +1,4 @@
-## PROJECT STAKEHOLDERS
+# PROJECT STAKEHOLDERS
 
 ### Stakeholder Identification
 

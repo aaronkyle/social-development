@@ -7,7 +7,7 @@ slug: community-representatives
 summary:
 ---
 
-Community representatives refer to village heads, clan heads, community and religious leaders, local
+**Community representatives** refer to village heads, clan heads, community and religious leaders, local
 government representatives, civil society representatives, politicians or teachers.
 
 

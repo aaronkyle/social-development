@@ -4,7 +4,7 @@ date:
 category: terminology
 tags: jurisprudence, law, international law
 slug: jurisprudence
-summary: :
+summary: ""
 status: draft
 ---
 

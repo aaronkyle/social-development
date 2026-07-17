@@ -1,8 +1,8 @@
-## The Importance of Proactive Planning for Measuing Project Performance
+# the importance of proactive planning for measuring project performance
 
 Unless a project has defined in advance how it wishes to evaluate social performance, little can be done&mdash;at least, not without a ton of added legwork.
 
-Pro-active planning begins with project design, when explicit consideration of the project’s physical and social footprint is used to formulate integrated social and economic interventions toaccount for potential social and economic impacts and local and regional consequences. 
+Pro-active planning begins with project design, when explicit consideration of the project’s physical and social footprint is used to formulate integrated social and economic interventions to account for potential social and economic impacts and local and regional consequences.
 
 At the outset, a project should ask and answer the following questions:
 
@@ -15,7 +15,7 @@ Project social development design and budget decisions are made throughout the p
 
 ## Designing Baseline Studies for Optimal Project Social and Environmental Performance
 
-### Setring Project Performance Targets
+### setting project performance targets
 
 <!--
 [Here's a record of over 175 tools for social performance evaluation.](http://trasi.foundationcenter.org/browse.php) Some are clearly more relevant than others (and I deleted out already those that were wildly off topic).  
@@ -26,7 +26,7 @@ Project social development design and budget decisions are made throughout the p
 
 It is critical to design surveys to withstand scrutiny across disciplines.
 
-Regretablly, a survey of publicly-availble tools for social performance evaluation suugests that there really is no 'standard approach' to social performance evaluation. <!--Nor should there be, really -->
+Regrettably, a survey of publicly-available tools for social performance evaluation suggests that there really is no 'standard approach' to social performance evaluation. <!--Nor should there be, really -->
 
 
 Not finding what I was looking for on the web concerning socio-economic survey design, I started writing about it [here](https://github.com/aaronkyle/social-development/tree/master/context/thematic-issues/social-impact-assessment/baseline-studies).

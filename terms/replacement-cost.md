@@ -4,7 +4,7 @@ date: 2007-02-13 06:54
 category: terminology
 tags: IFC, IFC PS5
 slug: replacement-cost
-summary: : market value of assets plus transaction costs
+summary: market value of assets plus transaction costs
 ---
 
 <!--

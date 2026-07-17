@@ -4,14 +4,14 @@ date: 2006-02-08 15:34
 category: terminology
 tags:
 slug: informed-consultation-and-participation
-summary: : the process of involving communities in development planning which take account of their linguistic and cultural characteristics and which make use of customary institutions and organizations.
+summary: the process of involving communities in development planning which take account of their linguistic and cultural characteristics and which make use of customary institutions and organizations.
 status: draft
 ---
 
 
 The term **informed consultation and participation** refers to an intensive and active form of consultation that involves the in-depth exchange of information and viewpoints and culminates with the incorporation of stakeholders' informed participation in design and decision-making. ICP processes are carried out on an iterative and on-going basis throughout the project lifecycle.
 
-Informed consultation means that relevant, understandable and accessible information, with translations if needed, is available in sufficient time in advance of the consultation. Informed participation entails organized and iterative consultation on issues concerning potential impacts to the [affected communities](/terms/affect-communities), so that the client can incorporate into its decision-making process their views on these issues.
+Informed consultation means that relevant, understandable and accessible information, with translations if needed, is available in sufficient time in advance of the consultation. Informed participation entails organized and iterative consultation on issues concerning potential impacts to the [affected communities](./affected-communities.md), so that the client can incorporate into its decision-making process their views on these issues.
  
 The ICP process must be free of intimidation or coercion, and not be influenced by outside pressure or monetary inducements (unless monetary payments are part of an agreed settlement). The process allows critics to express their views, and enable various groups to speak out freely with equal opportunity, so as to facilitate a full debate involving all viewpoints.
 

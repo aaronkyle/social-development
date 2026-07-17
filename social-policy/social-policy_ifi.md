@@ -1,9 +1,12 @@
+---
 title: social policy among the IFIs
 date: 2006-09-29 06:56
 category: context
 slug: context/social-policy
 status: draft
+---
 
+# IFI Social Policy
 
 <!--
 summary:
@@ -13,17 +16,17 @@ This post lists (and attempts to establish some manner of categorising) social p
 
 I compiled (and am publicly sharing) this index because I have found it difficult to identify and compare social policy within and among institutions.
 
-----
+<!----
 
 **A brief aside about terminology**
 
-In policy, terminology is important. Comparative analysis of social policy is a particularly challenging topic for maintaining terminological clarity and consistency. Over the years, I have worked to develop my own definitions for terms used in social policy (a defining feature of the [applied-anthro](http://applied-anthro.com/) website) to ensure clarity and continuity in my writing. This lexicon is influenced by the IFI definitions, but it is adapted to accomodate discussion of broad phenomenological concerns.
+In policy, terminology is important. Comparative analysis of social policy is a particularly challenging topic for maintaining terminological clarity and consistency. Over the years, I have worked to develop my own definitions for terms used in social policy (a defining feature of the [applied-anthro](https://applied-anthro.com/) website) to ensure clarity and continuity in my writing. This lexicon is influenced by the IFI definitions, but it is adapted to accommodate discussion of broad phenomenological concerns.
 
 Consider the following:
 
 Most IFIs compile some form of **operations manual** comprised of policies for effecting the mandates of their institutional charters. In addition to board-approved policies and regulations, some IFI **operations manuals** also include notes of guidance for bank staff and clients that elaborate on the intended meaning of policy provisions to facilitate better implementation.
 
-For example, while the Asian Development Bank's operations manual refers only to policies (which the ADB terms **operational procedures**, or OPs), the operations manual of the World Bank contains **operational policies** (OPs), **bank procedures** (BPs), **directives**, as well as interim instructions to staff (referred to OpMemos).
+For example, while the Asian Development Bank's operations manual refers only to policies (which the ADB terms **operational procedures**, or OPs), the operations manual of the World Bank contains **operational policies** (OPs), **bank procedures** (BPs), **directives**, as well as interim instructions to staff (referred to as OpMemos).
 
 It can be hard to distinguish 'policy' from 'guidance', and still more difficult to discern what is "required" as opposed to that which is simply "recommended" (a question that my clients often pose when considering my recommendations for policy implementation).
 
@@ -34,9 +37,9 @@ In recent years, **safeguards policies** have been receiving considerable media 
 Adding an additional layer of complexity to any discussion of 'social policy' among international financial institutions (IFIs) are those policies that have an apparent 'social' orientation, but which are operational policies that come to bear only on internal bank operations.
 
 
-----
+---->
 
-**And also a short disclaimer:**
+**A<!--nd also a--> short disclaimer:**
 
 Please accept my work as on-going. I continue to struggle to account for what constitutes 'social policy' for a given lending institution.
 
@@ -79,7 +82,7 @@ ADB regards policy as short, focused statements defining borrower client obligat
 <a name="adb-operational-policy"></a>
 #### Operations Manual
 
-The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual) collects operational policies known as [Bank Policies (BPs)]( "*bank policies*: short, focused statements defining borrower client obligations"). The OM also includes [Operational Procedures (OPs)]( "procedural requirements and guidance on policy implementation") that spell out procedural requirements and guidance on policy implementation (also referred to as **[policy operationalization]()**).
+The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual) collects operational policies known as [Bank Policies (BPs)](# "*bank policies*: short, focused statements defining borrower client obligations"). The OM also includes [Operational Procedures (OPs)](# "procedural requirements and guidance on policy implementation") that spell out procedural requirements and guidance on policy implementation (also referred to as **[policy operationalization]()**).
 
 
 <!--  MERGE ERROR, CHECK LATER
@@ -287,12 +290,17 @@ OM Section
 </table>
 </div>
 </div>
-=======
+-->
+
+<!---
 ### Social Policy
 
-It can be helpful to conceptualize Social policy at the ADB can be conceptually divided into two groups: 1) [safeguard policies](#adb-safeguards-policy), which seek to avoid, minimise, or mitigate adverse impacts of ADB operations <!-- one clause elaboration--> and 2) [development policies](#adb-development-policy), which articulate the ABD's aspirational notion of 'social development' and specify how these aims can be realized in practice.
-
---->>
+It can be helpful to conceptualize Social policy at the ADB can be conceptually divided into two groups: 1) [safeguard policies](#adb-safeguards-policy), which seek to avoid, minimise, or mitigate adverse impacts of ADB operations
+-->
+ <!-- one clause elaboration--> 
+ <!--
+ and 2) [development policies](#adb-development-policy), which articulate the ABD's aspirational notion of 'social development' and specify how these aims can be realized in practice.
+--->
 
 
 
@@ -316,17 +324,17 @@ The [safeguards policies of the Asian Development Bank](http://www.adb.org/site/
 * *[Environment Policy](http://www.adb.org/documents/environment-policy-asian-development-bank)* (Nov 2002) | [PDF](http://www.adb.org/sites/default/files/institutional-document/33343/files/environment-policy.pdf)
     - [Operations Evaluation Department Evaluation Study: Environmental Safeguards](http://www.adb.org/documents/environmental-safeguards) (Sept 2006) | [(PDF)](http://www.adb.org/sites/default/files/evaluation-document/35443/files/ses-es.pdf)
 
-* *[Policy on Indigenous Peoples](http://www.adb.org/documents/policy-indigenous-peoples)*  (1998) | [(PDF)](http://www.adb.org/sites/default/files/institutional-document/33441/files/policy-indigenous-peoples.pdf) | [NOTES]( "NOTES: ADB 1998 Indigenous Peoples Policy")
+* *[Policy on Indigenous Peoples](http://www.adb.org/documents/policy-indigenous-peoples)*  (1998) | [(PDF)](http://www.adb.org/sites/default/files/institutional-document/33441/files/policy-indigenous-peoples.pdf) | [NOTES](# "NOTES: ADB 1998 Indigenous Peoples Policy")
    - *[Operations Manual Section F3/B 'Indigenous Peoples'](http://www.adb.org/documents/manuals/operations/OMF03-25Sep06.pdf)* (25 September 2006)
    - *[Operations Evaluation Department Evaluation Study: Indigenous Peoples Safeguards](http://www.oecd.org/dataoecd/43/22/38984072.pdf)* (Feb 2007) | [PDF](http://www.adb.org/sites/default/files/evaluation-document/35441/files/sst-reg-2007-01.pdf)
 
-* *[Involuntary Resettlement Policy](http://www.adb.org/documents/policy-involuntary-resettlement)* (Aug 1995) | [PDF](http://www.adb.org/sites/default/files/institutional-document/32515/files/involuntary-resettlement.pdf) | [NOTES]( "NOTES: ADB 1995 Involuntary Resettlement Policy")
+* *[Involuntary Resettlement Policy](http://www.adb.org/documents/policy-involuntary-resettlement)* (Aug 1995) | [PDF](http://www.adb.org/sites/default/files/institutional-document/32515/files/involuntary-resettlement.pdf) | [NOTES](# "NOTES: ADB 1995 Involuntary Resettlement Policy")
     - *[Operations Evaluation Department Evaluation Study: Involuntary Resettlement Safeguards](http://www.adb.org/documents/involuntary-resettlement-safeguards)* (Sept 2006) | [PDF](http://www.adb.org/sites/default/files/evaluation-document/35442/files/sst-reg-2006-14.pdf)
 
 
 **Non-Policy Safeguard Frameworks:**
 
-* *[Social Protection Strategy](http://www.adb.org/Documents/Policies/Social_Protection/default.asp)* (Aug 2001) | [print version]( "published July 2003") | [NOTES]( "NOTES: ADB 2001 Social Protection Strategy")
+* *[Social Protection Strategy](http://www.adb.org/Documents/Policies/Social_Protection/default.asp)* (Aug 2001) | [print version](# "published July 2003") | [NOTES](# "NOTES: ADB 2001 Social Protection Strategy")
    - [Social Protection Progress Report to the Board of Directors (Sept 2002)](http://www.adb.org/Documents/Reports/Social_Protection/IN252-02.pdf)
 
 * *[Social Protection Strategy](http://www.adb.org/documents/social-protection-strategy)* (Jan 2001)
@@ -344,9 +352,9 @@ While safeguards policies are intended for risk avoidance, mitigation and manage
 
 Earlier development policies of the Asian Development Bank that remain in effect are the 2003 *Policy on Gender and Development*  and the 2001 *Social Protection Strategy*.
 
-The 2003 *[Policy on Gender and Development](http://www.adb.org/documents/policy-gender-and-development)* (GAD) seeks to mainstream awareness of gender issues in order to promote gender equality and women’s empowerment across all ADB operations&mdash;from country partnership strategies to the design and implementation of gender-inclusive projects and programs. The GAD policy is a stand-alone instrument and regarded by ADB as a necessary component for realizing sustained economic growth, faster poverty -reduction, and inclusive development. The GAD policy's relevance and approach were confirmed by the 2002 Interim Progress Report on the Policy on GAD and 2006 GAD Policy Implementation Review. Gender issues are also addressed ADB’s long-term strategic framework&mdash;Strategy 2020&mdash;as one of the five [drivers of change](). The results framework measures the Bank's performance with regard to gender issues relative to quantiative targets, which are [tracked and reported annually]().
+The 2003 *[Policy on Gender and Development](http://www.adb.org/documents/policy-gender-and-development)* (GAD) seeks to mainstream awareness of gender issues in order to promote gender equality and women’s empowerment across all ADB operations&mdash;from country partnership strategies to the design and implementation of gender-inclusive projects and programs. The GAD policy is a stand-alone instrument and regarded by ADB as a necessary component for realizing sustained economic growth, faster poverty -reduction, and inclusive development. The GAD policy's relevance and approach were confirmed by the 2002 Interim Progress Report on the Policy on GAD and 2006 GAD Policy Implementation Review. Gender issues are also addressed ADB’s long-term strategic framework&mdash;Strategy 2020&mdash;as one of the five [drivers of change](). The results framework measures the Bank's performance with regard to gender issues relative to quantitative targets, which are [tracked and reported annually]().
 
-The 2001 *[Social Protection Strategy](http://www.adb.org/documents/social-protection-strategy)* (SPS) is another such development policy framework.  The SPS establishes the meaning of 'social protection' wtih ADB operations as a set of policies and programs designed to reduce poverty and vulnerability by promoting efficient labor markets, diminishing people's exposure to risks, and enhancing their capacity to protect themselves against hazards and interruption/loss of income. Priority interventions under this framework are those supporting social assistance and welfare services, including child protection and micro- and area-based schemes for poverty and vulnerability rediction; social insurance programs to cushion risks associated with unemployment, ill-health, disability, work-related injury and old age; and labor market policies and programs designed to generate employment, improve working conditions.
+The 2001 *[Social Protection Strategy](http://www.adb.org/documents/social-protection-strategy)* (SPS) is another such development policy framework.  The SPS establishes the meaning of 'social protection' within ADB operations as a set of policies and programs designed to reduce poverty and vulnerability by promoting efficient labor markets, diminishing people's exposure to risks, and enhancing their capacity to protect themselves against hazards and interruption/loss of income. Priority interventions under this framework are those supporting social assistance and welfare services, including child protection and micro- and area-based schemes for poverty and vulnerability reduction; social insurance programs to cushion risks associated with unemployment, ill-health, disability, work-related injury and old age; and labor market policies and programs designed to generate employment, improve working conditions.
 
 
 **Current Development Policy Frameworks (*selected*):**
@@ -361,7 +369,7 @@ The 2001 *[Social Protection Strategy](http://www.adb.org/documents/social-prote
 * *[Poverty Reduction Strategy, 2004](http://www.adb.org/sites/default/files/institutional-document/31483/omc01-14jul04.pdf)*
     - *[Operations Manual Section F3/OP](http://www.adb.org/Documents/Manuals/Operations/OMF03_13may04.pdf)* (13 May 2004)
     - *[Operations Manual Section C1/BP Poverty Reduction](http://www.adb.org/documents/manuals/operations/OMC01_14jul04.pdf)* (14 July 2004)
-    - [2004 typset summary overview | PDF](http://www.adb.org/sites/default/files/institutional-document/32122/prs-2004.pdf)
+    - [2004 typeset summary overview | PDF](http://www.adb.org/sites/default/files/institutional-document/32122/prs-2004.pdf)
 -->
 
 * [ADB Results Framework](http://www.adb.org/site/development-effectiveness/adb-results-framework) (2008)
@@ -375,7 +383,7 @@ The 2001 *[Social Protection Strategy](http://www.adb.org/documents/social-prote
 * *[Policy on Gender and Development, 2010]()*
     - *[2010 Operations Manual Section C2/BP & C2/OP](http://www.adb.org/sites/default/files/institutional-document/31483/om-c2.pdf)*
     - *[]()* ()
-    - [2003 typset version of the 1998 policy | PDF](http://www.adb.org/sites/default/files/institutional-document/32035/gender-policy.pdf)  | [NOTES]()
+    - [2003 typeset version of the 1998 policy | PDF](http://www.adb.org/sites/default/files/institutional-document/32035/gender-policy.pdf)  | [NOTES]()
     - [Implementation Review of the Policy on Gender and Development](http://www.adb.org/documents/implementation-review-policy-gender-and-development) (Nov 2006)
     - [Gender and Development Plan of Action Annual Implementation Progress Reports](http://www.adb.org/documents/series/gender-and-development-plan-action-annual-implementation-progress-reports) (Nov 2006)
     - [Interim Progress Report on the Policy on Gender and Development](http://www.adb.org/documents/interim-progress-report-policy-gender-and-development) (2002)
@@ -396,7 +404,7 @@ The 2001 *[Social Protection Strategy](http://www.adb.org/documents/social-prote
 * 2008: [Review of the Independence and Effectiveness of the Operations Evaluation Department]()
 * 2003: [Combating Money Laundering and the Financing of Terrorism]()
 
-* *[Public Communications Policy](http://www.adb.org/Documents/Policies/PCP/PCP-R-Paper.pdf)* (March 2005) [NOTES]( "NOTES: ADB 2005 Public Communications Policy")
+* *[Public Communications Policy](http://www.adb.org/Documents/Policies/PCP/PCP-R-Paper.pdf)* (March 2005) [NOTES](# "NOTES: ADB 2005 Public Communications Policy")
 
 * *[Implementation Review: Second Governance and Anticorruption Action Plan (GACAP II)]()* (December 2013)
 
@@ -442,7 +450,7 @@ Rapid Environment Assessment checklists for many different sectors are available
 <a name="world-bank"></a>
 ## World Bank
 
-References to 'the World Bank' are made as if it were a single international financial institution that provides loans to developing countries for capital programs.  Such references  usually decribe the works and practices of the International Bank for Reconstruction and Development (IBRD). The World Bank Group is actaully a greater body consisting of:
+References to 'the World Bank' are made as if it were a single international financial institution that provides loans to developing countries for capital programs.  Such references usually describe the works and practices of the International Bank for Reconstruction and Development (IBRD). The World Bank Group is actually a greater body consisting of:
 
 1. the International Bank for Reconstruction and Development (IBRD), established in 1945, which provides debt financing on the basis of sovereign guarantees.
 1. the International Finance Corporation (IFC), established in 1956, which provides various forms of financing without sovereign guarantees, primarily to the private sector;
@@ -650,7 +658,7 @@ A number of World Bank operational policies deal specifically with social develo
 * [Participation Sourcebook (1996)](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1996/02/01/000009265_3961214175537/Rendered/PDF/multi_page.pdf)
 
 
-* [Involuntary Resettlement Sourcebook: Planning and Implemention in Development Projects](http://publications.worldbank.org/ecommerce/catalog/product?item_id=2444882)
+* [Involuntary Resettlement Sourcebook: Planning and Implementation in Development Projects](http://publications.worldbank.org/ecommerce/catalog/product?item_id=2444882)
 * [Environmental Assessment Sourcebook and updates](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTSAFEPOL/0,,contentMDK:20509076~hlPK:1287595~menuPK:1286567~pagePK:64168445~piPK:64168309~theSitePK:584435,00.html)
 * [Environmental, Health and Safety Guidelines, April 2007](http://www1.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/IFC+Sustainability/Sustainability+Framework/Environmental,+Health,+and+Safety+Guidelines/)
 * [Getting to Green - A Sourcebook of Pollution Management Policy Tools for Growth and Competitiveness, April 2012](http://web.worldbank.org/WBSITE/DELETEDSITESBACKUP/0,,contentMDK:22856237~pagePK:210058~piPK:210062~theSitePK:244381,00.html)
@@ -741,7 +749,7 @@ Any modifications to an operational policy that affect its nature, objectives, c
    - [Disaster Risk Management Policy](http://www.iadb.org/document.cfm?id=360026)
        - [Disaster Risk Management Policy Guidelines](http://www.iadb.org/document.cfm?id=35597355) (approved 2008)
    - [Operational Policy on Indigenous Peoples](http://www.iadb.org/document.cfm?id=865801)
-       - [Operating Guidelines for the Indegenous Peoples Policy (IPP)](http://www.iadb.org/document.cfm?id=35598894) (approved 2006)
+       - [Operating Guidelines for the Indigenous Peoples Policy (IPP)](http://www.iadb.org/document.cfm?id=35598894) (approved 2006)
    - [Involuntary Resettlement Policy](http://www.iadb.org/document.cfm?id=822598)
        - [Involuntary Resettlement in IDB Projects: Principles and Guidelines](http://www.iadb.org/document.cfm?id=362003) (approved 1999)
    - [Access to Information Policy](http://www.iadb.org/en/about-us/information-disclosure-policy,6110.html) (approved May 2010;  effective on January 1, 2011)

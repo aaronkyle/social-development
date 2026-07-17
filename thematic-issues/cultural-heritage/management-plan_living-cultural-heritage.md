@@ -48,7 +48,7 @@ Recommendations on the need for a ‘Tangible Cultural Heritage Assessment’
 
 ## Cultural Impact Assessment
 
-The cultural impact assessment will attempt a systematic description of the likely effects of the the project on ecological, economic, and social aspects of community culture given: 1) the nature and extent of the activities planned by the project, 2) the Project social impact area affected and 3) the number of ICCs/IPs affected.5.
+The cultural impact assessment will attempt a systematic description of the likely effects of the project on ecological, economic, and social aspects of community culture given: 1) the nature and extent of the activities planned by the project, 2) the Project social impact area affected and 3) the number of ICCs/IPs affected.5.
 
 Key Questions the Cultural Impact Assessment will respond to6:
 

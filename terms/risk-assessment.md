@@ -4,7 +4,7 @@ date: 2006-10-02 01:43
 category: terminology
 tags:
 slug: risk-assessment
-summary: : an instrument for estimating the probability of harm.
+summary: an instrument for estimating the probability of harm.
 status: draft
 ---
 

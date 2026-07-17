@@ -1,14 +1,19 @@
+---
 title: Social Policy at the EBRD
 date: 2009-05-05 01:49
 category: context
 tags: land tenure
 slug: social-policy-ebrd
 status: draft
+---
 
 <!-- summary: -->
-## European Bank for Reconstruction and Development
+# European Bank for Reconstruction and Development
 
 
+<div class="warning" label="Note">This is discussion remains fragmented--mostly reflecting sources for Internet that I haven't yet synthesized. I currently have no schedule for updating. Retaining for archival purposes.</div>
+
+<!--
 http://www.ebrd.com/who-we-are/our-values/environmental-and-social-sustainability.html
 
 
@@ -64,17 +69,14 @@ Our key internal issues include:
 1. CO2 footprint of air and rail travel
 
 
-----
+---->
 
-
-
-
-### Policy
-
+## Policy
+<br />
 
 The EBRD is committed to promoting “environmentally sound and sustainable development” in the full range of its investment and technical cooperation activities. The Bank believes that environmental and social sustainability is a fundamental aspect of achieving outcomes consistent with its transition mandate and recognises that projects that foster environmental and social sustainability rank among the highest priorities of its activities.
 
-The EBRD's latest Enviromental and Social Policy outlines how the Bank will address the environmental and social impacts of its projects by:
+The EBRD's latest Environmental and Social Policy outlines how the Bank will address the environmental and social impacts of its projects by:
 
 * Defining the respective roles and responsibilities of both EBRD and its clients in designing, implementing and operating projects;
 * Setting a strategic goal to promote projects with high environmental and social benefits; and
@@ -82,12 +84,12 @@ The EBRD's latest Enviromental and Social Policy outlines how the Bank will addr
 
 Along with the Bank's Public Information Policy and Project Complaint Mechanism, the ESP defines the Bank’s commitment to the principles of environmentally sound and sustainable development and good corporate citizenship.
 
-The Environmental and Social Policy is implemented by our dedicated Environment & Sustainability Department.
+The Environmental and Social Policy is implemented by its Environment & Sustainability Department.
 
 
 ----
 
-http://www.ebrd.com/who-we-are/our-values/environmental-and-social-policy/performance-requirements.html%20
+[**Performance Requirements**](http://www.ebrd.com/who-we-are/our-values/environmental-and-social-policy/performance-requirements.html%20)
 
 EBRD-financed projects are expected to be designed and operated in compliance with good international practices relating to sustainable development. To help our clients and their projects achieve this, we have defined ten performance requirements covering the key areas of environmental and social issues and impacts.
 
@@ -156,7 +158,6 @@ EBRD policy makes a few notable structural changes and innovations.
 -->
 
 
-### Implementation Resources
+## Implementation Resources
 
 *[EBRD Guidance Note on Indigenous Peoples (03 Dec 2010)](http://www.ebrd.com/downloads/research/guides/indp.pdf) [(alt link)](http://www.ebrd.com/pages/research/publications/guides/indp.shtml)
-

@@ -4,7 +4,7 @@ date: 2006-02-08 11:33
 category: terminology
 tags: 
 slug: participant-observation
-summary: : 
+summary: "" 
 status: draft
 ---
 
@@ -36,10 +36,9 @@ Payne, Geoffrey; Majale, Michael (eds). 2004. ''The Urban Housing Manual: Making
 *Bruyn, Severyn. 1966. ''The human perspective in sociology: The methodology of participant observation.'' Englewood Cliffs, NJ: Prentice-Hall. 
 *Denzin, Norman K.; Lincoln, Yvonna S. (eds.) 2005. ''The SAGE Handbook of Qualitative Research.'' Newbury Park: Sage Publications. pp. 377-392. 
 *Haralambos, M.; Holborn, M. 2004. ''Sociology: Themes and Perspectives'' (6th ed.) London: Collins Educational. 
-*Johnson, A.; Johnson, O. R. 1990. "From Quality to Quantity: On the Measurement Potential of Ethnographic Fieldnotes," in: Sanjek, R. (ed.) ''Fieldnotes: The Makings of Anthropology.'' Ithica, NY: Cornell University Press. pp. 161-186.
+*Johnson, A.; Johnson, O. R. 1990. "From Quality to Quantity: On the Measurement Potential of Ethnographic Fieldnotes," in: Sanjek, R. (ed.) ''Fieldnotes: The Makings of Anthropology.'' Ithaca, NY: Cornell University Press. pp. 161-186.
 *Levine, H. G.; Gallimore, R.; Weisner, T. S.; Turner, J. L. 1980. "Teaching Participant-Observation Research Methods: A Skills-Building Approach," ''Anthropology and Education Quarterly,'' 11(1), pp. 38-54. 
 
 
 *NCSU PA765 Participant Observation, NC State University, University 
 http://www2.chass.ncsu.edu/garson/pa765/particip.htm Spradley, J. (1997). Participant observation . Holt Rinehart & Winston. Zelditch, M. (1962). Some methodological problems of field studies. American Journal of Sociology, Vol. 67, No. 5: 566-576.&nbsp;
-

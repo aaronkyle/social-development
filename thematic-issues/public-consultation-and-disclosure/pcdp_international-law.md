@@ -1,4 +1,4 @@
-## International Law
+# International Law
 
 <!--
 Indonesia has ratified or is party to certain international conventions or agreements that define requirements or set standards for disclosure and consultation.
@@ -38,7 +38,7 @@ Convention 138 contains the following provisions for public consultation and dis
 
 * Article 2 (para. 4) stipulates that state parties whose economy and educational facilities are insufficiently developed may initially specify a minimum working age of 14 years only after consultation with the organizations of employers and workers concerned.
 * Article 3 (paras. 1-3) requires regulating authorities to consult with concerned employer and worker organizations when determining types of employment likely to jeopardize the health, safety or morals of young persons. These types of employment require a minimum working age of 18 years for admission to any type of employment or work which by its nature or the circumstances in which it is carried out is likely to jeopardize the health, safety or morals of young persons. 
-* Article 5 requires state parties whose economy and administrative facilities are insufficiently developed to publically consult with concerned employer and worker organizations should they wish to initially limit the scope of application of this convention.
+* Article 5 requires state parties whose economy and administrative facilities are insufficiently developed to publicly consult with concerned employer and worker organizations should they wish to initially limit the scope of application of this convention.
 * Article 8 stipulates that only after consultation with the organizations of employers and workers concerned may a competent authority, by permits granted in individual cases, allow exceptions to the prohibition of employment or work outlined within this convention for such purposes as participation in artistic performances. 
 * Article 9 (para. 3) requires state parties to enact national laws or regulations that require employers to keep and make available a register of all employees under 18 years of age that contains their names and ages.
 
@@ -198,7 +198,7 @@ Reliability
  
 Organizations should gather, record, compile, analyze and disclose information and processes used in the preparation reporting documents in a way that they can be subject to examination and that establishes the quality and materiality of the information.
 
-The G4 Sustainability Reporting Guidelines provides for different categories of information that participating organizations must disclose—defined both in terms of ‘General Standard Disclosures’ and ‘Specific Standard Disclosures’. The guidelines also distinguish between two tiers of compliance: ‘Core’ and ‘Comprehensive’, the latter tier requiting additional reporting elements, including information on the organization’s strategy for operational management, governance, as well as a statement of ethics.
+The G4 Sustainability Reporting Guidelines provides for different categories of information that participating organizations must disclose—defined both in terms of ‘General Standard Disclosures’ and ‘Specific Standard Disclosures’. The guidelines also distinguish between two tiers of compliance: ‘Core’ and ‘Comprehensive’, the latter tier requiring additional reporting elements, including information on the organization’s strategy for operational management, governance, as well as a statement of ethics.
 
 ### Extractives Industries Transparency Initiative (EITI) 
 
@@ -231,4 +231,3 @@ September 2013]"
 
 [^ICERD]: "International Convention on the Elimination of All Forms of Racial
 Discrimination (ICERD)"
-

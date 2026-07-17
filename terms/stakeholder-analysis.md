@@ -1,10 +1,10 @@
 ---
-title:stakeholder analysis
+title: stakeholder analysis
 date: 2005-12-06
 category: terminology
 tags: development, stakeholder analysis
 slug: stakeholder-analysis
-summary: : a technique to identify and assess the importance and interests of key people, groups, or institutions usually in relation to specific policies, programmes or communities
+summary: a technique to identify and assess the importance and interests of key people, groups, or institutions usually in relation to specific policies, programmes or communities
 ---
 
 
@@ -20,12 +20,12 @@ published: true
 comments: true
 ---
 --->
-**Stakeholder analysis** is a technique to identify and assess the importance and interests of key people, groups, or institutions usually in relation to specific policies, programmes or communities. Through stakeholder engagement and empirical research, analysis identify the range of people and social groups who might be affected by a project or policy&mdash;either negatively or positively. It is helpful when investigating and analysing the interests, roles and responsibilities of different stakeholders relative to a particular policy or investment decision. Stakeholder analysis is often undertaken early on during project planning to clarify key questions and to acertain public and community interests.
+**Stakeholder analysis** is a technique to identify and assess the importance and interests of key people, groups, or institutions usually in relation to specific policies, programmes or communities. Through stakeholder engagement and empirical research, analysis identifies the range of people and social groups who might be affected by a project or policy&mdash;either negatively or positively. It is helpful when investigating and analysing the interests, roles and responsibilities of different stakeholders relative to a particular policy or investment decision. Stakeholder analysis is often undertaken early on during project planning to clarify key questions and to ascertain public and community interests.
 
 <!--
 A stakeholder analysis can be done using a variety of methods including reviews of documentation, interviews, participatory research tools and focus groups.
 
-An example procss follows:
+An example process follows:
 
 1. Undertake a desk-top review of all relevant documentation.
 1. List all the parties who you believe have a stake in the issues to be addressed at different levels and by type (from households through to national or even international institutions). List their believed roles and responsibilities. When doing a regulatory audit this should include the designers and implementers of policies, the groups impacted by policies and champions of change in those policies.
@@ -47,9 +47,9 @@ Examples of questions to be asked when undertaking an institutional or stakehold
 
 -->
 
-Stakeholder analysis is also helpful in understanding and predicting site-level risks and opportunities for communities when crafting an optimal portfolio of community investment.[FN^1](http://commdev.org/userfiles/SRMining%20Veronica%20Nyhan%20Jones,%20Jelena%20Lukic,%20Arjun%20Bhalla,%20Dafna%20Tapiero%20-%20July%2015.pdf) It draws on the company’s existing analysis of project-induced risks and benefits-sharing opportunities. Stakeholder analysis allows project managers to nuance their engagement with specific stakeholder groups. For example, when investigation options for urban housing, stakeholder analysis may involve differenating between categories of land tenure and home ownership, such as owners, renters and the homeless. Other potential stakeholders for an urban development initiative are regulators and officials, housing developers and suppliers, professionals such as architects and lawyers, local and national politicians, finance and credit institutions and representatives of NGOs and CBOs.
+Stakeholder analysis is also helpful in understanding and predicting site-level risks and opportunities for communities when crafting an optimal portfolio of community investment.[FN^1](http://commdev.org/userfiles/SRMining%20Veronica%20Nyhan%20Jones,%20Jelena%20Lukic,%20Arjun%20Bhalla,%20Dafna%20Tapiero%20-%20July%2015.pdf) It draws on the company’s existing analysis of project-induced risks and benefits-sharing opportunities. Stakeholder analysis allows project managers to nuance their engagement with specific stakeholder groups. For example, when investigating options for urban housing, stakeholder analysis may involve differentiating between categories of land tenure and home ownership, such as owners, renters and the homeless. Other potential stakeholders for an urban development initiative are regulators and officials, housing developers and suppliers, professionals such as architects and lawyers, local and national politicians, finance and credit institutions and representatives of NGOs and CBOs.
 
-Project managers can perform on-going analysis of stakeholder groups to identify any that may not be unintentionally excluded from benefits-sharing initiatives or to identify potential conflicts of interest for a proposed investment scheme. When managers are seeking to implement change or to initiate an activity, stakeholder analysis can help to identify ‘champions of change’, groups who might resist change, and even useful commonalities of interest to build on when negotiating and selecting social development inititatives.
+Project managers can perform on-going analysis of stakeholder groups to identify any that may be unintentionally excluded from benefits-sharing initiatives or to identify potential conflicts of interest for a proposed investment scheme. When managers are seeking to implement change or to initiate an activity, stakeholder analysis can help to identify ‘champions of change’, groups who might resist change, and even useful commonalities of interest to build on when negotiating and selecting social development initiatives.
 
 <!--
 

@@ -4,7 +4,7 @@ date: 2005-10-13
 category: terminology
 tags: actors
 slug: stakeholders
-summary: : all individuals and/or groups who can reasonably be expected to be affected by, or can affect project operations
+summary: all individuals and/or groups who can reasonably be expected to be affected by, or can affect project operations
 ---
 
 <!--

@@ -1,5 +1,5 @@
-
 ## Voluntary International Social Policy ‘Good Practice’ Frameworks
+<br/>
 
 Following the recommendations of the International Finance Corporation10 the Project is committed to achieving internationally-recognized “good practice” disclosure frameworks for sustainability reporting. Toward this end, the Project will issue periodic ‘Sustainability Briefings’ that report on project performance relative to key sustainability indicators, as culled from a variety of recognized international standards: the Equator Principles, the UN Global Compact, ISO 26000, the IPIECA Oil and Gas Industry Guidance on Voluntary Sustainability Reporting, the Global Reporting Initiative (GRI) 11 and the Extractive Industries Transparency Initiative (EITI).12 
 

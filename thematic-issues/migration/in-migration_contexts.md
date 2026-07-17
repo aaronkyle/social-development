@@ -1,8 +1,6 @@
+# Notes on the Vulnerabilities of Migrant Populations
+
 2011-Dec-09
-
-
-## Notes on the Vulnerabilities of Migrant Populations
-
 
 ### An Overview of the* Vulnerabilities of Migrant Populations
 

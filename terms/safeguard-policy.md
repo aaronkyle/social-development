@@ -3,7 +3,7 @@ title: safeguard policy
 date: 2005-12-06 08:08:19
 category: terminology
 slug: safeguard-policy
-summary: : policies intended to prevent and mitigate undue harm to people and their environment in the development process
+summary: policies intended to prevent and mitigate undue harm to people and their environment in the development process
 ---
 
 <!--
@@ -51,7 +51,7 @@ The ten safeguards are:
 *	Cultural property - requires the Bank to avoid damage and assist in the preservation of cultural property.
 
 
-The [http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/pol_PerformanceStandards2006_full/$FILE/IFC+Performance+Standards.pdf Performance Standards] are grouped into eight sections, each of which is coupled with [[IFC Guidance Notes to Performance Standards | Guidance Notes]] to further clarify client roles and responsibilities under the standards. The eight [http://www.ifc.org/ifcext/sustainability.nsf/Content/PerformanceStandards Performance Standards](PS) are:
+The [Performance Standards](http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/pol_PerformanceStandards2006_full/$FILE/IFC+Performance+Standards.pdf) are grouped into eight sections, each of which is coupled with [[IFC Guidance Notes to Performance Standards | Guidance Notes]] to further clarify client roles and responsibilities under the standards. The eight [Performance Standards](http://www.ifc.org/ifcext/sustainability.nsf/Content/PerformanceStandards) are:
 
 * PS 1:	Social and Environmental Assessment and Management System
 * PS 2:	Labor and Working Conditions
@@ -79,7 +79,7 @@ IFC clients must address project-related grievances or complaints from affected 
 -->
 
 <!--
-Most MDBs and many other bilateral aid organizationsm IFIs, and some global civil society organizations maintan social safeguard policies as the foundations of the sustainablity frameworks.
+Most MDBs and many other bilateral aid organizations, IFIs, and some global civil society organizations maintain social safeguard policies as the foundations of sustainability frameworks.
 
 ## Safeguards in the public sector
 
@@ -88,12 +88,11 @@ Most MDBs and many other bilateral aid organizationsm IFIs, and some global civi
 
 http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTSAFEPOL/0,,menuPK:584441~pagePK:64168427~piPK:64168435~theSitePK:584435,00.html
 
-The World Bank regards environmental and social safeguard policies as a cornerstone of its sustainable poverty reduction framwork. The objective of safeguard policies is to prevent and mitigate undue harm to people and their environment in the development process. These policies provide guidelines for bank staff and for clients in the identification, preparation, and implementation of project operations.
+The World Bank regards environmental and social safeguard policies as a cornerstone of its sustainable poverty reduction framework. The objective of safeguard policies is to prevent and mitigate undue harm to people and their environment in the development process. These policies provide guidelines for bank staff and for clients in the identification, preparation, and implementation of project operations.
 
 The Work Bank safeguard policies emphasise that adverse impacts are avoided, or where not feasible, minimized or mitigated (Do No Harm). They also call for the participation of stakeholders in project design and play an important role in building ownership among affected peoples. The World Bank claims that effectiveness and development impact of client projects and programs has substantially increased as a result of attention to these policies. [1]
 
-The current safeguard policies of international financial institutions can be found [here](http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/LACEXT/EXTLACREGTOPSOCDEV/0,,contentMDK:20547266~menuPK:1308602~pagePK:34004173~piPK:34003707~theSitePK:847655,00.html
-).
+The current safeguard policies of international financial institutions can be found [here](http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/LACEXT/EXTLACREGTOPSOCDEV/0,,contentMDK:20547266~menuPK:1308602~pagePK:34004173~piPK:34003707~theSitePK:847655,00.html).
 
 
 #### Indigenous Peoples
@@ -105,7 +104,7 @@ Indigenous Peoples safeguards emphasise that borrowers and Bank staff the need t
 
 #### Involuntary Resettlement
 
-The implementation of development projects that require land may cause involuntary displacement of population who live in affected areas. The involuntary displacement may cause severe long-term impacts unless appropriate measures are carefully planned and carried out. Therefore, since 1980 the Bank has developed policies and guidelines for resettlement of project's affected population. The Bank's Resettlement Policy has been modified several times according to the experiences in its application and to the new situations that have emerged. Currently, the olicy in force is the Operational Policy on Involuntary Resettlement OP 4.12. The main objective of this policy isto assist the efforts of the displaced persons to improve their livelihoods and standards, or at least to restore them to pre-displacement levels.
+The implementation of development projects that require land may cause involuntary displacement of populations who live in affected areas. The involuntary displacement may cause severe long-term impacts unless appropriate measures are carefully planned and carried out. Therefore, since 1980 the Bank has developed policies and guidelines for resettlement of project-affected populations. The Bank's Resettlement Policy has been modified several times according to the experiences in its application and to the new situations that have emerged. Currently, the policy in force is the Operational Policy on Involuntary Resettlement OP 4.12. The main objective of this policy is to assist the efforts of displaced persons to improve their livelihoods and standards, or at least to restore them to pre-displacement levels.
 
 Generally, the projects that may cause involuntary displacement are: infrastructure projects (for instance: dams, roads, water supply and sanitation), management of natural resources, slum upgrading and risk prevention (people who live in areas at prune risk). In the first two types of projects the displacement in a precondition for the implementation of the project whereas the last two kinds of projects the resettlement is a vehicle to improve the living conditions of the population.
 
@@ -138,13 +137,13 @@ IDB establishes three main areas of social safeguards: 1) Indigenous Peoples Pol
 
 The IDB operational guidelines (2006) and policy (2007) for Indigenous Peoples.
 
-The Operational Policy on Indigenous Peoples requires that the IDB safeguard indigenous peoples' rights are considered in all aspets of Bank operations and lending portfolio.
+The Operational Policy on Indigenous Peoples requires that the IDB safeguard indigenous peoples' rights in all aspects of Bank operations and its lending portfolio.
 
 Specific goals are to foster development appropriate to the economy and governance of indigenous peoples, to safeguard territorial and cultural integrity, and to preserve a harmonious relationship between people and the natural environment. The Operating Guidelines for the Indigenous Peoples Policy (IPP) was approved in 2006.
 
 
 
-The IDB begain the the process to update its existing Women in Development Policy in 2009.
+The IDB began the process to update its existing Women in Development Policy in 2009.
 
 ...Operational policy on Gender, ??once approved??, will make the IDB the first multilateral development institution with safeguards for gender equality. http://www.iadb.org/en/insitutional-reforms/better-environmental-and-social-safeguards,1830.html
 
@@ -227,7 +226,7 @@ date:
 category: terminology
 tags:
 slug: safeguard-policy
-summary: :
+summary:
 status: draft
 
 Safeguard Policies
@@ -257,7 +256,7 @@ The ten safeguards are:
 *	Cultural property - requires the Bank to avoid damage and assist in the preservation of cultural property.
 
 
-The [http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/pol_PerformanceStandards2006_full/$FILE/IFC+Performance+Standards.pdf Performance Standards] are grouped into eight sections, each of which is coupled with [[IFC Guidance Notes to Performance Standards | Guidance Notes]] to further clarify client roles and responsibilities under the standards. The eight [http://www.ifc.org/ifcext/sustainability.nsf/Content/PerformanceStandards Performance Standards](PS) are:
+The [Performance Standards](http://www.ifc.org/ifcext/enviro.nsf/AttachmentsByTitle/pol_PerformanceStandards2006_full/$FILE/IFC+Performance+Standards.pdf) are grouped into eight sections, each of which is coupled with [[IFC Guidance Notes to Performance Standards | Guidance Notes]] to further clarify client roles and responsibilities under the standards. The eight [Performance Standards](http://www.ifc.org/ifcext/sustainability.nsf/Content/PerformanceStandards) are:
 
 * PS 1:	Social and Environmental Assessment and Management System
 * PS 2:	Labor and Working Conditions

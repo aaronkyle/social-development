@@ -4,7 +4,7 @@ date: 2005-11-16 15:59
 category: terminology
 tags:
 slug: human-rights
-summary: :
+summary:
 status: draft
 ---
 
@@ -43,7 +43,7 @@ Refers to programs designed to promote and protect fundamental human rights; whe
 International Human Rights Law
 http://www.ohchr.org/EN/ProfessionalInterest/Pages/InternationalLaw.aspx
 
-Sphere at the Palais des Nations in GenevaThe international human rights movement was strengthened when the United Nations General Assembly adopted of the Universal Declaration of Human Rights (UDHR) on 10 December 1948. Drafted as ‘a common standard of achievement for all peoples and nations', the Declaration for the first time in human history spell out basic civil, political, economic, social and cultural rights that all human beings should enjoy. It has over time been widely accepted as the fundamental norms of human rights that everyone should respect and protect. The UDHR, together with the International Covenant on Civil and Political Rights and its two Optional Protocols, and the International Covenant on Economic, Social and Cultural Rights, form the so - called International Bill of Human Rights.
+Sphere at the Palais des Nations in Geneva. The international human rights movement was strengthened when the United Nations General Assembly adopted the Universal Declaration of Human Rights (UDHR) on 10 December 1948. Drafted as ‘a common standard of achievement for all peoples and nations', the Declaration for the first time in human history spelled out basic civil, political, economic, social and cultural rights that all human beings should enjoy. It has over time been widely accepted as the fundamental norms of human rights that everyone should respect and protect. The UDHR, together with the International Covenant on Civil and Political Rights and its two Optional Protocols, and the International Covenant on Economic, Social and Cultural Rights, form the so-called International Bill of Human Rights.
 
 A series of international human rights treaties and other instruments adopted since 1945 have conferred legal form on inherent human rights and developed the body of international human rights. Other instruments have been adopted at the regional level reflecting the particular human rights concerns of the region and providing for specific mechanisms of protection. Most States have also adopted constitutions and other laws which formally protect basic human rights. While international treaties and customary law form the backbone of international human rights law other instruments, such as declarations, guidelines and principles adopted at the international level contribute to its understanding, implementation and development. Respect for human rights requires the establishment of the rule of law at the national and international levels.
 
@@ -56,4 +56,3 @@ Through ratification of international human rights treaties, Governments underta
 
 <references/>
 [[Category:Terms]]
-

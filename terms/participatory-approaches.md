@@ -4,7 +4,7 @@ date: 2006-01-25 22:56
 category: terminology
 tags: methodology, participation
 slug: participatory-approaches
-summary: :
+summary: ""
 status: draft
 ---
 

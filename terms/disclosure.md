@@ -4,10 +4,10 @@ date: 2005-10-23 21:20
 category: terminology
 tags: disclosure, ADB, IFC, IFC PS1, World Bank
 slug: disclosure
-summary: : the act of disseminating information.
+summary: the act of disseminating information.
 ---
 
-The term *disclosure* refers to the act of disseminating information. Disclosure may occur through various means, including (but not limited to) dissemination of written/printed materials, audio-visual media, and person-to-person interactions.
+The term **disclosure** refers to the act of disseminating information. Disclosure may occur through various means, including (but not limited to) dissemination of written/printed materials, audio-visual media, and person-to-person interactions.
 
 Disclosure of relevant information is required by the policy frameworks of most [development financial institutions]().
 
@@ -57,7 +57,7 @@ understand the risks, impacts and opportunities of the project. The client will 
 
 <!-- Add a note here on the World Bank's Public Communication's Policy. -->
 
-The World Bank's 2016 *[Environmental and Social Framework](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTSAFEPOL/0,,menuPK:584441~pagePK:64168427~piPK:64168435~theSitePK:584435,00.html)* establishes a set of mandatory requirements applicable to the Bank's commitments to the [Bank's activities]( "World Bank Environmental and Social Policy for Investment Project Financing"), as well as the those of its [clients]( "Environmental and Social Standards").
+The World Bank's 2016 *[Environmental and Social Framework](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTSAFEPOL/0,,menuPK:584441~pagePK:64168427~piPK:64168435~theSitePK:584435,00.html)* establishes a set of mandatory requirements applicable to the Bank's commitments to its activities, as well as those of its clients.
 
 Although, information disclosure for client projects is mandated throughout the Environmental and Social Standards, ESS 10 is explicitly focused on requirements for disclosure of information to project-affected people.  The objectives of ESS 10 are:
 

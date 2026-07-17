@@ -1,4 +1,4 @@
-## Introduction to the PCDP
+# Introduction to the PCDP
 
 Projects operators seeking finance from international financial institutions must commit to proactive and ongoing communication with all agencies, organisations, and individuals potentially affected by the project. To formalise this commitment, the public consultation and disclosure plan (PCDP) sets forth processes of stakeholder consultation to support project design and to assist with sustainable and socially-responsive development throughout project construction and operations.  The goal of the PCDP is to ensure that adequate and timely project information is provided to stakeholders and that sufficient opportunity is provided for concerns and opinions to be voiced. [^1]
 

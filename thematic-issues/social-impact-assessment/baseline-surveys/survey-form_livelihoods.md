@@ -1,6 +1,25 @@
-<table>																																												
+  <style>
+    .table-container {
+      max-width: 100%;   /* Adjust as needed */
+      max-height: 800px; /* Adjust height as needed */
+      overflow: auto;    /* Enables scrolling */
+      /*border: 0.2px solid #ccc; /* Optional: adds a border around the container */
+    }
+    table {
+      width: 100%; /* Makes the table take up full width */
+      /*border-collapse: collapse; /* Optional: collapses the table borders */
+    }
+    th, td {
+      /*border: 0.1px solid #ddd;*/
+      /*padding: 8px;*/
+      /*text-align: left;*/
+    }
+  </style>
+
+<div class="table-container">  
+<table>           
 <tr><th>		</th><th>	QUESTION	</th><th>		</th><th>	PROMPT / OPTIONS	</th><th>		</th><th>	NOTES	</th><th>	Thematic Index		</th><th>		</th><th>		</th><th>		</th><th>		</th><th>	category	</th><th>	target description	</th><th>	indicator	</th></tr>
-<tr><td>	##	</td><td>	LIVLIHOODS / SOCIO-ECONOMIC CONDITIONS	</td><td>	KONDISI SOSIAL EKONOMI	</td><td>		</td><td>		</td><td>		</td><td>			</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td></tr>
+<tr><td>	##	</td><td>	LIVELIHOODS / SOCIO-ECONOMIC CONDITIONS	</td><td>	KONDISI SOSIAL EKONOMI	</td><td>		</td><td>		</td><td>		</td><td>			</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td></tr>
 <tr><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>			</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td></tr>
 <tr><td>		</td><td>	If the formal work, where the father / mother work?	</td><td>	Jika bekerja formal, dimana bapak/ibu bekerja?	</td><td>		</td><td>		</td><td>		</td><td>			</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td></tr>
 <tr><td>		</td><td>	Other Skills / Trade	</td><td>	Keahlian lain/ Perdagangan	</td><td>		</td><td>		</td><td>		</td><td>			</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td></tr>
@@ -434,25 +453,25 @@
 <tr><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>			</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td></tr>
 <tr><td>	##	</td><td>	ACCESS TO SOCIAL / ECONOMIC SUPPORT SEVICES	</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>		</td><td>		</td></tr>
 <tr><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>			</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td></tr>
-<tr><td>	1.	</td><td>	Have you ever got assistance/aid from the government in the last year?	</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livlihood support services	</td><td>	availability of food subsidies	</td></tr>
+<tr><td>	1.	</td><td>	Have you ever got assistance/aid from the government in the last year?	</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livelihood support services	</td><td>	availability of food subsidies	</td></tr>
 <tr><td>	*	</td><td>	yes	</td><td>		</td><td>	no / none	</td><td>		</td><td>		</td><td>			</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td></tr>
-<tr><td>	*	</td><td>	no	</td><td>		</td><td>	type of assistance	</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livlihood support services	</td><td>	availability of food subsidies	</td></tr>
-<tr><td>	*	</td><td>		</td><td>		</td><td>	rice for poor (RASKIN)	</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livlihood support services	</td><td>	availability of food subsidies	</td></tr>
-<tr><td>	*	</td><td>		</td><td>		</td><td>	BLT	</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livlihood support services	</td><td>	availability of food subsidies	</td></tr>
-<tr><td>	*	</td><td>		</td><td>		</td><td>	BOS	</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livlihood support services	</td><td>	availability of food subsidies	</td></tr>
-<tr><td>	*	</td><td>		</td><td>		</td><td>	PNPM	</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livlihood support services	</td><td>	availability of food subsidies	</td></tr>
-<tr><td>	*	</td><td>		</td><td>		</td><td>	lainnya_________	</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livlihood support services	</td><td>	availability of food subsidies	</td></tr>
-<tr><td>	*	</td><td>		</td><td>		</td><td>	other	</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livlihood support services	</td><td>	availability of food subsidies	</td></tr>
-<tr><td>	*	</td><td>		</td><td>		</td><td>	remark	</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livlihood support services	</td><td>	availability of food subsidies	</td></tr>
+<tr><td>	*	</td><td>	no	</td><td>		</td><td>	type of assistance	</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livelihood support services	</td><td>	availability of food subsidies	</td></tr>
+<tr><td>	*	</td><td>		</td><td>		</td><td>	rice for poor (RASKIN)	</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livelihood support services	</td><td>	availability of food subsidies	</td></tr>
+<tr><td>	*	</td><td>		</td><td>		</td><td>	BLT	</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livelihood support services	</td><td>	availability of food subsidies	</td></tr>
+<tr><td>	*	</td><td>		</td><td>		</td><td>	BOS	</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livelihood support services	</td><td>	availability of food subsidies	</td></tr>
+<tr><td>	*	</td><td>		</td><td>		</td><td>	PNPM	</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livelihood support services	</td><td>	availability of food subsidies	</td></tr>
+<tr><td>	*	</td><td>		</td><td>		</td><td>	lainnya_________	</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livelihood support services	</td><td>	availability of food subsidies	</td></tr>
+<tr><td>	*	</td><td>		</td><td>		</td><td>	other	</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livelihood support services	</td><td>	availability of food subsidies	</td></tr>
+<tr><td>	*	</td><td>		</td><td>		</td><td>	remark	</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livelihood support services	</td><td>	availability of food subsidies	</td></tr>
 <tr><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>			</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td></tr>
-<tr><td>	1.	</td><td>	What is your opinion of that assistance/aid?	</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livlihood support services	</td><td>		</td></tr>
+<tr><td>	1.	</td><td>	What is your opinion of that assistance/aid?	</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livelihood support services	</td><td>		</td></tr>
 <tr><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>			</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td></tr>
-<tr><td>	1.	</td><td>	Have you or your family ever got assistance/aid from NGO in the last year?	</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livlihood support services	</td><td>	assistance	</td></tr>
-<tr><td>	*	</td><td>	Yes	</td><td>		</td><td>	no / none	</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livlihood support services	</td><td>	assistance	</td></tr>
-<tr><td>	*	</td><td>	No	</td><td>		</td><td>	name of institution	</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livlihood support services	</td><td>	assistance	</td></tr>
-<tr><td>	*	</td><td>		</td><td>		</td><td>	remark	</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livlihood support services	</td><td>	assistance	</td></tr>
+<tr><td>	1.	</td><td>	Have you or your family ever got assistance/aid from NGO in the last year?	</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livelihood support services	</td><td>	assistance	</td></tr>
+<tr><td>	*	</td><td>	Yes	</td><td>		</td><td>	no / none	</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livelihood support services	</td><td>	assistance	</td></tr>
+<tr><td>	*	</td><td>	No	</td><td>		</td><td>	name of institution	</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livelihood support services	</td><td>	assistance	</td></tr>
+<tr><td>	*	</td><td>		</td><td>		</td><td>	remark	</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livelihood support services	</td><td>	assistance	</td></tr>
 <tr><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>			</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td></tr>
-<tr><td>	1.	</td><td>	What is your opinion of that assistance/aid?	</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livlihood support services	</td><td>	assistance	</td></tr>
+<tr><td>	1.	</td><td>	What is your opinion of that assistance/aid?	</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	PS1		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	access to services	</td><td>	access to livelihood support services	</td><td>	assistance	</td></tr>
 <tr><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>			</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td></tr>
 <tr><td>	##	</td><td>	PERCEPTION OF THE CURRENT LIVING CONDITION	</td><td>		</td><td>		</td><td>		</td><td>		</td><td>	PS1		</td><td>	PS5	</td><td>	PS6	</td><td>	PS7	</td><td>		</td><td>	vulnerability	</td><td>	perception of living conditions	</td><td>		</td></tr>
 <tr><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>			</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td></tr>
@@ -497,4 +516,5 @@
 <tr><td>		</td><td>	* Do land use practices change by season?	</td><td>	* Apakah praktik penggunaan lahan berubah sesuai musim?	</td><td>		</td><td>		</td><td>		</td><td>			</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td></tr>
 <tr><td>		</td><td>	* Are some areas used for only a short term / periodically?	</td><td>	* Apakah ada sejumlah kawasan yang hanya dimanfaatkan dalam jangka pendek / secara periodik?	</td><td>		</td><td>		</td><td>		</td><td>			</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td></tr>
 <tr><td>		</td><td>	* Is there any specific logic for deciding where / when to change locations? If ‘yes’, please explain.	</td><td>	* Apakah ada cara khusus untuk memutuskan di mana / kapan mereka berpindah lokasi? Jika ‘ya’, harap dijelaskan.	</td><td>		</td><td>		</td><td>		</td><td>			</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td><td>		</td></tr>
-</table>																																												
+</table>           
+</div>

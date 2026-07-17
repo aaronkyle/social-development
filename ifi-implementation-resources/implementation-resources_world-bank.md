@@ -1,25 +1,23 @@
-## World Bank Implementation Resources
+# World Bank Implementation Resources
 
+<p>&nbsp;</p>
 <!--
 ### Project categorization forms
 -->
 
-### Handbooks / Sourcebooks / Toolkits
+## Handbooks / Sourcebooks / Toolkits
 
-* [Handbook on Poverty and Inequality](http://siteresources.worldbank.org/INTPA/Resources/429966-1259774805724/Poverty_Inequality_Handbook_FrontMatter.pdf)
-    - [Poverty Reduction Strategy Papers (PRSP) Sourcebook](http://go.worldbank.org/3I8LYLXO80)
-        - *[printable versions of the sourcebook chapters](http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTPOVERTY/EXTPRS/0,,contentMDK:22404376~pagePK:210058~piPK:210062~theSitePK:384201~isCURL:Y,00.html)
-* [Social Accountability Sourceboook](http://www.worldbank.org/socialaccountability_sourcebook/)
-    - *[printable versions of the sourcebook chapters](http://www.worldbank.org/socialaccountability_sourcebook/backgroundDocs/printversions.html)*
-* [Handbook on Impact Evaluation : Quantitative Methods and Practices](https://openknowledge.worldbank.org/handle/10986/2693)
-    - *[data files](http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTRESEARCH/0,,contentMDK:22335540~pagePK:64214825~piPK:64214943~theSitePK:469382,00.html)*
-* [Participation Sourcebook (1996)](http://documents.worldbank.org/curated/en/1996/02/696745/world-bank-participation-sourcebook) | [PDF](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjtgsvzmPrMAhVGPz4KHZkDDmIQFggdMAA&url=http%3A%2F%2Fwww-wds.worldbank.org%2Fservlet%2FWDSContentServer%2FIW3P%2FIB%2F1996%2F02%2F01%2F000009265_3961214175537%2FRendered%2FPDF%2Fmulti_page.pdf&usg=AFQjCNF1NGVYxRx0gtS1HVFFKiaM_uP02w) | [ALT](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1996/02/01/000009265_3961214175537/Rendered/PDF/multi_page.pdf)
+* [Handbook on Poverty and Inequality](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/488081468157174849/handbook-on-poverty-and-inequality "original URL: http://siteresources.worldbank.org/INTPA/Resources/429966-1259774805724/Poverty_Inequality_Handbook_FrontMatter.pdf")
+    - [Poverty Reduction Strategy Papers (PRSP) Sourcebook](https://web.archive.org/web/20100616071820/http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTPOVERTY/EXTPRS/0,,contentMDK:20175742~pagePK:210058~piPK:210062~theSitePK:384201,00.html "original URL: http://go.worldbank.org/3I8LYLXO80")<!-- - *[printable versions of the sourcebook chapters](http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTPOVERTY/EXTPRS/0,,contentMDK:22404376~pagePK:210058~piPK:210062~theSitePK:384201~isCURL:Y,00.html) -->
+* [Social Accountability Sourcebook](https://web.archive.org/web/20160331010810/http://www.worldbank.org/socialaccountability_sourcebook/ "original URL: http://www.worldbank.org/socialaccountability_sourcebook/")<!--- *[printable versions of the sourcebook chapters](http://www.worldbank.org/socialaccountability_sourcebook/backgroundDocs/printversions.html)*    -->
+* [Handbook on Impact Evaluation : Quantitative Methods and Practices](https://openknowledge.worldbank.org/handle/10986/2693) <!--    - *[data files](http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTRESEARCH/0,,contentMDK:22335540~pagePK:64214825~piPK:64214943~theSitePK:469382,00.html)*    -->
+* [Participation Sourcebook (1996)](https://documents1.worldbank.org/curated/en/289471468741587739/pdf/The-World-Bank-participation-sourcebook.pdf "original URL: http://documents.worldbank.org/curated/en/1996/02/696745/world-bank-participation-sourcebook") <!--| [PDF](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjtgsvzmPrMAhVGPz4KHZkDDmIQFggdMAA&url=http%3A%2F%2Fwww-wds.worldbank.org%2Fservlet%2FWDSContentServer%2FIW3P%2FIB%2F1996%2F02%2F01%2F000009265_3961214175537%2FRendered%2FPDF%2Fmulti_page.pdf&usg=AFQjCNF1NGVYxRx0gtS1HVFFKiaM_uP02w) | [ALT](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1996/02/01/000009265_3961214175537/Rendered/PDF/multi_page.pdf)-->
     - [Reflections from the Participation Sourcebook](https://openknowledge.worldbank.org/handle/10986/11638) | [PDF](https://openknowledge.worldbank.org/bitstream/handle/10986/11638/273850sdn250see0also018201.pdf?sequence=1&isAllowed=y)
-* [Empowerment and Poverty Reduction : A Sourcebook](http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTPOVERTY/EXTEMPOWERMENT/0,,contentMDK:20260036~menuPK:543261~pagePK:148956~piPK:216618~theSitePK:486411,00.html) | [ALT](http://siteresources.worldbank.org/INTEMPOWERMENT/Resources/486312-1095094954594/draft.pdf)
-* [Development Communications Sourcebook: Broadening the Boundaries of Communication](http://siteresources.worldbank.org/EXTDEVCOMMENG/Resources/DevelopmentCommSourcebook.pdf)
+* [Empowerment and Poverty Reduction : A Sourcebook](https://openknowledge.worldbank.org/entities/publication/bdc9ff61-d597-5a3e-b1ee-c2b5b2ec3be5 "original URL: http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTPOVERTY/EXTEMPOWERMENT/0,,contentMDK:20260036~menuPK:543261~pagePK:148956~piPK:216618~theSitePK:486411,00.html") <!-- | [ALT](http://siteresources.worldbank.org/INTEMPOWERMENT/Resources/486312-1095094954594/draft.pdf)-->
+* [Development Communications Sourcebook: Broadening the Boundaries of Communication](https://documents1.worldbank.org/curated/zh/752011468314090450/pdf/446360Dev0Comm1ns0handbook01PUBLIC1.pdf "original URL: http://siteresources.worldbank.org/EXTDEVCOMMENG/Resources/DevelopmentCommSourcebook.pdf")
 * [Gender in Agriculture Sourcebook](https://openknowledge.worldbank.org/handle/10986/6603)  | [PDF](https://openknowledge.worldbank.org/bitstream/handle/10986/6603/461620PUB0Box3101OFFICIAL0USE0ONLY1.pdf?sequence=1&isAllowed=y)
-* [Sustainable Land Management Sourcebook]()
-* [Involuntary Resettlement Sourcebook : Planning and Implementation in Development Projects (1996)](http://documents.worldbank.org/curated/en/2004/01/5159399/involuntary-resettlement-sourcebook-planning-implementation-development-projects-vol-1-2) | [PDF](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2004/10/04/000012009_20041004165645/Rendered/PDF/301180v110PAPE1ettlement0sourcebook.pdf) | [ALT](https://openknowledge.worldbank.org/handle/10986/14914)
+* [Sustainable Land Management Sourcebook](https://documents1.worldbank.org/curated/pt/495041468338511373/pdf/448340PUB0Box3101official0use0only1.pdf)
+* [Involuntary Resettlement Sourcebook : Planning and Implementation in Development Projects (1996)](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/206671468782373680/involuntary-resettlement-sourcebook-planning-and-implementation-in-development-projects "original URL: http://documents.worldbank.org/curated/en/2004/01/5159399/involuntary-resettlement-sourcebook-planning-implementation-development-projects-vol-1-2") <!--| [PDF](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2004/10/04/000012009_20041004165645/Rendered/PDF/301180v110PAPE1ettlement0sourcebook.pdf) | [ALT](https://openknowledge.worldbank.org/handle/10986/14914)-->
 * [Environmental and Social Management System Toolkit (2015)](http://documents.worldbank.org/curated/en/794121486383424061/Environmental-and-social-management-system-toolkit-general) [PDF](http://documents.worldbank.org/curated/en/794121486383424061/pdf/112174-WP-ESMS-Toolkit-General-PUBLIC.pdf)
 
 
@@ -29,7 +27,7 @@
 * [Participation Sourcebook (1996)](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1996/02/01/000009265_3961214175537/Rendered/PDF/multi_page.pdf)
 
 
-* [Involuntary Resettlement Sourcebook: Planning and Implemention in Development Projects](http://publications.worldbank.org/ecommerce/catalog/product?item_id=2444882)
+* [Involuntary Resettlement Sourcebook: Planning and Implementation in Development Projects](http://publications.worldbank.org/ecommerce/catalog/product?item_id=2444882)
 * [Environmental Assessment Sourcebook and updates](http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/EXTPOLICIES/EXTSAFEPOL/0,,contentMDK:20509076~hlPK:1287595~menuPK:1286567~pagePK:64168445~piPK:64168309~theSitePK:584435,00.html)
 * [Environmental, Health and Safety Guidelines, April 2007](http://www1.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/IFC+Sustainability/Sustainability+Framework/Environmental,+Health,+and+Safety+Guidelines/)
 * [Getting to Green - A Sourcebook of Pollution Management Policy Tools for Growth and Competitiveness, April 2012](http://web.worldbank.org/WBSITE/DELETEDSITESBACKUP/0,,contentMDK:22856237~pagePK:210058~piPK:210062~theSitePK:244381,00.html)
@@ -61,9 +59,7 @@
 
 
 
----
-
-
+<!---
 To guide clients and World Bank staff in their use of the [Environmental and Social Framework (ESF)](http://pubdocs.worldbank.org/en/837721522762050108/Environmental-and-Social-Framework.pdf), the World Bank is developing resources, including Good Practice Notes, Templates and Checklists. They are not World Bank policy and their use is not mandatory. 
 
 **Guidance Notes for Borrowers:**
@@ -80,23 +76,42 @@ To guide clients and World Bank staff in their use of the [Environmental and So
 * ESS10: Stakeholder Engagement and Information Disclosure ([English](http://pubdocs.worldbank.org/en/476161530217390609/ESF-GN10-June-2018.pdf), [Arabic](http://pubdocs.worldbank.org/en/295081548452410175/ESF-GN10-arabic.pdf), [Chinese](http://pubdocs.worldbank.org/en/874551557239818121/ESF-GN10-chinese.pdf), [French](http://pubdocs.worldbank.org/en/980231548455362302/ESF-GN10-french.pdf), [Portuguese](http://pubdocs.worldbank.org/en/118571554138041090/ESF-GN10-portuguese.pdf), [Russian](http://pubdocs.worldbank.org/en/210111548277176489/ESF-GN10-russian.pdf), [Spanish](http://pubdocs.worldbank.org/en/213761548346035638/ESF-GN10-spanish.pdf))
 * Acronyms, abbreviations and glossary ([English](http://pubdocs.worldbank.org/en/231081530284053156/ESFGuidanceNotesForBorrowersAcronymsAbbreviationsGlossary2018.pdf), [Arabic](http://pubdocs.worldbank.org/en/549581554488038394/ESF-acronyms-glossary-arabic.docx), [Chinese](http://pubdocs.worldbank.org/en/976061552666378832/ESFacronymsglossarychinese.pdf), [French](http://pubdocs.worldbank.org/en/118141548972408306/ESFGuidanceNotesForBorrowersAcronymsAbbreviationsGlossaryfrench.pdf), [Russian](http://pubdocs.worldbank.org/en/466741549386653776/ESFGuidanceNotesForBorrowersAcronymsAbbreviationsGlossaryrussian.pdf), [Spanish](http://pubdocs.worldbank.org/en/753811548968566297/ESFGuidanceNotesForBorrowersAcronymsAbbreviationsGlossaryspanish.pdf))
 
-**Good Practice Notes:**
+-->
 
+## Good Practice Notes
+
+* [Addressing Gender Based Violence](http://pubdocs.worldbank.org/en/399881538336159607/Good-Practice-Note-Addressing-Gender-Based-Violence.pdf)
+* [Assessing and Managing the Risks and Impacts of the Use of Security Personnel](http://pubdocs.worldbank.org/en/692931540325377520/2018-ESF-GPN-Security-Personnel.pdf)
+* [Non-Discrimination and Disability](http://pubdocs.worldbank.org/en/573841530208492785/ESF-GPN-Disability-June-2018.pdf)
+* [Third Party Monitoring](http://pubdocs.worldbank.org/en/578001530208566471/ESF-Good-Practice-Note-Third-Party-Monitoring.pdf)
+
+<!--
 * Addressing Gender Based Violence ([English](http://pubdocs.worldbank.org/en/399881538336159607/Good-Practice-Note-Addressing-Gender-Based-Violence.pdf), [Arabic](http://pubdocs.worldbank.org/en/931541548448688183/ESF-Good-Practice-Note-Addressing-Gender-Based-Violence-arabic.pdf), [Chinese](http://pubdocs.worldbank.org/en/575711551303290521/Good-Practice-Note-Addressing-Gender-Based-Violence-chinese.docx), [French](http://pubdocs.worldbank.org/en/296041548955886585/Good-Practice-Note-Addressing-Gender-Based-Violence-french.pdf), [Portuguese](http://pubdocs.worldbank.org/en/518561554482623556/Good-Practice-Note-on-Addressing-Gender-Based-Violence-Portuguese.pdf), [Russian](http://pubdocs.worldbank.org/en/393791555517112329/Good-Practice-Note-Addressing-Gender-Based-Violence-russian.pdf), [Spanish](http://pubdocs.worldbank.org/en/568961548950959796/Good-Practice-Note-Addressing-Gender-Based-Violence-Spanish.pdf))
 * Assessing and Managing the Risks and Impacts of the Use of Security Personnel ([English](http://pubdocs.worldbank.org/en/692931540325377520/2018-ESF-GPN-Security-Personnel.pdf), [Arabic](http://pubdocs.worldbank.org/en/799331545251906888/ESF-Good-Practice-Notes-on-Security-Personnel-Arabic.pdf), [Chinese,](http://pubdocs.worldbank.org/en/696861548447847819/ESF-Good-Practice-Notes-on-Security-Personnel-chinese.pdf) [French](http://pubdocs.worldbank.org/en/979391548951977252/ESF-Good-Practice-Notes-on-Security-Personnel-french.pdf), [Portuguese](http://pubdocs.worldbank.org/en/446871554482635928/Good-Practice-Note-Assessing-Managing-Risks-Impacts-Use-Security-Personnel-Portuguese.pdf), [Russian](http://pubdocs.worldbank.org/en/636261549387931650/ESF-Good-Practice-Note-on-Security-Personnel-russian.pdf), [Spanish](http://pubdocs.worldbank.org/en/892241545251919223/ESF-Good-Practice-Notes-on-Security-Personnel-Spanish.pdf)
 * Non-Discrimination and Disability ([English](http://pubdocs.worldbank.org/en/573841530208492785/ESF-GPN-Disability-June-2018.pdf), [Arabic](http://pubdocs.worldbank.org/en/520721549388866899/ESF-Good-Practice-Note-Disability-arabic.pdf), [Chinese](http://pubdocs.worldbank.org/en/749911552666102574/ESF-Good-Practice-Note-Disability-chinese.pdf), [French](http://pubdocs.worldbank.org/en/366051548972401439/ESF-Good-practice-note-disability-french.pdf), [Portuguese](http://pubdocs.worldbank.org/en/982801554482675458/Good-Practice-Note-on-Non-Discrimination-and-Disability-Portuguese.pdf), [Russian](http://pubdocs.worldbank.org/en/179991549387922776/ESF-Good-practice-note-disability-Russian.pdf), [Spanish](http://pubdocs.worldbank.org/en/184131548968554543/ESF-Good-practice-note-disability-spanish.pdf))
 * Third Party Monitoring ([English](http://pubdocs.worldbank.org/en/578001530208566471/ESF-Good-Practice-Note-Third-Party-Monitoring.pdf), [Arabic](http://pubdocs.worldbank.org/en/212371548448897220/ESF-Good-Practice-Notes-Third-Party-Monitoring-V2-arabic.pdf), [Chinese](http://pubdocs.worldbank.org/en/862431548447849854/ESF-Good-Practice-Note-Third-Party-Monitoring-chinese.pdf), [French](http://pubdocs.worldbank.org/en/265911548951986340/ESF-Good-Practice-Note-Third-Party-Monitoring-french.pdf), [Portuguese](http://pubdocs.worldbank.org/en/776931554482657249/Good-Practice-Note-on-Third-Party-Monitoring-Portuguese.pdf), [Russian](http://pubdocs.worldbank.org/en/501861548449843999/ESF-Good-Practice-Notes-Third-Party-Monitoring-V2-russian.pdf), [Spanish](http://pubdocs.worldbank.org/en/274851548451332509/ESF-Good-Practice-Note-Third-Party-Monitoring-spanish-v2.pdf))
+-->
 
-**Templates and Checklists:**
+## Templates and Checklists
 
+* [Environmental and Social Commitment Plan (ESCP)](http://pubdocs.worldbank.org/en/222861541013090414/Environmental-social-committment-plan-template.docx)
+* [Grievance Redress Mechanism Checklist](http://pubdocs.worldbank.org/en/354161530209334228/ESF-Checklist-ESS10-GRM-June-2018.pdf)
+* [Labor Management Procedures Template](http://pubdocs.worldbank.org/en/755121538513950752/Labor-Management-Procedures.docx)
+* [Stakeholder Engagement Plan Template](http://pubdocs.worldbank.org/en/909361530209278896/ESF-Template-ESS10-SEP-June-2018.pdf)
+
+<!--
 * Environmental and Social Commitment Plan (ESCP) ([English](http://pubdocs.worldbank.org/en/222861541013090414/Environmental-social-committment-plan-template.docx), [Arabic](http://pubdocs.worldbank.org/en/889631545931458365/ESF-Template-ESCP-arabic.pdf), [Chinese](http://pubdocs.worldbank.org/en/594701545931472364/ESF-Template-ESCP-chinese.pdf),[ French](http://pubdocs.worldbank.org/en/570051545931489500/ESF-Template-ESCP-french.pdf), [Portuguese](http://pubdocs.worldbank.org/en/656781554482975681/ESF-Template-ESCP-Portuguese.docx), [Russian](http://pubdocs.worldbank.org/en/692101545931509144/ESF-Template-ESCP-russian.pdf), [Spanish](http://pubdocs.worldbank.org/en/161211545931523214/ESF-Template-ESCP-spanish.pdf))
 * Grievance Redress Mechanism Checklist ([English](http://pubdocs.worldbank.org/en/354161530209334228/ESF-Checklist-ESS10-GRM-June-2018.pdf), [Arabic](http://pubdocs.worldbank.org/en/924241545931829672/ESF-Checklist-ESS10-GRM-arabic.docx), [Chinese](http://pubdocs.worldbank.org/en/470711545931849390/ESF-Checklist-ESS10-GRM-chinese.docx), [French](http://pubdocs.worldbank.org/en/581071545931867940/ESF-Checklist-ESS10-GRM-french.docx), [Portuguese](http://pubdocs.worldbank.org/en/999371554483028108/ESF-Checklist-ESS10-GRM-Portuguese.docx), [Russian](http://pubdocs.worldbank.org/en/660601545931886585/ESF-Checklist-ESS10-GRM-russian.docx), [Spanish)](http://pubdocs.worldbank.org/en/250481545931906079/ESF-Checklist-ESS10-GRM-spanish.doc)
 * Labor Management Procedures Template ([English](http://pubdocs.worldbank.org/en/755121538513950752/Labor-Management-Procedures.docx), [Arabic](http://pubdocs.worldbank.org/en/792711555608362038/ESF-Labor-Management-Procedures-template-arabic.docx), [French](http://pubdocs.worldbank.org/en/191361548972414100/ESF-Labor-Management-Procedures-template-french.docx), [Chinese](http://pubdocs.worldbank.org/en/995921551302773926/ESF-Labor-Management-Procedures-template-chinese.docx), [Portuguese](http://pubdocs.worldbank.org/en/244851554482595519/ESF-Labor-Management-Procedures-template-Portuguese.docx), [Russian](http://pubdocs.worldbank.org/en/138021551302796099/ESF-Labor-Management-Procedures-template-russian.docx), [Spanish](http://pubdocs.worldbank.org/en/430691548968574975/ESF-Labor-Management-Procedures-spanish.pdf))
 * Stakeholder Engagement Plan Template ([English](http://pubdocs.worldbank.org/en/909361530209278896/ESF-Template-ESS10-SEP-June-2018.pdf), [Arabic](http://pubdocs.worldbank.org/en/112371545931927408/ESF-Template-ESS10-arabic.docx), [Chinese](http://pubdocs.worldbank.org/en/789431545931946405/ESF-Template-ESS10-chinese.docx), [French](http://pubdocs.worldbank.org/en/555091545931961298/ESF-Template-ESS10-french.docx), [Portuguese](http://pubdocs.worldbank.org/en/476431554483001009/ESF-Template-ESS10-Portuguese.docx), [Russian](http://pubdocs.worldbank.org/en/422831545931997817/ESF-Templates-ESS10-russian.docx),[ Spanish](http://pubdocs.worldbank.org/en/384171545931978122/ESF-Template-ESS10-spanish.doc))
+-->
 
-**Additional Resources:**
-- [World Bank Group Environmental, Health and Safety Guidelines](http://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Policies-Standards/EHS-Guidelines/)
+## Additional Resources
 
+* [World Bank Group Environmental, Health and Safety Guidelines](http://www.ifc.org/wps/wcm/connect/Topics_Ext_Content/IFC_External_Corporate_Site/Sustainability-At-IFC/Policies-Standards/EHS-Guidelines/)
+
+<!--
 **Archived information:**
 
 [Guidance Notes - 2017 Comment Period](http://pubdocs.worldbank.org/en/186931549556754791/ESF-Guidance-Notes-Comments-Web-Page-2017-archive.pdf)
+-->

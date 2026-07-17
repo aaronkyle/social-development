@@ -4,7 +4,7 @@ date: 2005-11-13 15:22
 category: terminology
 tags: resettlement, IFC, IFC PS5,
 slug: retrenchment
-summary: : the elimination of a significant number of employee positions or the dismissal or layoff of a significant number of employees by an employer
+summary: the elimination of a significant number of employee positions or the dismissal or layoff of a significant number of employees by an employer
 ---
 
 <!--

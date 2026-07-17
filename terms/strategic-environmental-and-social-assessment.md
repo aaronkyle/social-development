@@ -4,7 +4,7 @@ date: 2014-04-18 18:40
 category: terminology
 tags:
 slug: SESA
-summary: :
+summary: ""
 status: draft
 ---
 

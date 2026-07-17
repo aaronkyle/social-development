@@ -4,7 +4,7 @@ date: 2006-02-08 23:35
 category: terminology
 tags: ADB
 slug: external-experts
-summary: : experts not involved in day-to-day project implementation or supervision. 
+summary: experts not involved in day-to-day project implementation or supervision. 
 status: draft
 ---
 

@@ -4,7 +4,7 @@ date: 2006-10-06 04:21
 category: terminology
 tags: 
 slug: participatory-appraisal
-summary: : a community-based consultation method that prioritizes the views of local people and their active involvement in deciding what happens in their communities, or how what happens affects them.
+summary: a community-based consultation method that prioritizes the views of local people and their active involvement in deciding what happens in their communities, or how what happens affects them.
 status: draft
 ---
 

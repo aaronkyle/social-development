@@ -7,7 +7,7 @@ slug: associated-facilities
 summary:
 ---
 
-Associated Facilities refers to facilities or activities that are not funded as part of the project and are: (a)
+**Associated facilities** refers to facilities or activities that are not funded as part of the project and are: (a)
 directly and significantly related to the project; and (b) carried out, or planned to be carried out,
 contemporaneously with the project; and (c) necessary for the project to be viable and would not have
 been constructed, expanded or conducted if the project did not exist. For facilities or activities to be

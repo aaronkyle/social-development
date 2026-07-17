@@ -3,7 +3,7 @@ title: search conference
 date: 2013-11-20 01:00
 category: terminology
 slug: search-conference
-summary: :
+summary: ""
 status: draft
 ---
 

@@ -10,7 +10,7 @@ The requirements of Performance Standard 8 apply to cultural heritage regardless
 
 ### IFC requirements for the protection of cultural heritage
 
-IFC expects clients to protect and support cultural heritage by undertaking internationally recognized practices for field-based study and and documentation of cultural heritage sites and artefacts.
+IFC expects clients to protect and support cultural heritage by undertaking internationally recognized practices for field-based study and documentation of cultural heritage sites and artefacts.
 
 Where a project may affect cultural heritage, the client must consult with affected communities within the host country who use, or have used within living memory, the cultural heritage for longstanding cultural purposes to 1) identify cultural heritage of importance, and 2) incorporate the views of the affected communities into the client’s decision-making process on such cultural heritage.
 

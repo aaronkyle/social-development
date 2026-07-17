@@ -1,4 +1,4 @@
-## Preparing survey questions into a printed format for fieldwork.
+# Preparing survey questions into a printed format for fieldwork.
 
 To facilitate survey work, teams will need to specify which questions will be raised during semi-structured surveys and which will be raised during focus group discussions (FGDs).
 

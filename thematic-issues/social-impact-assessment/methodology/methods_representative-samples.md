@@ -1,3 +1,45 @@
+# representative samples
+
+<br/>
+
+## Introduction
+
+The selection of representative samples is a cornerstone of both qualitative and quantitative research methodologies. Ensuring that a sample accurately reflects the population of interest is crucial for the validity and reliability of any study. While norms and best practices guide sampling techniques, practical considerations and methodological critiques remain essential in refining these approaches. This discussion differentiates between qualitative and quantitative methodologies while emphasizing the necessity for rigorous sample size determination.
+
+## Qualitative Approaches to Sampling
+
+Qualitative research employs a more flexible and iterative approach to sample selection. Unlike quantitative studies, where statistical power calculations inform sample size, qualitative research often relies on principles such as data saturation. Saturation occurs when additional data collection no longer yields new themes or insights, serving as a stopping criterion for sample size determination. Empirical studies have investigated the number of interviews or observations required to achieve saturation, offering benchmarks for researchers. However, the subjective nature of this determination presents challenges, as different studies and researchers may define saturation differently.
+
+Recent developments have sought to introduce more systematic approaches to qualitative sample size determination. For example, a method based on the negative binomial distribution has been proposed to estimate the likelihood of achieving thematic saturation in studies employing thematic analysis. While promising, these mathematical models must be tested across diverse qualitative research settings to assess their generalizability and utility.
+
+## Quantitative Sampling and Sample Size Determination
+
+Quantitative research, by contrast, demands a more structured approach to sample selection, driven by statistical theory. The ideal sample size depends on multiple factors, including population size, margin of error, confidence level, and response rate. Researchers commonly rely on established statistical formulas and power analyses to determine the appropriate sample size, ensuring the results are both precise and generalizable.
+
+For instance, in survey-based research, determining the correct number of respondents is essential for meaningful inference. If a study aims to gauge public opinion on a furniture line across the European Union's adult population (~400 million), surveying every individual is infeasible. Instead, researchers select a sample that accurately represents the population while balancing resource constraints. A standard approach involves setting a confidence level (e.g., 95%) and an acceptable margin of error (e.g., 5%). Given these parameters, a sample of approximately 400 respondents may be sufficient. However, practical concerns such as response rates must be accounted for, requiring researchers to distribute surveys to a larger pool to achieve the necessary number of completed responses.
+
+## Confidence Intervals and Population Inference
+
+Confidence intervals play a critical role in interpreting sample-based estimates. A confidence interval provides a range within which the true population parameter is expected to lie, given a specific confidence level. This approach helps quantify the uncertainty inherent in sampling.
+
+For example, if a survey estimates that 90% of respondents favor a particular product, with a 5% margin of error at a 95% confidence level, the true proportion of the population supporting the product is likely between 85% and 95%. Researchers can adjust confidence levels and margins of error based on study requirements, but they must strike a balance between precision and feasibility.
+
+## Challenges and Limitations
+
+Despite best practices, representative sampling faces several challenges:
+
+Sampling Bias: In both qualitative and quantitative research, biased sample selection can compromise findings. Convenience sampling, self-selection, and non-response bias can all distort results.
+
+Cost and Feasibility: Large sample sizes improve accuracy but require significant resources. Researchers must optimize sample selection to balance cost and data quality.
+
+External Validity: Even well-constructed samples may not fully generalize to broader populations, particularly in rapidly changing or diverse demographic contexts.
+
+## Conclusion
+
+Both qualitative and quantitative methodologies require rigorous sample selection processes to ensure valid and reliable findings. While qualitative research often relies on saturation and emerging methodological frameworks, quantitative research emphasizes statistical precision and sample size calculations. Recognizing the strengths and limitations of each approach allows researchers to make informed decisions that enhance the credibility of their studies while remaining practical in implementation. The continued development of innovative sampling methodologies will further refine best practices and improve the accuracy of population analysis.
+
+
+
 <!--
 http://powerandsamplesize.com/Calculators/
 -->
@@ -233,7 +275,7 @@ After some algebraic manipulations:
 
 
 Example:  Presidential Approval Rating
-image of the seal of the President of the United StatesA random sample of 1500 U.S. adults is taken.  They are asked whether they approve or disapprove of the current president's performance so far (i.e. an approval rating).  Of the 1500 surveyed, 660 respond with "approve".  Calculate a 95% confidence interval for the overall approval rating of the the president.
+image of the seal of the President of the United StatesA random sample of 1500 U.S. adults is taken.  They are asked whether they approve or disapprove of the current president's performance so far (i.e. an approval rating).  Of the 1500 surveyed, 660 respond with "approve".  Calculate a 95% confidence interval for the overall approval rating of the president.
 
 1. Check conditions.  Since a confidence interval, we can examine the number of "successes" and the number of "failures".  In this example there were 660 successes and 840 failures (found by N - number of successes).  With both successes and failures being at least 5, the condition to use the z-method to calculate the interval is acceptable.
 
@@ -1590,7 +1632,7 @@ Recall our one-proportion example at the beginning of this lesson on whether the
 
 Our hypotheses were: \(H_0: p = 0.5\) and \(H_a: p > 0.5\)
 
-Using Minitab, we would select Stat > Basic Stat > 1 Proportion.  Choose the summarized data option and enter 278 for "Events" and 500 as the "Trials".   Check the box for Perform Hypothesis Test and enter the null value of 0.5  Click Options.  With our stated alpha value of 5% we keep the default confidence level of 95.  Select "Proportion > hypothesized proportion" from the Alternative Hypothesis list.  Since we verified the the conditions were satisfied, select Normal Approximation under Method.  Click OK and OK again.  The output is:
+Using Minitab, we would select Stat > Basic Stat > 1 Proportion.  Choose the summarized data option and enter 278 for "Events" and 500 as the "Trials".   Check the box for Perform Hypothesis Test and enter the null value of 0.5  Click Options.  With our stated alpha value of 5% we keep the default confidence level of 95.  Select "Proportion > hypothesized proportion" from the Alternative Hypothesis list.  Since we verified the conditions were satisfied, select Normal Approximation under Method.  Click OK and OK again.  The output is:
 
 Test and CI for One Proportion 
 Test of p = 0.5 vs p > 0.5
@@ -1653,125 +1695,6 @@ This is where you need to be a little careful.  Remember that our alternative wa
 
 -->
 
-
-### Determination of a 'Representative Sample'
-
-%% {[NOT YET INTEGRATED]} %%
-
-The total number of villages in MTB in the year 2010 is being used as a proxy measure to establish a representative sample within the project's 'social area of impact'.  The client acknowledges that it will be a project of regional significance, and definition of 'area of influence' will continue to be reformulated and refined during the process of social impact assessment.  The significance of this measurement is to establish an appropriate survey size.
-
-FIGURE: 1
-%%{[ADJUST TABLE]}%%
-
-----
-
-	Population Size	Confidence Level	Degree of Accuracy	Target Sample Size
-MTB total # villages*	72	45%	0.05	28
-
-----
-
-To help ensure that the survey team interacts directly with a 'representative sample' of the regional area of influence, Consultancy grouped villages according to arithmetic quartiles by population and sought to balance site selection accordingly.
-
-FIGURE: 2
-%%{[ADJUST TABLE]}%%
-
-----
-Calculation of [MTB quartiles](https://docs.google.com/spreadsheets/d/1cZLdBOF8MAJGKAAxh2nlVLznIrmXUX2CRCbkDPKGgLc/edit?pli=1#gid=1619742010)
-
-MTB kabupaten population, mean: 105,341/71 = 1483.676 [1484]
-
-No. MTB villages above mean =  28
-
-//  re-factored mean for top half = 71,232=/28 [2,544]
-
-* top [\geq 2,544] = 5 villages
-* mid-top [2,544 - 1,484] = 23 villages
-
-No. MTB villages below mean = 43
-
-//  re-factored mean for top half (mean re-factored) = 34,809/43 [793]
-
-* mid-bottom  [1,483 - 793] = 18 villages
-* bottom = [\leq 792] = 26 villages
-
-----
-
-This methodology extends the number of study villages to achieve a more balanced and representative sample, as well as to better demonstrate how the project is attending to the IFC prescript to ensure that the impact assessment process accounts especially for 'vulnerable communities' (i.e., by giving suitable weighting to the representation of small and isolated communities that may be exposed to project-induced indirect impacts, such as price inflation).
-
-{[ADJUST STATEMENT]}
-As calculated in the table above and reflected in the graphics below, the distribution of ESMS social baseline study locations achieves a rough approximation of regional composition with respect to population size.
-
-FIGURE: 2
-{[INSERT EXCEL IMAGE]}
-
-Primary baseline data collection in each village sets numerical targets for the number of survey participants according to confidence values of 80% and margin of error calculations varying between 0.25 and 0.5. Consultancy will use a combination of household questionnaire surveys, key informant interviews, and focus group discussions to effect a rapid rural appraisal that reaches representative sample population targets //%%{[SECTION]}%%//.  The target number of participants for FGD sessions is calculated according to MTB 2010 village population quartile values. ESMS supplementary social baseline implementation schedules were created by calculating village days according to the estimated number of FGDs that can be completed in one day (6 total; refer to //%%{[SECTION]}%%//).
-
-ANNEX 1:
-%%{INSERT: [Sample Definition]}%%
-
-
-### Selection of Study Sites
-
-Consultancy and client agreed to the following parameters for supplementary baseline site selection:
-
-   * sample size should seek to achieve a defensible statistical representation of the social field; no less than 35% confidence level for regional "area of influence" (minimum of 17 villages)
-   * full representation of directly affected communities [equivalent to 'priority directly-affected communities' (PDAC)in the terminology of the client *Public Consultation and Disclosure Plan* (PCDP)]
-   * partial representation (ca. 40% - 80%) of areas likely to be exposed to project-induced direct and indirect socio-economic impacts ('directly-affected communities' DAC)
-   * partial representation (ca. 10% - 40%) of areas that may indirectly be affected by project-induced socio-economic change, or those area where there is a vocal stakeholder perception or belief that such changes may occur ('indirectly-affected communities' IAC)
-
-Additional parameters influencing Consultancy' proposed field sites selection include:
-
-  - proximity and distance from key project activity zones, especially the administrative and economic center of Saumlaki, the capital of MTB, as well as the planned on-shore LSB site and port facilities in neighboring Olilit Village.
-  - distances from port facilities / accessibility by regular forms transportation [proximity to transportation hubs affects the likelihood a village will experience in-migration]
-  - distance from healthcare and treatment facilities [availability of, and access to, health and educational services affect the extent to which communities' vulnerability may be impacted by the project]
-  - available production land in village [derived from BPN statistics, this measurement indicates the potential of a village community to expand agricultural output in response to added population pressures]
- - due consideration of existing social, demographic, linguistic, geographical and economic data [MTB has several distinctive language groups, the number of which is a matter of scholarly debate; at least five major groups can be distinguished]
- - due consideration of timing, capacity constraints and the logistics of access
-
-Consultancy' proposed selection criteria seeks to extend the geographic coverage of study sites to better account for potential project-induced changes in northern parts of MTB and other more distant villages--such as those that may be affected by speculative flows of immigrants or particularly remote and impoverished villages that are relatively more vulnerable to shocks of regional economic change.  We recognize, however, that  much of the west coast of MTB's Yamdena Island is not accessible by road, and a number of populated islands in the northwest and northeast of Yamdena cannot be readily reached by means of sea transport meeting client' quality, health and safety standards.  Consultancy will work with client to revise and finalize final field site selection.
-
-Following the above parameters and considerations, the Consultancy team recommends selection of the below villages for village-level collection of supplementary baseline data:
-
-ID#	Village	Kecamatan
-
-
-81-01-43-006	Adaut	Selaru
-81-01-54-005	Alusi Kelaan	Kormomolin
-81-01-42-003	Batu Putih	Wer Maktian
-81-01-40-017	Bomaki	Tanimbar Selatan
-81-01-43-004	Kandar	Selaru
-81-01-50-029	Kelaan	Tanimbar Utara
-81-01-50-026	Keliober	Tanimbar Utara
-81-01-40-002	Latdalam	Tanimbar Selatan
-81-01-50-022	Lelingluan	Tanimbar Utara
-81-01-40-001	Lermatang	Tanimbar Selatan
-81-01-43-003	Lingat	Selaru
-81-01-41-001	Tumbur	Wer Tamrian
-81-01-54-001	Lorwembun	Kormomolin
-81-01-40-016	Matakus	Tanimbar Selatan
-81-01-54-007	Mayano Raya	Kormomolin
-81-01-40-010	Olilit	Tanimbar Selatan
-81-01-50-024	Ridool	Tanimbar Utara
-81-01-50-023	Ritabel	Tanimbar Utara
-81-01-50-002	Rumngeur	Yaru
-81-01-41-006	Sangliat Dol	Wer Tamrian
-81-01-40-009	Saumlaki	Tanimbar Selatan
-81-01-40-009	Sifnana	Tanimbar Selatan
-81-01-52-009	Tutukembong	Wuar Labobar
-81-01-50-025	Watidal	Tanimbar Utara
-81-01-53-001	Waturu	Nirunmas
-81-01-43-001	Werain	Selaru
-81-01-42-004	Wermatang	Wer Maktian
-81-01-40-015	Wowonda	Tanimbar Selatan
-
-For a detailed explication of rationale for the selection of each village, as well as a list of target stakeholders for FGD questions per village, please refer to **ANNEX 2**.
-
-----
-
-ANNEX 2:
-%%{INSERT: [Site Selection and Lines of Focused Inquiry]}%%
-
-----
 
 <!--
 
@@ -1867,7 +1790,7 @@ In general, the null hypothesis will state that the two populations being tested
 Next step is to collect data for each population group. In our example we will collect 2 sets of data, one with the height of women and one with the height of men. The sample size should ideally be the same but it can be different. Lets say that the sample sizes are nx and ny.
 
 3. Determine a confidence interval and degrees of freedom
-This is what we call alpha (α). The typical value of α is 0.05. This means that there is 95% confidence that the conclusion of this test will be valid. The degree of freedom can be calculated by the the following formula:
+This is what we call alpha (α). The typical value of α is 0.05. This means that there is 95% confidence that the conclusion of this test will be valid. The degree of freedom can be calculated by the following formula:
 
 
 4. Calculate the t-statistic
@@ -2557,7 +2480,7 @@ n = 1000                                # Sample size
 
 margin_of_error = z_critical * math.sqrt((p*(1-p))/n)
 
-confidence_interval = (p - margin_of_error,  # Calculate the the interval
+confidence_interval = (p - margin_of_error,  # Calculate the interval
                        p + margin_of_error) 
 
 confidence_interval

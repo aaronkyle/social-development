@@ -4,7 +4,7 @@ date: 2009-12-19
 category: terminology
 tags: methods
 slug: triangulation
-summary: : the technique of integrating multiple lines of investigation and analysis of a topic of inquiry to ensure the integrity of data sources, to enhance the insights of analytical inquiry, as well as to enhance confidence in the ensuing findings
+summary: the technique of integrating multiple lines of investigation and analysis of a topic of inquiry to ensure the integrity of data sources, to enhance the insights of analytical inquiry, as well as to enhance confidence in the ensuing findings
 ---
 
 <!---

@@ -4,7 +4,7 @@ date:
 category: terminology
 tags:
 slug: problem-opportunity-threat-matching
-summary: :
+summary: ""
 status: draft
 ---
 

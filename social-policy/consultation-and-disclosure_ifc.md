@@ -67,6 +67,6 @@ Included within the ESRP is IFC’s explanation of the terms “Free Prior and I
 
 ### IFC Policy on Disclosure of Information 
 
-The 2006 IFC Policy on Disclosure of Information4 is a 13-page document outlining the scope of materials that IFC makes publically available—either on a routine basis or upon request. This disclosure policy is intended to reflect IFC’s commitment to transparent business practices in-line with the Policy on Social and Environmental Sustainability and the Performance Standards.
+The 2006 IFC Policy on Disclosure of Information4 is a 13-page document outlining the scope of materials that IFC makes publicly available—either on a routine basis or upon request. This disclosure policy is intended to reflect IFC’s commitment to transparent business practices in-line with the Policy on Social and Environmental Sustainability and the Performance Standards.
 
 In accordance with the prescripts of IFC’s Performance Standards, the disclosure policy requires that IFC clients self-disclose information to project-affected parties about all types of adverse environmental and social impacts that could potentially result from the project, as well as the client’s plan to mitigate or eliminate these impacts. 

@@ -1,110 +1,164 @@
-## Context
+# social impact assessment
 
-Most [international social development policy frameworks](#) aim to reduce poverty and bolster prosperity. In these contexts, propserity is often defined in economic terms (e.g. job creation, enhanced market access) and measured at the national and regional levels.
+<br/>
 
-Development projects seeking international financing face the critical challenge of how to demonstrate that a project-level performance contributes to higher-level policy aims and commitments.
-
-Project performance can be defined and measured as [performance indicators](#) that anticipate and account for project-induced direct, indirect, and cumulative changes.  Each affected community should be taken into account, and pertinent information recorded about (i.e. structures of governance and societal organization, demographic measures of well-being,  cultural identity, etc).
+## Discussion Context
 
 An early step is to ascertain the nature and form of potential social and economic changes that might result from project implementation&mdash;in terms of both positive and negative potential impacts&mdash;by taking account of the pre-project situation through '[baseline](#)' studies.
 
-### Organization of the Repository
+## Historical Context
 
-This [repository](https://github.com/aaronkyle/social-development/tree/master/context/thematic-issues/social-impact-assessment/baseline-studies) proposes a methodology and implementation tools for conducting a baseline social and economic study.
+Social Impact Assessment (SIA) emerged in the 1970s alongside Environmental Impact Assessment (EIA) as a response to growing concerns over large-scale development projects' effects on communities. Initially formalized in the U.S. through the **National Environmental Policy Act (NEPA) of 1969**, SIA has since evolved into a global practice, particularly within international development frameworks.
 
-The methodology is based on a '[resource framework](#)' that looks for indicators long-term project induced changes to affected communities throughout the lifetime of this project, by acknowledging that household and community well-being is dependent upon a range of tangible and intangible resources. The methodology also employees [rapid appraisal](http://applied-anthro.com/thematic-issues/social-impact-assessment/methodology/methods_rapid-appraisal_defining-questionnaire) techniques for data collection.
+## **SIA and Social Development**
 
-Key methodological discussions include:
+SIA is a systematic process used to evaluate the social consequences of planned projects, policies, or interventions. In the context of social development, it focuses on aspects such as:
 
-* [Identification of Target Baseline Data](http://applied-anthro.com/thematic-issues/social-impact-assessment/methodology/methods_identifying-target-baseline-data)
-* [Stakeholder Identification](methods_stakeholder-identification)
-* [Using Baseline Data in Impact Assessment](http://applied-anthro.com/thematic-issues/social-impact-assessment/methodology/methods_impact-analysis)
+* **Livelihoods and economic impacts**
+* **Cultural heritage and indigenous rights**
+* **Health and well-being**
+* **Resettlement and displacement**
+* **Community engagement and governance**
 
-Implementation tools discussed here seek to capture pertinent data from both primary and secondary sources focusing on village and household level information. Key discussions for study implementation include:
+The goal is to ensure equitable development, minimize negative consequences, and enhance social benefits.
 
-* [Determing Sample Size for Socio-Economic Baseline Data](http://applied-anthro.com/thematic-issues/social-impact-assessment/methodology/methods_representative-samples)
-* [Planning Fieldwork](http://applied-anthro.com/thematic-issues/social-impact-assessment/methodology/methods_planning-fieldwork)
-    - methods_study-design_preparing-print-media
-    - methods_study-design_translations
-* [Processing Baseline Data](http://applied-anthro.com/thematic-issues/social-impact-assessment/methodology/methods_data-processing)
+## **IFC Performance Standards and Good International Practice (GIP)**
 
-This repository also examines how to craft socio-ecomomic baseline survey data collection forms that account for target international and national development indicators, and national and local census and survey data&mdash;and how to ensure that these are adapted to specific project contexts.
+The **International Finance Corporation (IFC) Performance Standards** (PS) provide a widely recognized framework for managing environmental and social risks in private-sector investments. The most relevant standards for SIA include:
 
-Examples social survey forms are available on the following topics:
+* **PS 1: Assessment and Management of Environmental and Social Risks and Impacts** – Establishes the need for a robust SIA as part of Environmental and Social Impact Assessment (ESIA).
+* **PS 5: Land Acquisition and Involuntary Resettlement** – Focuses on minimizing displacement and ensuring fair compensation.
+* **PS 7: Indigenous Peoples** – Protects indigenous rights and requires Free, Prior, and Informed Consent (FPIC).
 
-* [structured-ID](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_structured-ID)
-* [household-composition](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_household-composition)
-* [identity-distribution](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_identity-distribution)
-* [living-conditions](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_living-conditions)
-* [livelihoods](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_livelihoods)
-* [economic-integration](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_economic-integration)
-* [ecosystem-services](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_economic-integration)
-* [asset-ownership](http://applied-anthro.com/thematic-issues/social-impact-assessment/survey-forms/survey-form_asset-ownership)
-* [health](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_health)
-* [security]()
-* [education](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_education)
-* [territorial-ties](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_territorial-ties)
-* [population-mobility](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_population-mobility)
-* [cultural-institutions](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_cultural-institutions)
-* [cultural-heritage](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_cultural-heritage)
-* [displacement-perception](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_displacement-perception)
-* [project-perception](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_project-perception)
-* [form_security](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_security)
-* [acknowledgements](http://applied-anthro.com/thematic-issues/social-impact-assessment/baseline-surveys/survey-form_acknowledgement)
+**Good International Practice (GIP)** includes participatory approaches, gender-sensitive assessments, and adaptive management strategies to ensure that social impacts are addressed effectively.
+
+---
+## Methods for Social Impact Assessment (SIA)
+
+SIA employs a combination of qualitative and quantitative methods to assess potential social changes caused by development projects. The methods are structured within key stages: **scoping, baseline assessment, impact prediction, mitigation planning, monitoring, and evaluation**.
+
+---
+
+## **1. Scoping and Stakeholder Engagement**
+
+### **Objective:** Identify key social issues, stakeholders, and potential impacts.
+
+* **Stakeholder Analysis:** Mapping affected groups and their influence. *(Reed et al., 2009)*
+* **Participatory Rural Appraisal (PRA):** Engaging communities through tools like focus groups and participatory mapping. *(Chambers, 1994)*
+* **Key Informant Interviews (KII):** Discussions with community leaders, government officials, and experts.
+
+**Reference:** IFC’s *Stakeholder Engagement: A Good Practice Handbook for Companies Doing Business in Emerging Markets (2007)*.
+
+---
+
+## **2. Baseline Social Assessment**
+
+### **Objective:** Establish social and economic conditions before project implementation.
+
+### **Methods:**
+
+####
+
+* **Household Surveys:** Collect demographic, income, health, and social service data. *(Bamberger et al., 2012)*
+* **Census and Secondary Data Analysis:** Use government and institutional databases.
+* **Social Network Analysis:** Assess community relationships and power structures. *(Scott, 2017)*
+* **Ethnographic Studies:** Participant observation and interviews for deep cultural insights. *(Bernard, 2017)*
+
+**Reference:** Vanclay et al. (2015) *Social Impact Assessment: Guidance for Assessing and Managing the Social Impacts of Projects*.
+
+---
+
+## **3. Impact Prediction and Analysis**
+
+### **Objective:** Identify potential project-related social changes.
+
+### **Methods:**
+
+####
+
+* **Scenario Analysis:** Develop potential future situations based on different project outcomes.
+* **Social Risk Assessment:** Identify risks using qualitative and quantitative risk matrices. *(Esteves et al., 2012)*
+* **Gender and Vulnerability Analysis:** Assess disproportionate impacts on marginalized groups. *(World Bank, 2010)*
+* **Cost-Benefit Analysis (CBA):** Weigh social costs against expected benefits. *(Boardman et al., 2017)*
+
+**Reference:** IFC’s *Good Practice Note on Managing Contractors’ Environmental and Social Performance (2017)*.
+
+---
+
+## **4. Mitigation and Enhancement Strategies**
+
+### **Objective:** Develop measures to minimize negative impacts and enhance positive ones.
+
+### **Methods:**
+
+####
+
+* **Social Management Plans (SMPs):** Develop frameworks for mitigation and monitoring.
+* **Grievance Redress Mechanisms (GRM):** Establish formal processes for community concerns. *(UNDP, 2018)*
+* **Livelihood Restoration Programs:** Alternative employment and skill-building for displaced people. *(IFC, 2012 - PS5 Guidance Note)*
+* **Free, Prior, and Informed Consent (FPIC):** Ensure indigenous communities' rights are respected. *(United Nations Declaration on the Rights of Indigenous Peoples, 2007)*
+
+**Reference:** World Bank’s *Resettlement Sourcebook (2004)*.
+
+---
+
+## **5. Monitoring and Evaluation (M&E)**
+
+### **Objective:** Track social impacts over time and adjust interventions as needed.
+
+### **Methods:**
+
+####
+
+* **Indicators and Metrics:** Use predefined social performance indicators (e.g., livelihood stability, social cohesion). *(IFC, 2012 - PS1 Guidance Note)*
+* **Participatory Monitoring:** Community-led tracking of social changes. *(Danielsen et al., 2009)*
+* **Longitudinal Studies:** Repeated surveys and assessments over time. *(Rietbergen-McCracken & Narayan, 1998)*
+* **Social Audits:** Independent verification of social performance. *(World Bank, 2018)*
+
+**Reference:** Vanclay et al. (2015) *Social Impact Assessment: Guidance for Assessing and Managing the Social Impacts of Projects*.
+
+---
+
+### **Implementation Guides & Tools**
+
+####
+
+* **IFC Performance Standards (2012) & Guidance Notes**
+* **Vanclay et al. (2015): Social Impact Assessment: Guidance for Assessing and Managing the Social Impacts of Projects**
+* **World Bank’s Environmental and Social Framework (2017)**
+* **International Association for Impact Assessment (IAIA) - Best Practices in SIA**
+* **OECD Guidelines on Social Impact Assessment**
 
 
-<div class="card">
-  <div class="card-header">
-    Case Study: Gathering Baseline Socio-Economic Data in Maluku Province, Indonesia
-  </div>
-  <div class="card-body">
-      <p>
-      To help mitigate the challenges of discussing issues in the abstract, the discussion takes as an example an imaginary development project situated on a remote island group in Indonesia, known administratively as Maluku Tenggara Barat (MTB) and Maluku Barat Daya (MBD) [and known informally as the Tanimbar Islands].</p>
-<p>
-      MTB is characterized by two major population concentrations--one in the south, centered around Saumlaki, and the other in the north, centered around Larat.  These population centers developed partially in response to historic political rivalries.</p>
-<div class="row">
-<div class="col col-6">
-<div id="map"></div>
-</div>
-<div class="col col-6">
-<p><img  class="img-fluid" alt="MTB sub-district shapes with fill.jpg" src="https://s3.amazonaws.com/geospatial-analysis/map-app/source_material/mockups/MTB+sub-district+shapes+with+fill.jpg"></p>
-</div>
-</div>
-<p>
-      This analysis examines the scope of 'project area of social influence' to account for the potential of project-induced impacts also to northern village&mdash;gathering data especially that can help to evaluate potential impacts induced by speculative in-migration, as well as other indirect and cumulative impacts.</p>
-<p>
-      The following discussion of methods seeks to ensure that site selection and sampling are rationally determined according to proximate understandings of 'impact' and that the approach is cost-effective&mdash;leveraging secondary data sources such as census data, socio-economic and health surveys and by conducting primary research in the form of village and household level surveys, key informant interviews and focus group discussions.
-      </p>
 
-  </div>
-</div>
+---
 
-<script type="module">
-  import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@3/dist/runtime.js";
-  import notebook from "https://api.observablehq.com/@aaronkyle/maluku-tenggara-barat.js?v=1";
-   const renders = {
-        "map": "#map",
-      };
-  
-  for (let i in renders)
-    renders[i] = document.querySelector(renders[i]);
-  Runtime.load(notebook, (variable) => {
-    if (renders[variable.name])
-      return new Inspector(renders[variable.name]);
-  });
-</script>
+## **Relevant Literature**
 
-<!--
-<script>
-window.onload = function() {
-document.getElementById("git").innerHTML="<div id='map'></div>";
-}
-</script>
--->
 
-<!--
-Interesting approaches;
-- https://openup.org.za/articles/mapping-sanitation.html
-- http://code4sa.org/2015/10/01/mapping-informal-settlements-copy.html
-- https://www.ee.co.za/article/gis-mapping-analysis-informal-settlement-upgrading.html
--->
+1. **Vanclay, F. (2003).** *International Principles for Social Impact Assessment.* Impact Assessment and Project Appraisal, 21(1), 5–12.
+1. **Esteves, A. M., Franks, D., & Vanclay, F. (2012).** *Social impact assessment: the state of the art.* Impact Assessment and Project Appraisal, 30(1), 34–42.
+1. **Becker, H. A., & Vanclay, F. (2003).** *The International Handbook of Social Impact Assessment.* Edward Elgar.
+1. **International Finance Corporation (2012).** *IFC Performance Standards on Environmental and Social Sustainability.* IFC.
+1. **Rabel J., & Barrow C. (2000).** *Social Impact Assessment: An Introduction.* Hodder Arnold.
+1. **World Bank (2017).** *Environmental and Social Framework.* World Bank Group.
+1. Bamberger, Michael, Vijayendra Rao, and Michael Woolcock. 2012. *Using Mixed Methods in Monitoring and Evaluation: Experiences from International Development.* Washington, DC: World Bank.
+1. Bernard, H. Russell. 2017. *Research Methods in Anthropology: Qualitative and Quantitative Approaches.* 6th ed. Lanham, MD: Rowman & Littlefield.
+1. Boardman, Anthony E., David H. Greenberg, Aidan R. Vining, and David L. Weimer. 2017. *Cost-Benefit Analysis: Concepts and Practice.* 5th ed. Cambridge: Cambridge University Press.
+1. Chambers, Robert. 1994. *Participatory Rural Appraisal (PRA): Challenges, Potentials, and Paradigm.* World Development 22(10): 1437–54.
+1. Danielsen, Finn, Neil D. Burgess, Per M. Jensen, and Kathrin Pirhofer-Walzl. 2009. *Environmental Monitoring: The Scale and Speed of Implementation Varies According to the Degree of People's Involvement.* Journal of Applied Ecology 47(6): 1166–68.
+1. Esteves, Ana Maria, Daniel Franks, and Frank Vanclay. 2012. *Social Impact Assessment: The State of the Art.* Impact Assessment and Project Appraisal 30(1): 34–42.
+1. International Finance Corporation (IFC). 2007. *Stakeholder Engagement: A Good Practice Handbook for Companies Doing Business in Emerging Markets.* Washington, DC: International Finance Corporation.
+———. 2012. *Performance Standards on Environmental and Social Sustainability.* Washington, DC: International Finance Corporation.
+———. 2017. *Good Practice Note on Managing Contractors’ Environmental and Social Performance.* Washington, DC: International Finance Corporation.
+1. Reed, Mark S., Anna C. Evely, Georgina M. Cundill, Ioan Fazey, James Glass, Angela Laing, Julia Newig, Maria Parrish, Chris Prell, and Louisa Raymond. 2009. *What Is Social Learning?* Ecology and Society 15(4): r1.
+1. Rietbergen-McCracken, Jennifer, and Deepa Narayan. 1998. *Participation and Social Assessment: Tools and Techniques.* Washington, DC: World Bank.
+1. Scott, John. 2017. *Social Network Analysis.* 4th ed. Thousand Oaks, CA: SAGE Publications.
+1. United Nations Development Programme (UNDP). 2018. *Guidelines on Grievance Mechanisms for Development Projects.* New York: UNDP.
+1. United Nations. 2007. *United Nations Declaration on the Rights of Indigenous Peoples.* New York: United Nations.1. 
+Vanclay, Frank. 2003. *International Principles for Social Impact Assessment.* Impact Assessment and Project Appraisal 21(1): 5–12.
+1. Vanclay, Frank, Ana Maria Esteves, Ilse Aucamp, and Daniel M. Franks. 2015. *Social Impact Assessment: Guidance for Assessing and Managing the Social Impacts of Projects.* Fargo, ND: International Association for Impact Assessment (IAIA).
+1. World Bank. 2004. *Involuntary Resettlement Sourcebook: Planning and Implementation in Development Projects.* Washington, DC: World Bank.
+1. ———. 2010. *Gender and Development: An Evaluation of World Bank Support, 2002-08.* Washington, DC: World Bank.
+1. ———. 2017. *Environmental and Social Framework.* Washington, DC: World Bank.
+1. ———. 2018. *Social Accountability and Citizen Engagement: A Practical Guide.* Washington, DC: World Bank.

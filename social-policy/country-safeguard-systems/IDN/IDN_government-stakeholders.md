@@ -97,7 +97,7 @@ Some key the national-level governmental stakeholders for development projects i
 
 * Badan Pemeriksa Keuangan (BEPEKA) [Supreme Audit Board]
 
-* [Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KPPPA)](www.kemenpppa.go.id/) [Ministry of Female Empowerment and Child Protection] 
+* [Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KPPPA)](https://www.kemenpppa.go.id/) [Ministry of Female Empowerment and Child Protection] 
 
 NOTE: Other ministries may be involved, depending on specific issues that arise during project construction and operations.
 -->

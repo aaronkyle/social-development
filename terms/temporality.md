@@ -3,7 +3,7 @@ title: temporality
 date: 2006-06-05 12:15
 category: terminology
 slug: temporality
-summary: : the state of existing within or having some relationship with time
+summary: the state of existing within or having some relationship with time
 ---
 
 <!---
@@ -19,7 +19,7 @@ categories: terminology, methods, data sources, data
 permalink: /temporality/
 published: true
 --->
-The term **temporality* carries two quite different meanings[1](http://www.oxforddictionaries.com/us/definition/american_english/temporality):
+The term **temporality** carries two quite different meanings[1](http://www.oxforddictionaries.com/us/definition/american_english/temporality):
 
    1. the state of existing within or having some relationship with time;
    2. a secular possession, especially the properties and revenues of a religious body or a member of the clergy.

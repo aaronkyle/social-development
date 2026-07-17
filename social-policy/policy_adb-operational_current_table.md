@@ -5,7 +5,7 @@
 
 ### The ADB Operation Manual (OM)
 
-The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual) collects operational policies known as [Bank Policies (BPs)]( "*bank policies*: short, focused statements defining borrower client obligations") that follow from ADB Charter, regulations of the [ADF](http://www.adb.org/site/adf/main) and [OCR](http://www.adb.org/site/funds/ocr), as well as [other operational policies and strategies](http://www.adb.org/about/other-operational-policies-and-strategies) adopted by the [ADB Board of Directors](http://www.adb.org/about/board-directors). The OM also includes [Operational Procedures (OPs)](# "procedural requirements and guidance on policy implementation") that spell out procedural requirements and guidance on policy implementation.
+The ADB [Operations Manual (OM)](http://www.adb.org/documents/operations-manual) collects operational policies known as [Bank Policies (BPs)](# "*bank policies*: short, focused statements defining borrower client obligations") that follow from ADB Charter, regulations of the [ADF](http://www.adb.org/site/adf/main) and [OCR](http://www.adb.org/site/funds/ocr), as well as [other operational policies and strategies](http://www.adb.org/about/other-operational-policies-and-strategies) adopted by the [ADB Board of Directors](http://www.adb.org/about/board-directors). The OM also includes [Operational Procedures (OPs)](# "procedural requirements and guidance on policy implementation") that spell out procedural requirements and guidance on policy implementation.
 
 <div class="container">
 <meta name="viewport" content="width=device-width, initial-scale=1">

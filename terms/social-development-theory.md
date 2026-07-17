@@ -4,7 +4,7 @@ date:
 category: terminology
 tags:
 slug: development-theory
-summary: :
+summary:
 status: draft
 ---
 

@@ -1,6 +1,4 @@
-
-
-## Analysis of Social Impacts
+# Analysis of Social Impacts
 
 > Once the baseline data has been collected through a combination of secondary, qualitative, quantitative, participatory and consultative techniques, a good understanding should exist of the society in the project's area of influence and the general categories of impacts that may result. The next step is to analyze the information with the purpose of predicting and measuring with a greater level of both positive and negative impacts of the specificity project on the population. (IFC GPN pp. 9, 14)
 
@@ -12,7 +10,7 @@ As the IFC indicates, the 'social impact analysis' (also referred to as 'social 
 
 ### On-Going Impact Identification and Analysis: Proactive Planning to Enable a Robust M&E Framework
 
-A 'household and community resources framework' us a a tool to organize basedline data to facilitate impact identification and analysis and to help inform the on-going development and refinement of action plans for impact mitigation and sustainable social development. This 'resources framework' approach to data organization draws on social research theory and has been applied to IFC client projects. Existing social baseline provide a partial dataset to inform analysis using the 'resources framework' approach; ESMS supplimentary baseline field studies seek to help fill remaining gaps ahead of the social impact assessment studies.
+A 'household and community resources framework' is a tool to organize baseline data to facilitate impact identification and analysis and to help inform the on-going development and refinement of action plans for impact mitigation and sustainable social development. This 'resources framework' approach to data organization draws on social research theory and has been applied to IFC client projects. Existing social baselines provide a partial dataset to inform analysis using the 'resources framework' approach; ESMS supplementary baseline field studies seek to help fill remaining gaps ahead of the social impact assessment studies.
 
 There are eight categories of resources under the framework:
 
@@ -64,7 +62,7 @@ Paper of interest to check out later:
 * [gis and environmental assessment](https://www.tandfonline.com/doi/pdf/10.3152/147154602781766807)
 * [cumulative impact assessment](https://link.springer.com/content/pdf/10.1007%2Fs002679900042.pdf)
 
-Early disucssion on cumulative / environmental impacts: [The Environmental Assessment Process: Chapter 1](http://siteresources.worldbank.org/INTTRANSPORT/Resources/336291-1107880869673/chap_1.pdf)
+Early discussion on cumulative / environmental impacts: [The Environmental Assessment Process: Chapter 1](http://siteresources.worldbank.org/INTTRANSPORT/Resources/336291-1107880869673/chap_1.pdf)
 
 Another early discussion on cumulative impacts: [EXAMPLES OF POSSIBLE CUMULATIVE ENVIRONMENTAL IMPACTS](https://www.nsf.gov/pubs/2002/nsf02201/nsf02201_4.pdf)
 

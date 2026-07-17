@@ -4,14 +4,14 @@ date: 2005-11-14 20:33
 category: terminology
 tags: development studies, humanities, Geisteswissenschaft
 slug: development-studies
-summary: :
+summary:
 status: draft
 ---
 
 <!--
 summary:
 -->
-The term **<dt><dfn id="development sudies">development sudies</dfn><dt>** refers to <dd>an interdisciplinary concentration whose main mission is to provide students with the knowledge, critical perspectives and skills they need to engage with the issues and problems of national and international development, especially as they relate to the Global South.</dd> The concentration draws from a range of disciplines, but is particularly grounded in the social sciences: anthropology, sociology, political science, history and economics. Concentrators combine courses that offer local and historical knowledge of specific areas of the developing world, with those that explore transnational dimensions of development. [1](www.brown.edu/academics/development-studies/).
+The term **<dt><dfn id="development studies">development studies</dfn><dt>** refers to <dd>an interdisciplinary concentration whose main mission is to provide students with the knowledge, critical perspectives and skills they need to engage with the issues and problems of national and international development, especially as they relate to the Global South.</dd> The concentration draws from a range of disciplines, but is particularly grounded in the social sciences: anthropology, sociology, political science, history and economics. Concentrators combine courses that offer local and historical knowledge of specific areas of the developing world, with those that explore transnational dimensions of development. [1](./development-studies.md).
 
 
 ...
@@ -96,7 +96,5 @@ More recently, the emergence of human security – a new, people-oriented approa
 * Post Graduate Diploma in Management in Development Studies at Entrepreneurship Development Institute of India
 * Institute of Development Studies
 * Women In Development Network (WIDNET) - Gender and Development Resources
-
-
 
 

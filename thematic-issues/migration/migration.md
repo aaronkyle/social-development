@@ -1,5 +1,4 @@
-
-## Notes on the Vulnerabilities of Migrant Populations
+# Notes on the Vulnerabilities of Migrant Populations
 
 
 ### An Overview of the Vulnerabilities of Migrant Populations
@@ -217,7 +216,7 @@ Especially important to practices of restrictive employment sourcing and no hire
 
 Migrants are often adept entrepreneurs, and their prior experience with market economies can give them a competitive advantage allowing them to out-compete local entrepreneurs.  To support local business people, the project might consider innovative ways to sponsor local economic development and entrepreneurialism within the context of the Community Development Plan and its economic development components, such as by partnering with local communities to helping local communities to purchase and manage needed equipment—especially transportation machinery.  For instance, if the project were to purchase a number of motorcycles and automotive vehicles and to help the community to organize a rental or leasing system at sub-market rates (with the proceeds of these services allocated to a community investment fund) such might serve dual purposes of offsetting potential in-migrant economies and helping community members to generate revenues for long-term sustainability objectives.
  
-Similarly—accepting that people will be moving into the project area—a project can begin planning for how to manage the construction of new habitation structures and settlements. For instance, material and technical resources could be introduced and managed jointly by the company for infrastructure improvement and construction.  Once constructed, lots and living quarters might be designated as community property, and set aside for rental to temporary visitors, or as a community housing options available to in-migrating family members of current villagers for transitional use while permanent accommodations are being prepared. The company may also choose to construct publically managed commercial zones, such as food processing decks, cooking galleys and laundry facilities in support of joint community-company production service contracts (such as may form the basis of company-managed work programmes). Another possibility that the project needs to address is whether or not it could play a role in facilitating greater market access for local communities. 
+Similarly—accepting that people will be moving into the project area—a project can begin planning for how to manage the construction of new habitation structures and settlements. For instance, material and technical resources could be introduced and managed jointly by the company for infrastructure improvement and construction.  Once constructed, lots and living quarters might be designated as community property, and set aside for rental to temporary visitors, or as a community housing options available to in-migrating family members of current villagers for transitional use while permanent accommodations are being prepared. The company may also choose to construct publicly managed commercial zones, such as food processing decks, cooking galleys and laundry facilities in support of joint community-company production service contracts (such as may form the basis of company-managed work programmes). Another possibility that the project needs to address is whether or not it could play a role in facilitating greater market access for local communities. 
 
 Overall, engaging the community as partners and stakeholders in local and regional development processes should help to increase the local incentive for helping to regulate and minimize in-migrant flows.
 
@@ -417,4 +416,3 @@ Piore, Michael. 1979. Birds of Passage. Cambridge, MA: Cambridge University Pres
 Portes, Alejandro. 2008. “Migration and Social Change: Some Conceptual Reflections” [Princeton University Center for Migration and Development Working Paper #08-0]. Princeton: Princeton University Website. Available at: http://cmd.princeton.edu/papers/wp0804.pdf
 
 World Health Organization. 2010. Health of migrants: the way forward - report of a global consultation, Madrid, Spain, 3-5 March 2010. Geneva: World Health Organization [ISBN 978 92 4 159950 4]
-

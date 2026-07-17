@@ -12,7 +12,7 @@ Negotiated Settlement
 ### Institutional Organization for Safeguard Compliance
 
 * Who within your project oversees CSR efforts?
-* Who within your project oversees land aquisition?
+* Who within your project oversees land acquisition?
 * Did you engage any external agencies to assist with impact assessment?
     - If so, who were these agencies and what support did they contribute?
     - If not, who within the project was responsible for impact assessment?
@@ -50,7 +50,7 @@ Negotiated Settlement
 
 #### Specific Compliance Considerations for Land Acquisition Processes
 
-* How early within project preparation did you begin screening for risks and impacts of land aquisition?
+* How early within project preparation did you begin screening for risks and impacts of land acquisition?
 * Did you make any efforts to determine whether livelihoods of people in the host community are primarily land based?
 * How far in advance of project activities did you disclose your draft resettlement plan?
 * Did you disclosure of resettlement plans include any information on the consultative process?

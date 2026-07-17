@@ -3,7 +3,7 @@ title: census
 date: 2005-11-13
 category: terminology
 tags: methods,
-summary: : the official process of counting a population of a given jurisdiction
+summary: the official process of counting a population of a given jurisdiction
 slug: census
 ---
 

@@ -8,7 +8,7 @@ summary:
 ---
 
 
-Ecosystem services are the benefits that people derive from ecosystems. Ecosystem services are organized
+**Ecosystem services** are the benefits that people derive from ecosystems. Ecosystem services are organized
 into four types: (i) provisioning services, which are the products people obtain from ecosystems and
 which may include food, freshwater, timbers, fibers, medicinal plants; (ii) regulating services, which are
 the benefits people obtain from the regulation of ecosystem processes and which may include surface

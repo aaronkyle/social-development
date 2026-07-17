@@ -4,7 +4,7 @@ date: 2005-10-20 03:38
 category: terminology
 tags:
 slug: sacred-sites
-summary: :
+summary: ""
 status: draft
 ---
 

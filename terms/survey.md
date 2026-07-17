@@ -4,7 +4,7 @@ date: 2005-10-13
 category: terminology
 tags: tools
 slug: survey
-summary: : a sampling, or partial collection, of facts, figures, or opinions
+summary: a sampling, or partial collection, of facts, figures, or opinions
 ---
 
 <!--
@@ -14,7 +14,7 @@ The term **survey** refers to a sampling, or partial collection, of facts, figur
 
 ### References
 
-* Farlex Inc. "[Survey](www.thefreedictionary.com/survey)." The Free Dictionary.  Huntingdon Valley: Farlex, Inc. Available online at: www.thefreedictionary.com/survey <br /> [*Last Accessed* 8 October 2013].
+* Farlex Inc. "[Survey](https://www.thefreedictionary.com/survey)." The Free Dictionary.  Huntingdon Valley: Farlex, Inc. Available online at: www.thefreedictionary.com/survey <br /> [*Last Accessed* 8 October 2013].
 
 ---
 
@@ -23,7 +23,7 @@ date: 2005-10-13
 category: terminology
 tags: tools, engagement
 slug: survey
-summary: :
+summary:
 status: draft
 
 '''Surveys''' are a good method for collecting information in a standardized form from groups of people using a questionnaire or interview. A small amount of information is usually gathered from a large number of people using set questions. Short categorized questions on key issues allow answers to be easily filled in, tabulated and analyzed. Surveys allow a statistically significant sample of information to be collected for comparison, to identify larger patterns and structures and to monitor change.<ref name="Payne et al 2004">Payne, Geoffrey; Majale, Michael (eds). 2004. The Urban Housing Manual: Making Regulatory Frameworks Work for the Poor. London: Earthscan.</ref>

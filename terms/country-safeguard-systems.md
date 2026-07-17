@@ -4,7 +4,7 @@ date: 2006-07-05 23:48
 category: terminology
 tags: ADB
 slug: country-safeguard-systems
-summary: : national, subnational, or sectoral implementing institutions and relevant laws, regulations, rules, and procedures that pertain to the policy areas of environmental and social safeguards
+summary: national, subnational, or sectoral implementing institutions and relevant laws, regulations, rules, and procedures that pertain to the policy areas of environmental and social safeguards
 ---
 
 

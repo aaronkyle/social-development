@@ -4,7 +4,7 @@ date: 2011-09-18 13:18
 category: terminology
 tags:
 slug: historic-site
-summary: : aboveground architectural features (e.g., house, temple, market place, church) that have reached a designated age or have other characteristics that make them ‘historic’ and therefore worthy of consideration as a heritage resource
+summary: aboveground architectural features (e.g., house, temple, market place, church) that have reached a designated age or have other characteristics that make them ‘historic’ and therefore worthy of consideration as a heritage resource
 status: draft
 ---
 
@@ -36,6 +36,5 @@ Subtypes:
 Adapted from: “Culture Heritage and Environmental Assessment”. Environmental Sourcebook [Update 8], World Bank, September 1994. See also: http://www.adb.org/documents/Guidelines/Environmental_Assessment/Cultural_Heritage.pdf
 
 International Finance Corporation. 2006. "Glossary of Terms." ''[http://www.ifc.org/wps/wcm/connect/9a9464804885598c8364d36a6515bb18/Glossary%2Bof%2BTerms.pdf?MOD=AJPERES&attachment=true&id=1322803900995 IFC Policy & Performance Standards and Guidance Notes]''. Washington D.C.: International Finance Corporation.[Accessed 1 November 2013]
-
 
 

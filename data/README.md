@@ -1,12 +1,6 @@
 # data
 
-Social data have historically been "bad"—not necessarily because no data exist, but because relevant data are often difficult to find and difficult to use well.
-
-- Useful datasets can be scattered across institutional websites, reports, spreadsheets, and one-off project archives.
-- The available data are often incomplete, inconsistently defined, or insufficiently disaggregated for social analysis.
-- Many datasets are published in PDFs or proprietary spreadsheet formats rather than through stable, programmatically accessible services.
-- Sources, interfaces, and links change, and datasets are not always maintained consistently over time.
-- These limitations make comparison and longitudinal analysis particularly difficult.
+Social indicator data are rarely done well. Useful datasets can be scattered across institutional websites, reports, spreadsheets, and one-off project archives. The available data are often incomplete, inconsistently defined, or insufficiently disaggregated for social analysis. Many datasets are published in PDFs or proprietary spreadsheet formats rather than through stable, programmatically accessible services. Sources, interfaces, and links change, and datasets are not always maintained consistently over time. These limitations make comparison and longitudinal analysis particularly difficult.
 
 As a social development practitioner, I have often had to find, capture, restructure, and compare data before I could begin to use them. Some of that historical work is stored in this repository.
 
@@ -17,6 +11,8 @@ This repository will not become a comprehensive data warehouse. Copying every po
 I will therefore gradually remove local copies of historical datasets as they cease to be useful here. Data that are still used by this site should not be retired until the relevant page or analysis has been identified and an appropriate replacement has been established.
 
 The longer-term goal is to maintain a [data source catalog](./data-source-catalog.md) that points readers toward useful sources and records enough information to judge whether a source is suitable for a particular analysis. The catalog will be developed gradually; the existing lists are historical starting points and should not yet be read as current endorsements.
+
+Please reach out to me if you are interested in this work! I would like to enjoin more people in discussion around the concept of 'social indicator data'.
 
 ## historical materials assembled here
 
@@ -34,5 +30,3 @@ The longer-term goal is to maintain a [data source catalog](./data-source-catalo
 
 - [social impact assessment baseline surveys](../thematic-issues/social-impact-assessment/baseline-surveys/README.md)
 - [social impact assessment methods](../thematic-issues/social-impact-assessment/methodology/README.md)
-
-Please reach out if you are interested in helping identify, review, or document useful social data sources.

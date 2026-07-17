@@ -20,7 +20,7 @@ The longer-term goal is to maintain a [data source catalog](./data-source-catalo
 
 ## historical materials assembled here
 
-- **ADB Key Indicators for Asia and the Pacific (2019):** country-level spreadsheets and CSV conversions covering economic, financial, social, environmental, and Sustainable Development Goal indicators across Asia and the Pacific. These files were assembled to make the country tables easier to inspect and reuse. Two folders contain overlapping parts of this work; the older `adb_key-indicators-2012` folder name does not accurately describe its contents. See the [ADB collection notes](./adb_key-indicators_2019/README.md).
+- **ADB Key Indicators for Asia and the Pacific (2019):** country-level spreadsheets and CSV conversions covering economic, financial, social, environmental, and Sustainable Development Goal indicators across Asia and the Pacific. These files were assembled to make the country tables easier to inspect and reuse. An older duplicate with the inaccurate folder name `adb_key-indicators-2012` has been removed; the retained collection is described in the [ADB collection notes](./adb_key-indicators_2019/README.md).
 
 - **Indonesia indicator workbooks:** selected World Development Indicators, country-level reference data, an environmental and social management system indicator comparison, and working lists of possible sources. These were assembled to compare national indicators and support project-oriented social and environmental analysis. They are historical working files rather than a maintained Indonesia database.
 

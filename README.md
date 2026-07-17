@@ -14,17 +14,16 @@ Currently, I am a solo author&mdash;doing my best to keep up with the changes an
 
 For those reading [via this site's front end](https://applied-anthro.com/), I am slowly building out navigation links and index files to guide your journey through this website. Please bear with me; I'll work it out.  Here are a few bits of orientation:
 
-[`terms/`](./terms/README.md) `#` definitional terminology<br/>
-[`social-policy/`](./social-policy/README.md) `#` clarifications of the organization of social policy among development finance institutions<br/>
-[`thematic-issues/`](./thematic-issues/README.md) `#`<br/>
-[`accountability-mechanisms/`](./accountability-mechanisms/README.md) `#`<br/>
-<!--
-[`country-safeguard-systems/`](./social-policy/country-safeguard-systems/README.md) `#` work on state-level social policy, including compilation of law and analysis of topical issues<br/>
-[`ifi-implementation-resources/`](./ifi-implementation-resources/README.md) `#`<br/>
-[`international-law_good-practice/`](./social-policy/international-law_good-practice/README.md) `#`<br/>
-[`data/`](./data/README.md) `#` data sets that relate to social development issues<br/>
-[`ref/`](./ref/README.md) `#` references and literature<br/>
--->
+- [`terms/`](./terms/README.md) `#` definitional terminology<br/>
+- [`social-policy/`](./social-policy/README.md) `#` clarifications of the organization of social policy among development finance institutions<br/>
+- [`thematic-issues/`](./thematic-issues/README.md) `#`<br/>
+
+- [`accountability-mechanisms/`](./accountability-mechanisms/README.md) `#`<br/>
+- [`country-safeguard-systems/`](./social-policy/country-safeguard-systems/README.md) `#` work on state-level social policy, including compilation of law and analysis of topical issues<br/>
+- [`ifi-implementation-resources/`](./ifi-implementation-resources/README.md) `#`<br/>
+- [`international-law_good-practice/`](./social-policy/international-law_good-practice/README.md) `#`<br/>
+- [`data/`](./data/README.md) `#` data sets that relate to social development issues<br/>
+- [`ref/`](./ref/README.md) `#` references and literature<br/>
 For those reading [via GitHub](https://github.com/aaronkyle/social-development), the repository structure will be apparent. 
 
 Thanks for visiting. Please let me know how this site can be improved!
